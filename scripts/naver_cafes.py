@@ -15,6 +15,7 @@ CHECKPOINT_FILE = "../data/api_scraper_checkpoint.json"
 OUTPUT_CSV = "../data/seoul_naver_cafes_api_scraped.csv"
 RAW_RESPONSES_DIR = "../data/raw_api_responses"
 
+
 # API Configuration
 BASE_URL = "https://map.naver.com/p/api/smart-around/places"
 HEADERS = {
