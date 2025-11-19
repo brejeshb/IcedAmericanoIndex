@@ -114,7 +114,7 @@ async def main():
         # '서울[1000:2000]',
         # '서울[2000:3000]',
         # '서울[3000:4000]',
-        '서울[4000:5000]',
+        # '서울[4000:5000]',
         # '세종',
         # '울산',
         # '인천',
@@ -124,11 +124,26 @@ async def main():
         # '천안',
         # '청주',
         # '춘천',
-        '포항'
+        # '포항',
+
+        # cities that I forgot
+        "강원",  #      1
+        "경북",  #    761
+        "전남",  #    158
+        "전북",  #    823
+        "충남",  #    948
+        "충북",  #    802
+
+        # The below 2 are somehow not present
+        # "경기",
+        # "경남",
+
     ]
     
     try:
-        df = pd.read_csv("../data/naver_cafes_api_scraped_v2.csv", encoding='utf-8-sig')
+        df = pd.read_csv("../data/remaining_naver_cafes_api_scraped.csv", encoding='utf-8-sig')
+        # df = pd.read_csv("../data/naver_cafes_api_scraped_v2.csv", encoding='utf-8-sig')
+        # df = pd.read_csv("../data/scraped_output4.csv", encoding='utf-8-sig')
         
         # Initialize columns if they don't exist
         if 'success' not in df.columns:
@@ -242,7 +257,7 @@ async def main():
     # before to conserve memory or use checkpoint files "scraped_outputN.csv"
     df = df[df['success'].isin(['true', 'later'])] 
 
-    df.to_csv("../data/scraped_output13.csv", index=False, encoding='utf-8-sig')
+    df.to_csv("../data/scraped_output14.csv", index=False, encoding='utf-8-sig')
     
     print("\n" + "=" * 60)
     print("SUMMARY")
@@ -251,7 +266,7 @@ async def main():
     print(f"Total Success:   {total_success}")
     print(f"Total Failed:    {total_failed}")
     print(f"Total Skipped:   {total_skipped}")
-    print(f"\nResults saved to: scraped_output13.csv")
+    print(f"\nResults saved to: scraped_output14.csv")
 
 
 if __name__ == "__main__":
