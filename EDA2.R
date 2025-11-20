@@ -11,6 +11,7 @@ library(jsonlite)
 library(purrr)
 library(stringr)
 library(cluster)
+
 '''
 Error: freetype-config not found.
 Please install FreeType with freetype-config script.
@@ -44,7 +45,7 @@ font_add("nanumgothic", regular = "NanumGothic.ttf")
 raw_scraped_marked <- read_csv("R/icedamericano/data/combined_scraped_output.csv")
 
 
-coffee_summary1 <- raw_scraped_marked %>%
+coffee_summary <- raw_scraped_marked %>%
   group_by(city) %>%
   summarise(
     total_scraped  = n(),
@@ -76,14 +77,14 @@ americano_prices <- raw_scraped_marked %>%
     americano_price_num = as.numeric(americano_price),
     # americano_price_num = ifelse(americano_price_num > 20000, NA, americano_price_num)
   ) %>%
-  semi_join(coffee_summary1 %>% filter(americano_count > 30), by = "city")
+  semi_join(coffee_summary %>% filter(americano_count > 30), by = "city")
 
 
 americano_city_stats <- americano_prices %>%
   filter(!is.na(americano_price_num)) %>%
   group_by(city) %>%
   summarise(
-    n = n(),
+    n = sum(americano, na.rm = TRUE),
     mean_price = mean(americano_price_num),
     median_price = median(americano_price_num),
     min_price = min(americano_price_num),
@@ -96,7 +97,7 @@ americano_city_stats <- americano_prices %>%
 grdp_df <- read_csv("~/R/icedamericano/data/GDP/gdrp_2022_ko.csv") %>%
   rename(city = City, grdp = value)
 
-coffee_summary <- raw_scraped_marked %>%
+coffee_summary1 <- raw_scraped_marked %>%
   group_by(city) %>%
   summarise(americano_count = n())
 
@@ -189,3 +190,37 @@ ggplot(americano_normal, aes(x = factor(city, levels = city_order),
   theme_minimal(base_family = "nanumgothic") +
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 
+
+
+# Americano Affordability = (GDRP/ Price) /365
+# G = 1/(2(number of cities)^2 avgBMA) SUmmation []
+affordability <- combined_data %>%
+mutate (americano_affordability = c(( combined_data$grdp*1000000 / combined_data$mean_price) / 365))
+
+
+
+calculate_gini <- function(affordability_values) {
+
+  affordability_values <- affordability_values[!is.na(affordability_values)]
+
+  n <- length(affordability_values)
+
+  total_sum <- 0
+  
+  for (i in 1:n) {
+    for (j in 1:n) {
+      total_sum <- total_sum + abs(affordability_values[i] - affordability_values[j])
+    }
+  }
+  
+
+  mean_n <- mean(affordability_values)
+ 
+  gini <- total_sum / (2 * n^2 * mean_n)
+  
+  return(gini)
+}
+
+gini_coefficient <- calculate_gini(affordability$americano_affordability)
+print(gini_coefficient)
+# 0.2 close to perfect equality actually
