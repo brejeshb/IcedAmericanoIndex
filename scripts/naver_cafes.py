@@ -12,7 +12,7 @@ import math
 
 # Configuration
 CHECKPOINT_FILE = "../data/api_scraper_checkpoint.json"
-OUTPUT_CSV = "../data/seoul_naver_cafes_api_scraped.csv"
+OUTPUT_CSV = "../data/remaining_naver_cafes_api_scraped2.csv"
 RAW_RESPONSES_DIR = "../data/raw_api_responses"
 
 
@@ -51,14 +51,23 @@ CITY_CENTERS = {
 
 
     # We have grdp data but we forgot
-    "충남": {"lat": 36.8145, "lng": 127.1469},
-    "전남": {"lat": 34.9917, "lng": 126.7157},
-    "충북": {"lat": 36.6424, "lng": 127.4890},
-    "경북": {"lat": 36.5656, "lng": 128.7260},
-    "경기": {"lat": 37.4138, "lng": 127.5183},
-    "경남": {"lat": 35.4606, "lng": 128.2132},
-    "강원": {"lat": 37.8228, "lng": 128.1555},
-    "전북": {"lat": 35.8251, "lng": 127.1500}
+    # "충남": {"lat": 36.8145, "lng": 127.1469},
+    # "전남": {"lat": 34.9917, "lng": 126.7157},
+    # "충북": {"lat": 36.6424, "lng": 127.4890},
+    # "경북": {"lat": 36.5656, "lng": 128.7260},
+    # "경기": {"lat": 37.4138, "lng": 127.5183},
+    # "경남": {"lat": 35.4606, "lng": 128.2132},
+    # "강원": {"lat": 37.8228, "lng": 128.1555},
+    # "전북": {"lat": 35.8251, "lng": 127.1500},
+
+    "수원": {"lat": 37.2911, "lng": 127.0089},
+    "성남": {"lat": 37.4386, "lng": 127.1378}, 
+    "고양": {"lat": 37.6564, "lng": 126.8350},
+    "용인": {"lat": 37.2411, "lng": 127.1776}, 
+
+    "진주": {"lat": 35.1799, "lng": 128.1076},
+    "김해": {"lat": 35.2285, "lng": 128.8894},
+    "거제": {"lat": 34.8800, "lng": 128.6211},
 }
 
 
@@ -365,14 +374,24 @@ def main():
 
         # Have GRDP Data but forgot
 
-        "충남": {"radius_km": 1.0, "box_size_km": 0.5},
-        "전남": {"radius_km": 1.0, "box_size_km": 0.5},
-        "충북": {"radius_km": 1.0, "box_size_km": 0.5},
-        "경북": {"radius_km": 1.0, "box_size_km": 0.5},
-        "경기": {"radius_km": 1.0, "box_size_km": 0.5},
-        "경남": {"radius_km": 1.0, "box_size_km": 0.5},
-        "강원": {"radius_km": 1.0, "box_size_km": 0.5},
-        "전북": {"radius_km": 1.0, "box_size_km": 0.5}
+        # "충남": {"radius_km": 1.0, "box_size_km": 0.5},
+        # "전남": {"radius_km": 1.0, "box_size_km": 0.5},
+        # "충북": {"radius_km": 1.0, "box_size_km": 0.5},
+        # "경북": {"radius_km": 1.0, "box_size_km": 0.5},
+        # "경기": {"radius_km": 1.0, "box_size_km": 0.5},
+        # "경남": {"radius_km": 1.0, "box_size_km": 0.5},
+        # "강원": {"radius_km": 1.0, "box_size_km": 0.5},
+        # "전북": {"radius_km": 1.0, "box_size_km": 0.5},
+
+
+        "수원": {"radius_km": 1.0, "box_size_km": 0.5},
+        "성남": {"radius_km": 1.0, "box_size_km": 0.5},
+        "고양": {"radius_km": 1.0, "box_size_km": 0.5},
+        "용인": {"radius_km": 1.0, "box_size_km": 0.5}, 
+
+        "진주": {"radius_km": 1.0, "box_size_km": 0.5},
+        "김해": {"radius_km": 1.0, "box_size_km": 0.5},
+        "거제": {"radius_km": 1.0, "box_size_km": 0.5},
 
     }
 
@@ -449,3 +468,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+    

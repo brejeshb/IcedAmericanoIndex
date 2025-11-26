@@ -127,21 +127,29 @@ async def main():
         # '포항',
 
         # cities that I forgot
-        "강원",  #      1
-        "경북",  #    761
-        "전남",  #    158
-        "전북",  #    823
-        "충남",  #    948
-        "충북",  #    802
+        # "강원",  #      1
+        # "경북",  #    761
+        # "전남",  #    158
+        # "전북",  #    823
+        # "충남",  #    948
+        # "충북",  #    802
 
         # The below 2 are somehow not present
+        # Update: the 2 missing province gyeonggi and gyeong nam have now been update with cities within it.
         # "경기",
         # "경남",
 
+        "거제",
+        "고양",
+        "김해",
+        "성남",
+        "수원",
+        "용인",
+        "진주",
     ]
     
     try:
-        df = pd.read_csv("../data/remaining_naver_cafes_api_scraped.csv", encoding='utf-8-sig')
+        df = pd.read_csv("../data/remaining_naver_cafes_api_scraped2.csv", encoding='utf-8-sig')
         # df = pd.read_csv("../data/naver_cafes_api_scraped_v2.csv", encoding='utf-8-sig')
         # df = pd.read_csv("../data/scraped_output4.csv", encoding='utf-8-sig')
         
@@ -257,7 +265,7 @@ async def main():
     # before to conserve memory or use checkpoint files "scraped_outputN.csv"
     df = df[df['success'].isin(['true', 'later'])] 
 
-    df.to_csv("../data/scraped_output14.csv", index=False, encoding='utf-8-sig')
+    df.to_csv("../data/scraped_output15.csv", index=False, encoding='utf-8-sig')
     
     print("\n" + "=" * 60)
     print("SUMMARY")
@@ -266,7 +274,7 @@ async def main():
     print(f"Total Success:   {total_success}")
     print(f"Total Failed:    {total_failed}")
     print(f"Total Skipped:   {total_skipped}")
-    print(f"\nResults saved to: scraped_output14.csv")
+    print(f"\nResults saved to: scraped_output15.csv")
 
 
 if __name__ == "__main__":
