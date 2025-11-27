@@ -3,8 +3,8 @@ rm(list = ls()); graphics.off(); cat("\014")
 
 library(readr)
 library(dplyr)
-library(sf)
-library(geodata)
+library(sf) # for reading shapefiles
+library(geodata) # used geodata as raster is outdated. This is to load GADM data
 # terra is an underlying package for geodata, mine was autoloaded
 library(ggplot2)
 library(viridis)
@@ -24,15 +24,15 @@ In Debian/Ubuntu-like systems, you can use
 to install FreeType
 '''
 
-install.packages(c("sysfonts", "showtextdb", "showtext"))
+# install.packages(c("sysfonts", "showtextdb", "showtext"))
 library(showtext)
 showtext_auto()
 
 library(extrafont)
 
-font_import(pattern = "Nanum", prompt = FALSE)  # This may take a few minutes
+# font_import(pattern = "Nanum", prompt = FALSE)  # This may take a few minutes
 
-loadfonts()
+# loadfonts()
 
 # Check available fonts
 
@@ -40,7 +40,8 @@ fonts()[grep("Nanum", fonts())]
 
 font_add("nanumgothic", regular = "NanumGothic.ttf")
 
-raw_scraped_marked <- read_csv("R/icedamericano/data/combined_scraped_output.csv")
+#Need to set working directory before this step
+raw_scraped_marked <- read_csv("./data/combined_scraped_output.csv")
 # 경기 is missing fyi, it failed in the scrape. Hence it disappeared from the df.
 
 
@@ -91,30 +92,11 @@ americano_city_stats <- americano_prices %>%
   )
 
 
-
-
 grdp_df <- read_csv("~/R/icedamericano/data/GDP/gdrp_2022_ko.csv") %>%
   rename(city = City, grdp = value)
-
-
-# The mapping dataframe maps our city names in our scraped data to province names on kor1_sf
-
-mapping_df <- data.frame(
-  city = c("강릉", "광주", "천안", "서울", "청주", "춘천", "포항", 
-           "강원", "경북", "전남", "전북", "충남", "충북", 
-           "대구", "대전", "세종", "부산", "울산", "인천", 
-           "전주", "제주", "창원"),
-  province_match = c("Gangwon-do", "Gwangju", "Chungcheongnam-do", "Seoul", 
-                     "Chungcheongbuk-do", "Gangwon-do", "Gyeongsangbuk-do",
-                     "Gangwon-do", "Gyeongsangbuk-do", "Jeollanam-do", 
-                     "Jeollabuk-do", "Chungcheongnam-do", "Chungcheongbuk-do",
-                     "Daegu", "Daejeon", "Sejong", "Busan", "Ulsan", "Incheon",
-                     "Jeollabuk-do", "Jeju", "Gyeongsangnam-do"),
-  stringsAsFactors = FALSE
-)
-
 # Video reference for code: https://www.youtube.com/watch?v=JO7N-4P2r4M
-gadm_path <- "/home/brejeshb2023/R/icedamericano/maps"
+# if u prefer to download directly, download at http://gadm.org/download_country.html
+gadm_path <- "./maps"
 kor1 <- gadm(country="KOR", level=1, path=gadm_path)
 kor2 <- gadm(country="KOR", level=2, path=gadm_path)
 kor0 <- gadm(country="KOR", level=0, path=gadm_path)
@@ -122,6 +104,36 @@ kor0 <- gadm(country="KOR", level=0, path=gadm_path)
 kor0_sf <- st_as_sf(kor0)
 kor1_sf <- st_as_sf(kor1)
 kor2_sf <- st_as_sf(kor2)
+
+# see the provinces names using
+# unique(kor1_sf$NAME_1)
+
+# The mapping dataframe maps our city names in our scraped data to province names on kor1_sf
+
+mapping_df <- data.frame(
+  city = c("강릉", "광주", "천안", "서울", "청주", "춘천", "포항", 
+           "강원", "경북", "전남", "전북", "충남", "충북", 
+           "대구", "대전", "세종", "부산", "울산", "인천", 
+           "전주", "제주", "창원" ,      
+
+
+           "거제","진주","김해",
+
+        "고양",
+        "성남",
+        "수원",
+        "용인"),
+  province_match = c("Gangwon-do", "Gwangju", "Chungcheongnam-do", "Seoul", 
+                     "Chungcheongbuk-do", "Gangwon-do", "Gyeongsangbuk-do",
+                     "Gangwon-do", "Gyeongsangbuk-do", "Jeollanam-do", 
+                     "Jeollabuk-do", "Chungcheongnam-do", "Chungcheongbuk-do",
+                     "Daegu", "Daejeon", "Sejong", "Busan", "Ulsan", "Incheon",
+                     "Jeollabuk-do", "Jeju", "Gyeongsangnam-do", "Gyeongsangnam-do", "Gyeongsangnam-do", "Gyeongsangnam-do",
+                     "Gyeonggi-do", "Gyeonggi-do", "Gyeonggi-do", "Gyeonggi-do"),
+  stringsAsFactors = FALSE
+)
+
+
 
 
 combined_data <- coffee_summary %>%
@@ -148,14 +160,30 @@ provincial_coffee_data <- city_to_province %>%
   )
 
 
+# For GRDP - direct province mapping (no cities)
 grdp_provincial <- grdp_df %>%
-  left_join(mapping_df %>% select(city, province_match), by = "city") %>%
-  filter(!is.na(province_match)) %>%
-  group_by(province_match) %>%
-  summarise(grdp = first(grdp))
+  mutate(province_match = case_when(
+    city == "강원" ~ "Gangwon-do",
+    city == "경북" ~ "Gyeongsangbuk-do",
+    city == "경기" ~ "Gyeonggi-do",
+    city == "경남" ~ "Gyeongsangnam-do",
+    city == "전남" ~ "Jeollanam-do",
+    city == "전북" ~ "Jeollabuk-do",
+    city == "충남" ~ "Chungcheongnam-do",
+    city == "충북" ~ "Chungcheongbuk-do",
+    city == "광주" ~ "Gwangju",
+    city == "대구" ~ "Daegu",
+    city == "대전" ~ "Daejeon",
+    city == "세종" ~ "Sejong",
+    city == "부산" ~ "Busan",
+    city == "울산" ~ "Ulsan",
+    city == "인천" ~ "Incheon",
+    city == "서울" ~ "Seoul",
+    city == "제주" ~ "Jeju"
+  )) %>%
+  select(province_match, grdp)
 
-
-individual_income <- read_csv("~/R/icedamericano/data/Individual_Income.csv")
+individual_income <- read_csv("./data/Individual_Income.csv")
 
 individual_income_clean <- individual_income %>%
   rename(
@@ -165,7 +193,7 @@ individual_income_clean <- individual_income %>%
   filter(province_name != "Whole country") %>%
   mutate(individual_income = as.numeric(individual_income))
 
-# Create mapping for income data
+# Create mapping for income data due to name mismatch
 income_mapping <- data.frame(
   province_name = c("Seoul", "Busan", "Daegu", "Incheon", "Gwangju", "Daejeon", 
                     "Ulsan", "Sejong City", "Gyeonggi-do", "Gangwon State", 
@@ -193,11 +221,14 @@ kor1_with_data <- kor1_sf %>%
 
 
 
-# Map 1: Cafe Counts by Province
+# Map 1: Cafe Counts by Province, actually this cafe count has caveats. It is just the cafes
+# that we have collected from bounding box api calling, For true cafe count representation
+# refer to Cafes_Raw.EDA.R
+
 ggplot() +
   geom_sf(data = kor0_sf, fill = NA, color = "black", size = 0.5) +
   geom_sf(data = kor1_with_data, aes(fill = americano_count), color = "white", size = 0.1) +
-  scale_fill_viridis_c(option = "C", name = "Cafe Count", na.value="grey90") +
+  scale_fill_viridis_c(option = "plasma", name = "Cafe Count", na.value="grey90") +
   labs(
     title = "Cafe Counts by Province",
     caption = "Source: Naver & GADM"
@@ -216,15 +247,21 @@ ggplot() +
   theme_minimal()
 
 # Histogram: Price Distribution (using original city-level data for granularity)
+# we choose not to filter the histogram by > 100 as this is a real coffee price
 americano_normal <- americano_prices %>%
   filter(
     #americano_price_num > 100 &
       americano_price_num <= 10000)
 
+mean_price <- mean(americano_normal$americano_price_num, na.rm = TRUE)
+
 ggplot(americano_normal, aes(x = americano_price_num)) +
   geom_histogram(binwidth = 200, fill = "skyblue", color = "black") +
+  # vertical line for mean
+  geom_vline(aes(xintercept = mean_price), linetype = "dashed", color = "red", size = 1) +
+  annotate("text", x = mean_price, y = -15, label = paste("Mean:", round(mean_price, 2)), color = "red", angle = 0, vjust = 0) +
   labs(
-    title = "Americano Price Distribution",
+    title = "Americano Price Distribution in korea",
     x = "Price (KRW)",
     y = "Count"
   ) +
@@ -289,6 +326,8 @@ plot_data <- affordability_provincial %>%
 
 scale_factor <- max(plot_data$grdp, na.rm = TRUE) / max(plot_data$individual_income, na.rm = TRUE)
 
+# We plot a double Y axis graph to see the change in ranking between GRDP and Income
+# Apparently, you can stack any number of plots over another using a "+"
 ggplot(plot_data, aes(x = reorder(province_match, grdp))) +
   geom_col(aes(y = grdp, fill = "GRDP"), alpha = 0.7) +
   geom_line(aes(y = individual_income * scale_factor, group = 1, color = "Individual Income"), 
@@ -297,14 +336,14 @@ ggplot(plot_data, aes(x = reorder(province_match, grdp))) +
              size = 3) +
   scale_y_continuous(
     name = "GRDP (Million KRW)",
-    sec.axis = sec_axis(~./scale_factor, name = "Individual Income (Thousand KRW)")
+    sec.axis = sec_axis(~./scale_factor, name = "Individual Income (Million KRW)")
   ) +
   scale_fill_manual(values = c("GRDP" = "steelblue")) +
   scale_color_manual(values = c("Individual Income" = "coral")) +
   labs(
     title = "GRDP vs Individual Income by Province",
     x = "Province",
-    caption = "Source: Korean Statistical Data"
+    caption = "Source: KOSIS"
   ) +
   theme_minimal(base_family = "nanumgothic") +
   theme(
@@ -327,7 +366,7 @@ ggplot() +
                        na.value = "grey90") +
   labs(
     title = "Individual Income by Korean Province",
-    caption = "Source: Korean Statistical Data & GADM"
+    caption = "Source: KOSIS & GADM"
   ) +
   theme_minimal()
 
@@ -335,11 +374,11 @@ ggplot() +
 ggplot() +
   geom_sf(data = kor0_sf, fill = NA, color = "black", size = 0.5) +
   geom_sf(data = kor1_with_full_data, aes(fill = grdp), color = "white", size = 0.1) +
-  scale_fill_viridis_c(option = "magma", name = "GRDP\n(Million KRW)", 
+  scale_fill_viridis_c(option = "viridis", name = "GRDP\n(Million KRW)", 
                        na.value = "grey90") +
   labs(
     title = "GRDP by Korean Province",
-    caption = "Source: Korean Statistical Data & GADM"
+    caption = "Source: KOSIS & GADM"
   ) +
   theme_minimal()
 
@@ -349,12 +388,12 @@ ggplot() +
   geom_sf(data = kor1_with_full_data, aes(fill = americano_affordability_income), 
           color = "white", size = 0.1) +
   scale_fill_viridis_c(option = "viridis", 
-                       name = "Daily Americanos\nAffordable", 
+                       name = "Number of \namericanos", 
                        na.value = "grey90") +
   labs(
     title = "Americano Affordability by Individual Income",
     subtitle = "Number of Americanos affordable per day based on annual income",
-    caption = "Source: Calculated from Individual Income & Mean Americano Price"
+    caption = "Source: KOSIS, Naver and GADM"
   ) +
   theme_minimal()
 
@@ -364,23 +403,23 @@ ggplot() +
   geom_sf(data = kor1_with_full_data, aes(fill = americano_affordability_grdp), 
           color = "white", size = 0.1) +
   scale_fill_viridis_c(option = "plasma", 
-                       name = "Daily Americanos\nAffordable", 
+                       name = "Number of \namericanos", 
                        na.value = "grey90") +
   labs(
     title = "Americano Affordability by GRDP",
     subtitle = "Number of Americanos affordable per day based on GRDP",
-    caption = "Source: Calculated from GRDP & Mean Americano Price"
+    caption = "Source: KOSIS, Naver and GADM"
   ) +
   theme_minimal()
 
 
-
+# Filter out NA values and prep data for correlation
 cor_data <- affordability_provincial %>%
   filter(!is.na(mean_price) & !is.na(grdp) & !is.na(individual_income)) %>%
-  select(province_match, mean_price, median_price, grdp, individual_income, 
-         americano_affordability_grdp, americano_affordability_income)
+  select(province_match, mean_price, median_price, grdp, individual_income) 
+         #americano_affordability_grdp, americano_affordability_income)
 
-cat("\n=== CORRELATION ANALYSIS ===\n\n")
+# CORRELATION
 
 cor_mean_grdp <- cor(cor_data$mean_price, cor_data$grdp, use = "complete.obs")
 cat("Mean Price vs GRDP: ", round(cor_mean_grdp, 4), "\n")
@@ -394,30 +433,31 @@ cat("Median Price vs GRDP: ", round(cor_median_grdp, 4), "\n")
 cor_median_income <- cor(cor_data$median_price, cor_data$individual_income, use = "complete.obs")
 cat("Median Price vs Individual Income: ", round(cor_median_income, 4), "\n")
 
+# actually this is pretty useless
 cor_grdp_income <- cor(cor_data$grdp, cor_data$individual_income, use = "complete.obs")
 cat("GRDP vs Individual Income: ", round(cor_grdp_income, 4), "\n\n")
 
 # Create correlation matrix
-# cor_matrix <- cor(cor_data %>% select(-province_match), use = "complete.obs")
-# print(round(cor_matrix, 3))
+cor_matrix <- cor(cor_data %>% select(-province_match), use = "complete.obs")
+print(round(cor_matrix, 3))
 
 library(reshape2)
 cor_matrix_melt <- melt(cor_matrix)
 
-# # Plot heatmap
-# ggplot(cor_matrix_melt, aes(Var1, Var2, fill = value)) +
-#   geom_tile() +
-#   scale_fill_gradient2(low = "red", high = "blue", mid = "white", midpoint = 0, limit = c(-1, 1)) +
-#   geom_text(aes(label = round(value, 2)), color = "black", size = 3) +
-#   theme_minimal() +
-#   theme(axis.text.x = element_text(angle = 45, hjust = 1),
-#         axis.text.y = element_text(angle = 45, hjust = 1)) +
-#   labs(
-#     title = "Correlation Heatmap",
-#     fill = "Correlation\nCoefficient",
-#     x = NULL,
-#     y = NULL
-#   )
+# Plot heatmap
+ ggplot(cor_matrix_melt, aes(Var1, Var2, fill = value)) +
+   geom_tile() +
+   scale_fill_gradient2(low = "red", high = "blue", mid = "white", midpoint = 0, limit = c(-1, 1)) +
+   geom_text(aes(label = round(value, 2)), color = "black", size = 3) +
+   theme_minimal() +
+   theme(axis.text.x = element_text(angle = 45, hjust = 1),
+         axis.text.y = element_text(angle = 45, hjust = 1)) +
+   labs(
+     title = "Correlation Heatmap",
+     fill = "Correlation\nCoefficient",
+     x = NULL,
+     y = NULL
+   )
 
 # Scatter plots
 p1 <- ggplot(cor_data, aes(x = grdp, y = mean_price)) +
@@ -437,7 +477,7 @@ p2 <- ggplot(cor_data, aes(x = individual_income, y = mean_price)) +
   geom_smooth(method = "lm", se = FALSE, color = "darkred") +
   labs(
     title = "Mean Americano Price vs Individual Income",
-    x = "Individual Income (Thousand KRW)",
+    x = "Individual Income (Million KRW)",
     y = "Mean Price (KRW)",
     subtitle = paste0("Correlation: r = ", round(cor_mean_income, 3))
   ) +
@@ -461,7 +501,7 @@ p4 <- ggplot(cor_data, aes(x = individual_income, y = median_price)) +
   geom_smooth(method = "lm", se = FALSE, color = "darkviolet") +
   labs(
     title = "Median Americano Price vs Individual Income",
-    x = "Individual Income (Thousand KRW)",
+    x = "Individual Income (Million KRW)",
     y = "Median Price (KRW)",
     subtitle = paste0("Correlation: r = ", round(cor_median_income, 4))
   ) +
