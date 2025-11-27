@@ -1,0 +1,819 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 11,
+      "count": 11,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 127.1776,
+          "minY": 37.2365954954955,
+          "maxX": 127.18325824274311,
+          "maxY": 37.2411
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "127.18042912137156;37.238847747747755",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1077429363",
+        "name": "역북370",
+        "x": "127.1798824",
+        "y": "37.2374371",
+        "distance": 0.164,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 247,
+        "averagePrice": 5000,
+        "address": "경기도 용인시 처인구 역북동 370-3 2층",
+        "roadAddress": "경기도 용인시 처인구 중부대로 1216",
+        "abbrAddress": "역북동 370-3 2층",
+        "shortAddress": [
+          "경기 용인시 처인구",
+          "중부대로 1216"
+        ],
+        "displayContext": [],
+        "labelTheme": "데이트 맛집",
+        "microReviews": [
+          "건강 가득한 훈제연어 샐러드의 매력"
+        ],
+        "cardDescription": "건강 가득한 훈제연어 샐러드의 매력",
+        "description": "럭셔리한 분위기의 새로운 힐링 공간, 역북370카페 코업호텔 2층 로비  용인시 코업호텔 2층에 새롭게 오픈한 역북370카페는 세련된 인테리어와 고급스러운 분위기로 호텔 이용객뿐만 아니라 외 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMjNfMTA0/MDAxNzYzODY0MTA2Mzkw.nLgjcXF0Ug5MBtrdhfjB-QiuqrXGkQAxMbQbJcRy4SEg.rKbHcOfu4gJh9XVPpiVhgOwR9cqJh8PkDzPs22WzBk8g.JPEG/20251109_151802.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDhfMzMg/MDAxNzU5ODk0MDkxNzcy.-XJmF7bFyvHw-UOu4yivHdkx8Q6mpgcr_RpuZ-vgdOAg.KSvqLpPhH-SK6DV9iJ88G3CpJ2Lua0WLEinRlgMQlPkg.JPEG/20251008_110745.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250417_10/1744893750341DdMuv_JPEG/30CE8F21-3355-4185-A52B-94D35B6C38E2.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDhfMjgz/MDAxNzU3MzA0OTQwMzgx.FRo8mwDL7_BT0M55sSmgEspCSefvOHa8Vm3QwXw4wg0g.pr1k2SdrxLxLiY5CiyUdO8eHSbFgGwZ7EQFCr0sA_Rsg.JPEG/20250830_105539.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250702_160/1751429060304dpIYK_JPEG/%BD%C3%B1%D7%B4%CF%C3%B3_%BA%ED%B7%A2%C6%DB%BD%BA%C6%AE-2.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjJfMTk5/MDAxNzQ3OTA1NjU1NTkx.RpfL4niWvTbU6LHr9ZZk1S9m9Dre1v4NSZWQs2w-Eo4g.op4uB_mkfKQfcfLtAjpyRVeL2ZRsybl1Zr6j4kVnzkIg.JPEG/20250522_165429.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250612_237/1749737862934K27k2_JPEG/%BD%AC%B8%B2%C7%C1_%B7%CE%C1%A6-2.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDFfNzAg/MDAxNzU5MzAxMzE2MDc4.56l8Ns7XLR_KKkZsri1wZwCbQ90xYnzta7JYnkaCIbEg.daZP96gkexLpGBhE2wNVlZkpkh71KBJ9vy8908QMJSUg.JPEG/20251001_130144.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDNfMjAz/MDAxNzQ2MjUwNDUzMzI3.X6QzEIzHLXDD1Me3T2MFddvw_yFNS7t_fjZZmMykqzUg.j4S2jlHr1x2kwZT9G-gocDCogTJTxAE-2jTSxsK8pfUg.JPEG/5256CA10-170A-4EE1-9F3C-B29FE68F50B3.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjVfMTU1/MDAxNzUwODI2MDY5NTE5.z8cDsqmJU4_t_aSNTWLwVIDh95rIMMpuWOGxV50_1UUg.M_aq9F4qaphol-WNAtiwp2HtOPqaJjQYeu2jSiic1Ncg.JPEG/IMG_20250625_130316.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "1294478834",
+        "name": "더트리니분식",
+        "x": "127.1804963",
+        "y": "37.2376224",
+        "distance": 0.136,
+        "categoryName": "종합분식",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220185"
+          ]
+        ],
+        "category": [
+          "분식",
+          "종합분식"
+        ],
+        "reviewCount": 357,
+        "averagePrice": 8000,
+        "address": "경기도 용인시 처인구 역북동 370-13 더트리니호텔 로비층",
+        "roadAddress": "경기도 용인시 처인구 중부대로 1218",
+        "abbrAddress": "역북동 370-13 더트리니호텔 로비층",
+        "shortAddress": [
+          "경기 용인시 처인구",
+          "중부대로 1218"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "경기도 용인시 처인구 역북동 370-13 더트리니호텔 로비층",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTFfMjU5/MDAxNzU0OTA1ODc2NjU1.cLm6yynj7iOZpC_ekhuZyFWv7Tvp_VGMCCXFwI7-Niog.G0PV0uarAFC9bpUpjtk8Z-uyhDYXU8YY6Wit6unbvdwg.JPEG/1000085692.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTlfMTUy/MDAxNzUyODkzOTc2NjM0.ZdpqrpVztolbCC5HcdJdrOieH3waqrGHjUzoo_QHVIMg.2oQ7CVXVrlUBx25ZLWFaRpRNL5nNnOucN1MWjSq1UGMg.JPEG/EADCE6A3-399F-4361-ADA1-1DC0017B6DCD.jpeg",
+          "https://ldb-phinf.pstatic.net/20250417_59/1744883531465UJQAx_JPEG/KakaoTalk_20250415_215832564_15.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDJfMjA0/MDAxNzQ2MTc2NDU0OTIw.z00EsMAiF9gDaqYChfHsEMYy9FoGkrCZTFnKxvaBqxQg.kAOE27VwViOV0ljrqPChPFGJ_3uCkYbh13N-YItErd8g.JPEG/1746176040070.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250417_244/1744883531475IQ9Kw_JPEG/KakaoTalk_20250415_215832564_01.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTZfMTU0/MDAxNzUyNjM0NDE2NjE3.knV7VxHFIkUo61ChIAUHhr0mXjuRtU6MUNFzBjFbtN0g.VFE1O7DoEs2m6OXLeL90MVTeEBeTmGbB7x0WHsKbeggg.JPEG/7D38DA91-6411-44B8-90D4-4EA6BFEC37F3.jpeg",
+          "https://ldb-phinf.pstatic.net/20250417_184/17448835323131HFni_JPEG/KakaoTalk_20250415_215832564_14.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTlfMTIw/MDAxNzUyODk2NzU5NDQy.UZ-iXVdQq2WZ9TGtCA5EtPlLAxWX0fEuv_mGycTmJswg.FSZv_JQObemnb5N74JOA-r_YAGD-6GFFMJ63KNLvoaMg.JPEG/1000024355.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTlfMTI0/MDAxNzUyODkzNjk2NzAx.c1MCi1S3vYbBvX7TuflD3s5C7tAxAIMtZ3xlJ4WSPIkg.R6KhZziEQ8PIJmrQUJS8e5g1I2a9Ft-whhvvz8rgtFcg.JPEG/1000034984.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220185",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 3,
+        "id": "31378381",
+        "name": "애플하우스",
+        "x": "127.1811839",
+        "y": "37.2403542",
+        "distance": 0.18,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221212"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 777,
+        "averagePrice": 5000,
+        "address": "경기도 용인시 처인구 역북동 360-3",
+        "roadAddress": "경기도 용인시 처인구 금학로 155",
+        "abbrAddress": "역북동 360-3",
+        "shortAddress": [
+          "경기 용인시 처인구",
+          "금학로 155"
+        ],
+        "displayContext": [
+          "카페",
+          "파스타",
+          "피자",
+          "분위기좋은"
+        ],
+        "labelTheme": "분위기 좋은",
+        "microReviews": [
+          "친절함과 세심한 배려가 돋보이는 공간"
+        ],
+        "cardDescription": "친절함과 세심한 배려가 돋보이는 공간",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDVfMTgx/MDAxNzU3MDgzODE4MTUz._dpPWfeewRrLQakguQ_2e3aPMzxDzCBaBiLXDbKl18wg.U6ZKB5MkjQgn6rhCRR3qnIZct0diIbqP7OIADzmADt8g.JPEG/20250903_111101.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDNfNTkg/MDAxNzU5NDkyMDU2MDMy.QkzpqbbQzqvYJBuxiSjefpUZriWkFSe_BxElrGYdItgg.7NKjV8s5AxtUdRp20cbWomPM6c9yX-lyMC-W6l5Z6qYg.JPEG/20250712_130715.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20150831_286/1440993947384pj6sR_JPEG/137160613168679_0.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjFfMyAg/MDAxNzU1Nzg0OTg2NzE4.plBK-UtS98VcPnviuhio8E1BLutML6Y-qI9IhgD0z7Mg.Cf1rAKDuVUnxJIBTpwFZWL2w5OxBrGKy7HctSCEcgOMg.JPEG/20250821_174509.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20150831_251/1440993947578gDpv7_JPEG/137160613168679_1.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDlfMjcg/MDAxNzQ5NDQwOTUzMzE4._AjY6eIE-Bwel8awL9go7vg8NTwB3fRvprO9tGm3vqog.N7ipn9Du3N5YWm-zAnxBQdyV2zDgS71uws5WNzqcpvcg.JPEG/20250609_113349.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20150831_129/1440993947793UhN3X_JPEG/137160613168679_2.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTVfMTMz/MDAxNzU1MjY2NjgyOTI2.GU8H61O0qn52zH60oXAe2BRkpFNK_V0g85NmlSPoe2cg.zUw_Dnm5s-hguLNb9lcTXwiFvzc7mRm3akA2kTIJxSgg.JPEG/Screenshot_20250815_224912_Samsung_Internet.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MThfNjgg/MDAxNzU4MTY2MjQ4MzA0.9yzg_N2MobBl6L1Y4CLHzfOYYxxyc--F_8fRRNnh3Uog.iECLiFPt4q0PECgLRb0NKpbMnOA9TnyhDObWLMoBQUYg.JPEG/20250915_175352.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjVfMTMz/MDAxNzQ1NTcyMDIwMTgy.GwiTzc9s6gKLuba-4qWOmqumIqFIkg9JcSN9QdGVBgAg.h3GXi2Ys7bqbs55oipHpwpIsplN5_km7R4AVezhQ_pAg.JPEG/IMG_20250425_175910.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221212",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "31378381",
+            "bodySummary": "용인시 드림스타트는 모든 아동의 공평한 출발 기회를 보장하기 위해 보건복지부, 용인시청, 지역사회가 함께하는 아동복지사업이에요. 각자의 취향에 맞는 음료를 주문했는데 앗!! 각각 ",
+            "url": "https://m.blog.naver.com/ejp8702/221741602656",
+            "nick": "잘나가는은정",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTAyMTBfNjUg/MDAxNjEyOTE4NjMzMTU1.y6X5JxxZDj776SLJeAGy0FV6lLmFL1TXidVm-eimqT0g.pbEHQ_4RB16RbOGjmOrDBDKJOhtvPpYlDYF-rJIzoZkg.PNG.ejp8702/profileImage.png"
+          },
+          {
+            "sid": "31378381",
+            "bodySummary": "달달해 보이입니당 애플하우스 페퍼민트~~~ 향을 즐기는 선영언니 메뉴^^ 3년 만에 여자 셋이 아이들까지 함께 만나니 시끌벅적 했지만 행복한 시간이였네욤~~ 애플하우스의 추억도 새",
+            "url": "https://m.blog.naver.com/wofks0726/220641626302",
+            "nick": "예민한걸",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20220721_297/wofks0726_1658383629114HiWgv_JPEG/wofks0726_1443709998535.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "id": "19088822",
+        "name": "용인돌솥설렁탕",
+        "x": "127.1790741",
+        "y": "37.2386524",
+        "distance": 0.122,
+        "categoryName": "곰탕,설렁탕",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220069",
+            "220696"
+          ]
+        ],
+        "category": [
+          "한식",
+          "곰탕,설렁탕"
+        ],
+        "reviewCount": 214,
+        "averagePrice": 0,
+        "address": "경기도 용인시 처인구 삼가동 238-20",
+        "roadAddress": "경기도 용인시 처인구 중부대로 1201-4",
+        "abbrAddress": "삼가동 238-20",
+        "shortAddress": [
+          "경기 용인시 처인구",
+          "중부대로 1201-4"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [
+          "구수한 설렁탕과 찰진 돌솥밥의 만남"
+        ],
+        "cardDescription": "구수한 설렁탕과 찰진 돌솥밥의 만남",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDNfOTkg/MDAxNzU0MjE2MzY2MTE2.iYahrVjEVbDB_-d_iZACXfG-diWYbeK1JQRZEBD_mc0g.oI3sUDlAFzh9kfjDuvoNuXUBS2enOEvLVIznH1tgmwEg.JPEG/20250803_184554.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMThfMjg3/MDAxNzYzNDYxNzAxMzgz.C8DfHRDAHo42aRiDtxspqwXCSXTwSavwvc9HXcwLLMgg.N7ocu0Fd4sRkY37GF71pFQWVWlXfl6xevHVMUujUUr8g.JPEG/1000019441.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjFfMjk2/MDAxNzUwNTA3MjQ0OTQ4.NNGRzCxnmLdXCv9GQbhyotxhjhMHylYzkd7Arv8SHgcg.6v83ISF_pE54i40VmU6gPDvPhF5G-7g1P-8EMDYHe2kg.JPEG/AB3A3ED8-8FC1-427C-904A-CD234A6DA45F.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjdfMTEz/MDAxNzQ4MzA3NjA1MjQ5.8aDoJMBySqFowROxzc99sYmDxO_CfgtP8xxitv0ep4og.KmmeoeEDM52saIBscVAuV-uuGRQIzrCvnIOAKwiMsnwg.JPEG/20250523_205032.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDRfMTA0/MDAxNzUxNjQwOTA0NzE3.aw9mlEw5G7tjG2ktBsItxnzBBAF506GXTHn0DJKoxsYg.MsVYLh_ijaffNU51kjsj9XeAPaRQlI9ZmmVhp6X2oG8g.JPEG/20250704_200517.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTlfMjg1/MDAxNzYwODY2OTI3NDI1.d72ZrTxS7A3A6hYtBRRT9vX4tG_UfuNDSZZG9VhRw70g.zSv0uuMHbN4QNV-J23EhWJX1q11myWqckR-cRJD2fZQg.JPEG/1000022451.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMThfMzcg/MDAxNzYwNzY5MjA2MTkw.wV8bOEk83JHULgLQ0EueEDn9_6M2dOHeQrGGNA91AA4g.py4Cq25f-7u0SB6nKr3WOP-XvNgmg2nygEp6dorb5lMg.JPEG/1000043905.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDVfMjY1/MDAxNzQ5MTE4NzMxMjYy.rldoGmvkm22y4_CsQi9qo-briNypiiq6e6XDM2aQ9-sg.AxuS90P2JJeQ94dbgwmZZgjx4QHdmyuG-Tn4NgsIbLYg.JPEG/20250605_184059.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220696",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "19088822",
+            "bodySummary": "지인의 피셜에 의하면 테이블도 꽤 많고 내부도 2층까지 있어서 점심때나 주말에 단체 손님도 많다는 용인 돌솥 설렁탕. 돌솥밥과 함께 나오는 설렁탕 맛집이라 설렁탕은 기본으로 시켜주",
+            "url": "https://m.blog.naver.com/risa8211/223161957412",
+            "nick": "의리부부",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA4MDhfNTgg/MDAxNjI4MzkxNTgxNjA1.2k8OzMHPvCQgESUuGIytnlt7sp6qiMqKqkQaSqjQDTUg.zSqeTMfkOT04kj8hZrQpOwwjoh_3pZIAVj9fIBDB474g.PNG.risa8211/profileImage.png"
+          },
+          {
+            "sid": "19088822",
+            "bodySummary": "용인돌솥설렁탕 경기도 용인시 처인구 중부대로 1201-4 <외부> 용인 돌솥설렁탕 아침식사 도가니탕 어르신우대 사회공헌지정식당 역북13통경로당 & 용인돌솥설렁탕 <영업시간 : 아침",
+            "url": "https://m.blog.naver.com/miru_sg/222974495539",
+            "nick": "진심산행",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjEwMDVfNzgg/MDAxNjY0OTMyNDE3NTky.2DdGgzzJ-pgpV51MHmv_u3F4c6gR-tlRzMaeQz1BEAcg.K9hfiOGAf20zpGIHzg5rgSLJcqTEPCpHrdXrdnwf78Mg.JPEG.kimsanggn1/profileImage.jpg"
+          },
+          {
+            "sid": "19088822",
+            "bodySummary": "곰탕, 설렁탕, 갈비탕 ㅋㅋ 원일가마솥설렁탕 경기 용인시 처인구 중부대로 1112 031-336-5233 사우나를 좋아하는 저. 사우나 가기전에 늦은 점심을 먹으러 용인 처인구 삼",
+            "url": "https://m.blog.naver.com/cute83girl/222569930828",
+            "nick": "어니스트",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxNzAyMDdfMTM3/MDAxNDg2NDY0MjU4NzI5.KVNDp6ozM61H3uB1gXws_5RS9lH-vz7Yc3UMJtIqwLog.TG5Atq7OLRTxiARP9AA9kq1V6jXEmyDarE_yWuh_mx4g.PNG.cute83girl/20170124_163554.png"
+          },
+          {
+            "sid": "19088822",
+            "bodySummary": "긴급SOS를.. 나의 교생실습 제자 YR님 (용인대유도학과?재학)에게 요청 그리하여 추천받은 맛집 되시겠다. 외관 앤다 가게 내부 만족 사람이 없을만한 시간이였음 4시쯤이였나 ㅋㅋ",
+            "url": "https://m.blog.naver.com/kurb7/221437012237",
+            "nick": "강승구가 간다",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxNzA5MDJfMjAz/MDAxNTA0MzIzMzU4ODg4.h8Yja31NJ8UcsUsRGhWbAX083S1HYMX_Lj8A0K83jwAg.nSiYkYATqhI2hLEREDx4FQ8cGWcGbObwESVLgg64muUg.JPEG.kurb7/profileImage.jpg"
+          },
+          {
+            "sid": "19088822",
+            "bodySummary": "경기도 용인시 처인구 삼가동238-20 용인설렁탕 맛이 정말 ㅜ.ㅜ",
+            "url": "https://m.blog.naver.com/kthotho/221049969588",
+            "nick": "애기아빠",
+            "profileImg": ""
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "id": "19086755",
+        "name": "명가칼국수",
+        "x": "127.1800606",
+        "y": "37.2382642",
+        "distance": 0.073,
+        "categoryName": "칼국수,만두",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220073",
+            "220712"
+          ]
+        ],
+        "category": [
+          "한식",
+          "칼국수,만두"
+        ],
+        "reviewCount": 36,
+        "averagePrice": 0,
+        "address": "경기도 용인시 처인구 역북동 365-61 명가의정부부대찌개",
+        "roadAddress": "경기도 용인시 처인구 중부대로 1215",
+        "abbrAddress": "역북동 365-61 명가의정부부대찌개",
+        "shortAddress": [
+          "경기 용인시 처인구",
+          "중부대로 1215"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경기도 용인시 처인구 역북동 365-61 명가의정부부대찌개",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMDRfMjU1/MDAxNzYyMjQ4MzEyMTc3.8fuEWtHLh5IRGnhO6cwMGYww1Kw4UY0fkDP5pxjzL4og.-Yft8eAzF_aZmfheT_59uWX98chgVWxkMQCmIrbr7Y8g.JPEG/AEFF2FCA-9D36-414B-B9A5-ACB73325C330.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjlfMjU3/MDAxNzUzNzkzMTEwNTkz.p3Km2aCrYKz2kkt_pCcWu9Kx76VKbTM5NRQUhsyR7Sgg.a7ZXu_Tm6iWHoPZFICNMGOTLIbewdhhCVxkTf2zpzNog.JPEG/26BB6786-5DF6-49BC-B84C-653DB9EDB4B2.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTNfMjEw/MDAxNzQ3MTMyMDU4MTY5.7KD7tKmMDn-tUJRUeqSJHXeeCU32UPLJtZpqMB2W3uMg.J2jl-rMnRGbCf4SQrjUl1JLImWz6RF-ZwCtn9dcBYF8g.JPEG/20250513_190112.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220712",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 6,
+        "id": "1818423155",
+        "name": "신세계로",
+        "x": "127.1805808",
+        "y": "37.2373164",
+        "distance": 0.171,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 25,
+        "averagePrice": 0,
+        "address": "경기도 용인시 처인구 역북동 370-13 THETRINYHOTEL B103호",
+        "roadAddress": "경기도 용인시 처인구 중부대로 1218",
+        "abbrAddress": "역북동 370-13 THETRINYHOTEL B103호",
+        "shortAddress": [
+          "경기 용인시 처인구",
+          "중부대로 1218"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "경기도 용인시 처인구 역북동 370-13 THETRINYHOTEL B103호",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTNfMjQ4/MDAxNzYwMzIwNzg1NzI0.w5Xaflp7SPFGRrwnRIVQiV2j5tJf5CflUHD82ed8T7Qg.ync544dG5-VaiX76u3gJr3Q_QznMs1NzBVLEGWJ41Owg.JPEG/82207573-A358-4789-8E8B-4323472DC7B0.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMDZfMTk2/MDAxNzYyMzk0NjQ3MDE3.3mjtrB0Xc5SDMZloO9F89jDQsH06x-9SjN7zTc6Byk8g.DMYBahVcpKTw90Ewvk8p-Ra_RzzrPiZhu8gRB6kc3jsg.JPEG/1AB10BC8-C691-4BD8-A6BC-419AE6E701ED.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 7,
+        "id": "1761349640",
+        "name": "뚝배기양평해장국 용인시청점",
+        "x": "127.1813293",
+        "y": "37.2382753",
+        "distance": 0.102,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220068",
+            "1002460"
+          ]
+        ],
+        "category": [
+          "한식",
+          "해장국"
+        ],
+        "reviewCount": 481,
+        "averagePrice": 22000,
+        "address": "경기도 용인시 처인구 역북동 366-6",
+        "roadAddress": "경기도 용인시 처인구 중부대로 1219-7",
+        "abbrAddress": "역북동 366-6",
+        "shortAddress": [
+          "경기 용인시 처인구",
+          "중부대로 1219-7"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경기도 용인시 처인구 역북동 366-6",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMTJfOTQg/MDAxNzYyOTI5ODc1MjE0.sVG2IZ_RJrUUo3upgxHCS3n0tHl2dInlLDF32IaPg10g.zYh83evxFxKBc8lCLwFYqYrXnGrODanhwXeCTM5sgDwg.JPEG/8005DA53-3469-4654-9EA0-F1526BF51C6E.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMThfOTgg/MDAxNzYzNDMwNDg4MTE3.wkPSVBLgdxOa2o9a5dq9H0RnF4bGy0mhB8ekB4RfgoIg.AfMLYooa2wfwuEdln62-BlVUlL11T-gARUYP3bVHyRIg.JPEG/F7CD112F-58EF-4A17-8278-98F657AB0D1E.jpeg",
+          "https://ldb-phinf.pstatic.net/20200213_276/1581559296993ndutz_JPEG/IeRvVXQBO1vsowcvxxhB4Wdn.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMTNfNTQg/MDAxNzYyOTY2NTA5Mzgz.djPfWLYjeDF2B0ge8B9KayjY7XvenakA1UPnIal-ovAg.UarncgUcTO9k6SU75Gqku24SsNfYSBXO-u2bVdMhcggg.JPEG/IMG_9581.jpeg",
+          "https://ldb-phinf.pstatic.net/20210105_116/1609835792833ytjzc_JPEG/eBu7b7euk9WvserUBX2FLddB.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTlfMzQg/MDAxNzQ3NjQ0MTU3NjIy.F0M53WOVf9L7VakfJWSjPe8I0HD94HtEqi9TXIrA22Qg.Ytn_U1yrMkpYsUP9IP_CDxnOnmyw4-50uTQlkQPsfqYg.JPEG/20250519_085811.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20210105_87/16098358247923rhp7_JPEG/bvr20093suYHCDqHEjRywtEb.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjJfMjQy/MDAxNzUzMTY3MDI2NDEz.Dh3bJLvEIHOgNFBuXOCMDNh8sBKlwBBqQWJ-QBK6pvUg.3Fmqona6J1K5w_FfNisK249ZmbBd7wuJ97hR_rs82JQg.JPEG/1000042997.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjBfNDgg/MDAxNzU1NjY1NjgzOTQ1.BuDIDKs01BQxwzpEjgOjQ7MSt-rXip0o7db_R4l3qoUg.AWrFhCoE4TbuuESDSN7tD-MEcLeuDKxOfG3HUMgzcDIg.JPEG/20250820_125944.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MThfMjU3/MDAxNzUwMTkzNTU3MzEx.Wcmpq1JHePX14Axog5ynCk2XIxX4zCUvW9q1B7ZFp5Ig.lI0kI0Aj0hj-z4Cw6ZONCBwsfODqKacQdMcg1thn2eEg.JPEG/20250617_190823.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1002460",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1761349640",
+            "bodySummary": "해장국집 폼 미쳐따이 얼핏보면 이자카야집 같기도 식사나오기전 밑반찬 양이 굉장히 넉넉했고 이래서 남자 손님들이 유독 많구나 하는 생각도 들었어요! 저는 일반해장국 시켰는데요 국물도",
+            "url": "https://m.blog.naver.com/junghyunny_/223291509969",
+            "nick": "쩡키",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTAzMDhfMjA3/MDAxNjE1MjA1NjkyMzYz.fR8-JIrUMQTpI1k_RiFb_wEt19ZbDq5LHMDO7sxT9Mwg.fcVycPUwID81LVZJm7pB4XPEI9Ta0NxNqA8XdadJcaEg.PNG.jypark1084/profileImage.png"
+          },
+          {
+            "sid": "1761349640",
+            "bodySummary": "한우소머리수육 등의 요리류. 그리고 메밀전 같은 사이드메뉴가 있습니다. 반찬은 김치와 깍뚜기, 단무지 무침이 함께 나옵니다. |황태해장국 (가격 천원) 일반적인 콩나물 황태해장국입",
+            "url": "https://m.blog.naver.com/a4b4/223223770856",
+            "nick": "자꾸 웃음이 나와",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTA0MTdfNDQg/MDAxNTU1NDk0MDI0NDY5.48IYWwTVTMXP7IOVxV6McO-2qQno5si6LZzBd0_iMcwg.lKJeKqitMOAOxq6p9As4Cb7mNKvdtPc6n7sxOO2RIS0g.JPEG.a4b4/20190417%2B18.39.54.jpg"
+          },
+          {
+            "sid": "1761349640",
+            "bodySummary": "왼쪽은 해장국 오른쪽은 내장탕. 해장국은 빨간 국물이고 내장탕은 하얀 국물이에요. 맛도 조금 맑은 느낌? 내장탕에는 선지가 빠지고 내장만 한가득 입니다. 해장국에도 선지 빼달라고 ",
+            "url": "https://m.blog.naver.com/daze21/223208377276",
+            "nick": "데이즈",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAyMDFfMjQ1/MDAxNjQzNzE0NTkzMzQ4._VDA5reitXS-oUhaVLOJMbpRahsM3Ji9jQjmtAO8z6Yg.FulWAY76AtzRhHX7lGFwXKxkFgM0lWSuoI2aGGolmQ0g.PNG.rhdbwls2486/%25EC%25A0%259C%25EB%25AA%25A9%25EC%259D%2584-%25EC%259E%2585%25EB%25A0%25A5%25ED%2595%25B4%25EC%25A3%25BC%25EC%2584%25B8%25EC%259A%2594_-001.png/%25EC%25A0%259C%25EB%25AA%25A9%25EC%259D%2584-%25EC%259E%2585%25EB%25A0%25A5%25ED%2595%25B4%25EC%25A3%25BC%25EC%2584%25B8%25EC%259A%2594_-001.png"
+          },
+          {
+            "sid": "1761349640",
+            "bodySummary": "특이사항 - 룸 있음 -수영장 이용 가능(여름) - 미리 전화로 문의하시고 방문하세요. 제가 방문했던 날은 날씨가 굉장히 맑았어요. 아 뜨거~ 이럴 때죠 ㅎㅎ 멋진 구름 아래 뚝배",
+            "url": "https://m.blog.naver.com/wisemom02/223165078088",
+            "nick": "수나리자",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA1MjNfMjM0/MDAxNjg0NzY4MzAyMTg1.ez4GFU8LtxipGu1YomX-vPmlqSf3VAPIMTJ0p79obsgg.dhQhBFHxCTmHghE55snRI0xbs-kHNPgpTV9S0l4jxZMg.JPEG.wisemom02/profileImage.jpg"
+          },
+          {
+            "sid": "1761349640",
+            "bodySummary": "아이 있는분들 가까운 수도권에 놀러가기네 좋아보여요 뚝배기 양평 해장국 용인시청점 경기 용인시 처인구 중부대로 1219-7 에버라인 시청,용인대역 400m 월-금 07:30~21:",
+            "url": "https://m.blog.naver.com/toomssi/222836087052",
+            "nick": "톰씨",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAzMTBfMTcy/MDAxNjc4NDQ5Mjg4Mjcz.VZ5qCarzoel5eW6wqLp4-kGJFajDEpqHq6IwoDMbfbcg.KQiVZC2Asvrx1WA5m7qCEVvk63rjI3bbGcUExYmxd8gg.PNG.toomssi/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "id": "1176586500",
+        "name": "나무이야기",
+        "x": "127.1799215",
+        "y": "37.2374305",
+        "distance": 0.164,
+        "categoryName": "한식뷔페",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "229847",
+            "229848"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식뷔페"
+        ],
+        "reviewCount": 50,
+        "averagePrice": 0,
+        "address": "경기도 용인시 처인구 역북동 370-3 1층 117호~124호",
+        "roadAddress": "경기도 용인시 처인구 중부대로 1216",
+        "abbrAddress": "역북동 370-3 1층 117호~124호",
+        "shortAddress": [
+          "경기 용인시 처인구",
+          "중부대로 1216"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경기도 용인시 처인구 역북동 370-3 1층 117호~124호",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20190722_169/1563784902426Hpd0m_JPEG/MfQjEbz4snzb3CvvKKvcPAcn.jpg",
+          "https://ldb-phinf.pstatic.net/20190722_185/15637849054862g15p_JPEG/O9xKXeWC3TiGPpGgmlcR1qd0.jpg",
+          "https://ldb-phinf.pstatic.net/20191108_138/1573180352333XKI3l_JPEG/Uxq8lofGAf4aQkG2FaBr3Uod.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "229848",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1176586500",
+            "bodySummary": "용인대 근처 맛집 '나무이야기 한식뷔페 ' 용인시청 근처 용인대 입구 바로 옆에 위치해 있습니다 가격도 괜찮고 반찬구성이 정말 괜찮습니다 그리고 가장 중요한 반찬이 아주 맛있습니다",
+            "url": "https://m.blog.naver.com/donick80/222318988682",
+            "nick": "시내버스 유랑기",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMDZfMTYg/MDAxNzA5NzMyNjUyODcz.Cv4gY-Lla_Fdh_SaltZK6kVp1fgQczc_SWei9BAQGmsg.W3KdqqL01_RGop9lfd4XJGhj3QNoJ570e-AboeqEPm4g.JPEG/profileImage.jpg"
+          },
+          {
+            "sid": "1176586500",
+            "bodySummary": "용인시청앞에서 역대급 한식뷔페를 발견했기에 부랴부랴 사진찍고 포스티잉~~~ 가격은 기본 한식뷔페들 보다는 조금 쎄긴 하지만 저는 차라리 1~2천원 더 주고 여기를 와야겠다 싶더라구",
+            "url": "https://m.blog.naver.com/skgus8061/221712529613",
+            "nick": "Lapis",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTExMjRfOTUg/MDAxNTc0NTc0NjM1MzE5.S7yOBYA2OkRV3CnW7cba85RdrOBpquzql9ZnV62-Kisg.V7XQSIHeV7oTU9QgSdc8V_2e2uYxo_bDFiOYzBUFlNgg.JPEG.skgus8061/KakaoTalk_20191124_145002494.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "id": "1102130092",
+        "name": "가마치통닭 용인시청점",
+        "x": "127.180741",
+        "y": "37.2375882",
+        "distance": 0.143,
+        "categoryName": "치킨,닭강정",
+        "categoryPath": [
+          [
+            "220036",
+            "220049",
+            "1000132"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "치킨,닭강정"
+        ],
+        "reviewCount": 64,
+        "averagePrice": 10000,
+        "address": "경기도 용인시 처인구 역북동 370-13 B104호",
+        "roadAddress": "경기도 용인시 처인구 중부대로 1218",
+        "abbrAddress": "역북동 370-13 B104호",
+        "shortAddress": [
+          "경기 용인시 처인구",
+          "중부대로 1218"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "통닭의 검증을 마치다! 가마치통닭 입니다.",
+        "description": "통닭의 검증을 마치다! 가마치통닭 입니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMDhfNzEg/MDAxNzYyNTU0Mjk0NzY3.28eX_Pm63opJS4lz8mU2_VP6rklwNM2m1GimlF1iFQcg.ZS91CuODTP7SIF9A7E5A5OP2q7lvhyAXvBiarLjadoQg.JPEG/Screenshot_20251108_071710_Instagram.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTZfMTUg/MDAxNzUwMDc3MDA5Njc3.MDvucaYzDJqX29nfXm47VqPu3fGOBFcHF-yci1nb9_kg.2278lB9YWULapGLCVC_tdredovQqoKcB-uoOrXOttzgg.JPEG/20250616_190956.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250516_73/17473736123769ctFy_PNG/%B1%F1%C7%B3%C4%A1%C5%B2_%C8%AB%BA%B8_%C0%CC%B9%CC%C1%F6.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjBfNDEg/MDAxNzU1Njg1NjYwNzgx.auotPpPQwupr7_rlUfDy3CEipbIsedxI_Q4VrQhoqWcg.VzN3oYgucA7V4a1rw6u0DwFJjDiSdS0g2smehnSG970g.JPEG/20250820_192609.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250523_156/17479595414599aIUu_JPEG/%BF%EB%C0%CE_%BD%C3%C3%BB%C1%A1_%B8%C5%C0%E5%BB%E7%C1%F8.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTdfMjMy/MDAxNzUyNzQ1MzEyMTA4.P_e3E_T2w_1Mdy_fgjNSVUf14fpqhlBQ1fUS0leuFIgg.KwtHLwvqa0GY5Y9BYDcN_ya6uIVG9W_Ta_jhuCXkmlEg.JPEG/20250717_183615.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1000132",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 10,
+        "id": "1384945253",
+        "name": "스토리오브쉐프뉴욕",
+        "x": "127.1809122",
+        "y": "37.2375631",
+        "distance": 0.149,
+        "categoryName": "양식",
+        "categoryPath": [
+          [
+            "220036",
+            "220044",
+            "220126"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "양식"
+        ],
+        "reviewCount": 25,
+        "averagePrice": 0,
+        "address": "경기도 용인시 처인구 역북동 370-13",
+        "roadAddress": "경기도 용인시 처인구 중부대로 1218",
+        "abbrAddress": "역북동 370-13",
+        "shortAddress": [
+          "경기 용인시 처인구",
+          "중부대로 1218"
+        ],
+        "displayContext": [],
+        "labelTheme": "양식",
+        "microReviews": [],
+        "cardDescription": "경기도 용인시 처인구 역북동 370-13",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220126",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 11,
+        "id": "1731686808",
+        "name": "복다방",
+        "x": "127.1788031",
+        "y": "37.2394751",
+        "distance": 0.16,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 28,
+        "averagePrice": 0,
+        "address": "경기도 용인시 처인구 삼가동 481-62",
+        "roadAddress": "경기도 용인시 처인구 중부대로 1199-1",
+        "abbrAddress": "삼가동 481-62",
+        "shortAddress": [
+          "경기 용인시 처인구",
+          "중부대로 1199-1"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "경기도 용인시 처인구 삼가동 481-62",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

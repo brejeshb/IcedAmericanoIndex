@@ -1,0 +1,993 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 15,
+      "count": 15,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 127.39009282864227,
+          "minY": 36.3504,
+          "maxX": 127.39568565728453,
+          "maxY": 36.3549045045045
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "127.3928892429634;36.352652252252255",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "37883270",
+        "name": "하레하레 둔산점",
+        "x": "127.3949666",
+        "y": "36.351457",
+        "distance": 0.229,
+        "categoryName": "베이커리",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220564",
+            "221161"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "베이커리"
+        ],
+        "reviewCount": 8586,
+        "averagePrice": 5000,
+        "address": "대전광역시 서구 둔산동 1509 크로바아파트 제상가동 1층",
+        "roadAddress": "대전광역시 서구 둔산로 155",
+        "abbrAddress": "둔산동 1509 크로바아파트 제상가동 1층",
+        "shortAddress": [
+          "대전 서구",
+          "둔산로 155"
+        ],
+        "displayContext": [
+          "빵집",
+          "케이크",
+          "마카롱",
+          "신선한"
+        ],
+        "labelTheme": "카페",
+        "microReviews": [
+          "야끼소바와 함께하는 특별한 한입"
+        ],
+        "cardDescription": "야끼소바와 함께하는 특별한 한입",
+        "description": "하레하레에서 생산되는 모든 제품은 특허받은 글루텐을 분해하는 유산균이 '전 제품'에 들어가 식감을 살리면서 제품의 품질을 더 향상해 빵을 드신 후 거북함이나 불편함을 최소화하여 소화 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjdfOCAg/MDAxNzQ1NzI5NjY0MzQ0.xJ1uHl0AdiFkPn7J7-s9y2bJWbNhBINrmFHxVK3latIg.ghRWcUQ6mQD5s0NkaaApJ6orQ7m8DP_nsY0O7wOjBi8g.JPEG/IMG_3529.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MThfMTA0/MDAxNzU4MTY2NzA5ODAz.mjfa1pgH_6LMCkvdlyKt19CzKy702X0s3A5dNRoqKV8g.hDCBGkWtg1Zr564IMxOUu-6DY5XB7ndjy8Re1u5u5D0g.JPEG/20250918_115309.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20230601_34/1685582630575gfOyD_JPEG/KakaoTalk_20230417_125149870.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjlfMjEy/MDAxNzUzNzc4MzA4Mjg4.W0rH4oTXv1bMk66PGSDPQDckQoSQYR9FsUGrb4HdN8Mg.dKIoFwA3V2lN733sCfBIKdyWPqRXh0tUOHW8jFCm4zMg.JPEG/1000046251.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MzFfMTY4/MDAxNzU2NjEzNDM5NTIw.dQYF4-T7rO19rwHC6Oe2d2kHZPfCWB5RUluPkqNmLxwg.sgm8Cn_NeEW9DjFMFGre2Hly2FV5nyiYZSAv63_2e8cg.JPEG/20250831_130433.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTZfMTY4/MDAxNzU3OTg3OTE3ODE4.lVn29ast-z_wzvLyXx9IqhrdocCprn2D7b96kNP5LCQg.1tgEZSHXhmqUOHTrS8B12CDV8uB_aMTptyJ9gx-3jHkg.JPEG/20250915_122415.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDRfMjY0/MDAxNzU2OTUyMzgyMTQx.HT1FVBFslXEdANJz4CPIwlj3DkTn-o9rLH1x9woaju8g.H3FnkHhJ1b5D9M7DsPO76_jgRbpXS16fYl7pgkhAGlog.JPEG/20250831_124919.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTZfMjc0/MDAxNzU1MzM1NDc1ODg1.7jmQhiUdJdQYkpkDhohM05qnUPHqPvA2nkhKSCH73Gwg.iIsqUYBYpzo_0lIN-p3kJeXDAEYFxSmdbKwQEo-piiAg.JPEG/D522AD64-F353-4A0D-AFC9-2E47E78AD9EA.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTJfMjQz/MDAxNzQ3MDA2MTU3NjIw.QFt3rHR3AlvIsQ9gAN1h07UJfvHR4U_m0Qho3gfTdW8g.vNLhkvVW8Nc96F4Bb93r90QyJHVqxskcqbIqMt0n1Asg.JPEG/605FB942-FEE0-491E-9F90-81CC17499939.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDlfNTIg/MDAxNzYwMDA1MjkzMzk1.CeC7kiZJf3zba9KvYchUFlEk8kpAc6V7VnThK2eE7AEg.x-rzy8RteTxNSD_7HA8UlVdYqkn5nOAIzdUISVRngT0g.JPEG/1758854765428.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221161",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "37883270",
+            "bodySummary": "참고로 이곳은 점심이나 오후 시간대에 방문해야 원하는 빵을 모두 고를 수 있으니 참고 하시면 될 것 같네요. 저는 쪽파프리글과 바질 토마토, 쌀 쉬폰,망고 케이크 등 인기 메뉴를 ",
+            "url": "https://m.blog.naver.com/wldhr9898/223398840222",
+            "nick": "Mile",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMjZfMjgy/MDAxNzAzNTM0NjQyMDI3.qXSDTIKNFt22ntuy5bNSi4RmQlZrDTdaCuD-RX5J4nUg.4j16-1a9OmbiMkJ49fL14_c2rAY7lHbcs1tCQQR07Wsg.JPEG.wldhr9898/KakaoTalk_20231226_050329730.jpg/KakaoTalk_20231226_050329730.jpg"
+          },
+          {
+            "sid": "37883270",
+            "bodySummary": "3월 이슈 짝짝이 쌍커풀 한쪽에 맞추기로 결심 요랬는데 요래됐슴당 전에는 눈뜰때 무거운 느낌이라 불편했는데 눈 뜨는거 개편해져서 만족 50만원 잘썼다 매몰이라 멍이나 붓기는 5일만",
+            "url": "https://m.blog.naver.com/chadamdam/223394294933",
+            "nick": "차차씨",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMDZfNjgg/MDAxNzA5Njg1MzIxOTcx.T0waqUsljbKjwKRo9PkwEkjJaVmhpsnKL7zmZGXgKNog.AU1PNaAGsfDgQnXJt4ywJYnY5EhfF_I3mZFOLtRkiV4g.PNG/profileImage.png"
+          },
+          {
+            "sid": "37883270",
+            "bodySummary": "하레하레 둔산점 [대전] [둔산동빵집] [내돈내산] 대전 서구 둔산로 155 크로바아파트 상가 ⏰ 매일 08:00 - 22:00 #하레하레 현지인 로컬 베이커리 맛집 하레하레 방문",
+            "url": "https://m.blog.naver.com/daily_dambi/223381583774",
+            "nick": "dambi",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA5MTNfMTEx/MDAxNjYzMDQ5NDEyOTg4.nwg1aQHLLPD5AV3Au1EkOtLuTh2G5PfQzmmOj3EUo_Qg.UoHp97_JU6UAiWiroETUarokcV6zdd2_KjjHJQlYsY4g.JPEG.daily_dambi/dambi.JPG/dambi.JPG"
+          },
+          {
+            "sid": "37883270",
+            "bodySummary": "대전광역시명장!!! 믿고 먹는 빵집아닌가요 :-) 카페 음료 메뉴도 있고, 가게 내부에 앉아서 먹고 갈 수 있는 자리가 있어요. 저도 하레하레를 자주 이용하는 편이에요 ! 대표하는",
+            "url": "https://m.blog.naver.com/yuri1623/223376189819",
+            "nick": "유리노",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA0MDdfNDgg/MDAxNjgwNzk0MzA1MzAw.YfvdV5WyGoJ57TCTdPGuS5hLr2Tc98Fi8ZK9MFcV6hAg.hgvVi1ZhIuMn0z_UlQycIbyFbgHQGWDNgDjXg9RqtLEg.PNG.yuri1623/profileImage.png"
+          },
+          {
+            "sid": "37883270",
+            "bodySummary": "대전에서 성심당이 유명하다면 하레하레도 꽤나 유명해요! 성심당과는 다른 이색메뉴를 많이 팔아서 대전왔으면 하레하레도 들리는 거 추천드려요! 둔산점으로 왔어요 주차장은 건물 오른편 ",
+            "url": "https://m.blog.naver.com/joycall13/223375928349",
+            "nick": "고느",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20150115_229/joycall13_1421287801275PicMN_JPEG/%C7%EF%B7%CE.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "id": "1353499953",
+        "name": "고슬고슬꼬마김밥",
+        "x": "127.3922328",
+        "y": "36.3537348",
+        "distance": 0.134,
+        "categoryName": "김밥",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220186"
+          ]
+        ],
+        "category": [
+          "분식",
+          "김밥"
+        ],
+        "reviewCount": 106,
+        "averagePrice": 5000,
+        "address": "대전광역시 서구 둔산동 1388 상가동 1층 106호",
+        "roadAddress": "대전광역시 서구 둔산북로 160",
+        "abbrAddress": "둔산동 1388 상가동 1층 106호",
+        "shortAddress": [
+          "대전 서구",
+          "둔산북로 160"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [
+          "한 입 가득 행복한 꼬마김밥의 풍미"
+        ],
+        "cardDescription": "한 입 가득 행복한 꼬마김밥의 풍미",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTBfOSAg/MDAxNzYwMDY2NjU4NjMw.0p_iqXV0DWDYjCshIbF1IOd3KI2TPdkoz9bf4FnhwRYg.RZ8y2lGUG-EsbALkduLxyO_NMellFiQIz19C4iSrrK0g.JPEG/20251010_114837.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTAzMjlfMTM1/MDAxNzQzMjEyNjY5MzQ4.s7s8qlX_JuAVEBAAeCdPL8ojyvaEqsWwbD9lPKp7K94g.YLaQ7ktQyEmbOdT1Ky8u8GSqT7YvI4Ik4vK68ny8opAg.JPEG/20250329_103104.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250422_257/1745300145306NCMYY_JPEG/1745300125251.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDNfMjQw/MDAxNzQ2MjAyNDEzNDc3._d6Mb30SknUY7ZJZhPBr4560th6zXhROk1xCn51prpMg.Z2ILDaoufwCD_StDLVdQaBbqR2kfos7k6Xc0uLZGlegg.JPEG/20250502_131747.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250408_232/1744095933357IOlDk_JPEG/1000006069.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220186",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 3,
+        "id": "1314671339",
+        "name": "아이엠꼬마김밥",
+        "x": "127.3955687",
+        "y": "36.3538029",
+        "distance": 0.272,
+        "categoryName": "종합분식",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220185"
+          ]
+        ],
+        "category": [
+          "분식",
+          "종합분식"
+        ],
+        "reviewCount": 160,
+        "averagePrice": 5000,
+        "address": "대전광역시 서구 둔산동 1809 국화우성상가",
+        "roadAddress": "대전광역시 서구 둔산로 201",
+        "abbrAddress": "둔산동 1809 국화우성상가",
+        "shortAddress": [
+          "대전 서구",
+          "둔산로 201"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "대전광역시 서구 둔산동 1809 국화우성상가",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20191116_206/1573902882327OAtwi_JPEG/4kGtnl98OUNkFfQSDNqy8M7e.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220185",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 4,
+        "id": "1730812245",
+        "name": "에바돈가츠세이브존대전점",
+        "x": "127.3956629",
+        "y": "36.3516359",
+        "distance": 0.273,
+        "categoryName": "일식",
+        "categoryPath": [
+          [
+            "220036",
+            "220038",
+            "220082",
+            "1005598"
+          ]
+        ],
+        "category": [
+          "일식",
+          "돈가스"
+        ],
+        "reviewCount": 195,
+        "averagePrice": 0,
+        "address": "대전광역시 서구 둔산동 1809 지하1층 일부호",
+        "roadAddress": "대전광역시 서구 둔산로 201",
+        "abbrAddress": "둔산동 1809 지하1층 일부호",
+        "shortAddress": [
+          "대전 서구",
+          "둔산로 201"
+        ],
+        "displayContext": [],
+        "labelTheme": "일식",
+        "microReviews": [],
+        "cardDescription": "남녀노소 누구나 좋아하는 생등심돈가츠 맛집입니다",
+        "description": "남녀노소 누구나 좋아하는 생등심돈가츠 맛집입니다",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTJfMjE3/MDAxNzYwMjM5OTk2ODU5.iGXcstvRBQgdsuvEHc_wCgCWio44sVeWEkKVtEEv3YAg.nB0sq58PqAX5fLcPwibNg2id8pGchTw1Xzb-npT5B2Ug.JPEG/5F2BD5D9-B9B8-4246-8366-2F796D418F6F.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjVfNDkg/MDAxNzQ4MTY1NzUxNTMx.lyPEjUZllTICSuX-l6ImY4Mx7R8MLZHQoYBLtxuUIB0g.LPWY8gJNxI8hl1eyt2Ea2ma1VD5gIeao2TQz96H4Gk0g.JPEG/20250525_183441.jpg",
+          "https://ldb-phinf.pstatic.net/20230130_103/1675067812614XD6u3_JPEG/20230109_161940.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTlfOTQg/MDAxNzQ1MDM5NzY2ODU0.asuay_BG3KTNdlPX1pN-LzMdwvh1Ys5_DS4mocrYuNMg.fHQeadT-Stmh6a81hPCsZSRsHUpoG8t8L7ZAyU8idusg.JPEG/20241102_152403.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTJfMTMy/MDAxNzQ0NDE2NzkzODY3.O542Z1xCOMBGuJ2haR7_kwWGjVNcBl0jGUaNZZUsHRog.frkk8CIBG5zgo4OKJ7ikJmlHbeJCLUKntDMvcjJfVTwg.JPEG/20241102_152403.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1005598",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 5,
+        "id": "1373576541",
+        "name": "옆구리터진김밥",
+        "x": "127.3926959",
+        "y": "36.3515894",
+        "distance": 0.12,
+        "categoryName": "김밥",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220186"
+          ]
+        ],
+        "category": [
+          "분식",
+          "김밥"
+        ],
+        "reviewCount": 472,
+        "averagePrice": 3000,
+        "address": "대전광역시 서구 둔산동 1509",
+        "roadAddress": "대전광역시 서구 둔산로 155",
+        "abbrAddress": "둔산동 1509",
+        "shortAddress": [
+          "대전 서구",
+          "둔산로 155"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "대전광역시 서구 둔산동 1509",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTNfMTY2/MDAxNzQ5ODE1MDM3OTkw.BJsYAjrxdET4Yr4UwiKkk0RCMsS_2w2FBmX79nhaUusg.WFSXoFdCviOvwqm44hZJzFLWK-GZY6AdMXU006YyOUQg.JPEG/20250613_192639.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220186",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 6,
+        "id": "1550523141",
+        "name": "다래정 세이브존 대전점",
+        "x": "127.3955897",
+        "y": "36.3517861",
+        "distance": 0.261,
+        "categoryName": "떡볶이",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220187"
+          ]
+        ],
+        "category": [
+          "분식",
+          "떡볶이"
+        ],
+        "reviewCount": 180,
+        "averagePrice": 4000,
+        "address": "대전광역시 서구 둔산동 1809",
+        "roadAddress": "대전광역시 서구 둔산로 201",
+        "abbrAddress": "둔산동 1809",
+        "shortAddress": [
+          "대전 서구",
+          "둔산로 201"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "대전광역시 서구 둔산동 1809",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjZfMTYz/MDAxNzU2MjA5NDU3NDE5.EAW4-JktBsSpqsM_f9sc5eu6BBCyIaA09cqF3kbk8v0g.7ijQjJK1WAurgG3UNeqwtOE8swpszxBZlrwnlbrJNVEg.JPEG/20250826_190957.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTRfMTk2/MDAxNzQ3MjE4Mzg3ODEw.4rKJ4-LnMgVYtuGsnY4O79fE4OjLFXCfQk1CIiAtD9Mg.bjfq7xOoSxwrD0bAlgqe3Z84SWmQF5Xt-9lBb_Yn4rAg.JPEG/Screenshot_20250512_173653_Chrome.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220187",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 7,
+        "id": "1421913516",
+        "name": "기쁜날의축제 세이브존대전점",
+        "x": "127.3956789",
+        "y": "36.351724",
+        "distance": 0.271,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 30,
+        "averagePrice": 0,
+        "address": "대전광역시 서구 둔산동 1809",
+        "roadAddress": "대전광역시 서구 둔산로 201",
+        "abbrAddress": "둔산동 1809",
+        "shortAddress": [
+          "대전 서구",
+          "둔산로 201"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "대전광역시 서구 둔산동 1809",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTAzMjZfMjY0/MDAxNzQyOTYzNDE0NTE1.m6ELtFFFktDTmANxXvkr77cFEmNCXEnHdzVnXkgnZW0g.UGI_OtbmaztK3tLe7jOWOyC3EUHeP5CjT1VeMltw_oMg.JPEG/20250326_132702.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 8,
+        "id": "1582941069",
+        "name": "카페프리헷 대전둔산크로바점",
+        "x": "127.3928104",
+        "y": "36.3517353",
+        "distance": 0.102,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "1005999"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 7,
+        "averagePrice": 5000,
+        "address": "대전광역시 서구 둔산동 1509 상가동 116호",
+        "roadAddress": "대전광역시 서구 둔산로 155",
+        "abbrAddress": "둔산동 1509 상가동 116호",
+        "shortAddress": [
+          "대전 서구",
+          "둔산로 155"
+        ],
+        "displayContext": [],
+        "labelTheme": "24시간 영업",
+        "microReviews": [],
+        "cardDescription": "※ 카페프리헷 대전 둔산 크로바점을 오픈 ※  24시 무인 카페로 운영되며 가족, 연인,친구 들과 편하게 이용할 수 있는 고급스런 인테리어를 갖춘 감성 카페입니다^^ 둔산크로바쇼핑센터 후면 ",
+        "description": "※ 카페프리헷 대전 둔산 크로바점을 오픈 ※  24시 무인 카페로 운영되며 가족, 연인,친구 들과 편하게 이용할 수 있는 고급스런 인테리어를 갖춘 감성 카페입니다^^ 둔산크로바쇼핑센터 후면 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjBfMjIz/MDAxNzUyOTQzMjE1NDYx.Qx8QcNGsisTxExlwqb5n8fgk4xDCaYrnfNrNjxUBQqog.tL12PMCC-kbjVY90wCEPqni0dlZVSOz6oFQ2ZTU-49gg.JPEG/1000003225.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTJfMTQ0/MDAxNzYwMjUzNzMxOTkx.0M63uJhTM7ieKm7fiFzXkeNadCq18ixgYpeHWfgtFqIg.2qi0JmkTcNPf82tLictJr7lDcndm-dsKpL1MXCFAfUkg.JPEG/2A07B81C-A3D8-4D66-BDAC-7BAB0C434A41.jpeg",
+          "https://ldb-phinf.pstatic.net/20240807_86/17230030593116xtOY_JPEG/1719721616164.jpg",
+          "https://ldb-phinf.pstatic.net/20240807_148/1723003058696jkyUR_JPEG/1719721616251.jpg",
+          "https://ldb-phinf.pstatic.net/20240807_190/1723003059067fQkD8_JPEG/1719721616318.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1005999",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 9,
+        "id": "1761789404",
+        "name": "파리바게뜨 둔산점",
+        "x": "127.3921105",
+        "y": "36.3538058",
+        "distance": 0.146,
+        "categoryName": "베이커리",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220564",
+            "221176"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "베이커리"
+        ],
+        "reviewCount": 271,
+        "averagePrice": 5000,
+        "address": "대전광역시 서구 둔산동 1388 한마루APT상가 103호",
+        "roadAddress": "대전광역시 서구 둔산북로 160",
+        "abbrAddress": "둔산동 1388 한마루APT상가 103호",
+        "shortAddress": [
+          "대전 서구",
+          "둔산북로 160"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "파리바게뜨 대전둔산점입니다. 네이버 스마트주문에서 간편하게 주문하세요!",
+        "description": "파리바게뜨 대전둔산점입니다. 네이버 스마트주문에서 간편하게 주문하세요!",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjBfNTcg/MDAxNzQ3NzM2OTI5MzAw._61kWPVrQEkOsglxdGPbgKNur2vf7hPZyO8SfljLKAgg._r_taCyaxxvSE1npaGXtsydfkg9LaMOcvXFAerqD4_Qg.JPEG/2CBD5437-83EB-4C62-B355-FDEC39605CB6.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTJfMjgy/MDAxNzUyMzAxMzYyOTk0.IwrFsfzzBVws49BeEiNmw1CwRSllWibsGeZBxOfHmBkg.5L3K38WEDQz8jvd3pu4AVXE36c-rZHhNXazcPLQHekAg.JPEG/451B0B9E-FD3A-451B-8BB1-D205D3E7EA48.jpeg",
+          "https://ldb-phinf.pstatic.net/20220426_191/1650969495812LSW2g_JPEG/20130409_131743.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTJfMjE2/MDAxNzUyMzAxNzMzODc4.g-AhMHYyF4vzmTA-hkTCxIFs4BZY47lowNX6BJgSsaYg.sJLB3GUmVecKBsO9eP5HtQWy1ocaC6kxmcj_YtkuUmMg.JPEG/98510833-2670-40D5-928D-ECDB87D3FD13.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTFfMTY0/MDAxNzUyMjI0MzY3Nzgw.LV-LntaJcPUbAEQRzGuoaaFxbY1ROCGNX5W74lppddcg.zkoiHfRDdFG3TN5hUjblhLOQpAi5e0rvyz-Lg4DQr-sg.JPEG/20250709_125317.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDFfMzAw/MDAxNzUxMzY5NjY2NzAw.Tct08LdNMJXy74BkzfDyVauQhp-EUk1ai4zixOoq6lsg.iXc0NL1He8HLtwQw7lrTzKUCPGRfIKWk2EFzEklbx3cg.JPEG/20250701_203245.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDJfMzkg/MDAxNzU0MTIyNzg3NTg5.vO6c3UG9m8HKi13iJIWajwDP_YqYtnr24F8D7vZiaXQg.V6j-6LHIyz54j_MAvHem8h_JX-3tStR4JwuEByP5NlIg.JPEG/20250802_171917.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221176",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 10,
+        "id": "11807300",
+        "name": "맥도날드 세이브존 대전점",
+        "x": "127.395549",
+        "y": "36.3516993",
+        "distance": 0.261,
+        "categoryName": "햄버거",
+        "categoryPath": [
+          [
+            "220036",
+            "220044",
+            "220138",
+            "222362"
+          ]
+        ],
+        "category": [
+          "양식",
+          "햄버거"
+        ],
+        "reviewCount": 4289,
+        "averagePrice": 0,
+        "address": "대전광역시 서구 둔산동 1809",
+        "roadAddress": "대전광역시 서구 둔산로 201",
+        "abbrAddress": "둔산동 1809",
+        "shortAddress": [
+          "대전 서구",
+          "둔산로 201"
+        ],
+        "displayContext": [
+          "햄버거",
+          "아이스크림",
+          "치킨"
+        ],
+        "labelTheme": "양식",
+        "microReviews": [],
+        "cardDescription": "대전광역시 서구 둔산동 1809",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDhfNjIg/MDAxNzU3MzM0MDA3ODE3.yR52Sy8g8kZsp18NdFgm07zCH8fZCzImzQP_4Gy2BB0g.JvbjVuntc9kq0z6BIW9pbq2Qv84s-QrcOxvKX2yv6Ccg.JPEG/57D90E9E-CE05-43B7-ABDF-DCFD984000CA.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MThfMTEw/MDAxNzUyODE4Mjk4Njg2.wyhkahXuFzAxt_0eaNzKqKUh7ozXp_g8S-4jCSPqWbYg.YIQ8MOz1pN6o_-2lg-3SgaqTlvcJ8k9H64T3doBHeycg.JPEG/572830C8-A0B1-4016-A31D-0D0D9AB9B1A6.jpeg",
+          "https://ldb-phinf.pstatic.net/20150901_2/14410443013343Wc0t_GIF/11807300_0.gif",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDlfMjAw/MDAxNzU0Njk4MDQ3MzA0.g1DjXAOyArBwJW5c2tuSUYU_IY_JCzVdikeWN7bmyC0g.9ylld82AY8HbUU7xUnSXPEjyPc-lNpfbtPWfoF4pvrkg.JPEG/788B8B97-BC94-4718-867D-8F044671C6CF.jpeg",
+          "https://ldb-phinf.pstatic.net/20200610_77/1591792788709MLQcT_JPEG/uyCmsYaJYveOd8CMCCMoFfxH.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDZfMTk5/MDAxNzUxNzQ4NjMxMzI0.SUQNpaYmxFDCsokbhEPzLzg1lKTlvNACUTxOOPXQvYcg.COlJ40v4s9vxj9q3Lz8Z-qG1K3GrdXC5X-POALLLxWkg.JPEG/4F68E90B-B495-4A13-A61D-47932A89468D.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTJfMzEg/MDAxNzYwMjY0MjM2MzAw.gEzTmhwgzTeP3lV_6uvtROsggrwYx4dRBdGiO3rAJSIg.gCiKvSN2-tEW_eLIPg4yjl7iyNTHX2urpWczLbiTRM4g.JPEG/167A99DD-5017-450C-A7BE-35BA704AE311.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MThfNzMg/MDAxNzU1NDc4MzkxMzkx.axNfNQGaWGUWq8hTGfCNlJY9-cK_ofPgJSf1lADRTMog.hVM52fiHL66giBZJXdl0H1BYfJ8UxT0Y-7MMUSlBR7kg.JPEG/003FE0F8-6985-44EB-9645-D6C7C6824DAD.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDdfMjEy/MDAxNzQ5MjU3ODE5MTE0.YTdcpYI0eIne1tdYFIoWfsRJv4BI8DSw18bf10nXfXwg.xqaIQdFIRHBdQEkvd7Iw_-gnc3zYgnPQ1svuYHLgkdEg.JPEG/D407896E-3141-40F0-B4F4-03F6898D0457.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTAzMjlfMTUy/MDAxNzQzMjI5NDI0NzIw.iyGgb_rqn8Skkj1He7BOwc65kAGm1uv1fBktXQWYhWUg.MHPsl5hxw_Og3QfcDStza6VY41ReSPfWMH-yGnESCZ0g.JPEG/20250329_120902.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "222362",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "11807300",
+            "bodySummary": "안녕하세요 잇님들!! 오늘은 맥도날드에 다녀온 후기를 작성해보려고 해요 ㅎㅎ 저희 동네엔 세이브존이 있는데, 1층에 맥도날드가 있어요 ㅎㅎ 일요일 오후라서 그런지 사람이 마구 붐비",
+            "url": "https://m.blog.naver.com/yunalass/223182876637",
+            "nick": "유나",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAyMDlfMjIz/MDAxNzA3NDU3Njk2Mjcx.UYl--47cNcbWpXoSYXvfvyzrsTU1tOrmdscoOx2A1BIg.Prp0fd2i8SEfofPDGtAmHJ5Z5voLcUkEjvlFIY65Ud0g.PNG.wendynew/profileImage.png"
+          },
+          {
+            "sid": "11807300",
+            "bodySummary": "대신 새로운 신메뉴인 창녕 갈릭버거를 먹어서 리뷰해용 이날은 엄마랑 배민으로 주문해서 먹었는데여 맥도날드 세이브존점은 배달비는 일정금액 이상 주문하면 따로 안받는데 아마도 매장가서",
+            "url": "https://m.blog.naver.com/happyvulee/223177674320",
+            "nick": "사랑둥잉",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMjBfMjcx/MDAxNzEwODYyNDA2NjMy.Wz0wRMzlY9ZS9koXZeeNPeZ9lqFAez_-PdeJHLlHGRkg.QQgVXbBjLn460XY5mYkNclKAFFHYjDhOQBVCr6FYS74g.JPEG/profileImage.jpg"
+          },
+          {
+            "sid": "11807300",
+            "bodySummary": "동대구역에서 타면 지하철까지 걸어야 하니까 집 앞에서 버스 타고 환승 환승으로 서대구 역으로 가는 중 급행 8이 늦게 오는 거 같아서 다시 길 찾기 해서 다른 버스로 갈아탔는데 판",
+            "url": "https://m.blog.naver.com/jjiamolee/223159365840",
+            "nick": "짜모언니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20230601_11/13hklee_1685551607358Ptx1F_JPEG/image.jpg"
+          },
+          {
+            "sid": "11807300",
+            "bodySummary": "날 뜨거워서 시켰는데 뉴진스랑 컬래버레이션이라더니 귀여운 픽셀 토끼가 ㅋㅋㅋ 야무지게 그려져 있음 ㅠㅠ",
+            "url": "https://m.blog.naver.com/red_flav0r/223145428983",
+            "nick": "다린",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA1MDJfNDUg/MDAxNjgzMDA2OTg3MDIw.EL5X-L9oRL9tpfJb-KHwdZE9xNgkLE1QSUNItZmA4-0g.ShArvo0TZZ1suSBtIoDjOnKvPWouUAftcw_mdQvJkO0g.PNG.red_flav0r/profileImage.png"
+          },
+          {
+            "sid": "11807300",
+            "bodySummary": "♡̷̷̷ 행운버거를 먹어야 새해가 된 것 같은 느낌이 드는데 올해도 역시나 출시됐네요 일 잘하는 맥도날드 칭찬해 #맥도날드 #맥도날드행운버거 #행운버거 저는 저희 동네 맥도날드 대",
+            "url": "https://m.blog.naver.com/jeanie5/222976489089",
+            "nick": "지니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDEwMDZfMTU1/MDAxNjAxOTY5MjAwMjQ2.CzB9qr5wL5rd6ACThbHKHFofhZuwZ-1f8NM1Gm1GGzcg.RLFXrND_qDeC1j9vbsZV3Pdp_Mju2CSH9ZjEAnV6cL0g.JPEG.jeanie5/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 11,
+        "id": "1825969096",
+        "name": "크로바떡볶이",
+        "x": "127.3928486",
+        "y": "36.3516132",
+        "distance": 0.116,
+        "categoryName": "종합분식",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220185"
+          ]
+        ],
+        "category": [
+          "분식",
+          "종합분식"
+        ],
+        "reviewCount": 19,
+        "averagePrice": 0,
+        "address": "대전광역시 서구 둔산동 1509",
+        "roadAddress": "대전광역시 서구 둔산로 155",
+        "abbrAddress": "둔산동 1509",
+        "shortAddress": [
+          "대전 서구",
+          "둔산로 155"
+        ],
+        "displayContext": [],
+        "labelTheme": "분식",
+        "microReviews": [],
+        "cardDescription": "대전광역시 서구 둔산동 1509",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220185",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 12,
+        "id": "16228211",
+        "name": "크로바식당",
+        "x": "127.3927326",
+        "y": "36.3521417",
+        "distance": 0.059,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 54,
+        "averagePrice": 8000,
+        "address": "대전광역시 서구 둔산동 1509",
+        "roadAddress": "대전광역시 서구 둔산로 155",
+        "abbrAddress": "둔산동 1509",
+        "shortAddress": [
+          "대전 서구",
+          "둔산로 155"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "대전광역시 서구 둔산동 1509",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 13,
+        "id": "1099706717",
+        "name": "공릉동원조멸치국수 세이브존 대전점",
+        "x": "127.395677",
+        "y": "36.3516951",
+        "distance": 0.272,
+        "categoryName": "국수",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220062",
+            "1000489"
+          ]
+        ],
+        "category": [
+          "한식",
+          "국수"
+        ],
+        "reviewCount": 21,
+        "averagePrice": 6000,
+        "address": "대전광역시 서구 둔산동 1809",
+        "roadAddress": "대전광역시 서구 둔산로 201",
+        "abbrAddress": "둔산동 1809",
+        "shortAddress": [
+          "대전 서구",
+          "둔산로 201"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "대전광역시 서구 둔산동 1809",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1000489",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 14,
+        "id": "1081771694",
+        "name": "큰맘할매순대국 세이브존대전점",
+        "x": "127.3956531",
+        "y": "36.3519456",
+        "distance": 0.26,
+        "categoryName": "순대,순댓국",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220768",
+            "221546"
+          ]
+        ],
+        "category": [
+          "한식",
+          "순대,순댓국"
+        ],
+        "reviewCount": 279,
+        "averagePrice": 7000,
+        "address": "대전광역시 서구 둔산동 1809",
+        "roadAddress": "대전광역시 서구 둔산로 201",
+        "abbrAddress": "둔산동 1809",
+        "shortAddress": [
+          "대전 서구",
+          "둔산로 201"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "대전광역시 서구 둔산동 1809",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221546",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 15,
+        "id": "1609880325",
+        "name": "우래포차",
+        "x": "127.3927427",
+        "y": "36.3515084",
+        "distance": 0.128,
+        "categoryName": "육류,고기요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220733"
+          ]
+        ],
+        "category": [
+          "한식",
+          "육류,고기요리"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 11000,
+        "address": "대전광역시 서구 둔산동 1509",
+        "roadAddress": "대전광역시 서구 둔산로 155",
+        "abbrAddress": "둔산동 1509",
+        "shortAddress": [
+          "대전 서구",
+          "둔산로 155"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "대전광역시 서구 둔산동 1509",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220733",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

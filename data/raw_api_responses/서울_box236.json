@@ -1,0 +1,483 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 6,
+      "count": 6,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.98481944234244,
+          "minY": 37.5674009009009,
+          "maxX": 126.98595601606618,
+          "maxY": 37.5683018018018
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.98538772920432;37.56785135135135",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1062973577",
+        "name": "리나스 센터원점",
+        "x": "126.985573",
+        "y": "37.5675036",
+        "distance": 0.042,
+        "categoryName": "샌드위치",
+        "categoryPath": [
+          [
+            "220036",
+            "220044",
+            "220137",
+            "231021"
+          ]
+        ],
+        "category": [
+          "양식",
+          "샌드위치"
+        ],
+        "reviewCount": 277,
+        "averagePrice": 10000,
+        "address": "서울특별시 중구 수하동 67 미래에셋센터원 1층",
+        "roadAddress": "서울특별시 중구 을지로5길 26",
+        "abbrAddress": "수하동 67 미래에셋센터원 1층",
+        "shortAddress": [
+          "서울 중구",
+          "을지로5길 26"
+        ],
+        "displayContext": [],
+        "labelTheme": "양식",
+        "microReviews": [],
+        "cardDescription": "리나스는 1989년 프랑스에서 건강, 영양, 균형을 추구하며 시작한 샌드위치 전문점입니다.",
+        "description": "리나스는 1989년 프랑스에서 건강, 영양, 균형을 추구하며 시작한 샌드위치 전문점입니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjFfOTEg/MDAxNzQ1MTg5ODYzMzYx.HvpKZM1j4JxMClrLxG9cRdFNbDPxwLmdOShvRLcFuYQg.hhSwvvjq2HmsoF2VPpdJj4CNFoBBpBheUBTcGFCJkqAg.JPEG/6E825271-82B1-4310-8D72-6D77E3705D2D.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDhfMTkx/MDAxNzQ2NjgwOTIxMzg0.vTry-_Py1vUeirZ1KGvKyu8X2hVSWR54YuFkiTsr20Mg.eJlwIafqW5N_y8wUxzgXipOlzzKr4lLaf-sg13m0rqwg.JPEG/20250508_140653.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240520_239/1716195139096Xzdq8_JPEG/Screenshot_20240520_175040_Gallery.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjNfMjM3/MDAxNzQ1Mzg0MjgwMTEz.3_f-KuYDkyrX9r_woz1ls2sv8tQoEJuKubF7U-BRGpcg.ucKBuI61663dwNDtHpCnzeSXDm1vKhV1nmReI403IVgg.JPEG/20250421_132345.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240521_145/1716255067843BbpvF_JPEG/1716181974726.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjNfMTcg/MDAxNzYxMTkwMjAxNjc5.iEqfqlzE1MU2dUfwZdc8PnrnG6db5jTGFdpBR-Ne54cg._bm-i-pnwwCmufGv8TpUqQnkbbDoRLLYPhTDcyT6w60g.JPEG/20251023_120949.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240520_219/1716195258524m3nD6_JPEG/Screenshot_20240520_175407_Gallery.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDdfMTUz/MDAxNzU0NTM3MTU4ODgw.94JSxKE9jWbZEKWgJMyFoARwHGmiUwbc7ACkFFPAAkEg.DNp5oPNbo6UxULF6SEh4TWGRfDJkmdpHlsj18d_rC3cg.JPEG/IMG_3097.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjdfMTgg/MDAxNzU4OTU3MjgzOTI4.XW1JtCQbYa8DWfzqIOq8mRlRp_Mfrl7ZazpifJxnc0Ag.7Cke2ziyh4pR15UA0O85ikUu4cPabeYmfgVr2FQO8kMg.JPEG/9F14C89D-B772-446E-BF8D-369939D6609A.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTlfMTcg/MDAxNzQ3NjM2NDg1MTg0.VN-EWvK1c0YkKGsDeaJuHDeETR5AEsjPAA7YgV6t814g.QXsbrHXXjT2DW9adihbWah_t42uTD50wfVbbI5kdv4cg.JPEG/DA810A88-C97C-488B-A0E7-17D14DCC7259.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "231021",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "32587722",
+        "name": "Cre8",
+        "x": "126.9851758",
+        "y": "37.5674482",
+        "distance": 0.049,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221212"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 671,
+        "averagePrice": 3000,
+        "address": "서울특별시 중구 수하동 67 미래에셋 센터원 지하1층",
+        "roadAddress": "서울특별시 중구 을지로5길 26",
+        "abbrAddress": "수하동 67 미래에셋 센터원 지하1층",
+        "shortAddress": [
+          "서울 중구",
+          "을지로5길 26"
+        ],
+        "displayContext": [],
+        "labelTheme": "생생정보통 방영",
+        "microReviews": [],
+        "cardDescription": "미래에셋 센터원 지하 1층에 위치한 크리에이트 카페입니다  모던한 인테리어가 돋보이며 다양한 음료와 샌드위치, 계절 별 신선한 과일 주스와 비건 베이커리를 맛볼 수 있으며 카페 내부가  ",
+        "description": "미래에셋 센터원 지하 1층에 위치한 크리에이트 카페입니다  모던한 인테리어가 돋보이며 다양한 음료와 샌드위치, 계절 별 신선한 과일 주스와 비건 베이커리를 맛볼 수 있으며 카페 내부가  ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDdfMjQx/MDAxNzU3MjM3MDExOTg2.Ll0c-AKi3ENBsjSIRrvY-i-TVsUHjYJeaF92nBWa4QYg.ZLJdyCvZfTRql308a0T0LQfm0ZNzaKAeydTtRL9d2Z4g.JPEG/20250907_150320.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjJfMjI1/MDAxNzYxMTI0NzUyMDIy.iCI187zvRrD3B6DrqLI8mMQirIYQHYQ1IcoSM36qNC0g.3pxFXnKJ2dEMrbiB5MCMXHqRkiBsrcoWKEvLufTli18g.JPEG/20251022_181447.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20201215_283/1608007836655WDJs3_JPEG/yx1XIBBaR-I_1JEa8G5D2ri4.jpeg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDJfMjEw/MDAxNzUxNDI2Njg5NzEy.D6S2GUi-FP5voK1RpCkXMIxX2CP7mxYymLtOja5z8nog.wBYt_0W1LQFRvzrxxvE3KIj-Fv_6nGhOYN3JpolBiEwg.JPEG/1000027629.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20201215_99/1608007848750Ry4cA_JPEG/XbLiwSeI9hZsxsFPAfTAihzq.jpeg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjVfMjA3/MDAxNzUwODIwOTcwMDEx.XBxFEswnyvLl9n3IZTicw8FUa9UEz2o43AtQ7uzthzUg.DjsqqYN3TOFxk-raauvfPULuW-IAUnkx90N5-__DUEEg.JPEG/1000027501.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20201215_112/1608007859434sNtU8_JPEG/KCzxpS9pGkMb-mgLBHaHzS4f.jpeg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjBfMTYz/MDAxNzU4MzM0MDM2MzQ4.FsssBmCZ10DFanzUHx1eKqm2JDGQBIWWqLitqFYE6W8g.F5BjAZ2gVX1FFPun7nYXNO4yvPgkVztzyXSQLizVgnEg.JPEG/20250918_123919.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTBfMTA3/MDAxNzU3NDY5MjAxMDM1.YAD-A8iHdXcIFuf14QtpOs0jwIqLmp3WhWTRnjWConkg.s7oj6Dr08rIZHAOJHz3LaVIc7AwirtaK3Gag0rCAPqIg.JPEG/20250910_093508.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjFfMTUg/MDAxNzYxMDM5NzI4MDY3.5CUhEYqTdbWqJ1PChnD0b6JjDeHUOQHzLGnBmY2lxX8g.5r98kRiGEVxJ4A_zI-M3-nwdaarwBygJSMpQnzTtiLUg.JPEG/FB4C9825-41F8-4E15-B8E6-C6AD39412755.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221212",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": true,
+        "broadcastInfo": {
+          "name": "생생정보통",
+          "menu": "맛집"
+        },
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 3,
+        "id": "33963834",
+        "name": "강남교자 센터원점",
+        "x": "126.9851758",
+        "y": "37.5674482",
+        "distance": 0.049,
+        "categoryName": "칼국수,만두",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220073",
+            "220713"
+          ]
+        ],
+        "category": [
+          "한식",
+          "칼국수,만두"
+        ],
+        "reviewCount": 894,
+        "averagePrice": 5000,
+        "address": "서울특별시 중구 수하동 67 CENTER 1",
+        "roadAddress": "서울특별시 중구 을지로5길 26",
+        "abbrAddress": "수하동 67 CENTER 1",
+        "shortAddress": [
+          "서울 중구",
+          "을지로5길 26"
+        ],
+        "displayContext": [
+          "칼국수",
+          "만두",
+          "초계국수",
+          "비오는날"
+        ],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "이거 한 그릇 다~비워야 키큰다~며 대접 한가득 국수를 담아주시던 할머니. 그런 국수 대접을 다 비우고 나면 남산만큼 부풀어 오르던 배  더 이상 클 키는 없지만 그 예날 손칼국수 생각이 그리",
+        "description": "이거 한 그릇 다~비워야 키큰다~며 대접 한가득 국수를 담아주시던 할머니. 그런 국수 대접을 다 비우고 나면 남산만큼 부풀어 오르던 배  더 이상 클 키는 없지만 그 예날 손칼국수 생각이 그리",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjRfMTA3/MDAxNzQ4MDY3Mzc0MjE4.Hz1YW8aIkVvAu_NNohQE98RRfY5JErgoUF1nQQOxh10g.gIM2a59MRvf9WtjZ2UhLyuud_6WWWkNyJgJtlTcGvk4g.JPEG/8AC19E0B-D83D-4B52-BAB8-A20C86532866.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTZfMTc5/MDAxNzQ0ODExMDk4MDMy.p9ZQaEyyjDSEWOWtyIvFXB9j9zHpoFxmgQ7Cc91AtWog.O4NlsWs3OIMSEt_GkgijxCcDiswJd7Mm2zxUxX2MbFcg.JPEG/1000053310.jpg",
+          "https://ldb-phinf.pstatic.net/20150901_272/1441075353458iQB3z_JPEG/SUBMIT_1398822567100_33963834.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTNfOTIg/MDAxNzYwMzU0ODA4MjE0.QhIeelE5r3sZMp7BfNzhNElA0aZ0KoezYFUqx6BoVLEg.ZTJ58JL19XG4vhxE-yHbmHkH3AQ2LcTO_o2JE5stMfYg.JPEG/9392ABBA-3B6A-4222-8C59-DB1E6A4218C7.jpeg",
+          "https://ldb-phinf.pstatic.net/20150901_295/1441075353658owx2u_JPEG/SUBMIT_1398822710178_33963834.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDFfMjYx/MDAxNzQ4NzU2Njc5NzI1.6a3AKaDU0PNeQ54ykFKfh8mGkcbhQgbV05MuvuFIBkcg.1pjLBkYdxbDI0EzW9MGSAKTIw0G8AQhGBswAppWCBV8g.JPEG/C540D6B6-DB76-4413-BB3E-75D5E3DB5888.jpeg",
+          "https://ldb-phinf.pstatic.net/20150901_266/1441075353901Pl0rP_JPEG/SUBMIT_1398822721431_33963834.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDlfMjc4/MDAxNzQ2NzcwOTQyMjM0.BJBBSi_IR2_BGVMy_l88ClzlD6s8Hlp56958BFoJuOog.Y22NJogfzuw4Ztnzd_ABuLetXe1i3Gs_VSGx9X5e4UAg.JPEG/8362E220-4306-40ED-B215-6806C6781926.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDlfOCAg/MDAxNzQ5NDU1MDg4MjE1.08ZSDGZ5IPNVZ_suxuqXfOcWGkW8vKGHzbb1PVOQ_S8g.4vOy4z1HZKSPkPeGHka0WcdqnkIDdmuM_0WkiPy3Dg8g.JPEG/C47A6D95-423F-4EA6-A4A5-F44E9AC8057B.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjBfNSAg/MDAxNzQ3NzIwMDczNDU3.49FWnG08ycBtyWiaA30oNYi8B3pGBQuBHg2s3whMiXIg.VJoWZOnQ1Le2jGaDT9tshs80D07sdBH-fTUeWnSkGcQg.JPEG/55791F18-9A72-4FA3-9B42-FF35A1BE8887.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220713",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "33963834",
+            "bodySummary": "강남교자 센터원점 서울 중구 을지로5길 26 CENTER 1 2호선 을지로입구역 4번 출구에서 311m 메뉴판 칼국수/떡만두국/교자만두/비빔국수 /닭개장/초계국수/콩국수 7종류의 ",
+            "url": "https://m.blog.naver.com/alsdn811n/223365871091",
+            "nick": "n유닝",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA2MjZfMTUg/MDAxNjg3NzA5OTgyNjYz.0HTvSaqlbyqceaWcSL4z0DQRnkLyak5Qtv2iiFVTCccg.JL3na6NFdPITT260xH4g_hK9fdXgT4Wc4j-oc_LjM-Eg.JPEG.alsdn811n/profileImage.jpg"
+          },
+          {
+            "sid": "33963834",
+            "bodySummary": "상호 : 강남교자 센터원점 업종 : 칼국수, 만두 영업시간 : 매일 11:00 - 20:30 (15:00-17:00 브레이크 타임) 위치 : 수하동 67 미래에셋 센터원빌딩 지하1",
+            "url": "https://m.blog.naver.com/virus880/223301230399",
+            "nick": "막입맨",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA0MTdfMSAg/MDAxNjgxNzA5NjgzNjUy.PzrLi7OFrrw3viw9mllS0ZkG9TwpkdukvTgLUhHDj_Yg.YpHTBaqfg0O9n6FqxITNa5tu61n6LNaKQcBcQ2a_XMsg.PNG.virus880/profileImage.png"
+          },
+          {
+            "sid": "33963834",
+            "bodySummary": "저는 회사 내 구내식당이 있지만 가끔 메뉴가 맘에 안들면 밖에 나가서 자주 먹고있어요ㅎㅎ 그래서 을지로3가에서 근무하는 제가 어제 다녀온! 맛집을 하나 소개해드릴게요 :) 을지로3",
+            "url": "https://m.blog.naver.com/thgus1127/223147332625",
+            "nick": "콩이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA2MjFfNCAg/MDAxNjg3MzAxMzc3NjA3.QsXdRBE4NJwNXSKNkBtjxa7N76_kSqQpKS3ElzaWVpwg.JeLL0-DFMRUdj-SF01WOOCdZQgAVAI5MftaWmM7QY5og.JPEG.thgus1127/profileImage.jpg"
+          },
+          {
+            "sid": "33963834",
+            "bodySummary": "을지로에서 만난 성@@과 함께 강남교자 방문 ㅋㅋ 칼국수 세트로 만두 세개를 같이 먹었다. 배부~~름ㅋㅋㅋ 명동교자랑 맛 거의 비슷함^^",
+            "url": "https://m.blog.naver.com/2sss2/223141081632",
+            "nick": "binny",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20220201_213/2sss2_1643716591254iVqxu_PNG/profileImage.png"
+          },
+          {
+            "sid": "33963834",
+            "bodySummary": "남들. 칼국수랑 만두 먹을 때, 난 닭개장을 먹어 주소 서울 중구 수하동 67 미래에셋 센터원빌딩 지하1층 영업시간 매일 11:00~20:30 / 쉬는시간 15:00~17:00 센",
+            "url": "https://m.blog.naver.com/eungbbuni/223103798471",
+            "nick": "응뿌니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAzMjJfMTY3/MDAxNjc5NDYzMTY4Njc3.qb4atNkhTecvQRY5LpbUfD3Xi3F_ZvrrwOg0J0jnhrYg.oZ5-AaXxcHBEbOlAzqSX7Oi1eP7ndl_1Fo0jvlAFn0Ug.JPEG.kisslim0o0/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "id": "21125416",
+        "name": "웰소반",
+        "x": "126.9855718",
+        "y": "37.567834",
+        "distance": 0.016,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 7,
+        "averagePrice": 30000,
+        "address": "서울특별시 중구 수하동 5 미래에셋 지하1층",
+        "roadAddress": "",
+        "abbrAddress": null,
+        "shortAddress": null,
+        "displayContext": [],
+        "labelTheme": "점심특선",
+        "microReviews": [],
+        "cardDescription": "건강한 밥상을 추구하는 웰빙 한정식당 웰소반 천연 양념으로 숙성시킨 한우 불고기 정식이 일품입니다",
+        "description": "건강한 밥상을 추구하는 웰빙 한정식당 웰소반 천연 양념으로 숙성시킨 한우 불고기 정식이 일품입니다",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20150901_25/1441077901467pSrq4_JPEG/SUBMIT_1380509525918_21125416.jpg",
+          "https://ldb-phinf.pstatic.net/20150901_180/1441077901690DJWhc_JPEG/SUBMIT_1380509523976_21125416.jpg",
+          "https://ldb-phinf.pstatic.net/20150901_188/14410779019115CGc3_JPEG/SUBMIT_1380509524289_21125416.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 5,
+        "id": "38009178",
+        "name": "압구정델리",
+        "x": "126.9851014",
+        "y": "37.5674562",
+        "distance": 0.051,
+        "categoryName": "일식",
+        "categoryPath": [
+          [
+            "220036",
+            "220038",
+            "220090",
+            "220856"
+          ]
+        ],
+        "category": [
+          "일식",
+          "카레"
+        ],
+        "reviewCount": 14,
+        "averagePrice": 0,
+        "address": "서울특별시 중구 수하동 67",
+        "roadAddress": "서울특별시 중구 을지로5길 26",
+        "abbrAddress": "수하동 67",
+        "shortAddress": [
+          "서울 중구",
+          "을지로5길 26"
+        ],
+        "displayContext": [],
+        "labelTheme": "일식",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 수하동 67",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220856",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 6,
+        "id": "1752326511",
+        "name": "뚝심한우 센터원점",
+        "x": "126.9851252",
+        "y": "37.5675736",
+        "distance": 0.039,
+        "categoryName": "소고기구이",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220764",
+            "1000680"
+          ]
+        ],
+        "category": [
+          "한식",
+          "소고기구이"
+        ],
+        "reviewCount": 1178,
+        "averagePrice": 40000,
+        "address": "서울특별시 중구 수하동 67 미래에셋센터원빌딩 B2",
+        "roadAddress": "서울특별시 중구 을지로5길 26",
+        "abbrAddress": "수하동 67 미래에셋센터원빌딩 B2",
+        "shortAddress": [
+          "서울 중구",
+          "을지로5길 26"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "안녕하세요. 맛의 깊이와 공간의 가치를 더하는 곳 뚝심한우 센터원점입니다.  엄선된 한우를 고집스럽게 숙성하였으며, 전문적인 그릴링 서비스가 더해져 한우 본연의 풍미를 극대화하였습니",
+        "description": "안녕하세요. 맛의 깊이와 공간의 가치를 더하는 곳 뚝심한우 센터원점입니다.  엄선된 한우를 고집스럽게 숙성하였으며, 전문적인 그릴링 서비스가 더해져 한우 본연의 풍미를 극대화하였습니",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjNfMjM4/MDAxNzQ3OTYxMjM0Mjkx.EKUkBiDPEmqa4geEApAQHJGxEfEiuLrJbG190ynRgAog.21Ax16sDv-z8aIWpu37FL3S8FeLUZY3eSJSPzDvIXCIg.JPEG/20250521_184118.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTJfMTQw/MDAxNzQ0NDQ0ODg2MzU1.Nauk5h4Yj-kLq69fTN2ru5JW11bTxDrB5jVi2Ab-VP8g.Lxz3Vxt-g_6pxA_btCDjmiMwxnnmwWCdCPM6HblXn14g.JPEG/20250409_123057.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20231110_33/1699596462993jnquT_JPEG/1kg_Chef%27s_Cut_%28%BE%F7%B7%CE%B5%E5%BF%EB%29.jpg",
+          "https://ldb-phinf.pstatic.net/20221214_179/16709911322168a7kn_JPEG/SE-1dcfb254-8f79-4e09-8431-d8675ac68684.jpg",
+          "https://ldb-phinf.pstatic.net/20180620_53/1529490558153GItkp_JPEG/2Z5g5Gbq7jHYON6bwLObXSLn.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1000680",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1752326511",
+            "bodySummary": "방문하게 된 뚝심한우 센터원! 많고 많은 한우집 중에 뚝심한우를 선택한 이유는 콜키지 프리 그 중 센터원점을 선택한 이유는 전석 룸 이왕이면 콜키지 프리면 좋고 2인에게 룸을 제공",
+            "url": "https://m.blog.naver.com/slowrichmskim/223195467720",
+            "nick": "게으른재테커",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA4MDJfODMg/MDAxNjI3OTA2ODcwMjE5.psmmIMJ7BPp4WudUc82En31oCHXeV7qXi9hXj18DpXMg.cQSEINhKeqWEQn09feQDhmIUG9rcu3Gn1liNopexd2Yg.JPEG.khuijeong104/KakaoTalk_20210802_211949496.jpg"
+          },
+          {
+            "sid": "1752326511",
+            "bodySummary": "저의 #포스팅 보시면 #맛집 중 대부분은 #한우 랍니다 ❤️ #고기 러버이니만큼 입맛도 까다로운 편인데, 항상 만족가능한 이 곳은 뚝심한우 센터원점! 제가 다른 지점도 많이 가봤지",
+            "url": "https://m.blog.naver.com/aikyo24/223171528872",
+            "nick": "제니의시크릿",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDAzMDVfMjk0/MDAxNTgzMzk5NjM3NTE5.S5zw81ygY2nTVaH1Yjy7tIgUJHyI-ghI8m7WTTE4AIwg.ZmxomDR8p-_naX05o-PgZuisvE4DA2PIsaLjC0PnGjkg.PNG.aikyo24/profileImage.png"
+          },
+          {
+            "sid": "1752326511",
+            "bodySummary": "남자친구랑 어 여기 옥수동에 있는 거기 아닌가? 라고 말하는데 사장님이 아니라고....ㅋㅋㅋㅋ 머쓱;;; 전부 룸 형식으로 되어있어요 들어가자마자 메뉴판을 보는데 여기 너무 비싼데",
+            "url": "https://m.blog.naver.com/itkyoung_/223170395804",
+            "nick": "잇경",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA2MjRfNDgg/MDAxNjg3NjEwMTI4NTUy.RY2bwrDRk4zMM0RTGFWsVhpLSJ7VOfRocbRNDD5J7Pog.cjak0sATEID4DNzKNQNI40AVbiXNTDayhhNgLZUZDCsg.JPEG.00_oo_00v/12345.jpg/12345.jpg"
+          },
+          {
+            "sid": "1752326511",
+            "bodySummary": "뚝심한우 위치 : 서울 중구 을지로 5길 26 미래에셋센터원빌딩 B2 영업 : 월~금 오전 11시 ~ 오후10시 (브레이크타임 14:30~17:30) 토요일 오후 12ㅣ시~ 오후 ",
+            "url": "https://m.blog.naver.com/dleksql0201/223167635095",
+            "nick": "달콩이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA1MjdfMzAw/MDAxNjg1MTkzNDY4MDc5.CvCEWnhZ4NbX4vKKSicoSWe9HuPDCf5d3Urzh-Dgm0cg.PgGtLmwnM4tqn1KEfIFAatfTyoIhh_5Ytd7hNdLtlIIg.JPEG.dleksql0201/profileImage.jpg"
+          },
+          {
+            "sid": "1752326511",
+            "bodySummary": "센터원에는 맛집이 참 많은 것 같아요. 아그라, 홍수계찜닭, 크레이지후라이 등 실패하지 않는 맛집이 너무x2 많아서 자주 방문합니다. 일단 착석하면, 위 사진과 같이 셋팅을 해주는",
+            "url": "https://m.blog.naver.com/prist03/223141827461",
+            "nick": "푸리스틴",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTA3MzBfMjk3/MDAxNTY0NDYzMjkzNDMx.Y-h24yVIpuMKbEpIgB97ZbJOuVIoNMy085XWt3fOjcYg.uKKqnTz_2Ge6s0vgjLYnpxwIo-rvlGADReijs7nRFYUg.JPEG.prist03/KakaoTalk_20190730_135530017.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

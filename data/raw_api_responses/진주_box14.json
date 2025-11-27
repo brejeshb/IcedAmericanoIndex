@@ -1,0 +1,451 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 6,
+      "count": 6,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 128.1076,
+          "minY": 35.18440450450451,
+          "maxX": 128.1131111282424,
+          "maxY": 35.188909009009016
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "128.1103555641212;35.18665675675676",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1507972704",
+        "name": "카페향원",
+        "x": "128.1127736",
+        "y": "35.1862242",
+        "distance": 0.225,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 135,
+        "averagePrice": 5000,
+        "address": "경상남도 진주시 상대동 426 1층",
+        "roadAddress": "경상남도 진주시 모덕로147번길 8-9",
+        "abbrAddress": "상대동 426 1층",
+        "shortAddress": [
+          "경남 진주시",
+          "모덕로147번길 8-9"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [
+          "오미자에이드의 달콤한 유혹"
+        ],
+        "cardDescription": "오미자에이드의 달콤한 유혹",
+        "description": "향원한정식이 카페향원으로 새롭게 시작합니다. 도심속 정원이 있어 사계절을 오롯이 느낄 수 있는 곳! 전용주차장이 있어 모임하기 좋은 곳! 수제차 맛집 카페향원입니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjdfMjYw/MDAxNzUxMDA1Njg1NDQ4.wBQsApbaieB-VdgxgcNzRtJgpJitIzoDSL-clVHK1iYg.YfWh3XA35tXtCXHSjdwzILdDDnhnnQY82xHtuqsUmwAg.JPEG/21525B4F-4AE0-4889-ACB8-2A073A8EC1B7.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDJfMjA3/MDAxNzU0MTE5OTAxMjQ0.pvw1QY2qusb1Y7eK1z1u1Y-LyIQ5Ns_EX6FRgtFcPBMg.Xfuxn1YdtNyan1j4FyniT1t6USkcIyBcHJjwk2Phopwg.JPEG/6660908B-086D-4237-9D93-BF8C0230EDE6.jpeg",
+          "https://ldb-phinf.pstatic.net/20240405_101/1712291602509w144S_JPEG/1000012398.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTJfMTkx/MDAxNzUyMjkzNDgyNjQw.8fB8lYApdq5UcXR5nEiC1Gj_WpbW9-FSum15QRliP2Qg.SEMoPqNyxLRTGzt1hUjwGTx6zpk9y-SW_bQQS1RDTG8g.JPEG/20250712_130336.jpg",
+          "https://ldb-phinf.pstatic.net/20240405_299/17122916025388oD3F_JPEG/1000012401.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTJfMjEy/MDAxNzUyMzA2MDIwNjIx.ja7Uz6ZCVES9M8e7ZcbX2PTD_0n5dwLlbvaNXMEE138g.BSoAz2cR647VQAi3NrsAYNc1K5B7eTJS9dUlU5Q47U8g.JPEG/20250712_163815.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20231004_36/1696398393419sDnBQ_JPEG/%C8%AD%B8%E9_%C4%B8%C3%B3_2023-10-04_144626.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTVfMTg0/MDAxNzQ3Mjc5NTA3MzMz.0dZqE_bdKoHkUoB48DAMj6WmacPcMg6Pheg4Kp5M6FEg.WCq0yuP5sEcH9TL1VKl0VJJpsZgfSn2ygiBE-8WZEDwg.JPEG/20250510_195118.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "628699481",
+        "name": "둥글둥글",
+        "x": "128.1101751",
+        "y": "35.1862087",
+        "distance": 0.052,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 40,
+        "averagePrice": 5000,
+        "address": "경상남도 진주시 상대동 519-34",
+        "roadAddress": "경상남도 진주시 선학산길 49-2",
+        "abbrAddress": "상대동 519-34",
+        "shortAddress": [
+          "경남 진주시",
+          "선학산길 49-2"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "경상남도 진주시 상대동 519-34",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20241118_275/17319083506636FGOs_JPEG/20241118_143430.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "628699481",
+            "bodySummary": "이번에 방문한곳은 선학산 등산로에 위치한 상대동 맛집 '둥글둥글' 메뉴판은 매우 간단합니다. 낮에는 주로 선학산 등산하시는 분들 위주로 국수를 파시고 저녁엔 동동주 & 안주 위주로",
+            "url": "https://m.blog.naver.com/wldls973/222016758789",
+            "nick": "지이니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA0MTRfMjM0/MDAxNjE4Mzc3MDA4Mzk3.8kXL3vuwK_VxOpJBOP4zfLtHkCaplQeFrEZCEpXDWvgg.2GWyrPwnE4mZWj95r2Z73K2moIfAd31ekv2fCH78CyMg.JPEG.wldls973/B612_20210311_182045_369.jpg"
+          },
+          {
+            "sid": "628699481",
+            "bodySummary": "선학산 등산로 입구에 위치한 동글동글. 진주시내 최고지대에 위치한 식당이 아닐까 싶다... 해발?? ㅎㅎ. 선학산 산보로 가벼워진 몸을 금방 무겁게 해주는 오아시스 같은 곳. 명태",
+            "url": "https://m.blog.naver.com/dmzdm/221267273008",
+            "nick": "돈벌자잉",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA4MTBfMTU1/MDAxNjI4NTczNjEwNzI5.RgdKzyzyPvZ8I2oHvR3140nlRhq_ph3Tvqlcna0f47Qg.uLeUeQVeCnN_j9hqLdX5CeiKxIhhWcIv8oSBoQsKbJMg.PNG.dmzdm/%25EC%25A0%259C%25EB%25AA%25A9%25EC%259D%2584%2B%25EC%259E%2585%25EB%25A0%25A5%25ED%2595%25B4%25EC%25A3%25BC%25EC%2584%25B8%25EC%259A%2594.-001%2B%25283%2529.png"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "id": "15541785",
+        "name": "선학산횟집",
+        "x": "128.109791",
+        "y": "35.1867024",
+        "distance": 0.052,
+        "categoryName": "생선회",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220076",
+            "220792",
+            "221629"
+          ]
+        ],
+        "category": [
+          "한식",
+          "생선회"
+        ],
+        "reviewCount": 14,
+        "averagePrice": 62000,
+        "address": "경상남도 진주시 상대동 519-26",
+        "roadAddress": "경상남도 진주시 선학산길57번길 5",
+        "abbrAddress": "상대동 519-26",
+        "shortAddress": [
+          "경남 진주시",
+          "선학산길57번길 5"
+        ],
+        "displayContext": [],
+        "labelTheme": "고급 정찬",
+        "microReviews": [],
+        "cardDescription": "경상남도 진주시 상대동 519-26",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221629",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 4,
+        "id": "1144210403",
+        "name": "선학농장식당",
+        "x": "128.1116377",
+        "y": "35.1868227",
+        "distance": 0.118,
+        "categoryName": "백숙,삼계탕",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220774",
+            "221606"
+          ]
+        ],
+        "category": [
+          "한식",
+          "백숙,삼계탕"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 0,
+        "address": "경상남도 진주시 하대동 392 1층",
+        "roadAddress": "경상남도 진주시 선학산길 70",
+        "abbrAddress": "하대동 392 1층",
+        "shortAddress": [
+          "경남 진주시",
+          "선학산길 70"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경상남도 진주시 하대동 392 1층",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221606",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 5,
+        "id": "1790902111",
+        "name": "플레버바스켓",
+        "x": "128.1101868",
+        "y": "35.1866283",
+        "distance": 0.016,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 186,
+        "averagePrice": 10000,
+        "address": "경상남도 진주시 상대동 519-36",
+        "roadAddress": "경상남도 진주시 선학산길 55",
+        "abbrAddress": "상대동 519-36",
+        "shortAddress": [
+          "경남 진주시",
+          "선학산길 55"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [
+          "건강한 재료로 만든 디저트의 정석"
+        ],
+        "cardDescription": "건강한 재료로 만든 디저트의 정석",
+        "description": "[ LOCAL FLAVOR IN YOUR BASKET ] 일본 명문 제과학교 나카무라아카데미 출신 파티쉐가 100% 자체 생산하여 신선한 재료 본연의 풍미에 집중한 베이커리카페  [이용안내] - 카페 공간은 2층에 마련되어 있 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMTVfNjQg/MDAxNzYzMTg5Njc3NDgx.EJHh3J0IEhhelgQpuBfNg877CQFEzI25X-u8AccFqRwg.lCd31A8-X1NBxfgky3ly27TgTRADL_RqFaCWZPOfaukg.JPEG/E07B9D3F-0B36-44CC-B322-03CBF5458150.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTBfMjk5/MDAxNzUyMTI4NjUzNDgx.zeMUf2EoJQrTU2jCfVAUDw55oHcBEonZvujxSPTAp_8g.1sSBFgdVYOn4dd9CoY8IoVOTkIQVcs6NJc0bjsBO6qQg.JPEG/F664CC60-C5F9-4726-8F65-C01733E30467.jpeg",
+          "https://ldb-phinf.pstatic.net/20250807_277/17545444247577j92u_JPEG/IMG_5728.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjZfMTA5/MDAxNzYxNDY4NDIwOTUz.dq-DzDBCaAESmMKi5K0Of8PIzMbg139TPy888okBFBUg.zoib_rU555Y3rUtE9__T38zaPjCoq_Vbr1KhbmmdXvQg.JPEG/1761468303911.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250713_237/1752383834716QSjOV_JPEG/955EFF25-E0E0-4276-B50D-3A429D0EB620.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMDlfMTc0/MDAxNzYyNjc2NTAwNjQ4.f1oaBcmxQvznGewrZN4uMlyFzf4TLkXRJ6xA1fcWvW8g.ezSw2wSa0FdzjbG1D5nh5O6OSn_D9meIGeBfM9L8rkog.JPEG/85BF6F7C-1138-4685-92B7-8AEC21CA7C42.jpeg",
+          "https://ldb-phinf.pstatic.net/20250713_98/1752383834431DkfO7_JPEG/CAP_A63A3ED0-1269-4CFE-A709-911C18E4A1C4.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjZfNzUg/MDAxNzUwOTQ3NzU0MTg2.zUWZv1U8wCTVCUV6pI2M7EnUswnRA6GMBknGyf1Q61Mg.saJ01t2OpHUaHa1gs8OEd5W4lCyiSiVkt6BcImzaiQQg.JPEG/1750947725608.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjRfNDAg/MDAxNzUwNzY0MjYyNTYz.G1DQd4_3zxrgqnNh8cuLb9a3vStt28jNQNrSY3yzqgMg.6mIYYhdPphZfnvmqvv_Q5fhqtJQYv8yCVRiG3psfKDAg.JPEG/2025-06-19-14-09-31-985.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMjJfNTUg/MDAxNzYzNzg0NTE5MDEx.gG9YvE2Jkhe7W7ugI7bAaReO1FADYKaaijeeiSOGuAEg.TqAXFh7xkvd6h3t1B_nu2FZWDuWslK3J58TN3CmDb5Ig.JPEG/6E0BDB95-3888-47C3-B383-581C255E99B3.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 6,
+        "id": "1627653264",
+        "name": "주꾸미식회",
+        "x": "128.1100405",
+        "y": "35.1853387",
+        "distance": 0.149,
+        "categoryName": "주꾸미요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220076",
+            "220802",
+            "221677"
+          ]
+        ],
+        "category": [
+          "한식",
+          "주꾸미요리"
+        ],
+        "reviewCount": 56,
+        "averagePrice": 20000,
+        "address": "경상남도 진주시 상대동 552 2층",
+        "roadAddress": "경상남도 진주시 선학산길 37",
+        "abbrAddress": "상대동 552 2층",
+        "shortAddress": [
+          "경남 진주시",
+          "선학산길 37"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경상남도 진주시 상대동 552 2층",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20221022_173/1666367245735StDLc_JPEG/D84FBF2B-AA3A-4B8E-A732-DDAB9A71F785.jpeg",
+          "https://ldb-phinf.pstatic.net/20221022_154/16663672367453XGb9_JPEG/B239DB86-E3A0-4DC7-B787-2D2BCD839162.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221677",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "1627653264",
+            "bodySummary": "인 찐으로 진주애견동반식당 이라고 할 수 있는 곳 ˙˙ 상대동에 위치한 『 쭈꾸미식회 』 제가 살고있는 창원과 남자친구가 사는 진주의 숨은 애견동반카페 / 애견동반식당 까지 모두 ",
+            "url": "https://m.blog.naver.com/thfwl20954/223396311201",
+            "nick": "Solveigs",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA4MjhfMTk4/MDAxNjkzMTQ5NDQ2Nzg0.tqIcWpD2xa5-YjzwpdRO6Q3e5v1lgrBPG786kpKixbcg.VaRLVdKU6saWX59lD1Nlm-xMDH_oAEXwaw77hc-EscYg.PNG.thfwl20954/profileImage.png"
+          },
+          {
+            "sid": "1627653264",
+            "bodySummary": "왜냐면 우리가족은 맵찔이) 다음엔 넣어서 먹어보고싶당 통마쭈도 꽤나 먹어보고싶은 이름이다 여러의미로 재방문할 것 이다 주곱새는 15~20분 정도 소요된다고 적혀있었으나 체감상 10",
+            "url": "https://m.blog.naver.com/dksm1/223352760956",
+            "nick": "매진임당",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDA3MDZfMTc3/MDAxNTkzOTY1NzAxODk2.telDhw4LT3Ba8cQK4f_deExWxtwYtbSOxBwjok-ZlFIg.95UVVpGZpDvD0OBvzxhFtHwdhKDGNMy5zS3t2XIVR_Ug.PNG.dksm1/profileImage.png"
+          },
+          {
+            "sid": "1627653264",
+            "bodySummary": "각종 셀프바! 김이랑 천사채? 깻잎, 쌈무 등도 준비되오 있고 추가반찬은 셀프바를 이용하면되니 참고! 각 테이블마다 화구는 2개로 쭈꾸미만 나오는게 아니라 홍합탕, 도토리묵 무침도",
+            "url": "https://m.blog.naver.com/kimek5373/223247599705",
+            "nick": "리아",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA3MDdfMTYg/MDAxNjg4NzI2ODc0ODkw.ggurRJNH5YDuCZfOODkQKSc_nboJjOfBuA6l0mhYv-8g.j1VCCdlfal7SzTTw8N8XraLKVfXaPfKGuoYYICc_uxsg.PNG.kimek5373/profileImage.png"
+          },
+          {
+            "sid": "1627653264",
+            "bodySummary": "낙지,곱창,새우양이 진짜 너무 많구여.. 크기가 잘가늠이 안되는데 . . 그래서 준비한 손바닥샷ㅋㅋㅋ (급하게 찍어서 잘못나왔지만 그만큼 양이 많다는 거겠져??ㅋㅋㅋㅋ) 진짜 혜자",
+            "url": "https://m.blog.naver.com/sunmiju00/223223440458",
+            "nick": "냠냐미",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20231125_268/sunmiju00_1700901455278Xzan6_JPEG/image.jpg"
+          },
+          {
+            "sid": "1627653264",
+            "bodySummary": "상대동 선학산길을 따라 올라가 여기가 맞나 싶은 곳에 위한 주꾸미 식회 Open 17:00 Close 22:00 ☎️0507-1349-6673 매주 화요일 정기휴무 식당 입구. 느",
+            "url": "https://m.blog.naver.com/matilda78/223214104784",
+            "nick": "화사한 매력",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMDRfMjYy/MDAxNzA0MzQ2ODE1NTM3.VOKvmMVEbsQZCcPBwF7lpAuSnDaUz_HESc2o4dQgAjkg.gBsEU_VqPCb4OZElB3-OEpyOFKzogwaL3he4j7-t4BQg.JPEG.matilda78/profileImage.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

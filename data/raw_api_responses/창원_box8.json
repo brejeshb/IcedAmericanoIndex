@@ -1,0 +1,259 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 4,
+      "count": 4,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 128.670071321935,
+          "minY": 35.2272,
+          "maxX": 128.6755856609675,
+          "maxY": 35.231704504504506
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "128.67282849145124;35.22945225225226",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1395908805",
+        "name": "우일폴리텍창원",
+        "x": "128.6703733",
+        "y": "35.2273195",
+        "distance": 0.326,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 57,
+        "averagePrice": 0,
+        "address": "경상남도 창원시 성산구 내동",
+        "roadAddress": "",
+        "abbrAddress": null,
+        "shortAddress": null,
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "경상남도 창원시 성산구 내동",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjBfNjYg/MDAxNzQ3Njk4OTQ1Njgx.7sDB584TCNs9Y9QA6yCG3IDazU63i2y7H6lQCqkeH24g.sVuSPAJ7dalLUUbygFTpVaikYvF2HlNIM4WYO1k0bicg.JPEG/42C9462E-9DBA-44A1-A385-C793ABE47F5B.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "1474646691",
+        "name": "게꿀맛",
+        "x": "128.6746332",
+        "y": "35.230355",
+        "distance": 0.192,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 12,
+        "averagePrice": 30000,
+        "address": "경상남도 창원시 성산구 중앙동 3-1 1층 게꿀맛",
+        "roadAddress": "경상남도 창원시 성산구 외동반림로142번길 19",
+        "abbrAddress": "중앙동 3-1 1층 게꿀맛",
+        "shortAddress": [
+          "경남 창원시 성산구",
+          "외동반림로142번길 19"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "매주 활어 차로 직접 울진, 구룡포 현지에서 좋은 게를 구매하여 판매합니다!!!  전 메뉴 재난지원금 사용가능 만나서카드결재 사용  앞으로 날씨가 서늘해지면서 가격이 점점 더 오를 것으로  ",
+        "description": "매주 활어 차로 직접 울진, 구룡포 현지에서 좋은 게를 구매하여 판매합니다!!!  전 메뉴 재난지원금 사용가능 만나서카드결재 사용  앞으로 날씨가 서늘해지면서 가격이 점점 더 오를 것으로  ",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20211127_208/163799447948408f9Y_JPEG/1637571046303.jpg",
+          "https://ldb-phinf.pstatic.net/20211127_71/1637994479332NeTKa_JPEG/1637571079258-0.jpg",
+          "https://ldb-phinf.pstatic.net/20211127_36/16379944792870ito1_JPEG/1637571074677.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 3,
+        "id": "1838589085",
+        "name": "대진루 중화요리",
+        "x": "128.6703791",
+        "y": "35.2312238",
+        "distance": 0.297,
+        "categoryName": "중식당",
+        "categoryPath": [
+          [
+            "220036",
+            "220039",
+            "220091",
+            "220861"
+          ]
+        ],
+        "category": [
+          "중식",
+          "중식당"
+        ],
+        "reviewCount": 4,
+        "averagePrice": 0,
+        "address": "경상남도 창원시 의창구 팔용동 7 1층 1호(팔용동,농산물도매시장잔품동)",
+        "roadAddress": "경상남도 창원시 의창구 차상로18번길 45",
+        "abbrAddress": "팔용동 7 1층 1호(팔용동,농산물도매시장잔품동)",
+        "shortAddress": [
+          "경남 창원시 의창구",
+          "차상로18번길 45"
+        ],
+        "displayContext": [],
+        "labelTheme": "중식",
+        "microReviews": [],
+        "cardDescription": "경상남도 창원시 의창구 팔용동 7 1층 1호(팔용동,농산물도매시장잔품동)",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220861",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 4,
+        "id": "1219980694",
+        "name": "구포횟집",
+        "x": "128.673585",
+        "y": "35.2302307",
+        "distance": 0.111,
+        "categoryName": "생선회",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220076",
+            "220792",
+            "221629"
+          ]
+        ],
+        "category": [
+          "한식",
+          "생선회"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 0,
+        "address": "경상남도 창원시 성산구 중앙동 9-6",
+        "roadAddress": "경상남도 창원시 성산구 외동반림로138번길 10",
+        "abbrAddress": "중앙동 9-6",
+        "shortAddress": [
+          "경남 창원시 성산구",
+          "외동반림로138번길 10"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경상남도 창원시 성산구 중앙동 9-6",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221629",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

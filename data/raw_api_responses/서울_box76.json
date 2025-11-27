@@ -1,0 +1,1050 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 15,
+      "count": 15,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.98481944234244,
+          "minY": 37.5601936936937,
+          "maxX": 126.98595601606618,
+          "maxY": 37.5610945945946
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.98538772920432;37.56064414414415",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1194974888",
+        "name": "가배도 명동",
+        "x": "126.9851946",
+        "y": "37.5604018",
+        "distance": 0.032,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "1004982"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 1854,
+        "averagePrice": 5000,
+        "address": "서울특별시 중구 남산동1가 5-2 1층",
+        "roadAddress": "서울특별시 중구 퇴계로18길 10",
+        "abbrAddress": "남산동1가 5-2 1층",
+        "shortAddress": [
+          "서울 중구",
+          "퇴계로18길 10"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "송리단길, 신논현, 삼청에 이은 가배도의 네번째 공간입니다. 아름답게 조성된 화단을 따라 들어오시면 서울에서 가장 번화한 거리 가운데 조용하고 아름다운 커피섬이 있습니다. 가배도의 유 ",
+        "description": "송리단길, 신논현, 삼청에 이은 가배도의 네번째 공간입니다. 아름답게 조성된 화단을 따라 들어오시면 서울에서 가장 번화한 거리 가운데 조용하고 아름다운 커피섬이 있습니다. 가배도의 유 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTZfMjgw/MDAxNzYwNjIxNzEyNjgz.f7EeFMMk4coshYsbNglbblfZY7zpN29EDduc8bW3-2Eg.5PmlC-4wiWqoeZDo7PBKklVw79KkNGI3AQ1y-U0Snvcg.JPEG/20251016_194815.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MThfMTE2/MDAxNzUyODI1MzUwODk5._AEVwP3VHJjp-hzsze9jrPR7Y2oSSr6Fx_l36wQYzPMg.42BtlQO-dFLEeaRZ8VUdg-rYiZX1Vm5tSJAkhiRRHPEg.JPEG/C20CB009-8CE6-4BA9-AD9A-3F72CFB26426.jpeg",
+          "https://ldb-phinf.pstatic.net/20200508_130/1588917561961weEnl_JPEG/YehSFksGE7Jxve9-EjrGibTW.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTFfMTEg/MDAxNzU3NTY0NzExNzE2.RqzluG5iMTfSCWq93_f8SsSK1ecrbs1AqNqJY9-A-vgg.cahMVsL5K7ZOwbhCT6RWlrOp3KJ-xyrHuVRw2Ur-rPAg.JPEG/23233.jpg",
+          "https://ldb-phinf.pstatic.net/20200508_210/1588917561417j182s_JPEG/hSlKtAEDQW4LkF1qZ83e-Xt4.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MThfMiAg/MDAxNzU1NDkyNzA5OTA0.smVpPaOAQZycfBQ1DuLMVh5lRC1irVzusLN0IoWp_HQg.UxRm8voZ5Gd-mlYJIuElLQLoCYSDILIq7kaVjSsOeRMg.JPEG/20888.jpg",
+          "https://ldb-phinf.pstatic.net/20200508_115/1588917561336jXUxg_JPEG/JKFWpl9cAlqaYflF7fIHqb8f.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjVfNTAg/MDAxNzU2MDU0NDE0MjMy.vXg5doeZ8hI-RJzgTvAiZ6Srbb5rh2qARUQliEJFU0gg.xBlmncHDAoY-NOGxDm3DGTkx53G8HurElRh21GUHsmIg.JPEG/1C137941-3EA2-43DB-BC21-B5B1746AEC02.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDFfMTkw/MDAxNzU0MDMzMDE0OTI4.RJYv33fdT9WPlyybriLNgozq8XhgIywJfqvEGO4AV_Mg.6AWl-DjEOSnCSQ1Zsg5CkkWrJD46JcLu1SgqoZcy5Okg.JPEG/EDA91A4A-7B4B-4F59-9061-4DF97996994F.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MzFfMTU1/MDAxNzU2NjEyNjQ2MTky.ho9k10XPgVqyLs2MXK11z82lkcr5Hh3dKIgGcTlWAuUg.uo0hTunQdCwa0rSK_FZOQ6NeGGyUofPgLn9K0lOgXdog.JPEG/20250831_125622.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1004982",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.44",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "1194974888",
+            "bodySummary": "카페 가배도를 아시나요?이름도 정말 특이하죠? 가배도’는 ‘커피’를 뜻하는 ‘咖啡(가배)’에 ‘섬’을 뜻하는 ‘島(도)’가 더해져, 도심 속 커피가 있는 작은 섬의 호젓한 정서를 ",
+            "url": "https://m.blog.naver.com/mariposaa/223397182679",
+            "nick": "KiKi",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20150215_74/mariposaa_1423927877607Gzkwk_JPEG/blog.jpg"
+          },
+          {
+            "sid": "1194974888",
+            "bodySummary": "전화번호 0507-1304-4542 위치 중구 퇴계로18길 10 명동역 3번 출구에서 55m * 유료 주차 가능 플라스크 빌딩 주차장에 주차 가능 최초 30분 3,000원 추가 요",
+            "url": "https://m.blog.naver.com/jjung_2312/223388353416",
+            "nick": "노아",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMTBfMTI3/MDAxNzAyMTkyNjgzNzEw.60TCyWYbzbjSyOs2L_PFLUBC1sVdNbV_JBNG1RMFCrYg.u-tjksXGH6krBS37HVVKappG-1QOYaWpAWuybzKzb2kg.PNG.soulljm923/IMG_0688.png/IMG_0688.png"
+          },
+          {
+            "sid": "1194974888",
+            "bodySummary": "우아.. 사이좋게 아이스아메리카노랑 따듯한 아메리카노를 곁들였다. 체리티라미수.. 진짜 5분도 안되어서 내 위장으로 쏟아버림. ㅠ.ㅜ 또 먹으러 가래애.. 가배도는 사실 의자나 앉",
+            "url": "https://m.blog.naver.com/ddoscent/223388518490",
+            "nick": "또쓴트",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMDRfODAg/MDAxNzA5NTYwMzQ4ODUy.4LJXDYQCJZP8s4Igad3exFkYQhxKzR4uf2ZgasskKTAg.2KS-AqsJfPCHHDvIRy3adg0f5wZhaQ7YuNOgYS2OQOYg.JPEG/profileImage.jpg"
+          },
+          {
+            "sid": "1194974888",
+            "bodySummary": "커피를 고르고, 가배도만의 시그니처 디저트도 함께 주문해요. 차 종류도 있어서 다기들도 쪼로록.. 아메리카노, 그리고 티라미수, 우유판나코타에요. 엄청부드럽고 쫀쫀한.. 에스프레소",
+            "url": "https://m.blog.naver.com/dasomammy/223382216219",
+            "nick": "다소마미",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDAyMTJfMjYx/MDAxNTgxNTEwMDU0NzQ1.N8B36ng34vdPv0K8CF_odVqnlIL_tIUqO6libdciNvMg.iYVIL1OnesmyHli5W7vY63HmQc_X9A1mvV5ZRv_VjaMg.PNG.dasomammy/profileImage.png"
+          },
+          {
+            "sid": "1194974888",
+            "bodySummary": "가배도 명동점 명동에 위치한 널찍한 카페 숨겨져있는 보석을 발견한 기분이었다!!찾아보니 서울에도 지점이 몇개 있는 듯 보였다. 들어갔더니 옛날 감성이 묻어나는 인테리어! 뭔가 우드",
+            "url": "https://m.blog.naver.com/imyh28/223379242170",
+            "nick": "뚜벅뚜벅 카스테라",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA3MDJfMTYg/MDAxNjg4MzA2MDI0NDg2.5PsX6WMiO3cKvPep70GvOnAEjAPSWWlB5UJG4QCdh4wg.CX_peUAVdolk4MuI8MoGk_vo01shETtqKknwJthVDa0g.PNG.imyh28/%25ED%2583%2580%25EC%259D%25B4%25ED%258B%2580.png/%25ED%2583%2580%25EC%259D%25B4%25ED%258B%2580.png"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "id": "1275311415",
+        "name": "델리델리",
+        "x": "126.9849261",
+        "y": "37.5607989",
+        "distance": 0.044,
+        "categoryName": "베이커리",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220564",
+            "221161"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "베이커리"
+        ],
+        "reviewCount": 540,
+        "averagePrice": 0,
+        "address": "서울특별시 중구 충무로2가 109-2",
+        "roadAddress": "서울특별시 중구 퇴계로 124",
+        "abbrAddress": "충무로2가 109-2",
+        "shortAddress": [
+          "서울 중구",
+          "퇴계로 124"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [
+          "입천장 데여도 멈출 수 없는 맛"
+        ],
+        "cardDescription": "입천장 데여도 멈출 수 없는 맛",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjRfMTk2/MDAxNzYxMzE1NTI0NzQ4.TL6WhJwkEmLgCODdKH56vkl_m-Rgrm6EaKkwx6NGHzgg.dknuXum51w0xW1v6pg8RUI0rJfLnoyKHvDFWDnr--jsg.JPEG/20230825_104638.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTBfNiAg/MDAxNzYwMDI0NzI1MjQz.na-V5-S_7aLEfOAZ9mJwvBjZzt96CVFeWjwV5_dQKHog.duVLOvk44kjTRAbho_w6d8MagrbrhRY6ymix6LB-wNYg.JPEG/20250808_191333.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjNfMTY0/MDAxNzYxMTk1NDA3NTg4.UPsY7zw8tghxjJwoi0bApsgtKQJ1Sma92yeC7b1bb_Qg.w8z-6ESR0EGseyU889KtbrmQTg6iPI6kVDoeUZJADo0g.JPEG/1DB1A95E-7263-4693-8C1D-EFA25B445BEC.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDJfMTc5/MDAxNzQ2MTg2NTgzNTEx.kcGNsGDF6BwBHkoR2hCn7ezfa2pNUleJTf2yW5Mcclwg.8r3ypgZnOAk_sJzWqqlvQkupw-XaRk7kgsV6XZENQoYg.JPEG/559B4604-6AE6-4C65-B745-DB8A25E19AF1.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDZfMTYw/MDAxNzQ2NTI5NDY1Mzg0.ZJqjg3Rwwz9tWYM0pyn-KdqBoDASWENhg8ObNCl8ZDkg.07HL6qDkxKd5mdGFMoaLi8r73K97WkNlJ9Pa1FOxMlUg.JPEG/20250426_133803_HDR.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDhfMjcy/MDAxNzQ5MzYyMzY0ODY1.ERymXSy44zqg2gOFAI2AWqRnveZuFsfpVwIsa05zwH8g.YiezN3psGkCZ8lkF9j2uniUaQWTuigu91iwY6dWIg1cg.JPEG/B006DC34-4C32-427D-BA7B-916702DED78B.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTdfMTgw/MDAxNzQ0ODgxNDA2NzIy.Y_oNL_WcyOah2RoEr2q3K2Cgdx8EXkF3975IMMqV-Pgg.VC22awClIobS9qaBniYckLiZ-fwPhFeGuMD2WNj4oUYg.JPEG/EA75804F-CD5C-495B-8F4D-08B43A948B7E.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDNfODAg/MDAxNzU0MjAxMzk1ODcx.PvASbv0kxtPDbMffM9L8zfXCCO7MXkyv1jQWm02iZ18g.grlGgZlexEnxwm3n2POJ7TOcFShc5vvd7y59pF9qZhQg.JPEG/1000155265.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDZfMjIw/MDAxNzU5NzIzMzE2Nzky.E2WjLcUJ5ZfroqGS56BDa8a-vmvjaypripfLCmXh0U8g.Cf__ggA7lVulT9DR7DH7-92T0zBzTovb4OoMp74IDowg.JPEG/CC76B8A2-13B5-4546-9A60-4CCFB6417160.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTdfMzEg/MDAxNzU4MDM2NTM5MDM2.D6RVYKNwyq94rf2apWm8QsR5FwFK1Wwb-2FMqvyqsAIg.oXUwN7aV6sTQRgLcTaJmcmtclIaL4I9eiQCnDJRWuCUg.JPEG/Screenshot_20250916_181133_Outlook.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221161",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1275311415",
+            "bodySummary": "평일 낮 같은 사람이 없는 시간대에는 지하철 하차 후 재승차 15분 동안 과금되지 않는 것을 이용해 후딱 사서 다시 지하철 타시는 방법도 있답니닷ㅋㅋㅋ 하지만 그것도 다 줄이 없을",
+            "url": "https://m.blog.naver.com/jisoo831/223395226349",
+            "nick": "zizoo",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxODAyMTRfNyAg/MDAxNTE4NTQ2ODY0NDUw.95jAR7bPLPqZg4SeB3eZLBZ_ZKbK3zWFJD62kVOmsg0g.jzCusxR55Db9GL_p48t3aN1gQps47zzFRKidOynDNYgg.JPEG.jisoo831/profileImage.jpg"
+          },
+          {
+            "sid": "1275311415",
+            "bodySummary": "지하철역에서만 파는 델리만쥬! 델리만쥬 파는 역이 몇 개 있는데 명동역 델리만쥬가 1호점 본점이라고 하길래 남산 투어 온 기념 다녀왔다. 명동역 나가는곳 4번출구쪽 근처에 있고, ",
+            "url": "https://m.blog.naver.com/bubblely00/223393577445",
+            "nick": "쿼카지니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMjRfMTM1/MDAxNzExMjYwMzY4OTAz.i007QnP6ITr2VVB-bkZzy64IXI_4omjDSB8s8-xJjY0g.LQ8aRAO63TMOTQVkETv8D-onskQOQVVAX6fTtdR1T3Mg.PNG/profileImage.png"
+          },
+          {
+            "sid": "1275311415",
+            "bodySummary": "최근 SNS에서 핫해진 명동 델리만쥬 1호점에 다녀왔다 사실 델리만쥬는 냄새를 못따라오는 간식으로 유명해서 오히려 냄새가 너무 좋아도 별로 안사먹었는데 여기는 냄새를 따라오는 맛이",
+            "url": "https://m.blog.naver.com/grb_080913/223387568265",
+            "nick": "얌지얌",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMjZfMTU3/MDAxNzAxMDAyNzU2NjQ4.9-7fAdJNAvAIAwO3QtHXcOLRF6RswX7sXQo6KCF2w90g.uxAipk1GquZAmCmdm9pJ291YH9ycRHw2G-HsRksJr-wg.JPEG.grb_080913/profileImage.jpg"
+          },
+          {
+            "sid": "1275311415",
+            "bodySummary": "애기때 부모님이 자주 사다주셨던 추억이 있다.. (기억은 안나지만) 배부를때까지 만쥬 먹고싶어했을것같다.. 명동 델리만쥬 개수 및 가격은 S(6개) 3000원 M(12개) 5000",
+            "url": "https://m.blog.naver.com/cdy1616/223381982643",
+            "nick": "윤다",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTEyMDJfMjgw/MDAxNjM4NDQ2OTIzMDE1.oRMGDsWgD1cwpf4LXjGgYEXW1w9wP84GnAfQWdEjj8Ug.tJrPSCgEplqimOoxjhYTg7qmadBmFNprs8FSjaj65AAg.PNG.cdy1616/profileImage.png"
+          },
+          {
+            "sid": "1275311415",
+            "bodySummary": "솔직히 델리만쥬에 대해 늘 냄새에 끌려 구매하고 텁텁한 빵만 먹어서 아쉬웠는데 여기는 커스터드 크림이 따끈따끈한 상태로 바로 구워주시니 너무 맛있더라구요 유일한 단점은 너무 달아서",
+            "url": "https://m.blog.naver.com/rocketkim_/223375900431",
+            "nick": "너굴맨 김로켓",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAyMThfMTI4/MDAxNzA4MjU0MDI4OTc2.uD789kkOo13ZE6AJsLkOb9pUrvMPYihAji6c46zc534g.tOHnaWSYByXmzowe4KxZdbAZp1mmhTp0JJ5ZmsFcDvYg.JPEG.nzdave94/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "id": "1958883161",
+        "name": "명동채움한정식",
+        "x": "126.9858012",
+        "y": "37.560374",
+        "distance": 0.047,
+        "categoryName": "한정식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220056",
+            "220594"
+          ]
+        ],
+        "category": [
+          "한식",
+          "한정식"
+        ],
+        "reviewCount": 156,
+        "averagePrice": 30000,
+        "address": "서울특별시 중구 남산동2가 6-1 지하2층",
+        "roadAddress": "서울특별시 중구 퇴계로18길 7",
+        "abbrAddress": "남산동2가 6-1 지하2층",
+        "shortAddress": [
+          "서울 중구",
+          "퇴계로18길 7"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [
+          "원형 테이블에서 즐기는 회전식 서빙"
+        ],
+        "cardDescription": "원형 테이블에서 즐기는 회전식 서빙",
+        "description": "서울 명동역3번 출구에 있는 140평 규모의 대형 한정식 매장입니다.10~40명 수용 가능한 여유로운 룸이 준비되어 있고 매장 전체 최대150명까지 예약 가능합니다. 저희 명동채움한정식은 1인당 25,0",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTZfMjA0/MDAxNzUyNjM5NTQyMzE4.HMK9p4Ga8PwsScL9NOqrpnSkqRbGeMm254s9PwICIzsg.d_jYd_cM2nLbbYXW5Anmm8b3FIps3gi0YnT3k-jb5N8g.JPEG/mmexport1752591445761.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDdfMTQz/MDAxNzQ5MjgzNzgxNjQ4.OJ9ADdMwOEh4w2t0WzBg2hsssfW3NuqU3TB2tkeRFKAg.Z7fKuyzVoos2xBexBhks3kABeN7OKzCxqK3AQx4Ld2Yg.JPEG/1000028081.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240829_194/1724891919421dQqcr_JPEG/IMG_0913.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjZfMTM0/MDAxNzUzNTM2ODkwMzM5.QyUH3BYStxJSXS8fJY_OcNnPTw00-wdUq-Z-QPdXNjYg.EDhXIsYF1Yvr8lEC-ijNdLAlWgBzbQIRQvz4h6MXVewg.JPEG/20250726_190029.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240829_286/1724891920668jMGJS_JPEG/IMG_0914.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTAzMzFfNTkg/MDAxNzQzMzk2NDcxNDg0.kWf-TZPu3OpnkPmbFfjmjUQCndt8V30_q4KhjpKRHuAg.CIkXOpLtFeDfd4Td2rvfWNcxTi5OuSxEh6dQpeFOOqYg.JPEG/09636C6F-0CCC-41A6-8B1F-44D65868FC96.jpeg",
+          "https://ldb-phinf.pstatic.net/20240829_255/1724891920790Rp8sg_JPEG/IMG_0844.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDlfNjYg/MDAxNzYwMDE5MzE2NDk3.C-o7YsZL-SS5aDMgL1mXxQugWqAMsqk67LHrxG7VYcog.5jfKNV7RX411n2XQnAzdMVdd4M7W86K6GqWaoTa99eEg.JPEG/1758364045851.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjVfODQg/MDAxNzYxMzkyNTI5NjI2.4FizClazv4BNwu-J8MdS30gfNPvgk1U7fK4yfdgKoYUg.xnRb6wjHiP8xrMhVyQEzkwE8y_LEyzG42W-tU4M13cMg.JPEG/20251025_194752.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDJfMTc3/MDAxNzU5NDA1NDEwNTcw.yLoZiW0Q1H24BiLpPHIhvckOWpqCBsHsVLe3tpQwrG8g.MlbAPQ_cQgUF8kKzsJNaZx8r9rGLFe4_hY0O9Ts-o3kg.JPEG/20251002_133856.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220594",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 4,
+        "id": "88082486",
+        "name": "카스쿠르트",
+        "x": "126.9853449",
+        "y": "37.5608443",
+        "distance": 0.023,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 108,
+        "averagePrice": 5000,
+        "address": "서울특별시 중구 충무로2가 109-2 명동역지하쇼핑센터",
+        "roadAddress": "서울특별시 중구 퇴계로 124",
+        "abbrAddress": "충무로2가 109-2 명동역지하쇼핑센터",
+        "shortAddress": [
+          "서울 중구",
+          "퇴계로 124"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 충무로2가 109-2 명동역지하쇼핑센터",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjJfNzAg/MDAxNzYxMTMzODc4MjQy.OlUahwtCaVjegglUENOzfsdiVcXInrH97TBF_86WSGAg.SdjiHylo8VfQ7SWTAtnyr5Ot68MxwTEZVan8Wvr1-tQg.JPEG/20251022_185226.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 5,
+        "id": "31315800",
+        "name": "manoffincoffee 명동역지하쇼핑센터점",
+        "x": "126.9848844",
+        "y": "37.5607928",
+        "distance": 0.047,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221212"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 9,
+        "averagePrice": 0,
+        "address": "서울특별시 중구 충무로2가 109-2 명동역지하쇼핑센터",
+        "roadAddress": "서울특별시 중구 퇴계로 124",
+        "abbrAddress": "충무로2가 109-2 명동역지하쇼핑센터",
+        "shortAddress": [
+          "서울 중구",
+          "퇴계로 124"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 충무로2가 109-2 명동역지하쇼핑센터",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20191205_198/1575518827235IqV7T_JPEG/OdvgFsPuNGyTgSyUosEaj8fO.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221212",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 6,
+        "id": "1305391863",
+        "name": "신세대휴게소",
+        "x": "126.9849271",
+        "y": "37.5609439",
+        "distance": 0.053,
+        "categoryName": "종합분식",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220185"
+          ]
+        ],
+        "category": [
+          "분식",
+          "종합분식"
+        ],
+        "reviewCount": 172,
+        "averagePrice": 0,
+        "address": "서울특별시 중구 충무로2가 109-2",
+        "roadAddress": "서울특별시 중구 퇴계로 124",
+        "abbrAddress": "충무로2가 109-2",
+        "shortAddress": [
+          "서울 중구",
+          "퇴계로 124"
+        ],
+        "displayContext": [],
+        "labelTheme": "분식",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 충무로2가 109-2",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjBfODIg/MDAxNzUwNDI4NzkzMjY4.iSzQpoL0uXTYtdI-YJ20f7hzNYz7WcVX9A5G24FgzcUg.n6v9Vzv_j8fx71gdPF_SNV5fakZra5eZ1R0qKsG0IXkg.JPEG/03F5968F-87AE-439E-8B1F-FD60C3003A83.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjVfNjkg/MDAxNzQ1NTQ5OTg1Nzcy.gBEP2mUOY9eC-2sf242RQDaH0UvkjQf8_JwzpHf_DsAg.E2TwawqrpQFI1iqm8CLS36NIoKDkS1wK3DPym6kGCyQg.JPEG/Screenshot_20250425_115753_Samsung_Internet.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220185",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 7,
+        "id": "52865413",
+        "name": "명동맛나",
+        "x": "126.9853449",
+        "y": "37.5608443",
+        "distance": 0.023,
+        "categoryName": "종합분식",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220185"
+          ]
+        ],
+        "category": [
+          "분식",
+          "종합분식"
+        ],
+        "reviewCount": 10,
+        "averagePrice": 3000,
+        "address": "서울특별시 중구 충무로2가 109-2 명동역지하쇼핑센터",
+        "roadAddress": "서울특별시 중구 퇴계로 124",
+        "abbrAddress": "충무로2가 109-2 명동역지하쇼핑센터",
+        "shortAddress": [
+          "서울 중구",
+          "퇴계로 124"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 충무로2가 109-2 명동역지하쇼핑센터",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20200331_247/1585632619980sFfbl_JPEG/oPvrDd_lvLn_1aZ7gEQ98kYD.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220185",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 8,
+        "id": "33342821",
+        "name": "파리바게뜨 명동역남산점",
+        "x": "126.9848467",
+        "y": "37.5605982",
+        "distance": 0.048,
+        "categoryName": "베이커리",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220564",
+            "221176"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "베이커리"
+        ],
+        "reviewCount": 2171,
+        "averagePrice": 0,
+        "address": "서울특별시 중구 남산동1가 1-4",
+        "roadAddress": "서울특별시 중구 퇴계로 118",
+        "abbrAddress": "남산동1가 1-4",
+        "shortAddress": [
+          "서울 중구",
+          "퇴계로 118"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "파리바게뜨 명동역남산점입니다. 네이버 스마트주문에서 간편하게 주문하세요!",
+        "description": "파리바게뜨 명동역남산점입니다. 네이버 스마트주문에서 간편하게 주문하세요!",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDFfNDEg/MDAxNzU5MzA2NjYwNzQw.Pat5vAT7EjH6uDIw5vWgKM_liKgmKaFyIkgstD8GI8Ug.NvlPsRgU8RyeS3xTDxRBSPvgVcbPf03S7APLTpfyBzwg.JPEG/20250930_204559.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDFfMzgg/MDAxNzU0MDM4ODU5MDg1.NOjl4iK8--mbtkimR00XOafDioL1OrOVVysvNcId83Ig.REMdrjSLntrQy7nzod6MHSvmXyv13CCdMXoDaxoDf9Mg.JPEG/530A6EA8-CF34-4401-8323-01AA507596E8.jpeg",
+          "https://ldb-phinf.pstatic.net/20220516_168/1652691327674Ydhl7_JPEG/1651045575718.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MThfMjg5/MDAxNzU1NDc4Mzc3NDk2.2YfMfcXcsDJ0XggiS3qXT1Ko5JvgCC7dx1OrY9q4yf0g.X2cYbS7tUgW2lNIwySqZNtAaum7G9cmofiCyWOHcB4sg.JPEG/20250818_093517.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20220516_208/1652691380761jtQIV_JPEG/20220512_132759.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTJfMjQ3/MDAxNzU0OTc0OTU3MjI4.GDNjvAT3iu0lxuX1UkBMvYNlVen08BcsHi6Zlv_nr9Ig.RkPtq49NpUlFxXS4E2fqXEfwl57jxzlH0GQ9jk-ko5Yg.JPEG/0622CE54-5218-45E6-B802-EF43186E113C.jpeg",
+          "https://ldb-phinf.pstatic.net/20220516_172/1652691382556zQMPo_JPEG/20220512_131100.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDVfNjgg/MDAxNzU3MDc1NTA5NTI3.zb1Oy4trvjh8vjgAYDHmVbcNxjCHF2xgD-oOwdfS3qAg.av4FTbvo6Mmbac2KxvW0blKQRVNNJZBC7YBchIbgAyQg.JPEG/E86920A5-D648-45A8-86C0-1191FE4752A5.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDhfMjc3/MDAxNzU5ODk5ODEzMTcw.vZs5DKf3k5Ht39qZACb0B5dh81yvkki4Ar2EViGvKcMg.PutUFDJffk4SFDT7BQwujwRs76v2cfPEBlP8SAbPM5Ug.JPEG/20251008_140213.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTJfOTUg/MDAxNzU0OTc0ODk5NjIy.rBkxud-qj7JRy2s4dBlGVmsaGRKGxIrA2ZeB7FdxRDsg.0GqTbiaeExCjlVdfPd6BYHktRyTnjyuWvKQHU7Jt0Vog.JPEG/3E953031-67EE-4B15-BF27-DC949CBA921E.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221176",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.38",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 9,
+        "id": "1143775724",
+        "name": "신의주찹쌀순대 명동역점",
+        "x": "126.985861",
+        "y": "37.5610912",
+        "distance": 0.065,
+        "categoryName": "순대,순댓국",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220768",
+            "221550"
+          ]
+        ],
+        "category": [
+          "한식",
+          "순대,순댓국"
+        ],
+        "reviewCount": 793,
+        "averagePrice": 10000,
+        "address": "서울특별시 중구 충무로2가 65-11 지하 1층",
+        "roadAddress": "서울특별시 중구 퇴계로 125",
+        "abbrAddress": "충무로2가 65-11 지하 1층",
+        "shortAddress": [
+          "서울 중구",
+          "퇴계로 125"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 충무로2가 65-11 지하 1층",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTRfNyAg/MDAxNzQ5ODgxODgwOTkz.gPVdZRdpytoxrZzoVMyCO01lChj9pv2QDNPgqHlVARYg.gOf_52FDmE5wtDKAQTRhnvh9oOXlPyDO1dcSFKB_6Pkg.JPEG/1F7661EE-6085-4FA9-BC61-95ACF872D8FB.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTFfMTUx/MDAxNzU3NTkxMTQ3OTI5.DUEkhvune84txBkAjAUEHSsrB8OsHlY-WP210kGRDH4g.7upFUOxRNn6A1h9_pd1zGRX1-blTCb6E-IUpJfl41pkg.JPEG/20250911_114254.jpg",
+          "https://ldb-phinf.pstatic.net/20240613_56/1718243272093OfEmk_PNG/%BD%BA%B8%B6%C6%AE%C7%C3%B7%B9%C0%CC%BD%BA_%BE%F7%C3%BC%C0%CC%B9%CC%C1%F61.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTJfMjI3/MDAxNzU0OTc1MTk2OTk1.H0UA4h_AKCBgANg539D2YUzLSAwf-qIwnDJnaug5rl0g.vDtf27l2l_PICIvOCQfWxh9oWHPXkg3fpyIwdIZ24QIg.JPEG/5D7547E8-E5C2-438F-9EA0-044EC596671D.jpeg",
+          "https://ldb-phinf.pstatic.net/20240613_127/1718243272114URH6O_PNG/%BD%BA%B8%B6%C6%AE%C7%C3%B7%B9%C0%CC%BD%BA_%BE%F7%C3%BC%C0%CC%B9%CC%C1%F6_%BA%EA%B7%A3%B5%E5%C0%CC%B9%CC%C1%F61.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjZfNzUg/MDAxNzUzNTAxODY5Nzcx.Md5s2yuHsgNhil6KzkfEwnGEBqDspWnfhFTzvI3kVKUg.xmtrwWj3qGP_4yA5JjfDhRQ9F5yKzxSpcmVW1Woklhsg.JPEG/E2D531B7-D62D-4E4B-8373-598DD5E8524E.jpeg",
+          "https://ldb-phinf.pstatic.net/20240613_81/1718243272064rDqLk_PNG/%BD%BA%B8%B6%C6%AE%C7%C3%B7%B9%C0%CC%BD%BA_%BE%F7%C3%BC%C0%CC%B9%CC%C1%F63.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjJfODAg/MDAxNzQ1MjkwNTI5MjAx.NnPubXg4Kw6rS7jPniM347-hFCc7Ercisbz3jVw5KCQg.FMaTWVmMiBE8foHz4-hF4MWichMXwvqRgymzGY05aD8g.JPEG/20250422_114422.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjJfOCAg/MDAxNzQ1MzE0MzIwNjEx.BETGDmPjrqjRt7CcdoOL86_xlppI1KKr12zwzL20KDEg.tKsF9Oy_yTgAtcba2ljJd8dHzcB_s2kjK035exdMrIIg.JPEG/20250422_114422.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjNfMzMg/MDAxNzU1OTM4Nzg4NTM2.lIQ_Xcpw0anz_NdggdmI3dpSxxvF6DYCj-sFUk2ytEsg.bflq2hDmWuYhcVkNlQYSNB3o7EPvUlMDt7wT5wnR0dQg.JPEG/9CBD75F7-B5BE-4881-A354-689D5CBC0985.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221550",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1143775724",
+            "bodySummary": "내용물이 아주 실하게 들어있는게 명동 신의주 특장점! 근처에 보승회관이 있는데 그곳 순대국에는 내용물이 거의 들어있지 않은데 신의주가 짱짱~ 명동 을지로에 순대국밥 맛집에 꽤나 많",
+            "url": "https://m.blog.naver.com/you91831/223178083386",
+            "nick": "라온헤윰",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDEwMjRfMjU1/MDAxNjAzNTM3ODIzMTUx.KO87Jjvg_qVRWUjvRSyPVfQifmutecPFt_uGBGojryEg.0jX8G1s9JWBEJrpgzsNmj4aVYNTOuW_DqlSq_UrEQVYg.JPEG.you91831/profileImage.jpg"
+          },
+          {
+            "sid": "1143775724",
+            "bodySummary": "(점심시간에 가면 뭔가 사진 찍기가 뭐 해서 포스팅을 미루게 된달까...) 신의주 찹쌀순대 명동역점 내부 B1에 있어서 계단을 내려가면 바로 매장이 나오는데 왼쪽 사진 안쪽까지 해",
+            "url": "https://m.blog.naver.com/yipa08/223092259204",
+            "nick": "이파",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA2MDJfMSAg/MDAxNjg1NjYzODM0NzU0.8dEr3UW512P2Pjheu40NjqKh7RrLliqdlq-0ZCcoZYog.6T0bgV6qbqER0XWStHEHm3wbU311fyRKjA-MFe7in8Eg.JPEG.kuroi666/IMG_7811.jpg/IMG_7811.jpg"
+          },
+          {
+            "sid": "1143775724",
+            "bodySummary": "그래서 제 또또또간집을 추천해드리려고해요. 매일 11시~24시까지 신의주 찹쌀 순대 명동역점 입니다! 그냥 보면 스쳐지나갈 수 있으니 저 동그란 간판과 앞에 세워진 입간판을 보시는",
+            "url": "https://m.blog.naver.com/allmyluv3-/223049694923",
+            "nick": "수이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA2MTZfMzAw/MDAxNjg2OTI1NjI5NzE0.ZDUv5wTwy4qsUO9eUUwEQCtUgFWu-TdJ1tmLxEEUojIg.K2hIrKZakTwaUtTkQmUANe9RGPhk5UvuYS8lqcOEedQg.JPEG.susung0913/profileImage.jpg"
+          },
+          {
+            "sid": "1143775724",
+            "bodySummary": "새우젓은 따로 넣지 않아도 괜찮을 만큼 간이 잘 되어 있었어요^^ 추운 겨울 아침(오전)에 칼칼하게 국물하고 순대국에 밥말아 한 뚝배기 뚝딱했더니 속이 둔둔하네요! 혼밥족도 가족단",
+            "url": "https://m.blog.naver.com/ejr8806/222954335154",
+            "nick": "제니이이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20150519_190/ejr8806_1432025132205JdzKL_JPEG/profileImage.jpg"
+          },
+          {
+            "sid": "1143775724",
+            "bodySummary": "신의주수육국밥 #실패없는 #믿고먹는 #신의주 #순대국 #수육국밥 #뼈해장국 신의주찹쌀순대 - 명동역점 정보 0507-1404-9555 서울 중구 퇴계로 125 지하1층 4호선 명동",
+            "url": "https://m.blog.naver.com/lucky8804/222729124760",
+            "nick": "주퀸",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAxMjdfMTI2/MDAxNjQzMjU1NTAxMjQw.XVZW8v68PW0e3oXL47qpAfqJPkrjY7RQdWF7lxEOLpUg.OwTJASeibFjS1Pc6swn4CO3_qMQFjqwVLwgI9VoQpgkg.JPEG.lucky8804/felicitysmile.jpg/felicitysmile.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "id": "31315672",
+        "name": "맛나분식 명동역지하쇼핑센터점",
+        "x": "126.9857239",
+        "y": "37.5608841",
+        "distance": 0.04,
+        "categoryName": "종합분식",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220185"
+          ]
+        ],
+        "category": [
+          "분식",
+          "종합분식"
+        ],
+        "reviewCount": 39,
+        "averagePrice": 2000,
+        "address": "서울특별시 중구 충무로2가 109-2 명동역지하쇼핑센터 F-5,6",
+        "roadAddress": "서울특별시 중구 퇴계로 124",
+        "abbrAddress": "충무로2가 109-2 명동역지하쇼핑센터 F-5,6",
+        "shortAddress": [
+          "서울 중구",
+          "퇴계로 124"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 충무로2가 109-2 명동역지하쇼핑센터 F-5,6",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20200902_209/1599036015824VQ7eq_JPEG/AsiWDD29fuo73Dogd6mR607s.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220185",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 11,
+        "id": "31315673",
+        "name": "신세대식품 명동역지하쇼핑센터점",
+        "x": "126.9849271",
+        "y": "37.5609439",
+        "distance": 0.053,
+        "categoryName": "종합분식",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220185"
+          ]
+        ],
+        "category": [
+          "분식",
+          "종합분식"
+        ],
+        "reviewCount": 106,
+        "averagePrice": 3000,
+        "address": "서울특별시 중구 충무로2가 109-2 명동역지하쇼핑센터 A-1",
+        "roadAddress": "서울특별시 중구 퇴계로 124",
+        "abbrAddress": "충무로2가 109-2 명동역지하쇼핑센터 A-1",
+        "shortAddress": [
+          "서울 중구",
+          "퇴계로 124"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 충무로2가 109-2 명동역지하쇼핑센터 A-1",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220185",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 12,
+        "id": "1643095960",
+        "name": "하우 명동역점",
+        "x": "126.9853702",
+        "y": "37.5608583",
+        "distance": 0.024,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 100,
+        "averagePrice": 0,
+        "address": "서울특별시 중구 충무로2가 109-2 명동역지하쇼핑센터",
+        "roadAddress": "서울특별시 중구 퇴계로 124",
+        "abbrAddress": "충무로2가 109-2 명동역지하쇼핑센터",
+        "shortAddress": [
+          "서울 중구",
+          "퇴계로 124"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 충무로2가 109-2 명동역지하쇼핑센터",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 13,
+        "id": "2060752105",
+        "name": "매머드익스프레스 명동역3번출구점",
+        "x": "126.9854191",
+        "y": "37.5604408",
+        "distance": 0.023,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "230847"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 4,
+        "averagePrice": 0,
+        "address": "서울특별시 중구 남산동1가 5-1 1층",
+        "roadAddress": "서울특별시 중구 퇴계로18길 8",
+        "abbrAddress": "남산동1가 5-1 1층",
+        "shortAddress": [
+          "서울 중구",
+          "퇴계로18길 8"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "매머드익스프레스 명동역 3번출구점입니다",
+        "description": "매머드익스프레스 명동역 3번출구점입니다",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTRfMTYy/MDAxNzYwNDMwNjQyNjU2.Xgm5x9r-PQbH_oG_eaqkZ5tE3FWXRkS4_fstIGu9r2Eg.0LNGHQvaKrAck5T9k2FdCT4TmvZSGTcscPBif0jM7n0g.JPEG/20251014_131135.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250917_116/17580756308928P1PF_JPEG/IMG_4907.jpeg",
+          "https://ldb-phinf.pstatic.net/20250917_146/17580756306414q2te_JPEG/IMG_4909.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "230847",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 14,
+        "id": "2083451942",
+        "name": "제이베이커리 명동점",
+        "x": "126.985654",
+        "y": "37.5603184",
+        "distance": 0.043,
+        "categoryName": "베이커리",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220564",
+            "221161"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "베이커리"
+        ],
+        "reviewCount": 1,
+        "averagePrice": 10000,
+        "address": "서울특별시 중구 남산동2가 6-4 1층",
+        "roadAddress": "서울특별시 중구 퇴계로18길 11",
+        "abbrAddress": "남산동2가 6-4 1층",
+        "shortAddress": [
+          "서울 중구",
+          "퇴계로18길 11"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "페스츄리붕어빵 전문 베이커리점이며 커피와 음료 각종 디져트를 생산하여 판매를 합니다. 용인에 공장을 가지고 있으며 지하철 역사 매장을 다량 운영하고 있습니다. 좋은 재료 우리 가족이  ",
+        "description": "페스츄리붕어빵 전문 베이커리점이며 커피와 음료 각종 디져트를 생산하여 판매를 합니다. 용인에 공장을 가지고 있으며 지하철 역사 매장을 다량 운영하고 있습니다. 좋은 재료 우리 가족이  ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDNfMTY2/MDAxNzU2ODg5MjQ4OTgz.YtbjiJeKaFzn56md02t2RsQ_Mwl8ck4Rh2nVGEDdS_og.rXPAgvX98igOu_iXNZaf7dVxxPuixr6HZjyQKS84yQAg.JPEG/1745312755968.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDFfODkg/MDAxNzUxMzQzODIxMDYw.tFDgYIG-tNuZ5NGgC3XGeU-Qrpj9Sy_gHxKojRIKt-0g.BhNMqlpYhkk3F1qjaLmYGgMd1eGJgjcQ2XxxPfApWzYg.JPEG/2920819F-D630-4E56-81A2-C24EF1FB28F0.jpeg",
+          "https://ldb-phinf.pstatic.net/20250828_85/1756387657140QuGbR_JPEG/KakaoTalk_20250422_171610958_09.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDlfMjgz/MDAxNzU0NzQ3MTQyMzYz.AoaqpmnMJj17YlabMedJ4xFt49LvNOudvVtoar9XLM0g.nMZi4QocExbQuyBYc3fn4mKhZBQpnCb4RRnsRyr3-gEg.JPEG/1000045351.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250828_64/1756387603100htrpg_JPEG/KakaoTalk_20250422_171610958_04.jpg",
+          "https://ldb-phinf.pstatic.net/20250828_285/1756387584969mnF6Q_JPEG/KakaoTalk_20250422_171610958.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221161",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 15,
+        "id": "36732827",
+        "name": "종로명인단팥빵 명동역지하쇼핑센터점",
+        "x": "126.9849694",
+        "y": "37.5607704",
+        "distance": 0.039,
+        "categoryName": "베이커리",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220564",
+            "221161"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "베이커리"
+        ],
+        "reviewCount": 3,
+        "averagePrice": 0,
+        "address": "서울특별시 중구 충무로2가 109-2 명동역지하쇼핑센터 A-6,7",
+        "roadAddress": "서울특별시 중구 퇴계로 124",
+        "abbrAddress": "충무로2가 109-2 명동역지하쇼핑센터 A-6,7",
+        "shortAddress": [
+          "서울 중구",
+          "퇴계로 124"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 충무로2가 109-2 명동역지하쇼핑센터 A-6,7",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221161",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

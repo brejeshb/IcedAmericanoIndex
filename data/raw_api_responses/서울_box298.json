@@ -1,0 +1,166 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 2,
+      "count": 2,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.98709258978992,
+          "minY": 37.570103603603606,
+          "maxX": 126.98822916351367,
+          "maxY": 37.57100450450451
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.9876608766518;37.57055405405406",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1213642320",
+        "name": "아오리의행방불명 광화문센트럴점",
+        "x": "126.9872925",
+        "y": "37.5704251",
+        "distance": 0.036,
+        "categoryName": "일식",
+        "categoryPath": [
+          [
+            "220036",
+            "220038",
+            "220087",
+            "1000264"
+          ]
+        ],
+        "category": [
+          "일식",
+          "일본식라면"
+        ],
+        "reviewCount": 187,
+        "averagePrice": 0,
+        "address": "서울특별시 종로구 종로2가 23 2층",
+        "roadAddress": "서울특별시 종로구 종로 87-1",
+        "abbrAddress": "종로2가 23 2층",
+        "shortAddress": [
+          "서울 종로구",
+          "종로 87-1"
+        ],
+        "displayContext": [],
+        "labelTheme": "일식",
+        "microReviews": [],
+        "cardDescription": "서울특별시 종로구 종로2가 23 2층",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjJfMjc4/MDAxNzQ1MzE2NzE3MjMy.O32HTbrUtXJaE-4sCca8fFnYTHQdc0ty4IlW5sZY_Egg.5H0J-Env2zqBXcdxYEXtXYOIaHBmM97PHK5dtwuVaBUg.JPEG/2897ECCA-0606-4FDC-9487-328FC612F043.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTVfODEg/MDAxNzQ5OTg4NzU0MTgy.AQ9OiPtzYiG-uK_PYfTeQdTVXOHsHqg-eWzpav90hVcg.9WBzAtt583UYk-HQbugkkL4nhM__XfYw4E92__-VSUsg.JPEG/17499887374641451873335557806823.jpg",
+          "https://ldb-phinf.pstatic.net/20240806_213/1722922464336tcjuB_JPEG/1722921838317.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MThfMjY2/MDAxNzUwMjI5ODk3OTky.-Hh1owKQs1dWnR5pY4tbcES0vREUiX3IKHZjoJRRwSog.ZZj3SdQViRONdW9YC_2FTCBTV3m0c5fryD2NIqqgDQEg.JPEG/9AB28411-B423-4C5E-8257-FECB700CDA9D.jpeg",
+          "https://ldb-phinf.pstatic.net/20240806_237/1722922550658ecHuk_JPEG/1722921832260.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDZfMTk5/MDAxNzQ2NTM2MTQ0Mzk3.AmXnxtXjJn0oYwOOK5elv8kC_6j2XRRQzpe8H1KqScwg.bIeUE0yDN-SRorMH5QRsNFhf9uU539onbBHHIm6jmJMg.JPEG/IMG_8711.jpeg",
+          "https://ldb-phinf.pstatic.net/20240806_175/17229225251394IA3U_JPEG/1722755604253.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MThfMTQ2/MDAxNzUwMjI4MDU0NzYw.Pef6wYvwqxOrW3L_sn3LGamGTsE9XoQ_q7xLczo6r10g.gd2Wyn5G8IbH6ld8y-e2J6YpnjrVrduqpZXpeHCTJSMg.JPEG/4AC41CC3-1A3B-4E40-9261-59530ABA1C0E.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjdfMTI4/MDAxNzUzNTkzNjUxNzQz.O1znsuENXAkOQLZf_qY17Hr_VfURJ3t92zp_sIuS3-Mg.HuywHC4gh6G0kCjrbYvSEjHGanTIUCv5j-6DKyClGxMg.JPEG/35761766-2B7B-44C7-B56A-B4D84C1731C2.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MzFfMTc4/MDAxNzQ4NjczNzA2Njgw.4dCzeAFKd2W6svlBzVMHrSZ5GpqC4wNPd2wnt0Jy9tsg._dpTEEP7RG-xk5_pYaOp2v63d0O8ef9qVR7xO5wpSPwg.JPEG/1000047637.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1000264",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "1883736452",
+        "name": "153구포국수 종로점",
+        "x": "126.9873204",
+        "y": "37.5704112",
+        "distance": 0.034,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 94,
+        "averagePrice": 5000,
+        "address": "서울특별시 종로구 종로2가 23 1층",
+        "roadAddress": "서울특별시 종로구 종로 87-1",
+        "abbrAddress": "종로2가 23 1층",
+        "shortAddress": [
+          "서울 종로구",
+          "종로 87-1"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [
+          "따뜻한 비빔쫄면으로 색다른 맛"
+        ],
+        "cardDescription": "따뜻한 비빔쫄면으로 색다른 맛",
+        "description": "저희 153구포국수는 매일 24시간 육수를 끓이며 준비합니다. 내 가족이 먹는다는 생각으로 조리합니다. 항상 변함없는 맛과 서비스를 위해 더 열심히 노력하겠습니다  감사합니다",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjNfMjQ4/MDAxNzU1OTA5Nzg0NzYw.zKErrRv1CeYiR8amF1pNLp7iM30yNepNwWiZZQsUVeAg.RogonLKvd32ay66lGL0TBnZrZGH4Yj8TRI3DHHWSHEUg.JPEG/D443C4D6-1477-4F2C-AD30-6617D3FE2F9C.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjBfMTM3/MDAxNzU1NjIwMTMyNjkz.CgwPo_lIH8voN41LOWNv2Sf0OH7XcNcfZjSl7Fkkr0wg.ltfzBddmC-tk7nuqKdASM7kZdVPzHghaqCTnUeSURHAg.JPEG/1755268143217.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20241121_83/1732156693126WkTY0_JPEG/%B8%F0%C0%BD%C4%C62.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTdfMTYg/MDAxNzU1NDI1NTExNTQ1.SetvBpsv1r5X61LmWaeQdcZPO9wPN8pYousa_J58RUUg._S43n58m0FRWElKX_GhqrvjyjzP0NVMoCTYeZieCjo8g.JPEG/5D114DC9-4987-4C3C-95F8-9F56EAC2EC24.jpeg",
+          "https://ldb-phinf.pstatic.net/20241121_190/1732156703977E4lCW_JPEG/%B8%F0%C0%BD%C4%C63.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjZfNzAg/MDAxNzU2MjAzNzUzNzky.YBbt9-oRROiQY16pGUXhyNkjocApG61hOwZZk4-yKhQg.FkD86EDNSIBjfMLYY83RoPflzV8k6SGM-NXFy0eX--wg.JPEG/20250826_190418.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20241121_28/173215669941486pkB_JPEG/%B8%F0%C0%BD%C4%C64.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjRfMjEx/MDAxNzU4NzA2NDU4OTU3.TzcWhk5LzfEE_FatiByQJ_4cGWdsN9aK1xx9hgqHJ94g.YFbQ3VUzih5-bR7ga6xE2gLSZcTm4Rip-sTaEg-OE4Qg.JPEG/8F4857F2-8493-4710-ABBA-024E6DAD28F6.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjFfMTE0/MDAxNzYxMDE5NDg3Njk0.OTcUcCC9oH1ESqQu6dPuHe_h2T3FU3Dl_jB00LBaN4gg.4B1wMTueeXCqdyAzGvNDHXxlevVEiiLtNOLCTEdFVD0g.JPEG/20251019_122202.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTAzMzFfMjI3/MDAxNzQzNDIzMzY4NjIy.bJolLOe4AGJrxHI5XcW3opBSG0-ikvesTuac5K4QBb4g.T2wRuBcojaN1t9D0EM6B1ZBcIOPDsNsYQX__vBqEyHIg.JPEG/EE6F68B9-92A0-4081-87CB-624919BAD72D.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

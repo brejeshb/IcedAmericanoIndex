@@ -1,0 +1,172 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 2,
+      "count": 2,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 128.8704029220088,
+          "minY": 37.7519,
+          "maxX": 128.8761,
+          "maxY": 37.7564045045045
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "128.8732514610044;37.754152252252254",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1960124167",
+        "name": "솔향한송정카페",
+        "x": "128.875836",
+        "y": "37.752175",
+        "distance": 0.316,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221212"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 316,
+        "averagePrice": 0,
+        "address": "강원특별자치도 강릉시 홍제동 1001 솔향한송정카페",
+        "roadAddress": "강원특별자치도 강릉시 강릉대로 33",
+        "abbrAddress": "홍제동 1001 솔향한송정카페",
+        "shortAddress": [
+          "강원 강릉시",
+          "강릉대로 33"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [
+          "시니어 클럽이 선사하는 따뜻한 공간"
+        ],
+        "cardDescription": "시니어 클럽이 선사하는 따뜻한 공간",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjNfNTUg/MDAxNzUzMjUzNDcxNjIw.qfdCzby-UzcoLqB7tS-hj663E8Q7A99UNvQnzm6OpHQg.IaEL_LSVO6st4U0PtW5N1P6JP0um-J4rGa2_rt3Z9nUg.JPEG/20250419_131045.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDlfODkg/MDAxNzU3MzkzMzc2MTgy.OrKdLnfx9xj3Vfg17bqcsYRv_OwGeeMPtqylq1PqDBUg.2dYfez7efY3lZK2CD2twcSSsAzSs3GrB_IaMDQPdMQYg.JPEG/20250825_123339.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDhfMTcw/MDAxNzU0NjMyNTY4NjI5.LXCQ60j-NWIHY2XgSU7h1nVN-QoJSdXvIFCHwyjRwIog.Bsu-oM2qCmrMOxR2edbV8sCl40s2B-XXmtC62qlFgAIg.JPEG/20250808_145407.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTVfMjk3/MDAxNzYwNTExMDE5Nzky.pPVgo4iwL0_cNyeyn8Vvg8nKk3C8SqjFIbf01y_q5Wog.Q8Dk67gFTRFLEW8y0u1ted0QK0wtLg84BpGzuojF_fIg.JPEG/20251010_124131.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjVfMTIy/MDAxNzQ1NTYzNzkzOTIy.EFV-lKYeVZ-oVkUenRKUurX427wQdl8208ASCLROflIg.fFS5h8a1ILnPUDwgUxoDXFytYmfPcb5FF_T1Tf3iJ28g.JPEG/20250425_153518.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTNfMTcx/MDAxNzQ0NTI1OTQ1NTE5.UvZTtPC-xJMcpxA1t8K7qsGvEtZi6Udq-61BzgSiZFUg.nRn2exlCX43FSN_vj-kN42Jt-NTCON2ly7bltQ7_gZQg.JPEG/20250411_151231.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDJfMTQw/MDAxNzQ4ODI1MDYxNzg2.rj6VCeJXqz1AUtocx9lFrS7LPBBjoZCqQxYW_Pnf7Z8g.BDQy26zwWZCkAhil_pO1k_W7USPfIovaWnfSaDi4SQ0g.JPEG/20250519_154445.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTBfMjk5/MDAxNzYwMDc1MzMyOTA5.wxSeyDYLdPJG6lAUisQQBxcI9svu2pN_G8FymHyFar8g.cOCp_UFx3yyh6AMBMCfD5lmA8J1ntn2B0OdkW5yVS9Qg.JPEG/20251010_143548.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjJfMjg3/MDAxNzU4NTIzMTM0OTA1.zLs_FMaXZrCvY0jz4YT-0sU9RUB5kAJorTPVwsi54Y0g.ASRxIT3Cotm888u-v97SnwQTDkDFNifKn1-H0rYVaxcg.JPEG/20250819_135809.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDhfMTgw/MDAxNzU3MzM3MTk5NzIz.scnl7sb71_A_yRJwR7KcS8yVUirbq_-fGTvKjICGrwMg.Ckkhm_xan4U4QqLO-vBhsP4zm3EZrak3cdo1zCZl4PUg.JPEG/20250905_145208.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221212",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "2019840958",
+        "name": "헝그리캣츠 with 벨르보",
+        "x": "128.8707293",
+        "y": "37.7545603",
+        "distance": 0.227,
+        "categoryName": "양식",
+        "categoryPath": [
+          [
+            "220036",
+            "220044",
+            "220126"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "양식"
+        ],
+        "reviewCount": 506,
+        "averagePrice": 15000,
+        "address": "강원특별자치도 강릉시 홍제동 558-140 1층",
+        "roadAddress": "강원특별자치도 강릉시 하슬라로45번길 53",
+        "abbrAddress": "홍제동 558-140 1층",
+        "shortAddress": [
+          "강원 강릉시",
+          "하슬라로45번길 53"
+        ],
+        "displayContext": [],
+        "labelTheme": "양식",
+        "microReviews": [
+          "칠리치즈프라이의 고소함 한 입"
+        ],
+        "cardDescription": "칠리치즈프라이의 고소함 한 입",
+        "description": "2012년 서울 강남에서 시작한 헝그리캣츠는 현재, 국내 유일의 이탈리아식 카치아토레 치킨 & 파스타 전문 양식 레스토랑입니다.  서울에서 많은 단골을 사로잡은 깊고 진한 맛의 이탈리아식 치 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDZfMzkg/MDAxNzQ5MjAwMTYyMDgz.HCU-vcdmCey3HUDBDTFAARS4Z4LQEaOavIXb4SMcM3kg.eSNBbJFBUwHUJIgCk-pTmsQwCvDAH8SY_Gm9zKfTGMQg.JPEG/20250606_170845.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTNfMjU3/MDAxNzYwMzI1MzgzNTQ0.z9zrVb7Z4y1i77NkhkS_JkA0XbSBbzT_H2C_LjvUFQog.-nYPpvyZVP2zxMiIqmC64X-hVpvxk6QvI3ex62A4uBQg.JPEG/20251013_114056.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250904_241/175695813025259DtC_JPEG/%C7%C3%B7%B9%C0%CC%BD%BA%B1%A4%B0%ED_%BC%D2%C0%E7%BB%E7%C1%F83.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDhfNzQg/MDAxNzU0NjIzNDM1OTQ5.1A9O6T_udinhJ1Ri6J3XyKBHAo2tZK98O-fq9EKIC5Yg.p0EK5aBWu6NA7O-4IN-tnxkrTVddz5FraWmLUqfy5Rsg.JPEG/20250808_121400.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250904_42/1756958191839QFMOW_JPEG/%C7%C3%B7%B9%C0%CC%BD%BA%B1%A4%B0%ED_%BC%D2%C0%E7%BB%E7%C1%F82.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MzFfNTIg/MDAxNzU2NjEyODY0ODg1.GKhYLlU1dQnIFs-_tsk-oWAO-SsKiY3H9FWRlU07cokg.xmI27VyadJgIaC0RV86OCYM8LPqgEA3vVNYGWlwQcuAg.JPEG/IMG_9206.jpeg",
+          "https://ldb-phinf.pstatic.net/20250529_6/1748484593682Io8ch_JPEG/KakaoTalk_20250529_105945757_06.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MThfMjU2/MDAxNzU1NDk5NTU4Nzcw.3wgBnCKF8SRM0wct_U7nbp1IxuVxSg6UYracAmmqGeAg.cOeAyANyF0o_m2IWHsashTj1Im9fxJbEGvmTypGP5Psg.JPEG/B18C9C81-9DD3-44A8-8547-C07AC0191B94.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDVfMTM2/MDAxNzU3MDQ0MTAyMjI3.fHhBxmUPw0XqbVkRdU1ppYnmkeUmDs1_bSiG2-dKZ8Ig.acGY5pbjB4AQuTOkGVyuf57d6Bh-UT1IQEctMB-58RAg.JPEG/1000052032.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTlfNTQg/MDAxNzYwODQzNDc1MzQ0.SCF3Lpy7FpM1xI_3t1hgukwbNdxpvxR8_eg4DqIJ2jcg.Jm9AEqFAqjBDeJpxpM1qsQbH0ibb-_h6xVGwmxAoZzEg.JPEG/IMG_4234.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220126",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

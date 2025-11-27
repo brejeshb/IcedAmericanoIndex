@@ -1,0 +1,32 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 0,
+      "count": 0,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.96890741021008,
+          "minY": 37.5601936936937,
+          "maxX": 126.97004398393382,
+          "maxY": 37.5610945945946
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.96947569707194;37.56064414414415",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": []
+  }
+}

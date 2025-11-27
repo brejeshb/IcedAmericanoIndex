@@ -1,0 +1,682 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 10,
+      "count": 10,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 127.6598168628722,
+          "minY": 34.76730450450451,
+          "maxX": 127.6653,
+          "maxY": 34.77180900900901
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "127.66255843143611;34.76955675675676",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1512535018",
+        "name": "뉴포트 커피클럽",
+        "x": "127.6607231",
+        "y": "34.7682647",
+        "distance": 0.221,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 900,
+        "averagePrice": 5000,
+        "address": "전라남도 여수시 선원동 207-11 2층",
+        "roadAddress": "전라남도 여수시 학동북4길 41",
+        "abbrAddress": "선원동 207-11 2층",
+        "shortAddress": [
+          "전남 여수시",
+          "학동북4길 41"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [
+          "뉴욕 스타일 르뱅쿠키의 달콤함"
+        ],
+        "cardDescription": "뉴욕 스타일 르뱅쿠키의 달콤함",
+        "description": "여수 시청에서 멀지 않은곳으로, 로맨틱한 분위기의 공간이랍니다. 건물 뒷편은 2층이지만 공원쪽에서는 1층으로 바로 연결되며, 매장 바로 앞에 어린이 놀이터가 있어 아이들은 놀이터에서,  ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMDlfMTcy/MDAxNzYyNjY5MzkzNjg2.qe64iwetfLXPjameDyQMtS62MwP8XgL4mt6lyqe2Rjog.lkYWSdR77UhPHm8TntL4nySrsOS0C5A1B56LQ9AJykcg.JPEG/75FFA012-E687-4F6B-BBFD-0FD88E03F763.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDhfMTU4/MDAxNzU5OTE5NjM4Njg0.4kNLPyRIVGOLHch2o1Qqf9UxVQ_v4AV0LdCOsJRnboIg.6MobcxHj_wzcp7eLgX2_jKDV6Esma3e5CMigGYPht68g.JPEG/A6B82F1B-3859-473A-A349-E414B515B6EF.jpeg",
+          "https://ldb-phinf.pstatic.net/20241108_92/1730993646107aqAdU_JPEG/E78BA3D0-1283-417D-999D-D53B4BCE7514.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMDJfNjkg/MDAxNzYyMDYyNTMzNDI2.WRuAUP2SnClk4sP4y7rU1_hW3k1AikUb2TjS9poBd4Eg.bSZCSuQFG1_yD1AUCVEQmoYyPoq3h6JoUhkG9WwywmIg.JPEG/D8AAD44F-A209-4A11-9737-C9DD854D2200.jpeg",
+          "https://ldb-phinf.pstatic.net/20230310_30/1678451199091xiulG_JPEG/C945B438-FB21-40D0-AA85-3FB633C84719.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjJfMTI4/MDAxNzYxMTA0NjI2MTM3.KmpgnE_FYe0CMFcpCvm-lruBl-LWjy7dEpP3IO4wCWkg.rg6SddoeYexhTBn8USy1yUF7bUl_LbYIv9Fow1nXOxMg.JPEG/20251022_124015.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240417_294/1713318131238KPyPD_JPEG/IMG_7071.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjNfMjc1/MDAxNzYxMTk2NjY2NzA4.FLnzrelxeWTCmmmj20KxJKmhz202MwOaSB4Q4SQcGGcg.os3HZW1IzUdQe1566i6--tBqe6Bz49S93y_8aVYSVe4g.JPEG/1761196579066.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMzFfMjc3/MDAxNzYxODgzNzczMTQx.qwOiGGTmjkSQebUo2Q-hTvXFLqAcsua6wbvyrJrAVCEg.0OoVgHwHzfteWHu354g01tw6-1zotI8Bf9ofCthO-_Mg.JPEG/20251031_125416.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjNfMTM3/MDAxNzU4NjAzMTgzOTAy.3jgJ2oih-FMliKI2vrHpiolHHc4xfx9uDDCD11r_o-Eg.PZ4CIl5lnEelE7qop1uMSWMdoDmZit6-4LEFY-7tj1sg.JPEG/07D7B769-CDA1-43B9-BB4E-1EB5E4865E1F.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.71",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "1512535018",
+            "bodySummary": "귀여운 포인트들이 많은 카페, 사장님이 애니메이션을 그리셨다는 내용의 글과 유투브 실버버튼도 카페 내에 걸려있는데 그만큼 디자인의 신경을 쓴 티가 많이 났다. 입구 문 왼쪽엔 카페",
+            "url": "https://m.blog.naver.com/godd118/223382140430",
+            "nick": "godd",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMTdfOTcg/MDAxNzAwMTk3OTc0NDA2.06KOrIBIckwhMgMWj1v5KQUQiK7X7y6mRzpPzeXh9SQg.JcS3T5N4mxqHRxfUob07OUezlLG44SHa0yIdvEzIWUAg.PNG.goddongsung12/profileImage.png"
+          },
+          {
+            "sid": "1512535018",
+            "bodySummary": "오늘 소개해 드릴 곳은 또또또간집 여수 뉴포트커피클럽이에요 ◡̈ ⬇️ 소개링크 소개해 드릴 메뉴는? 바로 ‘블루베리 콩포트 치즈케이크’에요 ◡̈ 전 요즘 콩포트가 맛있더로고요~ 산",
+            "url": "https://m.blog.naver.com/blessinga55/223361432244",
+            "nick": "시고르소녀 복아",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA4MDJfMTA4/MDAxNjI3ODM0MTU2MDE1.jTF6mZhNvunyh6e58Zm1dC35KimLv0ZunO9g5z4OdgAg.i-WBeOa7GnbfcoJyoC02L0bKoechNzfbOhSUJda-ETcg.PNG.gokn8/profileImage.png"
+          },
+          {
+            "sid": "1512535018",
+            "bodySummary": "구 여천역 부근! 전남 여수시 학동북4길 41 2층 선원동 207-11 매주 월요일 휴무 화-토 : 11:30 ~ 22:00 (라스트오더 21:30) 일 : 11:30 ~ 22:0",
+            "url": "https://m.blog.naver.com/yeom29/223349148558",
+            "nick": "om nom nom",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDEwMTRfNSAg/MDAxNjAyNjY2NTM4NDM2.ucv5DQNpTsYXpxGf6eYkQ1WZCe-eB1uynj0MkI2KyxEg.Vp_tSQhec8HgNTYxr5rsJmqUVBparTAe8ahirZLAM9Ug.JPEG.yeom29/profileImage.jpg"
+          },
+          {
+            "sid": "1512535018",
+            "bodySummary": "화장실마저도! 오른쪽 창을 보면 베이커리실이 오픈되어 있어 수제로 디저트를 만들고 계시는 것을 실시간으로 볼 수 있다. 어쩐지 수제디저트 넘 맛나더라. 블루베리 콩포트 치즈케이크와",
+            "url": "https://m.blog.naver.com/comeheres2/223331065685",
+            "nick": "호랭이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA4MTFfMTcy/MDAxNjI4NjY5MDgxNzA5.qBG-j3Na0fLpRHNvBf3gJjFAXy5LDREWkcg7J90Doikg.6C9AwKEKKopEs7p5QL7bIaLrMneMW6Le5Jwh9LloDo4g.PNG.dltmf6122/profileImage.png"
+          },
+          {
+            "sid": "1512535018",
+            "bodySummary": "추운 겨울 동네 길냥이들 집까지 손 수 만들어 주시는 사장님은 1004 카페오면 거셀 필수잖아요 ✨️ 이렇게 야외에 거셀존도 마련되어 있답니다 거셀도 건졌으니 카페 내부로 들어가봅",
+            "url": "https://m.blog.naver.com/b96031325/223283286526",
+            "nick": "하삐언니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMDNfMTgx/MDAxNzAxNjE0MjM0NDU3.wgZumIdiEcdISWnzsT4XwkhJPaWj714YQFeGepCaG_Ag.g49qYmgiQaIbpVl3bbTVU8AQ3bgX41wQ4ZVT4UaC5n4g.JPEG.b96031325/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "id": "16993143",
+        "name": "푸른농장정육식당",
+        "x": "127.6630948",
+        "y": "34.7685918",
+        "distance": 0.118,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 51,
+        "averagePrice": 0,
+        "address": "전라남도 여수시 선원동 53",
+        "roadAddress": "전라남도 여수시 시청로 82",
+        "abbrAddress": "선원동 53",
+        "shortAddress": [
+          "전남 여수시",
+          "시청로 82"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "전라남도 여수시 선원동 53",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTRfMjcx/MDAxNzU3ODIzNDEwNTc0.iadqEn3MZt74xpc0lN2Cnn4kwghxhfsdXYK583-ugTsg.Kf1mFb74odZPpw2T2iiMOXxFASc3N4a4BGGoosvsVD0g.JPEG/20250828_170810.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.18",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 3,
+        "id": "21568351",
+        "name": "몽실아지매식당",
+        "x": "127.6630624",
+        "y": "34.7685405",
+        "distance": 0.122,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 30,
+        "averagePrice": 0,
+        "address": "전라남도 여수시 선원동 53",
+        "roadAddress": "전라남도 여수시 시청로 82",
+        "abbrAddress": "선원동 53",
+        "shortAddress": [
+          "전남 여수시",
+          "시청로 82"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "전라남도 여수시 선원동 53",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 4,
+        "id": "38494605",
+        "name": "만사성",
+        "x": "127.6617294",
+        "y": "34.7677347",
+        "distance": 0.216,
+        "categoryName": "중식당",
+        "categoryPath": [
+          [
+            "220036",
+            "220039",
+            "220091",
+            "220861"
+          ]
+        ],
+        "category": [
+          "중식",
+          "중식당"
+        ],
+        "reviewCount": 10,
+        "averagePrice": 0,
+        "address": "전라남도 여수시 학동 9-14",
+        "roadAddress": "전라남도 여수시 학동북2길 14-13",
+        "abbrAddress": "학동 9-14",
+        "shortAddress": [
+          "전남 여수시",
+          "학동북2길 14-13"
+        ],
+        "displayContext": [],
+        "labelTheme": "중식",
+        "microReviews": [],
+        "cardDescription": "전라남도 여수시 학동 9-14",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220861",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 5,
+        "id": "1047660757",
+        "name": "파스타스타",
+        "x": "127.6611282",
+        "y": "34.7677369",
+        "distance": 0.241,
+        "categoryName": "스파게티,파스타전문",
+        "categoryPath": [
+          [
+            "220036",
+            "220044",
+            "220127",
+            "220914",
+            "230079"
+          ]
+        ],
+        "category": [
+          "이탈리아음식",
+          "스파게티,파스타전문"
+        ],
+        "reviewCount": 14,
+        "averagePrice": 0,
+        "address": "전라남도 여수시 학동 9-9",
+        "roadAddress": "전라남도 여수시 학동북2길 14-5",
+        "abbrAddress": "학동 9-9",
+        "shortAddress": [
+          "전남 여수시",
+          "학동북2길 14-5"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "전라남도 여수시 학동 9-9",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "230079",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 6,
+        "id": "1034355170",
+        "name": "요달의찜닭 여천점",
+        "x": "127.6611343",
+        "y": "34.7677188",
+        "distance": 0.242,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220776",
+            "1005140"
+          ]
+        ],
+        "category": [
+          "육류,고기요리",
+          "찜닭"
+        ],
+        "reviewCount": 24,
+        "averagePrice": 20000,
+        "address": "전라남도 여수시 학동 9-9 1층",
+        "roadAddress": "전라남도 여수시 학동북2길 14-5",
+        "abbrAddress": "학동 9-9 1층",
+        "shortAddress": [
+          "전남 여수시",
+          "학동북2길 14-5"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "23년 11월에 새롭게 오픈하게 된 요달의찜닭 여수여천점 입니다 동네를 환하게 비추는 여천동 1등 찜닭 집이 될수 있도록 노력하겠습니다 매장 컨디션 항상 최선을 다해 유지하여 언제든 찾아오",
+        "description": "23년 11월에 새롭게 오픈하게 된 요달의찜닭 여수여천점 입니다 동네를 환하게 비추는 여천동 1등 찜닭 집이 될수 있도록 노력하겠습니다 매장 컨디션 항상 최선을 다해 유지하여 언제든 찾아오",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMjBfMTgw/MDAxNzYzNjAyNjQxNDgz.gjI8xNyGcg8otIJNdCqogQtZkQl7SBV445GZglLWBVwg.bqU9vnQayXhzSzWZf5Kn7SzbfHh-E4HQhhDiPy9qguYg.JPEG/12742.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20231123_199/1700704943659zlNQr_JPEG/KakaoTalk_20231110_145229565_06.jpg",
+          "https://ldb-phinf.pstatic.net/20231123_264/17007049545694QI2h_JPEG/KakaoTalk_20231110_145229565.jpg",
+          "https://ldb-phinf.pstatic.net/20231123_113/1700704947770537lk_JPEG/KakaoTalk_20231110_145229565_03.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1005140",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1034355170",
+            "bodySummary": "낮부터 자정까지 영업하시니 식사시간에 주문해도 좋고 야식으로 시켜도 좋은 곳이에요. 저는 연휴 마지막날 밤에 출출해서 야식으로 여수학동찜닭을 주문했는데요. 배민에서 첫주문할인(배달",
+            "url": "https://m.blog.naver.com/dpdpwkd/223353878021",
+            "nick": "리혜",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA1MjNfMTEz/MDAxNjUzMjYyNTIzMDcz.xagYyGaC-hlpUkObi7EtpekrmHD1qbJ-zWdj97uWkuAg.BjVojuoY53CQl1SGgrf1FDc2ARpiOjsBcTW--77A6Wcg.JPEG.dpdpwkd/profileImage.jpg"
+          },
+          {
+            "sid": "1034355170",
+            "bodySummary": "게다가 입맛이 까탈스러운 아들 비위 맞추기도 미션 그 자체! 요즘 애들 다 그렇다는데, 맨날 특별한 음식 요청에 학교 선생님들이 2달 쉴 동안, 나의 머리는 매끼 메뉴 고민으로 머",
+            "url": "https://m.blog.naver.com/yeonjin72/223342784963",
+            "nick": "마르지않는 샘",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/data32/2008/7/8/119/%B4%D9%BC%B8%BB%EC%C0%BA_%B1%AB%B7%CE%BF%F6-yeonjin72.gif"
+          },
+          {
+            "sid": "1034355170",
+            "bodySummary": "맵기는 보통맛으로 주문했구요 ㅎ_ㅎ 이건 혼자 일인 찜닭 주문해서 할머니댁 가져가서 먹었어요 ㅎㅎ 양도 많아서 당면은 거의 먹지 못했지만 당면빼고는 다먹었어요 ㅎㅎ 제가 당면을 별",
+            "url": "https://m.blog.naver.com/hyesu_0122/223333611350",
+            "nick": "메수스",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA4MTBfMTA1/MDAxNjI4NTU5NTY3ODcz.LwEjefnuvaWVZV6f7dZlOjPfOcHis5NLrsmkxwiT0Ccg.zmbZuKGuykR-kp7JMj-uOJ7Uuuq1H8eJoe-OD6HBmwsg.PNG.hyesu_0122/profileImage.png"
+          },
+          {
+            "sid": "1034355170",
+            "bodySummary": "주문하면 정성들여 붙인 귀여운 스티커와 고객의 식탁이 더러워지지 않도록 식탁보를 함께 보내주는 센스가 돋보입니다. 또한, 여러명이서 즐길 수 있는 많은 양과 지인에게 소개하고 싶은",
+            "url": "https://m.blog.naver.com/deruerse/223284119657",
+            "nick": "deruerse",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMDdfMTgy/MDAxNjk5MjkzNDMyNjk5.70FTO0ftBZ0uwJLpiqZ2c-jyYXUVwaBUArIdoow292Eg.05KkjONTKh8eBvFxgR_v1nAvVr_-IQGfRXYBQwHAjowg.JPEG.deroerse/girl-429380_1920.jpg/girl-429380_1920.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "id": "21568358",
+        "name": "월드치킨호프",
+        "x": "127.663094",
+        "y": "34.768619",
+        "distance": 0.115,
+        "categoryName": "치킨,닭강정",
+        "categoryPath": [
+          [
+            "220036",
+            "220049",
+            "220245"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "치킨,닭강정"
+        ],
+        "reviewCount": 5,
+        "averagePrice": 0,
+        "address": "전라남도 여수시 선원동 53",
+        "roadAddress": "전라남도 여수시 시청로 82",
+        "abbrAddress": "선원동 53",
+        "shortAddress": [
+          "전남 여수시",
+          "시청로 82"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "전라남도 여수시 선원동 53",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20200508_287/1588920962169ROq2W_JPEG/AgQtF6ZMC5pwX5l8Gp1K3hLH.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220245",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 8,
+        "id": "1965851273",
+        "name": "달빛비어",
+        "x": "127.6630819",
+        "y": "34.7687887",
+        "distance": 0.098,
+        "categoryName": "해물,생선요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220076",
+            "220777"
+          ]
+        ],
+        "category": [
+          "한식",
+          "해물,생선요리"
+        ],
+        "reviewCount": 2,
+        "averagePrice": 0,
+        "address": "전라남도 여수시 선원동 53",
+        "roadAddress": "전라남도 여수시 시청로 82",
+        "abbrAddress": "선원동 53",
+        "shortAddress": [
+          "전남 여수시",
+          "시청로 82"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "전라남도 여수시 선원동 53",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220777",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 9,
+        "id": "1370684612",
+        "name": "닭터박강정떡볶이 여천점",
+        "x": "127.6611184",
+        "y": "34.7677857",
+        "distance": 0.237,
+        "categoryName": "종합분식",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220185"
+          ]
+        ],
+        "category": [
+          "분식",
+          "종합분식"
+        ],
+        "reviewCount": 3,
+        "averagePrice": 0,
+        "address": "전라남도 여수시 학동 9-9 1층(학동)",
+        "roadAddress": "전라남도 여수시 학동북2길 14-3",
+        "abbrAddress": "학동 9-9 1층(학동)",
+        "shortAddress": [
+          "전남 여수시",
+          "학동북2길 14-3"
+        ],
+        "displayContext": [],
+        "labelTheme": "분식",
+        "microReviews": [],
+        "cardDescription": "전라남도 여수시 학동 9-9 1층(학동)",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220185",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "5.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 10,
+        "id": "1564636594",
+        "name": "우정이네김밥",
+        "x": "127.6631161",
+        "y": "34.769312",
+        "distance": 0.058,
+        "categoryName": "김밥",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220186"
+          ]
+        ],
+        "category": [
+          "분식",
+          "김밥"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 0,
+        "address": "전라남도 여수시 선원동 53",
+        "roadAddress": "전라남도 여수시 시청로 84",
+        "abbrAddress": "선원동 53",
+        "shortAddress": [
+          "전남 여수시",
+          "시청로 84"
+        ],
+        "displayContext": [],
+        "labelTheme": "분식",
+        "microReviews": [],
+        "cardDescription": "전라남도 여수시 선원동 53",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220186",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

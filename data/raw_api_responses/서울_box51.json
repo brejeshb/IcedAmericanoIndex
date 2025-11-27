@@ -1,0 +1,306 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 3,
+      "count": 3,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.97913657372374,
+          "minY": 37.559292792792796,
+          "maxX": 126.98027314744748,
+          "maxY": 37.5601936936937
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.9797048605856;37.55974324324325",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "2036368658",
+        "name": "티살롱 바이 팔레드 신",
+        "x": "126.9794418",
+        "y": "37.560132",
+        "distance": 0.049,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 15,
+        "averagePrice": 10000,
+        "address": "서울특별시 중구 회현동1가 210 레스케이프호텔 6F",
+        "roadAddress": "서울특별시 중구 퇴계로 67",
+        "abbrAddress": "회현동1가 210 레스케이프호텔 6F",
+        "shortAddress": [
+          "서울 중구",
+          "퇴계로 67"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "팔레드 신의 우아함과 섬세함을 담은 공간, 티 살롱 예술과 문화를 자유롭게 교류하던 프랑스의 살롱에서 영감을 받은 티 살롱에서 호텔 파티셰의 정성을 담은 디저트와 커피 그리고 티로 여유",
+        "description": "팔레드 신의 우아함과 섬세함을 담은 공간, 티 살롱 예술과 문화를 자유롭게 교류하던 프랑스의 살롱에서 영감을 받은 티 살롱에서 호텔 파티셰의 정성을 담은 디저트와 커피 그리고 티로 여유",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20250916_215/1757995384230uIWx3_PNG/%C6%DB%C7%BE%B5%E5%B8%BB%B8%AE.PNG",
+          "https://ldb-phinf.pstatic.net/20250916_221/175799546956438PIT_PNG/%A4%BD%A4%BD%A4%BD%A4%BD%A4%BD.PNG",
+          "https://ldb-phinf.pstatic.net/20250916_230/17579954407073bFji_PNG/%C6%DB%C7%BE%B5%CE111.PNG"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "1061905251",
+        "name": "팔레드 신",
+        "x": "126.9795727",
+        "y": "37.5600322",
+        "distance": 0.034,
+        "categoryName": "중식당",
+        "categoryPath": [
+          [
+            "220036",
+            "220039",
+            "220091",
+            "220861"
+          ]
+        ],
+        "category": [
+          "중식",
+          "중식당"
+        ],
+        "reviewCount": 2881,
+        "averagePrice": 50000,
+        "address": "서울특별시 중구 회현동1가 210 레스케이프 호텔 6층",
+        "roadAddress": "서울특별시 중구 퇴계로 67",
+        "abbrAddress": "회현동1가 210 레스케이프 호텔 6층",
+        "shortAddress": [
+          "서울 중구",
+          "퇴계로 67"
+        ],
+        "displayContext": [],
+        "labelTheme": "미쉐린가이드 선정",
+        "microReviews": [
+          "트러플의 풍미가 담긴 칠리새우의 매력"
+        ],
+        "cardDescription": "트러플의 풍미가 담긴 칠리새우의 매력",
+        "description": "시누아즈리의 영향 짙었던 1930년대 상하이 그 시대의 화려함과 세련미를 담은 팔레드 신은 럭셔리한 세팅과 감각적 아름다움을 보여줍니다. 식재료 본연의 맛을 살리는 광동식 요리를 베이스 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDNfODMg/MDAxNzU0MjI4NjE4NDI2.no0QL48wjgPsDfqHnyZV9D5h1R_f8XfYdCEqbLGhoCkg.STnt6Fp0HJ69Qkts2PI67TjOo25AwWqp3YyYfmErkHUg.JPEG/20250802_133616.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDRfNTQg/MDAxNzU2OTgxODI5MTMx.55cXd73VnZ21aA0CxGDZoxOZicBT9t0D2EydiSSPaREg.E1FMwC-57miIh4rs6zllBCHRjpZsbz9QnCsSfWlwr9Ag.JPEG/20250824_124353.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20210611_60/1623381975835Jpp6i_JPEG/T3I6Q0sbKi70hbcO4m1sWasN.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjNfNTIg/MDAxNzQ1MzgwOTA4NTM0.WxVsjVcJJ1INWfIKzTAnoUF-fTn5lurQz42gfNXy0hkg.xS0CxBprRQ9lslJwa0FRF9iJ0Hm1iHokvyDYEabZkOAg.JPEG/20250420_113712.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250814_122/1755151896452mnlo6_JPEG/250806_%B7%B9%BD%BA%C4%C9%C0%CC%C7%C1_0394_%BA%B9%BB%E7.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTNfMTM4/MDAxNzUyMzc0MjAxMTUy.5ZXgIrSdPAmxgfw61F8nK14ADUKGbGN3rkCnxI-kk_8g.aRxr2JWPVlgtTua6hPz3GkM1enpWDTDBOJAOMty7y3Ag.JPEG/1000020326.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250814_163/1755151896493IEOFF_JPEG/250806_%B7%B9%BD%BA%C4%C9%C0%CC%C7%C1_0417-a2_%BA%B9%BB%E7.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDZfMTIz/MDAxNzU5NjgzNTA5Njg2.e-zxUKAESuyC8YSpdLmapvOJscU-bGvYtLH_g_9HmyYg.CxmWPMgwj-o4kyf5qYISyeOA8OC6Cd5lKHnBjLfNQ0Yg.JPEG/1000057937.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDdfMjA5/MDAxNzU3MjM1NjY1MzE0.n7f08QiVriMwkEooDZOAZ_4BHTtaHbkNyHsRgqudAdcg.DhdBePfHcKjrXKE3ppRbd8dojh7GjRVjMRDUftJxNNcg.JPEG/IMG_1980.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTFfNDYg/MDAxNzYwMTcyNzYxNjU2.oUqZietQ-IoNQfOjb5TvC-WSsqliaPvHdPS7YUYTHhIg.2IT2iGstcE0h1nplWWDPj2QB9cqFrc6cT4o_babtM2wg.JPEG/32F123A8-F3D9-4851-9955-6472FA926416.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220861",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": {
+          "year": "2025",
+          "type": "plate",
+          "starCount": 0
+        },
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1061905251",
+            "bodySummary": "산뜻 기운넘치는 느낌 팔레드신 내부 호텔 중식당 맛집은 딤섬 먹어보는게 꿀재미인데요 샤오롱바오 만두피 살짝 찢어서 육즙 딱 먹을 때의 그 느낌이란~ 이 느낌때문에 샤오롱바오는 맨날",
+            "url": "https://m.blog.naver.com/banity_/223392060124",
+            "nick": "바니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAzMTdfNTQg/MDAxNjQ3NDc0ODgzNTg5.xOB10sQXZDR79io5UywE4HUc5x8_Oz300KJFO0Hu2cwg.eaXANXwmf06T3UAcNQnkL24-dccM4o-5yhXEZkt0T0Ag.JPEG.banity_/profileImage.jpg"
+          },
+          {
+            "sid": "1061905251",
+            "bodySummary": "레스케이프호텔에서 유명한 책장 포토존 6층에 위치해있어요~ 올라가실게요~~ 찍어둔 메뉴판 사진이 없어서,,, 레스케이프 홈페이지 첨부해욯 중식 코스요리도 있지만 전 두번 다 단품메",
+            "url": "https://m.blog.naver.com/myminilog/223389086417",
+            "nick": "미닝",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAyMDhfMTYy/MDAxNzA3Mzg1NTE3MjU5.kxj4ooLqd9BpcMR0-eIb9KJ-5BSY5trey6HI4iE1VQEg.XNzu0dPoKv8sJPw_UWcf_UWfXEjGIbli6hrov1osjcAg.JPEG.jmin1018/profileImage.jpg"
+          },
+          {
+            "sid": "1061905251",
+            "bodySummary": "저는 이 때 프로모션 10% 한다고 해서 + 회사 할인 10%까지 총 20% 할인된 금액으로 먹었습니다. 매우 만족 조만간 또 갈까봐여..>_< 기분 좋게 띵동! #북경오리맛집 #",
+            "url": "https://m.blog.naver.com/bhjaee/223375241997",
+            "nick": "jaejae",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMDRfMTA4/MDAxNzA5NTMxNjE1MTc5.gTLp6UDZd8aM9KJqVfASdhlNXZ-jywl4xAthIKmPcPcg.42yvcSgQs38qiqGQY-w49D1lTfzHoejYpX5zVV8jeYEg.PNG/profileImage.png"
+          },
+          {
+            "sid": "1061905251",
+            "bodySummary": "짝꿍에서 쏜다! 하고 데려갔어용 위치 : 서울 중구 퇴계로 67 레스케이프 호텔 6층 영업시간 : 매일 11:30 ~ 22:00 (브레이크 타임 15:00 ~ 17:30) 회현 중",
+            "url": "https://m.blog.naver.com/eunsol2__/223375066973",
+            "nick": "은졀",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjExMTVfNDQg/MDAxNjY4NTEyMDA0Njg2.dznjjcGtiuna-jWVV3ZRIIayfbSJctrKAwLvCsNd0mQg.DZrWXgBfZNwBBwC8iwdx_FfHK1Fhu0OLiISTbVc1GYcg.JPEG.eunsolee8892/KakaoTalk_20221115_203223212.jpg/KakaoTalk_20221115_203223212.jpg"
+          },
+          {
+            "sid": "1061905251",
+            "bodySummary": "# 팔레드신 주소 ㅣ서울 중구 퇴계로 67 레스케이프 호텔 6층 전화 ㅣ02-317-4001 ⏰ 영업시간ㅣ11:30~22:00 15:00-17:30 브레이크 타임 후기가 너무나 밀",
+            "url": "https://m.blog.naver.com/ori_blog/223373900630",
+            "nick": "거네언",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA3MzFfMjE1/MDAxNjI3NzIwMDEyNTUw.41AVV_AH_voweBI5uVmm2U4RiV_g9C5lDfM3o6-FszQg.Jnlsw77olyNv2OMPY8gJeQJ7U6bv96A0u9f9H_Q6r_Qg.PNG.ori_blog/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "id": "1282957326",
+        "name": "라망시크레",
+        "x": "126.9795418",
+        "y": "37.5596664",
+        "distance": 0.017,
+        "categoryName": "양식",
+        "categoryPath": [
+          [
+            "220036",
+            "220044",
+            "220126"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "양식"
+        ],
+        "reviewCount": 1911,
+        "averagePrice": 50000,
+        "address": "서울특별시 중구 회현동1가 210 레스케이프 호텔 26층",
+        "roadAddress": "서울특별시 중구 퇴계로 67",
+        "abbrAddress": "회현동1가 210 레스케이프 호텔 26층",
+        "shortAddress": [
+          "서울 중구",
+          "퇴계로 67"
+        ],
+        "displayContext": [],
+        "labelTheme": "미쉐린가이드 선정",
+        "microReviews": [
+          "최고의 서비스로 완성된 완벽한 식사"
+        ],
+        "cardDescription": "최고의 서비스로 완성된 완벽한 식사",
+        "description": "좋은 재료와 그 재료를 공급하는 생산자의 마음을 음식에 담아 소통하는 손종원 셰프의 '현대 한국의 양식'",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjZfMjAw/MDAxNzYxNDMxNjc0NjIy.JDAsHk9Se-kA4bwGKVQ_8ATHp3Aawo4PrcSL1tflNdEg.byeSssPj0mfvAB9jbEf42nJyJvE1O7v_6VWhNynVjJkg.JPEG/1000139281.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTlfMjU5/MDAxNzQ3NTgzOTUyNjYw.VCFGkRwRM3L8fK7tXO5QlbmLQBuApbnNY-St-0jivVkg.Jlpu05rVfwUwtX2okFWOBeA4z3i5-wrnKiLId7LIlMAg.JPEG/20250514_185915.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20220620_4/1655718144444Mn9yn_JPEG/631_2222614544469344.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDVfMjA1/MDAxNzU5NjYyNTcyMzQ1.K8VadzODsynBRQ8TyUOfyWs1ejCwEMcfQDmioSijWBog.AQAAlGTO-bi97oVQlp3fALkv9zKb0uo3_94VTKvBCRUg.JPEG/4CFABB3F-17D6-4F00-8713-5403C8E08FC8.jpeg",
+          "https://naverbooking-phinf.pstatic.net/20230717_181/1689568142269KpKty_JPEG/%C0%E5%B9%CC.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjhfMTg2/MDAxNzU5MDIyNjY3ODE1.-uuwSIIlA22Fd04hU229L4BUorSWrhEc179V-B3QDGAg.Ei8KgLDB7ciaQH4-_D9J87Pk2fl9nJLEcSeNChPJ9TEg.JPEG/1000128661.jpg.jpg",
+          "https://naverbooking-phinf.pstatic.net/20230717_21/1689568129512z6O6H_JPEG/2_9E9364BA-03ED-4A58-B759-497EEABF0A31.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDdfMjM0/MDAxNzUxODY1MzY0OTU2.c-m8zCERBsZxXyTAR0LBx3udCP4QUAwnJ6sdCDf-wCwg.K10yw8kvzk4okOIAIZVu9kBUY6kGGzN9DBRFelumdX4g.JPEG/B0E0B811-6CC3-4585-91EF-6F7CC121BD06.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjFfMjky/MDAxNzUwNDgzNzAyMDYz.YFzUygF7bsHSNPig_VF4gOGWkqu5bte4RNdFvWwQx1gg.WS_VbATX6QggCQVdidm2XkUge9iDNuBhyfbo5scXP0og.JPEG/20250621_141428.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjZfMjI5/MDAxNzYxNDg4Nzg4NTQx.e5fbOwP1l2gDJ06FuubLbmMben1cAxVHCSwdJaSGFEMg.a_6C6bdEYQ9rWt6K93JOyUaaExlxW1lRAZ2WILM3bbYg.JPEG/20251025_180751.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220126",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": {
+          "year": "2025",
+          "type": "star",
+          "starCount": 1
+        },
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1282957326",
+            "bodySummary": "생일날 갔던 라망시크레 레스케이프호텔 안에 있는 파인다이닝인데 전부터 가보고싶었는데 남편이랑 둘이 보내는 마지막 생일이라 더욱 분위기 좋고 애기랑 못오는,,,그런곳으로 골랐다 ㅎㅎ",
+            "url": "https://m.blog.naver.com/leeju1005/223338658803",
+            "nick": "젬마",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTEwMjBfMTc1/MDAxNjM0NzAwMTEyNTcw.bV0hkU-F1gVG62Fdm3600PECKN7You8h-rw1dZWmZDMg.jyH0MilDkWdbsEfVPNaiev3ZwG2D6LiJYxwZcDPFABMg.PNG.leeju1005/profileImage.png"
+          },
+          {
+            "sid": "1282957326",
+            "bodySummary": "한정된 인원만 받아서인지 다른 테이블의 대화가 들리지 않을 정도로 충분히 쾌적한 간격 굿 서두에 미리 전달한 이름을 넣어 이렇게 정성스러운 초대장을 받은 것처럼 편지 형식으로 메뉴",
+            "url": "https://m.blog.naver.com/niki50/223299387009",
+            "nick": "일인칭시점",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAxMTRfNiAg/MDAxNjczNjk2OTA4NzE4.hb1Jd5ahpQvtwp5eUVt_Q402jpHJktKY_Px2xWcz-tAg.H94Gs63N-9QY-uH6a3TNEp3Kznqx5iG-xfVRQKeVCMMg.JPEG.niki50/profileImage.jpg"
+          },
+          {
+            "sid": "1282957326",
+            "bodySummary": "하지만 부드럽고 넘 맛있었댜 남산을 표현한 한입거리 쁘티라망스크레 핑거푸드라 헹굼물을 주시는데 뜨뜻하고 향도 좋고 저 물에 목욕하고싶었습니다 ?옥상정원에서 온 한입거리들 특이하고 ",
+            "url": "https://m.blog.naver.com/dkfmazo78/223289597107",
+            "nick": "보리루미쨩",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxNzA3MjdfMTM3/MDAxNTAxMTI1MjA0Mjkw.z621ZenGj_aV6iSA-oS2ma6LMdQ4m0c4Ry4CzZB26vkg.b4RUMrYAexCzH_k9J5MuePujfry4uDE1q9JebOBAx0Yg.JPEG.dkfmazo78/profileImage.jpg"
+          },
+          {
+            "sid": "1282957326",
+            "bodySummary": "호텔 건물은 후미진 곳에 외관도 투박하지만 내부 인테리어는 중세 프랑스 감성 넘치는 곳으로 심지어 엘베에서도 층 안내로 불어가 나온다. 로맨스란 비단 '낭만적인 사랑' 뿐만이 아니",
+            "url": "https://m.blog.naver.com/binujoa/223284868673",
+            "nick": "하늘꿈",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxNzAyMTdfMTQg/MDAxNDg3MjU4NDAwODgx.JDe0hqXBjaniKt1DCL3E3kDkqOs_cBM9PdnEBrIbRkwg.D-879BWq96GugAbhC_xg2gdP2c8jwIDL309q4MrL7rIg.JPEG.binujoa/DSC07432-2.jpg"
+          },
+          {
+            "sid": "1282957326",
+            "bodySummary": "오늘은 기념일을 맞아 방문한 레스케이프 호텔 프렌치 레스토랑 미슐랭 원스타인 '라망시크레'의 후기를 작성해보겠습니다. 아주 예쁜 음식들이 나온다는 후기를 듣고 방문을 결심했는데 정",
+            "url": "https://m.blog.naver.com/dermtae/223271426468",
+            "nick": "피부아저씨",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMjVfNDYg/MDAxNzAwODgzNzY1Mzk3.jwgqCs691e-fbAYmLlK1-GH6ryHQL_E3A71tw2oenvQg.hr5HANilCMcOKoYs3P3QDguKxfS1W8_M7Ak-7gMi974g.PNG.dermtae/profileImage.png"
+          }
+        ]
+      }
+    ]
+  }
+}

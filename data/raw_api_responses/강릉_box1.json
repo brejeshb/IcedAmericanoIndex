@@ -1,0 +1,399 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 5,
+      "count": 5,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 128.8704029220088,
+          "minY": 37.74289099099099,
+          "maxX": 128.8761,
+          "maxY": 37.747395495495496
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "128.8732514610044;37.74514324324325",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "2094353362",
+        "name": "한우연가",
+        "x": "128.8736003",
+        "y": "37.7462047",
+        "distance": 0.122,
+        "categoryName": "육류,고기요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220733"
+          ]
+        ],
+        "category": [
+          "한식",
+          "육류,고기요리"
+        ],
+        "reviewCount": 24,
+        "averagePrice": 40000,
+        "address": "강원특별자치도 강릉시 홍제동 456 1층",
+        "roadAddress": "강원특별자치도 강릉시 경강로 1862",
+        "abbrAddress": "홍제동 456 1층",
+        "shortAddress": [
+          "강원 강릉시",
+          "경강로 1862"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "럭셔리한 인테리어와 명품 한우로 정성 가득한 식사 하세요",
+        "description": "럭셔리한 인테리어와 명품 한우로 정성 가득한 식사 하세요",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDRfNjEg/MDAxNzU5NTQ2MDgzNjg2.1PORJWjiZ7MoDv5h_8ad5fHlMoDFDI3EWtZdurFpl6Ag.QjN4sa2YmullslvK15yrknicvKRH6DuGi2-P2gq98g0g.JPEG/9B666B2D-D3E7-4A2F-90E4-4426B2D7F627.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDJfODgg/MDAxNzU2ODA5Mzk4OTk1.8Jfzb_-gbXV3_5PSq4tsgqfIwywSudQIwjThnSgzAhog.ssw8S7sYjwuPr2-6FttZhm79kScGK1dxvAI87vUrlUAg.JPEG/20250831_190355.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250902_168/1756776679752SeDBk_JPEG/%C7%D1%BF%EC%B5%EE%BD%C9.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMThfMTA2/MDAxNzYwNzc1MjY1ODE0.u0hnXi5JDN860HvYdpOJ2DAF8NMwFkRiX6IJB7_dCiwg.wyjWegw9NNJEYCzhdaaYGQ5eknFIpUHJUCzWN3E22Jgg.JPEG/1000091185.jpg",
+          "https://ldb-phinf.pstatic.net/20250902_270/1756776679723Bvlw5_JPEG/%BB%EC%C4%A1%BB%EC.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTdfMTM4/MDAxNzU4MDY5MjEwNTc2.N4mtZgUzSlq8Z6tibiYK_7YF4yWdrFW0g0N1hyl4TUMg.sWedyrCQeAURx-4LguOqD4dzgPXUm6Nfg-kbPljueosg.JPEG/1000060051.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250902_282/17567766797585T1fw_JPEG/%B0%A5%BA%F1%BB%EC.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDRfNTIg/MDAxNzU5NTc2MTg5MTcw.gQRiO5IA3dljhIgx91a18M4twmav4euYns-xYN7qjg0g.vrDadXS9qK0y9g4-w1N20Z1LKsqQXbRPAvl22SDRwawg.JPEG/6CB61F50-C604-4BD4-85DA-7CC0794AB2C6.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDFfMzYg/MDAxNzU2NzI5NDc1NjI1.icI5lTiKLmvwiiDKQhJdpAcnBHkdfauMbxlefcsMCxgg.T82Z86ADFsLXrqZMg-4C1xtGBkvxPyDYr-tNNaYfKd4g.JPEG/06C3CD4F-E33B-402F-9FB5-93A94C74C066.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjVfMTAz/MDAxNzU2MTMwNTU3MjY2.ZIGinjCTyqgIFMYcQWy4PS_jbwSTddkMKi2R9I_pDOYg.Nb-JhvTK-lM4frZwsLJ5kSOaRFbWhEMbosYrWEcHhh4g.JPEG/1756123622660.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220733",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "1174448798",
+        "name": "스타벅스 강릉IC DT점",
+        "x": "128.8723118",
+        "y": "37.7467461",
+        "distance": 0.197,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221275"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 996,
+        "averagePrice": 6000,
+        "address": "강원특별자치도 강릉시 홍제동 483-1",
+        "roadAddress": "강원특별자치도 강릉시 경강로 1853",
+        "abbrAddress": "홍제동 483-1",
+        "shortAddress": [
+          "강원 강릉시",
+          "경강로 1853"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "1. 주차가능 2.주차장 위치-매장 측면 3.주차가능대수 27대 4. 주차조건-무료",
+        "description": "1. 주차가능 2.주차장 위치-매장 측면 3.주차가능대수 27대 4. 주차조건-무료",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjJfMjg0/MDAxNzU1ODI2MTcyMTkx.sb10cYCRyd8Bmjo4SpEXWhm2ImfGyMi0_9fwPypF1HUg.jcS56HCq3O15hAf9thG9wLrngP9WQKb-MpAOd7g1Jecg.JPEG/20250813_155738.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjZfMjI0/MDAxNzU2MTg3MzI1NjU5.INxFmI4u7NDq2Idi1EyNLj6LVp_zv6B7nRRbSu60OiQg.ZUpWD75pjK0a7Su2jqMBPPU5_1nuZTrfrH8P3N_VZigg.JPEG/20250826_144759.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20190828_93/1566953601239OT9MQ_PNG/xX7Wv642gXMoTI0DAv0hRymS.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTRfMTI1/MDAxNzU1MTQ2Nzc3NDU5.-NNHelRghGkVjjnsFsbccF9tMAfojuk8lJ95dO_O7hsg.EA9nVRLUgU2Pi4LS5fdH-u_2YYWJxLtEPlyBiUfCDmQg.JPEG/20250813_120904.jpg.jpg",
+          "https://naverbooking-phinf.pstatic.net/20240611_141/17181045806223RhPm_JPEG/image.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDJfMTY3/MDAxNzQ4ODM4MTk0NDAx.5m1-jcZp-czGLB_bkaLUloZYABAuLcoYkPWw90QX8dcg.MccfNBKIFRozduLinwR2vPOZmFKKI8IcXhcEpp6JkZ0g.JPEG/1000019874.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDJfMTM0/MDAxNzU5MzkyNTg1ODEw.w-ofCc8nFHCrEZqId7HOjADARHa2gmVSnXFbOpjO_NUg.O7QlPtCOk46hPAb-waJaYdw99v0dC7u1m222Do-cLRAg.JPEG/1759392507601.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjdfMTE4/MDAxNzU2MjcyNjg3MTMx.-3H4BUG2WQxB3gzhG3XxkyC2Js-CDQGYjkV6DBQ0RWUg.cNVKTbWy-CiH-kNjlUdjUfidqHrzDW4_lsJJgnX6TVog.JPEG/20250826_145830.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDJfMTIz/MDAxNzUxNDExOTUyOTM2.hqzxZZaQrraLQJckgAyuyK6YfkRFFYGPh_uDqz0_ABIg.-zsTdbvkZDeLTEFM7blkczMqgS0Ip18xJizcxu82yn8g.JPEG/2AEC3435-640D-4711-B482-7925347339E4.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MDNfMTIg/MDAxNzQzNjcxMTA2OTkx.BPt3c8vjblOaD5d662GqECyfHWBn4rAt3HSZDH3oKO0g.lCq-PQdJIs5pCI6JzgKYdQ0Ek9zRYVk5tDriKqy6n0Eg.JPEG/4B433018-7E17-44D9-A423-B203320755B4.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221275",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1174448798",
+            "bodySummary": "커피맛이 진해서 좋아요! 스타벅스 강릉IC DT점은 매장 방문객이 평일에도 많습니다. 빈 주차자리는 찾기가 어려운데요, 고속도로 타기전에 들르기 때문일까요? #강릉스타벅스 #스타벅",
+            "url": "https://m.blog.naver.com/insung1214/223394657547",
+            "nick": "롱비치",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTAyMTdfMTE0/MDAxNjEzNTY0ODAzNTUw.Jq9PHaTjFnBBzSa_ShAT_O-PKYWiMFkgnwndH8asYCAg.pvyKZJhfiD0-7sTBAwXtFLtJgs3bxYzUj2DpzkvQ478g.JPEG.insung1214/profileImage.jpg"
+          },
+          {
+            "sid": "1174448798",
+            "bodySummary": "강릉에서는 해변 말고는 도로에 걷는 사람이 많지 않다. 그래서 그런지 보행자에 대한 배려가 부족해 보인다. 신호등이 따로 없으면서 차량 통행이 많은 회전 교차로에서는 길을 건너기가",
+            "url": "https://m.blog.naver.com/999esky/223387333516",
+            "nick": "코코",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTA5MDVfNzEg/MDAxNTY3NjkzMjgxMjU5.tVrTQmkYpbusf2qvoX7U7WjWntKCE71UD1tMIhmzLaAg.y8d19sycsudsTnzJCKdRldEINJygyEsWoMM0t_p0Vj8g.JPEG.999esky/profileImage.jpg"
+          },
+          {
+            "sid": "1174448798",
+            "bodySummary": "1522-3232 스타벅스 강릉IC DT점은 강릉시 홍제동에 생긴 7번째 스타벅스에요 IC나가기 직전에 있어서 드라이브스루로 커피 픽업해가기 딱 좋은 위치에 있답니다 ☕ 1층 널찍",
+            "url": "https://m.blog.naver.com/lastnameischoii/223340394384",
+            "nick": "강릉언니 남양주동생",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEwMDFfMTUz/MDAxNjk2MTM5NzU2ODI4.C4B_-HGlVDx-aDfHBNyP4XbsbW2QqDf6f1PX8PN7tJ4g.8fR1OOGsPeIbElMa918Z_B42x01nN7Xx-c_oXThJFBIg.PNG.lastnameischoii/profileImage.png"
+          },
+          {
+            "sid": "1174448798",
+            "bodySummary": "스타벅스 특징이 잘 표현된 건물로 세련되고 모던합니다. 드라이브 스루 가능한 DT점이에요. Drive-thru 자동차에서 내리지 않은 상태로 물건을 사고팔 수 있는 운영 방식 중 ",
+            "url": "https://m.blog.naver.com/qingji3699/223336482498",
+            "nick": "칭지앙",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA2MjFfMTg5/MDAxNjg3MzA4ODM4MTE2.UQk50cPgs5sph_jPwEKmk8VZC_WaKT8NLld4r3WMPB8g.bxSkucY-T9sxgupiRDim2ntMbrQNOK9U0o3aqsC1kfYg.JPEG.qingji3699/profileImage.jpg"
+          },
+          {
+            "sid": "1174448798",
+            "bodySummary": "드라이브스루 통과하는 공간도 깔끔깔끔합니다. #강릉스벅 #스타벅스 #강릉스타벅스 #강릉카페 #강릉커피 #강릉여행 입구는 이런 느낌이 있고 스타벅스 선물세트도 보이네요. 강릉 스타벅",
+            "url": "https://m.blog.naver.com/danjjing_/223332211521",
+            "nick": "단찡",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMDlfMjAy/MDAxNzA0Nzg5Njg1ODM5.M_Gv0gGWkewOtwTEV5S0WTNN2P2WXtJpXy2q15pJiw8g.OZXZ3o7l5PJi97m83JcWHLlof4BRHBpDcdci72aBkVgg.PNG.eksql5524/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "id": "20362499",
+        "name": "금강식당",
+        "x": "128.8710617",
+        "y": "37.7447692",
+        "distance": 0.197,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 65,
+        "averagePrice": 0,
+        "address": "강원특별자치도 강릉시 홍제동 450-3",
+        "roadAddress": "강원특별자치도 강릉시 회산로408번길 7-4",
+        "abbrAddress": "홍제동 450-3",
+        "shortAddress": [
+          "강원 강릉시",
+          "회산로408번길 7-4"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "강원특별자치도 강릉시 홍제동 450-3",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 4,
+        "id": "1006078623",
+        "name": "평상집 강릉점",
+        "x": "128.8718406",
+        "y": "37.7467253",
+        "distance": 0.215,
+        "categoryName": "백숙,삼계탕",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220774",
+            "221606"
+          ]
+        ],
+        "category": [
+          "한식",
+          "백숙,삼계탕"
+        ],
+        "reviewCount": 114,
+        "averagePrice": 20000,
+        "address": "강원특별자치도 강릉시 홍제동 482-1 평상집 강릉점",
+        "roadAddress": "강원특별자치도 강릉시 경강로 1849",
+        "abbrAddress": "홍제동 482-1 평상집 강릉점",
+        "shortAddress": [
+          "강원 강릉시",
+          "경강로 1849"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [
+          "강릉에서 만나는 특별한 삼계탕 맛집"
+        ],
+        "cardDescription": "강릉에서 만나는 특별한 삼계탕 맛집",
+        "description": ".가족 모임 때, 부모님 생신 때 대접해 드리거나 직장, 친구들 회식 할 때 모임 하기 좋은 장소입니다:) 실제 평상의 느낌을 살려내어 전통적이면서도 현대적인 느낌으로 세련된 분위기를 연출 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDJfMTY0/MDAxNzU2ODAzNzg5ODQ4.XhFgS7LYqv-oz22s5o9CtGvKSNg_zLJgXSaRSBbvxTsg.lj8tsa8PqFBPZ-kq7MXMQe36XOqTlBrpaMnr-8Y_RnIg.JPEG/20250902_173313.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTVfMTc3/MDAxNzYwNTA1MDkzMjcy.lKNPXkLyS4i66ON5Lmuc9OfvL8QH1QGtQvlzRFRVbmYg.96RI5dY4-xEcadega5DpoGAZvjwsxwVZYSrlpq1E_k4g.JPEG/20251015_131739.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240922_174/1726969361334UtemQ_JPEG/psj-58.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTBfMjcz/MDAxNzQ5NTI5NTQ0MDY4.9Ql2GsiNXNCypzv4lXp2kjJj45WNCchN6KGWsKWzjMIg.1Ee5r6viivukJUR95s2BREPwCSrno22BfY31V44BWI4g.JPEG/20250610_124903.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240922_115/1726969616896alz2s_JPEG/psj-130.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTAzMjZfNjQg/MDAxNzQyOTg2NDk1MTMz.6CRuzEFqPxlcr63jgJk2CFzgKUXpeXkrloAPX2vsndwg.EdirQ9x7WDSN4pavbi6jOJOBj9IVfaouJN-TwyK4kxog.JPEG/20250325_175122.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240922_290/1726969433396eEDRu_JPEG/psj-136.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTNfMjAx/MDAxNzUyMzcwMjI4Nzcx.lW0fcAoP1GMVtpBPyO-hOXlyF_rk3bvk16iNgCJiKC4g.B-gWpgrF2YOeG088kvTqfQ6sPgwKmKwAg_6wWyx0rOYg.JPEG/20250711_134934.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjZfMTc0/MDAxNzU4ODUxOTUxNzE0.HPQ_4l0aXokncLl6M9BUnzWE07p7rmE5vrplArGFGmUg.C7ZslnZ_DKmSqCHjdAVeaNPN8A0xK5Dl2AP25GLcZBIg.JPEG/ED12D009-D79C-4391-BAB5-4B43F1139452.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjBfMTc4/MDAxNzUzMDA0NjQwMzg1.Jslq3sP4uzBU6OA6oCG0TAiFBLQtpXPUDfNmu-ZlhVkg.9xzI7l1nI4dWFPY8MD4ZYBDOo49rIqtGsKNcNjpkdYkg.JPEG/A90668E4-B602-458E-8EB5-08FF675B4896.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221606",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 5,
+        "id": "1567062059",
+        "name": "회산막국수 강릉점",
+        "x": "128.8706365",
+        "y": "37.7448616",
+        "distance": 0.232,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 32,
+        "averagePrice": 10000,
+        "address": "강원특별자치도 강릉시 홍제동 449-2 회산막국수 강릉점",
+        "roadAddress": "강원특별자치도 강릉시 회산로 420",
+        "abbrAddress": "홍제동 449-2 회산막국수 강릉점",
+        "shortAddress": [
+          "강원 강릉시",
+          "회산로 420"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [
+          "깔끔한 맛의 물막국수와 옹심이의 만남"
+        ],
+        "cardDescription": "깔끔한 맛의 물막국수와 옹심이의 만남",
+        "description": "회산막국수 강릉점입니다.  *주차안내 세차장 안쪽으로 들어오셔서 세차장에 내에 편히 주차하시면 됩니다!",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjVfMjI0/MDAxNzU2MDg5OTc1NjAy.ZYnV_E-sP2N_C6Ympkrx1julgwZNi93uS7a-b6H0Lfsg.YuwctuQ64d3-8FOme5scAGkIJPOAowqaNBg8u--J2dkg.JPEG/5EF79213-DDB3-4847-8A89-68B6B1B2A5AE.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTJfMjg4/MDAxNzYwMjAwOTQxMTAz.n2GJ-lRZ2349mYEXiFBzP3K_ZCOy2EsLmIurXt4QRzEg._9SO1fqShi7zqU09NnupZrqgcTMa2l4iAIc_7P4DtCQg.JPEG/92B1CF79-6F96-416A-AF3B-18A83E533B9B.jpeg",
+          "https://ldb-phinf.pstatic.net/20241222_230/1734844063290Pep7m_JPEG/1000012522.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTRfNDYg/MDAxNzYwNDM0NDMxMTEz.NbS8X7d5NWmTHA_Z9UVaUdEjmY0V2vPnJ_K0Sx4gfnIg.M-IEE9lH4Ny7Ia6WRo3Ol2YUR3kKePISbA8BHP5fNH0g.JPEG/B0D9387D-767E-4C01-A39C-E86D40EFCB74.jpeg",
+          "https://ldb-phinf.pstatic.net/20241222_131/1734844063269mcI21_JPEG/1000012521.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTRfMTgz/MDAxNzYwNDMzMzUyNjg3.BQ4jOkAWFAcM_ycaodYqHSha2eCRDMczloerry3H3G4g.MiQ0KPXzcCJ54dOgQBo-XvMMqAJfjBBgzeHBZnn6xuwg.JPEG/BFE13A19-C351-44FF-9654-25CA38250996.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTNfMjAz/MDAxNzYwMzQ2NTk2ODEx.EfrFSWcWN3I7IywBLKHOZsBFL0bir2OYxODxGuP06ZMg.Gvj0pfEewCoTrOe4FZGYS-gfrnMApGfGh2M3JoKiy2kg.JPEG/20251013_180411.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDFfMTUy/MDAxNzUxMzU4OTc4NDMz.NlVpFn8Aps37S-0anPdJ0bCE2XYhD05M5U7zY9Q6zxcg.kRs4zr0cp4OTm8JF6rROCksuBGsYw2g_TWAZ9OpCj4gg.JPEG/09A946D5-56F9-452C-9EC7-01702C130BC8.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MzBfMjg0/MDAxNzQ4NTc4NjAxNjc1.Th0YkZT4Xgpfutp2-KMMZdXpYzQZpn1y9iDyJ6bPO2sg.HswEJmlMxWE9H7pNt6sTSoR8PuwQhlm3brMavmu7P_Eg.JPEG/20250530_131333.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTlfMTkg/MDAxNzYwODYxMTg2MTM1.d4TrSKAEA7XL1lJVGta9StEljk6XJWPsZJhCcDQO_Eog.SARUrUaF94HVxHAVFkgELMV82nxTk6B-YrN_MjRi8VUg.JPEG/1000015890.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

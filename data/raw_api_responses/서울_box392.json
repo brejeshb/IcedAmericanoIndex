@@ -1,0 +1,620 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 8,
+      "count": 8,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.98027314744748,
+          "minY": 37.57460810810811,
+          "maxX": 126.98140972117122,
+          "maxY": 37.57550900900901
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.98084143430935;37.57505855855856",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "31863414",
+        "name": "아우네",
+        "x": "126.9805049",
+        "y": "37.5754994",
+        "distance": 0.057,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 7,
+        "averagePrice": 19000,
+        "address": "서울특별시 종로구 중학동 14 트윈트리빌딩 A동 B104호",
+        "roadAddress": "서울특별시 종로구 율곡로 6",
+        "abbrAddress": "중학동 14 트윈트리빌딩 A동 B104호",
+        "shortAddress": [
+          "서울 종로구",
+          "율곡로 6"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "안녕하세요? 매운갈비찜, 양푼이찌개전문점 아우네입니다. 저희 아우네의 갈비찜은 직접손질한 갈비를 맛깔스럽게 요리해 푸짐한 양과 고급스러운 맛으로 고객님의 미각을 만족시켜 드립니다",
+        "description": "안녕하세요? 매운갈비찜, 양푼이찌개전문점 아우네입니다. 저희 아우네의 갈비찜은 직접손질한 갈비를 맛깔스럽게 요리해 푸짐한 양과 고급스러운 맛으로 고객님의 미각을 만족시켜 드립니다",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20150831_56/1441011749175drixt_JPEG/SUBMIT_1363748777248_31863414.jpg",
+          "https://ldb-phinf.pstatic.net/20150831_80/1441011749392PTvzw_JPEG/SUBMIT_1363748772533_31863414.jpg",
+          "https://ldb-phinf.pstatic.net/20150831_7/1441011749611rU6hv_JPEG/SUBMIT_1363748772719_31863414.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "1530861840",
+        "name": "스타벅스 연합뉴스점",
+        "x": "126.9804754",
+        "y": "37.5746271",
+        "distance": 0.058,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221275"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 1745,
+        "averagePrice": 6000,
+        "address": "서울특별시 종로구 수송동 110",
+        "roadAddress": "서울특별시 종로구 율곡로2길 25",
+        "abbrAddress": "수송동 110",
+        "shortAddress": [
+          "서울 종로구",
+          "율곡로2길 25"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "1. 주차가능 2. 주차장 위치 : 건물내 지하 2층-지하3층 3. 주차가능대수 50대 이상 4. 주차조건 : 스타벅스 1만원 이상 결제 시(스타벅스 카드 충전 제외)  2시간 무료주차 가능(스타벅스 매장에서  ",
+        "description": "1. 주차가능 2. 주차장 위치 : 건물내 지하 2층-지하3층 3. 주차가능대수 50대 이상 4. 주차조건 : 스타벅스 1만원 이상 결제 시(스타벅스 카드 충전 제외)  2시간 무료주차 가능(스타벅스 매장에서  ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MThfMTk1/MDAxNzUwMjM2OTEyNzUz.5Ch6gMntql_mDLCeTD7WznOM7_1ZCo-zByMV1aMSPcYg.HIxPAQpPq-YtBKKYvB_7xjoYPzwRrE8l8MhplqlkDpUg.JPEG/Screenshot_20250618_103116_Gallery.png.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDJfNjIg/MDAxNzU2Nzk2NjU5NjMy.5Gb61XGMrAYw558qwX5b-y6mU3C-9k18oWAdgmHC1lkg.JWMjZXQAYBss1UdbVzalck6-sAMVOLKp72MGtyCneH0g.JPEG/20250730_121145.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20190828_93/1566953601239OT9MQ_PNG/xX7Wv642gXMoTI0DAv0hRymS.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTdfMTc0/MDAxNzU4MDY5OTI4NDI3.BFcnTk6Ex2Mav4RFU4l0wPli1QNjSnTmD8NTtILa3hMg.8trhxjn0psi6fPj2F9iXNSMEgd7XbZQW73ejIvZ95-sg.JPEG/20250723_123358.jpg.jpg",
+          "https://naverbooking-phinf.pstatic.net/20251020_274/1760903348033AHKug_JPEG/image.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjRfMjQ2/MDAxNzUzMzM0ODk0MzU2.Nxnk65RwjQhmq6HP0zV3J9j1O4dYYbR4DQ7a1_oefDog.xpuxV8Dezl8UVWRYV9f-IgUo8mqr-Wg-Xy999Sqj0Nog.JPEG/07169BC3-9E60-4BDC-96C3-D5199C101686.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDhfMTA1/MDAxNzUxOTUxODAwNDkw.zjz-drCCtby0Jym6ACVTCTHMs7vWPTicKHD9HXHC-1sg.VDMoXNsMarcFwO5WtB0vWTKnSapjadhpNRdwVnjafC0g.JPEG/20250708_141544.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTFfMjYz/MDAxNzUyMTk5NjY4MjE1.6wPI81mXdbg-zCRS0OtAh7w5wYgdG_tHhjEty0s1_q4g.L2V4IVGxELgQfV0imc0Ho_WoyMEslL_Nt3Vk7Ug0f6Eg.JPEG/582D9B2F-A6A8-4A81-B245-ABC60F4FA106.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTdfMjU5/MDAxNzU4MDcwMTA5MjE3.o2rgsQQrTzdjYdbq9ELeMwITe-lEyEYj340MYU06fi8g.OEsG0wNuY97v5V0xyxAzct82ZqMCYanGIzi5jAukAHsg.JPEG/20250715_114734.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTJfMjkz/MDAxNzQ5NzIwMTQ2NTky.hfim2IEtle9SbZ7gpbXSTbLXwqfHzscMs3N5TtBewasg.-fdxyiNBwpeDtdkCQF7BmOmmepJYYV0J8yRyCjunE_gg.JPEG/83135344-689C-43D3-AC62-AC58E332483E.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221275",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1530861840",
+            "bodySummary": "빨간 빛의 음료라 색깔은 완전 이뻐보인다!!! 스타벅스 유자패션피지오는 고흥 유자를 넣어 상콤달콤한 맛이 나는 음료 스타벅스 시그니처 패션 탱고티로 빨간색이 우러나온다고 한다 + ",
+            "url": "https://m.blog.naver.com/mee01111/223196713655",
+            "nick": "새뮤",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA1MTZfMTM1/MDAxNjUyNjk3MjM1NjY4.iUjmkh_-LrCeqJXYcFbnKCNUvpcmF7fzrTRtY1Byl2Ig.kjNXwh7fw-JGdHcsYIXOLOgNQiFSSnGHL8kDB2kp1ucg.JPEG.mee01111/profileImage.jpg"
+          },
+          {
+            "sid": "1530861840",
+            "bodySummary": "안뇽하세요 스벅 플라워티 먹어봤어요!! 별 추가 적립 이벤트도 진행 중이니 혹쉬 궁금하시면 4월 3일 전에 도전해보세여 이벤트 내용 스타벅스 연합뉴스점 영업시간 평일 07:00 -",
+            "url": "https://m.blog.naver.com/jjjyyy1221/223059838048",
+            "nick": "정댕이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA0MDNfMjk2/MDAxNjgwNTIwNTg2ODc0.Lv5_apO1mm5UXRSmf1EzLSyi1TRCHVg__oqBLJGgv34g.AMWo5xv5EqZOtgQk50gN5RW04v_LKqh_dP2p7Czxx_cg.PNG.jjjyyy1221/profileImage.png"
+          },
+          {
+            "sid": "1530861840",
+            "bodySummary": "어떤 메뉴를 시킬까 고민하다가 신메뉴로 주문해 봤는데요! 핑크 드링크 위드 딸기 아사이 스타벅스 리프레셔 스타벅스 (가격 : 5,800원 / Tall 사이즈 기준) 핑크 드링크 위",
+            "url": "https://m.blog.naver.com/ma3404/222857279691",
+            "nick": "뽕언니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA2MDlfMjAz/MDAxNjU0NzQ5Mjc3OTcz.Wd7LXm5Kxmr8sELNLeJuubufkNYcspHnWokVhyaI0iog.PLkW55UjLAHEpBKoFKuSXXM5R7S0KmAFTcTl6TA-f4gg.JPEG.ma3404/profileImage.jpg"
+          },
+          {
+            "sid": "1530861840",
+            "bodySummary": "#내돈내산후기 START!!!! 회사 1층에 스타벅스가 있어서 지나가던 중, 신메뉴가 나온 거를 보고 점심시간 식사와 산책 후 바로 달려갔다. 3개의 메뉴 중에 그나마 취향에 맞을",
+            "url": "https://m.blog.naver.com/spirit810/222540575576",
+            "nick": "이지이짓",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA3MDFfNzEg/MDAxNjU2NjQxMDI1MDYy.h3Hac1G-9VgcHXPOg8mRmPTqqtephKw4HXIjYNexmlEg.0GqhLHXCLpd9nG1-1Qye6b9B165E8Zmk17xntnfm3ikg.PNG.spirit810/profileImage.png"
+          },
+          {
+            "sid": "1530861840",
+            "bodySummary": "스타벅스 플래너 스탠딩 스케줄러, 핸디 스케줄러 스탠딩 스케줄러는 미니 계산기 핸디 스케줄러는 미니 포켓 증정 스탠딩 스케줄러 전격 해부 미니 계산기는 배터리가 내장되어 있지 않아",
+            "url": "https://m.blog.naver.com/1219yammy/222136045004",
+            "nick": "2jelly",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDA2MDFfMjA3/MDAxNTkxMDEzOTg2NDM2.-xAhxccODdiGhOzQK7OWM0rKzFWEKP3br0fJ_Qt6ACYg.Z8RQnaYCYDnLyU7dX3O6KDjqCuSUlo0dlLQGiLVuXbEg.PNG.1219yammy/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "id": "1339546279",
+        "name": "더치앤빈 종로수송점",
+        "x": "126.9809919",
+        "y": "37.5751074",
+        "distance": 0.014,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "230928"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 248,
+        "averagePrice": 5000,
+        "address": "서울특별시 종로구 수송동 85 1층 104호",
+        "roadAddress": "서울특별시 종로구 율곡로2길 7",
+        "abbrAddress": "수송동 85 1층 104호",
+        "shortAddress": [
+          "서울 종로구",
+          "율곡로2길 7"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 종로구 수송동 85 1층 104호",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjRfMjkw/MDAxNzUwNzI3NTgyODA0.XKk6DVevxfypGikaxzsEBMELtNzIcn6LQyBO54iTv7Ig.FFui_NfLS5OCAgMzoimaPKA0mwW05p8VuEGzZdVgDVIg.JPEG/20250624_101219.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjlfNCAg/MDAxNzU5MTQzNDk0ODg1.lu18bMUnb1a23sF89C1gqXvnWn1Jne9xDbOi_pPt8MQg.q1HAugufGTcDCjjHU1hN3AhRkkAqrV1-z7CNIyvnnrAg.JPEG/1759142714399.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20180827_243/15353654519770VPhw_PNG/B5o7_AN6Gyh78O4dkJLu43um.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDVfMjQ5/MDAxNzQ5MDg3MTE1NTY3.1H7U-EymJYttzroo0NxsWXE4NsEvxC1XsSuu6VxSqMgg.yXU0WtlkZOWnooEfDEqLPXlRF39COxjye4TN9e8ALKIg.JPEG/20250601_152031.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20180827_66/1535365617334vg5yA_JPEG/nvkDUZrWYHBDb_kUg2CuIrr2.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "230928",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 4,
+        "id": "1974643151",
+        "name": "엠즈씨드",
+        "x": "126.981227",
+        "y": "37.5750991",
+        "distance": 0.034,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221212"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 13,
+        "averagePrice": 0,
+        "address": "서울특별시 종로구 수송동 85",
+        "roadAddress": "서울특별시 종로구 율곡로2길 7",
+        "abbrAddress": "수송동 85",
+        "shortAddress": [
+          "서울 종로구",
+          "율곡로2길 7"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 종로구 수송동 85",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221212",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 5,
+        "id": "18666625",
+        "name": "리틀야곱",
+        "x": "126.9811834",
+        "y": "37.5751339",
+        "distance": 0.031,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221212"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 6,
+        "averagePrice": 0,
+        "address": "서울특별시 종로구 수송동 85",
+        "roadAddress": "서울특별시 종로구 율곡로2길 7",
+        "abbrAddress": "수송동 85",
+        "shortAddress": [
+          "서울 종로구",
+          "율곡로2길 7"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 종로구 수송동 85",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221212",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 6,
+        "id": "1800268295",
+        "name": "베어린",
+        "x": "126.9812711",
+        "y": "37.5750219",
+        "distance": 0.038,
+        "categoryName": "양식",
+        "categoryPath": [
+          [
+            "220036",
+            "220044",
+            "220126"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "양식"
+        ],
+        "reviewCount": 3,
+        "averagePrice": 0,
+        "address": "서울특별시 종로구 수송동 85 서머셋팰리스서울 103호",
+        "roadAddress": "서울특별시 종로구 율곡로2길 7",
+        "abbrAddress": "수송동 85 서머셋팰리스서울 103호",
+        "shortAddress": [
+          "서울 종로구",
+          "율곡로2길 7"
+        ],
+        "displayContext": [],
+        "labelTheme": "양식",
+        "microReviews": [],
+        "cardDescription": "서울특별시 종로구 수송동 85 서머셋팰리스서울 103호",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220126",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 7,
+        "id": "1194584614",
+        "name": "스시와",
+        "x": "126.9812442",
+        "y": "37.5750348",
+        "distance": 0.036,
+        "categoryName": "일식",
+        "categoryPath": [
+          [
+            "220036",
+            "220038",
+            "220081",
+            "220804"
+          ]
+        ],
+        "category": [
+          "일식",
+          "일식당"
+        ],
+        "reviewCount": 225,
+        "averagePrice": 114000,
+        "address": "서울특별시 종로구 수송동 85 서머셋팰리스서울 2층 201호",
+        "roadAddress": "서울특별시 종로구 율곡로2길 7",
+        "abbrAddress": "수송동 85 서머셋팰리스서울 2층 201호",
+        "shortAddress": [
+          "서울 종로구",
+          "율곡로2길 7"
+        ],
+        "displayContext": [],
+        "labelTheme": "고급 정찬",
+        "microReviews": [],
+        "cardDescription": "미스터 초밥왕의 모델이자 신라호텔 출신의 안효주 오너 셰프가 운영하는 청담동 일식당의 광화문 분점입니다. 일반 초밥 이외에 여러가지 재료를 조합하여 만드는 젠스시, 아부리한 오도로와",
+        "description": "미스터 초밥왕의 모델이자 신라호텔 출신의 안효주 오너 셰프가 운영하는 청담동 일식당의 광화문 분점입니다. 일반 초밥 이외에 여러가지 재료를 조합하여 만드는 젠스시, 아부리한 오도로와",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTVfMjgg/MDAxNzYwNDg2MjQxMDQz.9asR5Lhzr0KKnsc38ixrUueTUsXeQGHGyIelDRFzfrUg.OtYsiElF6jfcg4jVwaixr2T_dS7Jjr0zz3UmvRP1LCMg.JPEG/1000039888.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20200407_189/1586266257824yot5B_JPEG/64sSakKF1Pbl6djCNyMyS4di.jpg",
+          "https://ldb-phinf.pstatic.net/20200324_298/1585030528508enXlk_JPEG/93EWRQ7rP6K8YvYvnwyo4Dr6.jpg",
+          "https://ldb-phinf.pstatic.net/20200324_109/1585030529346hsHQW_JPEG/JiAgoNLxwWnV1fy7yZ-H42cK.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220804",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1194584614",
+            "bodySummary": "종로나 광화문에서도 도보 충분히 가능하다. 주차도 건물에 가능. 건물도 깔끔하고 화장실도 깔끔. 가게 내외부도 깔끔하다. 옛날에 스시효라는 이름이었는데 미스터초밥왕에 나왔던 안효주",
+            "url": "https://m.blog.naver.com/tudylog/223375147526",
+            "nick": "달가락",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAyMTdfMTAg/MDAxNjQ1MDgzMjI0MDEy.afDihm0AdcFd71AYZMQ6NrEdLEWmSGmg7Czpm2ldFSwg.lgfN54UEa9-e0BX6A0CE6yPl1MwuMjzRge_27BTHzwkg.JPEG.tudylog/profileImage.jpg"
+          },
+          {
+            "sid": "1194584614",
+            "bodySummary": "팀 송년 점심으로 안국역/ 종로구청 근처 스시와에 갔다. 숙성회로 감칠맛이 있으면서 정갈하다. 요건 별로 맛이 없었다. 스시는 다 맛났음! 후식으로 아이스크림 있었는데 아주 맛있었",
+            "url": "https://m.blog.naver.com/beccafico/223291343470",
+            "nick": "베지밀",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEwMjdfMTkw/MDAxNjk4Mzg4NzQxMzIy.Q9egQwrDULyq2M_piKapLILyzCEoB8du7KLwK1r7bN0g.jAWph7S6zZT9dI6VKScTSv8veUMX0DJm1LKRnB3n2GUg.JPEG.beccafico/profileImage.jpg"
+          },
+          {
+            "sid": "1194584614",
+            "bodySummary": "생일 축하겸 가는 거라 적당한 가격/적당한 분위기/적당한 맛을 고려하여 결정한 곳! 런치 스시오마카세 70,000원 내가 먹은 코스! 런치 사시미코스 100,000원 디너 스시오마",
+            "url": "https://m.blog.naver.com/oundh3/223196562707",
+            "nick": "빠다코코넛",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20141009_64/oundh3_1412855015040OY5ll_GIF/95283fd0f83560b3d70cd889dda5c536.gif"
+          },
+          {
+            "sid": "1194584614",
+            "bodySummary": "#서울맛집 #강남맛집 #서울일식 #무역센터맛집 스시효는 서울 잠원 본점과 (원래 있던 청담점이 잠원으로 이사함) 무역센터점이 있다. 무역센터점은 현대백화점 식당가에 있어서 현백이나",
+            "url": "https://m.blog.naver.com/lautrecinme/223153807963",
+            "nick": "세잔",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDAxMDhfMTA2/MDAxNTc4NDU5NjgzMTg5.BQwNLxyECrCYB8mt_yYVZvquD2KaRA-0afcI08JKDkkg.hqxdIUoB_iSQIr4eRUzqwUxb6kFRrYQJe0TEQaYuORsg.PNG.rautrecinme/profileImage.png"
+          },
+          {
+            "sid": "1194584614",
+            "bodySummary": "메뉴 스시와는 오마카세 형식으로 런치 스시코스 70,000원 런치 사시미코스 100,000원 디너 스시코스 120,000원 디너 사시미코스 150,000원 외 주류로 구성되어있습니",
+            "url": "https://m.blog.naver.com/tullsome/223137568978",
+            "nick": "리틀도비",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA0MDRfMjE2/MDAxNjgwNjA2MzA1MjA3.EtlMg_U5raHuXTXtgaxXeISE7dhajOEbvkFNyPBWqgMg.izVZ8a2cHblCQckz6QmJWwzIK1xYICFPS5cruZ36lCgg.PNG.tullsome/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "id": "1811388034",
+        "name": "더 키친 일뽀르노 광화문점",
+        "x": "126.9812442",
+        "y": "37.5750348",
+        "distance": 0.036,
+        "categoryName": "양식",
+        "categoryPath": [
+          [
+            "220036",
+            "220044",
+            "220127",
+            "1005479"
+          ]
+        ],
+        "category": [
+          "양식",
+          "이탈리아음식"
+        ],
+        "reviewCount": 1635,
+        "averagePrice": 40000,
+        "address": "서울특별시 종로구 수송동 85 써머셋팰리스 1층",
+        "roadAddress": "서울특별시 종로구 율곡로2길 7",
+        "abbrAddress": "수송동 85 써머셋팰리스 1층",
+        "shortAddress": [
+          "서울 종로구",
+          "율곡로2길 7"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [],
+        "cardDescription": "정통 남부 이탈리안 다이닝 더 키친 일뽀르노 뷔페로 즐기는 나폴리의 맛!!  에피타이저부터 디저트까지 풀코스의 메뉴를 선보이는 정통 남부 이탈리안 세미 뷔페!! 더욱 새로워진 메뉴를 만나 ",
+        "description": "정통 남부 이탈리안 다이닝 더 키친 일뽀르노 뷔페로 즐기는 나폴리의 맛!!  에피타이저부터 디저트까지 풀코스의 메뉴를 선보이는 정통 남부 이탈리안 세미 뷔페!! 더욱 새로워진 메뉴를 만나 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MzFfMjM1/MDAxNzU2NjMwNTcyMzM4._Z3FldWPsJRnigTnYO04yGkKF2TCb1LzxRQPffwAOPsg.g7gijE1BQTxYDWu3hXUBk9xpXRtod0VkmVkkTUyCi_sg.JPEG/1000089558.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjZfODcg/MDAxNzU2MjA3NTM5MDM3.lSp1N7mTu4cK-aDHfHtTBmZhrV7jy8_nmH55KXqeivog.YQYIr5IZbS514ONSIFZwePcHqqfpOJT-byi68-PY2y8g.JPEG/EA24D55A-2D87-473D-9317-6167F084BE02.jpeg",
+          "https://ldb-phinf.pstatic.net/20250903_171/1756890910828bYnGh_JPEG/2509_%B1%A4%C8%AD%B9%AE%C6%F7%BD%BA%C5%CD.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTNfMTEg/MDAxNzU3NzM3Njk2Mzkz.DrJJcmR9asbMJfJvJlw8CZk1k9-kHSPIB5um5ROA21sg.c9JSuCNtYT8vCIOugDA72RtAgbylIMMYPNnwR7b3CIcg.JPEG/20250913_132705.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250619_268/17503215902712wBqB_JPEG/%C0%CE%BD%BA%C5%B8%28%BA%DF%C6%E4%29.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjRfMTQx/MDAxNzYxMzAxNjU4NjM3.DqFztjpjVtZHf_a3IqXjNV_m0QZxYd7tBfRRy_B_CKYg.YMIFdKHtIBWqoFZ6fYOXO9bLJZXOr3YiAq-DZEGfa3Ig.JPEG/20251024_192352.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250417_284/1744877110504uk2GF_JPEG/%B1%A4%C8%AD%B9%AE_%BA%DF%C6%E4%C0%CC%B9%CC%C1%F6%2821%B3%E2%29.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTlfNTMg/MDAxNzYwODc5MjUwMTIx.kpRnyJ1YBb4lE9QyzKQg4vrHnxfA2ievHPKeDXo0Pzkg.gVL-t4rdgKRN8w8IOay_ANg-NLMtcEWz1Uw2z1yO4CYg.JPEG/1000056614.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjFfNDYg/MDAxNzYxMDM4OTExMjIy.q-gCCJ0c0oQpYOLf02Fr11q9b4py6hk2EYSZDGUR-cEg.PJJrY882ZZhgnOU0mY1mFJKX5D7tOyNiiJYcIFWs5a8g.JPEG/8DB9E535-952B-4BF8-AC92-80CF8A035902.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTBfNzMg/MDAxNzYwMDg4NjEzNDU5.vQoXYxmjHH0pRr5RkYdlPSCaf1OS_nvyxvPWalZW838g.qC2vzzg06wD424eBI5tSqS-_myFPQlsrgvioOUxHbTsg.JPEG/E98EC92D-F960-4789-9ADE-455A86F318A3.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1005479",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": {
+          "benefit": "[NDW - 그랜드 뷔페 컬렉션] 디너 뷔페 30% 할인 혜택 제공",
+          "image": "https://ldb-phinf.pstatic.net/20250903_171/1756890910828bYnGh_JPEG/2509_%B1%A4%C8%AD%B9%AE%C6%F7%BD%BA%C5%CD.jpg",
+          "url": "https://booking.naver.com/booking/6/bizes/282042"
+        },
+        "hasSmartOrder": false,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1811388034",
+            "bodySummary": "젠우입니다! 광화문 안국역에서 청첩장 모임, 와인 마실 수 있는 분위기 좋은 레스토랑 조용하고 널찍한 분위기의 부담스럽지 않은 소개팅 장소 찾으신다면 더 키친 일 뽀르노 광화문점 ",
+            "url": "https://m.blog.naver.com/like_ourstory/223354847764",
+            "nick": "젠우",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMDFfODEg/MDAxNjk4ODI4MDk5Mzk2.Iryk0hi7LU409ocRQkbEHmr9vRoosKqKJUzA9B8qZ24g.6toc9MeU3qxqTQpS7DhAW2s-IllseoRRk7tVrJgJuw0g.JPEG.jaiewoo/IMG_7021.jpg/IMG_7021.jpg"
+          },
+          {
+            "sid": "1811388034",
+            "bodySummary": "안내를 받으며 차례대로 입장 :) 일뽀르노 광화문점은 엄청 매장이 크지는 않다. 날이 따뜻하면 앞쪽 테라스도 오픈을 해서 자리가 꽤 넓은데, 여름/겨울에는 매장 안쪽만 이용을 하니",
+            "url": "https://m.blog.naver.com/yoonjuliet_/223351999883",
+            "nick": "yoonjuliet",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA5MDJfMTE0/MDAxNjkzNjE5NzAyNTAx.cUSBTRVg7h0SwpbK5_ZYQnjFCL1yg21LtTJW6CAAw9Ug.f8mof6pOe7rLNZhrb5NfHPOxw5uwNHGy_8Ghn0MNEdgg.JPEG.wjddus10ve/profileImage.jpg"
+          },
+          {
+            "sid": "1811388034",
+            "bodySummary": "광화문 이탈리안 레스토랑 ‘더 키친 일뽀르노’ 이탈리안이 생각날때마다 꾸준히 가는 레스토랑은 바로 더키친 일뽀르노(The Kitchen Il Forno)이다. 따뜻한 분위기와 너무",
+            "url": "https://m.blog.naver.com/sorellaa/223345136311",
+            "nick": "막둥이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDA0MjRfMTI5/MDAxNTg3NzM2NTM4NDEw.iY6JRIeTiWUpYsoAYXPkhFsIv7a5P3xGEBNalJKO2PUg.BBe671K18MAHxYP8K_B8Xe6xmkA4xfHzUsln4ijj-rog.PNG.miss_gloria/profileImage.png"
+          },
+          {
+            "sid": "1811388034",
+            "bodySummary": "몇년 전에 런치뷔페로 가본 적 있는 광화문 더 키친 일뽀르노를 오랜만에 다시 가봤다 내부 인테리어가 좀 달라진 듯 했으나 여전히 분위기 좋고 맛있었다 거하지 않은 런치뷔페로 좋은 ",
+            "url": "https://m.blog.naver.com/lovekoshin/223344714881",
+            "nick": "해피평안맘",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjEyMDJfMTI5/MDAxNjY5OTI4NDY2NzQ5._4rP-yoCapW3nB0RP7VMGfCy-AZcyW023_wJr-6AAoQg.L4EDObpcrIU95g_pQy7VVKKYPyq7PSyidiSFmp9ljPsg.JPEG.lovekoshin/profileImage.jpg"
+          },
+          {
+            "sid": "1811388034",
+            "bodySummary": "< > ' ' 더 키친 일뽀르노 광화문점 서울 종로구 율곡로2길 7 써머셋팰리스 1층 안국역 6번 출구에서 361m 매일 11:30-23:00 브레이크타임 15:00-17:00 라",
+            "url": "https://m.blog.naver.com/bettyyoo/223330201873",
+            "nick": "반짝반짝 포들한",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAzMjBfMjQz/MDAxNjc5Mjc3OTU1MzA2.iplCbivQJRY0M0gvU0CGk_8XeCzm_LvHipiEsadSl3wg.SYn68QHL7f3oB1_fKgCyxE1RC22E4GWrsza_6pEuNx0g.JPEG.bettyyoo/profileImage.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

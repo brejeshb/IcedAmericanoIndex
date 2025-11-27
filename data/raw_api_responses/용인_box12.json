@@ -1,0 +1,219 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 2,
+      "count": 2,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 127.16628351451378,
+          "minY": 37.24560450450451,
+          "maxX": 127.17194175725689,
+          "maxY": 37.250109009009016
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "127.16911263588534;37.24785675675676",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1031336235",
+        "name": "리틀포레스트",
+        "x": "127.1663269",
+        "y": "37.2499858",
+        "distance": 0.342,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 574,
+        "averagePrice": 5000,
+        "address": "경기도 용인시 처인구 삼가동 28-6 용인어린이상상의숲 지하1층 리틀 포레스트",
+        "roadAddress": "경기도 용인시 처인구 동백죽전대로 61",
+        "abbrAddress": "삼가동 28-6 용인어린이상상의숲 지하1층 리틀 포레스트",
+        "shortAddress": [
+          "경기 용인시 처인구",
+          "동백죽전대로 61"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [
+          "풍부한 맛의 디카페인 아메리카노"
+        ],
+        "cardDescription": "풍부한 맛의 디카페인 아메리카노",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjlfMTAx/MDAxNzQ4NDcyNjUwMzU2.-oPbHVxf6JNP-Swh0gdsH5FSea9oDAALrQNtSqm7Qcog.N9UqXN2CKGLvaIe2g0nuXY6o682JP63wwqaTtyCMHCwg.JPEG/20250528_160855.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDNfNjIg/MDAxNzU0MTk4NzgyMzU1.pMLw8ZPgFSxzxKJEcAMlaJe4Py9cq0ZPH6snGPny_xEg.9ZFT5e0zoV2GfBW3dLEpGQjCt24cpJrzqZCiemh8cIgg.JPEG/20250803_141415.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTdfOTUg/MDAxNzUwMTI5NTM3NDM2.5JOiAWzqtNHU2oGHAIAJZ0pqSqYNGpQDChC3D3_S3rMg.9Dx9dKeks6PjzkquEiWoMXmCb-DyaU-OI7qiAQnvygcg.JPEG/20250617_114705.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDJfNzIg/MDAxNzQ4ODE3NTM1Nzc5.7d1jrwYLySTG9NdGq352iX-ycapQUTxMQeVVXDyoXfUg.lNNe-d1ZrtqzxbxyjsaP-bB5xOj6c9Ww8zk9AwcHOFAg.JPEG/20250429_155314.heic.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTlfMTg0/MDAxNzYwODQwNzE2MjI4.wnSinDuX3l50336yAcMvrswAAAJibFyDK1yytQeb1s0g.mgR0OmoTE7YjanEd95Wmr9NSJu6uXTlFqx4jZFuUlVEg.JPEG/1000027838.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDRfMjY0/MDAxNzQ2MzEzMTE4ODkz.hZmC66rzD5OnBFOzrphMnxnD5zaAihDRAeDdeA3tZo0g.zTdUkpcmlYdKStwTORAopzZ5C0MDevMGk6N7c76f1JIg.JPEG/20250429_155314.heic.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTFfMjQg/MDAxNzQ2OTY0NzIxMjEy.krV1utNxjkzGQg1-ayKd5SafM90e5yh-pTnqJM6uZisg.bMrR9GzQJk7bzVxAUohHUbYsTG0iUgYwjj4m--PRaSEg.JPEG/20250511_145458.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjZfMjUg/MDAxNzUwOTExODUyODcx.rjZgQXKTrcF6iR4vgPoJRoiAJdRiiJot24DMIujofDIg.hX9KoM45NwZ9Uq-yWyWX-0jNE9mTNUxakEBzt__-qSYg.JPEG/20250625_140514.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTdfMjkx/MDAxNzQ3NDQ5NzY0OTgy.aXlueLxIZzIrm8_OgW4phyxtjMehXSyarr2hKFVc-nAg.nHp5K0rIv_5hz-tBTv55hOEXshlu9Uz079j_u-ZClHMg.JPEG/20250517_114042.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDdfMTM2/MDAxNzUxODM3NTQ3NTI5.43oKO1ms37_TXHTsDC2n_Opk1Kzm326kgAfCIWWMQ-cg.k7dCImyVlmi5HQ2stwrXNYFMLhqsDTEWSfktKLFwtKEg.JPEG/CC0691D2-4779-4B18-85C0-F690572A032D.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1031336235",
+            "bodySummary": "운영시간 10:00-18:00 (월요일 휴무) 문의 031-323-6417 (용인 어린이 상상의 숲 팀) -이벤트, 공간대여, 휴무공지는 인별에서 확인- 용인 아이랑 카페 추천 애",
+            "url": "https://m.blog.naver.com/ssovvely/223375073738",
+            "nick": "이보통",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEwMTRfMjIg/MDAxNjk3MjYxODc0Nzg3.21ny5MEfDsyrE0ZzA4YtR2YXTgcCCiNaa84O1Lsidukg.hADtA26IoH8yuKuMW99ALJGPwqDTYrCbfYuxSs6hOZ4g.PNG.ssovvely/profileImage.png"
+          },
+          {
+            "sid": "1031336235",
+            "bodySummary": "날 따뜻할 때 밖에서 먹어도 좋을 거 같은 테이블과 의자! 영업시간 안내판! 월요일이 휴무다~ 메뉴판~ 동생은 아이스 아메리카노 나는 아이스 바닐라라떼 초코케이크도 하나 시키고 분",
+            "url": "https://m.blog.naver.com/pine123123/223041205322",
+            "nick": "랴랴",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA2MDdfMTA0/MDAxNjU0NTczMDI2NzI1.7IJ0AKdo8EL_Yr9ayU1pKkV87JBuqyI3_oskb39psDgg.DkN6PyV-ZDpp1nNVByzr3yZcFJCeA6cIXmnh0RTz8LUg.JPEG.pine123123/KakaoTalk_20220607_122824076.jpg/KakaoTalk_20220607_122824076.jpg"
+          },
+          {
+            "sid": "1031336235",
+            "bodySummary": "용인 미르스타디움(용인 시민체육공원) 카페 리틀 포레스트 10:00 ~ 18:00, 월요일 휴무 삼가동 미르스타디움에(구 시민체육공원)에 카페가 생겼다고 해서 다녀와봤다 영업시간 ",
+            "url": "https://m.blog.naver.com/micky_0913/222726651404",
+            "nick": "YuRI",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA4MjlfMzQg/MDAxNjkzMjQwNTkxMjAy.jnDO6WBZ3zHZNZfU6okEuhR6IOglYDsgPOE-7wJhvIgg.MgxbIM30zU1csuTQMVZz04egoQxNnQ1QenQvrhuK7rkg.JPEG.micky_0913/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "id": "19088832",
+        "name": "부흥각",
+        "x": "127.166415",
+        "y": "37.2465331",
+        "distance": 0.281,
+        "categoryName": "중식당",
+        "categoryPath": [
+          [
+            "220036",
+            "220039",
+            "220091",
+            "220861"
+          ]
+        ],
+        "category": [
+          "중식",
+          "중식당"
+        ],
+        "reviewCount": 541,
+        "averagePrice": 10000,
+        "address": "경기도 용인시 처인구 삼가동 117 풍림아파트",
+        "roadAddress": "경기도 용인시 처인구 금학로1번길 9",
+        "abbrAddress": "삼가동 117 풍림아파트",
+        "shortAddress": [
+          "경기 용인시 처인구",
+          "금학로1번길 9"
+        ],
+        "displayContext": [],
+        "labelTheme": "중식",
+        "microReviews": [
+          "친절한 서비스에 맛까지 더한 중식"
+        ],
+        "cardDescription": "친절한 서비스에 맛까지 더한 중식",
+        "description": "안녕하세요~부흥각입니다^^  우리동네 31년 전통있는 중국요리전문점입니다~  빠른 스피드와 맛있는 행복으로 보답하겠습니다~",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTdfMjU1/MDAxNzUwMTM3NDcyNzMx.NQ-7GsN_nsc8NKLG_JXElhPrjAaVgk007a0_RqU_1Iwg.xS_xUKXe_wYFDnCJkA4s371_F9k1uscE147SBlp0jOsg.JPEG/20250614_123936.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjBfMjI3/MDAxNzU1NjIwNjY5MDQx.BxP2rq90iTlHjs9ShGG5Eb10rQlthzcFYMul2nyMf_Mg.nJPDXbFr01QSPo7Lg7q44gU4Mz-A_SX_eFadiqHNPGog.JPEG/20250819_131200.jpg",
+          "https://ldb-phinf.pstatic.net/20220823_147/1661243780420dEW5O_JPEG/%BA%CE%C8%EF%B0%A23.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDhfNzMg/MDAxNzUxOTY1NDQyMTU5.JstF3KBdX0KHutWyqhkMCnsts6EcpH8irPguA43Cb_Ag.ASPcILn7HoYCXRaBd5qYmIp9U2dyGxuI6ufRNEgUcx4g.JPEG/20250707_165123.jpg",
+          "https://ldb-phinf.pstatic.net/20210412_197/1618231149481PJAAQ_JPEG/fPOR98WKsbCKQ1yEWYz7BeEF.JPG.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjhfMjgw/MDAxNzU2Mzc2MjkyNzQx.h9EwfarsQhAX6f1LEaQx_0oWEziZ9o2kO18Z3yg2xiAg.5OHZs4jQPcZvtbcEI6XKAG7qRfETkHX1C2Mlh7eS_5Mg.JPEG/20250828_191227.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20220823_57/1661243780437FO4DO_JPEG/%BA%CE%C8%EF%B0%A2.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTdfOTAg/MDAxNzUyNzMxMjMxMDAy.GoDtWHzNa5qjoqq823Irnw-2m2X66VRDTy-d1vfmvpkg.aPM9mVc-JqKCAQumOzfL4M2WdYwUe81gp9AjwwT3f9og.JPEG/20250717_122302.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMDhfMTYw/MDAxNzYyNTg0MTA4Mjc1.6OIS-DqBf561LRuWl6OX-jVDVqSZcf4HmScG64Zv6jkg.LD_jTrvhhmKwldEyrLj9jvVrWXONohPK76yvc1N5ZuAg.JPEG/20251107_175306.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTlfMjgg/MDAxNzYwODc2ODE4ODY4.jDZ3uzofIbYdcuWnIgMVfHh0yUfmzD8DE95phqTFuMcg.K3GrstRnZqmr8sVaPNm2CFje8Se5essnXIjG0Ldlbkcg.JPEG/20251019_174103.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220861",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": true,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "19088832",
+            "bodySummary": "여기는 벌써 4년째 단골이네요! 주소- 경기도 용인시 처인구 금학로 1번길 9 풍림아파트 앞 상가 운영시간- 연중무휴 10:00~21:00 주차장- 가게 오른쪽 주차공간 4대 정도",
+            "url": "https://m.blog.naver.com/ssvs6871/222996661111",
+            "nick": "하블리",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAzMTRfOTUg/MDAxNjc4NzI5MTQxNjY2.qautB0L72peGBnR8qaO5qF1z56ZdaDe467mlFciH7l4g.GpNjmgFzOcPc81n09ZLWZyxM4uDzrpxV68Z5QVUJ1tEg.JPEG.ssvs6871/KakaoTalk_20230312_155151181.jpg/KakaoTalk_20230312_155151181.jpg"
+          },
+          {
+            "sid": "19088832",
+            "bodySummary": "안녕하세요 뚤삼엄마에요^^ 주말에 먹었던 짜장면집인데요!!역시나 술로 적신 주말을 해장으로 맞이했어요 ㅎㅎ 메뉴는 오랜만에 먹는 중국요리>< 어디서 시킬까 고민하던 중 부흥각에서 ",
+            "url": "https://m.blog.naver.com/anyoung4148/222490545293",
+            "nick": "뚤삼엄마",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDA3MjBfMTY5/MDAxNTk1MjUwNzMxOTcz.8XHNMper5XpP7Qyvjf7xI0ouGGCzKpFM-ZZ0fnAZKYUg.UAHaiBDbWjfc7dFJvbk5ulXML2N5LFQ8OPr9Fi1so5Yg.PNG.anyoung4148/profileImage.png"
+          },
+          {
+            "sid": "19088832",
+            "bodySummary": "이런 곳이 동네 찐 맛집이죠? 왕 기대하고 음식주문했어요!! 삼가동 중국집 부흥각 식당 내부는 붉은 인테리어? 중국을 연상케하는? 깔끔한 테이블이 입구와 안쪽에 준비되어 꽤 넓었어",
+            "url": "https://m.blog.naver.com/hmhm0313jw/222219151996",
+            "nick": "친절한 김실장",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTEwMDNfMjU0/MDAxNTcwMTEyOTA2MzU3.UQY3CJE__wwsY9a-bw8-WxAuh2T2iRQ0c_p8JTcRSLsg.REe02YQCyqTWG0jCoDTs4YBzAvyd_l9-Ci5DV6nDx6Ag.JPEG.hmhm0313jw/KakaoTalk_20191003_232719605.jpg"
+          },
+          {
+            "sid": "19088832",
+            "bodySummary": "저두 입사이래 오는 처음 가보았는데요, 요기 #고추짬뽕 이 맛있다고 해서 먹었습니다! 짜잔~~!!!홍합, 가리비와 야채들 사이로 보이는 새빨간 태국고추가 보이시나요? ㅋㅋ 비주얼만",
+            "url": "https://m.blog.naver.com/shirano82/220943619029",
+            "nick": "다둥이아빠",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20170908_142/shirano82_1504877263001sg2Ey_JPEG/image.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

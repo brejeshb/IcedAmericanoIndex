@@ -1,0 +1,490 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 5,
+      "count": 5,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.96890741021008,
+          "minY": 37.572806306306305,
+          "maxX": 126.97004398393382,
+          "maxY": 37.57370720720721
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.96947569707194;37.573256756756756",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "11864493",
+        "name": "커피스트",
+        "x": "126.9694213",
+        "y": "37.5728784",
+        "distance": 0.042,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221212"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 1424,
+        "averagePrice": 5000,
+        "address": "서울특별시 종로구 신문로2가 1-335",
+        "roadAddress": "서울특별시 종로구 경희궁길 39",
+        "abbrAddress": "신문로2가 1-335",
+        "shortAddress": [
+          "서울 종로구",
+          "경희궁길 39"
+        ],
+        "displayContext": [
+          "카페",
+          "드립커피",
+          "미술관",
+          "데이트",
+          "아늑한"
+        ],
+        "labelTheme": "데이트 맛집",
+        "microReviews": [
+          "빈티지 소품 속 아늑한 커피 공간"
+        ],
+        "cardDescription": "빈티지 소품 속 아늑한 커피 공간",
+        "description": "세월을 담은 커피 광화문 커피스트 Since 2003, 지구 정거장, 맛있는 핸드드립 커피, 로스터리 샵. 커피스트 원두, 광화문 카페, 온기와 이야기, 깊은, 한결같은, 매일 만나고 싶은, 본질의, 향기로 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDNfNzQg/MDAxNzU2ODYxNjQ0MDQ5.-1bh_hugmf-TafOVNdcXpGDa52b1vhoUvjEP3icLJe0g.lVhLx5rDtqmVsCNrHcGISzFD1DcMMIQDKxdm-nZzfVsg.JPEG/A2D39E82-C384-47BC-A7FB-63C533F6A5FC.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTlfMjUz/MDAxNzYwODQxMDg0NDc5.IfSOymABJIBUADXkm9ateznLkvXkGa7ssxayPYpbEWsg.OkAaRrZvs3RkK4Xov39UwAXMm-p-_qnzZq_69oksov8g.JPEG/AB8CB726-E452-4AA8-B110-5094293C749F.jpeg",
+          "https://ldb-phinf.pstatic.net/20210109_107/1610185898655E3ArD_JPEG/3tSwsW21mspO3n_sxwxTICCu.JPG.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTJfMjAx/MDAxNzYwMjc2MDkzNDI3.eqD6dj98PjCGtYeeSTbzTFdTtS6eYxXZJdYK5Dc3_w8g.mrDNE5rbQvWQbmxBs0pr3TYB8gLN52eNgHbG1Zo8M-Ag.JPEG/A11804EE-35AF-4979-AE4C-B9C6D964CB3B.jpeg",
+          "https://ldb-phinf.pstatic.net/20210109_11/1610185921689oXtwk_JPEG/MugJVezGkfpkumSbAfjzdW18.JPG.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjRfMjYx/MDAxNzU2MDEyNDc5ODQx.RBfYo0ij75VtOfqzn18gmRaDhDBER5VCkl3m-WHlGgwg.0w2NIdwNSFRB70F1--V5taSB2MB_EMy8G5AoyIVRs6sg.JPEG/0CD44BFD-9004-4F0E-9A7A-A214BC721F9F.jpeg",
+          "https://ldb-phinf.pstatic.net/20150831_41/1440986770507nWJX9_JPEG/SUBMIT_1412663354172_11864493.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTJfMjMy/MDAxNzYwMjUyMjk3ODk0.b-zDRJr2pLz3TzkzqOSIaEuhFq-AJ3utNqJMJbe4qX0g.dR1JzpniOR5XDadiOKpXfZD5bDzw7CKCR_2BGZHjvVUg.JPEG/20251012_154157.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDVfNjgg/MDAxNzU5NjQ4NTAwMDc2.AzFozf__ywLorXeK5w5aFql1omNGC19tjI2U0_0IsyQg.lnj9ByaKgzFNeTR8BglkjYfOJ_vmqdknsIWZJwL9ACUg.JPEG/20251004_170729.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTVfNDAg/MDAxNzU1MjYxMzc3NjEz.vSf2CqqvsrSo_i-iLkBIb8rqRRihi20FoXoqBCrvAjgg.-p1LuRoPMPebyW-M879luU2wBR4OSCSlmblqEWsn4BUg.JPEG/5B7D178D-136C-42DB-89EF-CD0F93EAC296.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221212",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.46",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "11864493",
+            "bodySummary": "커피스트 찾아가는 길 #커피스트 메뉴 및 주문내역 #커피스트 내부 공간 #커피스트 드립커피(오늘의 커피- 콜롬비아) #카페라떼 ☆ 위치: 서울 종로구 경희궁길 39 ☆ 영업시간: ",
+            "url": "https://m.blog.naver.com/mo-ney/223328287694",
+            "nick": "WillB부자",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA1MDJfMTcz/MDAxNjgzMDAzNDY3MjM0.BaYIeBWZnOoYInsI6SlClxhJvlQtNV23EAODOFR9Wswg.832Vw-PikSas607Gpta6UTJbYTJUPpHWuSxHIEx3O6Yg.JPEG.thefight_l/%25EB%258B%25A4%25EC%259A%25B4%25EB%25A1%259C%25EB%2593%259C.jpg/%25EB%258B%25A4%25EC%259A%25B4%25EB%25A1%259C%25EB%2593%259C.jpg"
+          },
+          {
+            "sid": "11864493",
+            "bodySummary": "#내돈내산 안녕하세요. 이번에 남자친구와 광화문 데이트를 하면서 도토리브라더스에서 저녁 먹고 그 앞에 있는 커피스트 카페에 다녀왔어요. 광화문에서 도토리브라더스하면 꽤 유명한 맛집",
+            "url": "https://m.blog.naver.com/ssonjuhyun/223312226714",
+            "nick": "혀니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA3MjNfMjc3/MDAxNjkwMDcxMzU3ODk3.FmgE0BclCZN-ni2z0kDf8LpOrQnRiZkaCsFcKxSMtKUg.sPSBokeJ1gmpFfxh7KXS4yq0jVmjIjT5tG_LoTK7urcg.PNG.ssonjuhyun/profileImage.png"
+          },
+          {
+            "sid": "11864493",
+            "bodySummary": "비엔나 커피와 치즈케이크 원래 커피 안마시는데 비엔나 커피가 시그니처라고 해서 마셔봤다. 찻잔과 그릇도 너무 예쁘고 기본에 충실한 정석적인 맛. 내가 딱 좋아하는 책 읽기 좋은 분",
+            "url": "https://m.blog.naver.com/zzorroggii/223207581780",
+            "nick": "쪼록이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA0MTRfMTU3/MDAxNjgxNDAyMTU5NjM2.02bivM5TxRHZ5EHxUi8bwYH1pUuuMERTiK0K9b4frO0g.GI6YjkztYq66AjgM3TkM00O-4NCGo4TRADbrjCNPUKEg.JPEG.digimonffa31/profileImage.jpg"
+          },
+          {
+            "sid": "11864493",
+            "bodySummary": "지극히 인간적인 생각인가. 아니면 인간적인 척 하는 생각일까? 커피스트 앞에 놓여 있던 초록초록한 테이블에 뿅 하고 튀어나와 있는 새목이 인상적이어서 찍어봤다. 커피스트의 내부 인",
+            "url": "https://m.blog.naver.com/vkwjs4/223187736426",
+            "nick": "턱",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA4MTVfNDAg/MDAxNjkyMTA1Mzg0OTY1.z2G_U3UAfbWrlnWW_07q5GdqdSvpOw8StCo-lS2mtSwg.D0x7lLxTpWi9d00H1D40WHYgMLwI8AFKf2JhqKlJ5J8g.JPEG.vkwjs4/DSC03793.JPG/DSC03793.JPG"
+          },
+          {
+            "sid": "11864493",
+            "bodySummary": "커피스트 주소 | 서울 종로구 경희궁길 39 1층 운영시간 오픈-클로즈 | 월-토 09:00-18:00, 일요일 12시 오픈 경희궁 옆길을 쭉 따라 올라가다 성곡미술관을 향해 꺾으",
+            "url": "https://m.blog.naver.com/shini_d/223166008507",
+            "nick": "다니dani",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMDdfMTYw/MDAxNzA0NjMwNjk3NTMw.Y_88CkVDjwG-5U4rTDekSC6ymsZBHESrZ8IEbkyxp0Eg.fUUNW2Jo2lw2J7OaqLEi6_NjsPV2rRZVhx4Kbf2B8Ycg.JPEG.shini_d/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "id": "1677615804",
+        "name": "도토리브라더스 광화문본점",
+        "x": "126.9692709",
+        "y": "37.5729254",
+        "distance": 0.041,
+        "categoryName": "일식",
+        "categoryPath": [
+          [
+            "220036",
+            "220038",
+            "220081",
+            "220804"
+          ]
+        ],
+        "category": [
+          "일식",
+          "일식당"
+        ],
+        "reviewCount": 10340,
+        "averagePrice": 10000,
+        "address": "서울특별시 종로구 신문로2가 1-248 1층 도토리브라더스",
+        "roadAddress": "서울특별시 종로구 경희궁길 41",
+        "abbrAddress": "신문로2가 1-248 1층 도토리브라더스",
+        "shortAddress": [
+          "서울 종로구",
+          "경희궁길 41"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [
+          "아기자기한 분위기 속 정통 일식"
+        ],
+        "cardDescription": "아기자기한 분위기 속 정통 일식",
+        "description": "광화문에 숨어있는 도토리네 집으로 초대합니다! 매일들어오는 선별된 재료로 만든 대창덮밥과 고급일본가정식을 함께 할 수 있는 공간 '도토리 브라더스' 입니다.  전통 가옥의 틀을 살리고  ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTFfMTI1/MDAxNzQ2OTU2NjQ1Njc4.U5SYkLQQ4gVudDJzDnxnYZpZ1zLa4S3EdQfxGXJdPQQg.6y8W34t-zMTKgj58IM6Bb-PA5MG_ybFJWa80bJ3E-isg.JPEG/20250511_181735.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTRfMjgx/MDAxNzU3ODUxMTExOTE2.TDq43DoSl-gRLelmkqCUqewh-5LQWJ08tw8jdfB3WoQg.UDDCzOedtVyfOme683uERrV2_-UVHH0dsUzIsEU__8Ug.JPEG/1000049338.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250909_201/1757396121153L1Cwl_GIF/%B5%B5%C5%E4%B8%AE%BA%EA%B6%F3%B4%F5%BD%BA.gif",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjlfMjE2/MDAxNzU5MTE4Nzc3Njc1.o65rxHRA-sV0_FwHE23G6Nb3wUhMcW6fSBxGQJdXaWcg.i0YymMyhav0Eytmaf-uYV_ToDOW7i3-JhEY_Qx-zl1Mg.JPEG/1000130468.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250919_264/1758277589901wlttg_PNG/%B5%B5%C5%E4%B8%AE_%B3%B7_%BF%DC%B0%FC.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MDhfOTgg/MDAxNzQ0MTA2MDA4MTc3.BIYBk2257wpfANqYc4S3q4GCcs3dixO_AxjZUSI-J9sg.-M2Vhaj_HLGFMy1GTnsoKW6b8MxAK33K2gs79kekNYog.JPEG/CC33B67A-CFD2-4457-B9DF-6443A2630422.jpeg",
+          "https://ldb-phinf.pstatic.net/20250810_203/1754781801306LUUbm_JPEG/%B5%B5%C5%E4%B8%AE%C0%E5%BE%EE%B5%A4%B9%E4.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjNfMjM3/MDAxNzYxMTk5ODA3OTM0.dZGDyx_SB-0ZArBK1nRMBlH_gIrNUsPoeBhw5HkbynAg.2KAfs0E_IBXd1vqdSSydVSWasZ6joQ0e4SK9Gx9aavEg.JPEG/7F760AB1-BF6F-4405-95E4-A3892EA2AFFA.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDdfMTgw/MDAxNzU3MjM5NjgxNjcw.FuAFN3efbp6-LGfneE5EFxjAPIPNXMwxaCCYHqR-8CMg.E6aVMlHIxRgp3BpbtPLcGEGqFAhUvmXbDEQQbiJzK0cg.JPEG/20250907_184818.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjFfMTMg/MDAxNzU4NDI4ODQ0OTIx.hYIMzi3uuCXSHStmz-2xtz7bzl1h1BJfrJoMIqCxqEAg.9PsGX-rjXfmW_qrCS-_Dm0KePkvBF2EGseCaB9ny99sg.JPEG/1000046584.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220804",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.29",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "1677615804",
+            "bodySummary": "벚꽃이… 3월 말이면 개화한다는 뉴스를 3월초인가 보고 광화문역 근처 벚꽃스팟을 구경하러 왔는데… 아무것도 없어서 밥만 먹은 사건 오늘 먹으러 온 광화문맛집 도토리브라더스 입니당 ",
+            "url": "https://m.blog.naver.com/sbi06024/223401010550",
+            "nick": "옌니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMDhfNTUg/MDAxNzA5OTA2NTE0MTcy.ln-ee7aMMuU4R6g9Yp9aokCb46ardKNWOpMI5PJs0iIg.J6xZ8fLcsJWNP754fcNefd-jvYmUIPYDT3PjF57yvqIg.JPEG/profileImage.jpg"
+          },
+          {
+            "sid": "1677615804",
+            "bodySummary": "주문한 음식들이 나오기까진 시간이 그리 오래 걸리지 않았구요 미야자키 치킨난반 이라는 메뉴에요 특제소스에 저며둔 닭다리살을 얇게 튀긴 치킨난반정식 이에요 살이 부드럽고 실하고 크기",
+            "url": "https://m.blog.naver.com/joo__bong/223400798115",
+            "nick": "주봉언니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEwMTVfMyAg/MDAxNjk3Mzc4NDc1OTAw.ISK-WexnBNayaQ8VsKHuiRckDyh5xSGrJYaDEAdad0Mg.qrrLKEcFG-FtknCToIsGKG_vPWRgkNM92iqr2hhhzoYg.JPEG.lopez06/profileImage.jpg"
+          },
+          {
+            "sid": "1677615804",
+            "bodySummary": "마치 일본 애니메이션에 나올 법한 귀여운 분위기가 넘쳐납니다 이곳의 메뉴판도 엄청난데요, 대창덮밥부터 시작해 연어가 올라간 아보카도 골든에그정식, 그리고 새우 수제튀김에 타마고산도",
+            "url": "https://m.blog.naver.com/expert11498/223400211568",
+            "nick": "봄이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMjRfMjgw/MDAxNzAwNzg4MzUyODk4.aV5t_LeHkgZY6E9qRfQJ9VBt_63wPXUH4OHzCaj1hYEg.xHjJ2FT72_ecO44NLMTIFSd5RXVZtI1ZjfK6eq1r7KUg.JPEG.expert11498/9_%2528628%2529.jpg/9%2B%2528628%2529.jpg"
+          },
+          {
+            "sid": "1677615804",
+            "bodySummary": "도토리브라더스는 근처에 있는 광화문과 경복궁을 관광하고 나서 들러 식사하기에 딱 좋은 곳이에요. 건물 자체가 독채 건물로 예쁘게 꾸며져 있고, 계단과 외관에 있는 도토리 캐릭터가 ",
+            "url": "https://m.blog.naver.com/dudgk0807/223400087732",
+            "nick": "하연",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA5MDZfMTU4/MDAxNjMwODU1ODQ0MDY2.QEIsBxTGtz4aGzP1Gzb7dPLcPoHop38wA2zprC8jQiwg.OAkXtuACUCSZYLa3XShLjSQEu5SYobmYxyT6TW38CoAg.PNG.dudgk0807/profileImage.png"
+          },
+          {
+            "sid": "1677615804",
+            "bodySummary": "광화문, 이 맛의 중심에서 진정한 맛집을 찾아 나선 저의 미식 여행! 이번 타깃은 바로바로~ 도토리브라더스라는 광화문 맛집이에요. ㅋㅋ 은근히 이곳저곳 카페나 맛집이 즐비해 있지만",
+            "url": "https://m.blog.naver.com/horror13308/223399976985",
+            "nick": "해피",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMjRfMTcx/MDAxNzAwNzg4NjMwMzEy.pwZXvBE12xsdvGDJXRTj6vTVVl7swQ2hkD5rtnfEWvog.4xNO0jm_ow467VkAVRt1lo1IPYE2PH-hntzlG4xC_acg.JPEG.horror13308/9_%2528630%2529.jpg/9%2B%2528630%2529.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "id": "276697869",
+        "name": "태성식당",
+        "x": "126.969033",
+        "y": "37.573138",
+        "distance": 0.041,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 98,
+        "averagePrice": 8000,
+        "address": "서울특별시 종로구 신문로2가 1-138",
+        "roadAddress": "서울특별시 종로구 경희궁길 43-1",
+        "abbrAddress": "신문로2가 1-138",
+        "shortAddress": [
+          "서울 종로구",
+          "경희궁길 43-1"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "서울특별시 종로구 신문로2가 1-138",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTFfNDAg/MDAxNzQ5NjQ5ODA4MTYy.IYtJGK2TfuLZ684UX4r2DOBCvn2B3iyuD2iiWlryH0Qg.sGScYb1tLv-g32PAUF-kawpNytbXmI9UgnCHpi_Lg5Yg.JPEG/1000051323.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjNfMTQz/MDAxNzUzMjI2MDAxMTk1.1yPSAi5LlTxohRYrGhU3l-xISaC9RR80HUZbl13eNlMg.H_MrsA4TphQ7wjQRRwe9iZv25Q4cwPbWueHTCBqsWHIg.JPEG/1000025831.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20220523_91/1653294352114FM5ua_JPEG/20220523_071046.jpg",
+          "https://ldb-phinf.pstatic.net/20220903_239/1662165386362nEx5h_JPEG/96507EA1-998E-482D-B2F6-5EF85A449E02.jpeg",
+          "https://ldb-phinf.pstatic.net/20190825_228/1566709876883gOeUO_JPEG/mR22crG-9_qvXsGoU38leOEy.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 4,
+        "id": "1127612525",
+        "name": "마라",
+        "x": "126.9691862",
+        "y": "37.5730187",
+        "distance": 0.037,
+        "categoryName": "한정식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220056",
+            "220594"
+          ]
+        ],
+        "category": [
+          "한식",
+          "한정식"
+        ],
+        "reviewCount": 261,
+        "averagePrice": 0,
+        "address": "서울특별시 종로구 신문로2가 1-162 1층",
+        "roadAddress": "서울특별시 종로구 경희궁길 41-1",
+        "abbrAddress": "신문로2가 1-162 1층",
+        "shortAddress": [
+          "서울 종로구",
+          "경희궁길 41-1"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [],
+        "cardDescription": "서울특별시 종로구 신문로2가 1-162 1층",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDRfOTAg/MDAxNzU2OTYzODI5MTA3.eaWba96vqKRBSIkdVTcubrKixT-FVDE4iDdIyJAHy2Qg.zsGk8_73GvHGByh785VfcNrm0l-bm0h9KXHh5uNFxT4g.JPEG/C0F12B00-799D-493D-AFFD-9A95BA2587D1.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjdfMzgg/MDAxNzUwOTk0OTg4MTg2.C4k-iwwTFJZg2GMMLZx8OmKwjel0VjnHro4r1A4uRhwg.SY-AVhKLekW9xmpkLKQjFub4affN0oCnsiN-RtSQ5bQg.JPEG/7BF81895-0D31-4CB2-916F-F768C9AD7BCF.jpeg",
+          "https://ldb-phinf.pstatic.net/20190618_243/15608583550005Ax7e_JPEG/aGK2JoU7jxeY3n-K_z1IHftr.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjBfMzYg/MDAxNzU1Njg2MjYxNTk4.OhQ764jgh__Z_i4WdeYzvjHE9n-uMURXiip_OuY80e0g.JiBTwGnJyIYFzdUmXJdIKwX3tCL5mUYqc3qZtI94jKwg.JPEG/50B83D37-1F75-4CC6-8EE0-5BA52E9E948E.jpeg",
+          "https://ldb-phinf.pstatic.net/20190618_197/1560858408446cS6Km_JPEG/nsG10FRoBq9kiS1gkl5wZziv.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MDZfNDYg/MDAxNzQzOTE4Mzc4NTUw.Ff4R5BfaJ3xydzf23dIXOHHbNcBetmGan7_UdDnv3GEg.8HBfbSoUXyePv9JydxCSTMxIRNdQUwxOuTB6Jhoev5cg.JPEG/1741598642119.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20190618_158/1560858986856DKeFw_JPEG/yc8YjOdhaC3l1NENklnhtguY.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220594",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 5,
+        "id": "38218513",
+        "name": "따빠마드레",
+        "x": "126.9691235",
+        "y": "37.5730639",
+        "distance": 0.038,
+        "categoryName": "스페인음식",
+        "categoryPath": [
+          [
+            "220036",
+            "220044",
+            "220128"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "스페인음식"
+        ],
+        "reviewCount": 979,
+        "averagePrice": 40000,
+        "address": "서울특별시 종로구 신문로2가 1-251 따빠마드레",
+        "roadAddress": "서울특별시 종로구 경희궁길 43",
+        "abbrAddress": "신문로2가 1-251 따빠마드레",
+        "shortAddress": [
+          "서울 종로구",
+          "경희궁길 43"
+        ],
+        "displayContext": [
+          "스페인요리",
+          "레스토랑",
+          "스테이크",
+          "신선한",
+          "새로오픈한"
+        ],
+        "labelTheme": "맛있는녀석들 방영",
+        "microReviews": [
+          "상그리아와 함께하는 완벽한 페어링"
+        ],
+        "cardDescription": "상그리아와 함께하는 완벽한 페어링",
+        "description": "한국유일 스페인정부 공식인증 레스토랑  Hola mucho gusto! 광화문 신문로의 끝자락 스페인 레스토랑 따빠마드레에 오신 것을 환영합니다.  'TAPA MADRE'는 '엄마의 따빠스' 또는 '끝내주는 따빠스' 라 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDdfMjEy/MDAxNzQ2NjE0NDU4OTAy.Vqvr9__HdacGiLBVvktYaFcksCEGoh8Npq9mTi4Lb7Ag.n04bmwADqrGxFvb5z5h1yHUHfWr_6KaoEXEJsbFinaIg.JPEG/20250505_145644.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTRfOTQg/MDAxNzQ3MTk2NTY5NjA2.ZL0JF2PsgUGgEHNtX2pM-nWHEmVnwWounchexbDJEj4g.86Ynr0oW_rBXdlLUm9dBAmg-bxabbG5y1PsPJMS9bLwg.JPEG/DE7698AC-FDE0-4083-BE2D-2C870AD08377.jpeg",
+          "https://ldb-phinf.pstatic.net/20201215_67/1608004535093seaES_JPEG/oFsFmA4zfdNtM1b64GwsNKI3.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MzBfMTc2/MDAxNzUxMjg2OTA4NTYw.BCDL8XjHoZZTjusBC2d6OiZruMPgx4mtS3h_qcrJdIog.FVXib0jIj4ZjsAEYAG2Cz8z_1wyNFYqHUWDOocJjucwg.JPEG/1000083977.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20220905_232/1662371109217SvfTK_JPEG/3%B7%EB-2.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjRfMSAg/MDAxNzU2MDA5MDc1MDQ4.RjOQ9WBRtsYxoACjiUICsSZfNx2s1IDVVDxQIBmHOo0g.dQvyybWH_T_zB8OHzSc_X0rdTjTITGm3re-nGT_Ocewg.JPEG/1084D998-B46A-44B3-B5DE-7C5E61259605.jpeg",
+          "https://ldb-phinf.pstatic.net/20220905_118/1662371058160f8NtD_JPEG/3%B7%EB-1.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTNfMTk3/MDAxNzQ5ODAxNTA4NTM0.RYX463yF1up0nHVXNYeQolQaw97Z8yDA9FC-3wUf-yQg.6RbGsVn4d9SyAuWis-N2goCiUP21vPoX6FMws3N4iz4g.JPEG/4383FFC4-E5CE-4708-80AD-FDFA9773DE60.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTlfNDgg/MDAxNzQ3NjM4NTM0MDYw.LuNOcC3LX64_6P2Wqs3agK5IZ3i-_FP7A8l0BvkQFLAg.fpNISAgSoGNaC81Idno9TEqA8rh1LBfKckt0ZHOMSJ0g.JPEG/04409D3B-E9C6-4660-8A3D-7B89978F0F72.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MDZfNzgg/MDAxNzQzOTQyOTQyNzM4.z1_iLx9237CiYcipwxhYfuUcNsPgoMPlrzZB7dYtwzsg.ZHWzPZsyZ4NKz9AXsuFqwCOXmQddNF4cWUl6hg9128wg.JPEG/160958A1-9CF5-4A4C-9938-5AB5E55299E5.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220128",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": true,
+        "broadcastInfo": {
+          "name": "맛있는녀석들",
+          "menu": "스페인음식"
+        },
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "38218513",
+            "bodySummary": "테이블이 많지않아 평일이고 사실 위치가 살짝 뜨지만 예약하고 안전하게 방문하길 추천한다 바로 여기 가정집을 개조한 음식점이다 메뉴판 빠에야 파스타 그릴메뉴 타파스 등을 판다 주종은",
+            "url": "https://m.blog.naver.com/nicehk90/223381750567",
+            "nick": "mon reve",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxNzExMjJfMjcw/MDAxNTExMzU5NjU1Mzgy.waMpt51Iyo5xMhW4bERNdfbyyuI5vox8KCQF6mmUH30g.FDF87Q0g-kWF161FYV9addwDjCz-k_gibCAycZqBtdYg.JPEG.nicehk90/profileImage.jpg"
+          },
+          {
+            "sid": "38218513",
+            "bodySummary": "따빠마드레 주소: 서울시 종로구 경희궁길43 전화번호:0507-1404-4199 주차: 스페이스본 하나로마트 주차 2시간 가능 예약가능 위치는 광화문스페이스본 뒤쪽, 성곡미술관 건",
+            "url": "https://m.blog.naver.com/serenaoh92/223328649086",
+            "nick": "하리뭉",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA5MThfMTgx/MDAxNjk1MDEyNzM3NTM2.JhvhYPTS8ngSSHwewhm5QSSTG1FE3V01yn4Ez6HUuREg.bd3951A5XX8pyA-LBONyaWqq5yufEUEuLzkyUZL9ahAg.JPEG.serenaoh92/profileImage.jpg"
+          },
+          {
+            "sid": "38218513",
+            "bodySummary": "주류는 취향에 따라 1인 1맥주로 갑오징어튀김 가지튀김 오일스파게티 해산물빠에야 새롭게 접해본 스페인 음식 모든 메뉴가 술과 함께 해야 할듯한 맛? 양이 작다.... 또 가고 싶은",
+            "url": "https://m.blog.naver.com/ibm7693/223327139455",
+            "nick": "용담초",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA0MDFfMjg4/MDAxNjE3MjAzMjI3NzUx.htspi7zoJNCwH97ZNR_oj6bQBmpZ-jkHxuLkXJ9kw0Ag.EDelQOh8YkMy6GTxVEKlpdtvuZ4qgd0jOaWfWb6Egxgg.JPEG.ibm7693/profileImage.jpg"
+          },
+          {
+            "sid": "38218513",
+            "bodySummary": "종로~광화문 쪽이긴한데 이런데에 식당이 있다고? 싶을 정도로 한적한 골목이었다 따빠마드레 영업시간 주중 12:00 ~ 22:00 주말 12:00 ~ 21:00 따빠 마드레 메뉴판 ",
+            "url": "https://m.blog.naver.com/ghdi947/223315073680",
+            "nick": "걱정꾸러기",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDAzMDZfMjI3/MDAxNTgzNDgxMzMxMjg4.tteZMavpAJap0M08FVDD9k-PMn5Vea5T20nQ7OP8-W0g.JCGJlN6WL62HkQDS3hbDr3snH7DVkyoDjmw9XzGj4Ikg.PNG.ghdi947/profileImage.png"
+          },
+          {
+            "sid": "38218513",
+            "bodySummary": "네이버 맵에서 따빠마드레 검색하면 메뉴판 확인할 수 있으니 참고! 상그리아 1,000ml 36,000원 세 명이서 잔으로 시키는 것보다 크게 시키는 게 낫겠다 싶어 선택한 천 미리",
+            "url": "https://m.blog.naver.com/abc_n_xyz/223307791580",
+            "nick": "호라요",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA3MjZfMTEy/MDAxNjkwMzU0ODcxMzU4.wDBl2TOrIZWLyvvV-BDOT9uwkWke2sxgb45SmlFpTnMg.mNfPuMaJrfufJmw6FS13Uju2f51U-KJJlV9BgNUPfkwg.JPEG.pupu_z/82644bc1e51484e40cb3180dea13abb6.jpg/82644bc1e51484e40cb3180dea13abb6.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

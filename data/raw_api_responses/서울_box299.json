@@ -1,0 +1,518 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 7,
+      "count": 7,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.98822916351367,
+          "minY": 37.570103603603606,
+          "maxX": 126.9893657372374,
+          "maxY": 37.57100450450451
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.98879745037553;37.57055405405406",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "20921255",
+        "name": "낙원삼계탕",
+        "x": "126.989183",
+        "y": "37.570945",
+        "distance": 0.055,
+        "categoryName": "백숙,삼계탕",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220774",
+            "221606"
+          ]
+        ],
+        "category": [
+          "한식",
+          "백숙,삼계탕"
+        ],
+        "reviewCount": 41,
+        "averagePrice": 21000,
+        "address": "서울특별시 종로구 낙원동 204",
+        "roadAddress": "서울특별시 종로구 수표로 109",
+        "abbrAddress": "낙원동 204",
+        "shortAddress": [
+          "서울 종로구",
+          "수표로 109"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "서울특별시 종로구 낙원동 204",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20250623_251/1750669097099pbDXh_JPEG/1750669076118.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221606",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "20921255",
+            "bodySummary": "그날의 기억 덕분인지 기력충전을 위해 삼계탕을 한 번 더 먹고 싶어서 종로 '낙원삼계탕'을 방문했다. 낙원삼계탕 - 서울 종로구 수표로 109 종로삼계탕 낙원삼계탕은 종로3가역 5",
+            "url": "https://m.blog.naver.com/bongyeon0286/223158816431",
+            "nick": "꽃길 걷는 봉봉",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAyMTNfMTMx/MDAxNjQ0NzYzMDUyMTUy.60lX4Hjr8bUpRWk43a16L1LZanKGJgM0nWqXlxnv-lsg.00Y84pLhc8bR843aFKosBXOcX-88gt_QCBs3CxMon1Ig.JPEG.bongyeon0286/profileImage.jpg"
+          },
+          {
+            "sid": "20921255",
+            "bodySummary": "허허 일단 몸보신 해야 하니까 올라갑시다...ㄷㄷ 낙원 삼계탕....낙원 삼계탕은 2층인데... 올라가는 계단조차 참....ㅋㅋㅋㅋㅋㅋㅋㅋ 그래도 원래 맛집은 다 이렇다잖아요. 그",
+            "url": "https://m.blog.naver.com/agag444/220419103963",
+            "nick": "로즈리",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxODEyMDVfMTU5/MDAxNTQzOTU0NDU4NDI4.Uny1QvrdApeyLhHRTmNTygTiQ-bsdM427xRsTJpBnjog.KYoIiiSL2WAlyFpZq9OBrpY_oj9fwUSwnfeb6vAnaQQg.JPEG.agag444/profileImage.jpg"
+          },
+          {
+            "sid": "20921255",
+            "bodySummary": "삼계탕만 전문적으로 하는 식당이라서 국물도 찐하고 닭고기도 부드러워 맛있는 몸보신을 하고 왔답니당 ㅎㅎㅎ 메뉴가 삼계탕이니만큼 단촐해 보이는 기본반찬과 소금 특히 삼계탕에는 역시 ",
+            "url": "https://m.blog.naver.com/anwjrxovnd76/220148264278",
+            "nick": "하늘이야기",
+            "profileImg": ""
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "id": "1490083577",
+        "name": "전설의치킨 종로3가점",
+        "x": "126.9892833",
+        "y": "37.5707922",
+        "distance": 0.05,
+        "categoryName": "치킨,닭강정",
+        "categoryPath": [
+          [
+            "220036",
+            "220049",
+            "230074"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "치킨,닭강정"
+        ],
+        "reviewCount": 356,
+        "averagePrice": 10000,
+        "address": "서울특별시 종로구 낙원동 202 1층",
+        "roadAddress": "서울특별시 종로구 수표로 107",
+        "abbrAddress": "낙원동 202 1층",
+        "shortAddress": [
+          "서울 종로구",
+          "수표로 107"
+        ],
+        "displayContext": [],
+        "labelTheme": "혼밥추천",
+        "microReviews": [],
+        "cardDescription": "안녕하세요. 30년 전통의 전설의치킨을 찾아주셔서 감사합니다.  * 닭고기 : 순살까지 100% 국내산  전설의치킨의 장점  * 전설의치킨 - 1984년 통닭 레시피를 기반으로 만들었습니다. 로즈마리, 큐 ",
+        "description": "안녕하세요. 30년 전통의 전설의치킨을 찾아주셔서 감사합니다.  * 닭고기 : 순살까지 100% 국내산  전설의치킨의 장점  * 전설의치킨 - 1984년 통닭 레시피를 기반으로 만들었습니다. 로즈마리, 큐 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTBfMjY2/MDAxNzYwMDkzNzc5ODE0.3PZ-q9pGcRZsurhqGD9E-DFhlIpBVU8BzVgYPucgXs0g.98bkk6GE_lFs3UgHViuc9HQ9afvThszBTmvYFP_Qc2gg.JPEG/20251010_191504.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDJfMjgy/MDAxNzU2ODIyNTYxNzg1.yJAY2DMMfYn43nYmOmeRBsJBy52W9rgdtDjxJIA7D3kg.35sacmsFqzrc78sQKOUgjSkHD-aHyrAN7_T4xzTspBUg.JPEG/IMG_4276.jpeg",
+          "https://ldb-phinf.pstatic.net/20240705_149/1720154298501c7JSy_JPEG/KakaoTalk_20240705_123404208.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjlfMTg3/MDAxNzU2NDI4MDcwODE5.YjFX0TwFTjuZdNkf-RRX9Fdc_lp7YStiZgC6iGpVY6wg.U6YuOMJwegVA62mA7OyobwXmR2t74EBdVCkjuQ07RDAg.JPEG/4244EF30-9C11-45B2-8561-84A0AF194607.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MDZfMTg5/MDAxNzQzOTM4MTI4ODQw.e60DBQFUhADt7_80CgQE5DZyOaIVkSiALGgEaBUxM40g.XKFDRtTTVOBWKl56KoHLfMA15uw6jH3tevoVpK9Piagg.JPEG/20250406_181940.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTJfMjA0/MDAxNzQ0NDMyNzg2NDIx.uHK9xwCoAyxmzg7HZCKab4CdP5hbRQXvnoZGMflkFrwg.8DNkR8xitztfaoJixgNlSlwTWMhSJqwhMyjrG9Hgzosg.JPEG/87373842-9B9E-4EBB-8A4F-66A67F5B7ED6.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDhfMTAg/MDAxNzU5OTAxNDU5NTQz.oLuev4646GjdfgCDR3l2hlh0LmheTnYJo1hEhEHVf9Ug.9epev_CPIN4oWUYFNYS30UkGBtgI28htOK35fkLsT9Yg.JPEG/20251008_141203.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDhfMjcz/MDAxNzQ2Njk4NjQ1MjI1.1oOQGXpyTAG_fHhl4nh9g7yWHjCqD5aZVNSnGPdP4ecg.9M9RHBSDZRbleskH4RXXLGtt5gg9QQYVz7pFXxvkfYEg.JPEG/1309391F-E0B3-4203-B04B-FB3ECF033FA1.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MThfMTgw/MDAxNzUwMTc1NTY2NDAy.GevHr2gODyQqkohjGCJZkGrg4dvAZxT11lZq7Z2ZL1Mg.RIPMs7HanKarohp0ZaPuOssuutiayY-D6smfCvdeIMEg.JPEG/1000146987.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDhfMiAg/MDAxNzU5ODczNjQ0MTE2.1U_ZbpqirE7ZoaJkuGIxlGfLW23tGRzwNujeiGvO8b0g.yMWMkC1y6Noo6Qka-FpyS6oX-Yww7V8_Wd7COyL9oF4g.JPEG/20250918_192139.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "230074",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 3,
+        "id": "1308844012",
+        "name": "일품양평해장국 종로3가점",
+        "x": "126.9892648",
+        "y": "37.5708806",
+        "distance": 0.055,
+        "categoryName": "해장국",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220068",
+            "1000630"
+          ]
+        ],
+        "category": [
+          "한식",
+          "해장국"
+        ],
+        "reviewCount": 792,
+        "averagePrice": 5000,
+        "address": "서울특별시 종로구 낙원동 202",
+        "roadAddress": "서울특별시 종로구 수표로 107",
+        "abbrAddress": "낙원동 202",
+        "shortAddress": [
+          "서울 종로구",
+          "수표로 107"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "안녕하세요! 해장국 맛집 일품양평해장국 종로3가점입니다 ^-^ 맛과 향 그리고 분위기까지 느낄 수 있는 한국인의 소울푸드 일품양평해장국 종로3가점으로 오셔서 든든하고 건강한 한끼 즐겨보",
+        "description": "안녕하세요! 해장국 맛집 일품양평해장국 종로3가점입니다 ^-^ 맛과 향 그리고 분위기까지 느낄 수 있는 한국인의 소울푸드 일품양평해장국 종로3가점으로 오셔서 든든하고 건강한 한끼 즐겨보",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjlfNDkg/MDAxNzUzNzUxNjA0NzIx.ahUCaPakGqaFYIcqOHye7CJsQdBFrAiLmbDYD46S83Ig.y0x_V2i8rVs1BjgraEKEAeCKTRSPYacOCrPHKRTLxsYg.JPEG/1753751542837.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTVfMTk5/MDAxNzQ0Njk3MjQ1MjMz.4neqxUIf2XRAndztuDfrHQcodDFuSUQBxVohmR0Ud1Ig.g3ano34imOwi__WRgsm6f8a9MHwFgw3WczA4eY8AWO0g.JPEG/IMG_20250411_111507.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250924_276/1758678939480v0Ak8_JPEG/1.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTlfNjIg/MDAxNzU1NTYwMDA4MDkx.nWo9c08PXBDQsWj2CkBkRmlzT05VGlXUtZ4B2kLzE2Ag.w1fYH6ZIrx8-WJMQc2XVjkigNYUVXPuTtFNW-pHjYhYg.JPEG/1000028411.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250924_102/1758678939999P58JS_JPEG/2.JPG",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDZfMjgy/MDAxNzQ5MTkzMDQyMDky.f6XmtxeUlIjyXTWI55yUQWoBvwaKNdhoRPmwmA6-qrEg.x0S19Y5ZK8M7YpyNDKQglothlk03LZDuO_-miGbqO5gg.JPEG/20250605_215718.jpg",
+          "https://ldb-phinf.pstatic.net/20250924_187/1758678939824IP3Aj_JPEG/3.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTdfNTYg/MDAxNzU4MTEyOTUzNjQ5.wzwwhdsd1zssknFd81qIGk-y1QQZZLtofP74OaQ3fHIg.BR9S4vc-8bSQfI8C8fo4OJJ3gYRQf5rhEooQryhlNsIg.JPEG/1758112927976.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjNfMjYg/MDAxNzQ3OTY2ODc2NDA2.fYO_d8iZjFeRHwN6hm4PW6loVhKcq5rprsYW9Lp2hiUg.xLS-SYalauZAb3LU3JEDR-g3cg2thm0G8CPV_s9uubUg.JPEG/20250523_111929.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDZfMjA5/MDAxNzU5NzU3NTA3NjMy.b3oFmhDBjCUL_0jKI1MJ-bKf5jlzrqoCY61OOuOsTO0g.ozrYMOjdcKe4oOpb_Y2Wai7lLXFFaxE_N84FYxV7GCkg.JPEG/20762EEE-4429-4DC0-A457-83F77B0AB299.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1000630",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1308844012",
+            "bodySummary": "그런데 맛집이라니 리뷰 시작 하겠습니다 일품양평해장국 서울특별시 종로구 수표로 107 종로 3가역과 상당히 가까운 위치에 있습니다 저는 양해장국을 정말 좋아하는데 친구들은 순댓국을",
+            "url": "https://m.blog.naver.com/wnehdgur2/223360565858",
+            "nick": "도녁",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAyMTRfMjg5/MDAxNjQ0ODQyMDc1NTE2.Hm5MrEjPyrA5T-ouUnwMM_ZUJgKgjFX-KWGwwja6NaUg.MX9bp2A0vIYbQsDRRkiJPPeQt_x8uQPgPx9f0El-aFcg.JPEG.wnehdgur2/KakaoTalk_20220214_213359416.jpg/KakaoTalk_20220214_213359416.jpg"
+          },
+          {
+            "sid": "1308844012",
+            "bodySummary": "3차 국룰은 해장국이 아닐까 싶다. 해장하러 찾아간 곳은 일품양평해장국 종로3가점! 우리 집 앞에도 있는 건데 여기서 보니 반갑구만유~ 가게 안은 꽤 넓은 편이고, 영업시간은 24",
+            "url": "https://m.blog.naver.com/the200_7/223328273533",
+            "nick": "saintpig",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjEyMTNfMzMg/MDAxNjcwODk1ODU1Nzgw.oBGwvF7ic-Lwgp9iljVzqattaVhiMasfkCv15YnKJTMg.oCXyftKSeRjD-6m-pEf5l1btMQo1QNl-YxnBGRYTIzUg.PNG.the200_7/profileImage.png"
+          },
+          {
+            "sid": "1308844012",
+            "bodySummary": "일품양평해장국 영업시간 : 연중무휴 24시간 전화번호 : 02-745-2842 서울 종로구 수표로 107 오늘은 팀 프로젝트가 끝나보니 너무 늦어 밥집을 찾다가 알게된 국밥집을 리",
+            "url": "https://m.blog.naver.com/tiggersant/223269298341",
+            "nick": "민갱",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA3MzFfMTgz/MDAxNjkwNzk5NTk0NzMz.a0vtW_xwkNUJRS2FCTCzN3sbTFbwAGCveRtYDHBzqD4g.fEKqwBbm3OY1QSiObvBeqauePfdrksNHgcZ-4KTx4NYg.JPEG.tiggersant/profileImage.jpg"
+          },
+          {
+            "sid": "1308844012",
+            "bodySummary": "요런 갬성이 적당하면 또 밥맛을 좋게 하거든요. 종로3가역 일품 양평해장국 메뉴판 메뉴판 깔끔하게 그림이랑 정리돼있어서 좋았고. 첫번째에 있는 양평 해장국으로 픽! 뼈다귀랑 고민했",
+            "url": "https://m.blog.naver.com/jusrup/223186567244",
+            "nick": "주주",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAzMDRfMjcg/MDAxNjc3OTM5MDMyODM3.UvltDYHvxIRzQreB-JklJ3z3mKwXwVpx-yd02CPfz8Ug.bwEdgN4CFrIRoxHTvJAdQW1c0KArVLwj-rsm-Kyit3gg.PNG.jusrup/profileImage.png"
+          },
+          {
+            "sid": "1308844012",
+            "bodySummary": "진만이에요~ 오늘은! 종로3가에 위치한 일품양평해장국에 다녀왔어요! 왜ㅜ 주말 낮에 익선동/ 종로에 먹을게 없나요..?ㅠㅠ 맛집 아시는분 알려주세요~ 서울 종로구 수표로 107 월",
+            "url": "https://m.blog.naver.com/jjjimmy97/223126780408",
+            "nick": "최진만",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEwMDlfMTU2/MDAxNjk2NzgxNjgzODY2.eYSR9SdV7B9zdCBztVCrSoKIY3esvY5m53uATqtp2OIg.dlrMt1-K-tsH_M0RVwPHxbN86d8WRC7RqsLBxvhIoyIg.PNG.jjjimmy97/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "id": "1555065483",
+        "name": "치킨매니아 종로3가점",
+        "x": "126.9892558",
+        "y": "37.5706174",
+        "distance": 0.041,
+        "categoryName": "치킨,닭강정",
+        "categoryPath": [
+          [
+            "220036",
+            "220049",
+            "220476"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "치킨,닭강정"
+        ],
+        "reviewCount": 38,
+        "averagePrice": 0,
+        "address": "서울특별시 종로구 종로2가 40 1층",
+        "roadAddress": "서울특별시 종로구 수표로 105",
+        "abbrAddress": "종로2가 40 1층",
+        "shortAddress": [
+          "서울 종로구",
+          "수표로 105"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "안녕하세요. '한번 맛보면 매니아'가 되는 치킨매니아 종로3가점입니다.  시원한 생맥주와 소주! 생각만 해도 군침이 도는 맛있는 안주가 기다리고 있습니다~ 모든 식자재는 엄선하여 관리하고 ",
+        "description": "안녕하세요. '한번 맛보면 매니아'가 되는 치킨매니아 종로3가점입니다.  시원한 생맥주와 소주! 생각만 해도 군침이 도는 맛있는 안주가 기다리고 있습니다~ 모든 식자재는 엄선하여 관리하고 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjFfMzQg/MDAxNzYxMDM2MTY0MDA1.92lMSA3gr2NKL9v8w2MyjtMsORISzeEWl9GzEFFaq6wg.N0N__-v4CDBOUL1Gw-P4PdI0gBb58ng4JL_Wpg78MnUg.JPEG/1000020446.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDlfMTU4/MDAxNzU0NzQ3MTcwMTA0.DZSz43eNyvBMQL5FMw_hAg6xoye9mkq-9rEhEGdwcVkg.zpkh3RoSA1hkDU76b2JlM4bDLyj_XvK0K67O4_rcepcg.JPEG/20250809_221106.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250625_211/1750819181279L4Epz_JPEG/KakaoTalk_20250625_113008590_04.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTRfNTAg/MDAxNzU3ODUwOTc1Mjc3.jZ0Lmfid-akWl9EDnbmWPeHgspxH03U8hRpCO2f04XUg.JsC24w_gAojE46lsaJ78Zs_sTk-Uc75ZD0GgimetlHMg.JPEG/1757842708182.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250625_121/1750819181215PtFVk_JPEG/KakaoTalk_20250625_113008590_03.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjBfMjQ0/MDAxNzQ3NzQwMjE0MDg4.SLGPu3KF--4TyF4UzpSAl4yRtNBNZyiknFBwPnCBy4og.eLjqfw9rko5pfbTtf0wBhBu2gueqRM0V8ZbxHMmEKwIg.JPEG/9C4133AD-41C8-4729-87EF-A0B3B72D3E88.jpeg",
+          "https://ldb-phinf.pstatic.net/20250625_54/1750819181233AnHid_JPEG/KakaoTalk_20250625_113014428_02.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTRfMjA0/MDAxNzQ5ODc3ODQxNDI5.bNK-4P5A5BS7NWrKOqDgDpGWKJWd9QBdI-fEL44476Qg.Op2l1qNNQuJbzSh3fiOf2cnQsp0qx0EyoAJ9xIl3Jq0g.JPEG/20250613_180525.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDhfNDIg/MDAxNzUxOTg0MDU5MzU1.IQpzkSqn5IhTKkzMduAfHlHGog_0SrZS4VVKlnlOfckg.AQ0bkNxotvtz0xs2eMxmG1xnTGUaQlGaq7uLn5j_kywg.JPEG/93F0BBD6-A0F9-4682-86E3-DD95F4A3BA2E.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MDZfMTEg/MDAxNzQzOTE5ODQyNzA2.1nODpg8iy3ll4E41XL-w9f8C400OjO4jqFVO4Jw9n9og._r2xHY2A2-PBssHOYRWGk05VKwT5e7EpJJDiEKDCnq4g.JPEG/A7EEBD2F-D8B0-4F79-BC0D-F2A444CFB1F6.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220476",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 5,
+        "id": "938864145",
+        "name": "삼일관",
+        "x": "126.98888",
+        "y": "37.57099",
+        "distance": 0.049,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 13,
+        "averagePrice": 0,
+        "address": "서울특별시 종로구 종로2가 39",
+        "roadAddress": "서울특별시 종로구 종로17길 12",
+        "abbrAddress": "종로2가 39",
+        "shortAddress": [
+          "서울 종로구",
+          "종로17길 12"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "서울특별시 종로구 종로2가 39",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 6,
+        "id": "1383889624",
+        "name": "성림순대국",
+        "x": "126.9892193",
+        "y": "37.5709541",
+        "distance": 0.058,
+        "categoryName": "순대,순댓국",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220768",
+            "221546"
+          ]
+        ],
+        "category": [
+          "한식",
+          "순대,순댓국"
+        ],
+        "reviewCount": 5,
+        "averagePrice": 0,
+        "address": "서울특별시 종로구 낙원동 204",
+        "roadAddress": "서울특별시 종로구 수표로 109",
+        "abbrAddress": "낙원동 204",
+        "shortAddress": [
+          "서울 종로구",
+          "수표로 109"
+        ],
+        "displayContext": [],
+        "labelTheme": "24시간 영업",
+        "microReviews": [],
+        "cardDescription": "서울특별시 종로구 낙원동 204",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221546",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 7,
+        "id": "20898515",
+        "name": "파고다커피숍",
+        "x": "126.988964",
+        "y": "37.570905",
+        "distance": 0.042,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221212"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 1,
+        "averagePrice": 0,
+        "address": "서울특별시 종로구 종로2가 39",
+        "roadAddress": "서울특별시 종로구 종로17길 12",
+        "abbrAddress": "종로2가 39",
+        "shortAddress": [
+          "서울 종로구",
+          "종로17길 12"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 종로구 종로2가 39",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221212",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

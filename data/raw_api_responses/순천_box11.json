@@ -1,0 +1,330 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 4,
+      "count": 4,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 127.49329566216215,
+          "minY": 34.9505,
+          "maxX": 127.49879132432432,
+          "maxY": 34.9550045045045
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "127.49604349324323;34.95275225225225",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1352282405",
+        "name": "비앙코",
+        "x": "127.4943992",
+        "y": "34.9514775",
+        "distance": 0.206,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 596,
+        "averagePrice": 5000,
+        "address": "전라남도 순천시 조곡동 268-29 2층",
+        "roadAddress": "전라남도 순천시 율전2길 65",
+        "abbrAddress": "조곡동 268-29 2층",
+        "shortAddress": [
+          "전남 순천시",
+          "율전2길 65"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "다크 초콜렛의 풍미,견과류의 고소함, 좋은 밸런스를 가진 원두만을 사용합니다  -단체 답례 간식 100%예약제 (샌드위치,수제식혜,수제라떼,수제요거트)  -커피를 포함한 다양한 종류의 음료 판 ",
+        "description": "다크 초콜렛의 풍미,견과류의 고소함, 좋은 밸런스를 가진 원두만을 사용합니다  -단체 답례 간식 100%예약제 (샌드위치,수제식혜,수제라떼,수제요거트)  -커피를 포함한 다양한 종류의 음료 판 ",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20241001_234/1727773852540gnQI4_JPEG/IMG_1744.jpeg",
+          "https://ldb-phinf.pstatic.net/20241101_205/17304566432795vYCB_JPEG/IMG_5223.jpeg",
+          "https://ldb-phinf.pstatic.net/20241101_231/1730456644243Eifj3_JPEG/IMG_4511.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1352282405",
+            "bodySummary": "카페비앙코 위치 ↑ 카페비앙코 외관. 영업시간 11:00~22: 깔끔함. 내부는 엄청 큰편아님. 메뉴판. 케이크 팔고요~ ~와이파이~ 등장 메뉴 등장. 토마토주스(5,500원). ",
+            "url": "https://m.blog.naver.com/ssssflower/223119208312",
+            "nick": "순심이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAxMTVfMjYg/MDAxNjQyMjM2MjgwODY1.wGQD7cO1Jg79xzW8puPHPkSmkjPiPt0APkEOoCTF7Mcg.wSWuxKrdjpqf7dyDdatSskU83tWwW3nFu5vH3FusMUcg.JPEG.soonjin94/profileImage.jpg"
+          },
+          {
+            "sid": "1352282405",
+            "bodySummary": "오천초밥에서 식사를 한 후 근처에 있는 카페 비앙코 방문 ⏰️ 영업시간 ⭕️ 화~일 11:00 ~ 22:00 ❌️ 매주 월요일 휴무 메뉴판 커피, 라떼, 스무디, 에이드, 프라푸치",
+            "url": "https://m.blog.naver.com/allispretty/222929742275",
+            "nick": "에스알",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA3MzFfMzkg/MDAxNjU5MjYxOTMzODQy.ux0BOaXSK0OTgp3YQzb3D_RC3zZ3RD15mhVsPlkqOeUg.vhIqbbbmBwNHuOKb3CN5JwSc7tgBSfd7dRL0FLafzKUg.JPEG.allispretty/profileImage.jpg"
+          },
+          {
+            "sid": "1352282405",
+            "bodySummary": "카페는 지리적으로 접근성이 뛰어난 대로변 상가사이에 위치해 카페를 이용하시기에는 편할것으로 예상합니다 카페 정문입니다 올때마다 차량이 주차돼 있어서 아쉽네요.. 상가형 카페라 외관",
+            "url": "https://m.blog.naver.com/taevin0709/222260274321",
+            "nick": "언유니온",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA1MjFfODQg/MDAxNjIxNTI5OTk5ODM2.nK8lWCeMcoe0eMiHwpIB5l2f15SiRLjB2A2aEfHQyiIg.09k27WadK0KGj8wyZV5DU75ExToZpRyhGTXPB3JmEoQg.PNG.taevin0709/profileImage.png"
+          },
+          {
+            "sid": "1352282405",
+            "bodySummary": "어제는 #오천지구 에 있는 카페 비앙코를 다녀왔어요 ٩( ᐛ)و#카페비앙코 는 대광로제비앙 건너편에 있습니다!! 화요일~일요일 11:00 - 22:00 월요일 정기휴무 토퍼 주문제",
+            "url": "https://m.blog.naver.com/chuchu_501/222186821287",
+            "nick": "츄츄",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMjBfMTcy/MDAxNzEwOTE1NDUyNDMx.f5a0C8culJDCg5vwHk4hUH6lI31Uo943tZHV_erPQY0g.DJqh-PR_0FlYYmpM2pEgBGu9CkDEkvvEIiMwtWz_DFIg.JPEG/profileImage.jpg"
+          },
+          {
+            "sid": "1352282405",
+            "bodySummary": "카페 비앙코의 출입구는 2곳입니다. 카페 비앙코의 open,close 시간 카페 비앙코의 카운터 카페 비앙코의 메뉴와 디저트 카페 비앙코의 좌석 바닐라라떼와 오레오프라푸치노 이번 ",
+            "url": "https://m.blog.naver.com/kjs951240/222131411434",
+            "nick": "CASU",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEwMTlfNTMg/MDAxNjk3NzA0MTQ0NTE1.RSK3T0gCPTxuGFd0gg7VwTP0zXwnbyfQpcyYGXL9aAQg.xdLrVMJiCsVCg95575iWYqI2jAugwdS5wWDZXEsdRPgg.JPEG.kjs951240/KakaoTalk_20231019_172835222_01.jpg/KakaoTalk_20231019_172835222_01.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "id": "37413167",
+        "name": "전원가든",
+        "x": "127.494493",
+        "y": "34.9515505",
+        "distance": 0.195,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 176,
+        "averagePrice": 69000,
+        "address": "전라남도 순천시 조곡동 268-15",
+        "roadAddress": "전라남도 순천시 율전2길 63",
+        "abbrAddress": "조곡동 268-15",
+        "shortAddress": [
+          "전남 순천시",
+          "율전2길 63"
+        ],
+        "displayContext": [],
+        "labelTheme": "고급 정찬",
+        "microReviews": [],
+        "cardDescription": "전라남도 순천시 조곡동 268-15",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTJfMTAg/MDAxNzU0OTU2MjI4Mzcz.CZcvjgNPhkcQ5LB1V_BUGY-9ps3NdjXRwRS5SiNT0_Ug.93CX2X-D49pi-uHPrUFqXS30aI4_wSHSCigohJwsyskg.JPEG/1000031093.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MzBfODIg/MDAxNzUzODU1MDkzOTA2.3wkxfsVcEC_djv9_F9ibYTY9ehqJG3m5RlPHAs7DCfgg.VaxEUJjkyWwnx0uCOgVZCScay7E7kXYQqPsCBoBOvB8g.JPEG/20250730_145458.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20190623_287/15612759901740vUSk_JPEG/q8x7ah_0Q-yPrJXrh-smVC0B.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDNfNTcg/MDAxNzU0MjAxMzUzNjMw.YIN3Q9r_jeEOUUOqC0NV4WdIOkBSjDfNEkSO2VjtcZQg.TB3TEbVPFU94Cd0XYOZ7ZIlKkSU5R-KM-fzaempaWj0g.JPEG/20250803_150701.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "37413167",
+            "bodySummary": "능이버섯을 이용한 보양식이 한가득!!이었다. 우리는 능이 오리백숙을 주문했다. 기본 반찬. 부족 시 셀프바에서 가져다 먹으면 된다. 메인메뉴등장! 능이버섯 가득에 통통한 오리가 딱",
+            "url": "https://m.blog.naver.com/jsy2351/223310549509",
+            "nick": "서주맘",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA1MTNfNjcg/MDAxNjIwODg2NjIyNDYz.9s3vJ-Lc7pUeLlGJk-g-xzLr1BsnoH1NjpsTeXewJ9Yg.SLVI29c0wdyZLDE8jOeTTeA2kB2jPAXri8Zp8ER6wu8g.JPEG.jsy2351/KakaoTalk_20210513_151457832_24.jpg"
+          },
+          {
+            "sid": "37413167",
+            "bodySummary": "다 맛있어 보이는 전라도 반찬들 ! 우리가 주문한 것은 능이 닭 백숙 네이버에는 65,000원으로 되어 있지만 아직 수정이 되지 않은 가격이고 메뉴판에 있는 가격이 맞는 가격 우리",
+            "url": "https://m.blog.naver.com/jhmindy/223176138368",
+            "nick": "미니민디",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA5MjJfMTY5/MDAxNjYzODI0Mzc2NTQx.yEBu2QpWla3RGVpOV4o2_3vtTsT83oLUmUL7Wf3Wt5sg.44FdqpvL3AUpaHiJxxInX-Pgz-fSTEaW4F1tcy8vRe4g.PNG.jhmindy/profileImage.png"
+          },
+          {
+            "sid": "37413167",
+            "bodySummary": "음식점 건물앞에 가꿔놓은 식물들이 초록초록 반겨준 전원가든이네요 #순천전원가든 메뉴판을 보니 백숙을 전문으로 하는 보양식 음식점이라 메뉴가 다양하진 않지만~, 이렇게 몇가지만이라도",
+            "url": "https://m.blog.naver.com/lken710/223155292646",
+            "nick": "힐링우먼",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA1MjBfMjEg/MDAxNjIxNDkyMDM2NTcx.re2-Q3O1DKYNClic9D5ZBfUi2rIb2NnYE4pyd4CgA70g.Z5JSAa9nlVL-kVkGPRTQI8h3RaZ8kPvbb_38bDmSF18g.JPEG.lken710/KakaoTalk_20210520_151127120.jpg"
+          },
+          {
+            "sid": "37413167",
+            "bodySummary": "조곡동쪽에 전원가든..능이 오리 백숙 ..맛있네요 능이도 많고..4명이서 술 한잔하기 딱 좋습니다 중간에 송이버섯도 조금씩 주고 죽도 주고요~ #순천능이백숙#순천오리백숙#순천전원가",
+            "url": "https://m.blog.naver.com/wocns13/223120116511",
+            "nick": "순천상사촌넘",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA4MjdfMTcx/MDAxNjkzMDYzMjcyNDA5.4JgisVLiV7vHEehD3bBim0scG99g7mg5E8pNh8hXH84g.abQpQA0eNZTpbtkQkDczIgRkRpoa3hUNATSxUPS2Oggg.JPEG.wocns13/profileImage.jpg"
+          },
+          {
+            "sid": "37413167",
+            "bodySummary": "여수 #삼계탕 맛있는 집 예약하려 연락했지요.. 가는 날이 장날.. 휴무라 공.. 얼마 전에도 휴무라더니...꼬이네 꼬여~~~ 우짤수없이 순천 인근 찾아봐야 죵.. 안 간지다 쪼깜",
+            "url": "https://m.blog.naver.com/tacse/222992422595",
+            "nick": "씽글벙그리",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA1MDJfMTk5/MDAxNjgyOTgwMTMxNDM5.872z81W9ixnOk3vlaPhrwymh3dMhvsCkG9vL8XEVG2og.3ue7IFPjmw_KK1sw5-PZ76S6VECZGHuLuu2aQsS4pUIg.JPEG.tacse/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "id": "1076337484",
+        "name": "죽도봉팔각정 카페",
+        "x": "127.4933487",
+        "y": "34.953399",
+        "distance": 0.256,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 37,
+        "averagePrice": 0,
+        "address": "전라남도 순천시 조곡동 산64-1",
+        "roadAddress": "전라남도 순천시 죽도봉길 81",
+        "abbrAddress": "조곡동 산64-1",
+        "shortAddress": [
+          "전남 순천시",
+          "죽도봉길 81"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "전라남도 순천시 조곡동 산64-1",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 4,
+        "id": "1565832226",
+        "name": "강남정",
+        "x": "127.4933142",
+        "y": "34.9533466",
+        "distance": 0.258,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 15,
+        "averagePrice": 0,
+        "address": "전라남도 순천시 조곡동 산64-1",
+        "roadAddress": "전라남도 순천시 죽도봉길 81",
+        "abbrAddress": "조곡동 산64-1",
+        "shortAddress": [
+          "전남 순천시",
+          "죽도봉길 81"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "전라남도 순천시 조곡동 산64-1",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

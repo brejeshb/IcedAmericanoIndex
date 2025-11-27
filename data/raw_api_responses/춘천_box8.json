@@ -1,0 +1,824 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 9,
+      "count": 9,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 127.71838585382834,
+          "minY": 37.8813,
+          "maxX": 127.72409292691417,
+          "maxY": 37.885804504504506
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "127.72123939037125;37.88355225225226",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "15058154",
+        "name": "진아하우스",
+        "x": "127.7228698",
+        "y": "37.8824179",
+        "distance": 0.191,
+        "categoryName": "햄버거",
+        "categoryPath": [
+          [
+            "220036",
+            "220044",
+            "220138",
+            "221004"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "햄버거"
+        ],
+        "reviewCount": 1238,
+        "averagePrice": 11000,
+        "address": "강원특별자치도 춘천시 소양로3가 183",
+        "roadAddress": "강원특별자치도 춘천시 금강로 2",
+        "abbrAddress": "소양로3가 183",
+        "shortAddress": [
+          "강원 춘천시",
+          "금강로 2"
+        ],
+        "displayContext": [
+          "햄버거",
+          "수제버거",
+          "술집",
+          "옛날맛"
+        ],
+        "labelTheme": "전현무계획 방영",
+        "microReviews": [
+          "짬뽕라면과 함께하는 얼큰한 술자리"
+        ],
+        "cardDescription": "짬뽕라면과 함께하는 얼큰한 술자리",
+        "description": "영업시간 변경: 24년 8월1일부터 새벽2시까지만 영업합니다.  춘천 고등학교 인근에 있는 분식점입니다. 즉석에서 만들어주는 치즈버거가 인기 메뉴인데요, 살짝 구운 빵 사이에 양파와 돼지고 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTlfMjIy/MDAxNzU1NTkzMDE3MDg3.VmJHYS8pmX2H_uT8g1s_P4wPpGMN0fH7A66ciT9iDeUg.nJHbqic8Is4z5XN7TyLC5ddnS0jqZvqgg1dOoBF7umsg.JPEG/0B38B1DC-609F-4D7F-A31E-3C97B0CDA52A.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTRfMTUx/MDAxNzYwNDE0NjMzODA5.gOA4JpSwH5utn9YzYu2wooVTX1lYtuC1eXogo9D3biog.UOFaMmGzXnzvjxmD_pewtB5B5Dgoy57oR7ICbBtT5Nog.JPEG/B5DA6980-FFA0-4CEE-A124-07E1E94834A8.jpeg",
+          "https://ldb-phinf.pstatic.net/20210203_97/16123178891959WjWa_GIF/tsNuiQyFrngVWMMNi3ck_yim.gif",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDhfMTE3/MDAxNzQ5MzUzNjg2MTIz.hYnyQC2V6tCyfs87Gc4-cxZ0Y0XzWHrEfBu1xp4K3mUg.nJGPLOP1esoKhNH77YEMYGw8cHmMV-1zc0BYfZhXCrIg.JPEG/1000050850.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20210203_112/1612317919134dK4Jr_PNG/eUzZU4jcJseUDMtEqK481yra.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTNfMjU4/MDAxNzQ5Nzk5OTczNjc0.rGLpzrThTxIW2CWZ-Y6yL6t-FTerC1rYTPmlxntDSeMg.0w02TmBl2c-puR-SF2eNq-GqpywuJW_mJoiazU78sxcg.JPEG/20250518_125559.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20210203_46/1612317922906eNa8H_GIF/kCsNcHq9e8OUy-SrRcKq8O_o.gif",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MzFfMjU2/MDAxNzU2NTcyNzEzMjM1.fgsbxORt4h_PAHV5Bw-adifln56SnzUGmWm9GMo_lO4g.0d8EGHi-UIqwftfEfFh2e5Bqmda9UQVsmju_daI7e2cg.JPEG/20250831_010353.heic.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDlfMTc0/MDAxNzYwMDEwMzg0NTMw.T1S2BcuY6MGvMO56oQbJqTb3zcm-e0PvP0CsfLdMMisg.56cGiqNVBtKXZnc6Z5VaK0HVSfyyorRP2byrD18ZNMYg.JPEG/67F4D0B8-6A1C-46E7-A559-5515F5633E3D.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDdfMjMw/MDAxNzU3MjE1MTEyMjQ3.QC05chCvkgTvKBOtKvsMe2WOxM6MqX7lsh-8QoV6L5Yg.pJSiP8D2Nbq7_QIJXp6AUG1-f9Tt-hPDRCkm1H8lUJog.JPEG/20250907_113149.heic.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221004",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": true,
+        "broadcastInfo": {
+          "name": "전현무계획",
+          "menu": "수제버거"
+        },
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.2",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "15058154",
+            "bodySummary": "왠지 만들수도 있을 것 같지만 주인이모님이 해주셔서 더 맛있는 맛♡♡ 그리고 김치라면입니다.건더기 보아하니 큰 고춧가루 플라스 버섯인것 보니 신라면 사용하시는것 같고요. 그 분식집",
+            "url": "https://m.blog.naver.com/shpw8282/223225576153",
+            "nick": "투또리맘",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMTdfMjEg/MDAxNzAwMjMyNzk5NTQy.EvkevJ5jfx5XEwKWEKjSNxPpLxqhLT38j9KEmHHAiiog.jVnK3GGwd0250KGoAvkZhUAwitR1s8--2-Y7mBSvEIAg.JPEG.shpw8282/profileImage.jpg"
+          },
+          {
+            "sid": "15058154",
+            "bodySummary": "대략 한 40년전임 ㄷㄷ 사장님이 느끼시기엔 그때랑 지금이랑 크게 맛이 달라지지 않은 것 같다고 ! 한결같이 맛있는 진아하우스 햄버거 +) 사장님 미스 시절에는 미군들이 많이오는 ",
+            "url": "https://m.blog.naver.com/hiitzmesj/223221341618",
+            "nick": "세진",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMjdfMTA2/MDAxNzExNTM3MTk5NzEy.CS8_5kpZqA5A4WOpYG-a9-2ER9eSX0iobbRGSHMYMI8g.teK0AsDjkS-fk2XBO0Agi-3PorHQ5uC-Phadm_HgpNkg.PNG/profileImage.png"
+          },
+          {
+            "sid": "15058154",
+            "bodySummary": "안녕하세요 묵도리입니다 ^^ 귀여운 햄버거 간판부터 가게이름까지도 정겨운 진아하우스 춘천에 3대를 거쳐 43년동안 쭉 이어져오고 있는 춘천로컬맛집 수제버거 진아하우스에 다녀왔어요!",
+            "url": "https://m.blog.naver.com/jeff788/223178490767",
+            "nick": "묵도리입니다",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAyMDVfMjA0/MDAxNzA3MTMzMzM2MjU5.M95eOJANtgjWUmwtxipMAcKEMFGOHgfwVykIU2okqP0g.IILoIDluICQdcyVa2lCRzQlywLbR5hJ3FSAM03EK1HEg.JPEG.daewon3207/profileImage.jpg"
+          },
+          {
+            "sid": "15058154",
+            "bodySummary": "춘천 맛집 [진아 하우스] 사랑받는 자몽님의 블로그 안녕하세요 사랑받는 자몽입니다. 오늘은 춘천에 햄버거로 역사가 깊은 곳 ~~ 소개해 드리려 해요 저는 햄버거를 잘 먹는 편이 아",
+            "url": "https://m.blog.naver.com/coyo13/223113055057",
+            "nick": "자몽의 모든 일상",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMDJfMTM5/MDAxNzA5MzQ3NDk2NjM4.wOs7D7qvH8XHUvCRgZq3q6dXqyFYY2tNlRsMV3skfe8g.uov5_1mOqs_ZEl-jxbZL8E5IZOWemQwH3rqJUg5rnIEg.PNG/%25EC%2584%259C%25EB%25AA%25852.png/%25EC%2584%259C%25EB%25AA%25852.png"
+          },
+          {
+            "sid": "15058154",
+            "bodySummary": "43년 전통 수제버거 맛집이래요. 리뷰들을 찾아보면 칭찬일색이라 매우 궁금하긴 했지만 이날 아침에 컵라면을 먹어서 점심까지 밀가루를 먹을 수 없었어요.매장이 굉장히 개방감 있더라구",
+            "url": "https://m.blog.naver.com/three486/223073813106",
+            "nick": "마루",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAzMDNfMjcy/MDAxNjc3ODE5OTQ2NDg3.AWY-5soySAPOgcaghCs8YKY5XmpPGNyUJVa6ilVdNCUg.f4MCsjxhR89Xd2UgeqfTdJi1K6x7b0prpeFBZL4hLtcg.JPEG.three486/KakaoTalk_20230302_163350520.jpg/KakaoTalk_20230302_163350520.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "id": "36258254",
+        "name": "찬이네통큰왕만두",
+        "x": "127.7238697",
+        "y": "37.8818588",
+        "distance": 0.298,
+        "categoryName": "만두",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220189"
+          ]
+        ],
+        "category": [
+          "분식",
+          "만두"
+        ],
+        "reviewCount": 470,
+        "averagePrice": 1000,
+        "address": "강원특별자치도 춘천시 소양로3가 183-8",
+        "roadAddress": "강원특별자치도 춘천시 중앙로68번길 38",
+        "abbrAddress": "소양로3가 183-8",
+        "shortAddress": [
+          "강원 춘천시",
+          "중앙로68번길 38"
+        ],
+        "displayContext": [
+          "김치만두",
+          "만두"
+        ],
+        "labelTheme": "착한 가격",
+        "microReviews": [
+          "고기잡내 없는 담백한 고기만두"
+        ],
+        "cardDescription": "고기잡내 없는 담백한 고기만두",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjBfMTAx/MDAxNzU1Njk5NzM2MDMx.JM50n8jlx1LONm13TeUtEOvvP7GWzf_8I-11FB4p_ZUg.d78X9QmtXC005e_S5kom3bKMoZZ0vO0zVBwqBnQglZgg.JPEG/20250819_145306.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDlfMjYz/MDAxNzU5OTk5Njc0NDk0.wEnfg7H_Ja2-mtwY5iIFzmKOWgoP4Sip_Dz-cWyE7pcg.3E9CRmxjehhiwyl2ZIJKQ6rBThZ4V-Vr44VEBhrq70Yg.JPEG/3E88996D-0507-4B9D-B85F-2F0C877C68E3.jpeg",
+          "https://ldb-phinf.pstatic.net/20170724_58/1500863512747ioqhP_JPEG/186674516172561_0.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTJfODMg/MDAxNzQ5NzA4MTc2Nzgz.6IvIS3usraWRa41wIAJ37SQQlM7EsQu8eFGuNaz6hCYg.CgHo_33IZTCW-WpBnMYbCxpRVpoJ2O4azeQRpkwVji8g.JPEG/20250612_145503.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20200313_263/1584074959884WRwoX_JPEG/EXQt1Q1vs7UYmmc9YX855Q6c.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTJfOTkg/MDAxNzQ5NzI2OTAxOTkw.g4VH1amra71zukS5hC6fLEVMY0iteIO1i0ReUvdwlz0g.TKVUimH1V1Wds6yZhiKnnARK_jv3YijoBVUj73WHZx0g.JPEG/7E750874-4207-4385-BB91-2FD108FA7056.jpeg",
+          "https://ldb-phinf.pstatic.net/20200515_187/1589508382649vgbQO_JPEG/75BZA_DUgBrl2rIGQa9_A43u.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDVfMzUg/MDAxNzQ5MDk2MDAzODM3.bQC7InCi3Kq75ZxnnOZ2_ZKINdtgGcExkU3H2qiOZTMg.xjZbaJDLyC8ZIjuBEPd2RxvFI8eD1YFq3MAhygKjt-og.JPEG/7574AAA6-0BF5-4B01-8F51-F92E396CECF5.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjZfMTUz/MDAxNzQ1NjQyNzgxMDg4.HJP11QhtzCXBoLoKPAuVJEAp8qZ-qA3jj6MGIfKL7aEg.ZywT3IlZolEKEAcJVwdEP2fiTDmCMspHdJEsElgTBRcg.JPEG/20250418_130133.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTdfMTI4/MDAxNzYwNjg1NzgwOTY3.pnXxjM7FYFI0SP4RCeaqfUioOLpQzFZR2uK9QJQICUwg.zsy2g4GVc6wLej7zySH98t3YLzUdE8tCYvfaXpE99v8g.JPEG/20251017_161908.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220189",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "36258254",
+            "bodySummary": "생각하면 군침부터 도는 만두집으로 - 원래 명동쪽에서 장사하셧다고 하시는데 나는 춘고앞으로 옮겨지고 처음 알게되었다. 아마 명동쪽은 주차가 불편해서 들릴생각도 못했을듯. 춘고 가게",
+            "url": "https://m.blog.naver.com/logy_log/223385109594",
+            "nick": "유여니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA5MjRfMjUw/MDAxNjk1NTYzNzQ3MDI5.Ab6MbdxEp7C3q1ErJujrIfsapU9mGVINi5lHM2zzY-8g.7uew0y_ZCNJwMFhAixBzVEFlGwCXuCNcOn1GSBs6F-Mg.PNG.dani_momi/profileImage.png"
+          },
+          {
+            "sid": "36258254",
+            "bodySummary": "춘천 만두음식점중에서 개인적으로 일품이라고 할수있는 찬이네통큰왕만두 김치두개 고기만두두개 주문 사장님이 십분기다리면된다고 주문즉시 찜해주신다 이전하기전에는 주차공간이없었는데 현재위",
+            "url": "https://m.blog.naver.com/baenice/223345010156",
+            "nick": "서우평생지기",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA5MjdfMTk3/MDAxNjk1Nzg1MTkwMDA3.G7AmKLvLFBNzGdS81juBrUC-3sI2y2Q2i7xF2s5uufMg.vnaGRB3mgckhFCpnooPI1Itkl8M0J_zA2fFDoDMpBvsg.JPEG.baenice/profileImage.jpg"
+          },
+          {
+            "sid": "36258254",
+            "bodySummary": "안녕하세요! 제리입니다! 오늘은 제리가 진짜진짜 소개하고 싶었던 왕만두집이 있었는데 드디어 포스팅 하네요! 사실 제리는 피가 찐빵비슷한 그런 음식들을 좋아하지 않아요,,꽃빵에 뭐 ",
+            "url": "https://m.blog.naver.com/tomato_0222/223338816400",
+            "nick": "JERRY",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMTJfMTQw/MDAxNzA1MDI1MDM1Nzc4.p-snUYOjYS2KebI3sF1ttQZMK7O4CZEdxW9sf-ayMTsg.J-vswpTL-S8ysIonjMiuOhQh-CWpXt17Kq3uFbrlUkwg.PNG.tomato_0222/profileImage.png"
+          },
+          {
+            "sid": "36258254",
+            "bodySummary": "소양로 가성비 왕만두 찬이네 통큰왕만두 어느날 신랑이 간식으로 이 왕만두를 먹고는 따끈따끈하니 맛있어서 포장해오려 했는데 문이 닫아서 못사왔다고 아쉬워 하길래 다음날 바로 같이 사",
+            "url": "https://m.blog.naver.com/eunseon_n/223280479652",
+            "nick": "은톨",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEwMjZfMjM3/MDAxNjk4MjQ4NTc4NTc0.Pa8YvTv1jH9ZzW3ukrWVCeGF61Q44lMviQ9DZ3kqDBIg.ifNKI4wwgSLaGwNKjRRx-0LTdUGiCHW1rpW-DRoKPW4g.PNG.eunseon_n/profileImage.png"
+          },
+          {
+            "sid": "36258254",
+            "bodySummary": "제법 큼지막한 크기의 만두~ 김치만두를 좋아하지 않는데, 여기는 김치만두가 최고! 김치맛이 과하지 않은데, 느끼함을 잡아줘서 정말 최고다. 찐빵 안의 소는 달지 않고 진한 팥맛이었",
+            "url": "https://m.blog.naver.com/y82345/223265934606",
+            "nick": "봄날의수다쟁이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMTlfMjUg/MDAxNzAwNDAwNzQ5MzQx.jwd9HblQYuuW33GvBpsg0xgrVFB9c-JcfG1diqi_hsog.CFUwGjRUv2hyyRf4g2U3bKYweCPmd3nK2eGoFr9Fve8g.PNG.y82345/Logo.png/Logo.png"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "id": "34043861",
+        "name": "다락 숯불닭갈비 & 생고기",
+        "x": "127.723804",
+        "y": "37.884544",
+        "distance": 0.251,
+        "categoryName": "닭갈비",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220771",
+            "221575"
+          ]
+        ],
+        "category": [
+          "한식",
+          "닭갈비"
+        ],
+        "reviewCount": 409,
+        "averagePrice": 10000,
+        "address": "강원특별자치도 춘천시 소양로2가 153-20",
+        "roadAddress": "강원특별자치도 춘천시 소양로 126",
+        "abbrAddress": "소양로2가 153-20",
+        "shortAddress": [
+          "강원 춘천시",
+          "소양로 126"
+        ],
+        "displayContext": [
+          "숯불닭갈비",
+          "돼지갈비",
+          "막국수",
+          "닭갈비",
+          "닭갈비집"
+        ],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "많을 다, 즐거울 락 을 쓰는 즐거움이 많은 다락 숯불닭갈비입니다. 손님 한 분한 분 내 가족이다 생각하고 친절히, 열심히 준비해서 편안하고 맛있는 식사자리를 제공하도록 노력하겠습니다.",
+        "description": "많을 다, 즐거울 락 을 쓰는 즐거움이 많은 다락 숯불닭갈비입니다. 손님 한 분한 분 내 가족이다 생각하고 친절히, 열심히 준비해서 편안하고 맛있는 식사자리를 제공하도록 노력하겠습니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDhfMjU4/MDAxNzQ5MzU3ODIyNDIx.PsT6yzCSuLEYxczaiBbHvQ_oEYUKH_dT1IXbP40r1KYg.Ii2TTqFEQedPS3WuOJSPqngb5BPIaXHO3ZpZF5R3pzwg.JPEG/1000029230.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjVfMjY3/MDAxNzUzNDQ0ODExMzU4.sfucUUqmeQwaDiM0DHmvqiI0S1m43go0ilnIu1rUIjIg.i2QnQfZAf_QWx5DCgMbYvDEdgDZqsFhX4bbjq9QHCXsg.JPEG/20250725_194547.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20180730_122/1532915042257US85N_JPEG/6_7CwxZQpzCCtKbJP6cVwHAP.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjBfMTA4/MDAxNzUzMDA1MjkyMDQ1.XZWnypeMoGfIcCG64hisfZ1kHrvpKKPAEPy5QpwW89wg.ioE2Ns3EfcsbNsVyOjaZFGKNcyhWtdr0hDDkpiVLWZgg.JPEG/E589E4EA-AF69-444C-89F2-FA21E4119730.jpeg",
+          "https://ldb-phinf.pstatic.net/20180730_198/1532915086991Ouxs9_JPEG/VEaOK-QmpJDFrH3AvLO_CjCf.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjVfMjYg/MDAxNzQ1NTczMjUyOTU3.lmx2nWl4K0sgI3ur6USB8yL0Ell5CQwTZskOweliV10g.Pz61HaSizihT7A2drMtzW7ccNaNtENlB2z2fi1s3Zjog.JPEG/20250425_130419.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20190120_104/1547976421565vTL7U_JPEG/On8wsICYdrS6aynKINXYNu73.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221575",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "34043861",
+            "bodySummary": "매콤닭갈비 구워줍니다 된장찌개는 진짜 할머니댁 놀러가면 먹을 수 있는 진한 된장의 맛! 완벽한 집된장의 맛! 매콤닭갈비 금방 다 먹고 닭목살도 시켜봤어요 처음 먹어보는 닭목살! 닭",
+            "url": "https://m.blog.naver.com/jasmine5002/223226352274",
+            "nick": "Jasmine",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMzBfMTQ0/MDAxNzA2NjEzOTE0OTE4.3ExpTd7T5dxC9HNKf1f0tOFAOznTea5Sh8IFScZ9gycg.Drub59Vk1zfw401etmDegfck5CNz-TIvxj7pGki-Vigg.PNG.mijung7743/profileImage.png"
+          },
+          {
+            "sid": "34043861",
+            "bodySummary": "오늘은 어제 다녀온 #춘천다락숯불닭갈비앤생고기 식당을 리뷰하려고 합니다. 점심시간에 갔어요. 점심치곤 이른 시간이어서 그랬는지 저희밖에 없어서 아주 편안하게 식사를 할 수 있었어요",
+            "url": "https://m.blog.naver.com/wins86kr/222706706558",
+            "nick": "달콤한영혼",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTAzMTJfMjc2/MDAxNjE1NTE3ODM2Njc2.Qyf8r844Cgbm0ggRkxx6VBx0iltKj2QTYFlSMn5lZaYg.ryL8Y4yre1U-xBL2TdJgtmGVle-fCuvd-wILo2vup1og.JPEG.wins86kr/profileImage.jpg"
+          },
+          {
+            "sid": "34043861",
+            "bodySummary": "춘천 하면 또한 닭갈비다. <다락 숯불닭갈비 생고기>, 춘천역에서 차량으로 3분 거리. 춘천역에서 자분자분 걸어도 15분 거리다. 평일 점심이란 한적하기 이를 데 없구나. 장년의 ",
+            "url": "https://m.blog.naver.com/mahastha/222671253351",
+            "nick": "홍대고양이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxODA0MjdfMzgg/MDAxNTI0ODI4ODk3MDQx.Es8O7fHO8tEc8HLW8tuYcP2Og299YOHqHjBKquuIZesg.39fKf2JPwXtL-z_8b6Tdx55lmKtV7L0LVEwtN_5mF4Ag.JPEG.mahastha/1.jpg"
+          },
+          {
+            "sid": "34043861",
+            "bodySummary": "[춘천 다락숯불닭갈비] 매일 10:00 - 22:00 포장 가능, 전화예약 가능 숯불닭갈비 12,000원 돼지갈비, 소갈비, 생삼겹 12,000원 * 기준 나는 춘천 가는 게 일상",
+            "url": "https://m.blog.naver.com/happych8rry/222631391119",
+            "nick": "데이지",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMDdfMzIg/MDAxNzA0NjAxMzYxOTEx.Cr47EyopT8QCi77-nPnJbGgslJDxfAG5FvOlm18FyyMg.TQLxk67Wc1d4wENvUcxIbwEVtzmGKj73p-XO10gHnVwg.JPEG.happych8rry/profileImage.jpg"
+          },
+          {
+            "sid": "34043861",
+            "bodySummary": "그리고 아직 불을 켜지 않아서 어둡지만 벽 너머 룸도 두 개 있는 듯 메뉴판도 잘 찍혔겠거니 했는데 흐리게 찍혔네 흑흑 메뉴 닭갈비·돼지갈비·생삼겹살·소갈비살 모두 1인분 12,0",
+            "url": "https://m.blog.naver.com/dvm60/222546216212",
+            "nick": "붓따",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA5MjZfNDQg/MDAxNjMyNTgzNzU0ODA5.EJKTvptLbZBzzopmZfZi4Uq12atmkIA9bP_ZBroK1esg.zpU5iSDKDCV2b4WPWsK52jQQyk9kOWv2_SDAGcvCbuog.JPEG.dvm60/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "id": "32586048",
+        "name": "꺼벙이 소양점",
+        "x": "127.723557",
+        "y": "37.884058",
+        "distance": 0.211,
+        "categoryName": "김밥",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220186"
+          ]
+        ],
+        "category": [
+          "분식",
+          "김밥"
+        ],
+        "reviewCount": 272,
+        "averagePrice": 3000,
+        "address": "강원특별자치도 춘천시 소양로2가 157-7",
+        "roadAddress": "강원특별자치도 춘천시 소양로 122",
+        "abbrAddress": "소양로2가 157-7",
+        "shortAddress": [
+          "강원 춘천시",
+          "소양로 122"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "강원특별자치도 춘천시 소양로2가 157-7",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjhfMjYw/MDAxNzUxMTEwNTMwMzky.Upu0W2THaXIrUcfFYc-xny5EGHRUdQeUfYTpwqRdapUg.8LaZb59ogluP_-RqrkySX_yFubu_CVxzq2gUdEXmfDMg.JPEG/20250628_141352.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTJfMjU3/MDAxNzUyMzE4MzIzNjU5.9cOmvOpSaWovrehM5v2_QamIFwlUKr81XG23gndt2kwg.Y7S9kGYPDfHnT9Dcw2axEq_aNLXuQ9hcTPgUPjgoFVsg.JPEG/20250712_122445.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20181229_130/1546041524842Tiyr9_JPEG/y0bZ0pSRUHnc98LRl3wyaz3l.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MzFfMTY0/MDAxNzQ4NjkzMjcxODUx.hsk5QUzZvXq9drhO1pQBeVQ0DVz1hPeLfb3pTeNiHOkg.W71PhsxJmUL49Bntj5i4LF9FFy0Ag0aR-VsAgN34b1gg.JPEG/20241017_225208.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20190120_272/1547976659711ChUB1_JPEG/Vgwmp3zFWKl37yzzHNgmKzCa.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220186",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "32586048",
+            "bodySummary": "하나로마트 춘천농협본점과도 가깝고 춘천역과도 가까운 편이에요 참, 그리고 여기는 포장만 가능하답니다 배달은 아니 되고 포장 전문점이에요 ! 외관에서는 오래된 세월의 흔적이 느껴집니",
+            "url": "https://m.blog.naver.com/txrxk/223190818568",
+            "nick": "토록",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTEyMjdfOTcg/MDAxNjQwNTY5OTgzNzEw.orne1P_XSRVYXnuterZ50XitxpuLMGdaFfNjPjuZFfwg.OD0VFw2_8R0ZCSAc-a2P9sCRBmi8RNcnO6cnuUbdhLwg.JPEG.xhdhr5/KakaoTalk_20211227_105231428.jpg"
+          },
+          {
+            "sid": "32586048",
+            "bodySummary": "꺼벙이 소양점 주소 : 강원 춘천시 소양로 122 전화 : 033-252-0866 영업시간 : 화 ~ 일 : 08 :00 ~ 19:00 매주 월 휴무 김밥, 만두 두가지만 포장 판",
+            "url": "https://m.blog.naver.com/sung-a_/223093208914",
+            "nick": "우아한 류",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMTNfMTY0/MDAxNzA1MTE5NTY3NzY5.cmv0DQa4VDxn3FgBgVtyyiQNnaY6wkcxtWucxJ_1QU8g.-G3fE2k0tOVuosNFwV_mhgUjcAREF52QO10JNHbJioMg.PNG.kimmi9424/profileImage.png"
+          },
+          {
+            "sid": "32586048",
+            "bodySummary": "꼬마김밥으로 춘천에서는 쌍벽을 이루는곳이죠 단점이라고하면 국물을 안줘요 다른곳은 국물요청시 주거든요 아쉬워요 가격인상 ㅜㅜ 고기만두 김치만두 #춘천분식 #춘천꼬마김밥 #춘천꺼벙이네",
+            "url": "https://m.blog.naver.com/chuncheon_uncle_j/222714834080",
+            "nick": "엉클 J",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA4MjdfMTc3/MDAxNjMwMDQ5MDczMTE2.MVn67zyAU668ja3mmr2pprDxnHLU03aZzknhRp7GxFUg.qM1E-5MNQE-Lsx7CIqrn20wHKBpnIx_x-GdjpGI4oJ0g.JPEG.chuncheon_uncle_j/profileImage.jpg"
+          },
+          {
+            "sid": "32586048",
+            "bodySummary": "길게 고민할 것도 없이 춘천 현지인이 추천한 김밥과 만두 맛집이 춘천역 근처에 있었으니, 그 이름은 바로 '꺼벙이'! 춘천역 김밥&만두 맛집 꺼벙이 위치 정말 오래된 가게라고 하는",
+            "url": "https://m.blog.naver.com/danbinspencer/222684044705",
+            "nick": "단비타민",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjEyMDRfNzcg/MDAxNjcwMTQ5ODIwNTc0.1_RmggekjC4IguzZrHiqZgATR4Nj8ZhmbrhsPK9zgzwg.J18-vHtIyxxhRYMIAobGg-MQM42GNAL2grI5IH6MMRYg.JPEG.danvitafish/naver.JPG/naver.JPG"
+          },
+          {
+            "sid": "32586048",
+            "bodySummary": "특히 꺼벙이 꼬마김밥최고 최고 ! 꺼벙이 수제꼬마김밥 만두 주차장은 따로 없어욥 홀은 따로없고 포장해야 돼욘 영업시간 오전 8시~ 오후8시 (재료소진시까지) 매주월요일휴무 키키킼 ",
+            "url": "https://m.blog.naver.com/whdkwhdk190/222422743636",
+            "nick": "요미야미",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAxMTNfMjA0/MDAxNjczNjE5MDEyNjM0.lAYVcl_CmKDJpGg_qI-04TKzKnMiL97FhI6jPXNtC5Ig.Z__8WIF9OWulEnIorTjzG_YSpMcEGPyk8O2IxYMWH-4g.JPEG.whdkwhdk190/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "id": "1722681086",
+        "name": "카페두잇",
+        "x": "127.7236337",
+        "y": "37.8841977",
+        "distance": 0.222,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221212"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 113,
+        "averagePrice": 5000,
+        "address": "강원특별자치도 춘천시 소양로2가 157-2",
+        "roadAddress": "강원특별자치도 춘천시 소양로 122-2",
+        "abbrAddress": "소양로2가 157-2",
+        "shortAddress": [
+          "강원 춘천시",
+          "소양로 122-2"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "커피에 진심인 사장님 :) 좋은 원두의 커피와 음료를 손님에게 드리기 위해 항상 고민합니다  *라떼 음료는 크림 추가 가능합니다! *사이즈업 +500원 *샷추가 +500원  >>영업시간<< 월요일~토요일 오",
+        "description": "커피에 진심인 사장님 :) 좋은 원두의 커피와 음료를 손님에게 드리기 위해 항상 고민합니다  *라떼 음료는 크림 추가 가능합니다! *사이즈업 +500원 *샷추가 +500원  >>영업시간<< 월요일~토요일 오",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjZfMTQz/MDAxNzQ1NjQ3MDM0NTU3.g-SeDfLEN-21nujPFu7PtxfZf8qdmP_aY7WF-XFNRFkg.C2N0quxggF_CD7cz_RKn5PqjJb2AxIl5Q8bXWy1M4dsg.JPEG/20250426_145608.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjZfNDIg/MDAxNzQ1NjQ3MTIxNjg3.Zdf6ieBcJa3qvgHHn4ax5vfe4xDM7lKtY_wdDY1e-X0g.ETY6QRxJj2Q6lsMiWMaLdHm8H_l5I3SA0r741wpt4dMg.JPEG/64C0C96F-0CE4-4832-9A07-17F89984B79E.jpeg",
+          "https://ldb-phinf.pstatic.net/20220629_186/1656480429295lY7OG_PNG/%C1%A6%B8%F1%C0%BB_%C0%D4%B7%C2%C7%D8%C1%D6%BC%BC%BF%E4_-001.png",
+          "https://ldb-phinf.pstatic.net/20220706_238/1657088545670LndcU_JPEG/20220706_151454.jpg",
+          "https://ldb-phinf.pstatic.net/20220706_69/16570885458288HOSC_JPEG/20220706_151634.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221212",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "1722681086",
+            "bodySummary": "바로 요기 ↓↓↓↓ 카페 두잇 CAFE DO IT 강원 춘천시 소양로 122-2 소양로2가 157-2 춘천역 1번출구 765m ☎033-257-7880 영업 9:00~20:00 (",
+            "url": "https://m.blog.naver.com/jk960413/223031583815",
+            "nick": "까르르",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDA4MjdfNzkg/MDAxNTk4NTE5NjI4NzQ5.EKf834H2pKUvb899R7EFrP47YrB8YhMjgP-IcvpEnoMg.V80l3IrYMYjAQedfdW5CzH1jNxGdY2oo50fzf8xfZSkg.PNG.jk960413/KakaoTalk_20200827_175841546.png"
+          },
+          {
+            "sid": "1722681086",
+            "bodySummary": "소양로에 있는 춘천 농협 본점에서 번개시장 방향으로 걸어 1분 거리에 있는 2층 건물 《카페 두 잇》 은 간판이 작아도 찾기는 쉬웠어요. 주소 : 강원 춘천시 소양로 122-2 영",
+            "url": "https://m.blog.naver.com/nam2four/223006452621",
+            "nick": "평화바라기",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20210402_173/nam2four_1617350655574I6eEM_PNG/avatar_profile.png"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "id": "1537980924",
+        "name": "카페꿈자람",
+        "x": "127.7185339",
+        "y": "37.8813604",
+        "distance": 0.341,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 319,
+        "averagePrice": 0,
+        "address": "강원특별자치도 춘천시 근화동 199",
+        "roadAddress": "강원특별자치도 춘천시 평화로 25",
+        "abbrAddress": "근화동 199",
+        "shortAddress": [
+          "강원 춘천시",
+          "평화로 25"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [
+          "함께하는 가족 나들이의 완벽한 선택"
+        ],
+        "cardDescription": "함께하는 가족 나들이의 완벽한 선택",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTAzMzBfMTg1/MDAxNzQzMjg3MjMzNzE5.ltQEQ90G4jyBkCQpR5ai1g3T6brIkfZzBNu20MsybMwg.fP-DUxfsNxmLkOC-bAC_GbqoAf1jAMVgQSyu-BHu1MYg.JPEG/20250329_170136.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDhfMzAw/MDAxNzU5ODg4MTc1NDAw.tw-nZsywJnE3VrFUjgfmFnjgHw5UzdImfffjOb2HF_Qg.-SMjVRtQs7sgTUHDRDh-UPawX_jTh4IlaxqE26vCAiUg.JPEG/20251007_143739.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 7,
+        "id": "1920899675",
+        "name": "명륜진사갈비 춘천소양로점",
+        "x": "127.7238367",
+        "y": "37.8843741",
+        "distance": 0.246,
+        "categoryName": "육류,고기요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "1001880"
+          ]
+        ],
+        "category": [
+          "한식",
+          "육류,고기요리"
+        ],
+        "reviewCount": 199,
+        "averagePrice": 30000,
+        "address": "강원특별자치도 춘천시 소양로2가 156-10 1층",
+        "roadAddress": "강원특별자치도 춘천시 소양로 124",
+        "abbrAddress": "소양로2가 156-10 1층",
+        "shortAddress": [
+          "강원 춘천시",
+          "소양로 124"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "[대한민국 '고기테마파크' 명륜진사갈비 춘천소양로점]  **4,900원 생맥주 무제한 EVENT**  거꾸로 차오르는 시원한 생맥주가 한잔 값 4,900원에 완전 무제한!  신메뉴 후려페퍼 스테이크부터 숯불돼 ",
+        "description": "[대한민국 '고기테마파크' 명륜진사갈비 춘천소양로점]  **4,900원 생맥주 무제한 EVENT**  거꾸로 차오르는 시원한 생맥주가 한잔 값 4,900원에 완전 무제한!  신메뉴 후려페퍼 스테이크부터 숯불돼 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjFfNjAg/MDAxNzU4NDU2ODM4OTYy.dU1p28z_BwiSchsJ6sJaozeEtwcf03ZKYT39_0ixL9wg.GHR5FhpIdhyoWpA64yN6h_we1LOB-WwM5lC0wugGqfMg.JPEG/20250914_203002.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjFfODYg/MDAxNzU1NzUwNTkwMDk4.4vgw8t7--oyV0A_YWSRQb7rCKpx8xnHMj1qSw4z5MMYg.eLe5mIllLZsPKk6zAVRL2PRnVv57-wfKR1SXvK4gb80g.JPEG/20250821_123354.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250809_110/17546992865831q1sz_JPEG/1000010211.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDJfMjc3/MDAxNzUxNDMxMzczMjY5.hMOUBWLsxtpmsQrpketNKN7C7_9RE6gkrOI4CxUbXQkg.jArIxK8z6cEwZKSzatzUa40PRVnscrZUBwu8CuWIWUEg.JPEG/image.jpg",
+          "https://ldb-phinf.pstatic.net/20241107_169/1730953020968QphLe_JPEG/KakaoTalk_20241107_110716611.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDRfMjQg/MDAxNzQ5MDMyMTE3OTUw.pxi6Kd3eZ3QbO4GTZ2w6dpdDwhGppYJcDubBe2ROP48g.4xAoupnbvq5RpkufjQ6VWSPJROASWzCZLqwei0SzMgQg.JPEG/C116D706-A320-4F23-8A0E-6668D8D14932.jpeg",
+          "https://ldb-phinf.pstatic.net/20250624_227/17506914332269s2ov_PNG/1000008565.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjBfMzMg/MDAxNzU4MzU5OTA1MTY0.FaPYobruU-90IyY0ixIlvDPh0Xnaw9gLfsw3k738nckg.mkmW-oUvMeOF5IUWNA8agy34Bsq5IGDt2fnHBkuVx-Ug.JPEG/20250920_181011.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTFfNjMg/MDAxNzYwMTcxODIzNzYy.ELkpEiSb9FKX0Oy-ubGC5uWpV_eCGcB7Bb1Kx3NuQWkg.1pfydOTUbOpGLa-QMGUT4SydGo1UgklNFDKu6cq2aqog.JPEG/20251011_173544.heic.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDlfMjAx/MDAxNzUyMDUzMjA1NjE5.JpU6rlve3PE_1-zsFVfKpQkhGWA51qEGjhMKiLqqDnAg.iYpvlxPne-FprBZEPbgMBg-GlmL1dQ5ve-IkyjjpSMsg.JPEG/20250709_182541.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1001880",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 8,
+        "id": "1108832462",
+        "name": "와이엠푸드",
+        "x": "127.7239432",
+        "y": "37.8824098",
+        "distance": 0.269,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 82,
+        "averagePrice": 0,
+        "address": "강원특별자치도 춘천시 소양로3가 175-5",
+        "roadAddress": "강원특별자치도 춘천시 금강로 11",
+        "abbrAddress": "소양로3가 175-5",
+        "shortAddress": [
+          "강원 춘천시",
+          "금강로 11"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "강원특별자치도 춘천시 소양로3가 175-5",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 9,
+        "id": "32040561",
+        "name": "광치해장국",
+        "x": "127.7232069",
+        "y": "37.8829031",
+        "distance": 0.187,
+        "categoryName": "해장국",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220068",
+            "220693"
+          ]
+        ],
+        "category": [
+          "한식",
+          "해장국"
+        ],
+        "reviewCount": 580,
+        "averagePrice": 5000,
+        "address": "강원특별자치도 춘천시 소양로3가 175-1 1층 광치해장국",
+        "roadAddress": "강원특별자치도 춘천시 소양로 108",
+        "abbrAddress": "소양로3가 175-1 1층 광치해장국",
+        "shortAddress": [
+          "강원 춘천시",
+          "소양로 108"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [
+          "단백한 맛의 선지해장국 추천"
+        ],
+        "cardDescription": "단백한 맛의 선지해장국 추천",
+        "description": "1.선주문 및 예약불가 2.포장시 해장국만 용기 포장(밥,무김치 필요시 각 1천원 추가) 3.물과 물수건은 셀프 4.재료소진 시 영업종료합니다. 5.임시휴일은 공지 및 가게에 미리 부착합니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDdfMjI4/MDAxNzU5ODAxNzEyNDI3.cf5TMPK-xdsdeTFjMXNPXLx0aGGOFoASunvjmMNZXXYg.A5CC1e-24DbbOgbLSLcsQjokpdcCWftKjplzkUtYNiQg.JPEG/20250918_184302.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDRfMjM5/MDAxNzQ5MDM4OTA5ODYw.ZLT33wuUzLmg15jS5iH_uqg6AE1Aje4pf1iTPy__0WIg.6-vqP5EgjqvNj-7FBi9CUixp9hl33qIIclaM2GuMlwMg.JPEG/20250604_180758.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20241231_299/1735647535524f2JY8_JPEG/1000010306.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjNfMTcw/MDAxNzUzMjU0ODUxNDY5.UhLlwP1HAyKW5VZi3fUK2G_bGW-azNvbVU5bVkNJGhQg.1UNT_pkvqdaMMi4WRh4eGnl2OLPHcY0r8hUtCdpXgzsg.JPEG/D78B3D57-FA8E-4533-BC3A-EDACDDAA1A35.jpeg",
+          "https://ldb-phinf.pstatic.net/20211216_268/163965332092845QyI_JPEG/Screenshot_20211216-102114_NAVER.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTVfMTU4/MDAxNzYwNTAyMDgzNTAz.732IdJmFAfAFtA9ZCC2EGKEVO9LNOP6XhwGGACkRHZkg.-CZ7q1tAf3hJD7IqR0znX_V9PTqEeCGOi3smckhQCpQg.JPEG/29517796-6610-440F-ABD5-5867F77830E1.jpeg",
+          "https://ldb-phinf.pstatic.net/20211216_16/1639653339672noXAz_JPEG/Screenshot_20211216-102102_NAVER.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDVfMjkz/MDAxNzQ2NDExMzkyMzI4.H_-TLdOUJaK7Zc4zjO0WqoUGIJiCzxwu4Iqke7Dje14g.QnVWiprno4M9IYoxveVbS3967BeC-05demg2ksVQyNIg.JPEG/20250503_120425.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDNfMTI4/MDAxNzQ2MjY0MTc2NDkw.FhVS8VXazOhjfR7FIjBifdHEKADeo4zcaKkeed8TDn0g.N0KBCroZLRzb0kQKmzeJ2PKQzoYeS_dvgTGZo0QA0fAg.JPEG/20250503_090555.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjlfMjc5/MDAxNzQ1ODUzNTk1Nzg4.ON747epfWYvgi1_CwIT-QWHeLTARUxIAW3JagFC0XUcg.IwBtEm--8G2rME_lVrK3MYzEjU3HjNudxPF_Ak_g7Uog.JPEG/20250427_122639.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220693",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.44",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "32040561",
+            "bodySummary": "저렴한 가격에 둘이 먹다 하나 죽지않을 양과 신선함이랄까? 선지 오래되면 맛없는거 알죠 광치해장국하면 선지해장국이 유명한데 나는야 청개구리야 내가 끌리는 메뉴로 선택할테다 얍 우거",
+            "url": "https://m.blog.naver.com/bronze_yam/223319993261",
+            "nick": "앱동이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDExMTFfMTg5/MDAxNjA1MTAxNzY2NzA1.DRm1qscuB7b9IIdyFHD52t44Bzm1hkYTfhZIU7hAmcog.ChouR_VGA3KtjOlR0jyhaLQ8YJN5sq0sW2R4smsz4dcg.PNG.bronze_ho/profileImage.png"
+          },
+          {
+            "sid": "32040561",
+            "bodySummary": "국물 맛이와... 진짜 장난아닙니다 지인이 시킨 선지해장국의 선지도 아주 실해요 ITX 춘천역에서 도보로걸어갈 있어서 전 날 술드셨다",
+            "url": "https://m.blog.naver.com/jarong2002/223314103290",
+            "nick": "jarong2002 자롱",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA1MjZfNDAg/MDAxNjUzNTYzODAzNDQ0.EP5Ps6gOaltMlyhVf8C1ow0lJfvbH2krcsVTYCky22gg.iHGAHAga5GUkWstsQ8cC0cxgvG6JSsTiyIf_WUG83q0g.PNG.jarong2002/profileImage.png"
+          },
+          {
+            "sid": "32040561",
+            "bodySummary": "광치해장국, 단돈 오천원에 즐기는 푸짐한 선지해장국 광치해장국 033-253-1100 강원 춘천시 소양로 108 1층 광치해장국 (소양로3가 175-1) 06시30분-19시30분 ",
+            "url": "https://m.blog.naver.com/yo_timmmmm/223286750045",
+            "nick": "요팀",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA4MTVfMjAg/MDAxNjkyMDY3MTk5NjUx.yCcNBk7gvAvaYwRbT3K-8E3klN-3HYtZPn0z2qV4CZIg.hFJtGk9bKS7stg2LJa7bztgoWVjxiwC0jVyzKRln7jog.PNG.yo_timmmmm/profileImage.png"
+          },
+          {
+            "sid": "32040561",
+            "bodySummary": "광치 해장국 ●영업시간 : 06:30-19:30 (브레이크 타임: 15:00-19:00) ●주소: 강원도 춘천 소양로108 1층 ●전화번호: 033-253-1100 외관 이 문을 ",
+            "url": "https://m.blog.naver.com/yumranger/223254760916",
+            "nick": "해피데이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMDZfMTIz/MDAxNjk5MjAzNjYyNTMw.i3wMK85Cjzv1RGRoBk8OJSwExXh2vc41EKg6rODYyfYg.boE7rkGGDSCGLQxf62v3S203DPXl-nO39CEoWjzrr20g.PNG.sunwoo8618_/%25EC%25A0%259C%25EB%25AA%25A9%25EC%259D%2584-%25EC%259E%2585%25EB%25A0%25A5%25ED%2595%25B4%25EC%25A3%25BC%25EC%2584%25B8%25EC%259A%2594_-001_%25283%2529.png/%25EC%25A0%259C%25EB%25AA%25A9%25EC%259D%2584-%25EC%259E%2585%25EB%25A0%25A5%25ED%2595%25B4%25EC%25A3%25BC%25EC%2584%25B8%25EC%259A%2594_-001%2B%25283%2529.png"
+          },
+          {
+            "sid": "32040561",
+            "bodySummary": "1년만에 다시 모인 물암골클럽 4인방 춘천역 오전 8시반에 도착해 근처 뜨끈한 국밥으로 첫끼해결 후 자전거 탈 예정 광치해장국 영업시간: 6시30분-19시30분 (15-17시 브레",
+            "url": "https://m.blog.naver.com/dla756/223242720666",
+            "nick": "임뗑찌",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAzMDhfMjEy/MDAxNjQ2Njc2MDYyMDA3.cOGT8CKH0XbWqkhTUXqZq34Nv50QDuleoYXY8cHwdHsg.oLZ00DZxVpH11elaeH6DOjAcd5dA4olZcd-ApchRmUkg.PNG.dla756/profileImage.png"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,2020 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 32,
+      "count": 32,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.835,
+          "minY": 37.66090450450451,
+          "maxX": 126.8406897424055,
+          "maxY": 37.66540900900901
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.83784487120275;37.66315675675676",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1577925585",
+        "name": "카페 반디",
+        "x": "126.8356778",
+        "y": "37.6611423",
+        "distance": 0.294,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 34,
+        "averagePrice": 5000,
+        "address": "경기도 고양시 덕양구 주교동 576-11 카페반디",
+        "roadAddress": "경기도 고양시 덕양구 마상로107번길 8",
+        "abbrAddress": "주교동 576-11 카페반디",
+        "shortAddress": [
+          "경기 고양시 덕양구",
+          "마상로107번길 8"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "매일 직접구운 수제 디저트와 맛있는 커피가 있는 원당초 앞 카페반디입니다! 모든 메뉴 예약주문 가능합니다^^",
+        "description": "매일 직접구운 수제 디저트와 맛있는 커피가 있는 원당초 앞 카페반디입니다! 모든 메뉴 예약주문 가능합니다^^",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20241204_288/1733295525731Joj6d_JPEG/IMG_7457.jpeg",
+          "https://ldb-phinf.pstatic.net/20241204_266/173329552574025Chj_JPEG/IMG_7467.jpeg",
+          "https://ldb-phinf.pstatic.net/20220620_3/1655729193355xt8wf_JPEG/IMG_8711.JPG"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "18222792",
+        "name": "케익하우스인",
+        "x": "126.8385111",
+        "y": "37.6629081",
+        "distance": 0.065,
+        "categoryName": "케이크전문",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220565",
+            "221177"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "케이크전문"
+        ],
+        "reviewCount": 407,
+        "averagePrice": 0,
+        "address": "경기도 고양시 덕양구 주교동 568",
+        "roadAddress": "경기도 고양시 덕양구 마상로113번길 68",
+        "abbrAddress": "주교동 568",
+        "shortAddress": [
+          "경기 고양시 덕양구",
+          "마상로113번길 68"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "경기도 고양시 덕양구 주교동 568",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTlfMjg5/MDAxNzU1NTcyNjQxNzMy.VrRbKpD59IOB5aBOrEmtWhthY7XhIRMs983LNcnPLQog.TjgznMYdJIwdicjRIlcniwxxM2eUIGd_5h4rdui3SaUg.JPEG/20250819_115357.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTFfMjg0/MDAxNzU3NTU5MzY3NTQ0.folFZh1nZdsbmEKDgc_xS-STWeG_k3gPyE6Zic0Fv6Ig.fyD9R7TG2wyQKPlG4IKxuOAJ0El-TqSFY73pzTl_qmsg.JPEG/IMG_4344.jpeg",
+          "https://ldb-phinf.pstatic.net/20200226_223/1582714568830uoMTS_JPEG/gQ2yeQP8AXO66v8B5hb859Sv.jpeg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDRfMjQ4/MDAxNzU2OTU3MTQwMzk1.I5bUQahAn1zDBgqKbY8RDtsk6t-mP5lLBQafD1iZwugg.qfjYYMzOemgS1NUtZ82WZEiupXYNuMU25WAvUIjutPkg.JPEG/1000073135.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTZfMjQ2/MDAxNzYwNTk3OTAyNTM4.KNQ6_0-92j3eJpQ0y5N82MNrhMzAadlAW-CBfin0gkkg.AiX6jJpumUQhIEF9CnZL__wtavKsZqxLUQygtbpMEVwg.JPEG/1760517488749.png.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221177",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "18222792",
+            "bodySummary": "고양시 원당 주교동에 위치한 '케익하우스 인' 입니다. 우림아파트/우일시장 근처에 위치해 있고, 버스정류장, 마을 버스정류장도 근처에서 정차하기 때문에 찾아오는데 어려움이 전혀 없",
+            "url": "https://m.blog.naver.com/euuunji425/223302394884",
+            "nick": "빈이비니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMjFfMTM2/MDAxNzAwNDk3NjY2NDE2.M-Vp1YGdiGe7C8IRqpFtTHg2-7ghbiEzFXETdeUgTbYg.yNiaQoj98WHrZ_yzqwRLXILGgd4sEtOK1tw5pMs8D3Ug.PNG.euuunji425/profileImage.png"
+          },
+          {
+            "sid": "18222792",
+            "bodySummary": "오늘은 원당에 위치한 빵집 “케익하우스•인”을 소개하려고 합니다 동네에 있는 흔한 빵집 비주얼인데 빵순이인 언니가 여기 빵 맛있다고 하더라구요 그래서 바로 들어가봤죠!!! 가게는 ",
+            "url": "https://m.blog.naver.com/wltn9839/223047679479",
+            "nick": "알린이가 알려드림",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjEyMjhfMjg3/MDAxNjcyMTkzNTIzNDEw.YvGEtxxbCORgoHYItWL7Vb-zbIWhKoOU-oy7Fzr9c7Ug.Vjn3dwRmOQuQvFLk4zyXj5moP16dkCqtHR-BbzDxfcUg.PNG.wltn9839/profileImage.png"
+          },
+          {
+            "sid": "18222792",
+            "bodySummary": "햄버거도 케잌하우스인 수제 햄버거예요 케잌하우스인 with 카페 ❤️아메리카노. 바닐라라떼. 카페모카. 캬라멜 라떼와 레몬에이드. 아이스티. 각종 국화차에서부터 레몬차까지 차종류도",
+            "url": "https://m.blog.naver.com/khjung2511/223018226658",
+            "nick": "대한2겨울",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA3MzFfMjM0/MDAxNjkwNzQwMjA5NzIz.gvylotQqf-Rwt9Hcd9koDinJOJ8ENjIkyoGH2mM1ozIg.Ru1wslm5rv4FWgYODew6VSLVajCbT2YRBbOYxkb1e6Yg.JPEG.khjung2511/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "id": "1840621244",
+        "name": "해포생선구이전문점",
+        "x": "126.8381276",
+        "y": "37.6615619",
+        "distance": 0.179,
+        "categoryName": "해물,생선요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220076",
+            "220777"
+          ]
+        ],
+        "category": [
+          "한식",
+          "해물,생선요리"
+        ],
+        "reviewCount": 18,
+        "averagePrice": 10000,
+        "address": "경기도 고양시 덕양구 주교동 38-13 1층 113호, 114호",
+        "roadAddress": "경기도 고양시 덕양구 원당로 112",
+        "abbrAddress": "주교동 38-13 1층 113호, 114호",
+        "shortAddress": [
+          "경기 고양시 덕양구",
+          "원당로 112"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [
+          "얼큰한 동태탕과 술 한 잔의 조화"
+        ],
+        "cardDescription": "얼큰한 동태탕과 술 한 잔의 조화",
+        "description": "동태탕과 화덕생선구이 전문점입니다 이모님 손맛의 각종 밑반찬과 생선구이주문시 미역국이 함께 제공됩니다",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDhfMTk4/MDAxNzUxOTg0Mjk3NDY4.qQ27sqt9tKqo4FGSkhXgJl-tC5-3WydkaPlqqgCaeRYg.ekltMfGHKzUd3WUS5WvleneLsl9gBL1GIzlyhegO-u8g.JPEG/20250708_201240.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTJfMjE2/MDAxNzQ5Njk3ODA2ODUz.d-f_-ScUPanwb6hnBzrjnm3R0uutReHu_oLGj4qlLm0g.103dorr4y-IoeXeOucaP8Zzwp0Fu4V2oo8v7bJBpdBMg.JPEG/20250611_141023.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250418_152/1744957561573SLAOD_JPEG/1744957495748-1.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTRfMTkz/MDAxNzU1MTM4MzEzNTA2.HHnd-nD8RdvHbWG2a0dLtoGQ-6HwwUR0gxsVi4-1rPMg.m6d3TkX3tURW5X1cCwr3ZJrqwSlNji16F7HkicH5twEg.JPEG/00C0C095-31A9-4553-9159-FCBB538ABA8F.jpeg",
+          "https://ldb-phinf.pstatic.net/20250418_136/1744957634872n4XMM_JPEG/1744957440995-4.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjlfNDcg/MDAxNzU5MTI5MDU3NTU3.lt8gMzbNJqIPPpg8gcVMlf6pt9-DMtBM8WGRiGvfOXsg.60JYY0xL3DpvmNvhHVuTV11F6m2i_xxxpk6V2c0m4WEg.JPEG/20250929_151129.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250418_96/1744957602272KaKSn_JPEG/1744957495748-2.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDhfNjIg/MDAxNzQ2Njc0NTY1NDc2.dyQylIkgecyEpmrelTm26-FFafEKFv_-HUU2O0J8d08g.ChKRVmdX6h_fqtGV3RHrk2iIaG5mLu4kipFE7i40Lwwg.JPEG/20250508_114418.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220777",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 4,
+        "id": "33273779",
+        "name": "미각",
+        "x": "126.8392114",
+        "y": "37.6624279",
+        "distance": 0.145,
+        "categoryName": "중식당",
+        "categoryPath": [
+          [
+            "220036",
+            "220039",
+            "220091",
+            "220861"
+          ]
+        ],
+        "category": [
+          "중식",
+          "중식당"
+        ],
+        "reviewCount": 3087,
+        "averagePrice": 5000,
+        "address": "경기도 고양시 덕양구 주교동 26-9 미각",
+        "roadAddress": "경기도 고양시 덕양구 원당로 124",
+        "abbrAddress": "주교동 26-9 미각",
+        "shortAddress": [
+          "경기 고양시 덕양구",
+          "원당로 124"
+        ],
+        "displayContext": [
+          "찹쌀탕수육",
+          "중국집",
+          "해물짜장",
+          "보양식",
+          "화려한"
+        ],
+        "labelTheme": "착한 가격",
+        "microReviews": [
+          "바삭함으로 완성된 탕수육의 매력"
+        ],
+        "cardDescription": "바삭함으로 완성된 탕수육의 매력",
+        "description": "1층 홀 &개별룸 &좌식 150석/ 지하 대연회장 100석/ 주차 50대 가능 / 전화예약가능  회식/칠순/돌/백일/상견례등 단체모임에 좋은 미각입니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjJfMjU3/MDAxNzU1ODU3NzM5MzM2.139cW7FU5XW0HgaR57Pu2KSmUwCek3RtsTqXA2HvnVYg.u33WntdSPsJBVZd9u0fcj_TeSO1slTaLXNaXykgPeaQg.JPEG/20250822_190126.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDZfNTIg/MDAxNzU3MTI4MzAwODc0.-4XJ2y-VeQtEXgJMhRPP3sK2yrjSe8Da8dixJMtgmMAg.rQk4XJfMNbq-E47pHoR68zEH0G1E_u-3XJR0n_wSKOwg.JPEG/0CBEAD42-E9AC-4036-9508-D30637DED1FE.jpeg",
+          "https://ldb-phinf.pstatic.net/20230520_279/1684556401152sFdUg_JPEG/IMG_5798.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTdfMTQ0/MDAxNzU1Mzk5OTM4NTIw.HKfH3ILkgcF7ZpsRH1ncarqvEffx3NOJuYyCYeJY_igg.UL4Sh0OCQhaDObgwqgAvKpMTX81Ie_l3BUA28c4_4Sog.JPEG/B4601E93-566A-40BC-909E-A4F15AA48D54.jpeg",
+          "https://ldb-phinf.pstatic.net/20230520_113/1684556448361ti2mR_JPEG/IMG_5800.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMDJfMTkw/MDAxNzYyMDY0OTMxMjkx.dkfL3vhMmV-fhc9S1Ru5MleFl5ZQic72SK3x2A0bWuYg.jr5mmrGxv1ARVQRyhb548yBjUo5mbRYU5lp_QW_KFvQg.JPEG/20251102_120228.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20171130_105/1511980929016evjiH_JPEG/image.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjhfMTEx/MDAxNzUzNjk2Nzg2NjE5.xPRmSWbvaMs73u2zlHEZA3KdA4B5sSLWryNd87oWVVMg.KB-XfDcygPWqY6DdiaTuJ8KayKdcea2ZoRgWNBCt_Ewg.JPEG/1000102176.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTlfMTYg/MDAxNzYwODU3Nzg1MDc1.L9fS6MTiIH4ME2VNoQANfivukXAiDfpAa-9tPZ3ic5sg.qBeTnkwdUhm5Na5sQtllcpydJmtPkg9z-2h4QviTmV0g.JPEG/20251019_160632.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMThfMTEg/MDAxNzYzNDQwNTA5MzY0.bePOy30PRb4h3rh2YuyQlKZUm_r9rpjPIHq1vguhU1Eg.SWNNcUgbGpEWpB9p8sRexUSUCOfE4Uf_frR3qQw16dIg.JPEG/40219C70-A4E5-43C1-85AF-297A03300A7E.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220861",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.2",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "33273779",
+            "bodySummary": "약간 랜드마크 같은 느낌이라 매번 지나가면서 궁금했던 곳이라 포장, 배달도 자주 먹었는데 직접 방문은 처음이었어요.미각의 장점 주차장이 정말 넓어요.원당에서 주차장 넓은 식당 찾기",
+            "url": "https://m.blog.naver.com/aka_bb/223389238982",
+            "nick": "이로아",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEwMzFfMjcx/MDAxNjk4Njc5MDM1MjQ4.AKdL15x3tY4tFU--pzJG4FhfpUswOcwfz0XHZLajTzUg._ow2h3GH6BNSjgDWEvcBOUQV36fbrhzUedqEMV1jw6Yg.PNG.aka_bb/profileImage.png"
+          },
+          {
+            "sid": "33273779",
+            "bodySummary": "중층의 큰 건물을 뜻하는 누각에서 운영하는 중국집이 많았기 때문에 그 뜻을 따서 ~루, ~각 이라는 이름을 딴 중국집이 많이 생겼다고 하네요. 신기한 역사와 명칭의 세계..! 미각",
+            "url": "https://m.blog.naver.com/jigimigi/223317611598",
+            "nick": "지기미기",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMDZfNDcg/MDAxNzA0NTQ0NTMwMzI2.QNH8TnLpJUdq7hJskSwUtA_bR9erGoBeSDKWTRdxbGUg.8XrXFZHE7twNP30OMxbMsI-OruYMq3WwNoebGXNMQYAg.JPEG.ansrud2ekt/KakaoTalk_20240106_213357528.jpg/KakaoTalk_20240106_213357528.jpg"
+          },
+          {
+            "sid": "33273779",
+            "bodySummary": "원당중국집 영업시간 매일 10:30 ~ 21:00 브레이크 타임 16:00 ~ 17:30 주말&공휴일은 브레이크 타임 X 지상주차 건물 앞쪽에 가능 원당중국집 원당은 어렸을 때부터",
+            "url": "https://m.blog.naver.com/rladlstlr23/223239699199",
+            "nick": "삼식이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMDZfMTE3/MDAxNzA5NzI5MTQ5NTI1.n5Jlr_HlXiU-ad_wyvYZ5ut202NZGXmqKUcJANjHcQUg.f6Bx1nMhXBnZkJEko6i0W4Ag1oyWKq0WOxCfjADbmUUg.PNG/profileImage.png"
+          },
+          {
+            "sid": "33273779",
+            "bodySummary": "안뇽하세요 남펴니랑 고양시 덕양구 원당에 위치한 미각을 다녀왔습니다 :) ¶경기 고양시 덕양구 원당로 124 단독건물 미각 월~금 10:30 - 21:00 16:00 - 17:30",
+            "url": "https://m.blog.naver.com/dkdudcjs3103/223187819129",
+            "nick": "아융",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMDNfNTkg/MDAxNjk4OTQyNjczMDc4.08woSj7nYd52E_lk29wiDF6AdwuKr6n6sRr_mm-qlYAg.UgOPNPHpEmCmSKIDigr0dMH6jlzjb6-xBjn_g6h9058g.JPEG.dkdudcjs3103/1056.jpg/1056.jpg"
+          },
+          {
+            "sid": "33273779",
+            "bodySummary": "미각_셀프 코너 응...? 셀프 코너가 있었나...? 아무튼 생겼습니다! 앞접시, 가위, 포크, 반찬 이렇게 있어요 먹을 수 있는 만큼만 드시길 바랍니다 진짜 집 앞에 있는 짜장면",
+            "url": "https://m.blog.naver.com/hampodong93/223157439581",
+            "nick": "햄포동",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMThfMTg5/MDAxNzEwNzM0ODk1MDc2.RMMV7E0rHtaggsf9RePVouuR8ay2kc0GB1X3pqTPctIg.KaL4S258wGcNc-kI1Qrv9htDlTrJAyMVuGMrSXm8O1Qg.PNG/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "id": "18222695",
+        "name": "제주흑도야지",
+        "x": "126.8377552",
+        "y": "37.6626543",
+        "distance": 0.056,
+        "categoryName": "육류,고기요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220733"
+          ]
+        ],
+        "category": [
+          "한식",
+          "육류,고기요리"
+        ],
+        "reviewCount": 133,
+        "averagePrice": 15000,
+        "address": "경기도 고양시 덕양구 주교동 567-9",
+        "roadAddress": "경기도 고양시 덕양구 마상로113번길 55",
+        "abbrAddress": "주교동 567-9",
+        "shortAddress": [
+          "경기 고양시 덕양구",
+          "마상로113번길 55"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경기도 고양시 덕양구 주교동 567-9",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjZfMTQ5/MDAxNzQ1NjcwNjQyNzc2.4ZeewJ9JwD-qy2c0IEaxS_P8eSj6tkAaUwz0y7NxYJ8g.3YXpb8dmGlQv09x0ti4ucIGJthP1xSpGYg2atCdzi-sg.JPEG/F9B0ED60-61BF-4FF2-9488-2E7D5479F555.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTBfNTkg/MDAxNzQ5NTM3NzAwNDY2.EZTAjSPlfh1DvsFi8B6WHfV-ALS7LJL2-WWBi_XSk7Ig.zSOKq5AmD0vDcWHU5ILryCw_KTD3uGmIFYFsZNa56Xcg.JPEG/20250608_173706.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20200226_123/1582718030829xoE6N_JPEG/NeSIZz7TMG2kErZ4UQeT0aAW.jpeg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMTFfMjM1/MDAxNzYyODY3Njc3Mjky.h54U_9x55ivxrRYLhb3s4fmN4H2-__wMr6LdehMWaggg.WU05nmvf1IOFv0LlCzcHXeUFM7073aujkHm0mWiPQFMg.JPEG/97BB60EF-27A2-4233-8043-020D5DB4106F.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220733",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "18222695",
+            "bodySummary": "제주흑도야지 경기 고양시 덕양구 마상로113번길 55 / 주교동 567-9 제주흑돼지 / 제주오겹살 / 생삼겹살 / 생목살 주로 판매하고있습니다. 원당역 근처에 지인이 있어서 모임",
+            "url": "https://m.blog.naver.com/yogofresh/223209519157",
+            "nick": "단미또바기",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA2MjRfNzcg/MDAxNjg3NjEwODMxOTI1.b0S6_KNiJqrFIqvWfgNC9nQrYKXR6-gCcCu97hcQXKcg.9ris0xyoXeqPcvxTeofU4TwBSnGs9KXCU-D7xzG1TvQg.PNG.yogofresh/profileImage.png"
+          },
+          {
+            "sid": "18222695",
+            "bodySummary": "남편과 남편의 오랜 친구 두 명과 함께 갔고 한 분이 고기를 사주셨다 (고기 사주는 사람 착한 사람) 가게가 넓은 편은 아니라 6 테이블 정도 있었던 것 같다 안에도 주방이 있지만",
+            "url": "https://m.blog.naver.com/hye2niii/223195464345",
+            "nick": "hye2niiii",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA3MzBfMTE0/MDAxNjkwNzAzNzU0NzE4.xgJMEc49aWp9NGt2wfTMbaI2AbboOUlOhVfHl1upZkEg.WwNcd_zgXYaBV-w-2z9rcQoRZB9n2FwiyHYQrmC0NkAg.PNG.tvxq3030/profileImage.png"
+          },
+          {
+            "sid": "18222695",
+            "bodySummary": "원당맛집 제주흑도야지 내가 찾던 주교동, 원당시청 삼겹살 찐맛집 4시 30분 오픈 - 골목주차가능 열허부운 안녕하쎄여! 저희가족은 삼겹살을 너무 좋아하는데 원당에서 정착할만한 삼겹",
+            "url": "https://m.blog.naver.com/aka_bb/223106128702",
+            "nick": "이로아",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEwMzFfMjcx/MDAxNjk4Njc5MDM1MjQ4.AKdL15x3tY4tFU--pzJG4FhfpUswOcwfz0XHZLajTzUg._ow2h3GH6BNSjgDWEvcBOUQV36fbrhzUedqEMV1jw6Yg.PNG.aka_bb/profileImage.png"
+          },
+          {
+            "sid": "18222695",
+            "bodySummary": "삼겹에 목살까지 추가로 시켜봤어요. 아 참 껍데기도 한점씩 서비스로 올려주신답니다. 너무 구성이 알찬듯 ㅜ 맛있게 구워서 콩나물 무침하고 싸먹으면 눈물 남 ㅠ 기본 찬들만 먹어봐도",
+            "url": "https://m.blog.naver.com/yooun__a/223059192142",
+            "nick": "유나",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjEyMjdfMTM0/MDAxNjcyMTMxMjQ0MDg1.i1NO0AL44YfmnvzwRimUWq4G7xpGlCPL8yX16O2gRQwg.2ZsmWe19LA_hJqc6uoVzuyEnJRZ2LxqO0eVtXMtnHlQg.PNG.gs04376/profileImage.png"
+          },
+          {
+            "sid": "18222695",
+            "bodySummary": "삼겹살이 이렇게 맛있을 수가 있나요 주교동 삼겹살집 하면 이곳을 무조건 가야 합니다 뿐만 아니라 덕양구에서 제일 맛있는 거 같아요 고양시에서는 제가 정발산에 있는 맛찬들이 있는데 ",
+            "url": "https://m.blog.naver.com/hellolimi/222645543670",
+            "nick": "메릴리윤",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDEyMTJfMjQz/MDAxNjA3NzQ5MzE5MzE5._5CuP1YLwM7uxSRo9jIC2pi1z5D7rYx_7RW2nUURw-Ig.Ou5LKyRPbDD5c2ww9ptivG0gARubTx3ByOoDjcMf74Mg.JPEG.hellolimi/KakaoTalk_20201212_140007635_03.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "id": "37156201",
+        "name": "알밤이네로",
+        "x": "126.8385572",
+        "y": "37.6632266",
+        "distance": 0.063,
+        "categoryName": "돼지고기구이",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220765",
+            "221458"
+          ]
+        ],
+        "category": [
+          "한식",
+          "돼지고기구이"
+        ],
+        "reviewCount": 118,
+        "averagePrice": 0,
+        "address": "경기도 고양시 덕양구 주교동 555-4 원릉빌딩",
+        "roadAddress": "경기도 고양시 덕양구 원당로125번길 12",
+        "abbrAddress": "주교동 555-4 원릉빌딩",
+        "shortAddress": [
+          "경기 고양시 덕양구",
+          "원당로125번길 12"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경기도 고양시 덕양구 주교동 555-4 원릉빌딩",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20200226_21/1582714501233JnrsV_JPEG/DBSW8sT2tHAvMaHL2gqvyL2K.jpeg.jpg",
+          "https://ldb-phinf.pstatic.net/20230119_91/1674087624831owTuW_JPEG/20230118_175229.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221458",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 7,
+        "id": "1453224347",
+        "name": "마장동갈비",
+        "x": "126.8378431",
+        "y": "37.6618275",
+        "distance": 0.148,
+        "categoryName": "육류,고기요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220733"
+          ]
+        ],
+        "category": [
+          "한식",
+          "육류,고기요리"
+        ],
+        "reviewCount": 55,
+        "averagePrice": 0,
+        "address": "경기도 고양시 덕양구 주교동 569-1",
+        "roadAddress": "경기도 고양시 덕양구 원당로113번길 3",
+        "abbrAddress": "주교동 569-1",
+        "shortAddress": [
+          "경기 고양시 덕양구",
+          "원당로113번길 3"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경기도 고양시 덕양구 주교동 569-1",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20200226_169/158271606079130H7W_JPEG/16wVF6qCpsNkXavZ3MuyL397.jpeg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220733",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 8,
+        "id": "36755968",
+        "name": "김밥마당",
+        "x": "126.8378349",
+        "y": "37.6632847",
+        "distance": 0.014,
+        "categoryName": "종합분식",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220185"
+          ]
+        ],
+        "category": [
+          "분식",
+          "종합분식"
+        ],
+        "reviewCount": 50,
+        "averagePrice": 0,
+        "address": "경기도 고양시 덕양구 주교동 567",
+        "roadAddress": "경기도 고양시 덕양구 원당로125번길 21",
+        "abbrAddress": "주교동 567",
+        "shortAddress": [
+          "경기 고양시 덕양구",
+          "원당로125번길 21"
+        ],
+        "displayContext": [],
+        "labelTheme": "분식",
+        "microReviews": [],
+        "cardDescription": "경기도 고양시 덕양구 주교동 567",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20200226_117/1582723145459ah3CJ_JPEG/Ju8LrcGsZs5EGlbqiA7EHhzS.jpeg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220185",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 9,
+        "id": "1233846986",
+        "name": "아로하치킨 원당점",
+        "x": "126.8384789",
+        "y": "37.6632003",
+        "distance": 0.056,
+        "categoryName": "치킨,닭강정",
+        "categoryPath": [
+          [
+            "220036",
+            "220049",
+            "220411"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "치킨,닭강정"
+        ],
+        "reviewCount": 123,
+        "averagePrice": 16000,
+        "address": "경기도 고양시 덕양구 주교동 555-4 원릉빌딩 1층",
+        "roadAddress": "경기도 고양시 덕양구 원당로125번길 12",
+        "abbrAddress": "주교동 555-4 원릉빌딩 1층",
+        "shortAddress": [
+          "경기 고양시 덕양구",
+          "원당로125번길 12"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "주교동 치킨맛집 아로하치킨 원당점은 성사동치킨 배달과 원당치킨배달이 모두 가능한 배달전문 치킨 맛집입니다. 바삭한 순살치킨과 매콤달콤한 수제양념으로 이미 주교동,성사동 고객들 사",
+        "description": "주교동 치킨맛집 아로하치킨 원당점은 성사동치킨 배달과 원당치킨배달이 모두 가능한 배달전문 치킨 맛집입니다. 바삭한 순살치킨과 매콤달콤한 수제양념으로 이미 주교동,성사동 고객들 사",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20250620_92/1750397865519TSv8u_JPEG/%C1%A6%B8%F1%C0%BB-%C0%D4%B7%C2%C7%D8%C1%D6%BC%BC%BF%E4_-002_%281%29.jpg",
+          "https://ldb-phinf.pstatic.net/20250620_162/1750387520038THYTB_JPEG/22.jpg",
+          "https://ldb-phinf.pstatic.net/20250620_56/1750387519915xpcfB_JPEG/33.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220411",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 10,
+        "id": "1201501357",
+        "name": "박가네아구찜",
+        "x": "126.8378093",
+        "y": "37.6627089",
+        "distance": 0.05,
+        "categoryName": "아귀찜,해물찜",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220076",
+            "220793",
+            "221633"
+          ]
+        ],
+        "category": [
+          "한식",
+          "아귀찜,해물찜"
+        ],
+        "reviewCount": 33,
+        "averagePrice": 20000,
+        "address": "경기도 고양시 덕양구 주교동 567-9",
+        "roadAddress": "경기도 고양시 덕양구 마상로113번길 55",
+        "abbrAddress": "주교동 567-9",
+        "shortAddress": [
+          "경기 고양시 덕양구",
+          "마상로113번길 55"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [],
+        "cardDescription": "경기도 고양시 덕양구 주교동 567-9",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20181130_60/1543566224573XLama_JPEG/q_UQfeiXR6FZ6YUQUnbZU7nw.jpg",
+          "https://ldb-phinf.pstatic.net/20181130_95/1543566200813RWuv0_JPEG/HG08Nc-HPvo_IwvShJ7mTE6o.jpg",
+          "https://ldb-phinf.pstatic.net/20181130_183/1543566207107UJ4fW_JPEG/1SVU40NczACF0NKub3IfoO8X.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221633",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 11,
+        "id": "1874706848",
+        "name": "고향엄마밥상",
+        "x": "126.8384503",
+        "y": "37.662947",
+        "distance": 0.058,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 32,
+        "averagePrice": 0,
+        "address": "경기도 고양시 덕양구 주교동 568",
+        "roadAddress": "경기도 고양시 덕양구 마상로113번길 68",
+        "abbrAddress": "주교동 568",
+        "shortAddress": [
+          "경기 고양시 덕양구",
+          "마상로113번길 68"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경기도 고양시 덕양구 주교동 568",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20231224_172/1703428505234xjXdn_JPEG/IMG_2246.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 12,
+        "id": "1828287440",
+        "name": "컴포즈커피 고양주교점",
+        "x": "126.8376513",
+        "y": "37.662307",
+        "distance": 0.096,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "230629"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 211,
+        "averagePrice": 5000,
+        "address": "경기도 고양시 덕양구 주교동 568-8 BK팰리스아파트 1층 103호",
+        "roadAddress": "경기도 고양시 덕양구 원당로113번길 10",
+        "abbrAddress": "주교동 568-8 BK팰리스아파트 1층 103호",
+        "shortAddress": [
+          "경기 고양시 덕양구",
+          "원당로113번길 10"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "- 와플을 포장해서 가져가시는 경우 와플이 눅눅해 질수 있습니다. - 얼음많이 하시는경우 컵뚜껑에서 음료가 조금 샐수 있습니다.",
+        "description": "- 와플을 포장해서 가져가시는 경우 와플이 눅눅해 질수 있습니다. - 얼음많이 하시는경우 컵뚜껑에서 음료가 조금 샐수 있습니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMjBfODgg/MDAxNzYzNjIxNDUzOTUx.OTl1-c7yFAGEh6TCXlr2Cr6sgnTSM3AaGEJ8vQQ2SD0g.aSGVcg7-EUOQDNgTSURptj8zMQcIHbyqb50t4ESV1FIg.JPEG/20251115_162300.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjNfMTMx/MDAxNzYxMjE5NTA1NjY1.KD6moAfgx6N0n-DJd-QjuokmCzImaUcOQELxjGQlNU0g.W33xJI0IuwHfQsbJWMM7TXtelRdCgJCxTkPxMCn0Et8g.JPEG/20251015_181410.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20230614_279/1686705205016c4DvY_JPEG/KakaoTalk_Moim_79DPRwwu4JmYMFT2eFSvhlN4S2i6zB.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjlfMjkg/MDAxNzU5MTMyMjAwMjQ0.G5fgDt00ITfy64wuoRO8wXB0HZlqBAi5GrtKwdv9iI4g.y2DoPbCc_f-YS1tsMIKnvzMVY-yQKLeqOM0Ndh3ZZ8wg.JPEG/1759127575784.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20230614_253/1686705204986gpzNd_JPEG/KakaoTalk_Moim_79DPRwwu4JmYMFT2eFSvhlN4S2mend.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTdfMjMz/MDAxNzUyNzA4NzY1MDIw.rG6nWbvX7IPaLcjjwgSa_NkPpes2cTAEz1zicCiHCcUg.9wsGatuIACGURi_CMsqiZauQ13xNWaJk_OUEVOlaIl0g.JPEG/20250717_083050.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20230614_71/1686705205598JYdTC_JPEG/KakaoTalk_Moim_79DPRwwu4JmYMFT2eFSvhlN4S369JZ.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjhfMTIg/MDAxNzQ4NDM2MDE5NzAw.XVJjaYFABUUgkc8bUgza96shBF_WVwRrji47IKkJC3Qg.GIy6eIC25JeKLAGbKj-oPFUtmaGUL-2Foko5d2Shm8Ag.JPEG/20250527_101300.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTBfMTc4/MDAxNzUyMTAzNzg0NDQ1.4W4EMkTTn8i7lxzIqwG64p6yqRrfZqhlbC9yGCnTdGIg.uR43KcVOPf8MjLxbBCNpOOvyRAW0rtp_14mqxcqLnt0g.JPEG/20250710_081427.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTFfMjAz/MDAxNzUyMTk3MTE2MDcw.2LT6LkUdN9UhYjBuboSHeJAeuZ2eC6Tzpba8kx5WDgYg.6vT4-drgoMHZ4EPwALhz_97C8V2xF37BXQdBAypHkWAg.JPEG/20250711_082004.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "230629",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 13,
+        "id": "1580404453",
+        "name": "BBQ치킨 고양주교동점",
+        "x": "126.8383441",
+        "y": "37.6629928",
+        "distance": 0.048,
+        "categoryName": "치킨,닭강정",
+        "categoryPath": [
+          [
+            "220036",
+            "220049",
+            "220250"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "치킨,닭강정"
+        ],
+        "reviewCount": 60,
+        "averagePrice": 15000,
+        "address": "경기도 고양시 덕양구 주교동 568",
+        "roadAddress": "경기도 고양시 덕양구 마상로113번길 68",
+        "abbrAddress": "주교동 568",
+        "shortAddress": [
+          "경기 고양시 덕양구",
+          "마상로113번길 68"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "안녕하세요. 고객의 행복을 키우는 BBQ입니다.  BBQ는 Best of the Best Quality (최고 품질 중에서도 최고)를 뜻합니다. BBQ는 그 이름처럼 최고의 원재료만을 사용하여 맛은 물론 고객의 건강까지 생각 ",
+        "description": "안녕하세요. 고객의 행복을 키우는 BBQ입니다.  BBQ는 Best of the Best Quality (최고 품질 중에서도 최고)를 뜻합니다. BBQ는 그 이름처럼 최고의 원재료만을 사용하여 맛은 물론 고객의 건강까지 생각 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDhfMTg1/MDAxNzU3MzM3OTQ1Nzg4.hwoTlPoz_l4RreUm200acV4SeN9hSiRpQRhv9Y88JsUg.lgzlRg_UNi6hcFG2zPh1nh_h-lJe-tfB9zFOVDQf8x4g.JPEG/1000119664.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTNfMTc4/MDAxNzU3Nzc0NTE2NjQ0.x6LhZrBP5eHa1zdsozPS9kFgCrVB8eOCAR8gzl5QQtQg.050z-yrGKOqeAG07Glk1vrNRD0N5fG6LDdxdx6EDVnQg.JPEG/1000120634.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20251010_249/1760068832280IQWox_JPEG/BBQ_%BB%D5%C4%A1%C5%B7_KV_%C1%A4%B9%E6%C7%FC_v3.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTFfNTQg/MDAxNzQ5NjUwNTA2OTk4.hEG8IDUQ4D2eoXdRHLIuV8EklL_TKoptliAdZAa7TX4g.WgxOO_A6-j5dDcWoXtzbdsZjfuoxwIxrVKbA3DaUTrkg.JPEG/20250611_202804.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250610_180/1749566543312m8cAt_JPEG/%BA%AF%BF%E4%C7%D1_%BF%C2%B6%F3%C0%CE%B8%C5%C0%E5_%B8%DE%B4%BA_3-1.jpg",
+          "https://ldb-phinf.pstatic.net/20250610_104/1749566500938oePkl_JPEG/KakaoTalk_20250610_233451795.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220250",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 14,
+        "id": "1878747246",
+        "name": "지코바치킨 주교점",
+        "x": "126.8380154",
+        "y": "37.6627299",
+        "distance": 0.05,
+        "categoryName": "치킨,닭강정",
+        "categoryPath": [
+          [
+            "220036",
+            "220049",
+            "220457"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "치킨,닭강정"
+        ],
+        "reviewCount": 95,
+        "averagePrice": 18000,
+        "address": "경기도 고양시 덕양구 주교동 568-13 102호",
+        "roadAddress": "경기도 고양시 덕양구 마상로113번길 60",
+        "abbrAddress": "주교동 568-13 102호",
+        "shortAddress": [
+          "경기 고양시 덕양구",
+          "마상로113번길 60"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "*원산지표기 육계 : 국내산 순살소금구이:브라질산 순살양념구이:브라질산 *상세 원산지는 해당 지점 배달어플을 확인 바랍니다.",
+        "description": "*원산지표기 육계 : 국내산 순살소금구이:브라질산 순살양념구이:브라질산 *상세 원산지는 해당 지점 배달어플을 확인 바랍니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTNfMjY5/MDAxNzU3NzY1MzMwMDQy.8PjIm7TzzoUcCBfDAWJ55Tu8vAcB9wKotsdRm1Rc8RMg.8P0lQMtVaMIccrodoanzbsZ4WL20N9uH6LBauIN05nIg.JPEG/20250913_210726.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTlfMjQ5/MDAxNzYwODgwMzIwNjk0.T_glPtbQ4N-QpmQXyryOKtRnMZ2wmAmoxv1xC-sn2Csg.EyKXtnV1uAsfxg2xQy3hR-aTUws79GFRzlzp5fcMVnwg.JPEG/20251019_222307.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20210803_252/1627922097279qcUGx_JPEG/2jN2UomQIUjAQU1WbD5ZIgCg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220457",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1878747246",
+            "bodySummary": "일상 글에서도 소개한 적 있는데, 제가 그 유명한 지코바를 이제서야 먹어봤다는 소식. 저는 의외로 인터넷에서 뭔가 유행할 때 어머 저건 먹어야 해! 하는 스타일이 아니라서 (탕후루",
+            "url": "https://m.blog.naver.com/aka_bb/223345732844",
+            "nick": "이로아",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEwMzFfMjcx/MDAxNjk4Njc5MDM1MjQ4.AKdL15x3tY4tFU--pzJG4FhfpUswOcwfz0XHZLajTzUg._ow2h3GH6BNSjgDWEvcBOUQV36fbrhzUedqEMV1jw6Yg.PNG.aka_bb/profileImage.png"
+          },
+          {
+            "sid": "1878747246",
+            "bodySummary": "지코바치킨 주교점 주소 : 경기 고양시 덕양구 마상로113번길 60, 102호 전화번호 : 031-963-5106 영업시간 : 월~금 13:00 ~ 01:30 토~일 12:00 ~",
+            "url": "https://m.blog.naver.com/wangchacha/223275520065",
+            "nick": "먹묵먹",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxNjEyMDJfMiAg/MDAxNDgwNjIwMDA3MTc5.EfobvBno1om74axWf1UWwupZGYWNKhk6SRwM9mvalF8g.3Znn6txXtpA4-iq60ff8EHPfcwvuKd7kXYg9JRSrhHog.JPEG.wangchacha/profile.jpg"
+          },
+          {
+            "sid": "1878747246",
+            "bodySummary": "저는 쿠팡 와우 회원으로 쿠팡 이츠에서 할인을 받았습니다! 치킨 + 치킨무 + 콜라 = 16,000 가격 정말 착합니다. 저는 순살에 제일 매운 바베큐 양념치킨을 주문했습니다! 처",
+            "url": "https://m.blog.naver.com/ddw020530/223118079570",
+            "nick": "21Jerry",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA1MTlfMTgz/MDAxNjg0NDkwNjExMDc3.1GDAfCEikMcCxNW26UiZUgHTzdyJsaNDGVzo1vqQbRcg.jiVsBSOXUGYfJTscufvN9uaSNVHuiiixloRKtf3RFNcg.JPEG.ddw020530/%25EB%258B%25A4%25EC%259A%25B4%25EB%25A1%259C%25EB%2593%259C.jpg/%25EB%258B%25A4%25EC%259A%25B4%25EB%25A1%259C%25EB%2593%259C.jpg"
+          },
+          {
+            "sid": "1878747246",
+            "bodySummary": "총 3만원에 배달팁 2900원 나왔음 총평은 간만에 먹으니 꿀맛이었다... 사실 다 못 먹어서 그 다음날 데워 먹었는데 그렇게 먹어도 맛이 꽤 괜찮아서 좋았음. 데워 먹었을 때는 ",
+            "url": "https://m.blog.naver.com/7cjstk7/223089828270",
+            "nick": "루씨",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAyMTFfNjMg/MDAxNjc2MTA5MjE0NzA0.r9I-lNJSw0oqYCm1ujVvXauMJRUfXOFCfuIE4Ufftqcg.Mnmeo2O9DNIY1tFfPRfPSoaAvZTizvw4Wiy1T2XHM3Qg.JPEG.7cjstk7/KakaoTalk_20221031_223859151_08.jpg/KakaoTalk_20221031_223859151_08.jpg"
+          },
+          {
+            "sid": "1878747246",
+            "bodySummary": "지코바치킨 주교점 순살양념구이치킨 보통맛 경기 고양시 덕양구 마상로113번길 60 102호 지코바치킨 주교점 031-963-5106 지코바치킨 메뉴판 지코바 순살양념치킨은 순한맛,",
+            "url": "https://m.blog.naver.com/mj120412/222524617475",
+            "nick": "미자120412",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAxMDZfOTkg/MDAxNjQxNDQ4Njk1ODUw.IXzMqp-IQHsTd_bYn-Jc8QvYJfMu__u9wJQMvQ-LRlQg.clrjKdZsMgQobvVWAVJXQVPF20-IaPBg45o9znE-Vlwg.JPEG.mj120412/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 15,
+        "id": "36751318",
+        "name": "우리또래분식",
+        "x": "126.8355535",
+        "y": "37.6612394",
+        "distance": 0.294,
+        "categoryName": "종합분식",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220185"
+          ]
+        ],
+        "category": [
+          "분식",
+          "종합분식"
+        ],
+        "reviewCount": 7,
+        "averagePrice": 0,
+        "address": "경기도 고양시 덕양구 주교동 575-5",
+        "roadAddress": "경기도 고양시 덕양구 마상로107번길 7",
+        "abbrAddress": "주교동 575-5",
+        "shortAddress": [
+          "경기 고양시 덕양구",
+          "마상로107번길 7"
+        ],
+        "displayContext": [],
+        "labelTheme": "분식",
+        "microReviews": [],
+        "cardDescription": "경기도 고양시 덕양구 주교동 575-5",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220185",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.5",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 16,
+        "id": "1923095884",
+        "name": "닥터프레소",
+        "x": "126.8376181",
+        "y": "37.6615386",
+        "distance": 0.181,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221212"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 5,
+        "averagePrice": 0,
+        "address": "경기도 고양시 덕양구 주교동 569-3",
+        "roadAddress": "경기도 고양시 덕양구 원당로 109",
+        "abbrAddress": "주교동 569-3",
+        "shortAddress": [
+          "경기 고양시 덕양구",
+          "원당로 109"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "경기도 고양시 덕양구 주교동 569-3",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221212",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 17,
+        "id": "1205579875",
+        "name": "이모네",
+        "x": "126.8374456",
+        "y": "37.6629254",
+        "distance": 0.044,
+        "categoryName": "한식뷔페",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "229847",
+            "229848"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식뷔페"
+        ],
+        "reviewCount": 7,
+        "averagePrice": 0,
+        "address": "경기도 고양시 덕양구 주교동 567-7",
+        "roadAddress": "경기도 고양시 덕양구 마상로107번길 58",
+        "abbrAddress": "주교동 567-7",
+        "shortAddress": [
+          "경기 고양시 덕양구",
+          "마상로107번길 58"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경기도 고양시 덕양구 주교동 567-7",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "229848",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 18,
+        "id": "2057087838",
+        "name": "The맛있는집밥",
+        "x": "126.8371569",
+        "y": "37.6626227",
+        "distance": 0.085,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 13000,
+        "address": "경기도 고양시 덕양구 주교동 567-5 1층",
+        "roadAddress": "경기도 고양시 덕양구 마상로107번길 50",
+        "abbrAddress": "주교동 567-5 1층",
+        "shortAddress": [
+          "경기 고양시 덕양구",
+          "마상로107번길 50"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [],
+        "cardDescription": "경기도 고양시 덕양구 주교동 567-5 1층",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20250513_189/1747101554218NgegP_JPEG/1000011615.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 19,
+        "id": "1086266828",
+        "name": "한지붕한식부페",
+        "x": "126.838502",
+        "y": "37.6624667",
+        "distance": 0.096,
+        "categoryName": "한식뷔페",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "229847",
+            "229848"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식뷔페"
+        ],
+        "reviewCount": 1,
+        "averagePrice": 0,
+        "address": "경기도 고양시 덕양구 주교동 568-14",
+        "roadAddress": "경기도 고양시 덕양구 원당로 119",
+        "abbrAddress": "주교동 568-14",
+        "shortAddress": [
+          "경기 고양시 덕양구",
+          "원당로 119"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경기도 고양시 덕양구 주교동 568-14",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjNfMjkw/MDAxNzYxMTg5NjQ3NzU4.c3tEmK-0QfEFcWk2QTlE-yeb9jzC7_JdblHmEatNdxkg.K61Yfzk7MJ3SZC9L75bFZjW0GdgY5sh2wo5fhmWmnTog.JPEG/20251022_112917.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "229848",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 20,
+        "id": "1952600305",
+        "name": "샘김밥",
+        "x": "126.838268",
+        "y": "37.6627364",
+        "distance": 0.06,
+        "categoryName": "종합분식",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220185"
+          ]
+        ],
+        "category": [
+          "분식",
+          "종합분식"
+        ],
+        "reviewCount": 2,
+        "averagePrice": 0,
+        "address": "경기도 고양시 덕양구 주교동 568-2",
+        "roadAddress": "경기도 고양시 덕양구 마상로113번길 64",
+        "abbrAddress": "주교동 568-2",
+        "shortAddress": [
+          "경기 고양시 덕양구",
+          "마상로113번길 64"
+        ],
+        "displayContext": [],
+        "labelTheme": "분식",
+        "microReviews": [],
+        "cardDescription": "경기도 고양시 덕양구 주교동 568-2",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220185",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 21,
+        "id": "2140073277",
+        "name": "우일순대국",
+        "x": "126.8376686",
+        "y": "37.6631919",
+        "distance": 0.016,
+        "categoryName": "순대,순댓국",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220768",
+            "221546"
+          ]
+        ],
+        "category": [
+          "한식",
+          "순대,순댓국"
+        ],
+        "reviewCount": 1,
+        "averagePrice": 0,
+        "address": "경기도 고양시 덕양구 주교동 567",
+        "roadAddress": "경기도 고양시 덕양구 원당로125번길 21",
+        "abbrAddress": "주교동 567",
+        "shortAddress": [
+          "경기 고양시 덕양구",
+          "원당로125번길 21"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경기도 고양시 덕양구 주교동 567",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221546",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 22,
+        "id": "1208576769",
+        "name": "황제한식뷔페",
+        "x": "126.8376065",
+        "y": "37.6631504",
+        "distance": 0.021,
+        "categoryName": "한식뷔페",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "229847",
+            "229848"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식뷔페"
+        ],
+        "reviewCount": 1,
+        "averagePrice": 0,
+        "address": "경기도 고양시 덕양구 주교동 567",
+        "roadAddress": "경기도 고양시 덕양구 원당로125번길 21",
+        "abbrAddress": "주교동 567",
+        "shortAddress": [
+          "경기 고양시 덕양구",
+          "원당로125번길 21"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경기도 고양시 덕양구 주교동 567",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "229848",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 23,
+        "id": "1486302427",
+        "name": "영주회식",
+        "x": "126.8381433",
+        "y": "37.6630968",
+        "distance": 0.027,
+        "categoryName": "한식뷔페",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "229847",
+            "229848"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식뷔페"
+        ],
+        "reviewCount": 1,
+        "averagePrice": 0,
+        "address": "경기도 고양시 덕양구 주교동 567 우일종합상가",
+        "roadAddress": "경기도 고양시 덕양구 원당로125번길 21",
+        "abbrAddress": "주교동 567 우일종합상가",
+        "shortAddress": [
+          "경기 고양시 덕양구",
+          "원당로125번길 21"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경기도 고양시 덕양구 주교동 567 우일종합상가",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "229848",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 24,
+        "id": "1699916904",
+        "name": "노마진아이스크림",
+        "x": "126.8391945",
+        "y": "37.6623885",
+        "distance": 0.146,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220578",
+            "1002313"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "아이스크림"
+        ],
+        "reviewCount": 133,
+        "averagePrice": 0,
+        "address": "경기도 고양시 덕양구 주교동 26-9",
+        "roadAddress": "경기도 고양시 덕양구 원당로 124",
+        "abbrAddress": "주교동 26-9",
+        "shortAddress": [
+          "경기 고양시 덕양구",
+          "원당로 124"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "경기도 고양시 덕양구 주교동 26-9",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1002313",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 25,
+        "id": "1245149425",
+        "name": "참숯불닭발불떡볶이 본점",
+        "x": "126.8385283",
+        "y": "37.6632569",
+        "distance": 0.061,
+        "categoryName": "종합분식",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220185"
+          ]
+        ],
+        "category": [
+          "분식",
+          "종합분식"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 0,
+        "address": "경기도 고양시 덕양구 주교동 555-4",
+        "roadAddress": "경기도 고양시 덕양구 원당로125번길 12",
+        "abbrAddress": "주교동 555-4",
+        "shortAddress": [
+          "경기 고양시 덕양구",
+          "원당로125번길 12"
+        ],
+        "displayContext": [],
+        "labelTheme": "분식",
+        "microReviews": [],
+        "cardDescription": "경기도 고양시 덕양구 주교동 555-4",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220185",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 26,
+        "id": "1792175835",
+        "name": "100%메밀냉면&매콤명태조림전문점",
+        "x": "126.8385866",
+        "y": "37.6631349",
+        "distance": 0.065,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 0,
+        "address": "경기도 고양시 덕양구 주교동 555-4",
+        "roadAddress": "경기도 고양시 덕양구 원당로125번길 12",
+        "abbrAddress": "주교동 555-4",
+        "shortAddress": [
+          "경기 고양시 덕양구",
+          "원당로125번길 12"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [],
+        "cardDescription": "경기도 고양시 덕양구 주교동 555-4",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 27,
+        "id": "1624486098",
+        "name": "마왕찜닭 본점",
+        "x": "126.8385866",
+        "y": "37.6631349",
+        "distance": 0.065,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 0,
+        "address": "경기도 고양시 덕양구 주교동 555-4 4층",
+        "roadAddress": "경기도 고양시 덕양구 원당로125번길 12",
+        "abbrAddress": "주교동 555-4 4층",
+        "shortAddress": [
+          "경기 고양시 덕양구",
+          "원당로125번길 12"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경기도 고양시 덕양구 주교동 555-4 4층",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 28,
+        "id": "1435275451",
+        "name": "사누끼돈까스",
+        "x": "126.8380688",
+        "y": "37.6627196",
+        "distance": 0.052,
+        "categoryName": "일식",
+        "categoryPath": [
+          [
+            "220036",
+            "220038",
+            "220081",
+            "220804"
+          ]
+        ],
+        "category": [
+          "일식",
+          "일식당"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 0,
+        "address": "경기도 고양시 덕양구 주교동 568-13",
+        "roadAddress": "경기도 고양시 덕양구 마상로113번길 60",
+        "abbrAddress": "주교동 568-13",
+        "shortAddress": [
+          "경기 고양시 덕양구",
+          "마상로113번길 60"
+        ],
+        "displayContext": [],
+        "labelTheme": "일식",
+        "microReviews": [],
+        "cardDescription": "경기도 고양시 덕양구 주교동 568-13",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220804",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 29,
+        "id": "1431170754",
+        "name": "청춘미소김치찌개",
+        "x": "126.8385866",
+        "y": "37.6631349",
+        "distance": 0.065,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 0,
+        "address": "경기도 고양시 덕양구 주교동 555-4",
+        "roadAddress": "경기도 고양시 덕양구 원당로125번길 12",
+        "abbrAddress": "주교동 555-4",
+        "shortAddress": [
+          "경기 고양시 덕양구",
+          "원당로125번길 12"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경기도 고양시 덕양구 주교동 555-4",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 30,
+        "id": "1621840613",
+        "name": "명가냉면",
+        "x": "126.8385866",
+        "y": "37.6631349",
+        "distance": 0.065,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 1,
+        "averagePrice": 0,
+        "address": "경기도 고양시 덕양구 주교동 555-4 4층",
+        "roadAddress": "경기도 고양시 덕양구 원당로125번길 12",
+        "abbrAddress": "주교동 555-4 4층",
+        "shortAddress": [
+          "경기 고양시 덕양구",
+          "원당로125번길 12"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경기도 고양시 덕양구 주교동 555-4 4층",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 31,
+        "id": "2142219499",
+        "name": "소문난한식뷔페",
+        "x": "126.8386398",
+        "y": "37.6627815",
+        "distance": 0.082,
+        "categoryName": "한식뷔페",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "229847",
+            "229848"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식뷔페"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 0,
+        "address": "경기도 고양시 덕양구 주교동 568-1",
+        "roadAddress": "경기도 고양시 덕양구 원당로125번길 5",
+        "abbrAddress": "주교동 568-1",
+        "shortAddress": [
+          "경기 고양시 덕양구",
+          "원당로125번길 5"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경기도 고양시 덕양구 주교동 568-1",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "229848",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 32,
+        "id": "37799703",
+        "name": "대박전집",
+        "x": "126.8386072",
+        "y": "37.6631158",
+        "distance": 0.067,
+        "categoryName": "전,빈대떡",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220074",
+            "220731"
+          ]
+        ],
+        "category": [
+          "한식",
+          "전,빈대떡"
+        ],
+        "reviewCount": 1,
+        "averagePrice": 0,
+        "address": "경기도 고양시 덕양구 주교동 555-4 원릉빌딩",
+        "roadAddress": "경기도 고양시 덕양구 원당로125번길 12",
+        "abbrAddress": "주교동 555-4 원릉빌딩",
+        "shortAddress": [
+          "경기 고양시 덕양구",
+          "원당로125번길 12"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경기도 고양시 덕양구 주교동 555-4 원릉빌딩",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220731",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

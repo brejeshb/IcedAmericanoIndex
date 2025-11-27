@@ -1,0 +1,148 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 2,
+      "count": 2,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.704703146068,
+          "minY": 34.982690990990996,
+          "maxX": 126.710201573034,
+          "maxY": 34.9871954954955
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.707452359551;34.98494324324325",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1783235000",
+        "name": "남부휴게소식당",
+        "x": "126.7051615",
+        "y": "34.9847267",
+        "distance": 0.21,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 41,
+        "averagePrice": 0,
+        "address": "전라남도 나주시 왕곡면 장산리 11-3",
+        "roadAddress": "전라남도 나주시 왕곡면 영산포로 22",
+        "abbrAddress": "장산리 11-3",
+        "shortAddress": [
+          "전남 나주시 왕곡면",
+          "영산포로 22"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "찾아 오시는데 불편시항있으시면 연락주세요.",
+        "description": "찾아 오시는데 불편시항있으시면 연락주세요.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjBfMSAg/MDAxNzUwNDEzNDM5NTA2.EnSw_D8_HIVvRXDB2M-AGATrLzTMig2wJVAaI33gkxIg.8JReE8SzJLFkTWoYELZu_I6CrAyDR-7_ie86G-4lul0g.JPEG/20250620_110934.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "1017707980",
+        "name": "남부휴계소식당",
+        "x": "126.7062237",
+        "y": "34.9835151",
+        "distance": 0.194,
+        "categoryName": "비빔밥",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220059",
+            "220610"
+          ]
+        ],
+        "category": [
+          "한식",
+          "비빔밥"
+        ],
+        "reviewCount": 136,
+        "averagePrice": 0,
+        "address": "전라남도 나주시 왕곡면 장산리 11-3",
+        "roadAddress": "전라남도 나주시 왕곡면 영산포로 22",
+        "abbrAddress": "장산리 11-3",
+        "shortAddress": [
+          "전남 나주시 왕곡면",
+          "영산포로 22"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "전라남도 나주시 왕곡면 장산리 11-3",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjZfMTI1/MDAxNzU4ODg3OTExODA3.jvNj7hN6xgM7y6gb9up9ZH5Q_nmWO2pavwA63QUoJVUg.PXaQLfAwkhLo_uKPiFfsvMHBQ8DzRABr_NBM0r9zgfIg.JPEG/20250926_121150.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjNfMjUz/MDAxNzU4NjM0NTczMzgy.RlqtMJB5Wz9Q5n0Vj_MjVTvT1TPYeiT068pp4lrVS1gg.K2H8QjlRYqId-Tj1U9CH8Wcy8O7JUoXEQmjAbqE4H0Ug.JPEG/1000016733.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20211117_81/16371125224766BjxD_JPEG/KakaoTalk_20211117_101921820_01.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220610",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

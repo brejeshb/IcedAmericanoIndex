@@ -1,0 +1,345 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 5,
+      "count": 5,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.978,
+          "minY": 37.5637972972973,
+          "maxX": 126.97913657372374,
+          "maxY": 37.5646981981982
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.97856828686187;37.56424774774775",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "73484949",
+        "name": "삼끼니",
+        "x": "126.9790638",
+        "y": "37.5643033",
+        "distance": 0.044,
+        "categoryName": "김밥",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220186"
+          ]
+        ],
+        "category": [
+          "분식",
+          "김밥"
+        ],
+        "reviewCount": 633,
+        "averagePrice": 5000,
+        "address": "서울특별시 중구 남대문로2가 9-9 소공지하쇼핑센터 29호",
+        "roadAddress": "서울특별시 중구 소공로 102",
+        "abbrAddress": "남대문로2가 9-9 소공지하쇼핑센터 29호",
+        "shortAddress": [
+          "서울 중구",
+          "소공로 102"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "따뜻한 정성, 당일의 신선한 재료. 손님들에게 하루 삼끼니를 접대하는 마음으로 운영하는 소공동 분식집",
+        "description": "따뜻한 정성, 당일의 신선한 재료. 손님들에게 하루 삼끼니를 접대하는 마음으로 운영하는 소공동 분식집",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTBfMjA5/MDAxNzYwMDcwNTI1MTE4.G3cN-N19HromN8JNOsUNz3Vs8T3kb2Au-WQWQ2MZK8Eg.6VLk8R0CfNVwsYEcx21G1Tt3Ki3T-evL9IqiFnW1sPQg.JPEG/20251010_132343.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjJfMTgy/MDAxNzUzMTU4NzE2ODY4.gAQETuml0lOVyOatnKA6pYh-aWH9MEh-lZ-D5pajsjog.VqW8wt907bmQrM2QpsKtln4d6PypBK4jlIf4yILm5PYg.JPEG/20250722_130800.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20231103_158/1698970798753V7mv0_JPEG/IMG_5395.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjVfMjU4/MDAxNzUzNDE1MDIwMzM5.yfscYhdslEtsWxSmwJFmv1BvIbiXfT_wJodm5WGPjuYg.J1oYmYNhqPHZ1kLGzOfo1tB92SL9cAR4oOb9gmw8l8Eg.JPEG/20250725_120941.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20231103_163/1698970797791vPwdf_JPEG/IMG_5394.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTAzMjhfMzMg/MDAxNzQzMTMzMzk2NTg3.NJxpxkAuZMjZ6rVDqLATDC4g12mp2rsvOayBPl7tDIwg.uR0sRc5bqvN8DNdqVfvzmUKfeEW1zpRcV3Sn5GgJEDkg.JPEG/20250328_121025.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20231103_208/16989707978738IiSF_JPEG/IMG_5393.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDVfMjcx/MDAxNzQ5MTAxMDk3NzU5.33nyHz1EMg4zrufWHSkFhGvjxRF6X7nPpOnP8X4xn2gg.CRXdrAtUNsrsf24JCcelupsFdv9MK6KVYZLWQYNtRlUg.JPEG/20250605_125138.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220186",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "18011589",
+        "name": "한화63시티",
+        "x": "126.9785667",
+        "y": "37.5642222",
+        "distance": 0.003,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 1705,
+        "averagePrice": 0,
+        "address": "서울특별시 중구 소공동 110",
+        "roadAddress": "서울특별시 중구 소공로 109",
+        "abbrAddress": "소공동 110",
+        "shortAddress": [
+          "서울 중구",
+          "소공로 109"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 소공동 110",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 3,
+        "id": "18690656",
+        "name": "프라자펍",
+        "x": "126.9780465",
+        "y": "37.564677",
+        "distance": 0.066,
+        "categoryName": "양식",
+        "categoryPath": [
+          [
+            "220036",
+            "220044",
+            "220126"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "양식"
+        ],
+        "reviewCount": 3,
+        "averagePrice": 0,
+        "address": "서울특별시 중구 태평로2가 23",
+        "roadAddress": "서울특별시 중구 소공로 119",
+        "abbrAddress": "태평로2가 23",
+        "shortAddress": [
+          "서울 중구",
+          "소공로 119"
+        ],
+        "displayContext": [],
+        "labelTheme": "양식",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 태평로2가 23",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220126",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 4,
+        "id": "37388815",
+        "name": "카페핀 소공지하쇼핑센터점",
+        "x": "126.9790641",
+        "y": "37.5641778",
+        "distance": 0.044,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 0,
+        "address": "서울특별시 중구 남대문로2가 9-9 소공지하쇼핑센터",
+        "roadAddress": "서울특별시 중구 소공로 102",
+        "abbrAddress": "남대문로2가 9-9 소공지하쇼핑센터",
+        "shortAddress": [
+          "서울 중구",
+          "소공로 102"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 남대문로2가 9-9 소공지하쇼핑센터",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20190126_123/1548500767484qWNMp_JPEG/q3kPxYJvFZ5efOgse-Z7untZ.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 5,
+        "id": "34268660",
+        "name": "죽이야기 서울 중구소공점",
+        "x": "126.9788937",
+        "y": "37.5645827",
+        "distance": 0.047,
+        "categoryName": "죽",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220060",
+            "220620"
+          ]
+        ],
+        "category": [
+          "한식",
+          "죽"
+        ],
+        "reviewCount": 470,
+        "averagePrice": 5000,
+        "address": "서울특별시 중구 남대문로2가 9-9 소공지하쇼핑센터",
+        "roadAddress": "서울특별시 중구 소공로 102",
+        "abbrAddress": "남대문로2가 9-9 소공지하쇼핑센터",
+        "shortAddress": [
+          "서울 중구",
+          "소공로 102"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "죽이야기 중구 소공점: 전통과 현대가 어우러진 건강한 한 끼  죽이야기 중구 소공점은 서울의 중심부에서 건강하고 맛있는 한식을 제공하며 지역 주민과 방문객들에게 사랑받고 있는 곳입니 ",
+        "description": "죽이야기 중구 소공점: 전통과 현대가 어우러진 건강한 한 끼  죽이야기 중구 소공점은 서울의 중심부에서 건강하고 맛있는 한식을 제공하며 지역 주민과 방문객들에게 사랑받고 있는 곳입니 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MDlfMTc0/MDAxNzQ0MTcxMzYwNjQ3.4uWrxj8rc28ptCKhOtz2v_McdBptJcyCUIkMiBognlUg.LC85eQ9cHcHFJrtFeR9Y1kgsO16kqo_rKdto-HEJfrQg.JPEG/20250407_115945.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjhfMTk0/MDAxNzUzNjk2Nzg3NTQz.sxcPGVPYAC68fiM64jSUsNOUi61tImEZaq7dypAUOpUg.agdJ5MffG65hXbugOonCz-qYaL09UZ_IjkCsWJuG9Oog.JPEG/B80AA70E-BDD5-4596-9FF5-7CD1E8380486.jpeg",
+          "https://ldb-phinf.pstatic.net/20250616_142/17500426390785L1zU_JPEG/%BD%C5%B8%DE%B4%BA_%C7%C3%B7%B9%C0%CC%BD%BA_%BC%F6%C1%A4%BE%C8.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTZfMjAz/MDAxNzQ0Nzc4NTQxMzk4.aYvpPgHUqSaBrrfSLfARTQggO6WLQaBq4fdG57W84FUg.nHrhBqXWb1-B2PN5Yg1hZ8_xAB_n9Sx0EVNQzLQ4rZcg.JPEG/20250416_131852.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250320_253/1742459412427go03V_JPEG/0313.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTJfNDMg/MDAxNzQ3MDE3ODY5NDUz.6SLW_xgfBMpCCRrqPxstDVRx0OHg7ltbCcRuRWKA5Ikg.wc2wFBdZOYV2hEHbLbLtuudGa4HY93fwKxcyQoO_DiAg.JPEG/20250512_114342.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250102_11/1735780067772EfYFo_JPEG/1%BF%F92%BF%F9_%C8%A3%B9%DA%C1%D7.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220620",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "34268660",
+            "bodySummary": "점심도 거른 채 일했다. 오후에 친한 동료가 죽을 먹자고 한다. 소공동 지하상가에 위치한 죽이야기에 갔다 입구는 좁아 보였는데, 안은 넓직한~~,정문과 측면에도 문이 있는 구조였다",
+            "url": "https://m.blog.naver.com/shwfox/223002369548",
+            "nick": "땅콩",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjEyMjFfMjQ3/MDAxNjcxNjE3NTYwNDQ3.5HHhygzBEs6d4TaSdzceNDuhV66HKd6lek8R1xoVAJ8g.1xNScFW8wxILUMWkRO1l2qX2D-e3hzgwV2R5XCUY3RAg.JPEG.shwfox/profileImage.jpg"
+          },
+          {
+            "sid": "34268660",
+            "bodySummary": "청와대 가기전에 시청역에서 점심으로 죽을 먹기로 해서 찾아 간 곳은 죽이야기 소공점.. 위치가 소공지하쇼핑센터에 있어요. 청와대 같이 가기로 한 친구가 이날 건강검진을 한 상태여서",
+            "url": "https://m.blog.naver.com/0167513714/222851463277",
+            "nick": "터프걸",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxNzAyMTRfMTEy/MDAxNDg3MDgzMTAxOTUx.dMfQvqHR167_Rh8h-gGWkyhkEb6JP0PvrnpFWSAFz8sg.WRlGVRRQyx3VS1muC-FCk6SL1W_JVpZNwYbzzRkWoiIg.GIF.0167513714/profileImage.gif"
+          },
+          {
+            "sid": "34268660",
+            "bodySummary": "개인 취향 따라 여러가지 죽을 주문했다 사진으로는 구분이 잘 안된다 일행들이 죽에 대한 맛 품평을 하지 않았다 근처에 죽집이 별로 없어 속이 불편할 때에는 찾아온다고 하니 괜찮은 ",
+            "url": "https://m.blog.naver.com/lnccorpkr/222771239835",
+            "nick": "울어디",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA5MDhfMzUg/MDAxNjk0MTgzMjY1NjUy.ZMxdHfLYy0OfkHGrxnoCkiywsQffVj7lD3DN_pntj5Mg.6aweJ3a-QurwpiFEl2LqrxJZ6NPoEaUt1WbBW8wYME4g.JPEG.chohaej/profileImage.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

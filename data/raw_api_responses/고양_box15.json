@@ -1,0 +1,550 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 6,
+      "count": 6,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.84068974240552,
+          "minY": 37.66090450450451,
+          "maxX": 126.84637948481102,
+          "maxY": 37.66540900900901
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.84353461360827;37.66315675675676",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1577355961",
+        "name": "몰랑몰랑 식빵",
+        "x": "126.8407112",
+        "y": "37.66092",
+        "distance": 0.352,
+        "categoryName": "베이커리",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220564",
+            "221161"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "베이커리"
+        ],
+        "reviewCount": 504,
+        "averagePrice": 0,
+        "address": "경기도 고양시 덕양구 성사동 714",
+        "roadAddress": "경기도 고양시 덕양구 호국로 851",
+        "abbrAddress": "성사동 714",
+        "shortAddress": [
+          "경기 고양시 덕양구",
+          "호국로 851"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [
+          "쫀득함으로 가득 찬 몰랑몰랑의 특별함"
+        ],
+        "cardDescription": "쫀득함으로 가득 찬 몰랑몰랑의 특별함",
+        "description": "11가지 맛을 즐길 수 있는 몰랑몰랑 식빵은 100% 유기농 밀가루, 100% 국내산 쌀가루만 사용하며, 당일 생산, 당일 판매를 원칙으로 합니다.",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20171022_187/15086784032124C88x_JPEG/Xc9xp88paI30WWkxLbpRdq5K.jpg",
+          "https://ldb-phinf.pstatic.net/20171022_289/1508678421979vO4p8_JPEG/5TxMT8K82JKQ5WKB6IxBln78.jpg",
+          "https://ldb-phinf.pstatic.net/20171022_23/1508678422009ny5DL_JPEG/6yQT5CtwpVy0EZUS-7mXLEyW.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221161",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1577355961",
+            "bodySummary": "#CJ헬로 #채널25 #지금은로컬시대 입니다:) 오늘 소개해드릴 곳은 #일산 에서 #핫 한 #유기농수제식빵 전문점입니다. 보기만 해도 먹음직스럽죠? #빵순이들 출동!!! 빵나오는 ",
+            "url": "https://m.blog.naver.com/localtv23/221369690357",
+            "nick": "LG헬로비전",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA1MjZfMzgg/MDAxNjIxOTg5MTcyNjM5.-47VexP5FoLFFt68HlBxQBMfCBYfBbyyKlTys-kzQwUg.VGygKak3pDbJK0EfsshoYgfdf9B8U4plH5KRatILm4Mg.PNG.localtv23/CI_%25ED%2594%2584%25EB%25A1%259C%25ED%2595%2584_800x800.png"
+          },
+          {
+            "sid": "1577355961",
+            "bodySummary": "흑미쌀빵이 먹고싶어서 갔는데 다 팔리고 없다 빵 나오는 시간에 가야지 그나마 따근한 빵을 맛볼수있는듯 ㅜ 몰랑몰랑식빵을 맛있게 먹는법!!! 냉동했다가 먹어도 된다뉘... ㅋ메뉴는 ",
+            "url": "https://m.blog.naver.com/cooingpopart/221146607924",
+            "nick": "쿠잉",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20150522_207/cooingpopart_1432267675951ARD1y_JPEG/44.JPG"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "id": "19877725",
+        "name": "고자리냉면칼만두 본점",
+        "x": "126.843153",
+        "y": "37.6645533",
+        "distance": 0.159,
+        "categoryName": "냉면",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220063",
+            "220645"
+          ]
+        ],
+        "category": [
+          "한식",
+          "냉면"
+        ],
+        "reviewCount": 6829,
+        "averagePrice": 10000,
+        "address": "경기도 고양시 덕양구 성사동 624-5",
+        "roadAddress": "경기도 고양시 덕양구 호국로 915-45",
+        "abbrAddress": "성사동 624-5",
+        "shortAddress": [
+          "경기 고양시 덕양구",
+          "호국로 915-45"
+        ],
+        "displayContext": [
+          "냉면",
+          "만두",
+          "칼국수",
+          "데이트",
+          "자극적인"
+        ],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [
+          "비빔냉면과 뜨끈한 육수의 환상 조합"
+        ],
+        "cardDescription": "비빔냉면과 뜨끈한 육수의 환상 조합",
+        "description": "고양 시청 근처에 위치한 냉면&칼만두 전문점입니다. 진한 황태육수에 칼국수와 만두, 수제비를 넣어 만든 칼만두와 배, 오이, 깨소금을 푸짐하게 올린 냉면이 인기 메뉴입니다. 칼만두에는 채 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MThfMTg1/MDAxNzU1NTE5NjI2NDQz.2NwoAfcfMYmhAGVtgxT2CoV7BKCRGtg07AZ6vSdp3qQg.gR8jE6DvC4UfonAMoZdgTMkSdAVgS0s9x-Nn_MQ1s2og.JPEG/20250818_191410.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTJfNjMg/MDAxNzQ3MDMzMDc0ODk5.-oOcJyJdBL0473aeCUH3ut7n1xEcDXmLWCbD3jTO5n8g.dGiODxU9Jrf-evF64QpQ_sA61gGK7Z33QZaF6kiScP0g.JPEG/20250512_140058.jpg.jpg",
+          "https://map-phinf.pstatic.net/20170823_285/hoya900509_1503462245906PvKqY_PNG/userRegistration%7C659e11d0c9de4efdb4c6e714ac57b349%7C_002.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MzFfMjU5/MDAxNzU2NjEyMTI4Mjg1.8qeviWrNjW4ECObIURXvuTFAH11sFVlEgOgoWi8oKQEg.AuX2xFNHyFyi1gZ9bzfCd6hAUtQzYId4p1-y_sepmNsg.JPEG/20250816_124831.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20221231_269/1672491328888l7mEj_JPEG/Screenshot_20221231_215522_Instagram.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjJfMTU5/MDAxNzU1ODM5MjM5NjY2.ucFyoLwCy_i-VclHnHXlbjteP-GN3WdvH6fVAL513mkg.v0DjZB2jSgpsQP3COy1taqk5eqfgiQ5878AiIXRBIGMg.JPEG/1000016875.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTJfMTkx/MDAxNzYwMjc3ODU2OTU3.vHEr9JURgIkLnZTk0hjh-HKjPH_r_s6mUQrWyEkoAWcg.9OtDVS2dJMl7saTfr8d4rpjV6Y-KPzklZv0QfDSzkbog.JPEG/0CDE8743-21F5-4971-B898-71E57B8093A9.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjhfMTU2/MDAxNzU2MzE3NjQ2MzM5.BOLubCc-wv2yCZ6mSSTgqeOyGjSGFfDd-i9yTCl5gR8g.TrU6SPOYoSzTGTA6nukUNiLd0Yt49fz_RjMt_DQ_ducg.JPEG/9580FC06-D07C-44EA-BCFF-00E97517679B.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MzBfMTk3/MDAxNzU2NTI5NzQ2NzE4.Hl-4EUD5Xo3pv01Xg7vG2WVrW4EGhRXZ6ccBB3U1Ni0g.C5iPqAB0JjiC-n74QHOgZitRTxkCTQpVx30ReMkceUEg.JPEG/5E73FA1F-3127-4E08-9F5B-230313EA20B9.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjJfMzEg/MDAxNzUzMTc5OTkyOTMx.mjPZwXpEPMYkooAn9qwoRkEruaOIJ9jJ4zbTmZOeVrwg.XGrg6adL-rrsF_4NBoReyhk14URvAwjI7dzMeQSAitMg.JPEG/20250722_192442.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220645",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "19877725",
+            "bodySummary": "(금) PT 받고 출근 전 먹은 고양시 냉면으로 유명한 맛집 고자리냉면 드디어 여름 지나서 방문 직장 여사님들이 정말 맛있다고 여름에 가보라고 하셔서 기대 엄청 가지고 방문함 주차",
+            "url": "https://m.blog.naver.com/dbqlsdl8526/223371426278",
+            "nick": "비니빈",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA5MDRfMTk4/MDAxNjkzNzc3MjkwMDQ2.V91GdrlU8RwaiR72Xv_6fR3VEs5BTH2G5NV72sGJ5aog.7WTyiX4mbsCNyjJzosS5go7T8T5pDfdymi8bTow5PWcg.JPEG.dbqlsdl8526/profileImage.jpg"
+          },
+          {
+            "sid": "19877725",
+            "bodySummary": "고자리 냉면 이 자리로 이사 와서 첫 가격이 8000원이었는데.. 엄청 올랐다. 암튼, 9월부터는 칼만두도 주문 가능한데 여기는 그냥 (물)냉면 맛집임. 테이블마다 미리 준비되어 ",
+            "url": "https://m.blog.naver.com/artraving/223357568948",
+            "nick": "아트레빙",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA4MDNfMjk4/MDAxNjkxMDA3NDA4Mjcw.3mPThIPk-ZKFwDo1ZA3Fmo5jhd8J1Sz1j9XRByACjPAg.7_fFZqoKa8iX_MbXS--_Z5NtdpLm78RHoEiormlH-twg.PNG.artraving/profileImage.png"
+          },
+          {
+            "sid": "19877725",
+            "bodySummary": "겨울이지만 냉면이 매우 땡기는 관계로 점저를 먹으러 갑니다 바로 여기로! 고자리냉면 칼만두 본점 경기 고양시 덕양구 호국로 915-45 031-969-8250 영업 시간 월~토 1",
+            "url": "https://m.blog.naver.com/yeonju2819/223358230784",
+            "nick": "망고",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA2MjJfMTQ0/MDAxNjU1ODY1ODkyMjQ5.Y2at24mKvYMWbuLVqf49Ac5DPO4FwbHbVUpt1ow2rqMg.oXGOrvGHSrnquJySVkzuGQCaq1Xo3EwtLmQg6BKamUIg.JPEG.yeonju2819/20180403_213000.jpg/20180403_213000.jpg"
+          },
+          {
+            "sid": "19877725",
+            "bodySummary": "고양시 원당에는 엄청 유명한 냉면집이 있어요. 역사와 전통을 자랑하는 웨이팅 있는 냉면집인데요, 정말 오랜만에 고자리 냉면이 먹고 싶어 방문했습니다. ㅎㅎ 이곳은 본관이고, 바로 ",
+            "url": "https://m.blog.naver.com/narutop3350/223352296886",
+            "nick": "유앤아이부동산",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMjJfMjE1/MDAxNzAzMjM2NzQyODg1.gBU2VKqWetHxWhVTkLvwcZaA9SVB8Q59wk3T3FtzHBEg.4Zcn682n80cNFDdY_2OyBSNNrO8oqn1RC1yYRWDYHRog.PNG.narutop3350/ui-high-resolution-logo.png/ui-high-resolution-logo.png"
+          },
+          {
+            "sid": "19877725",
+            "bodySummary": "여러분. 맛집 대통령 웨통령입니다. 오늘은 여름을 미리 대비하고자 여름 대표 음식 냉면 맛집을 찾아 다녀왔습니다. 고양 일산에 있는 '고자리 냉면' 유튜브에도 많고 워낙 유명하더라",
+            "url": "https://m.blog.naver.com/jwade_/223328373623",
+            "nick": "웨통령",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMThfMjM0/MDAxNzAwMjgwOTEyNDk1.gxok40_sJCWAshmb6mSCdkriySmxuo2Kx9ucvCh-qbUg.C7guBnTiuCEjHVeQWYe94_h7Fp8qTxhdeWSsfn6Qbjcg.JPEG.wes12345/Screenshot_20231118_095610_NAVER.jpg/Screenshot_20231118_095610_NAVER.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "id": "1692171212",
+        "name": "래미안카페",
+        "x": "126.8417235",
+        "y": "37.661056",
+        "distance": 0.283,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 283,
+        "averagePrice": 3000,
+        "address": "경기도 고양시 덕양구 성사동 860",
+        "roadAddress": "경기도 고양시 덕양구 호국로 860",
+        "abbrAddress": "성사동 860",
+        "shortAddress": [
+          "경기 고양시 덕양구",
+          "호국로 860"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "경기도 고양시 덕양구 성사동 860",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDVfMjY0/MDAxNzU3MDYzMzIxMjg3.yUo0lcnELdq8cn0BGCt1UqO6lVz1rOTG0g874DswcwAg.Tw0px4LbRg9ySQqZ-_aIbHHbhWPWN8p4b6Cvht2UdfUg.JPEG/33604AFA-1BDC-4B95-97BA-3CD9D63F5FCC.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 4,
+        "id": "793282702",
+        "name": "고자리칼만두",
+        "x": "126.8438071",
+        "y": "37.6648659",
+        "distance": 0.192,
+        "categoryName": "칼국수,만두",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220073",
+            "220712"
+          ]
+        ],
+        "category": [
+          "한식",
+          "칼국수,만두"
+        ],
+        "reviewCount": 174,
+        "averagePrice": 10000,
+        "address": "경기도 고양시 덕양구 성사동 625-2",
+        "roadAddress": "경기도 고양시 덕양구 호국로 915-35",
+        "abbrAddress": "성사동 625-2",
+        "shortAddress": [
+          "경기 고양시 덕양구",
+          "호국로 915-35"
+        ],
+        "displayContext": [
+          "카페",
+          "케이크",
+          "냉면",
+          "분위기좋은",
+          "홈메이드"
+        ],
+        "labelTheme": "한식",
+        "microReviews": [
+          "시원한 국물의 오이듬뿍 물냉면"
+        ],
+        "cardDescription": "시원한 국물의 오이듬뿍 물냉면",
+        "description": "고양시에 위치한  칼만두(칼국수+만두), 냉면 전문점입니다  늘 감사한 마음으로  맛있게 정성껏 준비하겠습니다  늘 감사합니다^^",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTRfMTI2/MDAxNzU3ODUxMzQxOTU2.Vjz7lbeZhw8ORJ7jBiCbeH4FkA2H4Ghu3aehCeTa2tAg.DakJKV1HmHzr7VO4ZGiriTczCQAkRcxw3duTMlvhTgQg.JPEG/95EC434E-53BF-4FCB-9EB3-1A3580CE73CA.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjhfMTUg/MDAxNzUzNjgxNjg1NTcy.ctPNzxYi3MQC-FoKZkXCg3c8hgr2N8NJZ2mj53PfSdcg.053XABa4P2AftPLOTiGvRfQ0K44YVtG3AEp7LN-Ki7og.JPEG/20250728_112444.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250428_226/1745803407740sAypS_JPEG/FB_IMG_1742645041049.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDRfNzQg/MDAxNzUxNTk5NTgxNDM4.HpqkK1457AQKExEHkCjlH7dQbAwHqfi7T8hjWBJlMSUg.lu_FqV4wrBY0uPDms1klqjSj9LFbp82eMzlCdnE5zZcg.JPEG/20250703_114546.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250428_166/1745803441027sr8uj_JPEG/FB_IMG_1742644562159.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDlfMjA0/MDAxNzU0NzA2OTEzMTAw.31tBwJuR0NpP_YDaWiXsQ3upEPuy1bEr7lzUHVT_wUUg.lSvZl8b15_3Qxj8ZOBwDekepvUZQMzKUKL5y2NFzTyYg.JPEG/9163F513-F125-486C-AF9E-F95E4165295C.jpeg",
+          "https://ldb-phinf.pstatic.net/20250423_134/1745388632222UamX8_JPEG/1000098806.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MThfMzMg/MDAxNzU1NTAwOTkxOTI5.FJOYPZABY7hy0O1PqMStI4KdS_jdxaD5CODLlcaTGUkg.AHaGIGFMmFKKeR7C8pQGv7ICcmcM6V7mbIXUeh4MMPIg.JPEG/IMG_20250818_133432.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTdfMjg4/MDAxNzUwMTI3NzU3MTg2.lX-0pr6q9R7G4aT-ABv_WIGVNi2tzISs0GstmYNHzBUg.CMgI71ZVHe8wvaFUd9rk8YGOWC7_iLRBLEBhfxmxdZog.JPEG/5640205A-EA9D-4A6A-8421-D249FFFB0D06.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTdfMTQz/MDAxNzUwMTM4NTcxODM3.wbfSwVp0J4BFUTXMaoS8UHdPSh5vQ35F09KbnQvAyIEg.TWXYSh21Qi_Y-gbGg8fuoAhTtnfekziSWubzNVXDUs0g.JPEG/20250617_114801.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220712",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "793282702",
+            "bodySummary": "진초록색의 외관이 인상적인 고양 카페 땡스티628 규모가 꽤 컸다 고양 카페 땡스티628 오전 11: 30am~ 오후 5:00pm 일요일 휴무 옆에 냉면집도 일요일에 휴무라 같이 ",
+            "url": "https://m.blog.naver.com/yunjee92/221778058729",
+            "nick": "뽀둥이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjExMjZfMjI3/MDAxNjY5NDUxNDExODc3.ZKKDc8VDjUMBxyjHtcvvaTnviUOxRwwNoUh-TKwU7r8g.yVyh2j8URHVvrKxAsA7eEpYjUAcun9YpobxAE4KKeHEg.PNG.yunjee92/profileImage.png"
+          },
+          {
+            "sid": "793282702",
+            "bodySummary": "우선 주문하는 곳인데요. 주문하면서 아기자기한 소품에 눈이 절로 가더군요. 이곳을 왜 고양시 카페 중 대표할만한 곳인지 말하자면...우선 규모가 상당히 큽니다. 클래식한 1층과 모",
+            "url": "https://m.blog.naver.com/didimdol72/221673644028",
+            "nick": "와일드셰프",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTEwMTZfNzcg/MDAxNjM0MzQ4NTQ1OTM3.tAVoGH_SLVgChREexYIPgoOTfkbsRh9IUGDcRY6uDskg.JscCocPsPPlL2QPsFCHhQAwkkhqfpvST8u7-MNKB500g.JPEG.didimdol72/profileImage.jpg"
+          },
+          {
+            "sid": "793282702",
+            "bodySummary": "시원하지도 않고 밍밍한? 라떼같기도 하고 저는 별루였어요,,; 오빠 아메리카노 제가 다 먹음ㅋㅋㅋㅋ 꽃이 하나도 안 보이게 찍었네^^? 사진을 아주 잘 찍어줬어요^^〰 고마웡〰〰 ",
+            "url": "https://m.blog.naver.com/haneuuul/221352601085",
+            "nick": "하늘",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAxMjFfMjYz/MDAxNjQyNzY0MTgzOTcw.xImj62SGAwXrbwbLbCT0pCnc3LNpuSqNECEuD9k97_Yg.210c-vEWpbkzX20X7Ed3rjdZagEBIGqxSoGTkeuCJxIg.PNG.haneuuul/profileImage.png"
+          },
+          {
+            "sid": "793282702",
+            "bodySummary": "고양시 대자동 땡스티628 카페를 아시나요? 점심식사 후 한번 들려보았습니다 ^^캎카페 건물입니다 ~마침 캠핑의자와 테이블이 있어서 앉아 보았습니다 ~아따 한잔과 호박케익의 조합 ",
+            "url": "https://m.blog.naver.com/sbhssoo/221284139174",
+            "nick": "부동산 분양정보",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA3MjlfMzEg/MDAxNjU5MDQ5MTI5ODMz.8TxHYfIm5SwRQoAQozxuwB0aEP0kTDYrgSRnSXwyFskg.td-McGwpiJ4oFgtnUcFHSncwSszYKLJXMjDsOPj7xf0g.JPEG.sbhssoo/1000-1000_%25ED%258C%258C%25EC%259B%258C%25EB%25A7%2581%25ED%2581%25AC%25EB%25A9%2594%25EC%259D%25B8.jpg/1000-1000%2B%25ED%258C%258C%25EC%259B%258C%25EB%25A7%2581%25ED%2581%25AC%25EB%25A9%2594%25EC%259D%25B8.jpg"
+          },
+          {
+            "sid": "793282702",
+            "bodySummary": "일산 쪽에 몇 곳 사진 촬영이 있어서 갔다가 근처에서 점심을 먹고 시간에 잠시 들렸던 원당 카페 네이버에 원당 카페를 치니까 '땡스티628'만 검색이 되더군요. 지금은 다양하게 검",
+            "url": "https://m.blog.naver.com/bjstour/221244858294",
+            "nick": "여행하는어린왕자",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAyMjVfMjQz/MDAxNjQ1Nzk4ODg2OTYy.eQGdW6Q1h0imMfcXBf-fXa39p3l4_pZMrPnAAYds_mEg.54y5KKFVMwnm3gTMUvxCg3gKlm6WwIRYofwYvFgDnLEg.JPEG.bjstour/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "id": "1662247019",
+        "name": "명설재명태요리전문점",
+        "x": "126.8451535",
+        "y": "37.664837",
+        "distance": 0.235,
+        "categoryName": "해물,생선요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220076",
+            "220777"
+          ]
+        ],
+        "category": [
+          "한식",
+          "해물,생선요리"
+        ],
+        "reviewCount": 683,
+        "averagePrice": 36000,
+        "address": "경기도 고양시 덕양구 성사동 618",
+        "roadAddress": "경기도 고양시 덕양구 호국로 911",
+        "abbrAddress": "성사동 618",
+        "shortAddress": [
+          "경기 고양시 덕양구",
+          "호국로 911"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [
+          "양념이 살아있는 명태조림의 풍미"
+        ],
+        "cardDescription": "양념이 살아있는 명태조림의 풍미",
+        "description": "- 점심특선 (11:00 ~ 15:00) : 명태조림 11,000원 (2인이상 주문)",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjdfMjM5/MDAxNzYxNTcxMDMwNzY4.FZ6n65vTPnDiPgNOYG6ego-eEliNUWJqHDTDVS_V-Log.viShTfplaM3_eO5I5G5SDi_KVRru-ybBwUjk9aVsXJYg.JPEG/4BC1F48A-878F-4A24-9265-186F624D681E.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDFfMjE1/MDAxNzUxMzYyMTI4ODU5.A0lsXetiwmDRj-thhfGThsQeG3bc5FnydkEMJ-7myEcg.EqXcaTZ1SOledax7HkWpHkEPBvuTUaa4DcFYj2-3ezAg.JPEG/82B17619-F8E0-41C9-B14A-EB7FEB302733.jpeg",
+          "https://ldb-phinf.pstatic.net/20180911_254/1536625501096fOY4t_JPEG/-dWl2cGQ92mjvECYo9qvbj8i.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MzBfMjEw/MDAxNzUzODcxMTgyNTgz.QljxaZ-L5FRE2RsGa0j8XGODTbPyxnyVU1r8n_Ux4Hcg.O9Af0t2RjsUjkhe6UJEfQ4Ta2OIkljglGwleMcNcj7Qg.JPEG/2025-07-30T18_44_28.323.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20180911_109/15366255410417Y3kI_JPEG/JH2werKQ0B5eaa50M1kbngej.jpg",
+          "https://ldb-phinf.pstatic.net/20180911_35/1536625565020jdBQ5_JPEG/Mg3K9JmhdmmGjWpb4AkLaI-W.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220777",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1662247019",
+            "bodySummary": "#고양원당맛집 #명설재명태요리전문점 #명설재 고양 원당 맛집 :: 명설재 알바가는 길에 늘 만나는 명설재명태요리전문점 간판! 생선요리 중 코다리조림 명태조림에 환장하는 나 ㅋㅋ 한",
+            "url": "https://m.blog.naver.com/pixel9/223113279833",
+            "nick": "사진찍는 은월",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMjBfMTg3/MDAxNzEwODkwOTY2NzI2.N5y8K3aWeAQm-zlDoG9GALCaobEAjyFFW7ebcOWOZ8gg.QZGT-lyvUwX9Jr5l8vMhuvLyOt7EACF5AYA-14mvXVEg.JPEG/profileImage.jpg"
+          },
+          {
+            "sid": "1662247019",
+            "bodySummary": "집근처에 있지만 매번 가봐야지 하고 못가봤던 곳 가족 점심으로 다녀온 후기 명설재 명태요리전문점 주소: 경기 고양시 덕양구 호국로 911 영업시간: 매일 11:00~22:00 라스",
+            "url": "https://m.blog.naver.com/yoom9707/222790312533",
+            "nick": "윰",
+            "profileImg": ""
+          },
+          {
+            "sid": "1662247019",
+            "bodySummary": "매번 지나다 첫방문해 본 곳인데요. 괜찮았던 점심식사여서 소개해 보려구요. 덕양구 원당 생선구이&명태조림 명설재 성사고등학교 근처 명태요리식당인 명설재예요. 덕양구 원당 생선구이와",
+            "url": "https://m.blog.naver.com/llde1804/222634977006",
+            "nick": "태린",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDEyMDNfNjgg/MDAxNjA2OTY5MTc3ODYy.JYSlsjCMSR8RGqnqINgtgU-9xCoy-f-rOFTmJ9pHXfUg.xpBsirFJoJY7tVpMhMX_usJalvK7xAvLflAZDzudeH8g.JPEG.llde1804/1599706486038.jpg"
+          },
+          {
+            "sid": "1662247019",
+            "bodySummary": "오랜만에 다시 찾았습니다.사장님께서 아주 친절하시고 젠틀하셨던 기억있어요 원당 코다리조림 명설재 명설재가 이렇게 깊은뜻이 있습니다.테이블메뉴판입니다.점심이라 점심특선에 시래기 추가",
+            "url": "https://m.blog.naver.com/akxlwm0620/221562051214",
+            "nick": "맛남의 밥상",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTEyMTFfOTAg/MDAxNjM5MTQ5NTM0ODI5.kuODZ7pmJ9BnGnokJ_uq075HW5C-SoGgEEuQNGZggkIg.cU3hyqUYNl0oMahZ1an9u6Z0b3vMGSoY_A47z9BZhMYg.JPEG.akxlwm0620/20180126_175249.jpg"
+          },
+          {
+            "sid": "1662247019",
+            "bodySummary": "원당역 맛집 명설재, 찬바람이 불때 먹으면 맛있는 명태요리가 있는 곳 원당에 일이 있어서 갔다가 명태요리가 맛있다는 곳을 찾아갔다... 유명한 고자리냉면 근처에 있는 곳인데 고자리",
+            "url": "https://m.blog.naver.com/krkmkdd/221353248546",
+            "nick": "체리언니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxNzA3MjJfMTQz/MDAxNTAwNjg5OTcyNDA5.ztMjke7SVLJU95ljvxa-_ujJYeVT7MPRODHGEe-o_Z8g.7h8RB2SgoplfrMfT-HRt-9eqZWXFpaI8D7ueIcztMnQg.JPEG.krkmkdd/DSC03255.JPG"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "id": "1686034266",
+        "name": "홍제동순두부우동국수 원당점",
+        "x": "126.8407564",
+        "y": "37.6609452",
+        "distance": 0.347,
+        "categoryName": "일식",
+        "categoryPath": [
+          [
+            "220036",
+            "220038",
+            "220086",
+            "220838"
+          ]
+        ],
+        "category": [
+          "일식",
+          "우동,소바"
+        ],
+        "reviewCount": 79,
+        "averagePrice": 5000,
+        "address": "경기도 고양시 덕양구 성사동 714 1층 114호",
+        "roadAddress": "경기도 고양시 덕양구 호국로 851",
+        "abbrAddress": "성사동 714 1층 114호",
+        "shortAddress": [
+          "경기 고양시 덕양구",
+          "호국로 851"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [
+          "다양한 맛의 꼬마김밥으로 곁들임"
+        ],
+        "cardDescription": "다양한 맛의 꼬마김밥으로 곁들임",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTdfMjIz/MDAxNzQ3NDYyMTc5NzMy.5drxmROlgZfSjBvN2J9FDkQyig7LhPEGBf6q2oNEPxcg.Hai_PMNdJd_QWnxo-EpQvHqXgQmCTuxPZF6q_jfy1tgg.JPEG/87A5E8EF-37D1-4205-929A-DECF4699B1E6.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MzBfMjIx/MDAxNzUzODY3OTAzODk1.EBXvzN-5HrI4QIc5ICwE9kDeuVNZgVQ9SDaJBic-Ajcg.XNqaoRNi4bvBp3X2L4x0887f8D-Syre_vbDicsq7_bIg.JPEG/20250730_182951.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240201_287/1706773045674rCVzc_JPEG/1000002463.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220838",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

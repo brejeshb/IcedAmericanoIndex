@@ -1,0 +1,1129 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 13,
+      "count": 13,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.98140972117122,
+          "minY": 37.5637972972973,
+          "maxX": 126.98254629489496,
+          "maxY": 37.5646981981982
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.98197800803308;37.56424774774775",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1316440044",
+        "name": "파스퇴르밀크바",
+        "x": "126.9815584",
+        "y": "37.5646082",
+        "distance": 0.055,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "1001811"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 466,
+        "averagePrice": 6000,
+        "address": "서울특별시 중구 소공동 1",
+        "roadAddress": "서울특별시 중구 남대문로 81",
+        "abbrAddress": "소공동 1",
+        "shortAddress": [
+          "서울 중구",
+          "남대문로 81"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 소공동 1",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjRfMjky/MDAxNzYxMjg5MDc3Njc4.5X9KeuWeCuupiPqEavuX2xZRf3aYeg-ynhhh1ME0mfAg.M25mar6Tspvoau5b71sUOP6LArT4P7PnvsJpeXmaIQ4g.JPEG/818AAF87-CE8F-45E4-B6BD-1B4E0F63F79E.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTNfOTgg/MDAxNzU3Nzc0NjA0NDMw.fHStNHt1I-IVV517XJkKVzmKEjibKqzAAlm1NDEz1NMg.ZjpzdR_dc9lcrmLcjQgs-Y2vXGKW2_KmfFR0mjQLcz0g.JPEG/64A53D57-1759-4A41-BD89-A78B046361C2.jpeg",
+          "https://ldb-phinf.pstatic.net/20191008_15/1570544085632UCnhK_JPEG/QV4VpWlR6QgIFcEVhS3SzZ1P.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTNfMjAz/MDAxNzU1MDgwNjQzMTgw.FhXVrL2Up_y9G2GQjAtDqDyXermean3H9H_nrxpMoMcg.UW2C5zAuy6TdVABsCe-2zYIBY411T4aQcIrdfOKnqm8g.JPEG/AB6C5976-428C-4923-B604-43ED986BF09C.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjZfMjYw/MDAxNzU2MTkwNTc3NjI3.0iZ4lY93-6UclyYI2oQgsjOknMspzWtADVTS2gXzBVog.IwNgbTn7MA75PVBnrNfJmtmzdR9q4F8Gbr4JhBFRFk4g.JPEG/793839D0-B62D-428A-8FFE-A12257002B29.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTNfNTUg/MDAxNzYwMjg0MDQ3MzQy.CZQE6s0T58F_gtrDwYndksYrP6wtH2CPOkkz3K7X97gg.j81E3qydTFzPwdYIBQbxYTqDGx6JOzndFuixM0Dajq0g.JPEG/0E905BAE-80C5-4956-9EA7-8D3C9C090434.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTNfMTE3/MDAxNzQ0NTQyMjE2MzUz.EC-RPzgO8tv3cmrKpstSuzsWBiX22b92op_rets7djcg.6xqf50E0vocTfVYIsFyNkGD7McArSs6Nx0kZBor7Mpsg.JPEG/20250413_150615.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjdfMjQg/MDAxNzQ1NzI5MTc0MDA2.eIyN3AgRWgfIzx8eiJ4P_KanGXLAJAtutr1NEGpXI_4g.EPVusphCVD6jdp6idQGbDet57ZqhAs4mtcjEozXHuWMg.JPEG/20250427_111833436.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MThfMjE1/MDAxNzQ0OTcxODIzODEw.bHOy80kshdaTxR68TdPAirBzYWW-hC0kpWCWfsCw_18g.8p5FQfhAx7mMXWiHYbo3E2MGgR9Rf0uJvExG8KSc294g.JPEG/CE62C9FE-6F80-4B0D-9CEC-33AF8691FFBA.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjdfNjUg/MDAxNzQ1NzI5MTE5MTMy.MjV2PM4t79UBITuZl_kkglDowQsj-n1pwgx3aXRRD3gg.GQnJ__mrgWrpytSSYKq1XKLVEAWwlItwe-LyFqaFz_wg.JPEG/20250426_160740945.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1001811",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1316440044",
+            "bodySummary": "#파스퇴르밀크바 #롯데본점파스퇴르밀크바 #명동파스퇴르밀크바 달콤한 우유 소프트 아이스크림을 좋아하지 않는 사람이 있을까? 우유로 유명한 파스퇴르에서 만든 파스퇴르 밀크바가 있다고 ",
+            "url": "https://m.blog.naver.com/sparkle_moment/223020336106",
+            "nick": "리카",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjEwMThfMjUy/MDAxNjY2MDY5NzM2MDA1.p_o3An1R4_gIERmOmkxHvbE5K2ymodUkRY_h5TUR2tIg.266I1knq1L7K_iajnkvXJ3B303KwIlvTkUeI41e5sYwg.GIF.sparkle_moment/%25EC%259B%2580%25EC%25A7%2581.gif/%25EC%259B%2580%25EC%25A7%2581.gif"
+          },
+          {
+            "sid": "1316440044",
+            "bodySummary": "명동 롯데백화점 구경하다가 케익을 먹기엔 배부르고 간단하게 아이스크림이 땡겨서 방문한 파스퇴르밀크바 메뉴판 메뉴판 확대 우리는 밀크&초코 컵(4,100)을 시켰다 아이스크림말고도 ",
+            "url": "https://m.blog.naver.com/nhjpp7/222998295172",
+            "nick": "주디",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDEyMjNfOTIg/MDAxNjA4NzIyMDc1NTQ0.Hooqt_OUofw_Eo0iNq60Fr0wfPsU5DAWTnJdylyv5Fog.2neGMhfUETeGFNG7tCvwnA8bCxgSS-fDg4MdRYmoRk8g.PNG.nhjpp7/profileImage.png"
+          },
+          {
+            "sid": "1316440044",
+            "bodySummary": "#롯데백화점본점카페 #파스퇴르밀크바 #내돈내산 베테랑에서 배 채우고 디저트까지 야무지게 챙기기 위해 아이스크림 먹으러 찾아갔던 파스퇴르 밀크바. 졸졸 쫓아갔던 나는 파스퇴르 우유는",
+            "url": "https://m.blog.naver.com/wjdal1435/222880094857",
+            "nick": "곳간주인",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA3MjNfMjE5/MDAxNjkwMTE2MjU2NTIy.YzscCuzYB-otdNqsCqW1Xd6L5L3YvNud83e_bNzdLAwg.jBPZbcUmls3eUz6NsNgsf9MMrK6Zyi8GzSH3iDcismwg.JPEG.wjdal1435/profileImage.jpg"
+          },
+          {
+            "sid": "1316440044",
+            "bodySummary": "커피 메뉴도 있고 쉐이크, 티 아이스크림도 있어요!저희는 밀크&초코 컵이랑 블루베리 쉐이크 마셨습니다. 홍보용 샘플~ 파는 것 아니에요 항상 백미당 먹다가 파스퇴르는 처음 온 것 ",
+            "url": "https://m.blog.naver.com/sikotw/222877937859",
+            "nick": "샐리",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAzMjFfMjIg/MDAxNjc5MzgzNDM0Mjgw.F_1kdyq0rWB6Ini_3upaziV5hHeOjiidbCGnbBZhktAg.7SyiHS6YbVkpPINf8Qa2dMEE68-W04st1UjCrHXM0n0g.PNG.sikotw/profileImage.png"
+          },
+          {
+            "sid": "1316440044",
+            "bodySummary": "롯데백화점 본점에 갔다가 저는 커피를 마시고 아이는 아이스크림이 먹고 싶대서 둘 다 가능한 매장을 찾던 중 파스퇴르밀크바를 발견했어요. 저 혼자 갔으면 스타벅스나 뭐 다른 많은 카",
+            "url": "https://m.blog.naver.com/nadaumii/222869544532",
+            "nick": "뚜까",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAxMzBfMTEz/MDAxNjQzNDY5OTg4NjU1.bdPQfbeTJgVSbF7GBWQwow4NcUFXAL_pNyb8f1enY5Ug.cQc7TnWssywVIi5NehhT9Z4zbpWYSQNPYQP5tkmsYaUg.JPEG.nadaumii/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "id": "347771814",
+        "name": "티라펠리체 롯데백화점본점",
+        "x": "126.981444",
+        "y": "37.5646316",
+        "distance": 0.064,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 2001,
+        "averagePrice": 7000,
+        "address": "서울특별시 중구 소공동 1",
+        "roadAddress": "서울특별시 중구 남대문로 81",
+        "abbrAddress": "소공동 1",
+        "shortAddress": [
+          "서울 중구",
+          "남대문로 81"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [
+          "믹스베리와 티라미수의 달콤한 만남"
+        ],
+        "cardDescription": "믹스베리와 티라미수의 달콤한 만남",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjJfOTUg/MDAxNzUzMTgyMjMxNjg5.YadRhzVRJTJFrL2esi_e5wMITyiur4CY89NOUFcdNbAg.7LbnI3qEuwTCst4Q1waQa9Go-f3XV02iaP_ECDhrXeAg.JPEG/IMG_8831.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDFfMjk5/MDAxNzU2Njg1MjgxMzky.jMDcTJeWMFsOJQyDwrgqC7tP87MZCtCHxckP4KOXNnQg.Q-5JzpPxkwK9vBm57ltMImVM-p7aCsG_iAlIRgw6XvIg.JPEG/20250730_121010.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20190819_44/1566170615895gh4V7_JPEG/pbR5DR5nabI7qfiSaWEA79fq.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTZfMjIz/MDAxNzQ3Mzg1MjgzNzQ2.ZmWs3HSYYF2erQHpgLl8gjwPge9_ZauX70tI-B39vnIg.esP-Z6vjvjw-q-EAFj59RhiMDfgaKICCNocI_XkjpY8g.JPEG/20250514_122353.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDZfMTU3/MDAxNzQ2NTM2MTI2Mzcx._d0xXtn7t2HEmD810gdOUw2EYFYxhU5rIm8ep9ArirIg.3me_Xhowokc6chp_1Ji6VLpDUXIa6dW2YhLl9zrsKHkg.JPEG/F0D796AB-A42D-48AD-A789-373AE6D373AD.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjFfNjYg/MDAxNzUzMDczODQ1MTQ1.z_Cc_lAMWv61eURjzDH2bEhhDo8zedlsNTuKw5HDVFog.rm-Q4yg33zzncXmOdAFgJ5zSlyUwfhshu6sKB4Hj9hIg.JPEG/1000075257.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjhfMTgx/MDAxNzU5MDI4MzcwODg1.4TJduBBtBcRzCJFc2RPbuLqiLI3h_5SYyi121P7EZAcg.N6jXQIiYiSAMZkYwNYavA58Gr-oDzKdTotyoMygPPFog.JPEG/20250926_104025.heic.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjJfMTIx/MDAxNzYxMTI2OTg0OTM0.EUzn119Bp-uKXdoRWOM55RRfTOJ93iSIjkEYbkosZqAg.8qq8T4VAY48oSeHzaPMAgCF8c-6lecT0Ih1Un_Obmjsg.JPEG/291C5A96-5F51-42A4-8792-126CAC34A925.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTJfOTkg/MDAxNzQ3MDA3NzA4NDI3.1DAP6vXRglyvABXd8IM9YsaU92_UjPkxS5xRZGGcAVMg.uCsh3Coe0CVgnxJqlidaoDfi8r190sRBpoaxe4ZI1o0g.JPEG/20250510_132614.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDZfMTY5/MDAxNzQ5MTczODkwNzYw.hoS4wcfW_z3CpEJf7MyXti-3T_AjJ54ABKtXyf5mLYog.I7CPVHYXRgmoFr1BQdmqO-BC7jJ8-UVo8Aq7G-NB7d8g.JPEG/20250605_135829.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "347771814",
+            "bodySummary": "백화점에 쇼핑하러 간건데 남대문시장, 명동역에서 체력을 너무 많이 써서 카페에서 당충전만 하고 돌아왔음 보람있었던 건 완전 촉촉한 인생 티라미수를 만났다는거 티라펠리체 롯데백화점본",
+            "url": "https://m.blog.naver.com/dahey0713/223389107397",
+            "nick": "Darong",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAyMDlfNDcg/MDAxNjc1OTM0MjE0ODI3.rIiRl7XVZXvHclbyQnSPllB9fw-j4_VR9lCsMhuTcI0g.hs2oQ5y_aFubDxWEA4dSqnGsDT7hazY6f1ijZeZ1xp8g.PNG.dahey0713/profileImage.png"
+          },
+          {
+            "sid": "347771814",
+            "bodySummary": "아마 티라미수 비주얼을 보신다면 고개를 끄덕이실 것 같아요 명동 디저트 카페 맛집 티라펠리체 롯데백화점 본점 [티라펠리체의 위치] 명동 롯데백화점 본점 지하 1F 푸드코트에 있습니",
+            "url": "https://m.blog.naver.com/eprtnsdkshfw/223376783137",
+            "nick": "날씨맑음",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA3MTdfMTgw/MDAxNjg5NTk5NDAzNzI1.ZOMPojDQnMXUARc-XszE-vufBlxvWQcvehYd02Atggwg.IE3HIySY5eTHzzm_KYAhbKpMQA05iRTgNMqgXMU_Mkcg.JPEG.eprtnsdkshfw/profileImage.jpg"
+          },
+          {
+            "sid": "347771814",
+            "bodySummary": "안녕하세요 냠냠채선생입니다 롯데백화점본점에 갔다가 티라미슈 맛집 티라펠리체에 다녀왔습니다 티라펠리체 롯데백화점본점 서울 중구 남대문로 81 롯데백화점 본점 지하 1층 ✔️영업시간 ",
+            "url": "https://m.blog.naver.com/ehchae0629/223309119307",
+            "nick": "냠냠채선생",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAyMjBfMjcw/MDAxNjQ1MzYzMzI5MTA1.pBm__LAtWYSbtrXKUI5ryb13kYHb0OWcR0_t3AJVKBwg.O05Tusj__qFQA1hDGbfBTJInmy89zblRm422NKMeusUg.PNG.ehchae0629/profileImage.png"
+          },
+          {
+            "sid": "347771814",
+            "bodySummary": "아르망이에요 뜨끈한 점심을 먹으니 달달한게 먹고싶어 찾아들어간 #티라펠리체 롯데백화점 본점 후기를 남겨보아요 티라펠리체 롯데백화점본점 주소 서울 중구 남대문로 81 롯데백화점 본점",
+            "url": "https://m.blog.naver.com/armand86/223299139345",
+            "nick": "아르망",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA5MTJfMjAy/MDAxNjk0NDc5Nzk3ODQx.azcW3iDkT4BV7-qKe03wqVX2x_tCMZKuy2n9HAS5B_sg.7T_fx5lNyVEQtKPzHW5-JJ0e3xhR5csn2hhb31t_JGUg.PNG.wanarum/profileImage.png"
+          },
+          {
+            "sid": "347771814",
+            "bodySummary": "시그니처(차이나블루,스무디류 등), 빙수, 티라미슈까지 가격대는 무난한 편이에요 빙수 맛있어보였는데 제가 갔을때 이미 소진이었어요 그리고 티라미슈도 ㅜㅜㅜ 넘 아숩,,,, 그리고 ",
+            "url": "https://m.blog.naver.com/snowflake_jj/223281464555",
+            "nick": "snowflake",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA4MjVfMjAg/MDAxNjkyOTcwMjYyNTEy._5MPLfSvqD01UShwnH-fPKjEY_6owGTFyQ-pwhC22CIg.FLeK9w2SPBfcU3fyywY5cstDdjnYN-yzRSCsfDLi8Rgg.PNG.sjsj0_0/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "id": "34677836",
+        "name": "폴 바셋 롯데백화점 본점",
+        "x": "126.9817026",
+        "y": "37.5645786",
+        "distance": 0.044,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221346"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 6094,
+        "averagePrice": 5000,
+        "address": "서울특별시 중구 소공동 1 롯데백화점 본점 지하 1층",
+        "roadAddress": "서울특별시 중구 남대문로 81",
+        "abbrAddress": "소공동 1 롯데백화점 본점 지하 1층",
+        "shortAddress": [
+          "서울 중구",
+          "남대문로 81"
+        ],
+        "displayContext": [
+          "아이스크림",
+          "밀크쉐이크",
+          "카페"
+        ],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 소공동 1 롯데백화점 본점 지하 1층",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjFfMTQy/MDAxNzU4NDQyMDczMTYw.CW162pheFEAHMYYwRf38u38kTEo4zClmontp8l3oltgg.cMD91FTX6Yv83x7rp99VK9k3jdN6IvshKug8n4kxzBsg.JPEG/1000131556.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDRfNzcg/MDAxNzU0MjM2NTA5MDMw.Kn2PIzdtThX-4PNvYOUoEvfx830LKiyWq3ne4S_Nycgg.guHtsfR6EIkZEcato0jJ7fdc1Q7RqOXNvaATBVMr_NIg.JPEG/20250802_112712.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250122_231/1737527881448uu03E_JPEG/%C6%FA%B9%D9%BC%C2_%B7%CE%B0%ED.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDlfMjAz/MDAxNzU5OTgyMjY0ODU1.6b2MCWvGl3iumu8RWzCRXVHKjBc_9yz7UVV-YT3lRsMg.iSo03MnaO8-_SKiYVdrCHpWpyQqwtUXZ1Qfq6OXG1Fog.JPEG/8157BBB8-A8C3-4F96-B29F-DE757BA6E0BC.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTRfODUg/MDAxNzQ3MjIxODc3MDE4.l2cmQyPtPF4PHsrog-p0iDU8YZlxUN3vxkgRr4-No24g.S5jV-zKr4VMnRUastYnx4eylgJFr8myhxGAWzoY8yL4g.JPEG/20250514_192454.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTZfMjk4/MDAxNzUwMDgwMTI0NDQz.9lAPHHrpMwATdioymoHlZbvWq1mLLBoSDRBx0D2ya3Ug.MXazwMXRWQavDRZx_Q3GFlPI8sBLFbv2f9K6uMyazxsg.JPEG/66B6C942-BB32-4DD6-989B-D60C0AC8963F.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjJfMjI1/MDAxNzUzMTk1NzE4Njky.O4xSlqf67xAFJ4Aks6kjdUg_zLwt_VGQ5lWWtcOpP_cg.4DpgoaCpjSLX32MHyr6h3ywIs-zf9ZEwGXauP5iK5dkg.JPEG/78332B33-D062-4DC1-98B5-269ED002CE7B.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTAzMzBfMzcg/MDAxNzQzMzM5MDY0NjE4.BIkDUWwUg7RT15B2jXBjFH_1mUX67Cntywbcsx7xK5sg.svXeqYC7j-gYCGh6B8_98ZEyCv_TkVMIO1CArhsEuzcg.JPEG/E6A39FF1-30F1-4FF0-9B77-40E002438B59.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDFfMTg1/MDAxNzU0MDQzMzExNjU4.AOJeTAu1V5Riq6fFeyJqVqYT2Hmxq7TgzqIYz2qG-zQg.C00Ts1eXswPk_qXKJ-ocz2RFUtCDvDbYCsCZYiLd6Dkg.JPEG/20250801_150303.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDhfMTEx/MDAxNzU5OTM0MTk2MTU0.8ZLtWO8gl9Wj2_sZ-37o5lLlOrQinUPDZmsmjx_uHsIg.bPQZKIxwKM0I3AQcMzFn8XrNTMGmEGNM6OEGJ57_TzUg.JPEG/20251008_180035.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221346",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.5",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "34677836",
+            "bodySummary": "필자 폴바셋 아이스크림이 처음 나왔을 때가 기억난다 정말 너무 맛있어서 혁명이라는 소리가 절로 나왔는데 폴바셋 아이스크림 여전히 맛있다 폴바셋의 라떼와 함께 . . #폴바셋 #롯데",
+            "url": "https://m.blog.naver.com/iwishagain/223289991946",
+            "nick": "송항이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAxMjZfNTcg/MDAxNjQzMTg4ODE5ODQ4.dUZP8HiH8yl82mNNyKFnJe8FhgkO-S7mVmcdYDn2tH8g.cfmncO3cpb32vuzD07qUjywMloaBzoPvuzdvtXh5ZXAg.PNG.iwishagain/profileImage.png"
+          },
+          {
+            "sid": "34677836",
+            "bodySummary": "폴바셋 롯데백화점 본점 위치: 서울특별시 중구 을지로 30, 롯데백화점본점 본관 지하1층 운영시간: 10:30-20:00(or 20:30) 백화점 운영시간에 따라 변동있음 폴바셋 ",
+            "url": "https://m.blog.naver.com/potbeau/223097841623",
+            "nick": "온히",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjExMjBfMjk1/MDAxNjY4OTIyMjk2NDI0.Uze5TBrsqDwLAFM-5lYi3UwI8ec_YFvd-OkhIBqqO1Ag.bsHHpKZT-ElkvcPb_BFLVX56Gut7dZRVf9OGgBJM8f0g.JPEG.potbeau/%25EB%25A9%2594%25EC%259D%25B8%25EC%2582%25AC%25EC%25A7%2584.jpg/%25EB%25A9%2594%25EC%259D%25B8%25EC%2582%25AC%25EC%25A7%2584.jpg"
+          },
+          {
+            "sid": "34677836",
+            "bodySummary": "오늘은 롯데백화점 본점에 있는 카페를 소개하려고 합니다. 이곳이 바로 폴바셋 롯데백화점 본점 입니다. 롯데백화점 본점에 오게되어~ 밥먹고 커피한잔 할때를 찾아야하는데 마침 폴바셋이",
+            "url": "https://m.blog.naver.com/jinminloveyou/223094493392",
+            "nick": "인생은아름다워",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA4MzFfNiAg/MDAxNjYxOTUwNzkwMzc5.1edpLcyHDtPtej9Pbj6DhBVUN8KInkhz6s7I9Fljgacg.p-EUxBRlXM4jALmuWd970mdXYjC61O3T0mTiIfuRgccg.PNG.jinminloveyou/profileImage.png"
+          },
+          {
+            "sid": "34677836",
+            "bodySummary": "폴바셋 롯데백화점 본점 위치: 서울 중구 을지로 30 영업시간: 매일 10:30~20:30 (백화점 휴무일에 휴점) 주차: 가능 식품관 구석에 카페들만 모여 있는 공간이 있는데, ",
+            "url": "https://m.blog.naver.com/32daisy/223070718189",
+            "nick": "빵부장",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA5MjlfODcg/MDAxNjk1OTkwMTYzNTcz.3NofpeJn_AWgozcHNqpCGiPHgg6C6NHxgHoXsPv2u_cg.TANonJ-_WYvYwTsMFV-VzHJaqOtfhJ4N6DSEn2I5Zhcg.PNG.32daisy/profileImage.png"
+          },
+          {
+            "sid": "34677836",
+            "bodySummary": "폴바셋 롯데백화점 본점 10:30 - 20:00 백화점 휴무일 휴점 주차 가능 커피 스트림이라는 곳이 있더라고요. 사실 친구가 카페가 저기 있는게 아니냐고 했는데, 제가 이 간판 ",
+            "url": "https://m.blog.naver.com/yooonsisters/223043509103",
+            "nick": "윤동생",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAyMDdfMTQg/MDAxNjc1NzM2ODk4Mzky.0SlfgSeNCubXTGPEXzt-_fJz03kRpOl7RxlxeU-gfSEg.iKjs6pebgLDvH0NEOBg7afXS7GI1JGt2Kpcj0ywmMikg.PNG.yooonsis/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "id": "21440007",
+        "name": "고구려삼계탕 롯데백화점본점",
+        "x": "126.9817831",
+        "y": "37.564627",
+        "distance": 0.046,
+        "categoryName": "백숙,삼계탕",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220774",
+            "221606"
+          ]
+        ],
+        "category": [
+          "한식",
+          "백숙,삼계탕"
+        ],
+        "reviewCount": 1085,
+        "averagePrice": 20000,
+        "address": "서울특별시 중구 소공동 1 롯데백화점본점 13F",
+        "roadAddress": "서울특별시 중구 남대문로 81",
+        "abbrAddress": "소공동 1 롯데백화점본점 13F",
+        "shortAddress": [
+          "서울 중구",
+          "남대문로 81"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [
+          "치즈 쭉쭉 찜닭의 달콤한 유혹"
+        ],
+        "cardDescription": "치즈 쭉쭉 찜닭의 달콤한 유혹",
+        "description": "1979년에 롯데백화점에 문을 연 삼계탕, 한식전문점 입니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTBfMjU0/MDAxNzYwMDk5MjQ4NTUy.l5hdo4xYl_EedM7LT0utvBhPEOafKyBg-Xg_tIXFos8g.uyQSDIAI7s1HnNKMaFD5agMkL3a1hUUrohtvmZaRJKEg.JPEG/4BB0B9DE-A9E3-4DC0-A981-9A0609B81CF9.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDhfNzMg/MDAxNzU3Mjk4NTc1ODQ1.BYf4pN1TDA0bZvIjALMcqM5D6H13Z-2-i1VwbIyuGJog.Cf_s1QFzf3VYhseflHgtZt1WM7tpKK4mrvWqC5mwR-kg.JPEG/IMG_5568.HEIC.heif.jpg",
+          "https://ldb-phinf.pstatic.net/20211202_287/16384510510118CI7L_JPEG/image_3031818991533723844571.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjlfNTkg/MDAxNzUxMTg1OTY0MTcx.wIycVFVxL0T8j1cb-kDwr_fsz_qYfwYVfSFhiimlQ_8g.n1pVcm63JO67OmVOdHgmQQNH_aYTft978GU3Rq9yyF8g.JPEG/20250629_170211.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjlfMjk3/MDAxNzQ1OTM0MTgyMzQ0.nsuNe4135_vxA4gxKEdyz7yWZOFkLzGOY0q55OB9-m0g.K5Y6LNLBMQWhlVOzt4TDbd8lXmn-waJyN50N6ufon0wg.JPEG/3D1D00E9-8652-42A8-94C0-4F6F24938FF6.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTJfODYg/MDAxNzYwMjQ2NDk4MTQ0.gK22TecA0bzfcNQVhO0uaEFKufQgiZs2uOWDfWdNXgIg.QEE3OAbnbN_xEmS1W0D8YZV85z3GFL69gcfzf1R2SH4g.JPEG/F70E6F28-D104-4F52-A1A4-F9D91B43B037.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjJfMTIx/MDAxNzU1ODM2OTk4NTQy.LsrhtdSf6PMQ2pYfJEMAwXpFVoA_RUkIMizq_L3_2Ycg.sUA5C2BYciAsGRZgqpfJjnzY87y1Tm5neiDc_HrjH54g.JPEG/B4CF3B57-CB54-4FC0-AB10-C48C422887B3.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjlfMiAg/MDAxNzU5MTI4NDQ5MDU4.erBuQB1BM4X7yy7wv43nrYNVKAIX8TCjpL64lwuxocIg.wwC_6uv_tZMgIX5NGuxaPtFVZAzbPHRdYRKfsI1qxqwg.JPEG/wx_camera_1759120099429.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTdfMTY4/MDAxNzUwMTM5MDk5Nzg5.2M-iF1HmpbFUL6D0rChppef-2a8RinMh1_XHjzKdf0Ug.pLe6ItLgLdRRyIGzZ6qptqoOcqkxjbirEvQ29GdI6OIg.JPEG/1000015638.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDdfMTMz/MDAxNzU5ODI1OTkzNDk4.TZp4-00CnJ_nYY4nivpcnsVuIpg3Q9zbAghj8CGcAUsg.R39Bu3XE5CkTg30X1-crrBPuUBVyiCKAVGSBEUCCaU0g.JPEG/A00BDEFD-A846-43A9-BD65-2B9A6B9BEE42.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221606",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "21440007",
+            "bodySummary": "고구려삼계탕 롯데백화점본점 서울 중구 을지로 30 롯데백화점본점 13F 을지로입구역 7번 출구에서63m 매일 10:30 ~ 20:30 20:00 라스트오더 02-778-6309 *",
+            "url": "https://m.blog.naver.com/mocasarang/223157267787",
+            "nick": "플로라",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjExMjNfOTgg/MDAxNjY5MjE0MTM5MTk2.AYkrFqZ7kyON6SBhEN3htQhlY_D0NMWD2Y2jo5gqDhsg.Fb2n3R7d0nJQ5rMcVvPmoaZb2kF_nqe8cry6a8adw58g.PNG.mocasarang/profileImage.png"
+          },
+          {
+            "sid": "21440007",
+            "bodySummary": "#삼계탕 #치즈찜닭 #고구려 #을지로맛집 안녕하세요^^ 오늘은 롯데백화점본점 13층에 위치한 삼계탕집을 소개 해 드릴려고합니다. 사실 고구려는 삼계탕도 맛있지만 바싹튀긴 후라이드치",
+            "url": "https://m.blog.naver.com/ssongda12/222991362566",
+            "nick": "효옹",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMjVfMTc1/MDAxNzAzNDk3MDgyMzA3.7m7JpcXYVyFJ0P9mJJGncueGPXWe558vHbZLtz1qGTkg.Ou4REoBnRGGwxmj8nORWgk__P72aFTMjngoTCdX6kDUg.JPEG.ssongda12/profileImage.jpg"
+          },
+          {
+            "sid": "21440007",
+            "bodySummary": "을지로 맛집 추천 고구려 삼계탕 롯데백화점본점 내돈내산 리뷰 주소 : 서울특별시 중구 을지로 30 롯데백화점본점 13F 영업시간 : 10:30~20:30 *롯데백화점 본점 휴무일과",
+            "url": "https://m.blog.naver.com/lee11338/222842979837",
+            "nick": "갱스타",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMDJfNzkg/MDAxNzA0MTkyNTUwMDk0.EBMEe4tL06_4WY3AzR08cyfTLNHey7ryekBuCzkrI0gg.wVpR2ujzvdFzN5FAi9M0gKuAFewT2WJ6ykOy1zHYzlQg.PNG.lee11338/profileImage.png"
+          },
+          {
+            "sid": "21440007",
+            "bodySummary": "초복이라 하여 찾게 된 롯데백화점 본점 13층에 위치한 '고구려' 점심시간이 지난 시간인데도 사람이 꽤 많았다. 고구려 메뉴판 메뉴 자체는 엄청 많진 않은데 맨 뒷장에 외국인을 겨",
+            "url": "https://m.blog.naver.com/sultory_/222813946326",
+            "nick": "술토리",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA5MjJfMTg2/MDAxNjk1MzgwNzgyNDIx.NF5yeCjuKSfceMXadKSpATkvN32Vxg6LWZV4_ljFKzQg.d0yYypMPyz5NI4lMmWJrN-9j86gKlnrBMBNct-u5ukog.JPEG.youngvelyer/profileImage.jpg"
+          },
+          {
+            "sid": "21440007",
+            "bodySummary": "고구려 삼계탕 롯데백화점 본점 위치 : 서울 중구 을지로 30 롯데백화점 본점 13층 영업 시간 : 10:30 ~ 20:30 (라스트오더 20:00 ) (휴무일은 롯데백화점 본점의",
+            "url": "https://m.blog.naver.com/joo1294/222748544542",
+            "nick": "쭈댕이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTEyMjNfMjg3/MDAxNjQwMjYxNDY3NTkx.XDPedjoTO037nb2XW_CNDnpK21l-tP57_Vaz8Czu3Tgg.vnevV6u00IdFLVSwaSB99qm8pTUHZBvJcPBCDL5hKpYg.PNG.joo1294/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "id": "1084047877",
+        "name": "노야 롯데백화점 본점",
+        "x": "126.9818081",
+        "y": "37.564616",
+        "distance": 0.044,
+        "categoryName": "일식",
+        "categoryPath": [
+          [
+            "220036",
+            "220038",
+            "220083",
+            "220821"
+          ]
+        ],
+        "category": [
+          "일식",
+          "샤브샤브"
+        ],
+        "reviewCount": 141,
+        "averagePrice": 30000,
+        "address": "서울특별시 중구 소공동 1 14층",
+        "roadAddress": "서울특별시 중구 남대문로 81",
+        "abbrAddress": "소공동 1 14층",
+        "shortAddress": [
+          "서울 중구",
+          "남대문로 81"
+        ],
+        "displayContext": [],
+        "labelTheme": "일식",
+        "microReviews": [
+          "가족과 함께하는 무제한 샤브샤브 파티"
+        ],
+        "cardDescription": "가족과 함께하는 무제한 샤브샤브 파티",
+        "description": "프리미엄 샤브샤브 & 스키야키 무한리필 <롯데백화점 본점 맛집 노야>  노야는 질 좋은 고기, 신선한 야채, 프리미엄 버섯을 제공하며, 취향에 따라 선택할 수 있는 다양한 육수와 함께 최고의  ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTJfMjM5/MDAxNzU3NjIzNTkyOTI0.T6fqWOQyvO5SSk6km5yVr1TmelIOMtgIfMXNY9O65Sgg.Lv6dokiz_XWhFPXwXsi0hlX6bffuEZVP0pTVF520-cIg.JPEG/D2BBA65B-3CF2-4D30-8FBA-7EED09BCA9C0.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDJfMjIw/MDAxNzQ2MTM3MTA3NTMw.TM7iwnmPhDOSt3914GxTm9vVyUBPjp84WHfFEm3tQrkg.nS26bASsIYXRPSh6IW9OpTd38oDW1sYn69rtCIIRAp0g.JPEG/20250426_132719.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250623_51/1750643969085qQohL_JPEG/%B9%AB%C1%A6%C7%D1%BB%FE%BA%EA.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTNfNTgg/MDAxNzQ0NTM1Nzg1MDQ2.kDSFEWpe4dkYKlZi-89LKZpxJbLScdJ_3sRxIYV49_Eg.OEfTxnM8-cbDBba-llaFXIwUlk74cij8lHkE8bj_Xokg.JPEG/789A45F8-593E-48B0-BECE-81D1C4F2431A.jpeg",
+          "https://ldb-phinf.pstatic.net/20240430_173/1714462743281JekxP_JPEG/1000029387.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjNfMTA4/MDAxNzU4NTg0MjQ4OTMw.a2jXNj_DwbbaLaVTEP-7RdJeJ9AzFzKz0sGxqPyVvQ4g.03xgvYJ2BOZRVlfy-AY4R96MZDc9N-0xp-H-8pNJ_JYg.JPEG/7D61BC0B-027B-4CCE-863B-F874AFDDC5E5.jpeg",
+          "https://naverbooking-phinf.pstatic.net/20240429_224/1714390868760vzD7q_JPEG/%B3%EB%BE%DF_%B8%ED%B5%BF_%C0%D4%B1%B8_%C0%FC%B0%E6.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTNfMjEw/MDAxNzU1MDQwMTM5NDI1.cImUsRZ1TdtnvQ0kwvkK5fQKk4SUujwy1ctw7casYkMg.3XyawPffuGmdgVBzbryAFJY3fTsl7nUVTVfa1tcXFNIg.JPEG/6D4AD6E6-5F5C-4E88-9F90-47CA02DE5D9E.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjlfODIg/MDAxNzQ4NDgxODkzMjI1.e7zoQpOkd6FWeA7T_enOe_i9a5SaluOAvz85fNTyyFcg.9YRpuEE7nYp1WkJBt2ADVci6Or9dlMFDHGekGu2oZvIg.JPEG/1000014233.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDFfODUg/MDAxNzQ2MDgzMzI3Nzk0.vncY5a3_Aj4f-zOwL8u6Ia8G4ax6vNdAQv8eUgEuFaMg.e0HdMBme-TbTM_Kbh0poSUvfTloXT1iVV8hLlANjB68g.JPEG/74D9F87F-2B36-4422-BAEB-C4340C58E8E6.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220821",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 6,
+        "id": "1317265897",
+        "name": "서울만두 롯데백화점 본점",
+        "x": "126.9817629",
+        "y": "37.5642224",
+        "distance": 0.019,
+        "categoryName": "분식",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "1003593"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "분식"
+        ],
+        "reviewCount": 177,
+        "averagePrice": 5000,
+        "address": "서울특별시 중구 소공동 1",
+        "roadAddress": "서울특별시 중구 남대문로 81",
+        "abbrAddress": "소공동 1",
+        "shortAddress": [
+          "서울 중구",
+          "남대문로 81"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "서울의 백미 대한민국을 대표하는 만두의 식문화를 만듭니다",
+        "description": "서울의 백미 대한민국을 대표하는 만두의 식문화를 만듭니다",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjJfMTYw/MDAxNzU4NTMyMzc0MTc4.5kr2FCTd2A6YiTDN29a-wpjovhcWthOWYBb41-37UPgg.5LhiL-kj3DD5B2gaxhILXFrkEWrd1Pa5119eGVhju4Ig.JPEG/20250920_200222.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250716_39/1752642724366M6yXg_PNG/250615_%BC%AD%BF%EF%B8%B8%B5%CE___%C4%BF%B3%D8%C6%AE%C7%F6%B4%EB_%C3%BB%C1%D6%C1%A1___POP_2%C1%BE___A4_%BC%BC%B7%CE___%C1%A6%C0%DB%C6%C4%C0%CF_CS5_%B4%EB%C1%F6_1.png",
+          "https://ldb-phinf.pstatic.net/20250716_272/17526427840292xCez_PNG/%BF%AC%C3%E2%C4%C6_2_%B4%EB%C1%F6_1.png",
+          "https://ldb-phinf.pstatic.net/20250716_213/1752642798527VHjyQ_PNG/%BF%AC%C3%E2%C4%C6_%B4%EB%C1%F6_1.png"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1003593",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 7,
+        "id": "1058447668",
+        "name": "한우리 롯데백화점 본점",
+        "x": "126.9819581",
+        "y": "37.5646001",
+        "distance": 0.039,
+        "categoryName": "한정식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220056",
+            "220602"
+          ]
+        ],
+        "category": [
+          "한식",
+          "한정식"
+        ],
+        "reviewCount": 692,
+        "averagePrice": 30000,
+        "address": "서울특별시 중구 소공동 1 롯데백화점 본점 13층",
+        "roadAddress": "서울특별시 중구 남대문로 81",
+        "abbrAddress": "소공동 1 롯데백화점 본점 13층",
+        "shortAddress": [
+          "서울 중구",
+          "남대문로 81"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [],
+        "cardDescription": "한우리 소공점은 2호선 을지로입구 지하철역과 바로 연결되는 롯데백화점 본점 13층에 위치하고 있습니다.  2018년 3월 23일 새롭게 리뉴얼 오픈 하였습니다. 1988년 11월 '우정'이라는 상호로 개점 ",
+        "description": "한우리 소공점은 2호선 을지로입구 지하철역과 바로 연결되는 롯데백화점 본점 13층에 위치하고 있습니다.  2018년 3월 23일 새롭게 리뉴얼 오픈 하였습니다. 1988년 11월 '우정'이라는 상호로 개점 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTVfMTU3/MDAxNzU3OTMwMTMyMjYz.NJBo2sA2Lff53Y4e5_Ho3I8NYbbgeHOenfTCJu0p0y8g.jipFs9kQ0_TluV5a_e24eM1Afm5IPpY2RBo6qZUanhEg.JPEG/D764CEB7-1058-4EFD-9A23-AE6776212E9E.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjNfMjUx/MDAxNzU1OTQ1MDgzNTQ4.d3ehyy_ZZ48V4QoGeDsUbsdEqwWF37s5mf4zqEGe_VIg.JJjtb8Zj_9lNE8hdRYfZsaXkja8BZjv-Xos2fV496REg.JPEG/20250823_122241.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20230921_76/1695284857920NDDCM_JPEG/4.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDJfNDIg/MDAxNzU5Mzc3OTI1Nzg2.FReKU0bGJkFDqcJjcLQg_Jg5fwiFcJeB_f2wfaUFGAog.IOCnK6Nr8JbbHqvnaohpbpAdmpJdK_YS--jHRLywWcUg.JPEG/1000021791.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDNfMTg0/MDAxNzU5NDM3NTI3MjAx.ynVX-7MQO1VbXnYgL6r_LzrGFkGGn1DKrO0ABqPVW5og.8DM9B4RtdBWSBIlQ-z_ApahM2XiBgAK1yIw68D8c04og.JPEG/20251001_191703.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTJfMjI1/MDAxNzQ3MDA3NjQyOTkw.8Ev1aX1iP5cYuAFs_apLzNjOdDB549wImFvAxXtfi34g.B5yywnNeXXlQG-hA3nLdAdhDkV0hbU3LGjl7GyObnNYg.JPEG/20250510_123317.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDFfMjQ2/MDAxNzQ4NzUxMDIzOTEx.Np3astwW36HCuUL0jeUMVdR5D9mGglP52jOHvFPFkZwg.4QGkErs9oUQNZBjzdo0iwk3O8pNfMIkIVBNi91wH8HQg.JPEG/20250524_190519.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDdfMjM5/MDAxNzQ5MzAzNTc4MDc3.eVXCW9xUvUkywBq9R2SrA7gs0VQzXvkcP54TO1ehYyUg.XU92MNGU7GdHBa0BGauyriPGY_YIF4MvZLj4CyGw18Yg.JPEG/1749208862465.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220602",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1058447668",
+            "bodySummary": "명동 소고기 샤브샤브 맛집 국물 국수전골 죽 맛집 브레이크 타임 없는 롯데백화점 본점 맛집 을지로 명동 가족외식 하기 좋은 맛집 영업시간 매일 11:00-21:00 롯데백화점 본점",
+            "url": "https://m.blog.naver.com/yandii-/223351018219",
+            "nick": "얀디",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAyMTVfMjYz/MDAxNzA3OTYzNzkwMzIx.DIkaDpd3sHSM_BrSgge1mXHVZ6gOy6LFjtxDpHtk4Rgg.xtAvOgVPgFPsP0AgHTXVeHCsbrAroLlT52S7NDFQkY0g.PNG.yandiiii/profileImage.png"
+          },
+          {
+            "sid": "1058447668",
+            "bodySummary": "한우리 매일 11:00-21:00 02-772-3774 ● 자가 : 소공동 1 (서울 중구 남대문로 81 롯데백화점 본점 13층) ● 주차 : 롯데 백화점 본점 주차장 1시간 무료",
+            "url": "https://m.blog.naver.com/garangbi7/223333736200",
+            "nick": "공학도",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjEyMTVfMjI2/MDAxNjcxMTE0MTk2NDc0._aBqNfBycux4J0D1WrOUhSMtfvnDAquj1LYPvvKKTQMg.vuy8BZw1-_LjCMCJACppfg2I0LfKt0037Vyw_s4pPocg.JPEG.garangbi7/%25ED%2595%2598%25EB%258A%2598.jpg/%25ED%2595%2598%25EB%258A%2598.jpg"
+          },
+          {
+            "sid": "1058447668",
+            "bodySummary": "에스컬레이터에서 내리자마자 '한우리'가 바로 보여서 반가웠어요!! 배가 정말 고팠거든요 ㅠㅠ '한우리'의 메뉴판입니다. 샤브샤브, 갈비찜, 불고기 전골, 갈비탕 등 소를 이용한 다",
+            "url": "https://m.blog.naver.com/jfg0126/223220432422",
+            "nick": "서바오",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA2MTBfMjM5/MDAxNjg2MzI0MDI3NzAy.wkmolkErTwc9YxQHM15JjLKviU27x9BsVudlRxGkH2wg.agGRWG4ens3PvaBk-vNUUaAV-9AQNCzIk1E_35fe_6kg.JPEG.jfg0126/%25ED%2591%25B8%25EB%25B0%2594%25EC%2598%25A4%25EC%2599%2580_%25EC%2595%2584%25EC%259D%25B4%25EB%25B0%2594%25EC%2598%25A4.jpg/%25ED%2591%25B8%25EB%25B0%2594%25EC%2598%25A4%25EC%2599%2580%2B%25EC%2595%2584%25EC%259D%25B4%25EB%25B0%2594%25EC%2598%25A4.jpg"
+          },
+          {
+            "sid": "1058447668",
+            "bodySummary": "한우리 롯데백화점 본점 주차: 롯데백화점 주차장 이용 서울 중구 남대문로 81 롯데백화점 본점 13층 영업시간 매일 11:00~21:00 한우리는 명동롯데백화점 본점 에스컬레이터를",
+            "url": "https://m.blog.naver.com/gamto337/223218425279",
+            "nick": "감토",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAyMTNfMTM4/MDAxNzA3ODA4ODg2NTI1.UL9i5Y8fKBy-Se9uB8fRxmAPdvlPmKKePDKAQErRbu4g.6MX4zO-_hCHaUz3Sj2OOAr9Bp-HLdIZhFdMf6mH6ICQg.JPEG.gamto337/%25EB%258B%25A4%25EC%259A%25B4%25EB%25A1%259C%25EB%2593%259C.jpeg/%25EB%258B%25A4%25EC%259A%25B4%25EB%25A1%259C%25EB%2593%259C.jpeg"
+          },
+          {
+            "sid": "1058447668",
+            "bodySummary": "안녕하세요 오늘은 샤브샤브가 맛있는 명동 롯데백화점 본점 한우리 소공점을 소개해드리고자 해요 ❤️❤️ 한우리 소공점 02)772-3774 (전화 예약 가능) 영업시간 매일 11:0",
+            "url": "https://m.blog.naver.com/makeafurrow/223204515707",
+            "nick": "getya",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjEwMjNfMjU1/MDAxNjY2NDg1NzA0MjY3.S9SUYfse5QIUQVj5Loz0qKsl-mT1qyHFAj0FrFK0D9Ig.ORQth_O8HCFQoHT2T3NEO2XyWkmbnWuVBkySV-zjNHgg.PNG.stewardess42/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "id": "2076086914",
+        "name": "메가MGC커피 명동입구점",
+        "x": "126.9823972",
+        "y": "37.5638454",
+        "distance": 0.058,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "231192"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 26,
+        "averagePrice": 0,
+        "address": "서울특별시 중구 남대문로2가 14-6",
+        "roadAddress": "서울특별시 중구 남대문로 74",
+        "abbrAddress": "남대문로2가 14-6",
+        "shortAddress": [
+          "서울 중구",
+          "남대문로 74"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 남대문로2가 14-6",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTRfMjEw/MDAxNzYwNDI0ODk3MzY2.bcD03p4NLMdaYTeyYIgAN8aw17vw_Ky2zC2DGeaKQ-0g.QZBRGpIx2RaYmFR_aWOBnqr6bdJ7DWmQref8G6BUZGkg.JPEG/936CA4BF-5409-46B9-937D-A88AB5E8AC2A.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTRfMTcy/MDAxNzYwNDE5MzI1Nzk1.2FBI7LBpW6enxngawJBfwCfzwbgocy6rna05f0MYxtUg.TTIUi_1A3w3cdU4xZJn56NZbaofH7jRBvVaschUrD5sg.JPEG/FB045CDF-5A6D-4895-A84C-81460004C99F.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMThfMjk1/MDAxNzYwNzU0NDAyNzAy.UxGXGCAC9fJ-YnV6-tCakd0-TyYKinNfVSFHudh4rXgg.nQCdD0IqsD5EQmd7qA2ZqJzONqxcCIk7MRaAsL1jcz0g.JPEG/20251018_112450.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDJfMjA5/MDAxNzU5Mzc2MzE2NjUx.KaKEe-0uoneIG0B8xMUUadcZLBFF-31V3XlqqDNRgoUg.ve2Pzy2-moEmNgrcsr6kwE2Y-KJaVgy13w7aS3tqABkg.JPEG/4AFA8FDA-3288-48DF-866E-5C93DC6AC787.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDFfMTEy/MDAxNzU5Mjk4NzIyMjMx.Nnm1Eh8988doNKuWKZ_UQHEW6PC-TlM8aFwdWUELMUAg.b3Pq87jm-rknHUSGytFkGCb3TZcdVZOXVMx7-xT-zVcg.JPEG/4F655D95-0C91-49D3-AA26-372724BDB6DD.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjVfMTQ3/MDAxNzYxMzc2OTAxNDg5.Wslgq_5gnwtCyz92gxyvV4pfYy6tobPE8Y_8Qps2M_Ig.-vY6tRkENPgtgdS9lDgL-ICOzfzkHWMEnxmwdj53VScg.JPEG/1000063059.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjNfMjEy/MDAxNzYxMTkxOTU0NzU2.09A_LRsXb_v4ez3ZgGPiBrCDUGjsQxAU2Lj_R80KlqEg.dGva7GKRrW1otHSdaeR4erVmxvjsX-R5s4fiiOLdP5sg.JPEG/413840A6-71DB-44D6-8DA2-4ADF8F9217F1.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMThfMTg5/MDAxNzYwNzQ5NjM5MjEz.1oQZyAZ1DCap42mwqjDeCT9byKAm6Cy7KMzAZY17Xrog.Oj7Nok1U8WEvzUG64ZpJfAp_hRYKct6Z78aYmY8d0A8g.JPEG/20251018_100556.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDVfMTA4/MDAxNzU5NTk4NzgyMzQ0.9242awYABVsBMadzSo8XKI3AHa3lm4WXpszQCt8_YhEg.NI65AV6uI3IG1R6_Mjw_1l2t5Q-tnDx6FWh7Q8O4yq0g.JPEG/1759414326103.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTBfMTMy/MDAxNzYwMDc3NTczNjM3.4NpQPIE36MsGgyhZrWVXQt8AcnP1Qfe7eZUYb8VRl1wg.OJAA9Y_h6ikM6tGKvzi9THtiy_-9tSM-gsLv1xbvzuAg.JPEG/0BCF6983-265F-4126-9ED6-99A0EACEE2CF.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "231192",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 9,
+        "id": "11781400",
+        "name": "크리스피크림도넛 롯데백화점본점",
+        "x": "126.9818622",
+        "y": "37.5645836",
+        "distance": 0.039,
+        "categoryName": "도넛",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220566",
+            "221187"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "도넛"
+        ],
+        "reviewCount": 5526,
+        "averagePrice": 2000,
+        "address": "서울특별시 중구 소공동 1 롯데백화점 본점 지하1층",
+        "roadAddress": "서울특별시 중구 을지로 30",
+        "abbrAddress": "소공동 1 롯데백화점 본점 지하1층",
+        "shortAddress": [
+          "서울 중구",
+          "을지로 30"
+        ],
+        "displayContext": [
+          "도넛",
+          "디저트",
+          "케이크"
+        ],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 소공동 1 롯데백화점 본점 지하1층",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDdfMjYw/MDAxNzQ2NjAxMzMyMzA1.VKgnhdXyXjGcRHc3OEMF5XBKR0ul0q4vzalIqy6T0-4g.cUQ73PIhSb8T8_VTMpknz7rCeIwAsqqOtMlZVH9GiuIg.JPEG/20250507_153448.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDFfMTY1/MDAxNzU5MjkzNDcwNTg1.4sqbvyETk7QQhgUC1Ifh8luBaKISuYXH8nzueEaBoCcg.8wN0DmC9KFDiBGd6MTMMnFO_VAYSgjG9MIPTwBV3sMUg.JPEG/20250924_115958.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250909_281/1757381007196KK9Cx_JPEG/%C7%D8%B8%AE%C6%F7%C5%CD-%C0%CC%B9%CC%C1%F6.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MDdfMTM5/MDAxNzQzOTk3NjIyNDQx.GdlRFgfcGCS35BtUFdUugr2jCjvv-HoDQ26N02rbSYAg.UfS_-ozQZGVHBpDojz-Cb-e96mer7fmSyTIEWDJletkg.JPEG/20250407_112230.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20220826_115/166149031744176Q6B_JPEG/%B3%D7%C0%CC%B9%F6_%B4%EB%C7%A5%C0%CC%B9%CC%C1%F6_1_%B4%EB%C1%F6_1_%B4%EB%C1%F6_1.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjVfMTAx/MDAxNzU4NzgxMDQ5MDI5.jRv9whasxLZpSML-OOPKB2DcuM_Elx4JevnymNZP4wYg.5MWikiZX6kL4yPZbDVpXVb8tuhVNkABIhctC1XzR8tAg.JPEG/IMG_5609.jpeg",
+          "https://ldb-phinf.pstatic.net/20220826_294/1661490145162o0KNT_JPEG/%B3%D7%C0%CC%B9%F6_%B4%EB%C7%A5%C0%CC%B9%CC%C1%F65_%B4%EB%C1%F6_1.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTRfMjU0/MDAxNzQ5ODg2MjA4Nzg0.9JU9kaj7-xOGQKq-TfN6AFIc06oJe7afOkroG9sucY0g.K7DhhcM276BYwLYw_wof1GyWS0VvJcrzW-vMdwdgeacg.JPEG/A4A77E22-8A62-4A09-B83D-3D717B2E257A.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDlfOTUg/MDAxNzYwMDAyODUxNDMz.SKTYHZTAEwsioZn4c2oJk5MbsUesj9iRyM_LLiKxf3Qg.c68DVHcpmGb_PuVgUVptXYF6M3P293aRS14yUmroAiAg.JPEG/D260D58D-E2E3-46B6-A85D-909AF96776B9.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDRfMTAw/MDAxNzUxNjIxNjk2OTk4.4GCNOEXd-gJLeDWWZlPZ_VwFEbBdX3WMgxS0W2OaPOcg.N-LawiDxnbD38YGSVm0wRw0qKzzIqmMt3pGlRNyj0GQg.JPEG/20250704_183252.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221187",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.43",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "11781400",
+            "bodySummary": "괜히 이런날이면 더 사고싶죠 기계로는 주문이 안되더라구요 사람에게 직접 주문합니다 얼그레이티 3500원이네요 메뉴와 가격입니다~~~~ 원래 12개 사면 16000원인데 행사중엔 1",
+            "url": "https://m.blog.naver.com/nemcon/223393361333",
+            "nick": "케이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMjlfMTIw/MDAxNzA2NDkzMTU5NDQw.NcQbuHuWCYJLZ4gCA_uhwPBXiDkKTPQUSO4CLgMs5BAg.oLT-GKADT6ZGFBXEfVKzv9F9RtDth6ezyrDNhuaTpQwg.GIF.nemcon/profileImage.gif"
+          },
+          {
+            "sid": "11781400",
+            "bodySummary": "하다가 급발견한 크리스피크림도넛 롯데백화점 본점 크리스피크림도넛 리뷰 시작~ 신메뉴로 딸기 도넛 메뉴가 출시됐다네! 롯데백화점본점 지하1층에 위치! 지나다니는 길목(?)에 위치해서",
+            "url": "https://m.blog.naver.com/rudysdiary/223383744305",
+            "nick": "Rudy",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMTRfNzQg/MDAxNzA1MjM4NDk3NzY1.3yPz9Xkz2duVLC2ihXUwDW5mXLTBcKYHAHlePDLHXJkg.yqTGORUNe7DGMBkBpY_jw6G7Mok8nZONFygXWMb8ZHIg.PNG.tpgml41/profile.png/profile.png"
+          },
+          {
+            "sid": "11781400",
+            "bodySummary": "필자 평상시 빵을 좋아하긴 하지만 그렇게 즐겨하지 않았는데 어느순간 너무너무 먹고싶은 순간이 올 때가 있다 크리스피크림도넛 모양도 너무 귀여운데 맛도 최고! 정통 도넛이 맛있네요 ",
+            "url": "https://m.blog.naver.com/iwishagain/223293277196",
+            "nick": "송항이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAxMjZfNTcg/MDAxNjQzMTg4ODE5ODQ4.dUZP8HiH8yl82mNNyKFnJe8FhgkO-S7mVmcdYDn2tH8g.cfmncO3cpb32vuzD07qUjywMloaBzoPvuzdvtXh5ZXAg.PNG.iwishagain/profileImage.png"
+          },
+          {
+            "sid": "11781400",
+            "bodySummary": "짝꿍이 사다준 크리스피크림도넛 스노위 홀리데이 하프더즌 감동이야♥ 저희집 짝궁은 크리스피크림도넛에스 시즌마다 나오는 도너츠를 꼭 사와요♥ 덕분에 매 시즌마다 맛있는 도너츠를 맛보고",
+            "url": "https://m.blog.naver.com/kgm161616/223281989169",
+            "nick": "뷰스타 꽃미담",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAyMjhfMTEz/MDAxNzA5MTI2NjI1NTA0.Vei51f6GN4x4MMrG4WOBClco_9OcLKrZN88TOT9jocUg.NNi3O4OaixQAfmLt0Rr9o7Y4ACQmBL6sm4NCCdFeK10g.JPEG/237620_399093_5449.jpg/237620_399093_5449.jpg"
+          },
+          {
+            "sid": "11781400",
+            "bodySummary": "7,8번출구방향 롯데백화점과 연결된 에스컬레이터 롯데백화점으로 들어가면 지하1층(본관)인데 무조건 쭈욱 직진(좌우로 가면안됨!)하다보면 식품관이 나옵니다~ 식품관 입구 식품관으로 ",
+            "url": "https://m.blog.naver.com/viewingholic/223201199161",
+            "nick": "통통이의 일상",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA4MTNfMTUy/MDAxNjkxOTI4OTMzOTA4.HTadG0TtWaKzV9Y7sEibws0CsEM4ShDciNRtalytN1kg.6oOn_auVqz-QZgSK6HZ2BaH4LWMJgiX6scS8i_a38v4g.JPEG.borjeong/%25ED%2586%25B5%25EC%259D%25B4.jpg/%25ED%2586%25B5%25EC%259D%25B4.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "id": "37388376",
+        "name": "해리스카페 롯데백화점 에비뉴엘점",
+        "x": "126.9818251",
+        "y": "37.5640432",
+        "distance": 0.026,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 67,
+        "averagePrice": 0,
+        "address": "서울특별시 중구 남대문로2가 130 롯데백화점 에비뉴엘 6층",
+        "roadAddress": "서울특별시 중구 남대문로 73",
+        "abbrAddress": "남대문로2가 130 롯데백화점 에비뉴엘 6층",
+        "shortAddress": [
+          "서울 중구",
+          "남대문로 73"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 남대문로2가 130 롯데백화점 에비뉴엘 6층",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 11,
+        "id": "1937752805",
+        "name": "엘앤에스브릿지",
+        "x": "126.981707",
+        "y": "37.5641952",
+        "distance": 0.025,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 5,
+        "averagePrice": 0,
+        "address": "서울특별시 중구 남대문로2가 130",
+        "roadAddress": "서울특별시 중구 남대문로 73",
+        "abbrAddress": "남대문로2가 130",
+        "shortAddress": [
+          "서울 중구",
+          "남대문로 73"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 남대문로2가 130",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 12,
+        "id": "1456825437",
+        "name": "HIKOCO 롯데백화점 에비뉴엘",
+        "x": "126.9818268",
+        "y": "37.5640406",
+        "distance": 0.027,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 2,
+        "averagePrice": 0,
+        "address": "서울특별시 중구 남대문로2가 130 롯데백화점 에비뉴엘 지하 1층",
+        "roadAddress": "서울특별시 중구 남대문로 73",
+        "abbrAddress": "남대문로2가 130 롯데백화점 에비뉴엘 지하 1층",
+        "shortAddress": [
+          "서울 중구",
+          "남대문로 73"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 남대문로2가 130 롯데백화점 에비뉴엘 지하 1층",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjdfMjEx/MDAxNzU2Mjc3NTg4Mzg5.BPc6IP1xjpsu7EUqZ21n6ESP1aIpXdBD9fAe_Bpao2sg.EHBIwA7TQ7h5UJvHEM63Fg4oBxj-b9p08ejZopp_MzAg.JPEG/20250827_135700.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 13,
+        "id": "19838123",
+        "name": "타니 넥스트도어 명동에비뉴엘점",
+        "x": "126.9816064",
+        "y": "37.5642604",
+        "distance": 0.033,
+        "categoryName": "일식",
+        "categoryPath": [
+          [
+            "220036",
+            "220038",
+            "220081",
+            "220804"
+          ]
+        ],
+        "category": [
+          "일식",
+          "일식당"
+        ],
+        "reviewCount": 625,
+        "averagePrice": 40000,
+        "address": "서울특별시 중구 남대문로2가 130 롯데에비뉴엘 9F",
+        "roadAddress": "서울특별시 중구 남대문로 73",
+        "abbrAddress": "남대문로2가 130 롯데에비뉴엘 9F",
+        "shortAddress": [
+          "서울 중구",
+          "남대문로 73"
+        ],
+        "displayContext": [
+          "일식",
+          "레스토랑",
+          "한우",
+          "퓨전일식",
+          "코스요리"
+        ],
+        "labelTheme": "분위기 좋은",
+        "microReviews": [],
+        "cardDescription": "타니넥스트도어는 다양한 제철 식재료를 일식과 양식을 넘나드는 조리법으로 재해석한 모던재패니즈 비스트로입니다.  비즈니스에 특화된 런치세트를 비롯하여, 다양한 단품메뉴를 60여종의  ",
+        "description": "타니넥스트도어는 다양한 제철 식재료를 일식과 양식을 넘나드는 조리법으로 재해석한 모던재패니즈 비스트로입니다.  비즈니스에 특화된 런치세트를 비롯하여, 다양한 단품메뉴를 60여종의  ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTVfMjAy/MDAxNzQ0NjgyMDg3NzI4.1b3ytGWHh80Lipwu4CC7ehkUmtsySefvDz4j7KgMJbkg.jVG7jgUE7rOamBikJMcIi9AeCnq4q1EuyQ6WWj7YOIsg.JPEG/IMG_7778.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTVfMTMy/MDAxNzQ3Mjk4MzIwNzY1.SHj7FP6z7k2c-jBJNgVV1PvdwMLRlRTuthHQcM0Oqg4g.8XFVhJN9AEpUaX0fJny8lILyFIOh2Ue2Kr2oa6UF9pcg.JPEG/AEB5ED6B-997B-4E1E-9E87-3E1EC12F0DA1.jpeg",
+          "https://ldb-phinf.pstatic.net/20220107_15/1641531672009ommIb_JPEG/69C360F2-E44D-46BE-B64E-41E092364908.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTdfMjM1/MDAxNzYwNjYwODE5NTk1.1Hy3X8fMXb2WkskkkP8B328wcegH4aQOyzIlkaBd0Qsg.WrIx-RPbseTmBYLX90f0-OpCDrhmxfcHWSga17OHjjUg.JPEG/24A40AC0-B476-4A3A-9938-92456DDAD242.jpeg",
+          "https://ldb-phinf.pstatic.net/20220130_74/1643548666460FQ1Ly_JPEG/2A57C079-B532-4DCC-8F20-96D9061D719C.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjVfMTkg/MDAxNzU4ODExODI2MTQ1.ae65a5fCxdvFpUc0PpyoCLgUhI1kKpYKzW7duV4yoxog.8P04qZEDYByrtX_E-8OIh5R46BFVzSWuSgNaD0911X0g.JPEG/19D3CF5B-6E47-4465-A425-C034E523CDA4.jpeg",
+          "https://ldb-phinf.pstatic.net/20220107_70/1641531671117GgJmp_JPEG/7083C8FC-8B66-4AE8-B09F-8D93F8404158.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDNfMTcy/MDAxNzU2OTAwNzgyNjM3.QEG-fzChDImabqcjku2__41mgwVDfObhDYkJYh-7Trkg.f_aPCN48t10LpXYUrGPfcleh-PgZ-V5V_v_C_0qApPIg.JPEG/5E6E36E3-E96C-4826-93F4-4C548F8AF10A.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220804",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.62",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "19838123",
+            "bodySummary": "슈슐랭 총평 넓은 좌석 간격, 예약이 어렵지 않음 맛 정갈한 일본 가정식 느낌의 appetizer + 한식 메인메뉴를 동시에 서비스 교통이 편하고 대화하기 편한 분위기라 자주 가는",
+            "url": "https://m.blog.naver.com/love_dining/223322912125",
+            "nick": "슈슐랭가이드",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMTRfMTcg/MDAxNzAyNTIzMDA3NDU3.iYZe2B1GJ3jm28fY4pd2qy2GKD1ftLbM-VnugYsX59kg.d--jbbG0ZrcuwWrkQxzhUcFOvcoPb74noWhpwVk3fxsg.JPEG.jish0118/IMG_3055.JPG/IMG_3055.JPG"
+          },
+          {
+            "sid": "19838123",
+            "bodySummary": "타니 넥스트도어는 명동 롯데에비뉴엘 9층에 있다 저녁에 디너코스 먹었는데 맛있었던 기억이 있어서 점심에도 한번 방문해봄!! 일식 위주로 팔아서 사케동 먹고싶어서 왔당ㅎㅎ 메뉴판은 ",
+            "url": "https://m.blog.naver.com/rubyoh920/223256870205",
+            "nick": "치즈쎌",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAxMTFfMTkz/MDAxNjczMzk2NjU3NTU3.Nul50B_pBkvNipY4T_qy7z-enUDvuXQuCJY4PvTyBLEg.on31sNVRtyWSnvChpt-OW72ol-T304HjwvjgEe7tAnkg.PNG.rubyoh920/profileImage.png"
+          },
+          {
+            "sid": "19838123",
+            "bodySummary": "'그라운드시소 명동점' 바로 옆에 위치해 있어 지나가면서 한번 와봐야지 했는데 생각이 나서 들러보았습니다 ^^ 맛집의 상징 ㅋ 블루리본! 실내는 백화점에 있는 식당이 맞나? 생각이",
+            "url": "https://m.blog.naver.com/parkkyo2004/223178760979",
+            "nick": "상아",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA4MjJfNCAg/MDAxNjI5NjMzMTc1NDE4.0lwVESO6pCPRfk-Og5_92hdXrVV7Bl0Bi01N1g9rZtog.U4IzdkxtIdN7sbsLUSUg0lgsKTJ357nRLTeAu2hCJlIg.JPEG.parkkyo2004/profileImage.jpg"
+          },
+          {
+            "sid": "19838123",
+            "bodySummary": "룸도있는데 저희는 홀에서 먹었어요! #도미머리간장조림 일한정2개여서 남자친구가 물어봐줬는데 된다해서 #우니카이센돈부리랑 주문했어요! 예쁜 그릇에 나온 6종류의 코바치 코바치라는 단",
+            "url": "https://m.blog.naver.com/sp_poon/223176769681",
+            "nick": "슾푼",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDA2MDlfMjU4/MDAxNTkxNjkyMjg3MTYy.tRKazY1c3lF01CqAGFSaWwbhVGMjUxFUT4tbCbFVbvwg.wOnqhDWy1To6euz5xY7yD6ZWXenry1A0rQN-opXlJScg.PNG.yoojih001/%25A4%25B7%25A4%25A9%25A4%25B7%25A4%25B7.png"
+          },
+          {
+            "sid": "19838123",
+            "bodySummary": "맛잘알 친구가 있으면 참 좋아 타니 넥스트도어 명동에비뉴엘점 위치 명동 롯데에비뉴엘 9층 타니 넥스트도어 명동에비뉴엘점 을지로입구역 7번 출구에서178m 롯데백화점 명동 맛집 명동",
+            "url": "https://m.blog.naver.com/lovecat54/222970590019",
+            "nick": "zanna",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA2MDZfMTgx/MDAxNjU0NTIzODY5MDIx.NOp23V6RqZxRwqe5ukKZTzPgxgvh-C0kP5LKQecczsAg.jR5hMDWyiBiGRvo3pTPf3vzULiiPCxVOH4XsW2Ar1s0g.JPEG.lovecat54/profileImage.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

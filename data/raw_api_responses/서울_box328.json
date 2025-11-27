@@ -1,0 +1,467 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 5,
+      "count": 5,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.97572685255253,
+          "minY": 37.57190540540541,
+          "maxX": 126.97686342627627,
+          "maxY": 37.57280630630631
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.97629513941439;37.57235585585586",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1388396665",
+        "name": "아티제 세종문화회관점",
+        "x": "126.9757647",
+        "y": "37.5722463",
+        "distance": 0.048,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221280"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 999,
+        "averagePrice": 38000,
+        "address": "서울특별시 종로구 세종로 81-3 세종문화회관 1층",
+        "roadAddress": "서울특별시 종로구 세종대로 175",
+        "abbrAddress": "세종로 81-3 세종문화회관 1층",
+        "shortAddress": [
+          "서울 종로구",
+          "세종대로 175"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "THE MAGIC of CHRISTMAS",
+        "description": "THE MAGIC of CHRISTMAS",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTVfMjM5/MDAxNzQ3MzAxNDYxODI3.R18JkcUOoGqy2n1hK8zPbk80epMmAO3EYHsLmw3Uw-8g.YqoQFrD1UA2hzpUMhqO4WSb9cvLGrMDNH-xwCJzuN90g.JPEG/IMG_5280.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDJfMTk3/MDAxNzQ4NzkxMDkzMTYz._QX1F4lF6DRvy5AM6-LGN-aw1nhiIJn7ZwxYaxch6JYg.9fFTg5DSYsvUlfm7PghF8OhckYfERKtSnZ9Bc1Y9yE8g.JPEG/427FAE8A-BFAF-4B60-96BF-6E248B275895.jpeg",
+          "https://ldb-phinf.pstatic.net/20230221_24/1676965144771Txv0Q_PNG/%C8%AD%B8%E9_%C4%B8%C3%B3_2023-02-21_163852.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDdfMTU2/MDAxNzU0NTQ5MzQyOTk4.dEaZ_NFwPDjqD-hB2G5hKKtI45riHme5erlB4tVKJkgg.TlwSn0VJBwFWZyRfSg2w5Mpxr_1Z0cdJWuBbAemxDjcg.JPEG/20250805_175857.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDZfMjYy/MDAxNzU0NDkwMjU3Nzk1.3r2Vn92fznKpGjJb7Q66TdvKz1NJw_ezvkRo6zENCWwg.Be9rYJMy98oQb2t41L85db96aLVg-uprHBOgvXdtSswg.JPEG/1754378850543.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTVfNjQg/MDAxNzYwNTAxMjIwNzIw.V2EJcGy7jfuOaw2jGyA4_PGDO8iF2Rm125LYSpX0H2og.iowgYcxIclPMkOY-QghAS7ZSUDWKcAV3PYZEtnYoZKsg.JPEG/20251008_131649.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjRfNjQg/MDAxNzU2MDA4MTk2NDEw.zjO7ftyj8QoQgnNAElVLFmYkCj3bF0qWYU1GyYIarFog.y9RqJLsfZF1oBZwb5X1uZDnELMEWVnC0KVMYEqmo3TMg.JPEG/89654549-DDB4-45D5-9D55-248074B88798.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTFfMTY0/MDAxNzU3NTQ3MjMyOTc0.FuUNsHpxvJOR3Hlee2T9-cHfjbN1RCWfjqcviJhA8tgg.EFehNhySd_vqns6EbKP6lvTzGPjJh1ehjeRJOhbHW9wg.JPEG/20250911_082103.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MThfNjAg/MDAxNzQ3NTQ3NDEyNzk5.sm59WLL7c36Jiif10HwU2VXkqYg9VLCGoiobVPY3e8cg.9dDvg0z183Ir19pBRwSAhQBu567E_f6xN9QmM8Y7G2sg.JPEG/5DEC2E8B-32AB-437D-AF20-4B12C0F1EDAC.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MThfMjA1/MDAxNzUyODIzNTM3NDI0.KKnU0RCYIWrEw-4FJJd3NQm8KvITYXyUc58ZjXG-4QUg.V1MKJXToTKVEcS6VhOQiBfSPfLmbBPEd2jln38lh3QEg.JPEG/CD3C75C2-0126-4951-BA6D-E4B5262186BE.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221280",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1388396665",
+            "bodySummary": "뮤지컬 보기 전에 커피 한 잔 마시러~ 아티제 세종문화회관점 주소 | 서울 종로구 세종대로 175 세종문화회관 1층 ️ 영업 | 월-금08:00-21:30 토일09:00-21:30",
+            "url": "https://m.blog.naver.com/rhqnrdll_/223380776227",
+            "nick": "은됴",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMDdfMjUg/MDAxNzAxOTM0NzgzMDI0.i1XilN_sCtQIUtl4uq0fG99LKgGHpt0SpQMymvmDlk0g.EzRUuvntI_1QsSyMsiHVEEeoMta2UYKRz8HRZyHYb-Ug.PNG.wjddmstj0830/profileImage.png"
+          },
+          {
+            "sid": "1388396665",
+            "bodySummary": "매장은 사진처럼 통창으로 되어 있어서 시원하게 개방되어 있는 모습입니다 매장 내 테이블은 2인 전용 테이블부터 4인 테이블까지 다양하게 준비되어 있어요 다만 매장이 밖에서 보이는 ",
+            "url": "https://m.blog.naver.com/vivid1997/223377706539",
+            "nick": "박나뇽",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA4MzBfMjM4/MDAxNjYxNzk1ODQxNDI0.Zr7yNXMtuqK-2U8dHnXE6-f96zJ39Qtd0wF7TIHD_lkg.dDq-mxUJh4HcPUgX1UH4YVE0pNWzgWj4ByqWU2_Dt6kg.JPEG.vivid1997/KakaoTalk_20220830_025153494.jpg/KakaoTalk_20220830_025153494.jpg"
+          },
+          {
+            "sid": "1388396665",
+            "bodySummary": "따뜻한 커피와 함께하는 케이크는 늘 기분 좋아요. 1인 1케이크~ 스트로베리 프레지에 바닐라빈을 넣어 만든 커스터드 크림과 신선한 생딸기로 가득 채워 달콤하고 향긋한 프레지에. 8",
+            "url": "https://m.blog.naver.com/jeienne/223362299885",
+            "nick": "날아올라",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20160312_162/jeienne_14577688048269Yu3I_JPEG/profileimage.jpg"
+          },
+          {
+            "sid": "1388396665",
+            "bodySummary": "홀케익도 있고 조각케익도 종류별로 많았는데 저 새하얀 케익이 눈에 들어옴 원래 오래전부터 아띠제에 제과류 유명햇었는데 여전히 맛난게 많으네 매장은 넓고 자리도 여유있게 많아서 편하",
+            "url": "https://m.blog.naver.com/systemmcn/223334473784",
+            "nick": "쩡빠리숑숑",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA1MTdfMTQw/MDAxNjg0Mjc1OTYxNTQ5.xKZ4Ot4W7wb-BoDHT1yOhr4LiStqoCaYp123VXqDxSgg._qK7kcZQQpNrsH3kXbOeF-4TKdCJXrisvW24sooUvYwg.PNG.systemmcn/profileImage.png"
+          },
+          {
+            "sid": "1388396665",
+            "bodySummary": "홀케익도 있고 조각케익도 종류별로 많았는데 저 새하얀 케익이 눈에 들어옴 원래 오래전부터 아띠제에 제과류 유명햇었는데 여전히 맛난게 많으네 매장은 넓고 자리도 여유있게 많아서 편하",
+            "url": "https://m.blog.naver.com/lovecami/223329771206",
+            "nick": "러브카미",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA3MDZfNTUg/MDAxNjg4NjUxMjIzNDc4.Vhydf1g8tNFVclKuJl0NKB0OeVHAuY8_PdZsoLUgSgsg.lKvVH8kJN4A0Rc6W5E2uB9bXEOJLICtFNrkdBoVMyHYg.JPEG.lovecami/7835329E-12DB-4318-9311-352BBF7B28F9.jpg/7835329E-12DB-4318-9311-352BBF7B28F9.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "id": "1189610407",
+        "name": "광화문아띠",
+        "x": "126.9762487",
+        "y": "37.572345",
+        "distance": 0.004,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 60,
+        "averagePrice": 0,
+        "address": "서울특별시 종로구 세종로 81-3",
+        "roadAddress": "서울특별시 종로구 세종대로 175",
+        "abbrAddress": "세종로 81-3",
+        "shortAddress": [
+          "서울 종로구",
+          "세종대로 175"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "서울특별시 종로구 세종로 81-3",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.36",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 3,
+        "id": "1886056459",
+        "name": "올리",
+        "x": "126.9768172",
+        "y": "37.572186",
+        "distance": 0.05,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 62,
+        "averagePrice": 0,
+        "address": "서울특별시 종로구 세종로 81-3",
+        "roadAddress": "서울특별시 종로구 세종대로 175",
+        "abbrAddress": "세종로 81-3",
+        "shortAddress": [
+          "서울 종로구",
+          "세종대로 175"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 종로구 세종로 81-3",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 4,
+        "id": "36523570",
+        "name": "친니",
+        "x": "126.9762577",
+        "y": "37.5724523",
+        "distance": 0.011,
+        "categoryName": "중식당",
+        "categoryPath": [
+          [
+            "220036",
+            "220039",
+            "220091",
+            "220861"
+          ]
+        ],
+        "category": [
+          "중식",
+          "중식당"
+        ],
+        "reviewCount": 2729,
+        "averagePrice": 10000,
+        "address": "서울특별시 종로구 세종로 81-3 세종문화회관 지하 1층",
+        "roadAddress": "서울특별시 종로구 세종대로 175",
+        "abbrAddress": "세종로 81-3 세종문화회관 지하 1층",
+        "shortAddress": [
+          "서울 종로구",
+          "세종대로 175"
+        ],
+        "displayContext": [
+          "중국집",
+          "탕수육",
+          "짬뽕",
+          "코스요리",
+          "점심특선"
+        ],
+        "labelTheme": "분위기 좋은",
+        "microReviews": [
+          "서울 3대 탕수육의 바삭한 유혹"
+        ],
+        "cardDescription": "서울 3대 탕수육의 바삭한 유혹",
+        "description": "친니의 뜻은 '정중히 손님을 초대한다.'라는 뜻으로 최상의 서비스로 고객님을 모시겠다는 다짐을 가지고 있습니다.  중국 요리 4대 지역 (광동, 사천, 북경, 상해) 음식을 한국인의 입맛에 맞게 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTBfMjI4/MDAxNzUyMTM1NzgxODM4.DrNbQGjvMLGOgFAySJ_jzjoYoi0dq3jOzRpC44guBr8g.a4VR1E8nmD2tw8lUfYbUQ8feH47SRKvFTqqeeJ2Zck4g.JPEG/20250710_132419.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjBfMjkz/MDAxNzU4MzcxMDY1ODQy.PiPeaYQs-8878vWLlL4ELzz-PF6fNqU-UcGCE4HA9ngg.h1EMBMl6JSG288SCwRU9GQkwE-r0DP51w10olv6uY0cg.JPEG/BAC9B6F0-20AF-4597-A2A0-1E47B891CFBF.jpeg",
+          "https://ldb-phinf.pstatic.net/20241104_90/1730695396473ddXeg_JPEG/KakaoTalk_Photo_2024-11-04-13-40-16_025.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjBfMTk2/MDAxNzU4MzQ1MjYyODUy.eA954YN9X2q4vRLkYWSfL35hHAhwH0RlhDMm-L_RnOMg.YYcr5SxkEEbt8t-o_JM4kN3VJyTdTLM-L_dqbSpznnUg.JPEG/20250914_133801.jpg",
+          "https://ldb-phinf.pstatic.net/20241104_276/1730695396402oHGTk_JPEG/KakaoTalk_Photo_2024-11-04-13-39-05_001.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTVfMjk3/MDAxNzU3ODg5NDgyMjkw.Oho8X0f_XNNDKB9wFHUw6VQ63joEZ88hetAfP9_AEA4g.R8pVEH4e6Q4CKtJyH2w2CpVxCisHbsZNCi2OH78gIWEg.JPEG/623D2CF4-F3DC-488A-8A79-B8555BCAF741.jpeg",
+          "https://ldb-phinf.pstatic.net/20241104_88/1730695396271DgXB7_JPEG/KakaoTalk_Photo_2024-11-04-13-39-08_008.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjBfOTMg/MDAxNzUzMDE5NzY3NDkw.mrzku9TxwnYTT7OXEgvA1s_02qUdyQpSCg-GOl2qaeIg.gOWyt2YojE50SyMzULEh07880Y6A8ClWizwTAql04Hsg.JPEG/20250713_174403.heic.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjBfNTAg/MDAxNzU4MzM4MTIyMTQz.6L2A_0NArCULlkwEBtyj5n1BRwUaQME4EQPRNZVEs9Ig.FcWNniCJyuYlXMAUJcLNp854oP1j5SrjA8zHJWfT5hEg.JPEG/1758338012181.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjJfOTIg/MDAxNzU1ODQ1ODU3ODE4.nM1g84LVyjvNwxTiRqfBMjc65jtcgBRQDDRS4Hec0T8g.JZDAjXfcEEzAfrKgbH0B1x3iXFo4MNFWEBIsdmgdNuUg.JPEG/8C0417E4-D661-455C-84DA-6DE2363DC51E.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220861",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "36523570",
+            "bodySummary": "세종문화회관 지하 1층 광화문아띠에 위치하고 근처에 경복궁, 청와대, 광화문광장까지 나들이 하기 좋은 곳이라 관광객 맛집으로도 익히 알려진 곳이었어요. 게다가 방송에서도 여러번 소",
+            "url": "https://m.blog.naver.com/sunshine6338/223393934446",
+            "nick": "sunshine",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20230218_201/sunshine6338_1676694951462bf4yv_JPEG/image.jpg"
+          },
+          {
+            "sid": "36523570",
+            "bodySummary": "거기다 친니를 이용하게 되면 할인권을 사용시 2시간에 2800원밖에 안하는것 있죠 친니 서울 종로구 세종대로 175 세종문화회관 지하 1층 월- 일 : 11:30 - 21:30 1",
+            "url": "https://m.blog.naver.com/juju_123/223393680478",
+            "nick": "쥬니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMTBfMjMg/MDAxNzEwMDY0ODU0Njk5.1fk194N7ZGUQGUU_YFqPZIbzaOCXEGR3fR6mSr_ugNwg.q03IxJ84uOqMLG2zpWOyD2dj55wvMc961-wOUtpW1RMg.PNG/profileImage.png"
+          },
+          {
+            "sid": "36523570",
+            "bodySummary": "공연장 바로 밑이라서 공연 보러 오신 분들이 많더라고요~ 매장 앞에 메뉴판이 있었고 세트 메뉴도 가성비 좋았던 거 같아요. 하지만 공연 시간 촉박하게 오신 분들은 단품으로 ㅋㅋㅋㅋ",
+            "url": "https://m.blog.naver.com/dodenwjddk/223391513245",
+            "nick": "나는정아",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMzBfMTQ2/MDAxNzA2NTkzNzAzNzYy.nAVxGebXpFtusjPc0b2q_3tDp1AW2ki8iN7eA7EDoQMg.mGiMM9IXRKK_0r6zBmxw83bOS19HVU5FK69oswXDwcsg.PNG.dodenwjddk/profileImage.png"
+          },
+          {
+            "sid": "36523570",
+            "bodySummary": "밥 다먹고 나오면서 외관을 찍었었는데 밥 먹으러 갈 때는 사람들이 많고 대기도 꽤 있더라구요? 한 때 즐겨봤던 수요미식회랑 맛있는 녀석들에도 나온 서울 3대 탕수육 맛집이라니… 저",
+            "url": "https://m.blog.naver.com/jisoo831/223388655217",
+            "nick": "zizoo",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxODAyMTRfNyAg/MDAxNTE4NTQ2ODY0NDUw.95jAR7bPLPqZg4SeB3eZLBZ_ZKbK3zWFJD62kVOmsg0g.jzCusxR55Db9GL_p48t3aN1gQps47zzFRKidOynDNYgg.JPEG.jisoo831/profileImage.jpg"
+          },
+          {
+            "sid": "36523570",
+            "bodySummary": "관광객들이 자주 찾아올 정도로 접근성이 좋은 건 물론이고요. 세종문화회관 공연 관람 후에도 방문하기 딱 좋은 곳이거든요. 공연 시간은 막 다가오는데 계속 대기를 해야 하는 상황이면",
+            "url": "https://m.blog.naver.com/everewder83/223388332959",
+            "nick": "넹커피",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDAyMTZfNjgg/MDAxNTgxODMzMzkzNDM1.CBBeamUfRPM29a1ECLJNg6TxeZ-5r9KMOFf7TkgD7z0g.TAVAWnnoIKnms2dhFNiIue_Vk26t3Qi4hvdnhyj9Y7gg.JPEG.everewder83/1575806158858-23789.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "id": "36444929",
+        "name": "설가온",
+        "x": "126.9759463",
+        "y": "37.5726222",
+        "distance": 0.043,
+        "categoryName": "한정식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220056",
+            "220594"
+          ]
+        ],
+        "category": [
+          "한식",
+          "한정식"
+        ],
+        "reviewCount": 2145,
+        "averagePrice": 50000,
+        "address": "서울특별시 종로구 세종로 81-3 세종문화회관 지하1층 설가온",
+        "roadAddress": "서울특별시 종로구 세종대로 175",
+        "abbrAddress": "세종로 81-3 세종문화회관 지하1층 설가온",
+        "shortAddress": [
+          "서울 종로구",
+          "세종대로 175"
+        ],
+        "displayContext": [
+          "한정식",
+          "한정식집",
+          "횟집",
+          "코스요리",
+          "점심특선"
+        ],
+        "labelTheme": "고급 정찬",
+        "microReviews": [
+          "한옥의 정취와 함께하는 특별한 식사"
+        ],
+        "cardDescription": "한옥의 정취와 함께하는 특별한 식사",
+        "description": "세종문화회관 지하 1층에 위치한 설가온은 한국전통의 미를 살린 인테리어와 제철의 신선한 재료로 음식을 준비하는 전통 한정식당입니다. 저희 설가온을 이용하시는 고객분들께서 보다 품격 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTlfMTMx/MDAxNzQ3NjQxODg4ODU4.rnlFpkf3ELVzFhXwHWOw4n9iNfgsBaTsD1zmKYuHzAQg.x6gHe14joF4AGYVgxEoLc5dOh4ph-L4JvoFfOWeWOOYg.JPEG/A402B616-303D-42DC-AFFC-8771D171CC29.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTlfMTY1/MDAxNzUyODU2NjU1MTc5.6YyCMgU6U01DvQAJ3Lfyna9CahsL3B7PPAFToKW8Yw4g.OCIjiagYlcs5QyHmV6ugT5F6sx44WqMvuBqhTXv2gpsg.JPEG/6E783793-0A3A-4BA1-A0A5-C70B109B7554.jpeg",
+          "https://ldb-phinf.pstatic.net/20230421_288/1682041150023y2pUm_JPEG/%BC%B3%B0%A1%BF%C2_%BD%C5%BC%B1%B7%CE.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjBfMjgg/MDAxNzUwMzY0NjQ5MDI5.AdBOqTkES1z9crjwM62bOnRk_900_PPqZs7wRFBaW24g.8ccbtJ6s-o-207CY3bJfs74s7hqOY3Y20ONKKRu1fckg.JPEG/F61EE8BE-E152-42C9-9B97-1C777D07C574.jpeg",
+          "https://ldb-phinf.pstatic.net/20240614_284/1718374373377UuS2n_JPEG/IMG_8710.JPG",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjBfMjgg/MDAxNzUyOTc5Mzg1Mzk2.9j_Wyj-W5wn2Dn-S5b9Ew3ZxnVLdD7hoEj4qNRjf3DEg.8en4VAsK_3eFaMnx5E7qcmiXxqfiPbeOPYbMO_7P9UMg.JPEG/Screenshot_20250720_114114_KakaoTalk.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240614_148/1718374373249rC0rA_JPEG/IMG_8730.JPG",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTdfMjc1/MDAxNzU1NDAxNzAxMDA0.KCODoMCKsLsS2s347yMDRLMOt-gH8foZu5cMVIqMZ68g.NRRUVVVYC1SMdwiWLNiRiDS_J8bJ0fAix0lSyFiWeAMg.JPEG/59B05BCF-F52C-45CD-B5A7-AC804AC0BB3D.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTZfMTgw/MDAxNzU3OTk1NDQzNDg5.l2rA1J8Udousj2k5sMa9cggSs-Z0UE_pMYyegF7TKzog.z9kgw33qmgCzL_xhqXjTUUCG7FTtC1LH9w6i3fAH6q4g.JPEG/IMG_20250915_043809_439.png.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDlfODAg/MDAxNzQ5NDcxODQ5NjA4.t8hczNXGGsiMagUZwIik3bB1mZSiL_kwOAChS11ePJwg.JV8eN4vL_iq1NExNQl1Uz9ydG1IIReeo9l0qAJZmmpcg.JPEG/20250608_115230.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220594",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "36444929",
+            "bodySummary": "가게명 : 설가온 ☞영업시간 : 매일 11:30~21:30(연중무휴) ☞문의 : 02-733-3276 ☞주소 : 서울 종로구 세종대로 175 세종문화회관 지하1층 설가온 광화문역 ",
+            "url": "https://m.blog.naver.com/hkw4499/223398655216",
+            "nick": "미소미애",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA1MjRfMTA0/MDAxNjIxODMyMTcyMjc1.avQcRFUyzG9VV9kiTS6fbwgun5dgo9oFi7c-LdiwDZcg.1pwWd6_N73jenPXbPbjx9kKSZFz1H6vopynpl0oqRqMg.JPEG.hkw4499/profileImage.jpg"
+          },
+          {
+            "sid": "36444929",
+            "bodySummary": "여러가지 메뉴 구성들이 있었지만 제가 이번에 선택한건 가코스였답니다. 가성비를 비롯하여 식사 구성도 알차게 되어있어서 어르신분들과 함께 즐기기에 좋아보였어요. 전체적으로 음식들이 ",
+            "url": "https://m.blog.naver.com/imfine_ayoung/223395140849",
+            "nick": "구과장",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTEwMTVfOTQg/MDAxNTcxMDY3MzY0NjQw.c2f_zTD6iLKBx2EiMBFfkUnVyj6pHJfvN7J1KmjnDX8g.twAeEsMPwqkP3xtnJHXXBH-CYluMH1k23Ypz1O9iPS4g.PNG.imfine_ayoung/KakaoTalk_20191015_001622883.png"
+          },
+          {
+            "sid": "36444929",
+            "bodySummary": "서울상견례식당추천 설가온은 내부 인테리어가 전통적인 한옥 컨셉으로 고풍스러움이 느껴지고 모든방이~ 단독 룸으로 구성되어 있어서 중요한 자리에 딱 좋은데요~ 상견례나 부모님 생신, ",
+            "url": "https://m.blog.naver.com/vmflxl8520/223395062939",
+            "nick": "리니마미",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMDdfMjQw/MDAxNzA0NTk5MTc4NDgx.w8TkVsRk-2NIlnryZdttpY6_gzaWckvQ-sGLdTqOLcEg.lN-9bk_oQlCqsw_RKt0m-vuvEh9maOTVGhgEnYameBwg.JPEG.vmflxl8520/profileImage.jpg"
+          },
+          {
+            "sid": "36444929",
+            "bodySummary": "광화문역 1번, 2번, 8번 출구와 가깝고, 세종문화회관 세종라운지 통과 후 내부에 있는 에스컬레이터를 타고 내려가시면 쉽게 찾으실 수 있는데요. 참고로 식사를 하시는 고객들에게는",
+            "url": "https://m.blog.naver.com/ahdahsahm/223391968787",
+            "nick": "킴디니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMDlfMjU0/MDAxNzAyMDg4NjI5OTcy.7IA9qwymGeS75VBCKPhxqtZSdI81Rz21C5PeoQQfiyIg.vYOCGvv2C8TY5oCYUF8uGT4h4AUxDT4-NpyHjCgxeoEg.JPEG.ahdahsahm/profileImage.jpg"
+          },
+          {
+            "sid": "36444929",
+            "bodySummary": "설가온은 국내 최초 레스토랑 평가서인 블루리본 서베이에 2020년부터 2024년까지 총 5번 연속 수록된 광화문 한정식집 전문점이기도 한데요. 높은 수준의 한정식당으로 소개되어 가",
+            "url": "https://m.blog.naver.com/jisoo831/223392083671",
+            "nick": "zizoo",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxODAyMTRfNyAg/MDAxNTE4NTQ2ODY0NDUw.95jAR7bPLPqZg4SeB3eZLBZ_ZKbK3zWFJD62kVOmsg0g.jzCusxR55Db9GL_p48t3aN1gQps47zzFRKidOynDNYgg.JPEG.jisoo831/profileImage.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

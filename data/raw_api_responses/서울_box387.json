@@ -1,0 +1,150 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 2,
+      "count": 2,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.97459027882879,
+          "minY": 37.57460810810811,
+          "maxX": 126.97572685255253,
+          "maxY": 37.57550900900901
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.97515856569066;37.57505855855856",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1141606071",
+        "name": "정부중앙청사카페",
+        "x": "126.9751709",
+        "y": "37.5749805",
+        "distance": 0.009,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 507,
+        "averagePrice": 0,
+        "address": "서울특별시 종로구 세종로 77-6",
+        "roadAddress": "서울특별시 종로구 세종대로 209",
+        "abbrAddress": "세종로 77-6",
+        "shortAddress": [
+          "서울 종로구",
+          "세종대로 209"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 종로구 세종로 77-6",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTJfMTU2/MDAxNzQ5Njg0MDEwODQ3.3YndJCP5bDQGMerUUh1OLB4l0-XRcOGFFQ3Vy3FVcvog.76y9tMjWGYwtPxoU_nVouMARFnN8FbTfosJfT7xIkZQg.JPEG/12EDDEED-ADF6-41A6-86C0-C12C8203B506.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MThfNTcg/MDAxNzUyODA1OTU0MjAw.XesptYq8scFmFSdrT52skglYJwkmFmvx0cv4yqMb-e4g.sEOz9SeiC3sDI7Asp69IXg4WDiDZRZvXcSMkKL7j06Eg.JPEG/D4C5258A-0C43-4F78-A198-1986065D8448.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDJfMTU5/MDAxNzUxNDUwMjcxMDc1.MpAzYcVobBqwSveamh7Y3WIf8wvHM0aD1spREaAzyS8g.TU6KHzI0Wu15SB8Cgye91U85fW1cGor-mxkl9ti9rscg.JPEG/20250702_114418.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjFfMTc2/MDAxNzU4NDQ0MTM1MDA4.jc2pF6pG69OyLkeXpSTlNaQbIoSmGiKFSnKgPceuFdIg.-GibmZYnB1u1wopLvJxZg41rt_S00DSd2D1qBJnfNF0g.JPEG/20250719_141937.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTZfMjA3/MDAxNzYwNTc2MzMxOTM2.Dy6OfApFtzHbc5fJKNYH3E8nB-4sro_8Ase8F9N_aHYg.EZBgMR6AXmDgqu8qyV6A51n0HGt_UPBUAiVWgNAlxLwg.JPEG/8027EEED-F975-4AB8-9C7E-F27790068892.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDNfMjgg/MDAxNzU5NDg3NzQ3MTE4.055qiCnzvgpQcubsTUSFkvjbxWt1W_MeXxU1VSzMYKMg.icR1WFz_NIl1G-GGoHO_24vIPRm6sgQnAUvrA0nSKrAg.JPEG/896F004E-4E85-4DB0-97CF-4D30C6F02B52.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTJfMjA1/MDAxNzU1MDAwNDkwNjM2._E4m8Mfm9BFj8Bjjbk6JZue-9F3neX01SLh3zkcDvqUg.qBgYDmnI5EXDl2VM6GOWL5qgmZKUNJxSa3LUpw0LqjEg.JPEG/3368FC13-5189-4D6A-93D9-4014CF024279.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjhfMjky/MDAxNzUxMTE1NTkxMjgw.Kh4sjQLIdkDLtzCEqJ2031Gv3Ew43szDu06MaSSCEdYg.88_NgOTYXI-u9Y5dL83c-nJK9d4cq3zULssZooJ1DCUg.JPEG/1748654389026.png.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "84791558",
+        "name": "서울정부청사구내식당(FIC)",
+        "x": "126.9754761",
+        "y": "37.5748482",
+        "distance": 0.037,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 7,
+        "averagePrice": 0,
+        "address": "서울특별시 종로구 세종로 77-6 정부서울청사(행정자치부, 여성가족부 등)",
+        "roadAddress": "서울특별시 종로구 세종대로 209",
+        "abbrAddress": "세종로 77-6 정부서울청사(행정자치부, 여성가족부 등)",
+        "shortAddress": [
+          "서울 종로구",
+          "세종대로 209"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [],
+        "cardDescription": "일반인은 식당을 이용하실 수 없습니다.",
+        "description": "일반인은 식당을 이용하실 수 없습니다.",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

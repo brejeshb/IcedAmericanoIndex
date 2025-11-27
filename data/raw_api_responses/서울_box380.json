@@ -1,0 +1,155 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 2,
+      "count": 2,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.9666342627626,
+          "minY": 37.57460810810811,
+          "maxX": 126.96777083648634,
+          "maxY": 37.57550900900901
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.96720254962446;37.57505855855856",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "2031823499",
+        "name": "room5 roastworks",
+        "x": "126.9674573",
+        "y": "37.5747831",
+        "distance": 0.038,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 29,
+        "averagePrice": 0,
+        "address": "서울특별시 종로구 사직동 228",
+        "roadAddress": "서울특별시 종로구 사직로 73",
+        "abbrAddress": "사직동 228",
+        "shortAddress": [
+          "서울 종로구",
+          "사직로 73"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 종로구 사직동 228",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjJfMTk1/MDAxNzU4NDY5NjkxMzYz.Pu0xqXihhgT0jDmpe1He1hQ66g997y07CHS68mGKFHsg.sP5WH3fHAlcxs_jZ2i8tPpG-ISkJvlfBeOUSdfdPC0Eg.JPEG/BDF70419-E15A-4650-816A-CF7544E2140B.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDVfNTEg/MDAxNzU3MDQ4MjU3MDA4.aWLfzB4meYdwjPdmZ1LqNR-fodeXrMglF9UlN121ISYg.DaFjqgvrm3RlvRGpTl3AusoeUlVYYyTITPfAfOxAJMsg.JPEG/6DFB4DCF-ABA0-41A4-80B7-B5FDFAA77B20.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDlfNzUg/MDAxNzU3NDE4MjMyOTQw.fK1PuS3Odi6Z_A22YaStigpFnpfHYIoiIr8HPIm1-p0g.z8QvBExTei47giRzHtuGhcS7xhZTu4Ta1DI_XorwDi0g.JPEG/AAAEAEB0-27ED-44ED-9985-D76887CF8DC6.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjFfMjQ2/MDAxNzU1NzcxMjQ2MTc2.23L7bfmiwIpqoN54qWg6I1sNqXGNK32YhTVOvEU34FIg.cCSvKa9mFrKZzwzRHUVU3YgWJ16DofbfKws3Zfjbh-wg.JPEG/047E1C47-7F6F-4F0F-B52E-63E2A0A49129.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDlfMjMw/MDAxNzU3MzgxMTE0NTE0.d_s6xoI4p7TlUd5BdhHdmTSDKgfdI6vDj2T3HrUzC64g.m-NQtVUEw_sDvpUBKmM0ic3aC0XR2SS0VJdvZcv2nN4g.JPEG/1000116500.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDJfNSAg/MDAxNzU5Mzc2MDQ4ODAx.oXBMHiqeW3ijMD2gPyGw-9LpNwltaPxDSo53-_zS-eQg.SUd0FwHBYJedmwt7ZkdXyKPyYUfaZUiLZPN-fxv56I4g.JPEG/20251002_112753.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MzBfMjYz/MDAxNzU5MjA3NDc1MDg3.uP_HBFz_yo-7hCLKmm7VQO7v_UKI-ezOyJT03_5ZEVIg.EqvAJkhdJ9iqA9ux2D4joSDunJ43CbcUevDPEaVbwsEg.JPEG/375E45B5-0043-4F53-8D56-80C733003E8E.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTNfOTIg/MDAxNzU1MDg5MzQ5NTQx.4NolITUsT6kSmNfM_n_aCC7fGw-nVmWNL1-_PNPR9jog.hq2tvsDCwZ7oKaQo3Tz3idbL71_Ski4mV6KWzaqZ-O8g.JPEG/AC85DB51-EA67-4F67-911B-2E2D6426C278.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjBfMTcy/MDAxNzYwOTE4MTYxMjEx.j1hkOYo4E5a8UN0KSDp_nHOKFcJaV7vFeixgaUm2zkUg.tJf7nr4mDRnJ0KMJuojtBIOHoE_3CRy-PUiEhPIVcXcg.JPEG/5795E317-37EB-458C-801C-8585F6C0CFBB.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "1957842296",
+        "name": "88라면스테이지",
+        "x": "126.9669675",
+        "y": "37.5748612",
+        "distance": 0.03,
+        "categoryName": "퓨전음식",
+        "categoryPath": [
+          [
+            "220036",
+            "221730",
+            "221731"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "퓨전음식"
+        ],
+        "reviewCount": 386,
+        "averagePrice": 0,
+        "address": "서울특별시 종로구 사직동 1-41 위쿡",
+        "roadAddress": "서울특별시 종로구 인왕산로 5",
+        "abbrAddress": "사직동 1-41 위쿡",
+        "shortAddress": [
+          "서울 종로구",
+          "인왕산로 5"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "라면, 어디까지 먹어봤니? 누구보다 라면에 진심. 88라면스테이지 라면이 가장 맛있는 공간 - Comming Soon (10월 中)",
+        "description": "라면, 어디까지 먹어봤니? 누구보다 라면에 진심. 88라면스테이지 라면이 가장 맛있는 공간 - Comming Soon (10월 中)",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20220921_109/1663734922042OhPc6_JPEG/%B8%C5%C0%E5_%B6%F3%BF%EE%B5%E5.jpg",
+          "https://ldb-phinf.pstatic.net/20220921_10/1663734922068tLCR4_JPEG/%B8%C5%C0%E5_%C6%F7%C5%E4%C1%B8.jpg",
+          "https://ldb-phinf.pstatic.net/20220921_131/1663734921960c4aEt_JPEG/%B8%C5%C0%E5_%C0%FC%B0%E6.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221731",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

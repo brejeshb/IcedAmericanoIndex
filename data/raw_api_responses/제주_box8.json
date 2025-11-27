@@ -1,0 +1,2513 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 34,
+      "count": 34,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.5203964017832,
+          "minY": 33.4996,
+          "maxX": 126.5257982008916,
+          "maxY": 33.504104504504504
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.5230973013374;33.50185225225225",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "2018673391",
+        "name": "수우미",
+        "x": "126.5209558",
+        "y": "33.5009143",
+        "distance": 0.224,
+        "categoryName": "베이커리",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220564",
+            "221161"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "베이커리"
+        ],
+        "reviewCount": 200,
+        "averagePrice": 10000,
+        "address": "제주특별자치도 제주시 삼도일동 550-23 1층",
+        "roadAddress": "제주특별자치도 제주시 서광로19길 10-5",
+        "abbrAddress": "삼도일동 550-23 1층",
+        "shortAddress": [
+          "제주 제주시",
+          "서광로19길 10-5"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "제주특별자치도 제주시 삼도일동 550-23 1층",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTlfMTIw/MDAxNzU1NTc3ODk0MDg1.IQshL9Usu_dw0q39TPyvPeg6UeDptZyUyUPgooP628cg.SFyzeBMXrOh6PDVzGVjmgiyk1oqQJay952iEWcmHvvog.JPEG/923D08F7-F829-4B3A-A633-FCF92B6E06A4.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MzBfMTYg/MDAxNzU2NTE2Nzc5Nzg2.M9jVosJAOKhkkvAH_GeQeP8cP8lb-wiMh6emtcQRev4g.lRnbJo5eB3D_79oBeeQ2qeEQTyEN0qqDF4xBz7WxW6kg.JPEG/FCDB2938-C928-4A18-8B18-AF674F045792.jpeg",
+          "https://ldb-phinf.pstatic.net/20250629_192/1751162061878aYbbQ_JPEG/IMG_4238.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTZfOTgg/MDAxNzUyNjQwMzAwMTc1.Nh7FmeHhBNUrpxE6jZXdt0FcKyv4UuQsGwx7CZX4iQMg.Dbc9Je4u3tzwvS5gNqy9LVxg3J3PmzkbSrypVzvTF-wg.JPEG/719F7505-D399-4D9F-92E8-9C9F42865ED4.jpeg",
+          "https://ldb-phinf.pstatic.net/20250725_161/1753447514977VI1bs_JPEG/IMG_5392.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjJfMTgz/MDAxNzU1ODQzMzM2ODI1.zIUNpfLtA8q4jmTrZDxIZOyL5E_HRjowt6elDSvqUPsg.xR7T1qc3GVaU94V8vehsjrBaEzh5-uSjugl6gdA9JWog.JPEG/IMG_2705.jpeg",
+          "https://ldb-phinf.pstatic.net/20250725_4/1753447515017XMsg5_JPEG/IMG_5364.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjJfMjAz/MDAxNzU1ODQzMDI5Mzkz.pOWEfWn0sDmZ6WlvMPwakR5bpb9zDrbC_5YcqKt-YpIg.1SxKU5Wy6Y7bNfR0pK2JpM5bN2ASdgpfKy6karJzCzEg.JPEG/68221092-11B9-471B-BC5D-7C9A8AACF9BC.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjhfMTg5/MDAxNzU5MDQ3NTQwOTEz.PFN3Lv6K16V36UDxTL2KxjfvcAxdCKSBjE6X8LSM7B4g.c0q3wbiN6xFsz64FnuBEB35OrqLs_1pWsTTDmUhvHm4g.JPEG/0EE81379-0CBE-4D20-8F4F-98BA44CB786B.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTdfMTY2/MDAxNzUyNzU1OTI2NjQx.pqgHhRoItjC3SUkBJJ3DlRUyW_iJ6Cyxz2DEixy9d4sg._d2nlBbbkWt7_yX540NATAoz0qwiPP_-OusHwVBURtIg.JPEG/2FAEAFFF-931C-461D-BF0E-E88190C9ED82.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221161",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "635282087",
+        "name": "카페세탁쏘",
+        "x": "126.5213885",
+        "y": "33.5012606",
+        "distance": 0.172,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 863,
+        "averagePrice": 10000,
+        "address": "제주특별자치도 제주시 삼도일동 549-19 1층 카페세탁쏘",
+        "roadAddress": "제주특별자치도 제주시 서사로19길 15",
+        "abbrAddress": "삼도일동 549-19 1층 카페세탁쏘",
+        "shortAddress": [
+          "제주 제주시",
+          "서사로19길 15"
+        ],
+        "displayContext": [
+          "케이크",
+          "카페",
+          "디저트",
+          "분위기있는",
+          "아늑한"
+        ],
+        "labelTheme": "분위기 좋은",
+        "microReviews": [
+          "제주공항 근처에서 즐기는 맛있는 휴식"
+        ],
+        "cardDescription": "제주공항 근처에서 즐기는 맛있는 휴식",
+        "description": "주차:도보5분거리 공영주차장혹은 바로앞,주변 주택 대문만 피해서 모든곳에 주차가능합니다.  카페세탁쏘는 내가나와 노는 놀이터같은곳에요.  요즘내가 어떤게힘들고 좋았는지,더많이 물어 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDRfMTYw/MDAxNzU2OTU3OTE3NzA2.3381c-6xG5yz7EpBjgBeeDyTPrCG21fLODsdKdYTPOAg.aNTa67no4kfyGWwvCSazojBQxt7oVpZKecugenvGDtEg.JPEG/93820CCD-AF80-4ABF-8A50-3019DB3AF71E.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjVfMTI4/MDAxNzUzNDE3NzQ4Njk4.eEHe_I6Ia6D3fUEfa82cOPgmRw5pxokM41rS1SsS9Ucg.yejQmGEMKfekYorc2OWEQmfwuDl5rCKZzCb-Z_jqy_gg.JPEG/FC4215AE-50A5-4A52-9DDC-ECAEDA5AEDC1.jpeg",
+          "https://ldb-phinf.pstatic.net/20251001_148/1759283360760wA5Sn_GIF/IMG_4150.gif",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTVfMTEg/MDAxNzYwNTE5NDM2NTMw.FlLHTFDsBS8giEy0e6JiW0smFFT5-nwK6EsqnLBKiXYg.RzZLeTD-oNlO_FmDsvSR7WXHtNHKfiNnm5QNJn0ejJcg.JPEG/D01B4583-3F24-4C5C-9204-460D1D038913.jpeg",
+          "https://ldb-phinf.pstatic.net/20250818_257/17554890013504D7lx_JPEG/IMG_3255.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MzFfMTQ0/MDAxNzUzOTUwMTY0NzMw.suK4h5kcP8ffRrxdrzkeQsV97quTLi8XAsbr8HEhHh4g.8UMADHDYoh9q6R5BqWNJ58Ruotr5JxdY269flsOhvacg.JPEG/E3F3C4BC-E2DA-4651-BF85-257C95864C76.jpeg",
+          "https://ldb-phinf.pstatic.net/20250826_158/1756162468111eIg59_JPEG/IMG_3438.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTRfMjE3/MDAxNzQ5ODk3MTk4NTYz.e9TBw-O9y88qq1ZMVpHYNeSo__GFtoje9SggLoKKXugg.DauOeKa7GptkNeHS6Ytq0V04a3HulnXE3VelClSP0Pkg.JPEG/F51BB9A9-2EB1-4142-994E-E7145AE50388.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDdfMzcg/MDAxNzU5ODM1Mjc0OTIy.ZRdNeQ333OWl_9JHdgHN9IdPVgthwX8flFbjBqpuuewg.DsskjoaFxwqtf6ksREqUyJluYIT0lMSqQmJCJxjqRF4g.JPEG/B40C25B6-B66E-4275-9C8D-50A72FEE8225.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDRfMjU5/MDAxNzU0MjgzMzk3Mzk1.Lpkz_44ACtXZk5_p2pQH2p3FmYGyv37UXqKCCjczDPIg.07N5UD_gFQeHV_2FCQlguqLIeh0aeKafhnyzrQcW8hMg.JPEG/1754282525425.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": true,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.52",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "635282087",
+            "bodySummary": "공항이랑 가까운 #삼도동 이번 제주여행 첫 카페 #세탁쏘 징그럽게 10시에 오픈런했다 카페 브랜드 스토리부터 너무 재밌고, 손님들이 적어놓은 기록들 보는 재미도 쏠쏠한 햇살이 예쁜",
+            "url": "https://m.blog.naver.com/hyoditor/223394977847",
+            "nick": "효디터",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxODA5MDdfMjE0/MDAxNTM2Mjc0NDI4MDI4.PesbcRs_Jov6uz-nMdou4J1o1yNQSVhlTdnW0KD4olog.O3v0iSXQkvBbxonSKq2KbZmg0n1iPPZACt1UAQd-0Usg.JPEG.hyoditor/profileImage.jpg"
+          },
+          {
+            "sid": "635282087",
+            "bodySummary": "주소 : 제주특별자치도 제주시 서사로19길 15 영업시간 : 월~금 10:00~20:00 / 토 11:30~20:30 매주 일요일 정기휴무 따뜻한 분위기가 흘러나오는 이색적인 카페",
+            "url": "https://m.blog.naver.com/soobin1630/223312048431",
+            "nick": "담비",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMTlfMjQ0/MDAxNzA1NjMyMTI4MjYx.Ct0_3aDSWsDaWyW8NYNWYNqonP7tHeUhu_bguTiubkIg.Oijc_2t107AFaxMQFElXUfYSHfQf7O3yOywoat3O8LAg.JPEG.soobin1630/profileImage.jpg"
+          },
+          {
+            "sid": "635282087",
+            "bodySummary": "제주 스토리가 있는 이색 카페 _ 카페 세탁쏘 제주 삼도동 작은 골목에 위치한 세탁소 컨셉의 귀여운 카페 [카페 세탁쏘] #제주도 #제주 #제주여행 #제주카페 #제주이색카페 #세탁",
+            "url": "https://m.blog.naver.com/sunnie_blog/223275820865",
+            "nick": "주써니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjEyMDJfMjY2/MDAxNjY5OTUzNDAxNDEy.P4bhNPDr5dqM7XxPkLHK52e8n-6EBj79yGr7QypF4JAg.0nm7xPctFwUofDh1i76Yp-zlzaTkZFXTI9EXfBD-zRUg.JPEG.seonhee930/KakaoTalk_20221125_100213121_21.jpg/KakaoTalk_20221125_100213121_21.jpg"
+          },
+          {
+            "sid": "635282087",
+            "bodySummary": "친구추천으로 방문했던 카페 세탁쏘 주택가 안쪽에 위치하고 있습니다. 아기자기했던 내부 인테리어 귀여운 디저트 가득 503호 라떼 아이스 아메리카노 다듬이 컴퓨터 라떼 조만간 또 방",
+            "url": "https://m.blog.naver.com/happinessdays/223206579570",
+            "nick": "해피찡",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA4MDNfODUg/MDAxNjU5NDUyNTU5MTgy.O5QbygNqJpucnWMXh1jj5paoG7_8_xR9MU6wjfDUYPMg.3xUammdsPyWWIV3Bf4YDZOrvaHjHSFubpzY7znSqz40g.JPEG.happinessdays/profileImage.jpg"
+          },
+          {
+            "sid": "635282087",
+            "bodySummary": "세탁쏘인듯 아닌듯 사람들의 사연을 행복한 기억으로 만들어주는 영화속에 들어갔다가 나온기분이었다.사진한컷한컷 영화같았다. 음료도 너무 맛있었고 기분을 행복하게 만들어주는 맛이었다.토",
+            "url": "https://m.blog.naver.com/alvlalvl123/223204657413",
+            "nick": "472",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAxMTNfMTQ4/MDAxNjQyMDQ0MDk2NDQ3.2T1OFx83WXzOCPz4VXk8Lh20MOGTRu29pbHIk_kAH_Eg.jQLgMcwtgXDmAwSl4jbLam0KwBAzGRPlLtTMpkcqqa4g.PNG.alvlalvl123/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "id": "1026954941",
+        "name": "행복밀",
+        "x": "126.5220701",
+        "y": "33.4999686",
+        "distance": 0.23,
+        "categoryName": "베이커리",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220564",
+            "221161"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "베이커리"
+        ],
+        "reviewCount": 2309,
+        "averagePrice": 5000,
+        "address": "제주특별자치도 제주시 삼도일동 553-4 1층",
+        "roadAddress": "제주특별자치도 제주시 서광로 239",
+        "abbrAddress": "삼도일동 553-4 1층",
+        "shortAddress": [
+          "제주 제주시",
+          "서광로 239"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [
+          "우유크림빵으로 느끼는 부드러운 달콤함"
+        ],
+        "cardDescription": "우유크림빵으로 느끼는 부드러운 달콤함",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjNfMzYg/MDAxNzU4NjA1NzA5MTQ2.Q2odbTGUepsiQZuXPEI5lCvi9jShj2UAzWTPUvIo2jwg.RdHAFnnSogbTl2nqKRjcrJRmklHGj2ij7Iv1paDjpncg.JPEG/20250831_092929.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjhfNTQg/MDAxNzQ1ODQ3MTQxNzIw.yMZ5Vm402RReIwoZKoUjmq3wfauunv6O_IoCE94rQ_sg.Yik833pXLewObw-WkG2EiHoIExTuLnYlaS7gEisoIvgg.JPEG/20250426_124901.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240506_292/17149564335959kayU_JPEG/1000069885.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjNfMTAx/MDAxNzUwNjU2MzQ4MjEy.HSTpc68dsPTqh03iaqnWtW7W24_PzXusc5wfb8s6C64g._EnAWsY52XAwC7238RA2KVHX8QEPRnambeHxiSrhcpkg.JPEG/00DCF5CB-74E6-41B9-8C4A-D3D77993BEFE.jpeg",
+          "https://ldb-phinf.pstatic.net/20221018_179/1666055448420B7D9E_JPEG/20221018_100828.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjhfMTI1/MDAxNzU5MDI5MTEzNzg5.oCGpRzQ2oMdEisNIgaBDhjAchSAeiGGaOo5UZj-IJLQg.Dqa2MoPjGh7164XslcrQ2WGLmZlKAevxYg3ExDECY90g.JPEG/449AA92E-C782-48CE-882C-7E2DC654D157.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTBfMjY0/MDAxNzQ5NTU4MjkxMjUz.7LDEVCZK9Rj68q_yWNBNdD9MN-O_akrfamhIcP_OpSog.faLRolrFwKVcdCYJE0tDAFrwf5qil8CZrIpIs4xoRfEg.JPEG/IMG_4766.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTNfMjA0/MDAxNzUyMzc1NTI1Nzcz.7q_QZpW0E64b-Y67KAOgu-u82Rnp6Y71TDkKhVDQ4j8g.wiafPShz_2vhCk4vtZDoJTmGIHNLmFgjOu9uRTughGsg.JPEG/1000020964.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjBfMTQz/MDAxNzU4MzM4NzgwNzc1.nwZVqrAKuhyOhUWhf2LgtHYWOY0Xp78Qlkgmk0fPRHkg.qUQ1O29Lp75J9NNd2qgdlVWR3bGS6mtU_HBV6ItNjBAg.JPEG/87666A44-C3C0-40FB-B2B1-8DE25E3307DA.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTJfMTE1/MDAxNzYwMjYwMDM5Mjc4.epJKUdnnRFohUunKeHhXLf5G0tMhx2eXGhv6j-2WRNgg.p2KezX8pqWkk3Fzj1SXzGigTcmV_MR6frxIxBCXsdIEg.JPEG/20251012_094840.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221161",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.53",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "1026954941",
+            "bodySummary": "안에 들어있는 팥앙금이 엄청 달다는 후기가 있었는데 일단 쑥 향이 너무 좋고 떡이랑 앙금이랑 같이 먹으니 저에게는 기분 좋게 달달한 맛이어서 좋았습니다 쑥 좋아하신다면 추천드려요 ",
+            "url": "https://m.blog.naver.com/minsssss_/223390342787",
+            "nick": "민브",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAyMjdfNyAg/MDAxNzA5MDM3NjI2ODg3.ZAy0WcT-PTXmUlD2LljxeVlHwNneGJ9K1cXPpw-mwLAg.en3OeKf-rpS4RvJHJ0w7uGn8BUQJH1-cGhc14G4SMgkg.JPEG/profileImage.jpg"
+          },
+          {
+            "sid": "1026954941",
+            "bodySummary": "주차 공간은 따로 없습니다! 전 5년 장롱면허... 뚜벅이어서 호텔 가는 버스 내리자마자 발견하고 들어가봤네요 아담한 내부를 가진 제주 공항 동네 빵집 행복밀 내부에서 취식은 불가",
+            "url": "https://m.blog.naver.com/kongkong_43/223387417832",
+            "nick": "콩순씨",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEwMTRfNDIg/MDAxNjk3MjU5MTI1NzA3.BVPkEUdoLGgP9tgGtmSYUASXYDlne3k6ISa2BRuTimAg.c7OZd2Npe7XPnkNqU7NBEYhAkFSQUYPKpA2KOwegHm4g.JPEG.kong_soonc/KakaoTalk_20231014_135135899.jpg/KakaoTalk_20231014_135135899.jpg"
+          },
+          {
+            "sid": "1026954941",
+            "bodySummary": "#빵집 #빵 #빵맛집 #맛집 #카페 #제주도 #행복밀 제주 간 김에 안가본 빵집 가보자며 찾아본 . ‘행복밀’ 방문 후기 써보자고 〰️ 행복밀은 제주시에 위치 . 공항에서 멀지 않",
+            "url": "https://m.blog.naver.com/sukooong1004/223378382457",
+            "nick": "수콩",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA5MDJfNjUg/MDAxNjkzNjMwNTUyNDYw.zpbz5pnlmOjCsSEsrZkNl5b-ui-EKqfdI3tmUYru1B8g.hJUQoS6SSJYFICUcPL_TNVqQwmaLKkNy8CS0is-l0KYg.PNG.psb991004/profileImage.png"
+          },
+          {
+            "sid": "1026954941",
+            "bodySummary": "바나나푸딩도 있고 쌀밤팥빵 만쥬 녹차크림빵 우유크림빵 이렇게 삼 주차해 둔 차에서 우유크림빵 바로 먹었는데 크림가득, 빵피는 쫄깃 내려서 바로 더 사오고 싶은 맛 짐이 넘 늘어서 ",
+            "url": "https://m.blog.naver.com/dahaem77/223370935589",
+            "nick": "다햄",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTEwMjhfMjMy/MDAxNjM1Mzg4MDMzMTI1.KX9HSvGTIHcLvFKcWtjXNHFFhjDa785D1cvtX4M7oAUg.bwsERNeTfJiDsXvnH0FNXV2GQ4qvTdXFbD1yZqcp9g0g.JPEG.sbr572/KakaoTalk_20211028_112624377.jpg"
+          },
+          {
+            "sid": "1026954941",
+            "bodySummary": "마늘 스프레드, 녹차맘모스, 쌀밤팥빵, 쑥송편으로 유명한 행복밀에 다녀왔어요. 제주시 삼도일동 553-4에 위치해 있어요. 영업시간 평일 9시~19시 30분 주말 9시~20시 30",
+            "url": "https://m.blog.naver.com/atteming/223355343061",
+            "nick": "감미로운 제주",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20230808_61/atteming_1691466148405Wf0uF_JPEG/KakaoTalk_20230610_130252587_01.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "id": "16843702",
+        "name": "평화보리빵",
+        "x": "126.524096",
+        "y": "33.4996492",
+        "distance": 0.262,
+        "categoryName": "베이커리",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220564",
+            "221161"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "베이커리"
+        ],
+        "reviewCount": 124,
+        "averagePrice": 0,
+        "address": "제주특별자치도 제주시 삼도일동 580-37 1층 평화보리빵",
+        "roadAddress": "제주특별자치도 제주시 서광로 258",
+        "abbrAddress": "삼도일동 580-37 1층 평화보리빵",
+        "shortAddress": [
+          "제주 제주시",
+          "서광로 258"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [],
+        "cardDescription": "팥보리빵 , 보리빵 , 쑥빵 , 우유찐빵  개별 포장 가능 합니다. ( 개별 포장은 미리 연락 바랍니다. 선물 용으로 좋습니다.) 공항 8분 거리 이내 위치해 있습니다. (도로 앞 공항 방향 U 턴 가능)  전",
+        "description": "팥보리빵 , 보리빵 , 쑥빵 , 우유찐빵  개별 포장 가능 합니다. ( 개별 포장은 미리 연락 바랍니다. 선물 용으로 좋습니다.) 공항 8분 거리 이내 위치해 있습니다. (도로 앞 공항 방향 U 턴 가능)  전",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjBfMjgg/MDAxNzU1NjM5ODE3Nzg2.qTMv8K8aWs8vJy5W4to0KZ1WZ9Eh3Z_xgjwEr5-2g1sg.4Voq3NXfsUGeklmUzfQYZI0O3QOdvFCNjXpsCgftjrkg.JPEG/C774B7E4-F471-4D20-8199-6A8A500B90B8.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDdfMTAz/MDAxNzU5ODQ1Nzk4MTcz.3xZ1zzmfxd-3ITnvLIkp8Taq7A2N3tfQumfsU-wntcYg.QalKhDnFq-N2o3jLxBo627RwCh5dRrZUn6jqhFIltL4g.JPEG/20251005_103407.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20230420_249/1681977399079IYhKi_JPEG/20230401_151408.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221161",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.2",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 5,
+        "id": "1299706076",
+        "name": "부나커피",
+        "x": "126.525113",
+        "y": "33.504067",
+        "distance": 0.309,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 8,
+        "averagePrice": 5000,
+        "address": "제주특별자치도 제주시 이도일동 1643-1 1층",
+        "roadAddress": "제주특별자치도 제주시 전농로 114",
+        "abbrAddress": "이도일동 1643-1 1층",
+        "shortAddress": [
+          "제주 제주시",
+          "전농로 114"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [
+          "가성비 넘치는 디저트와 커피의 조화"
+        ],
+        "cardDescription": "가성비 넘치는 디저트와 커피의 조화",
+        "description": "바쁜 일상속 맛있는 커피와 디저트, 잠시나마의 여유를 드리고 싶은 부나커피",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTlfMTI0/MDAxNzUyOTAzMjE2MDQx.UKpOCq9CE33T6Rs9BZO2vGpHklXPOdVZ1hBnXQ3bJX4g.ryX45LeRR_j5kAlmYHmnATYrjJBJtxykWsRNuwgFysYg.JPEG/1000042571.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20241104_137/1730683645691PX4w9_JPEG/IMG_3303.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 6,
+        "id": "1332919352",
+        "name": "꽃길",
+        "x": "126.5217764",
+        "y": "33.5035917",
+        "distance": 0.229,
+        "categoryName": "베이커리",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220564",
+            "221161"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "베이커리"
+        ],
+        "reviewCount": 65,
+        "averagePrice": 5000,
+        "address": "제주특별자치도 제주시 삼도일동 305-26 1층",
+        "roadAddress": "제주특별자치도 제주시 서광로25길 60",
+        "abbrAddress": "삼도일동 305-26 1층",
+        "shortAddress": [
+          "제주 제주시",
+          "서광로25길 60"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "평일 10시~ 18시 토요일 일요일,공휴일휴무",
+        "description": "평일 10시~ 18시 토요일 일요일,공휴일휴무",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDFfMjUy/MDAxNzU5MjUxMjQzMzkx.woWFBq3bIvIwUC5J21vmcNDnZw62Kq2C9X6tVp0K7Ecg.prObYCtLqTcsCc3tfitYASi8fA1KfP5wsfw7uzB9OdEg.JPEG/20250930_121239.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDdfMjU3/MDAxNzU5ODMzNjI2NzY2.uk_KQcVokJgBVnnCv36eO8rqJqnNaW1BfqJqaN-RgGsg.CyaRia_6ZI8SMqJ6epS_J8Ep1a0NUJl7Zqd40jwkbasg.JPEG/20250930_121251.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20180828_267/1535437513737jp5x8_JPEG/WK6evuscOC8Ls4NfMuW8WqmI.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjRfMTcg/MDAxNzUwNzQyMTgxOTI2.aZN1mO-CeWgzoiW2Asb3jY5LKJ4DdaDgz3tyqYesuaAg.8zJbyQGGl1ExXgS5Xx1HvYWMIZWAVTlu9trny8yLVFwg.JPEG/A56724BE-6B64-497F-BFC5-DDDD7C267248.jpeg",
+          "https://ldb-phinf.pstatic.net/20240722_216/1721628472956tIGjb_JPEG/1000009358.jpg",
+          "https://ldb-phinf.pstatic.net/20240722_15/1721628475194SOO2E_JPEG/1000011460.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221161",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 7,
+        "id": "1126417296",
+        "name": "위더스스터디카페",
+        "x": "126.522355",
+        "y": "33.5000136",
+        "distance": 0.216,
+        "categoryName": "스터디카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220587",
+            "1003616",
+            "1003617"
+          ]
+        ],
+        "category": [
+          "스터디카페"
+        ],
+        "reviewCount": 9,
+        "averagePrice": 5000,
+        "address": "제주특별자치도 제주시 삼도일동 553-5 영지빌딩 5층",
+        "roadAddress": "제주특별자치도 제주시 서광로 241-1",
+        "abbrAddress": "삼도일동 553-5 영지빌딩 5층",
+        "shortAddress": [
+          "제주 제주시",
+          "서광로 241-1"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "안녕하세요 위더스 독서실 입니다. 시청에서 서사라 사거리 가기전 대도로변에 위치해있습니다. 위더스독서실과 함께 운영중 입니다.  저희 위더스 삼도동센터 에서는 아래와 같은 서비스를  ",
+        "description": "안녕하세요 위더스 독서실 입니다. 시청에서 서사라 사거리 가기전 대도로변에 위치해있습니다. 위더스독서실과 함께 운영중 입니다.  저희 위더스 삼도동센터 에서는 아래와 같은 서비스를  ",
+        "images": [
+          "https://naverbooking-phinf.pstatic.net/20250618_299/17502126623407SHoB_JPEG/1.jpg",
+          "https://ldb-phinf.pstatic.net/20230308_243/1678278251576wH2z2_JPEG/6.jpg",
+          "https://ldb-phinf.pstatic.net/20240921_11/17268866778317mtm9_JPEG/%BD%BA%C4%AB%B0%A1%B0%A1%B0%DD%C7%A5.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1003617",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 8,
+        "id": "1467942534",
+        "name": "후지산",
+        "x": "126.5214363",
+        "y": "33.4996253",
+        "distance": 0.292,
+        "categoryName": "일식",
+        "categoryPath": [
+          [
+            "220036",
+            "220038",
+            "220082",
+            "220812"
+          ]
+        ],
+        "category": [
+          "일식",
+          "돈가스"
+        ],
+        "reviewCount": 37,
+        "averagePrice": 10000,
+        "address": "제주특별자치도 제주시 삼도일동 572-9 1층",
+        "roadAddress": "제주특별자치도 제주시 서광로 234-1",
+        "abbrAddress": "삼도일동 572-9 1층",
+        "shortAddress": [
+          "제주 제주시",
+          "서광로 234-1"
+        ],
+        "displayContext": [],
+        "labelTheme": "일식",
+        "microReviews": [
+          "야끼소바와 돈까스의 환상적인 조합"
+        ],
+        "cardDescription": "야끼소바와 돈까스의 환상적인 조합",
+        "description": "돈까스, 텐동, 소바 전문점입니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTRfMjM4/MDAxNzQ5ODkwMzYzMzYx._gnGiv0rsgZEnXJ-Ux3HkzxTrG-iG8pmw05T55NkBY0g.L6D8mZ-Rb7yW7SskxK2-VbiiR966yZbLUNzWw8mUOo8g.JPEG/20250614_170859.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDJfMTc5/MDAxNzUxNDMzNTA0MzYw.kx2OMUmpDaqqgukR_-2FtqWNL2WrR2fuLKjPeEEUT6Qg.0J0gWc841xcRFpHos_UzNSWkKjnVcJjNNBFb9BSE_bog.JPEG/779EDC06-033A-40AB-B736-AA0D9311D039.jpeg",
+          "https://ldb-phinf.pstatic.net/20250320_79/17424637576659Gcpe_JPEG/KakaoTalk_20250320_161030956.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDFfMjg5/MDAxNzU5MzE0NzkxODk0.NkWZcNfkKp3Ro2J_XrMF1sy-p9t53N_EvXA2o9TFbm0g.Aoi4siyCMKBGJ7sq6gGEV7SJ34SWH2ga5IQoN48kxlAg.JPEG/211E8BD6-47A2-4D96-AAE4-875C7F220035.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjBfMzYg/MDAxNzU4MzQ0ODY0ODUy.h32g0Of6HLp_ctrdvhS-t2nxahnB62wg7mhk6ns4OFEg.QLv29n0mZ6trtlohJdZoEuhEVq8HQ7DghemcQR_jey0g.JPEG/37388637-A8A1-4984-B46F-6AA4AE43D5AF.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTRfODQg/MDAxNzQ5ODk1NTE2ODQ4.mEnxH41JmXYcRhvbMvTOSjr9zo55r8x5nE82n0pjJjEg.ZPlilcJ56e1o8kne4ZCIFdQPv90XXsOgHLfIs5QZRvsg.JPEG/20250614_190212.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTJfMTAg/MDAxNzUyMzAzNDUxMTEw.U-fG5vkQV8zNHOBicxA-qjxWzMzA-U6whW6UuRFAkOAg.UusQ8I9UJgFCR90Ev57sMCQr5e2YuDJn6z9LG2qQ4jAg.JPEG/12CE918C-53F8-43D9-868A-1E07C2A7B98D.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDRfMjQy/MDAxNzU5NTQ2ODMwNTk5.YMqaeluG14TBNXGeLiPanmduRKRKlJkwqxznK4k6MVwg.D_C1v7k-aZv6IWNyKL2BLlv96LeY29xPGWmZgqss0gYg.JPEG/1000004460.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjBfMTk2/MDAxNzU1NjY1MDAyODg3.iS5EdzMxelCFnZx957n9ERuoHnOnZUvfMKrZTGiB_GIg.0hCeB0Pvzn2g21S3O3_2kNX8K-3S8VVyA_gjlko5aWog.JPEG/FDD51862-EBFD-45E8-AAF4-3F54D862C17E.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDdfNTYg/MDAxNzU5ODI0MjM4NjMw.0I5fUf6fJ1WHf9zqUldYV8Y8kglrHnTZgPDJsG8KRwUg.yAISfJxRYcfho-HRin-7pGWRE35_vwxZD-qndobEeugg.JPEG/228ED752-9C50-41A7-8B80-89781502CBFA.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220812",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 9,
+        "id": "1451458937",
+        "name": "요리왕 비룡",
+        "x": "126.5219106",
+        "y": "33.5024575",
+        "distance": 0.129,
+        "categoryName": "중식당",
+        "categoryPath": [
+          [
+            "220036",
+            "220039",
+            "220091",
+            "220861"
+          ]
+        ],
+        "category": [
+          "중식",
+          "중식당"
+        ],
+        "reviewCount": 8,
+        "averagePrice": 11000,
+        "address": "제주특별자치도 제주시 삼도일동 545-15",
+        "roadAddress": "제주특별자치도 제주시 서광로19길 28-17",
+        "abbrAddress": "삼도일동 545-15",
+        "shortAddress": [
+          "제주 제주시",
+          "서광로19길 28-17"
+        ],
+        "displayContext": [],
+        "labelTheme": "중식",
+        "microReviews": [],
+        "cardDescription": "제주특별자치도 제주시 삼도일동 545-15",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MThfMTk0/MDAxNzUyODI4MDc4Nzg1.X3YP-B9302PZ1twhpMRc5eOYqd4e9zLpalwaS7C3WQMg.qu1wSjYTu7cF-JNCyN6YZFSE6AVNB4gOHDnwacBQVRQg.JPEG/20250718_174012.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20220718_258/1658129014867uX7cp_JPEG/20220718_092838.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220861",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 10,
+        "id": "1047260819",
+        "name": "해장요리전문 임사부 국밥 구제주점",
+        "x": "126.5231517",
+        "y": "33.500119",
+        "distance": 0.193,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220061",
+            "1005826"
+          ]
+        ],
+        "category": [
+          "한식",
+          "국밥"
+        ],
+        "reviewCount": 19,
+        "averagePrice": 0,
+        "address": "제주특별자치도 제주시 삼도1동 558 1층(삼도일동)",
+        "roadAddress": "제주특별자치도 제주시 홍랑길 2",
+        "abbrAddress": "삼도1동 558 1층(삼도일동)",
+        "shortAddress": [
+          "제주 제주시",
+          "홍랑길 2"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "제주특별자치도 제주시 삼도1동 558 1층(삼도일동)",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjRfMjk4/MDAxNzUwNzU4MjUwNDc3.yK1-Txu9O3-8UXTb2FIwlJ1Q6tJ9UUzWIgjEfA3U2rwg.iu8DVAdvn6VemtVXNvaWfHPT8cnz3biV5HI1EN8Fq88g.JPEG/1000031101.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MzFfMzAw/MDAxNzUzOTU0NzE0NTAw.7q4i9KuxRZYmtAYZGgH8DflpBaA3sSW5WbyOFU8hShgg.O433hykTTP6ncZRm4UvbtSqJMgxz-pqyjISYc07FJZcg.JPEG/20250712_183723.heic.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1005826",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 11,
+        "id": "1358650003",
+        "name": "삼겹구이 제주지사점",
+        "x": "126.5206064",
+        "y": "33.5000373",
+        "distance": 0.307,
+        "categoryName": "돼지고기구이",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220765",
+            "1000871"
+          ]
+        ],
+        "category": [
+          "한식",
+          "돼지고기구이"
+        ],
+        "reviewCount": 105,
+        "averagePrice": 11000,
+        "address": "제주특별자치도 제주시 삼도일동 552-5",
+        "roadAddress": "제주특별자치도 제주시 서광로 225",
+        "abbrAddress": "삼도일동 552-5",
+        "shortAddress": [
+          "제주 제주시",
+          "서광로 225"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "제주특별자치도 제주시 삼도일동 552-5",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20180619_224/1529394994626rmjk8_JPEG/Kw-tnn1ClX3vXNOiaJdtM0pT.jpeg.jpg",
+          "https://ldb-phinf.pstatic.net/20180619_37/1529395024402fuVEe_JPEG/4Jsi_NK7TD_-ajO1QQ0QimNU.jpeg.jpg",
+          "https://ldb-phinf.pstatic.net/20200422_278/1587533656034JTFz4_JPEG/PMLp_m7MNVCmyd8lmJtVjx5C.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1000871",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 12,
+        "id": "1617862783",
+        "name": "꽈리치킨",
+        "x": "126.5244085",
+        "y": "33.5007781",
+        "distance": 0.171,
+        "categoryName": "치킨,닭강정",
+        "categoryPath": [
+          [
+            "220036",
+            "220049",
+            "220245"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "치킨,닭강정"
+        ],
+        "reviewCount": 21,
+        "averagePrice": 19000,
+        "address": "제주특별자치도 제주시 이도일동 1660-10",
+        "roadAddress": "제주특별자치도 제주시 서광로27길 11",
+        "abbrAddress": "이도일동 1660-10",
+        "shortAddress": [
+          "제주 제주시",
+          "서광로27길 11"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "저희 업소는 언제나 신선한 재료만을 취급하여 보다나은 맛과 서비스로 고객님께 보답하는*꽈리치킨* 이 되겠습니다",
+        "description": "저희 업소는 언제나 신선한 재료만을 취급하여 보다나은 맛과 서비스로 고객님께 보답하는*꽈리치킨* 이 되겠습니다",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDlfMTg2/MDAxNzQ2NzkyNzIxMzEx.NSB-ETU_T4fDBjX2Ki5FhbUk7z8BcbWaAgtTWhlTP-Qg.1lsLmKndcD0jegQGfgPiJfDuEQ9Pmy0RIpAPT2KQU9cg.JPEG/20250509_184403.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20200610_138/1591762827872MMQxP_JPEG/Xw3jrmfqUbQ7DSOm_yERmgbQ.jpg",
+          "https://ldb-phinf.pstatic.net/20200610_175/1591762827871xm7Yw_JPEG/y-UajEsW36_pLt-R2pv3_HM6.jpg",
+          "https://ldb-phinf.pstatic.net/20200610_92/1591762828984aVjGq_JPEG/lTbsK0QFEf2i8xAWX_-GmqQ1.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220245",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1617862783",
+            "bodySummary": "따로 전용 주차장은 없는 것 같은데, 주변에 돌아보면 주차할 공간은 있다고 하시니, 주차 후 방문을 해주시면 될 것 같아요! 직원도 치킨을 보면 정말 환장 을 하는데, 요즘 다이어",
+            "url": "https://m.blog.naver.com/khb1000je/222002525897",
+            "nick": "돌하루팡",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMzBfMjE5/MDAxNzAxMzEyMzM1NDcx.fEu2HuIgXGQV2FbyKAw_XwWUZEaJMSeXFLImv-8RxOgg.PuDcS9LTOYlGpG2iw_lFaq3hb15aBqa1RbqNe2AP7qwg.JPEG.khb1000je/%25ED%2594%2584%25EB%25A1%259C%25ED%2595%2584%25EC%2582%25AC%25EC%25A7%2584_%25EB%25AC%25B8%25EA%25B5%25ACx.jpg/%25ED%2594%2584%25EB%25A1%259C%25ED%2595%2584%25EC%2582%25AC%25EC%25A7%2584_%25EB%25AC%25B8%25EA%25B5%25ACx.jpg"
+          },
+          {
+            "sid": "1617862783",
+            "bodySummary": "그러다 검색 끝에 새로생긴 치킨집이 있어서 다녀오게 되었어요! 옛날 그 맛을 생각나게 하는 덕분에 너무 만족스럽게 폭풍흡입 했던 곳! 제주 시청근처 맛집 #꽈리치킨 입니다~ 시청 ",
+            "url": "https://m.blog.naver.com/jejupay/221996345864",
+            "nick": "제주페이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAzMDdfMTU4/MDAxNjQ2NjI3MTc5MTI3.74SQlIUgE0oy_wlYsdL-nTEL9HfX1_7unl-Sbvswrpwg.4JKufNsCVMC1v977I5YzbGJfscYFd9OcWZKSC3AlGkwg.PNG.jejupay/%25EC%2595%25B1_%25EC%2595%2584%25EC%259D%25B4%25EC%25BD%2598_-_%25EC%258B%25A4%25EC%2582%25AC%25EC%259D%25B4%25EC%25A6%2588.png/%25EC%2595%25B1%2B%25EC%2595%2584%25EC%259D%25B4%25EC%25BD%2598%2B-%2B%25EC%258B%25A4%25EC%2582%25AC%25EC%259D%25B4%25EC%25A6%2588.png"
+          }
+        ]
+      },
+      {
+        "rank": 13,
+        "id": "1989231874",
+        "name": "찌개공방 제주점",
+        "x": "126.5221812",
+        "y": "33.4999679",
+        "distance": 0.226,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "1006619"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 16,
+        "averagePrice": 0,
+        "address": "제주특별자치도 제주시 삼도일동 553-16 1층",
+        "roadAddress": "제주특별자치도 제주시 서광로 241",
+        "abbrAddress": "삼도일동 553-16 1층",
+        "shortAddress": [
+          "제주 제주시",
+          "서광로 241"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "@ 찌개공방의 돼지고기는 100% 제주산고기를 사용합니다.  @저희 찌개공방 제주점은 전기밥솥이 아닌 압력밥솥으로     지은 맛있는 밥을 제공하고 있습니다.  @ 2인분이지만 양이 정말 많기 때문 ",
+        "description": "@ 찌개공방의 돼지고기는 100% 제주산고기를 사용합니다.  @저희 찌개공방 제주점은 전기밥솥이 아닌 압력밥솥으로     지은 맛있는 밥을 제공하고 있습니다.  @ 2인분이지만 양이 정말 많기 때문 ",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20220519_90/165293007520070cM9_JPEG/1652929678772.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1006619",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 14,
+        "id": "1659079655",
+        "name": "반올림피자 제주점",
+        "x": "126.5221359",
+        "y": "33.5018586",
+        "distance": 0.089,
+        "categoryName": "피자",
+        "categoryPath": [
+          [
+            "220036",
+            "220044",
+            "220136",
+            "230835"
+          ]
+        ],
+        "category": [
+          "양식",
+          "피자"
+        ],
+        "reviewCount": 217,
+        "averagePrice": 20000,
+        "address": "제주특별자치도 제주시 삼도일동 556-26",
+        "roadAddress": "제주특별자치도 제주시 서광로21길 24",
+        "abbrAddress": "삼도일동 556-26",
+        "shortAddress": [
+          "제주 제주시",
+          "서광로21길 24"
+        ],
+        "displayContext": [],
+        "labelTheme": "양식",
+        "microReviews": [],
+        "cardDescription": "반올림피자는 프리미엄 레벨의 피자를 추구합니다 맛은 반올림 가격은 반내림 프리미엄 피자의 새로운 기준이고 싶은 반올림피자입니다  Craftsmanship Of Pizza 반올림피자는 언제나 장인정신으로 ",
+        "description": "반올림피자는 프리미엄 레벨의 피자를 추구합니다 맛은 반올림 가격은 반내림 프리미엄 피자의 새로운 기준이고 싶은 반올림피자입니다  Craftsmanship Of Pizza 반올림피자는 언제나 장인정신으로 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjRfMTA5/MDAxNzQ4MDkxODQ0NTI4.7EuxI6qArNCz2DjwK_Y9AsIBBdRwkq4-6kpQO2z7xf8g.IDP05qgIsJKvsVEh7yrlXU7octt6f240xN8Yhp4hfTgg.JPEG/20250524_220159.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250901_64/1756718237169XB3LS_PNG/%B9%DD%BF%C3%B8%B2%C7%C7%C0%DA_8%BF%F9_%B8%DE%B4%BA%C6%C7_%C6%C7%B0%A1%BC%F6%C1%A4_250827_%281%29_%281%29.png",
+          "https://ldb-phinf.pstatic.net/20250602_201/1748855171584eaBak_PNG/%B9%DD%BF%C3%B8%B2%C7%C7%C0%DA_%BD%C9%BA%BC%B0%E1%C7%D5%C7%FC_%B7%CE%B0%ED_%BA%ED%B7%E7_250317.png",
+          "https://naverbooking-phinf.pstatic.net/20230516_98/1684228045152nH2Mv_PNG/image.png"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "230835",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.54",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "1659079655",
+            "bodySummary": "둘째 아들 갑자기 피자가 먹고싶다 하네요~~ 애들 먹고싶은건 뭔들 다 사주시는 좋은 아빠.. 오늘도 역시 콜 하네요~~ 예전 큰아들 학원 다닐때 픽업해오던 길목에 있는 생긴지 얼마",
+            "url": "https://m.blog.naver.com/kkyyss5524/222634692856",
+            "nick": "제주 꼬맹이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA1MDFfMjk4/MDAxNjE5ODU1NjcyNzg3.1FdpRLGrwAbXiTqHO95wIxP1KrSN20HUEVB4YHDgLCsg.-aqjtDP9BVSmUgHp39cAYle3POs4zroUhpvR7Q_sltog.JPEG.kkyyss5524/profileImage.jpg"
+          },
+          {
+            "sid": "1659079655",
+            "bodySummary": "그래도 꼭 먹어보고 싶어서 배달비까지 따로 3천원을 냈다 배민 후기 보니까 피자가 쏠려서 왔다는 사람들이 꽤 있어서 걱정했는데 다행히 아주 온전한 상태로 왔다 ㅎㅎ 대신 거리가 좀",
+            "url": "https://m.blog.naver.com/bloonn9/222095743331",
+            "nick": "임째리",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDA3MDVfMjkz/MDAxNTkzOTQzMjU3NTc4.t58zCyzN8yaEj56-fIp1QTH8nDQKP1lPR9hmvLH-zlQg.a8Q9EiHHEmkMWugL1DKFDPoD1acIsN8se01D7BKEp9Yg.PNG.bloonn9/%25C5%25F5%25B8%25ED.png"
+          },
+          {
+            "sid": "1659079655",
+            "bodySummary": "반올림피자샵 추천메뉴 치즈후라이+소보로도우 결혼 전에 자취할때도 집근처에 반올림피자샵 있어서 종종 시켜먹었는데 결혼하고 나니 신혼집근처에 또 반올림피자샵이 있네요? (이득^^) 반",
+            "url": "https://m.blog.naver.com/l880429/221927032599",
+            "nick": "니니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEwMjRfMjEg/MDAxNjk4MDg1MzMzMzQ0.BFY1KYC9lx-4xYDvlbqHDsdB8QNxpKNyN3oJlwRG7EAg.97aXmKeFIN0Rsrr8m2sMqQHxlS1DG0KZxlgkOI1eb4sg.PNG.l880429/profileImage.png"
+          },
+          {
+            "sid": "1659079655",
+            "bodySummary": "나중엔 윙만 따로 시키고싶음 그리고 반올림피자는 디핑소스 맛집이었어요 ㅋㅋㅋㅋ약간 블루치즈디핑소스 같은맛 .... 내말이 좀 어려울까여....? 힣 아무튼 맛있는맛 결과적으로 반올",
+            "url": "https://m.blog.naver.com/o00o___/221665668805",
+            "nick": "제주땍민하",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTAzMDhfMTU4/MDAxNTUyMDUxMzc0NjI4.fRkRlDSYI9wKHPohaFMl49U-16nvC3RTPoADDYwVrP0g.g1Q7seqnFq0dNev4N7WETL3MSTGOL5fqpCL_Y_f9z_8g.PNG.o00o___/profileImage.png"
+          },
+          {
+            "sid": "1659079655",
+            "bodySummary": "주문전화 ☎ 064-755-7477 주소 : 제주 제주시 서광으로 21길 반올림 피자샵 영업시간 매일 11:00~24:00 글 사진 전부 꾸이꺼 꾸이는 통마늘 불고기 피자 라지를 ",
+            "url": "https://m.blog.naver.com/jhb916/221536047662",
+            "nick": "꾸이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAyMjFfMjg4/MDAxNjQ1NDQyODkxNDY5.WYul82JjEmMVsrIdVXJvpqeGbHNdvcajpiduSMrmCC8g.2iI28JBwLPbVvgfZolXYWdVMkJCMzsgZ9uO7EySizKEg.PNG.jhb916/namecard_%25288%2529.png/namecard%2B%25288%2529.png"
+          }
+        ]
+      },
+      {
+        "rank": 15,
+        "id": "1023265117",
+        "name": "처갓집양념치킨 삼도점",
+        "x": "126.524772",
+        "y": "33.5001644",
+        "distance": 0.244,
+        "categoryName": "치킨,닭강정",
+        "categoryPath": [
+          [
+            "220036",
+            "220049",
+            "220464"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "치킨,닭강정"
+        ],
+        "reviewCount": 5,
+        "averagePrice": 0,
+        "address": "제주특별자치도 제주시 삼도일동 559-10",
+        "roadAddress": "제주특별자치도 제주시 서광로 265",
+        "abbrAddress": "삼도일동 559-10",
+        "shortAddress": [
+          "제주 제주시",
+          "서광로 265"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "처갓집양념치킨 멤버십앱 출시! 다운로드하시고, 지금 바로 다양한 할인 혜택을 누리세요!",
+        "description": "처갓집양념치킨 멤버십앱 출시! 다운로드하시고, 지금 바로 다양한 할인 혜택을 누리세요!",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjJfMjE5/MDAxNzQ1MzIxNzM0NTIy.Wt3He8nPYV4oRBjEjWeD4lc05_CVlV9wozmc3LaWmEQg.SHgMOgyEEP9-E9wmZO06re3Gs9H4QQ1ppiny_g-c0f0g.JPEG/20250422_202817.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20200120_298/1579504110347tJgty_JPEG/C_lo6OmP2LbyOHVZh-W2FOtu.jpg",
+          "https://ldb-phinf.pstatic.net/20250320_127/1742430588209wxFk3_JPEG/%B2%BF%B2%BF%B9%F0_%C6%F7%BD%BA%C5%CD.jpg",
+          "https://ldb-phinf.pstatic.net/20230517_20/1684279022232yzdj0_JPEG/InkedKakaoTalk_20230510_123930222.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220464",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 16,
+        "id": "31927653",
+        "name": "카페 마체베트",
+        "x": "126.5252063",
+        "y": "33.5039372",
+        "distance": 0.304,
+        "categoryName": "브런치",
+        "categoryPath": [
+          [
+            "220036",
+            "220044",
+            "220133",
+            "220932"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "브런치"
+        ],
+        "reviewCount": 53,
+        "averagePrice": 0,
+        "address": "제주특별자치도 제주시 이도1동 1643-1",
+        "roadAddress": "제주특별자치도 제주시 전농로 114",
+        "abbrAddress": "이도1동 1643-1",
+        "shortAddress": [
+          "제주 제주시",
+          "전농로 114"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "제주특별자치도 제주시 이도1동 1643-1",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220932",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 17,
+        "id": "32154151",
+        "name": "맛사랑",
+        "x": "126.5211219",
+        "y": "33.4996217",
+        "distance": 0.309,
+        "categoryName": "국수",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220062",
+            "220628"
+          ]
+        ],
+        "category": [
+          "한식",
+          "국수"
+        ],
+        "reviewCount": 9,
+        "averagePrice": 0,
+        "address": "제주특별자치도 제주시 삼도일동 572-6",
+        "roadAddress": "제주특별자치도 제주시 서광로 232",
+        "abbrAddress": "삼도일동 572-6",
+        "shortAddress": [
+          "제주 제주시",
+          "서광로 232"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "제주특별자치도 제주시 삼도일동 572-6",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220628",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 18,
+        "id": "1262055626",
+        "name": "나우커피 제주삼도점",
+        "x": "126.524012",
+        "y": "33.500213",
+        "distance": 0.201,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 25,
+        "averagePrice": 0,
+        "address": "제주특별자치도 제주시 삼도일동 558-12",
+        "roadAddress": "제주특별자치도 제주시 삼도일동 서광로25길 3",
+        "abbrAddress": null,
+        "shortAddress": [],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [
+          "깨끗한 매장에서 마시는 신선한 커피"
+        ],
+        "cardDescription": "깨끗한 매장에서 마시는 신선한 커피",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 19,
+        "id": "1657114253",
+        "name": "냉면장인 임사부 & 숯불고기 구제주점",
+        "x": "126.5231589",
+        "y": "33.500103",
+        "distance": 0.195,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220063",
+            "100051"
+          ]
+        ],
+        "category": [
+          "한식",
+          "냉면"
+        ],
+        "reviewCount": 7,
+        "averagePrice": 0,
+        "address": "제주특별자치도 제주시 삼도일동 558",
+        "roadAddress": "제주특별자치도 제주시 홍랑길 2",
+        "abbrAddress": "삼도일동 558",
+        "shortAddress": [
+          "제주 제주시",
+          "홍랑길 2"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "제주특별자치도 제주시 삼도일동 558",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "100051",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 20,
+        "id": "2009386216",
+        "name": "마라도초밥",
+        "x": "126.5212562",
+        "y": "33.4996397",
+        "distance": 0.3,
+        "categoryName": "일식",
+        "categoryPath": [
+          [
+            "220036",
+            "220038",
+            "220089",
+            "220850"
+          ]
+        ],
+        "category": [
+          "일식",
+          "초밥,롤"
+        ],
+        "reviewCount": 3,
+        "averagePrice": 13000,
+        "address": "제주특별자치도 제주시 삼도일동 572-24",
+        "roadAddress": "제주특별자치도 제주시 서광로 232-1",
+        "abbrAddress": "삼도일동 572-24",
+        "shortAddress": [
+          "제주 제주시",
+          "서광로 232-1"
+        ],
+        "displayContext": [],
+        "labelTheme": "일식",
+        "microReviews": [],
+        "cardDescription": "제주특별자치도 제주시 삼도일동 572-24",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjJfMTQg/MDAxNzU1ODIwMjE4NDc2.Asi9lb9PEUWCLzmN10qxYbjDMnoc1EWGIZyMYmGFuggg.7220BC4QgSmVYyqQVlSEzLgqHij-7uyuq7JMPunI9Ngg.JPEG/20250820_113446.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMThfMzIg/MDAxNzYwNzcwOTc3NDI2.iTt8jYXEZxC5akpxmuhxneDyLjUcPfAxO35Z0x4KRjwg.8wvVpQbKj0iNrxRDphtB09S9EaQPjPH7MBJ2jHWgplMg.JPEG/20251018_124943.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDFfMSAg/MDAxNzUxMzI1NDQxNjIz.0jvrIgcvPpjRG0P-KMIiIR7B80uVkTGgTBlFQqeJOXUg.t7Kx513sM-CoCehVJ1PxLU3rciA7btUIiBR1R3xB_Wgg.JPEG/20250626_125227.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220850",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 21,
+        "id": "1373930270",
+        "name": "흑돼지아빠수제돈까스",
+        "x": "126.5204718",
+        "y": "33.5028498",
+        "distance": 0.268,
+        "categoryName": "일식",
+        "categoryPath": [
+          [
+            "220036",
+            "220038",
+            "220081",
+            "220804"
+          ]
+        ],
+        "category": [
+          "일식",
+          "일식당"
+        ],
+        "reviewCount": 2,
+        "averagePrice": 5000,
+        "address": "제주특별자치도 제주시 삼도1동 538-16",
+        "roadAddress": "제주특별자치도 제주시 서광로19길 33",
+        "abbrAddress": "삼도1동 538-16",
+        "shortAddress": [
+          "제주 제주시",
+          "서광로19길 33"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "제주특별자치도 제주시 삼도1동 538-16",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220804",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 22,
+        "id": "16723666",
+        "name": "꼬치타운 서광로점",
+        "x": "126.5211589",
+        "y": "33.4996109",
+        "distance": 0.308,
+        "categoryName": "일식",
+        "categoryPath": [
+          [
+            "220036",
+            "220038",
+            "220088",
+            "220847"
+          ]
+        ],
+        "category": [
+          "일식",
+          "일식튀김,꼬치"
+        ],
+        "reviewCount": 2,
+        "averagePrice": 0,
+        "address": "제주특별자치도 제주시 삼도일동 572-6",
+        "roadAddress": "제주특별자치도 제주시 서광로 232",
+        "abbrAddress": "삼도일동 572-6",
+        "shortAddress": [
+          "제주 제주시",
+          "서광로 232"
+        ],
+        "displayContext": [],
+        "labelTheme": "일식",
+        "microReviews": [],
+        "cardDescription": "제주특별자치도 제주시 삼도일동 572-6",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220847",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 23,
+        "id": "2147255965",
+        "name": "순정이네",
+        "x": "126.5231694",
+        "y": "33.5004385",
+        "distance": 0.157,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 0,
+        "address": "제주특별자치도 제주시 삼도일동 557-16",
+        "roadAddress": "제주특별자치도 제주시 홍랑길 6",
+        "abbrAddress": "삼도일동 557-16",
+        "shortAddress": [
+          "제주 제주시",
+          "홍랑길 6"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "제주특별자치도 제주시 삼도일동 557-16",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 24,
+        "id": "1558524730",
+        "name": "272 커피",
+        "x": "126.5254174",
+        "y": "33.4997981",
+        "distance": 0.314,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 64,
+        "averagePrice": 5000,
+        "address": "제주특별자치도 제주시 도남동 914-3 1층",
+        "roadAddress": "제주특별자치도 제주시 서광로 272",
+        "abbrAddress": "도남동 914-3 1층",
+        "shortAddress": [
+          "제주 제주시",
+          "서광로 272"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "ㅇ 음식과 음료를 정성스럽게 만드는 카페 ㅇ 환경을 생각하여 생분해 컵과 빨대를 사용 ㅇ 직원들이 너무 친절한 곳 ㅇ 제주공항과 기까운 카페 ㅇ 사진찍으면 예쁘게 나오는 카페",
+        "description": "ㅇ 음식과 음료를 정성스럽게 만드는 카페 ㅇ 환경을 생각하여 생분해 컵과 빨대를 사용 ㅇ 직원들이 너무 친절한 곳 ㅇ 제주공항과 기까운 카페 ㅇ 사진찍으면 예쁘게 나오는 카페",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMThfNzIg/MDAxNzYwNzE1NTUxOTU4.4g9PuGzGA7b2SmmxPVuMtMx1ZzENWuj9j3idi47j5VMg.gvPWzmwtOp1lJU98dRKb5IDULD8t-kQXnQc7JhXLs3gg.JPEG/1000055334.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTlfODIg/MDAxNzU1NTg0OTkwMjk5.v5SdVgRfMjwdn0fzW74fOYs6z09_vTtG_8PCgEPhu0Ag.PSm4KzH26L9PkDM-1kdcydHeDpe384oPwtAnuydWAFEg.JPEG/Screenshot_20250819_152933_Gallery.jpg",
+          "https://ldb-phinf.pstatic.net/20250715_146/1752576953864tHMpt_JPEG/IMG_9482.jpeg",
+          "https://ldb-phinf.pstatic.net/20250715_229/1752576954876HfqKr_JPEG/IMG_9469.jpeg",
+          "https://ldb-phinf.pstatic.net/20250715_56/1752576956469KuYkv_JPEG/IMG_9409.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1558524730",
+            "bodySummary": "내부가 꽤 조용해서 책 읽으러 가기도 좋을 것 같네요 오늘도 잘마셨습니다아 #레인보우베이글 #272커피 #제주서광로커피 #서광로카페 #제주cgv #제주cgv카페 #제주시카페 #제주",
+            "url": "https://m.blog.naver.com/dldbal0312/223191767805",
+            "nick": "호연댁",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA5MjFfMjMx/MDAxNjk1Mjc1NTIyMjUx.WEcvdlFYfADWUMBzwU0bmXZnuneJK6vRcBFcKhlNGPcg.CuuEG5HOIQFqjhn5qE3L7bBBPmbdoUMjcgC42gOzDLcg.PNG.dldbal0312/profileImage.png"
+          },
+          {
+            "sid": "1558524730",
+            "bodySummary": "272커피 주소: 제주 제주시 서광로 272 1층 운영시간: 월-금 09:30~17:00, 라스트오더 16:50 / 토&일 오픈 시 인스타그램 공지 제주 신상카페 272커피는 주소",
+            "url": "https://m.blog.naver.com/jjogeuli/222927295029",
+            "nick": "쏘합삐",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA4MTJfMTY4/MDAxNjYwMzA3NDg3NjM1.BFPo8EHu5QWs8tHP1_K6UrlgkyVFe9h7WAAplaHHTMkg.9YL03gENecMWPmMv-VkICAUVZPpfyNpoMCYi1KSbGKEg.JPEG.jjogeuli/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 25,
+        "id": "1933243883",
+        "name": "마라사랑 본점",
+        "x": "126.5213092",
+        "y": "33.4999856",
+        "distance": 0.266,
+        "categoryName": "마라탕",
+        "categoryPath": [
+          [
+            "220036",
+            "220039",
+            "1006063",
+            "1006070"
+          ]
+        ],
+        "category": [
+          "중식",
+          "마라탕"
+        ],
+        "reviewCount": 7,
+        "averagePrice": 10000,
+        "address": "제주특별자치도 제주시 삼도일동 552-19 1층",
+        "roadAddress": "제주특별자치도 제주시 서광로 231-1",
+        "abbrAddress": "삼도일동 552-19 1층",
+        "shortAddress": [
+          "제주 제주시",
+          "서광로 231-1"
+        ],
+        "displayContext": [],
+        "labelTheme": "중식",
+        "microReviews": [],
+        "cardDescription": "[궈바로우] ~28일 숙성 흑돼지 등심 부드러운 육질 [한우사골육수마라탕]~건강하고 구수한 국물요리 [마라룽샤꼬리] ~ 먹을수록 끌리는 진정한 마라의~맛 [숙성 마라 갈비] ~ 숙성된 갈비와 매콤 ",
+        "description": "[궈바로우] ~28일 숙성 흑돼지 등심 부드러운 육질 [한우사골육수마라탕]~건강하고 구수한 국물요리 [마라룽샤꼬리] ~ 먹을수록 끌리는 진정한 마라의~맛 [숙성 마라 갈비] ~ 숙성된 갈비와 매콤 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDFfNjIg/MDAxNzQ2MDc1NTM5MTcx.IHtk07WSEg0PS5UCqyYAgjpdRTVo_xbKI1Lj7gMX1GMg.rrw-Gdt6zSj4KG8AwasfmTYsC1grpq4tb4xTDhL7xTEg.JPEG/C6ECFAA0-96D8-4D26-867E-AD46636A5D40.jpeg",
+          "https://ldb-phinf.pstatic.net/20250117_162/17371097545874bDLt_PNG/%F8%AB-%EE%BC%ED%AE25-01-03.png",
+          "https://ldb-phinf.pstatic.net/20250117_188/1737109822007szHHt_PNG/2025-1-%C1%A4%B8%E9241-40-%EF%E1%D8%FC%D8%A1%F1%BA241-40-1.png",
+          "https://ldb-phinf.pstatic.net/20250117_154/1737109771773r7QOV_PNG/%BF%EC%C3%F8-%DB%FA2800800-%BF%EC%C3%F8300pp.png"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1006070",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 26,
+        "id": "36422477",
+        "name": "육회한집",
+        "x": "126.5209641",
+        "y": "33.5000136",
+        "distance": 0.285,
+        "categoryName": "육류,고기요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220733"
+          ]
+        ],
+        "category": [
+          "한식",
+          "육류,고기요리"
+        ],
+        "reviewCount": 114,
+        "averagePrice": 27000,
+        "address": "제주특별자치도 제주시 삼도일동 552-8 1층",
+        "roadAddress": "제주특별자치도 제주시 서광로 229",
+        "abbrAddress": "삼도일동 552-8 1층",
+        "shortAddress": [
+          "제주 제주시",
+          "서광로 229"
+        ],
+        "displayContext": [
+          "육회",
+          "한우",
+          "떡갈비",
+          "신선한",
+          "착한가격"
+        ],
+        "labelTheme": "한식",
+        "microReviews": [
+          "포장해도 맛있는 육회 유목민의 정착지"
+        ],
+        "cardDescription": "포장해도 맛있는 육회 유목민의 정착지",
+        "description": "10년간 2대가 운영중인 육회전문점입니다. 제주 한우 본연의 맛을 전하고자 합니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDlfMTUy/MDAxNzU5OTgwMDE1NTg0.sAF4rQ0gm6npM7p9QTTnxQaoTgT3vz_a29og5cbZuYsg.BmdTWmkNMhuJtqtab3i5EGviks04Lre2JwUrSbUXOT4g.JPEG/45FC2DD0-2FC9-4BDD-A27D-E0034A565261.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjNfNCAg/MDAxNzUwNjExOTIzNzM1.r2twuHkAIIZ05fAJkh1vjv7UDlNvSfbinOWlD5unDfYg.MFquNo-lMj-aJTU4usC5IsE_f6R7kA72BsvZUT65N8cg.JPEG/20250616_181740.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240502_189/1714646474859lfFlB_JPEG/%C0%B0%C8%B8%B8%DE%B4%BA.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTJfMjc0/MDAxNzYwMjc2ODcwOTY5.-lnFmmzpD-utChwFhk2CuS1DtMBN5BlaEYYEkLIRlqMg.2D8wLDNz7UFw_N5sU4yhFhadSngwYuS0-h7TfynZnEUg.JPEG/1000050156.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240520_30/17161663803479Sd28_JPEG/%C2%F8%C7%D1%C0%B0%C8%B8.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDFfMTgw/MDAxNzQ4NzcxMzY4MjI1.PrmvT-hlZVqUJ8WtQawbHoSp8WtyLrH6pIlu-wxtjL0g.36aS7tuo0Nyg6dHrTsjHp0gm0JIg-nhUJHZHIXJlgI0g.JPEG/6DBE6F24-E86A-4A54-B01E-7F704CAB77C7.jpeg",
+          "https://ldb-phinf.pstatic.net/20240520_290/1716166390580BHwpH_JPEG/%C0%B0%BB%E7%BD%C3%B9%CC.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDRfMTE4/MDAxNzU5NTUwMzkxMzg4.lhVMqBeSTHgoeu-cIDnrJmoucXzKhII17GPLqRTb9fEg.QKa9bjCeqZdb6sytlVYFcotJQx4_mwiGXs20tYDvp6og.JPEG/1759549975118.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTNfMjcy/MDAxNzQ0NTQ1MDkwMzY3.sI0iJAhDmNzKJGPTtqvmMuZghTmFu9OvFCaARDYrehog.L0SeCVmgoxZpTNW8meX1z8bgcUwqFmppUoLy5TdqhX4g.JPEG/20250413_195856.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjRfMzEg/MDAxNzUzMzQ4NzUxNjMy.wDhGN7RTbf3G-Kn_AVybyagb7QvPli82iyhOb3nbF1Ig.XwJzYJdUTsrbeBGzvERrLq3S7A36DgBVIwp0-pu0nXcg.JPEG/127B2162-33E5-4B58-9E5B-7444E92B7252.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220733",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.83",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "36422477",
+            "bodySummary": "제주시 서광로 229 예약문의 : (064) 752-8530 매일 16:00~23:00 주차장이 따로 없어서 주차가 조금 불편하더라구요. 식당이 크지 않고 이날 예약도 있고 저희 ",
+            "url": "https://m.blog.naver.com/jeju6036/223321401820",
+            "nick": "프리티주냉",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20160513_152/jeju6036_14631275396849l5P6_JPEG/22-2.jpg"
+          },
+          {
+            "sid": "36422477",
+            "bodySummary": "육회한집 노래부르던 분과 함께 육회한집 나들이 블로그 자세가 안된 나 .. 메뉴판을 안찍었다 (사실배거파서...) 암튼 세트메뉴같은거 시켰는데 에티타이저 죽을 주고 소고기뭇국을 주",
+            "url": "https://m.blog.naver.com/mm_zy_/223139436550",
+            "nick": "mmzy",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMDlfODUg/MDAxNjk5NTMyMTAyOTAz.yAZvb2iMLsvPfWoGb0AwQTBx1XgPNBUni6NMeJi9UXgg.Q9soczf3pUL4PJZ8aWTdFU5Ddq3SEwCilTwcPcqQDR8g.PNG.iopkl29/profileImage.png"
+          },
+          {
+            "sid": "36422477",
+            "bodySummary": "- 배민에서 육회를 검색해보니 뜨는 집이 있어서 시켜보았습니다~ (배달이라 건물 사진은 네이버 지도입니다.) -육회와 사시미해서 38000원에 배달비 4000원 입니다~ -늘 얘기",
+            "url": "https://m.blog.naver.com/mlfj/223062221636",
+            "nick": "Capt영쓰",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA1MDlfNTEg/MDAxNjIwNTM0NzEzNzU3.rG1dVDcxoY6k4wS_nkIKyLyrXIyy8okCV02IaH-3UNUg.Vo8ozz7-etcGDAOmV7FvUEKz5p-Zj1p_ViqOrNkkIx4g.JPEG.mlfj/1.jpg"
+          },
+          {
+            "sid": "36422477",
+            "bodySummary": "시청근처에 위치한 육회한집 육회가 정말 너무 먹고싶어서 갔다. 고깃집에서 시켜도 되지만 여긴 육사시미도있고 미역국이 아주 맛있다하여 방문!! 큰길에 위치해있어서 어렵지 않게 찾아갔",
+            "url": "https://m.blog.naver.com/pangpang5473/222872628304",
+            "nick": "팡팡",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA4MThfMjUz/MDAxNjYwNzkzMDk1MDAy.n5CJzGWQkqkKhydHhtIFvaGLxKXsPqZjH9uKTvLFYCEg.Y_lX-h6P7AhWCQmAXNk1Ri2TR6ZZp0bjlm_MVVqcmaAg.JPEG.s_otter/profileImage.jpg"
+          },
+          {
+            "sid": "36422477",
+            "bodySummary": "육회한집 영업시간 : 16:00 - 24:00 위치 : 제주특별자치도 제주시 서광로 229 주차장 유무 : 없음 가게 전화번호 : 064-752-8530 포장 가능여부 : 가능 육",
+            "url": "https://m.blog.naver.com/cirokoon12/222840159295",
+            "nick": "짜토",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA3MThfMjgz/MDAxNjU4MTA5OTg5Mjkx.FjAs4wGO47PtsYvUl2T2umCY4lgSdx6u7DOJm8YB2XQg.aEBnI9tV-ixt1_fJqQIoE3Nq5MOFWH8sxlliExpXzpYg.PNG.cirokoon12/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 27,
+        "id": "12915970",
+        "name": "예진돈솥밥",
+        "x": "126.5218352",
+        "y": "33.500329",
+        "distance": 0.206,
+        "categoryName": "육류,고기요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220733"
+          ]
+        ],
+        "category": [
+          "한식",
+          "육류,고기요리"
+        ],
+        "reviewCount": 88,
+        "averagePrice": 20000,
+        "address": "제주특별자치도 제주시 삼도일동 552-15 1층",
+        "roadAddress": "제주특별자치도 제주시 서광로21길 3",
+        "abbrAddress": "삼도일동 552-15 1층",
+        "shortAddress": [
+          "제주 제주시",
+          "서광로21길 3"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [],
+        "cardDescription": "예진돈솥밥이 자리를 새롭게 단장 이전하여 여러 손님들을 모시게 되었습니다. 기존메뉴와 동일하며 오겹살과 목살은 가격도 인하 하였으니 많은 방문 부탁 드립니다. 앞으로도 더욱더 최선을",
+        "description": "예진돈솥밥이 자리를 새롭게 단장 이전하여 여러 손님들을 모시게 되었습니다. 기존메뉴와 동일하며 오겹살과 목살은 가격도 인하 하였으니 많은 방문 부탁 드립니다. 앞으로도 더욱더 최선을",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDdfMTEg/MDAxNzQ2NjIyMjU1NjE5.YxX2yhsPv1YF4hsitOeCKnujl03IOPL0p7nlL7Yy83Ug.pNkZHLHQgoseiiYQb38xqoZyGtmFFjknlAMrWlwRjesg.JPEG/20250507_173000.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240416_31/1713219387903iDTuh_JPEG/1000017009.jpg",
+          "https://ldb-phinf.pstatic.net/20250804_128/1754300379027N6RS0_JPEG/1000037559.jpg",
+          "https://ldb-phinf.pstatic.net/20240416_287/17132193900432Pyvf_JPEG/1000017016.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220733",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.43",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "12915970",
+            "bodySummary": "매장은 좌식 테이블도 있고 의자에 앉는 테이블도 있다 매장이 넓어서 단체 손님도 가능할듯 우리가 갔을 때 우리랑 같은 패키지 여행객들이 모두 제주갤럭시호텔에서 묵었는데 제주갤럭시호",
+            "url": "https://m.blog.naver.com/9h_03_j3/223377482880",
+            "nick": "뿡빵이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAxMjdfMTIy/MDAxNjc0Nzg5MzE1MDY3.ZzJ1qoKFYu-b7Tl4hmtUcfyR3oKdljSsL7dXQUJXXM0g.D9O1AlvvuPIfFNMLXKfOJMdt3mDydw9acOiKHaZKStAg.JPEG.9h_03_j3/KakaoTalk_20221202_133854692.jpg/KakaoTalk_20221202_133854692.jpg"
+          },
+          {
+            "sid": "12915970",
+            "bodySummary": "제주 예진돈솥밥 제주 갤럭시호텔 근처 맛집, 제주 솥밥 ▶영업시간 매일 11시~22시 매주 수요일 휴무 ▶주차 없음 ▶전화번호 064-757-5742 #제주도여행 4일차, 5일차 ",
+            "url": "https://m.blog.naver.com/ggulduni/223224145460",
+            "nick": "뀰듀니",
+            "profileImg": ""
+          },
+          {
+            "sid": "12915970",
+            "bodySummary": "주민분들은 보리비빔밥 혹은 청국장을 많이 주문했다. 엄청 푸짐하게 먹었는데 1인 6천원이라 매우 흡족했다 ㅋㅋㅋㅋ예전에는 제주도 식당들이 엄청 비싸게 느껴졌는데, 이번에 돌아다니며",
+            "url": "https://m.blog.naver.com/watereh/221306378937",
+            "nick": "구닝",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA0MjRfMzUg/MDAxNjUwNzg2NTI0MzAy.r7_hY7XL8GCeCSu5F5GarvqLiFBk91gcpnN3Qwnu4cAg.A0avJNCEKpEszsG9pUT7xuxilSXO173aooJqKUPblmEg.JPEG.watereh/profileImage.jpg"
+          },
+          {
+            "sid": "12915970",
+            "bodySummary": "한솔밭 _ 근고기 정식 기본 밑반찬 우리는 근고기정식 2개를 주문했어요. 밑반찬이 하나둘 등장해요. 이 중에서도 유채김치가 가장 맛있었어요. 예전에 우도 놀러 갔다가 처음 맛보았던",
+            "url": "https://m.blog.naver.com/plusjena/220980815138",
+            "nick": "제나",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDAxMDNfMjk3/MDAxNTc4MDI2MTcxMDM3.-i-MpUso8kHHKGYiFH2G8SX6j5xU9b6A7Cm4t9G23jEg.gf64aGnQQIFVrP9Z-O4W5c9nbgBXWe0MvcMT1sZYeAkg.JPEG.plusjena/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 28,
+        "id": "37879156",
+        "name": "가리본가 광양점",
+        "x": "126.5243208",
+        "y": "33.5009949",
+        "distance": 0.148,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 431,
+        "averagePrice": 15000,
+        "address": "제주특별자치도 제주시 삼도일동 319-8",
+        "roadAddress": "제주특별자치도 제주시 서사로19길 42",
+        "abbrAddress": "삼도일동 319-8",
+        "shortAddress": [
+          "제주 제주시",
+          "서사로19길 42"
+        ],
+        "displayContext": [
+          "갈비탕",
+          "갈비찜",
+          "냉면",
+          "전복"
+        ],
+        "labelTheme": "한식",
+        "microReviews": [
+          "여름 특선 회냉면의 시원함"
+        ],
+        "cardDescription": "여름 특선 회냉면의 시원함",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDZfMzEg/MDAxNzUxNzc0NDE1ODky.eEpLJeoZI0NyNdFspneus80NLXgehxjApgu4XRRnSmUg.z37CPOqhE9dgMS6dvbm_FSqJ6LNnQp_IVF1C2s3jc8gg.JPEG/1751708657411.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjVfMzMg/MDAxNzU2MDc3OTY3OTk2.8GN7SXCBuacNZK9jVHovMaSTyv0MGCJyGGQLX06uK8Qg.avezVG3uhATn7uT8uj1MIwSGR6wMDe9dxsRTgvx3FQ4g.JPEG/1000005650.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250522_149/1747892437814eXWSf_JPEG/IMG_9022.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDlfMzAw/MDAxNzU3NDE1Njg2NDkz.tIFCfDVGEad5Aaau2SjwSBkuEPjMD5TIbqOJFjMUYxcg.hQ8kLxpF3DcACipgEFxZXS5YIpAxCrZelu1sHqR8b6Ig.JPEG/20250909_123152.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20161122_77/14798022628377fDHe_JPEG/177072574122742_0.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MDhfMjgw/MDAxNzQ0MDc5MTc5Mjgz.qAztuPqoS6Kr7qfeloy3pu7DUSO7GxJI2YwDjfqx9RIg.42xx7O-fpjQHFHu-WTl6Ncnob3Q_vgJVOonuIGeMI9kg.JPEG/20250407_182031_HDR.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20190412_226/1555034927459gaVJM_PNG/xv-xqaXNBjOfECqVuzZ2SLaC.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDlfMTk4/MDAxNzU3NDEzMzU1NzQ3.ydSOxXwVz3NDYtt6erVcWfq1R90C0gOcs8zPsTufq6Mg.FtdmYYlDSkD2Im8ZyL-9WU9SSHhfMG1UGFoD2z4SWp8g.JPEG/4D3D2639-F54D-420A-ABC0-42C45E5B682B.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "37879156",
+            "bodySummary": "다들 갈비탕을 자주 드시지만 갈비찜도 맛있어서 소개해 보려 합니다 기본 찬으로는 덜어먹을 수 있는 깍두기와 샐러드 백김치 고추 장아찌가 나오고요 갈비찜을 찍어 먹을 수 있는 새콤한",
+            "url": "https://m.blog.naver.com/yrking94/223338687046",
+            "nick": "예뚱",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAyMTdfMjE3/MDAxNzA4MTMwNTQ5NjU1.p-wZpIXTQl5O-M7BFBCXYRKgNioFSQOI7sow3x8QebYg.mF_ighPpGNB2Di9sCs5tOz2EY5MLb7N_0aU7H-1n-tcg.PNG.yrking94/profileImage.png"
+          },
+          {
+            "sid": "37879156",
+            "bodySummary": "기본찬 내부도 꽤 넓은편!! 손님도 와글와글 왕가리탕 간이 좀 쎈편이지만 밥 말면 괜춘한듯 난 물을 좀더 넣어 먹었지만,, 얼큰가리탕 국물 뜨끈하니 굿굿 고기는 좀 질겨서 가위질이",
+            "url": "https://m.blog.naver.com/ajh12aj/223253528688",
+            "nick": "혀니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA5MjZfMTky/MDAxNjk1Njc4NzA1MTI5.fXs6E_3Xdi6wdC4H-wswqZMIvYWAwBdVgxlLg8liN_kg.KXhHR3kvW2eJLjulxHiTJ63T72mapTTdX2SvXLliezog.JPEG.ajh12aj/profileImage.jpg"
+          },
+          {
+            "sid": "37879156",
+            "bodySummary": "안녕하세요. 제주특별자치도관광약자접근성안내센터입니다. 오늘 소개해 드릴 곳은 제주시 삼도일동에 위치한 ‘가리본가 광양점’입니다. 가리본가에 가리는 갈비의 옛말이라고 합니다. 가리본",
+            "url": "https://m.blog.naver.com/easy_jeju1/222934434759",
+            "nick": "이지제주",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxNzA0MDdfMTUw/MDAxNDkxNTMxMTU1OTA0.Rd_-xHp6Rq7v1u6MYYhCeLp6TvJyfcvGbq48II3ip3sg.nefzaJD24nxD7L_uC74wj9iUOOomm8rJMuoDh-_iPaog.PNG.jtica0420/%C1%A6%B8%F1+%BE%F8%C0%BD.png"
+          },
+          {
+            "sid": "37879156",
+            "bodySummary": "별도의 주차장이 마련되어 있어 제주시내임에도 주차가 편리하다. 가리는 갈비의 옛말이라고 한다 제주 가리본가 광양점의 영업시간은 11:00~14:30 (오전) 17:00~21:30 ",
+            "url": "https://m.blog.naver.com/ns_eunjo/222865699986",
+            "nick": "달려라토끼야",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20140814_122/orfeo71_1408005119714cejqx_JPEG/Rose_in_Violet.jpg"
+          },
+          {
+            "sid": "37879156",
+            "bodySummary": "가리본가가 연동쪽에도 있는데 여기도 본점 가족이 하는거라고 하더라구용 가리본가 메뉴 갈비탕이 가리탕인가봐유 종류가 엄청 많았는데 저는 그냥 왕가리탕을 주문했어용 겨자소스에 레몬 한",
+            "url": "https://m.blog.naver.com/dhdsy00/222730080683",
+            "nick": "모니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMjRfMjEx/MDAxNzAzNDAyMjU1MjQy.AujvQyXaOdKVXwZUozk_pctQM0G0xwvzKqu3OSbPBqog.l05WcY4lTFu8p_E14WGSlAHZ-7aJNMGqWCYVYcWcmWQg.JPEG.dhdsy00/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 29,
+        "id": "1991901726",
+        "name": "타코박스 구제주점",
+        "x": "126.5204119",
+        "y": "33.5011338",
+        "distance": 0.262,
+        "categoryName": "멕시코,남미음식",
+        "categoryPath": [
+          [
+            "220036",
+            "220044",
+            "220132",
+            "220930"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "멕시코,남미음식"
+        ],
+        "reviewCount": 198,
+        "averagePrice": 15000,
+        "address": "제주특별자치도 제주시 삼도일동 535-2 1층",
+        "roadAddress": "제주특별자치도 제주시 서사로19길 4",
+        "abbrAddress": "삼도일동 535-2 1층",
+        "shortAddress": [
+          "제주 제주시",
+          "서사로19길 4"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [
+          "혼자서도 편하게 즐기는 타코 한 상"
+        ],
+        "cardDescription": "혼자서도 편하게 즐기는 타코 한 상",
+        "description": "제주에 맛있는 멕시칸그릴&PUB 타코박스 구제주점!! 오픈했습니다 시그니처 대표 그릴파히타와 새우 flex하게 넣은 쉬림 플렉스 기본 구성도 알차게나오고 볶음밥을 또띠아에 싸서 부리또처럼  ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTAzMjdfMTIg/MDAxNzQzMDM0MTUyMDU3.aD-RJmS2teTXmYkHkYoDnOxrePjjn3KT0augzJtArCMg.O5gd6JgIVjTQmO3NIzdC2nQjqBekVqfpzYQOKUi1xIYg.JPEG/10E27107-E0B5-4616-B33A-B72FB83545FD.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjZfMjAx/MDAxNzQ4MjY4NTkzNjA5.uhsLfq2yh2WLUMrSfKlM54ikvgtm2RrqMcsbb7_8Bd4g.xzvR7ticD3MbGO32tlXRd-SOKafRJ_Q54-86nsu5M24g.JPEG/20250526_180634.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20230314_68/167876165914749CzP_JPEG/%C5%B8%C4%DA%B9%DA%BD%BA_%B1%D7%B8%B1%C6%C4%C8%F7%C5%B8_%282%29.jpg",
+          "https://ldb-phinf.pstatic.net/20230314_144/1678761656981MSlxD_JPEG/%B1%D7%B8%B1%C4%A1%C5%B2_%C6%C4%C8%F7%C5%B8_%281%29.jpg",
+          "https://ldb-phinf.pstatic.net/20240416_80/1713194656338YrN3b_JPEG/Screenshot_20240412_010729_NAVER.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220930",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "1991901726",
+            "bodySummary": "아담한 내부로 식사도 하고 멕시코 음식 안주 삼아 퇴근 후 간단히 맥주 한잔해도 부담스럽지 않은 느낌이에요. 제주 타코 타코박스 구제주점은 파히타를 전문으로 하는 식당입니다. 파히",
+            "url": "https://m.blog.naver.com/hjtopia7/223389135377",
+            "nick": "지니s",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA0MDdfMjEy/MDAxNjgwODY0NzA1ODMy.ho22twmuBdnoSFWSuguHEjjsX1IgE3pAP8yHEeJ63jog.BZLhMcTmUI7aLMlH6ch1nfYUsI8I5qVKshC8hw8e-kQg.JPEG.hjtopia7/profileImage.jpg"
+          },
+          {
+            "sid": "1991901726",
+            "bodySummary": "이번 포스팅에서는 제주동문시장 근처에 있는 타코 집인 타고박스를 소개해 드리겠습니다. 포스팅 순서 0️⃣ 식당정보 1️⃣ 메뉴판 2️⃣ 식당의 분위기 3️⃣ 맛 4️⃣ 편의시설 5",
+            "url": "https://m.blog.naver.com/c-vely/223378260961",
+            "nick": "cvely",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMjdfMTgy/MDAxNzA2MzQ0MDEwODg3.bqYepHXrzMFN0PNse_o0R61aqt7CM7K7czsCyC5zW4og.O2p4byUX7UdN4JFFF4ybTJ2wyTp9XOEvA_YvVBfyfYcg.JPEG.c-vely/%25EC%25A0%259C%25EB%25AA%25A9%25EC%259D%2584-%25EC%259E%2585%25EB%25A0%25A5%25ED%2595%25B4%25EC%25A3%25BC%25EC%2584%25B8%25EC%259A%2594_-2.jpg/%25EC%25A0%259C%25EB%25AA%25A9%25EC%259D%2584-%25EC%259E%2585%25EB%25A0%25A5%25ED%2595%25B4%25EC%25A3%25BC%25EC%2584%25B8%25EC%259A%2594_-2.jpg"
+          },
+          {
+            "sid": "1991901726",
+            "bodySummary": "타코박스 삼도일동 535-2 운영시간 11:00 - 22:00 14:00 - 17:00 브레이크타임 매달 2, 4번째 화요일 정기 휴무 다양한 타코메뉴를 맛볼 수 있는 타코박스 2",
+            "url": "https://m.blog.naver.com/nds940816/223279136439",
+            "nick": "하린부동산",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAxMDZfMjAz/MDAxNjQxNDI4NjUzMTU2.9D6RfiMx5eqBo8pgxg-ypGqGzr77rfOT7IHUhkIEkXUg.qBpZ0sNJPeD8KiZnj7fyU2H011TCfyfLgyN8i_mGNBIg.PNG.nds940816/profileImage.png"
+          },
+          {
+            "sid": "1991901726",
+            "bodySummary": "제주 공항근처 멕시코 타코맛집 제주 현지 타코맛집! ”타코박스구제주점“ 제주 제주시 서사로19길 4 1층 매일 11:00 ~22:00 브레이크타임 14:00~17:00 (매주 2,",
+            "url": "https://m.blog.naver.com/gilbert0203/223271716080",
+            "nick": "꼬미둥이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjEyMjNfMjc3/MDAxNjcxNzI0ODQ5MjAw.Ckxz5lnW5yW6KJdgtiBt0yYWfHbjk3ojaxjYYtv0r2gg.P3Y7OjHiVPcS4S91SPj2kGYyB8CP3dASMhBQCMVlWvMg.JPEG.gilbert0203/profileImage.jpg"
+          },
+          {
+            "sid": "1991901726",
+            "bodySummary": "파히타는 제주에서 처음 먹는 것 같다 서울에서 먹었을 때는 양이 감질나게 나왔던 기억이 있는데 제주타코 맛집 타코박스 구제주점의 파히타는 양이 굉장히 많아 배부르게 먹고도 조금 남",
+            "url": "https://m.blog.naver.com/jadore_yoon/223255759177",
+            "nick": "안나",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAyMjBfMjQx/MDAxNzA4MzY5NTU4Nzky.KNaQR0n95xCy8V_DqLkxoZG1sW4Sab07uqEuxtUVnxQg.tlU0OocPEg5b7yilE4lCT7-_9CeqXMj4aevVs4JHzZ8g.JPEG/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 30,
+        "id": "1217156408",
+        "name": "수눌음밥상",
+        "x": "126.5222013",
+        "y": "33.5004698",
+        "distance": 0.175,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 47,
+        "averagePrice": 5000,
+        "address": "제주특별자치도 제주시 삼도일동 554-6 1층",
+        "roadAddress": "제주특별자치도 제주시 서광로21길 4-1",
+        "abbrAddress": "삼도일동 554-6 1층",
+        "shortAddress": [
+          "제주 제주시",
+          "서광로21길 4-1"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "제주수눌음지역자활센터에서 운영하는 식당입니다.  점심 정식뷔페, 월반찬 및 도시락 배달을 하고 있습니다.  정성 가득한 음식 드시고, 즐거운 하루되시길 바라겠습니다.",
+        "description": "제주수눌음지역자활센터에서 운영하는 식당입니다.  점심 정식뷔페, 월반찬 및 도시락 배달을 하고 있습니다.  정성 가득한 음식 드시고, 즐거운 하루되시길 바라겠습니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDRfMjYg/MDAxNzU2OTc4MzY2NDY3.x2zwqth4MHmIPLPNaQnUWNP5nTA8Mbe-ipALW6y7ZUkg.TduXtHZp6hE1wFfqBwwAKuNLDuw3DGk1CkOohyg0si8g.JPEG/1000029311.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTVfMjMz/MDAxNzQ3MjgzMTEyMDk3.P8WTs3JkmbVgCctmOGol5rZcB2CSoK46WWfYaK5PeGQg.CdwPREER155-SC4EaZ4vYy0kK0VkgYRC3llpWbbV0N8g.JPEG/20250515_125743.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20241016_1/1729041842861Mqlpi_JPEG/%B8%DE%B4%BA%C6%C7_%BF%CF%BC%BA%BA%BB.jpg",
+          "https://ldb-phinf.pstatic.net/20230628_284/1687942986230Og014_JPEG/%B9%E8%B3%CA1%28%BF%DE%C2%CA%29.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1217156408",
+            "bodySummary": "' 뷔페식 정식 식당 ㅎㅎ진짜 오랜만?아니 처음인가 싶을 정도~~ 정감가고 좋았으나 계란후라이가 부족했음 ㅠ.ㅠ 1인 이용가격 8000원인데 애가 넷이 주르륵 들어가니 웃으시며 아",
+            "url": "https://m.blog.naver.com/mangomi94/223299688208",
+            "nick": "사남매보호자",
+            "profileImg": ""
+          },
+          {
+            "sid": "1217156408",
+            "bodySummary": "제주도 한식 뷔페, 정식 뷔페 / 제주 수눌음밥상 제주시 삼도 일동에 있는 한식 뷔페 '제주 수눌음 밥상'입니다. 정식 뷔페 '제주 수눌음 밥상'입니다. 선불이기 때문에 미리 계산",
+            "url": "https://m.blog.naver.com/jejutorent/222947684208",
+            "nick": "JejuTR",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjEwMDhfMjA0/MDAxNjY1MjE4MDUxMjcx.uz22UxIl70mplBVIIsCadpKFW0ZaLMTeOlQz1VccwhAg.udlmAb6sQtI2rAIls67Nud9epxtMdZs6UeYiSyALmSAg.JPEG.jejuinto/P1640171.JPG/P1640171.JPG"
+          },
+          {
+            "sid": "1217156408",
+            "bodySummary": "'제주 수눌음 밥상'입니다. 주차하기 힘든 동네인데, 공영 주차장이 자리가 있어서 다행이었습니다. 제주시 한식 뷔페 추천 - '제주 수눌음밥상' 정식 뷔페 입구에 메뉴가 적혀 있습",
+            "url": "https://m.blog.naver.com/story8081/222936954774",
+            "nick": "바카스",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20141120_160/story8081_1416459589855Jh1cW_JPEG/1.jpg"
+          },
+          {
+            "sid": "1217156408",
+            "bodySummary": "강의장 근처 수눌음밥상으로 이동했지요 우리가 첫손님 너무깨끗하고, 너무 친절하고, 음식맛도너무좋고 가는길 인사도 빠지지않고 안녕히가세요~~^^ ~그리고 착한가격~♡ 너무좋아라 어느",
+            "url": "https://m.blog.naver.com/gda-edu/222898111594",
+            "nick": "됨수다",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA1MTFfMTI3/MDAxNjgzNzg1NjY4MTEz.jG4i-EeudB1fgGWAUfX4bExGRM6RnDpsJgEdx5xNP9Ag.-Ma0cWKoTuFWM71Hl9hImfWW_LWmCtgHXcswsBZp8IYg.PNG.gda-edu/%25EC%25A0%259C%25EB%25AA%25A9%25EC%259D%2584-%25EC%259E%2585%25EB%25A0%25A5%25ED%2595%25B4%25EC%25A3%25BC%25EC%2584%25B8%25EC%259A%2594_-001_%252812%2529.png/%25EC%25A0%259C%25EB%25AA%25A9%25EC%259D%2584-%25EC%259E%2585%25EB%25A0%25A5%25ED%2595%25B4%25EC%25A3%25BC%25EC%2584%25B8%25EC%259A%2594_-001%2B%252812%2529.png"
+          },
+          {
+            "sid": "1217156408",
+            "bodySummary": "사무실 밥 친구들이 점점 도시락 싸는데 귀찮은지 외식이 잦아진다. 사무실 밖에 나가는 일이라면 두 발 벗고 따라나가야 한다. 서사라사거리 근처 저렴한 정식 뷔페 수눌음 밥상 조금 ",
+            "url": "https://m.blog.naver.com/hoyeon820/222776002115",
+            "nick": "아이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAzMjBfNTQg/MDAxNjQ3NzUxNzM1Mjg5.cpeHx53zNIQ0_xvbezCRrjREqz-Ii29N-aprAeKQYqwg.5yH8GngQQBiQMm5paVBLqRBZExwtrLZAK24j_vwQgWMg.JPEG.hoyeon820/IMG_2667.jpeg/IMG_2667.jpeg"
+          }
+        ]
+      },
+      {
+        "rank": 31,
+        "id": "1072833672",
+        "name": "꼬꼬아찌숯불치킨 서사라점",
+        "x": "126.5206077",
+        "y": "33.4996322",
+        "distance": 0.338,
+        "categoryName": "치킨,닭강정",
+        "categoryPath": [
+          [
+            "220036",
+            "220049",
+            "232014"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "치킨,닭강정"
+        ],
+        "reviewCount": 144,
+        "averagePrice": 18000,
+        "address": "제주특별자치도 제주시 삼도일동 572",
+        "roadAddress": "제주특별자치도 제주시 서광로 226",
+        "abbrAddress": "삼도일동 572",
+        "shortAddress": [
+          "제주 제주시",
+          "서광로 226"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "제주특별자치도 제주시 삼도일동 572",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MzBfMjc5/MDAxNzUzODgyNTkyMjMz.4F_07KE5Y5ub0odbEptOlGzxkPDPgPybBSawRx4Uz-Ag.AcxMBAoHb-QCoxi4p7rhx7nvfa6e-JA2JPXY8jTVrm0g.JPEG/BE0CAF50-3A72-45AE-A8E2-8D446432F4CF.jpeg",
+          "https://ldb-phinf.pstatic.net/20180829_81/1535533729805BiObl_JPEG/yTj3rGz65xz3F2PQgToUeVzR.jpeg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "232014",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.37",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "1072833672",
+            "bodySummary": "치밥세트에요! 밥은 따로 나오는데 사진 찍기용 ..^^.. 순살에 치즈에,, 특히 라면사리 도른자 .. 너무 맛있어요.. 양념을 가득 머금고 있는 .. 결국 참지 못하고 사리 추가",
+            "url": "https://m.blog.naver.com/enjoy_day_/223186705356",
+            "nick": "맛있는녀석들",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMDFfMjAg/MDAxNjk4ODQ2NjA2Nzc3.C07MwG1ZC7BV6Ir9s-hyg-vpwZIfslggTH-jIawSGNcg.VPSIGGuTQcOb7xCULKt0o0itG2i7fajCS1TRnyTjedog.PNG.lsy930924/profileImage.png"
+          },
+          {
+            "sid": "1072833672",
+            "bodySummary": "제주 서사라사거리에 있는 '꼬꼬아찌 숯불치킨'에 다녀왔습니다.튀김옷이 바삭바삭한 후라이드 치킨도 맛있지만, 저는 양념 치킨을 정말 좋아해요! 버스가 다니는 큰 도로변에 위치해 있어",
+            "url": "https://m.blog.naver.com/maelog_/223032754581",
+            "nick": "maelog",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA1MDdfMTYz/MDAxNjgzNDYzNjQ5MDk0.j31VfqW_9YzJL4v09ltpSJ5jURjxIk8o53rckf0NKQ0g.8IIftX25NBcGS1ktAvvvgrWasuUA25BYoOWJVPgcL9Qg.JPEG.khw5157/%25EB%25B0%25B0%25EA%25B2%25BD.jpg/%25EB%25B0%25B0%25EA%25B2%25BD.jpg"
+          },
+          {
+            "sid": "1072833672",
+            "bodySummary": "그 중, 지코바 같은 느낌의 치킨을 원했지만 설날 전날엔 영업을 닫아 근처 숯불치킨집을 알아봤는데!!!! 영업을 하신다고 하셔서 달려갔다 뭐를 시킬까 고민했다 가장 기본인 숯불 순",
+            "url": "https://m.blog.naver.com/ms95108/222994320630",
+            "nick": "토니꾸",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAxMjBfMjkx/MDAxNjc0MjE3NzMxNTU1.ZmwgJaQck_QZQoVxoOK5ExXm7UkbeEa99pxMvEFMUrsg.vR1lwHeoTlZKBpYH1OK0wXc08bdIuYt6bNZfjqeOHeMg.PNG.ms95108/profileImage.png"
+          },
+          {
+            "sid": "1072833672",
+            "bodySummary": "배달 어플을 통해 주문했고, 옛날 양념치킨 스멜이 물씬 풍겨오는 비닐봉지가 정겹네요ㅋㅋ 비닐봉지부터 포장박스까지 페리카나 치킨 생각이 자꾸만 나는건 기분탓일까요ㅋㅋ 무김치와 캔콜라",
+            "url": "https://m.blog.naver.com/refresh2022/222916422647",
+            "nick": "맛둥이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA4MDJfMjcy/MDAxNjkwOTU2MjQ0NjI2.nyUApN21Pg1FWWGr07DvY3n7jKVODFyIRXrkG80rvZAg.4edwvbQV_pYmVCXwdBOs19Pnf-xSe0V4OzCw24lXlHAg.PNG.refresh2022/profileImage.png"
+          },
+          {
+            "sid": "1072833672",
+            "bodySummary": "[ 꼬꼬아찌 숯불치킨 서사라점 ] 주소: 제주도 제주시 서광로 226 영업시간: 매일 17:00 - 03:00 (라스트오더 02:00) 전화번호: 064-755-9912 꼬꼬아찌 ",
+            "url": "https://m.blog.naver.com/weathersland/222882974785",
+            "nick": "랜디",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA2MTNfMjgg/MDAxNjg2NjU1NTkyODY5.aHKn6qAtIe9IlMpWNPAese5uOUytHgKNswdzXF0UFuEg.I_EZcMzZF36nFZ4gVfb42s_e1NonNtgktoTuERAnkwQg.PNG.weathersland/%25ED%2599%2594%25EB%25A9%25B4_%25EC%25BA%25A1%25EC%25B2%2598_2023-06-13_202616.png/%25ED%2599%2594%25EB%25A9%25B4%2B%25EC%25BA%25A1%25EC%25B2%2598%2B2023-06-13%2B202616.png"
+          }
+        ]
+      },
+      {
+        "rank": 32,
+        "id": "38345100",
+        "name": "꼬꼬앤쿡",
+        "x": "126.5204251",
+        "y": "33.500038",
+        "distance": 0.32,
+        "categoryName": "치킨,닭강정",
+        "categoryPath": [
+          [
+            "220036",
+            "220049",
+            "220245"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "치킨,닭강정"
+        ],
+        "reviewCount": 177,
+        "averagePrice": 30000,
+        "address": "제주특별자치도 제주시 삼도일동 535-19 1츠",
+        "roadAddress": "제주특별자치도 제주시 서광로 223",
+        "abbrAddress": "삼도일동 535-19 1츠",
+        "shortAddress": [
+          "제주 제주시",
+          "서광로 223"
+        ],
+        "displayContext": [
+          "치킨집",
+          "생맥주",
+          "치킨"
+        ],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "국내산/제주산 신선육만 사용합니다. 방문포장시 치킨메뉴 3,000원 할인!!! (1마리당, 현장결제에 한함)",
+        "description": "국내산/제주산 신선육만 사용합니다. 방문포장시 치킨메뉴 3,000원 할인!!! (1마리당, 현장결제에 한함)",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20231121_273/1700564786952gM7Ke_JPEG/%C0%FC%C3%BC_%281%29.jpg",
+          "https://ldb-phinf.pstatic.net/20231121_33/1700564787401aD9Kr_JPEG/%C0%FC%C3%BC_%282%29.jpg",
+          "https://ldb-phinf.pstatic.net/20200422_61/1587534152010VhY8P_JPEG/0giQfJkDsSk7us2Fb_1Xze_7.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220245",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.27",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "38345100",
+            "bodySummary": "한 때 제주 mbc 라디오 정오의 희망곡을 들으면서 퀴즈 푸는 재미에 푹 빠져있었다. 노래 가사를 듣고 어떤 노래인지 맞추는 퀴즈인데 퀴즈를 맞춘 사람 에게 선물을 주는 코너에 우",
+            "url": "https://m.blog.naver.com/this2shallpass/222135279039",
+            "nick": "오할리",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDEyMTNfMTQ1/MDAxNjA3ODA4NTY0NjE4.NnRLDBGhx1sgSTpI4vW6FSRqlq33lLWxm7kyDEpqQRcg.swDJm7Izo9uhgpqQwS1q9RqnZcd9RkQXz6lGhpoyOGMg.JPEG.this2shallpass/profileImage.jpg"
+          },
+          {
+            "sid": "38345100",
+            "bodySummary": "다르더라고.. 꼬꼬앤쿡 제주본점 오픈 치느님 영접하다. 글 사진 전부 꾸이꺼 꾸이 에요. 제주도에서 오븐구이 치킨으로 유명한 꼬꼬 앤 쿡이에요. 원래 꼬꼬 앤 쿡이 오픈한지는 2년",
+            "url": "https://m.blog.naver.com/jhb916/221521641074",
+            "nick": "꾸이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAyMjFfMjg4/MDAxNjQ1NDQyODkxNDY5.WYul82JjEmMVsrIdVXJvpqeGbHNdvcajpiduSMrmCC8g.2iI28JBwLPbVvgfZolXYWdVMkJCMzsgZ9uO7EySizKEg.PNG.jhb916/namecard_%25288%2529.png/namecard%2B%25288%2529.png"
+          }
+        ]
+      },
+      {
+        "rank": 33,
+        "id": "38272279",
+        "name": "자매정식",
+        "x": "126.5220942",
+        "y": "33.501259",
+        "distance": 0.114,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 465,
+        "averagePrice": 9000,
+        "address": "제주특별자치도 제주시 삼도일동 556-7 1층",
+        "roadAddress": "제주특별자치도 제주시 서사로19길 21",
+        "abbrAddress": "삼도일동 556-7 1층",
+        "shortAddress": [
+          "제주 제주시",
+          "서사로19길 21"
+        ],
+        "displayContext": [
+          "한식뷔페",
+          "김치찌개",
+          "고등어조림",
+          "착한가격",
+          "화려한"
+        ],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "제주특별자치도 제주시 삼도일동 556-7 1층",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "38272279",
+            "bodySummary": "자매정식 식당 (뷔페) 평일 오전 10:30~오후 3시까지 일요일 휴무 성인 1인 8,000원 제주 도민분들이 점심으로 많이 간다는 소문 듣고 처음으로 온 곳입니다. ^^* 주차장",
+            "url": "https://m.blog.naver.com/hkokosm/223073499779",
+            "nick": "똑똑소비",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA3MTlfMjI4/MDAxNjI2Njc5MDg2ODUw.MLZrpj2CihzdIbS4IEdDpA8-DODA7dZXAn-8-JFOqcMg.EXHc8M7FpfK5C6g49JmLk5gyDTRVU7JtCQv3yAGT3oYg.PNG.hkokosm/profileImage.png"
+          },
+          {
+            "sid": "38272279",
+            "bodySummary": "위치> 제주 서사로19길 21 <영업시간> 10:30~15:00 <이용금액> 성인 8,000원 <0일차> 제주공항-자매정식 <1일차> 한라산 영실코스 입구 주차장 존자암 -1100",
+            "url": "https://m.blog.naver.com/realjaekyo/222933075112",
+            "nick": "재교",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA2MDRfMzAw/MDAxNjg1ODg0NzU2Njc1.Bgpyu3imdxfNTh3VtbwyVKf0-efq2tjfWRj1ws3onhYg.O0SJposd200AcSo4ZUV5vdQdtMCiD04AwgeNEY0As8Yg.JPEG.eunam0617/profileImage.jpg"
+          },
+          {
+            "sid": "38272279",
+            "bodySummary": "제주시 삼도동 자 매 정 식 가성비 한식 뷔페 오랜만에 서사라 근처에 일이 있어 방문. #혼밥 이라 식당을 찾다. 예전에 자주 방문한 #자매정식 방문하였다. 주차장은 따로 없으며 ",
+            "url": "https://m.blog.naver.com/tmdgks4843/222886350135",
+            "nick": "섬청년",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA1MDlfMTIy/MDAxNjUyMTAxNzk2NzQx.m6xyn2edcPYvQxIz6P7YSSOvzpv8uk4titfFHUH97jcg.TRWWxGP39rD1LvHsodN6Aen7LhhTVfusrjsCVlepPDYg.PNG.tmdgks4843/profileImage.png"
+          },
+          {
+            "sid": "38272279",
+            "bodySummary": "그리고 제주도 잔치음식 하면 빠지지않는 수육 ! 제주한식맛집, 자매정식은 흑돼지수육도 비린 맛 없이 정말 담백했답니다 ! 인기가 많은 수육,카레,제육볶음,잔치국수,김치찌개는 고정메",
+            "url": "https://m.blog.naver.com/dbfk1015/222857053851",
+            "nick": "율이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTAxMTRfMjg0/MDAxNTQ3NDY2MzQ0Nzcw.NHIh_f2zFqTpD9zvzBMkh0Mvf3cHhaib5zRYk29Pk7Ig.-2dJeUqDPg_x1qmvUE76LVk7WMpRsuTQVqBkEO1dku0g.JPEG.dbfk1015/%25C7%25C1%25B7%25CE%25C7%25CA.jpg"
+          },
+          {
+            "sid": "38272279",
+            "bodySummary": "그래서 저는 한 2만원치 먹은 것 같아요 돔베고기만 먹으러 와도 이곳은 진정한 가성비 유후후훗 ~ 혹여 모자랄까 봐 걱정할 필요 없어요 모자란 반찬들이 있다면 계속 리필해 주시고 ",
+            "url": "https://m.blog.naver.com/joodream_/222840143679",
+            "nick": "두슬맘",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA4MThfMTc4/MDAxNjYwODEyOTQ5NzY0.NHE0e1HbVM7L46oA8SX16_N2qXo-6pVuTztr1GYKjccg.Iyjrf6bSsxo6TA42V9CKlukhojwQvO2TBqJOw0VOAPcg.PNG.joodream_/%25ED%2586%25A0%25EC%2588%259C.png/%25ED%2586%25A0%25EC%2588%259C.png"
+          }
+        ]
+      },
+      {
+        "rank": 34,
+        "id": "253143148",
+        "name": "빨간집 삼도점",
+        "x": "126.5210059",
+        "y": "33.4996415",
+        "distance": 0.313,
+        "categoryName": "닭발",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220772",
+            "221590"
+          ]
+        ],
+        "category": [
+          "한식",
+          "닭발"
+        ],
+        "reviewCount": 53,
+        "averagePrice": 13000,
+        "address": "제주특별자치도 제주시 삼도일동 572-3 1층",
+        "roadAddress": "제주특별자치도 제주시 서광로 230",
+        "abbrAddress": "삼도일동 572-3 1층",
+        "shortAddress": [
+          "제주 제주시",
+          "서광로 230"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "안녕하세요. 제주삼도동에 위치한 빨간집입니다. 많은 이용부탁드립니다.",
+        "description": "안녕하세요. 제주삼도동에 위치한 빨간집입니다. 많은 이용부탁드립니다.",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221590",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

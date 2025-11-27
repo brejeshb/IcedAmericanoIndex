@@ -1,0 +1,292 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 3,
+      "count": 3,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.97572685255253,
+          "minY": 37.5665,
+          "maxX": 126.97686342627627,
+          "maxY": 37.5674009009009
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.97629513941439;37.56695045045045",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1500625716",
+        "name": "카페그레이스",
+        "x": "126.9763926",
+        "y": "37.5671196",
+        "distance": 0.021,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 168,
+        "averagePrice": 3000,
+        "address": "서울특별시 중구 정동 3-7",
+        "roadAddress": "서울특별시 중구 세종대로19길 16",
+        "abbrAddress": "정동 3-7",
+        "shortAddress": [
+          "서울 중구",
+          "세종대로19길 16"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 정동 3-7",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTBfMjUz/MDAxNzQ5NTEyMDg4MzQz.94enAmvupXnvZDgLLjILH5VyX1gz2ntvw4s8rc9UihUg.nYkBZAmTA1VGSJU0jbc1ZrY2hbx1ridLFGdYnvacZ6wg.JPEG/8C57FF07-A9AA-4DB3-AA99-E005C6936508.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDlfMjU5/MDAxNzU5OTg4NTE3OTU3.VsU7PLxueZsbyHziUCgUhhQ8orgfvJZH8NfiQdV8nP4g._ljolqFKAl88lDA89jhyX-usgcJ3kRRIgFRDdHXeSCgg.JPEG/1000095066.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20191105_295/1572955805692n4loc_JPEG/GGlQ09mNJ1k1mo0NHjCNdWUg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjNfMjcx/MDAxNzYxMTkwMjkxOTU0.zVQNaKX72AptLvhdQWRq6RR3jXQZn5cVSfjXtzfwy4cg.hgoTHIlIZj_za_r_3KFnJ_eTufBBJKatBSHrPB-8Fawg.JPEG/0E63DCED-F348-4B85-9C5E-F766630E345E.jpeg",
+          "https://ldb-phinf.pstatic.net/20230331_35/1680209514133ev47U_JPEG/20230330_152935.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTRfNTcg/MDAxNzU1MTUxMDU4MDEz.1cYj9SuXyr3PZ6dV1Dw6AO15_pSUk4NvNzwQR2msnD0g.7A81nB7BPo8OebU4oxhwXeIMBPiFeMGerk_aPxpaF-sg.JPEG/20250814_145357.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjlfMTQ5/MDAxNzU5MTI0ODM2ODA2.FbgC_DI1oXc4TR2F1aBuCfDvSKVX0YWcQfLfrE1nRNYg.yTMEFGHFWXB1IcfXB4YNovKPK7XSTOvNTMDycNgMQ3cg.JPEG/23EEA1BC-E3AA-477C-8AE6-B744FE908D3D.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjRfMTM2/MDAxNzQ4MDcxODgyMDgz.jldKAkT0ODA8qHkN6VoJA0_Vu8Ey0TBFY41ezoQ54-Ig.PePKGGL0KgKXGoyWIIrE-4g2meZJWysKFkrfwdgIohsg.JPEG/20250524_161731.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTJfMjg1/MDAxNzYwMjY1NDk2NTky.yN77t560jtO8EInyR5jYNOV-Gy3XAZzVNPN-M38J6XUg.jUEQhtnl4eA7XzzqCXJVfQ_SUY4elGfzprUyUe3gXVcg.JPEG/20251008_130715.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDZfMTU4/MDAxNzU3MTQ1NTc0NTMz.HZoXwM4g4TMIzFE0zzDnC-Ej-GCrwjGzhHKLPKsETOIg.fo4EnnRQi66wFla_03rtog2ZF1bjOL5cO_5Ycp0wgvEg.JPEG/1000024399.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.7",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "1490150705",
+        "name": "카페서울",
+        "x": "126.9767977",
+        "y": "37.5669277",
+        "distance": 0.044,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 119,
+        "averagePrice": 5000,
+        "address": "서울특별시 중구 태평로1가 60-6 1층 카페서울",
+        "roadAddress": "서울특별시 중구 세종대로 119",
+        "abbrAddress": "태평로1가 60-6 1층 카페서울",
+        "shortAddress": [
+          "서울 중구",
+          "세종대로 119"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "<아메리카노 2000원> 이벤트가 진행중이오니 많은 방문부탁드립니다. 모든 커피메뉴 디카페인변경, 샷추가 가능합니다.",
+        "description": "<아메리카노 2000원> 이벤트가 진행중이오니 많은 방문부탁드립니다. 모든 커피메뉴 디카페인변경, 샷추가 가능합니다.",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20230126_50/1674699956106Qo8UW_JPEG/2023-01-26-11-25-42-907.jpg",
+          "https://ldb-phinf.pstatic.net/20230126_2/1674699649552DuUNT_JPEG/2023-01-26-11-18-38-969.jpg",
+          "https://ldb-phinf.pstatic.net/20230126_97/16746998979996d5aM_JPEG/2023-01-26-11-20-16-535.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.5",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "1490150705",
+            "bodySummary": "테이크아웃 까페인데, 미니붕어빵을 디저트처럼 판매한다. 매운붕어빵도 유명한듯. 귀여워 동네에 예일디자인고 가을 전시회가 있길래, 마실겸 가봤는데, 학생들 실력이 뛰어나서 놀랐딘. ",
+            "url": "https://m.blog.naver.com/titedios2/222927927555",
+            "nick": "담키",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA5MjBfOTIg/MDAxNjMyMTQzOTgzOTMy.Ai7n8r11t5eCbxltVhXUMwOm7JmX63TGom7Q4FBhHNIg.jZQndFIfMzx8mzo4GFYp2Rmjh-JEuNDi2ba_vxLZPzog.PNG.titedios2/profileImage.png"
+          },
+          {
+            "sid": "1490150705",
+            "bodySummary": "호랭이는 시청 근처에 볼일이 생길 때가 많아서, 가끔 1시간 정도? 시간을 보낼 수 있는 카페가 필요했어요. 네이버 지도로 시청역 인근 카페를 검색해보던 도중! 이런 곳을 발견하게",
+            "url": "https://m.blog.naver.com/nej1214/222054439266",
+            "nick": "검은호랑이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA3MTJfNTcg/MDAxNjI2MDk2MjYyMjYy.r9D9rBVitkvP9d-3hG7s0rCsN5ZhNIWkAvYJ52-6BIog.5CC9BaGcrwfO4FGO10OE_sCxQV03iizb5YVFvUS2j6wg.PNG.nej1214/profileImage.png"
+          },
+          {
+            "sid": "1490150705",
+            "bodySummary": "잔잔한 음악들으면서 오고가는 사람들 구경하는 것도 넘 좋은거 서울도시건축전시관에 위치한 카페라 한쪽 구석에는 서울시 기념품도 팔기도했어요 커피도 맛있고 에어컨도 시원하고 이데로 눌",
+            "url": "https://m.blog.naver.com/minnn1015/222019188545",
+            "nick": "오들",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTAzMDdfMTEw/MDAxNjE1MDkxMjIzNDcy.wsJ6t2MiFGGIMvvGS6l0mMhfYp-aEUAlPYiyT8u8Qsog.viCNwpEJOBknGwKOR-KxfhKnbli2K-UoYWEYhiuPkHog.PNG.minnn1015/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "id": "36342504",
+        "name": "컨퍼런스하우스달개비",
+        "x": "126.9762692",
+        "y": "37.5667511",
+        "distance": 0.022,
+        "categoryName": "한정식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220056",
+            "220594"
+          ]
+        ],
+        "category": [
+          "한식",
+          "한정식"
+        ],
+        "reviewCount": 395,
+        "averagePrice": 100000,
+        "address": "서울특별시 중구 정동 3-7",
+        "roadAddress": "서울특별시 중구 세종대로19길 16",
+        "abbrAddress": "정동 3-7",
+        "shortAddress": [
+          "서울 중구",
+          "세종대로19길 16"
+        ],
+        "displayContext": [
+          "한정식"
+        ],
+        "labelTheme": "고급 정찬",
+        "microReviews": [
+          "깔끔한 맛으로 채워지는 편안한 식사"
+        ],
+        "cardDescription": "깔끔한 맛으로 채워지는 편안한 식사",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTBfMjk2/MDAxNzU3NTA3MTU1NjA2.1IX4Q_ulx9KyJlFpUXfzkxg8JzMqT4q5d1AfqwKw6uUg.Jh-HYWhnAYqVJZ8QD4wgOhmu3IHYlfnLD20EH8lBPmEg.JPEG/20250910_151523.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTBfNTQg/MDAxNzQ2ODU5NTE1NTMz.vZ0UFt4q4aHMFbvd434nqxOmlA8W8kfEv3IYZP_XknYg.JhB_I_GWURYEv16MeSBftBxm8uiaEXJsQhjk2Jf1vgAg.JPEG/98FCAE61-30C4-4F00-A507-A1DD3F3826F8.jpeg",
+          "https://ldb-phinf.pstatic.net/20150901_271/14410638628447OmWJ_JPEG/166167554331960_0.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjRfMTIx/MDAxNzYxMjc2NjU3NzE4.FvFvlYZc7tiaxTAA3OsCNoyLhHserNamlu3jlJzisvgg.mZqMFwaW0XFPpPbjqmRCXVsN3CGRp_V-2QSvmELLJWUg.JPEG/IMG_5620.jpeg",
+          "https://ldb-phinf.pstatic.net/20191028_158/15721979364023yyir_JPEG/rkVHJwV1qET3QYTr3OMzAP_u.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MzBfMTYy/MDAxNzU5MjM3MTEyMjc2.lUfXOW1_P18MWYJUf-B-DXoj31RZvwySgsEXHsMK5xAg.2U7xbqhKZHOEfArGjm0UXjP0rnWjxK235qwgkDoIlFAg.JPEG/34AE1C83-02B3-46DB-99DB-25CBB7A69DF6.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MzFfMjY0/MDAxNzUzODg4OTc3MDEz.Q66TNsp6_AQkiZ3rWYGFxGos9Iu2lrsv1cRtnqSTh10g.aq7DdRdTcAIq8yfId1Js7DwczZWnoCNF4bMCsiHWeF4g.JPEG/2025-07-29-19-16-36-628.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjBfMjU1/MDAxNzYwOTUxOTg5MDAy.AD66831Zv32qMP49xR6OW-xJh6O1-zw2f3sT_OD4YEsg.LhNsNwiayJHuBIXa5jMOBtZn17pIOSXr8Nv0CK_9vvEg.JPEG/20251020_114627.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTJfMTUy/MDAxNzU3NjUyNzA4OTc2.6AohDUFCBHEMVVdYcfEuwM8qeuz4EfVI22cWSfll_Esg.yUIoBkLmm-I8cKKCAGDUrJQ8wiWTHyhMPIFWRPbSYW4g.JPEG/Screenshot_20250912_134641_NAVER.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDdfMjg4/MDAxNzQ5MjU2NzY0ODYx.aLDxHHVA0jxg5LWB9rqeTLI4PmroFGIAmjAoZ3SA5h0g.5YgvG-eE9MhpKB1MDBV6YiyjhdI_bcM0vR-nCEInNRMg.JPEG/20250606_134900.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220594",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "36342504",
+            "bodySummary": "무엇보다 컴퓨터 스크린 갖춰 발표 가능하다는 점에서 굿굿 식사 나오는데 하나하나 맛나다 맛이 정성깃들인 맛이다. 요것이 랍스터인가 남았다고 한접시 더 우리 테이블에 주길래 2개 먹",
+            "url": "https://m.blog.naver.com/yoojh5/223287658481",
+            "nick": "내가매일기쁘게",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAyMjNfMTc3/MDAxNjQ1NjIxOTAzNDQ2.8Div7HDRtYuxKFJ0_-U3ezRt8y4rEesD2goGxlvPN4kg.LUJG_DtswnzqL6QFxd3mC73_L3-qffyQlfuzVPJ8A4Qg.JPEG.yoojh5/SAM_0799.JPG/SAM_0799.JPG"
+          },
+          {
+            "sid": "36342504",
+            "bodySummary": "컨퍼런스하우스 여기서 회의도, 미팅, 상담, 비즈니스 이런 걸 많이 하는듯합니다 시청역 바로 앞에 있어요~ 광화문역에서 걸어도 5분이면 갈 수 있어요! 일단 입구 들어오면 이렇게 ",
+            "url": "https://m.blog.naver.com/loveorhate11/223266351308",
+            "nick": "승모군",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMTZfMTc2/MDAxNzA1MzczNzMwMjA1.RfZ-yvTFXfaO6duroB1PvkiEXpFBNF9S1o-yhlfN054g.8vtE_aLEIYQFcu621wNxWYoU_Q00zALvFUmt6LXnR30g.JPEG.loveorhate11/profileImage.jpg"
+          },
+          {
+            "sid": "36342504",
+            "bodySummary": "덕수궁 옆 #대한성공회서울대성당 바로 앞에 있렀어요~ 청포묵 저희가 주문한 코스가 55,000원이었는지 65,000원이었는지 그랬는데 코스 이름이 정확히 기억이… 시작부터 외국 손",
+            "url": "https://m.blog.naver.com/metaphor19/223266285493",
+            "nick": "은유",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMTdfOTAg/MDAxNzAyNzg0MDM1MTg1.CP9QbRuUE30fV7CsKzfCTFFH1nAGMW9L1rChUd72cRMg.KUKmB7LxAHUijUCdNBT6Nr4mM65Hehz9HKC3jgyvdggg.JPEG.thepassion19/profileImage.jpg"
+          },
+          {
+            "sid": "36342504",
+            "bodySummary": "위치/주차/예약 달개비는 시청역 3번 출구에서 가깝지만, 광화문에서도 걸어갈 수 있는 거리에 있어요. 국립정동극장 세실 옆에 있더라고요. 찾기엔 어려움이 없습니다. 네이버예약이나 ",
+            "url": "https://m.blog.naver.com/feliz_ming/223215944731",
+            "nick": "라리네하루",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTEwMjNfMjY2/MDAxNTcxODM2MjMyMjA5.8M9HW8KwKc6ESl83PzGTPoibittvuJjzjyS7op-mLBwg.wNDpezAgkA7vEKzShuxVjsE237ammJQ-OM8PF7mEzGwg.JPEG.feliz_ming/%25BB%25E7%25C1%25F8%25B1%25E2.jpg"
+          },
+          {
+            "sid": "36342504",
+            "bodySummary": "내리면 딱 요 건물이고 건물도 넘 정갈해보인다 달개비 요렇게 되어있당!! 내부 인테리어 그리고 안에 들어가면 한정식 코스요리집 답게 디기 정갈하고 단아하게 내부가 꾸며져있다 요기가",
+            "url": "https://m.blog.naver.com/mingg204/223180897519",
+            "nick": "맑고 산뜻한 순간",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjExMzBfMTg3/MDAxNjY5NzQ4ODE0ODE5.PdMngesunKrXBbxiiRgcIaA8mxBNNZCuD2UFFUj0Shkg.XIF8Wi8vTHUYwC5m9MAOUlshkoyrAZq_LpgXVytycRgg.JPEG.yeppni204/profileImage.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

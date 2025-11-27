@@ -1,0 +1,725 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 8,
+      "count": 8,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.97345370510504,
+          "minY": 37.57460810810811,
+          "maxX": 126.97459027882879,
+          "maxY": 37.57550900900901
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.97402199196691;37.57505855855856",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1028521392",
+        "name": "경성한우국밥",
+        "x": "126.9735672",
+        "y": "37.5749172",
+        "distance": 0.043,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 332,
+        "averagePrice": 5000,
+        "address": "서울특별시 종로구 적선동 122-1",
+        "roadAddress": "서울특별시 종로구 새문안로5가길 32",
+        "abbrAddress": "적선동 122-1",
+        "shortAddress": [
+          "서울 종로구",
+          "새문안로5가길 32"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [
+          "연탄불고기와 함께하는 특별한 한 끼"
+        ],
+        "cardDescription": "연탄불고기와 함께하는 특별한 한 끼",
+        "description": "저희 경성한우국밥과 한우설렁탕, 한우소머리국밥은 100% 한우만을 사용합니다. # 신메뉴 출시 # 황제꼬리곰탕과 특대왕갈비탕이 출시되었습니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MzBfMTYx/MDAxNzUxMjA5ODQ1Mzk3.7vwKQk64OE56Iqa7NtgpAAThWz6zIcatM9EXYH9yeUgg.CB-AHL9sZbRNidsNi9BwKVO7-bimdImQZUJVu6Wo6_wg.JPEG/1000023825.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDNfMzIg/MDAxNzUxNTExNTM4OTI3.SFeFt-qXJZXHLpdXTdzlS44d3AxliVrcnhlar7IFV-4g.OlfI95fpBiHahxl3O-ehrXmmT9SFriJfNFknI-4Zwksg.JPEG/20250702_173906.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20210120_141/1611101771867XKE2r_JPEG/syiZzTvARvlY31l-tTDqyzwV.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDlfMjQ4/MDAxNzQ2NzgwNjM1MDYy.H2VmhlD2VtLRn7ZQHx_7FeWMrt6DXll6Ns9TvREFqJcg.lehabuXgC4_efroPU9DwMwF9futpnFNflQpYMdYJrKUg.JPEG/8E086764-3AB9-4993-890D-1DA65F4F0C2A.jpeg",
+          "https://ldb-phinf.pstatic.net/20210120_114/1611101791781354en_JPEG/fqXbFpA6aGUuTZu1vosAwaxK.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDlfMjgy/MDAxNzU3NDEwNDk0NTI3.Jnh79Eml7_RiHrpht_BX5jklgIN88-86AE7mJZRIQo4g.xo8AwWE74M8ohFtZkzdORZ39GkBW3rfCheRzQa6Ke8Qg.JPEG/E5C342B8-E3BD-42D7-8A77-6C9D5171997C.jpeg",
+          "https://ldb-phinf.pstatic.net/20210120_152/1611101838529K5QA2_JPEG/5Vbc0_xkb4HKzXLbftkHqRLT.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjZfMTgy/MDAxNzQ1NjM4Nzg3MDM5.HQoOaMFPMmcUBnuYxcxIQ_FgtKsEugrOIsxZoly5BxIg.rJuJ4qjNn5Cj3Cee1PUj_nW8NoJgaK45DDvWyKXISW4g.JPEG/747A1BF0-BCED-4525-B33D-B3D99D0B78C9.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjFfMjg5/MDAxNzQ1MjEyMDM5MDc2.ieM_-u754ZvQyTjpk7ym5e8MWYys0dKRqgn-cg8mt5gg.sYE2wroU8zIEYtI5OtIS6jMDMd9In60TAPgfms8qCukg.JPEG/F6B8BC56-B76C-4116-8237-E5528D965265.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjVfMjEw/MDAxNzUwODIzMzM5ODYw.u_OEzYtiGh_SQ_XgH5m8lrzuAmBuwYH-wgaVw4eWHNIg.eS0dsOzHEEwgn4Ej8co6O2FH3AVOIn5Iuh6sl2MEgxAg.JPEG/81A35D30-F16A-4D64-8C95-0C817C4C9A0D.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1028521392",
+            "bodySummary": "외관 매장정보/위치 * 방문시점 : 01 * 상호명 : 경성한우국밥 * 위치 : 서울 종로구 새문안로5가길 32 * 전화번호 : 02-733-0427 네이버 지도 방문배경 경복궁역",
+            "url": "https://m.blog.naver.com/mukbangnote/223357643691",
+            "nick": "먹방노트",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxNzA2MDRfNiAg/MDAxNDk2NTYyNDUxMDEy.z2XPX1M5e-ZxVh1Jaj3dKkdD_zON1cuLOdeBB_x_J7Ig.qOW8NaGYU0iuiSLiD6ooR3G8BDkkoDb6c_shDrc7Z8wg.PNG.blovedjh/profile.png"
+          },
+          {
+            "sid": "1028521392",
+            "bodySummary": "경성한우국밥은 생산성본부 지하에 있다. 개인적으로 경복궁역을 통해서 바로 가거나, 적선현대빌딩을 통해서 가는 게 편하다. 생산성본부와 적선현대빌딩, 노스게이트 빌딩은 서로 지하를 ",
+            "url": "https://m.blog.naver.com/swim_goggles_song/223341176054",
+            "nick": "낭만고등어",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTAyMDlfMjM4/MDAxNTQ5NzAxODcwNzEx.5iKU0hfkrvUsh8jxfroSC4bATUWafU918sogQivZgJYg.wMeKTq652QyqwXhxf1EpO2ZuYTmGwC_1M1yLuUNbBkog.PNG.sks9703/9f77b179c71b67101b07c16dd4b81291.png"
+          },
+          {
+            "sid": "1028521392",
+            "bodySummary": "지점장님과 함께 저녁으로 뭘 먹을까 고민하며 적선현대빌딩 지하에 와 보았습니다. 경성한우국밥 위치 정보 입니다! 물냉면 비빔냉면 회냉면 콩국수 연탄불고기 5,000 원 냉면, 콩국",
+            "url": "https://m.blog.naver.com/hbj7237/223284013111",
+            "nick": "홍보험",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAyMTBfMiAg/MDAxNjc2MDEzMzQ2MjAz.nilh-aTwN6d-ZRaCR2rWb6U_krvUKCUVeq2sIpF6ursg.b5rVNcBz0UuLXhWXlXl33ymAjF6T4RD8f4COOTGr-7kg.JPEG.hbj7237/VATA0011.jpg/VATA0011.jpg"
+          },
+          {
+            "sid": "1028521392",
+            "bodySummary": "요즘 살짝 블테기라 그냥 오늘 점심 때 먹은 국밥 간단 솔직 리뷰 경성한우국밥 주소: 서울 종로구 새문안로 5가길 32 전화번호 : 02-733-0427 영업시간 : 매일 08:0",
+            "url": "https://m.blog.naver.com/dbsgywl88/223257028248",
+            "nick": "밍우",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAyMTVfMTMz/MDAxNzA3OTk3NTEzNjM3.tXibyoeFwxEMc1MARH115kh4Pud6FWMDDrjb_lPLf5Qg.6fSHG1hf6q65owOJlKi4Ka20GWe5r8QOu8VP5gdSbzQg.JPEG.dbsgywl88/profileImage.jpg"
+          },
+          {
+            "sid": "1028521392",
+            "bodySummary": "경복궁역 한식 종로 국밥 경복궁 경성한우국밥 주소 : 서울 종로구 새문안로5가길 32 ⏰ 매일 08:00- 21:00 ☎️ 전화 : 02-733-0427 주차공간 : 있음 종로국밥",
+            "url": "https://m.blog.naver.com/naphne0111/223229658653",
+            "nick": "해피뇽",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA4MjdfMTQ2/MDAxNjMwMDc1MzMwNjU2.aogzvZoEw7oxscK5eGu_9YCpjnsNgyPQMV68_vLKyJAg.zDnKEzs82px_nNw29J4j2MEotVyDNZv2FTZ-Mm6OVkMg.JPEG.naphne0111/%25EC%2582%25AC%25EB%25B3%25B8%2B-KakaoTalk_20210827_233711889.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "id": "1952077048",
+        "name": "다다익선 본점",
+        "x": "126.9735672",
+        "y": "37.5749172",
+        "distance": 0.043,
+        "categoryName": "순대,순댓국",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220768",
+            "221546"
+          ]
+        ],
+        "category": [
+          "한식",
+          "순대,순댓국"
+        ],
+        "reviewCount": 129,
+        "averagePrice": 10000,
+        "address": "서울특별시 종로구 적선동 122-1 지하1층 5호",
+        "roadAddress": "서울특별시 종로구 새문안로5가길 32",
+        "abbrAddress": "적선동 122-1 지하1층 5호",
+        "shortAddress": [
+          "서울 종로구",
+          "새문안로5가길 32"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경복궁 맛집! 전통음식 병천의 순대국 그대로를 맛보세요! 신메뉴 푸짐하고 고소한 냉동삼겹살 open!!",
+        "description": "경복궁 맛집! 전통음식 병천의 순대국 그대로를 맛보세요! 신메뉴 푸짐하고 고소한 냉동삼겹살 open!!",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjlfMjk4/MDAxNzU5MTAzMjAzODE0.4VuroC6asimCKe6FAfCOkahMFTlXMj5Di68Bas3MHRwg.NkSa71E3eitXrDK27h_gZ-YbJiWFIdnF8oB55Msini0g.JPEG/51F36C04-C226-490E-9A48-97B7CA5AC01D.jpeg",
+          "https://ldb-phinf.pstatic.net/20250711_38/1752208986428lwrYq_JPEG/%BA%B4%C3%B5%BC%F8%B4%EB%B1%B9.jpg",
+          "https://ldb-phinf.pstatic.net/20250711_195/1752208985494E0ANA_JPEG/%BB%C0%C7%D8%C0%E5%B1%B9.jpg",
+          "https://ldb-phinf.pstatic.net/20250711_193/1752208985491lWRdA_JPEG/%BC%F8%B4%EB%BC%F6%C0%B0%C7%D1%C1%A2%BD%C3.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221546",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1952077048",
+            "bodySummary": "순대가 포함된 정식 메뉴도 있네요. -찌개맛의 절반은 김치맛인데 김치는 합격입니다. -저는 '얼큰막창순대국'을 주문했습니다. -일행은 수육국밥을 주문했네요. -얼큰막창순대국은 순대",
+            "url": "https://m.blog.naver.com/nester99/223286097205",
+            "nick": "코코몽",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA4MDRfOSAg/MDAxNjkxMTQ1NTg0MjYx.-p7f7qWfpc5M3xyUZbxLH6VL7YIq9FdXBbn3NpoKXxgg.TFu-TUfBAAE80yb-PgE_6CPmZWISojLEq3w5QvXI9fYg.JPEG.nester99/profileImage.jpg"
+          },
+          {
+            "sid": "1952077048",
+            "bodySummary": "아무튼 후기 레츠고! 위치 / 경복궁역 6번 출구 지하 1층 매장 번호 / 0507-1383-7969 평일 영업 시간 / 08:00-20:00 주말 영업 시간 / 10:00-15:",
+            "url": "https://m.blog.naver.com/believe1nmyhertz/223246216932",
+            "nick": "가영",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA5MTJfMjE3/MDAxNjk0NTE4MzczMjEx.eLq67k10PHSEPvjz0a4pc3RdUbZIMqZPp49HFrsQ_iIg.erew1VMJo9aqw1bYT1VLJZsgqA_T67bQA_1jL_frTGIg.GIF.believe1nmyhertz/profileImage.gif"
+          },
+          {
+            "sid": "1952077048",
+            "bodySummary": "경복궁역 6번 출구 근처! 다다익선 -서울특별시 종로구 새문안로 5가길 32 지하 1층 5호- 영업시간 월-금 8:00 ~ 20:00 토 10:00 ~ 15:00 일 정기휴무 연락",
+            "url": "https://m.blog.naver.com/beunlife/223204168832",
+            "nick": "유미부부",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMjVfMjIg/MDAxNzExMzc1Njc2NTI0.RVeXiodvrrpk5tsT9L34KB6HHlIuAFDLcZGwyDEmeKgg.WRUqf5TDW6jNP_3g4u7PnMZp1QkUMhot8xjfr-tvvu8g.PNG/profileImage.png"
+          },
+          {
+            "sid": "1952077048",
+            "bodySummary": "오늘은 광화문역 근처 부대찌개를 먹으러 왔습니다!오늘 식사한 부대찌개 영상을 시작으로 포스팅 시작하겠습니다!매장 외부 광고를 보니 뼈해장국, 소불고기 뚝배기, 순대감자탕, 순대국,",
+            "url": "https://m.blog.naver.com/hbj7237/223143769270",
+            "nick": "홍보험",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAyMTBfMiAg/MDAxNjc2MDEzMzQ2MjAz.nilh-aTwN6d-ZRaCR2rWb6U_krvUKCUVeq2sIpF6ursg.b5rVNcBz0UuLXhWXlXl33ymAjF6T4RD8f4COOTGr-7kg.JPEG.hbj7237/VATA0011.jpg/VATA0011.jpg"
+          },
+          {
+            "sid": "1952077048",
+            "bodySummary": "원래는 슬로우캘리를 다니다가 발견했다. 부대찌개도 파는 모양인데 나는 혼밥이므로 항상 병천순대국으로 시킨다, 혼밥하기 아주 좋도록 혼자온 사람들은 바 자리로 안내되어서 부담이 없다",
+            "url": "https://m.blog.naver.com/teabe18/223005335213",
+            "nick": "투명사이다",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20150518_241/teabe18_1431939126834gh2iK_JPEG/KakaoTalk_20150518_175117883.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "id": "1061524141",
+        "name": "스타벅스 정부서울청사R점",
+        "x": "126.9736776",
+        "y": "37.5746212",
+        "distance": 0.057,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221275"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 3960,
+        "averagePrice": 5000,
+        "address": "서울특별시 종로구 적선동 156",
+        "roadAddress": "서울특별시 종로구 새문안로5가길 28",
+        "abbrAddress": "적선동 156",
+        "shortAddress": [
+          "서울 종로구",
+          "새문안로5가길 28"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 종로구 적선동 156",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MzBfMTU0/MDAxNzU2NTY1OTMxOTIx.skp57d0K4Q1O14UjwMwu9DbcGdbYgmo07PGUhjXYuVYg.iojUMi2TWhA4-hrPkv-vLy1puifRIPj8NbGReGJgj4og.JPEG/9550.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjRfNzEg/MDAxNzUzMzMyNjgwNTQ0.LnHgdQi7bIWKWxSa0aPf76aUgs2wmC6xxUq1Lw0TpcIg.f8dtSrtfUdXd2_45s7d_c6KV87gK6ehVRZ-1jrZz9Y0g.JPEG/20250724_095154.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20190828_93/1566953601239OT9MQ_PNG/xX7Wv642gXMoTI0DAv0hRymS.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTJfMjMx/MDAxNzQ3MDMyMzQ2NzAz.cA5rE-UjXleNn8GCVJ9OTv5t7QqcNvrQjfEEkcO8oOwg.Po3xNmk84phgcV3PY4C6XVdEOIQH-5Rm1YfGasYOILQg.JPEG/20250509_205936.jpg.jpg",
+          "https://naverbooking-phinf.pstatic.net/20240425_150/1713988096763Qz49V_JPEG/image.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDlfMTkx/MDAxNzU3NDE0NDkyODY2.XbOEIxaAZlSAs3XQ2Uql_J5o5pciiEKfZNwKn54nDTMg.JNhhFwHtgcdNLBedlG8RClKDra-Kr7ww15ieqKc4lzAg.JPEG/33EE775B-C375-400B-B099-E7EB57DEB1ED.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDNfNTUg/MDAxNzU5NDkyMDIzNDYz.z8_tU6rj5inFg3biE-d_Y-bfz9w8oDYIFzL1rp8iHEIg.qKOWg7mg7ZT8pd5X82q39LQPGjh_c3fldQjM5Hbc27Qg.JPEG/DB2DA37C-ECA4-48B6-A94E-D451F856919E.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjZfMjEy/MDAxNzU2MTk3NTczMjgz.Xf04P5waw-VMg05BbI8ErhneyXWsLBs46XGgXM4Ah3Eg.2qVp-z9bxWhIyamAEZkwN1GpOgDz8isFk4x8FJlnWLcg.JPEG/6102C97D-5A2B-4C0E-AB77-CE37FDE820CC.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTRfMTkz/MDAxNzQ3MTg0OTAwNzEx.sw52wstT7Ltme0dxLsN8wGUe7Q9Oi3UJxgQQvdtTdhsg.w1Wi5_D5injKH9Y1Ani6SxtdSlt9RfZt5B459LOmy2Ag.JPEG/3500F1CF-61C6-4B21-A300-1EA81389CBC0.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjdfMjA3/MDAxNzQ4MzM4NjU1Mzky.45BV-tTSavebb4Pbt538rP98e-zXxtPFW8O4dGGvFmsg.lkbC1xluHAT98dc9QNKiIuVXM-RdIKHO6ImLsL0nJmsg.JPEG/20250527_183613.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221275",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1061524141",
+            "bodySummary": "스타벅스 정부서울청사 R점 오늘은 뭔가 특별한 걸 마시고 싶었다. 남편이 고른 커피 베트남 둥 크노 (상큼하고 신선한 레몬그라스, 달콤한 살구의 풍미) 커피를 고르고나면 어떤 방식",
+            "url": "https://m.blog.naver.com/pulipys/223375464568",
+            "nick": "ㄲㅗㄱㅈㅣ",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTEyMTdfMjE5/MDAxNjM5NzI2NzIwOTgw.pmKPzPzv__0PVpd5tPlxmC1dH_nZUYVl6RHDAJdg3YMg.7taQErzQ52Z6Hoswf1qAOFhk8aDyqDmYzuHq8wedrY8g.JPEG.pulipys/profileImage.jpg"
+          },
+          {
+            "sid": "1061524141",
+            "bodySummary": "스타벅스 R이 붙었길래 궁금했다. 스타벅스 정부서울청사R점 우선 넓은 홀에 중후한 실내장식이 맘에 들었다. 회의용 길다란 테이블과 푹신한 소파와 바, 그외 테이블 등 다양한 테이블",
+            "url": "https://m.blog.naver.com/yosands/223303815934",
+            "nick": "완사당",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxNzAyMTlfNTIg/MDAxNDg3NDc4NTkxNjIx.JyogsAAyQxGZH7Zi5eEw9FLBnmi9TgLXmvlSlvXuK7og.pE1s04l5_AxenpZY_2bqfBR8tuM1bvhkT4JSb9jHHDQg.JPEG.yosands/profileImage.jpg"
+          },
+          {
+            "sid": "1061524141",
+            "bodySummary": "두 번 실패하고 세 번만에 찾은 경복궁역 6번출구에 있는 스타벅스 정부서울청사R점 종로는 스타벅스가 진짜 많음 여기는 회사가 많고 사람들이 많아서 그런가 토요일인데도 스타벅스에 사",
+            "url": "https://m.blog.naver.com/sempreamare/223275705708",
+            "nick": "마레",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAyMDNfMTUz/MDAxNjQzODY5NzIxNTA2.4s2fU8RnJKGfGTa3xo1sarYmZglNJjDbzoHLDo6G7dIg.JVhGhNscfOVsvPHdKqd5WW8cjHOTVl-nkF2ox5Eq6MIg.JPEG.sempreamare/5083e73e22800b226f1feb7f7ec9b96e.jpg/5083e73e22800b226f1feb7f7ec9b96e.jpg"
+          },
+          {
+            "sid": "1061524141",
+            "bodySummary": "특히 광화문사거리 반경 1km를 기준으로는 스타벅스 매장수가 가장 많은 곳으로, 뉴욕보다도 더 많은 스타벅스 매장을 찾을 수 있는 밀집도를 자랑하는 곳이 되었다. “서울 광화문, ",
+            "url": "https://m.blog.naver.com/diegoco/223242830303",
+            "nick": "여행자",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTAzMzFfMTA1/MDAxNTUzOTk4MjgzNjQ1._d1IqPA-RTUb4omo59C5kJ8oq2_Jlw4dCRUvou4w2DIg.6lK0v3_27WP6wjvOuJANouSywTh8WmRfjrkTB95wz-og.PNG.diegoco/%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F%3F.png"
+          },
+          {
+            "sid": "1061524141",
+            "bodySummary": "리저브 메뉴를 선택하면 바리스타가 신속하게 커피 내려줍니다. 심플한 메뉴판을 열면 지금 판매하고 있는 4가지 원두를 만나보실 수 있어요. 다음엔 발리 원두를 골라볼까해요! 주문과 ",
+            "url": "https://m.blog.naver.com/start111012/223261241009",
+            "nick": "소소한 애플댁",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEwMThfMTMz/MDAxNjk3NjE1NTk1NTc3.7iVAJ-Erb1gzE0h70QSSQufK-OTYN4yjk2jMj0dAAvMg.JEXVF0wDOGoR8eqZTNYuzN0nwThyn71iLsIV6vywh1Ag.JPEG.start111012/KakaoTalk_20231018_163759601_03.jpg/KakaoTalk_20231018_163759601_03.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "id": "11689865",
+        "name": "스타벅스 적선점",
+        "x": "126.9741245",
+        "y": "37.5752994",
+        "distance": 0.028,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221275"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 4030,
+        "averagePrice": 6000,
+        "address": "서울특별시 종로구 적선동 66 노스게이트빌딩 1층 ()",
+        "roadAddress": "서울특별시 종로구 새문안로5길 55",
+        "abbrAddress": "적선동 66 노스게이트빌딩 1층 ()",
+        "shortAddress": [
+          "서울 종로구",
+          "새문안로5길 55"
+        ],
+        "displayContext": [
+          "마카롱",
+          "주스",
+          "고급스러운",
+          "산책"
+        ],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "1.주차가능 2,주차장위치 - 지상1층 및 지하주차장 3.주차조건-조건부 무료(스타벅스 이용시 1만원 미만 구매시 30분 무료/ 1만원 이상 구매 시 1시간 무료/이후 30분당 2,000원 이용요금 발생) *SR 무 ",
+        "description": "1.주차가능 2,주차장위치 - 지상1층 및 지하주차장 3.주차조건-조건부 무료(스타벅스 이용시 1만원 미만 구매시 30분 무료/ 1만원 이상 구매 시 1시간 무료/이후 30분당 2,000원 이용요금 발생) *SR 무 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTBfMjk2/MDAxNzQ2ODc5NjUwMDQz.LlvEjUhhEtGHUWn9bQ9xNQzDl48hXDVW4vpWZ60VvEMg.NBSnFa4Bg3UqCBMiXnxEbuc9NFGjD1fNiHrYkVXsbjkg.JPEG/75F9E213-ED37-4D09-B11B-210D0E321B86.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjlfMjE3/MDAxNzUxMTU5MDc0MDk5.uCBFKdCChr33dUBlXx10b3ACFT7pl6-gif45N5LYt_Yg.WM839E-IPU755Zsn-iJCpmKNi8OCIn2wrlMlh1cuJL0g.JPEG/1BF6D38C-D684-4D71-8F50-A2228FB0C815.jpeg",
+          "https://ldb-phinf.pstatic.net/20190828_93/1566953601239OT9MQ_PNG/xX7Wv642gXMoTI0DAv0hRymS.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDRfMjYg/MDAxNzQ5MDA1MTQxMzcz.EG5jfNMwo0kRLLmrgiCLeI0jSoz5vnfVgrIR-GC3Sb8g.f_UBOlko_P2gHdfr9FeT4Z_QJtplhSTRq-tl8blt13wg.JPEG/F591623C-17CC-4E4F-A696-F79CFC1DC601.jpeg",
+          "https://naverbooking-phinf.pstatic.net/20240611_50/1718104647902TXdke_JPEG/image.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjVfMTQ2/MDAxNzQ4MTc5NzM2MjQz.On36090N1_xETY6WAGIS59sfVBcAFOVa8rzHPTzFRd0g.-hYd6MJI9_uwTCb7rmeiTMU3b72AtAUSbO7QlG27Hv8g.JPEG/6DAA8EB1-C05F-4583-8704-D260738A8DB0.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjFfNzAg/MDAxNzYxMDE1OTMxNjU0.U8bppyqfWp6FiE9xiYUgILcfFdFbLEKMMgOyHQz49Rwg.JBySGdw5Fhutc1gJsfKhHDk6JLcHVevaMgaQ0uI3lUog.JPEG/2E0D9344-5C82-45EB-91CB-E504CBA900F9.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTNfMTkx/MDAxNzU3NzI5MjYwMjg4.0bYc5uL1tBkAC34PY48XBJ7ALvl8lGhNkBWWhLmogCQg.WYFvoGL4oWGZx9w4ET3p2TLvsEndTUnUoqysh_tgrygg.JPEG/20250912_145351.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDVfNzEg/MDAxNzU2OTk4Mzc0NTEz.jF5JbY9WAPQhtgLY4hatPYmAhyEO26yiXYqUzSQyNV4g.PHu_4k_-VuBS51N-bB_p4IMojcZJEHwLm25OfJHE3BAg.JPEG/20250904_172503.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDhfMjYx/MDAxNzQ5MzUyODgzODc4.7Gq7KWmMauDE_rIqCP43pdWSVLzY3dtixLgPGuc3mqMg.IFprFS8hOVaG3wBebPNvPl7eM-aduUECNJRqSwIb2sYg.JPEG/20250608_121033.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221275",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.42",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "11689865",
+            "bodySummary": "자주 애용하는 매장은 아닌데 프리퀀시 모아서 받은 캠핑용품을 적선점에서 받았어요. 가까운 주변에는 솔드아웃이고 적산점에만 남아 있었거든요. 스타벅스 경복궁역점은 한글 간판인데 적선",
+            "url": "https://m.blog.naver.com/wild-rose-candy/223322138222",
+            "nick": "들장미사탕",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA1MjBfMjM1/MDAxNjg0NTU3MzIxNDg1.EYFCypbOoOzZfYSrObORSiLK9laN6xTZav2ShVqYx-Ig.LZV-I-wa6QjLchR0LlQEbmwGTf_wERdjNEeTHURdCdAg.PNG.chaijeon94/4c256e2daf4dd9dd40d81bfd8882eee6.png/4c256e2daf4dd9dd40d81bfd8882eee6.png"
+          },
+          {
+            "sid": "11689865",
+            "bodySummary": "고소한 피스타치오 향이 진하다. 초콜릿 맛은 은은하게. 아보카도는 잘 모르겠음",
+            "url": "https://m.blog.naver.com/delight-0_o/223210583138",
+            "nick": "바딜",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA3MDhfMjY1/MDAxNjg4ODA5MzY1NTk5.zvezAJChFxEH-_pyezmyJi1zfQp2AgGvJin0Ln5QqVgg.3Io5BJAG1J2-z4fJZUXG02qbzOU9oIPaC8GiAk5RWWsg.JPEG.hail1015/profileImage.jpg"
+          },
+          {
+            "sid": "11689865",
+            "bodySummary": "230906 방문 스타벅스 적선점 서울 종로구 새문안로5길 55 매일 07:00 - 22:00 *일요일 08:00 -21:00 경복궁역 6번출구 140m 1522-3232 경복궁역",
+            "url": "https://m.blog.naver.com/so9820/223209047661",
+            "nick": "요델리",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA3MTdfMTg1/MDAxNjg5NTUzNTQ4NjI5.VFzmyad7EGG_RyKCl9npRqSr4aoC4zIn4g6_bZi9I-Ig.gBs4tubFXaB_hH8NeZeFBrKitXIIruw3--3YIBVm1jsg.JPEG.so9820/profileImage.jpg"
+          },
+          {
+            "sid": "11689865",
+            "bodySummary": "동기님이랑 회사 주변 스타벅스에 갔어요 대박..! 시식빵이라고 하셔서 1인당 1개씩 가져왔어요 감삼다!! 동기님이랑 시식빵 처음 받아본다면서 서로 사진 찍었어요 ㅋㅋㅋ 치즈치아바타",
+            "url": "https://m.blog.naver.com/owowjiwon/223199957099",
+            "nick": "own off",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjEwMDlfMTk3/MDAxNjY1Mjk2NzAzMTA3.NHw2yrvm6_ngShR8zbJQCQ-J62WPfa1Uzp0zGn5UpZUg.CzVnsRUZoKfI5N5iF4T0kQ4SrQcIhbgAw83z9GlZ_2Qg.PNG.owowjiwon/profileImage.png"
+          },
+          {
+            "sid": "11689865",
+            "bodySummary": "커피마실려고 이리기웃 저리기웃하다가 다 넘 협소하고 한옥카페는 왠지 들어가기가싫네 요즘은 ㅎㅎ 그래서 결국 저번에도 가본 이곳으로 #스타벅스사이렌오더 로 느무 간편^^ 비가 고만좀",
+            "url": "https://m.blog.naver.com/yesuaini87/223181102119",
+            "nick": "yunma",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjEyMzBfMjU5/MDAxNjcyMzcwMzM5Njg4.O-wGMt-5rOeGgxeT3JRTpx4Boh5sYl4BLFM8d6Vdblog.e_TvPu8bh_et8WcOlDgbjMtYVbYpYOumZI_A4oerDY4g.JPEG.yesuaini87/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "id": "1073660328",
+        "name": "슬로우캘리 경복궁점",
+        "x": "126.9735672",
+        "y": "37.5749172",
+        "distance": 0.043,
+        "categoryName": "다이어트,샐러드",
+        "categoryPath": [
+          [
+            "220036",
+            "220047",
+            "220170",
+            "1005078"
+          ]
+        ],
+        "category": [
+          "도시락,컵밥",
+          "다이어트,샐러드"
+        ],
+        "reviewCount": 1207,
+        "averagePrice": 10000,
+        "address": "서울특별시 종로구 적선동 122-1 한국생산성본부 B1층",
+        "roadAddress": "서울특별시 종로구 새문안로5가길 32",
+        "abbrAddress": "적선동 122-1 한국생산성본부 B1층",
+        "shortAddress": [
+          "서울 종로구",
+          "새문안로5가길 32"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "한 끼가 행복이 되는 시간, 슬로우캘리  슬로우캘리는 현대인들의 '휴식' 이 되었으면 하는 바람으로, 바쁜 일상 속에서도 건강하게 먹을 수 있는, 일상의 즐거움이 되는 음식을 선사합니다.  건",
+        "description": "한 끼가 행복이 되는 시간, 슬로우캘리  슬로우캘리는 현대인들의 '휴식' 이 되었으면 하는 바람으로, 바쁜 일상 속에서도 건강하게 먹을 수 있는, 일상의 즐거움이 되는 음식을 선사합니다.  건",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTJfNDAg/MDAxNzYwMjM5ODYwNjUy.LsxtvH-2lcshpbRIbQxLCNxcY2L0qsu-4qMT2gbXO-Ag.KLN_xeFz44xOz19lPvMT6TgowEHRG896x3Tr8PqWNUYg.JPEG/A4CC2395-0B01-4B5C-AD2D-CDEC9704C4C0.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDJfMTEy/MDAxNzU2NzgzNzQzOTU4.oFoSkl832a_M-1Q2wiz331TRM9wuUEeXp8Pm2CBjQBUg.2yYJwgfVu5UawFRsSvL58WFiq5xo4wn1MRCKO7kkwCEg.JPEG/62092A70-6B20-4BF8-AB8C-54C827CC17EB.jpeg",
+          "https://ldb-phinf.pstatic.net/20250528_275/1748419443652QnleQ_PNG/01.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjRfMTk5/MDAxNzYxMjc2Mjg4NTEy.l1bBTjGPXMjC8APbyZyJXvNr1rSOmGw-NSlKhBDnvPAg.VVSqw_wdnYWHgxec649IgRI7u3A909Bm5KSFep5aN3Ug.JPEG/EFDE4A10-D171-4038-9420-DC640F9EF72D.jpeg",
+          "https://ldb-phinf.pstatic.net/20250528_164/1748419443424GenOH_PNG/06.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTlfMjA3/MDAxNzU1NTc2Mjg1OTIw.K68Evak9x93iLndLgkPFSBGyjh7ZrFG3cxPY6OSeM2Ug.HyTQ2WgjwMl86yh2ux3By1Nm97eQLwPRkrmHQf9mD0Eg.JPEG/20250819_130347.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240820_110/1724121190720vEv17_JPEG/%BF%AC%C3%E2%C4%C6.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTJfMjAg/MDAxNzU3NjQ5NjU4NDQx.vgBNWBfi46uJ8ZIn8Ch5avcCHs3146x0BLaZLtNSgDcg.mq5-QIUD0KDdxdTmJzWXnwbIlhGzQ_j7444eSlcyxX4g.JPEG/IMG_4600.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjBfMTE3/MDAxNzU1NjYwOTQ2MDUy.WoclGZ2UTedGR3pIx7TqXn6eI5PP3fDxoOVHStiXyxkg.K8lLR3OFZXV07Z6KpLEDI7-vNOJFjD68xUsjO9p5_6Ag.JPEG/20250820_123416.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjlfMjAw/MDAxNzU5MTAzMjg5Mzc5.xHEjezbwNlkObe-oC0y-TVl7mcpNiSMHD5jaRLzl0fsg.kXsOrUlUXqzLgtPagYsS4rUJ2MBsYjFHmSLPfoTRgkAg.JPEG/8AE2D3C3-725A-4606-8573-ED5E29037EFA.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1005078",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1073660328",
+            "bodySummary": "서촌샐러드 슬로우캘리 경복궁점 후기 슬로우캘리 경복궁점 영업시간 08:00 ~ 20:00 휴무, 브레이크타임 없음 포장, 배달 가능 서울 종로구 새문안로5가길 32 한국생산성본부 ",
+            "url": "https://m.blog.naver.com/khn9724/223383426554",
+            "nick": "기만나",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAzMjdfMzEg/MDAxNjc5OTExNDQ1NDIy.FwhDts8K9n2iPJ3h633WSp8u7RBpSgG8sqFKMPG1BD8g.zmRLK2eedKyNb1TlbjE07xKfDaUSaIfQsl_k3nicMxsg.PNG.khn9724/profileImage.png"
+          },
+          {
+            "sid": "1073660328",
+            "bodySummary": "슬로우캘리 경복궁 하와이안 음식 포케는 생선이 가미된 샐러드로, 하와이 서퍼들이 먹던 영양소가 듬뿍 담긴 고영양 고단백 건강식입니다. 슬로우캘리에 들어가서 셀프로 반찬을 담아오고,",
+            "url": "https://m.blog.naver.com/leedh428/223342499517",
+            "nick": "심심풀이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAyMTJfMTY1/MDAxNzA3NzA3NTIyNzcz.AORM9Rrf2Y6e8X2Gl4flHnVdQgC0C9L1B0zJjsW0_3wg.xuC-_x47b49rzgU88TG5y_6bWVykGtybSCAL0DpsoLwg.PNG.leedh428/profileImage.png"
+          },
+          {
+            "sid": "1073660328",
+            "bodySummary": "[위치] 서울 종로구 새문안로5가길 32 한국생산성본부 B1층 [영업시간] 평일 8:00~20:00 주말 9:00~19:00 [연락처] 0507-1358-5211 경복궁역 맛집 슬",
+            "url": "https://m.blog.naver.com/love_shini/223268702620",
+            "nick": "한의사 씨니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA4MTFfMjM5/MDAxNjkxNzE4NjgxMzg5.KctCc9RivVyYfwbGZVvn7DzgRblsSekQHfWKsPIb8nkg.J8F9LckHmc6ivh-GH5-bHvbSxnXoA5-06-9R9V2lgDUg.JPEG.kitty_walnut/profileImage.jpg"
+          },
+          {
+            "sid": "1073660328",
+            "bodySummary": "목적지는 “슬로우 캘리” 슬로우캘리 경복궁점은 주말에도 여는 흔치 않은 곳이다! 그래서 찾아간 슬로우캘리 슬로우캘리를 가기 위해서라면! 나는 어떤 길도 갈 수 있어! 라고 하지만,",
+            "url": "https://m.blog.naver.com/ssu__story/223258704617",
+            "nick": "BJT",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA3MDNfODgg/MDAxNjg4MzkxMzc2MDI0.uHO6UFq9Jnb5PPAXeggetc2eXvNWA3s36zn7d687Aogg.4qo8l3DmT4kCrAItgELMmdoInyqyQ_RuzBT5TRRMeBkg.PNG.hyeon1474/profileImage.png"
+          },
+          {
+            "sid": "1073660328",
+            "bodySummary": "세뉴는 등산하고 포케 먹는 것을 좋아해요 운동하고 가볍게 포케나 샐러드를 먹어주면 몸이 가벼워지는 느낌이 들기 때문이죠 이날은 일요일이다보니 오픈한 샐러드가게가 몇 없더라구요 ㅜㅜ",
+            "url": "https://m.blog.naver.com/sehyun40/223256448312",
+            "nick": "세뉴",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMjhfMjY1/MDAxNzA2NDA5Mzk0NDAy.KT69UhmeQAx1BQfdy5QRzJFEPH-mCV8540m-4q9WX7kg.lFQdNNR2mgFIV2ukdOhEn439uku_zrsl3imbLEtkYwkg.PNG.sehyun40/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "id": "1268198860",
+        "name": "소도",
+        "x": "126.9739852",
+        "y": "37.5751331",
+        "distance": 0.009,
+        "categoryName": "일식",
+        "categoryPath": [
+          [
+            "220036",
+            "220038",
+            "220081",
+            "220804"
+          ]
+        ],
+        "category": [
+          "일식",
+          "일식당"
+        ],
+        "reviewCount": 1,
+        "averagePrice": 0,
+        "address": "서울특별시 종로구 적선동 66",
+        "roadAddress": "서울특별시 종로구 새문안로5길 55",
+        "abbrAddress": "적선동 66",
+        "shortAddress": [
+          "서울 종로구",
+          "새문안로5길 55"
+        ],
+        "displayContext": [],
+        "labelTheme": "일식",
+        "microReviews": [],
+        "cardDescription": "서울특별시 종로구 적선동 66",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220804",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 7,
+        "id": "1967290160",
+        "name": "다래방",
+        "x": "126.9734938",
+        "y": "37.5748693",
+        "distance": 0.051,
+        "categoryName": "차",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220580",
+            "221395"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "차"
+        ],
+        "reviewCount": 1,
+        "averagePrice": 0,
+        "address": "서울특별시 종로구 적선동 122-1 한국생산성본부",
+        "roadAddress": "서울특별시 종로구 새문안로5가길 32",
+        "abbrAddress": "적선동 122-1 한국생산성본부",
+        "shortAddress": [
+          "서울 종로구",
+          "새문안로5가길 32"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 종로구 적선동 122-1 한국생산성본부",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221395",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 8,
+        "id": "11862812",
+        "name": "경희궁부페",
+        "x": "126.9734875",
+        "y": "37.5749167",
+        "distance": 0.05,
+        "categoryName": "뷔페",
+        "categoryPath": [
+          [
+            "220036",
+            "220046",
+            "220164"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "뷔페"
+        ],
+        "reviewCount": 278,
+        "averagePrice": 20000,
+        "address": "서울특별시 종로구 적선동 122-1",
+        "roadAddress": "서울특별시 종로구 새문안로5가길 32",
+        "abbrAddress": "적선동 122-1",
+        "shortAddress": [
+          "서울 종로구",
+          "새문안로5가길 32"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [
+          "넓은 공간에서 누리는 푸짐한 식사"
+        ],
+        "cardDescription": "넓은 공간에서 누리는 푸짐한 식사",
+        "description": "한국인의 입맛에 맞는 음식으로 구성되어 잘 알려진 경희궁 부페입니다. 돌잔치, 연회 등이 열리는 장소로도 애용이 많은 곳이에요. 부담스럽지 않은 정갈한 뷔페가 생각날 때 방문하면 좋습니",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjJfMjgx/MDAxNzUzMTUwNTYxMDQy.2XfL78w0c-46xeMnQOg-DYTU2PWVuNy7yar6a8Nlnfsg.uqYk1Npv8rA9SC2W2D5T3ZYi5ZRICTMJWDAM5-3LMkwg.JPEG/20250711_114207.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTlfNzcg/MDAxNzUyOTEyMzg3ODY0.mkVrSd5kYJGiOztqplmHwl-hd0LYpvo6dcMhFG_oCSAg.YTTvk9tk8v3O4X-aXdY3zm6NWj2xtcqffZt_dUKkMpAg.JPEG/20250714_114530.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20150901_84/1441059654586v2uqt_JPEG/11862812_0.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjhfMTUy/MDAxNzU2MzU0MTMxNDk4.M_EiaF7wJ43K1lOWI3VLsNrHL6rOZlXYbMDD4JTLrBwg.oql6Ujz50ENzs1D5eOZev5b_mwD5sDiy0PSfnr_TNTgg.JPEG/20250828_115003.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjRfMTE2/MDAxNzU4NzEyODc2NzU5.Et8OdBy-NedgNUR1XHIDjmss8wrETW3_qjdTgESCFK4g.088TWhQexTFYMU1nX82tfkG9K9inlJrznqTzmKzWuyEg.JPEG/20250923_114504.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjRfOTAg/MDAxNzYxMzA5NzM1ODU3.HD22ufJBTV1jiXaFq0Aoef_ozLXi97Y5DJOoKjKxsTog.fih_ECPDGSu9-uHjIFkiqi_gIPD_6v2qrkjF3b1e76cg.JPEG/20251022_112046.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDlfMjI5/MDAxNzU5OTQxODc0OTMw.foxkkCHYRdTNi7I_9NwN6-rft-49N72BHmlm0zXLXWAg.7K4smXdXRqtBcBH3JL9_fx8d2Irp8eQ1-mTa0qVi0WUg.JPEG/20250930_113125.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjFfMjgw/MDAxNzYxMDMzNjcwODky.MGuqmU1iQblnRmDorH-ABA94_SZvCoDSJ2LiQGOLJLYg.6ohaq59qsog60ykS00MsNXZf0dF2hlrURrhqSFPjbNIg.JPEG/20251020_113242.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTZfMTM4/MDAxNzU3OTc3MDIzOTE4.lf9ku6fEdyD6RefuBQxsdlE5EkHss2gbG22ScxVXwvwg.HrSpg77vmnkRbJnE01DgIxpqb2uBTT9IOj0G5wqceNQg.JPEG/20250915_112851.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjRfOTkg/MDAxNzYxMzA5NzkyNjk2.ITLcxmRsEfysuhb8j0ic5-5MOB0BR0m9kOYAmG4sTLMg.OhGObZ-D-zPF-mZQnESp7FvPUR8Yr6txQ9WD5Rb7Orkg.JPEG/20251013_113145.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220164",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

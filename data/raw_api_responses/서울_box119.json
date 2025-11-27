@@ -1,0 +1,260 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 3,
+      "count": 3,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.98822916351367,
+          "minY": 37.561995495495495,
+          "maxX": 126.9893657372374,
+          "maxY": 37.5628963963964
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.98879745037553;37.562445945945946",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1024077599",
+        "name": "티피",
+        "x": "126.9893235",
+        "y": "37.562547",
+        "distance": 0.048,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221212"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 108,
+        "averagePrice": 5000,
+        "address": "서울특별시 중구 충무로2가 49-31 1층",
+        "roadAddress": "서울특별시 중구 삼일대로6길 5",
+        "abbrAddress": "충무로2가 49-31 1층",
+        "shortAddress": [
+          "서울 중구",
+          "삼일대로6길 5"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [
+          "아늑함 속에 피어나는 커피 한잔"
+        ],
+        "cardDescription": "아늑함 속에 피어나는 커피 한잔",
+        "description": "상업촬영, 파티, 모임 등 공간 이용서비스",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDNfMjI3/MDAxNzU5NDYzMjg1MTIw.Q5TvUB97uXRmaucM9z6-2I0kgCrJoQBZ-D5YfUHg_bIg.fZPe1Yx25B_MH-RGoRxTOIkpSFAXRjTBxtMwy5Cj0dAg.JPEG/e91a6c49-37c2-4c7e-b64b-1763549a5a50-1_all_7122.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTdfMjQ3/MDAxNzYwNjM0ODQ4NzMw.GiASoErzceqm0qhPz5L8P0FxNcZvV-I6KRpd-kw2ghIg.66k00xiqY2ZQkCxkt-7Xje6qydwdAexFyhmYxkRNhEUg.JPEG/9AAC22B1-AA31-450E-9D9D-ADC8DE36078A.jpeg",
+          "https://ldb-phinf.pstatic.net/20250120_123/1737347447448jeyoH_JPEG/IMG_1637.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDhfMjYw/MDAxNzQ2NjMyMzkwNTI1.EjCHUjWv_fN4JVax-HTbs_Lo3hDJ7fUoBBiwp0SdxFUg.VcCzQgdrHbEOcxdx4OQcUd_tcceMXJ6kG07IYLzSsPwg.JPEG/0A43163B-E1BF-4B33-A30D-6C8952D0F89A.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjNfMjUw/MDAxNzU1OTUzNjAxOTkx.2Moj8IplaS2TReNvvTl47DIdNk53CaM7rln8QeeX-t8g.EgMU9pk2acRdlT2wU4YwTaSeLmItWQafR2AhWtDR8Fkg.JPEG/DF1A1C98-37DD-431B-86CA-F0F2728385FC.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjRfMTI3/MDAxNzQ4MDkyMDU2NTQ0.lokX59qzPo3Q6MWbk-cEln648uurnxIpg-LVC_Oudqsg.6pyeslIfIofrK0g2i4IJ2aAFy4l9DdnscJe5J2s4dtsg.JPEG/205B4C19-2C53-4FD5-8154-0C2D295B5117.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTNfMjkz/MDAxNzQ5Nzc0MzM5MjM1.8hH49wi_P44sXrTMM3wzfkwQMiosBowiF0z7_yh5Slog.mK2Vd6s7BPbnfaHH6rwcg2QDrf8bhnHt_2T0cXrAE08g.JPEG/77FDF639-C234-488E-B008-F8E8B8830F91.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MDdfMjU4/MDAxNzQ0MDMzMjgyODI3.7jr69-JjHf2ANpEx-in4s5suoer9sIas3Gj-zMp0X8Ig.mEB5EAncip2ABcbWI-ML5wT56aITkfiuKIi50gERHLIg.JPEG/892D04AF-D3C2-4134-8E66-E4B9738BDADF.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjlfMTM2/MDAxNzU2NDUyODAzNjc1.BZ_plfVSBhpl6KWqz8y6HhqxtCTzSVb16h6jkLVGv9sg.XKKVKxOH3SN1M0C6Fu4pU43fxnTw8Bo_m-n-s2jK0dQg.JPEG/1000035865.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjFfMTAy/MDAxNzU1NzQ3OTgwNDE5.o-ld718w-08gkUsTYsE5OZtvvWEzcFSMW8GbN4Vw0N4g.fXiMMt56EH4A5gZPl8rpzIgLWjDTB9N3nW9wbWMXRVcg.JPEG/DD5C5E4B-82DB-43ED-AE05-F8D98A5E0B93.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221212",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "11877842",
+        "name": "옥돌집",
+        "x": "126.9885732",
+        "y": "37.562128",
+        "distance": 0.041,
+        "categoryName": "돼지고기구이",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220765",
+            "221458"
+          ]
+        ],
+        "category": [
+          "한식",
+          "돼지고기구이"
+        ],
+        "reviewCount": 13,
+        "averagePrice": 15000,
+        "address": "서울특별시 중구 명동2가 12-1",
+        "roadAddress": "",
+        "abbrAddress": null,
+        "shortAddress": null,
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "1등급 한우와 맛있는 삼겹살 직접 드시면 알 수 있습니다. 고기상에 반찬만 무려 10가지 품질 좋은 고기와 정성들인 음식을 맛보실 수 있습니다. 명동에서 130석의 단체 회식 할 수 있는 장소 예 ",
+        "description": "1등급 한우와 맛있는 삼겹살 직접 드시면 알 수 있습니다. 고기상에 반찬만 무려 10가지 품질 좋은 고기와 정성들인 음식을 맛보실 수 있습니다. 명동에서 130석의 단체 회식 할 수 있는 장소 예 ",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20150831_286/1440991763955QzqNM_JPEG/11877842_0.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221458",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 3,
+        "id": "1606362950",
+        "name": "우물집 명동점",
+        "x": "126.9886246",
+        "y": "37.562078",
+        "distance": 0.044,
+        "categoryName": "찌개,전골",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220065",
+            "220658"
+          ]
+        ],
+        "category": [
+          "한식",
+          "찌개,전골"
+        ],
+        "reviewCount": 260,
+        "averagePrice": 30000,
+        "address": "서울특별시 중구 충무로2가 12-2 1층, 2층",
+        "roadAddress": "서울특별시 중구 삼일대로 307",
+        "abbrAddress": "충무로2가 12-2 1층, 2층",
+        "shortAddress": [
+          "서울 중구",
+          "삼일대로 307"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [
+          "입맛을 사로잡는 솥밥과 전골의 조화"
+        ],
+        "cardDescription": "입맛을 사로잡는 솥밥과 전골의 조화",
+        "description": "글로우서울이 만든 프라이빗한 공간에서 고즈넉한 풍경과 함께 즐기는 전골/솥밥 요리 전문점  참다랑어를 우린 맑은 국물에 신선한 채소, 프리미엄 한우 차돌박이를 넣어 끓여먹는 전골과 솥 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTdfODIg/MDAxNzUwMTY1NDA3MjY2.KTPGLoFpUAngQ93gbw27fCm9-CaKvPGjy2yRA3vS12gg.GvZc84orI6Eca7alIj6I62rVqEtTwkk62NYpS7tG_vYg.JPEG/F601CE46-2588-4005-B3BE-247524B82FBC.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTNfMTMx/MDAxNzU1MDc4MjMyMDgw.wCVcsIyRpgostFLk7fPtLOmuiYDtTKVrTzBAYuMah7Eg.IIKoXoZmSYsIadG8fuy9svuOvoi9SAZMxNOq5iQnuvcg.JPEG/20250813_140902.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240207_33/17072975307483fO1F_JPEG/DSC04883.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTRfMzIg/MDAxNzQ0NjAzNjg4Mzcw.BBQ3l18XH-avr34KR2H0UvBl7l08OKrCoCj9ctefI_sg.EU5HfckPbJT1e84VzBr6gHJm9zpsBXRPFNzG_ywhhNwg.JPEG/43AF931F-0A25-49CB-BA83-0774826CE3FE.jpeg",
+          "https://ldb-phinf.pstatic.net/20240207_119/17072975319128WbCH_JPEG/KJH06361.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MzFfMTIw/MDAxNzU2NjM3MjQzMDg4.ctVYfAVv279UDM4tfdS1x7SHoARnHngrbF0FWHGVXQQg.C9kLSjomZ2bQRxiRRgI6s-jwOV-ZAJ-m_QoKHWOXexsg.JPEG/re_edited.jpg",
+          "https://ldb-phinf.pstatic.net/20240207_137/1707297530896n9iVN_JPEG/1115_%B1%B8%C0%C7_%BF%EC%B9%B0%C1%FD_%BF%AC%C3%E2-11.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjdfMzAg/MDAxNzU4OTc0MzAzNTA5.5JvLgzLZQM7WQhsHE-TJ3s9iL63CbrithWK5DhNJ1nsg.kb8w0rtDvtA9B4jPy6_-iDJgBlfh4OlA5m9x1bKCY2Mg.JPEG/20250927_201540.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjNfMzcg/MDAxNzQ3OTczMzc2NjI1.B9dEfCwdr_3xxDwEJchxF3gHXNomdI2xp33eSLrX40Eg.0OGjh4GHkiQIa-tu-12j6aSvwZvFUaEKLQkyrjbjbB0g.JPEG/20250523_120013.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDVfMjkg/MDAxNzU3MDUwMjE4NDY4.LEiJuTo-btolMNfS7s7uU55gqEsnmbpvqjUcG-rU748g.jRjo5y-TRzFEmnF4oHS2Qe5fR_28Uwz9TpGHMeufHIcg.JPEG/IMG_0753.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220658",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1606362950",
+            "bodySummary": "명동 성당 근처에 새로 생긴 식당. 우물집 명동점 명동역 10번출구에서 3분정도 거리에 위치해있다. 점심시간에 가끔씩 명동 한 바퀴 크게 돌 때 지나가던 곳 인데 언제 이런 식당이",
+            "url": "https://m.blog.naver.com/msapplee/223399398372",
+            "nick": "쏘이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAzMjVfMTk0/MDAxNjQ4MjE1NTYxNDA5.5Ojtm_XnMjGGC9cN96uZjsiOx5GGfgjLuMO0j43aIBMg.yq-dwj8AGGWmmFW6L3nzT7xnXqbLnNNMwP16OcxIzmog.JPEG.msapplee/profileImage.jpg"
+          },
+          {
+            "sid": "1606362950",
+            "bodySummary": "명동에 분위기좋은 밥집 명동역에서 가까움~ 길거리에서 딱 눈에 띈다 음식사진 맛있게 생김 우리자리 분위기 있쟈나~ 예약하면 2층자리를 주나봄 하지만 막힌 룸은 아니고 개방된 룸 진",
+            "url": "https://m.blog.naver.com/sj99670572/223389179722",
+            "nick": "쑤지니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTAzMjFfMjky/MDAxNTUzMTcyOTYyMzE5.nPluWYOu3yFBo6W0GmP4AGXGZs-un_eotTeNf83nZ3Ig.zr7Cll5Pa7zSPATgYjXMvE1ljlAIaBEiIjKJ99tLFdgg.JPEG.sj99670572/DSC01718.JPG"
+          },
+          {
+            "sid": "1606362950",
+            "bodySummary": "차돌삼합과 전골을 파는 우물집 명동점! 명동역 10번출구 도보 3분정도 거리 일본 료칸이 생각나는 그런 느낌이었다! 분위기 너무 좋음 메뉴! 삼합 대자와 야채전골+고사리솥밥을 시켜",
+            "url": "https://m.blog.naver.com/yummy_all/223384661810",
+            "nick": "냠냠냐",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA2MzBfMjQ2/MDAxNjg4MTMwMjA3NDky.1xvYb_wCAudXznt58NOor4MSRMOjXWRtzTroAdSPbSsg.cF9XytuqmMYU9bW1d75Klic1Y86NEq1Vy-YNOjb3z-wg.JPEG.gpwns2758/profileImage.jpg"
+          },
+          {
+            "sid": "1606362950",
+            "bodySummary": "주말에 건강한 한끼로 밥먹으러 #캐치테이블 예약하고 방문한 #중구 #퓨전한식집 #우물집 #명동 가게주차가 불가능해서 신세계백화점에 주차하고 15분간 걸어감. 우물집은 체인같은데, ",
+            "url": "https://m.blog.naver.com/book-library/223380581209",
+            "nick": "시니주",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA5MzBfMTE4/MDAxNjk2MDA2NzM1NTc5.xmATcV-82uHDSeajOUqtdfV_8joF0FI9DGnXA_BMZzIg.Nf69Z8LwUlY4rEB1bHe5xPCs8yIM42hC8T-xKL-HzB4g.PNG.book-library/profileImage.png"
+          },
+          {
+            "sid": "1606362950",
+            "bodySummary": "위치 인스타그램 우물집이 하트시그널4에서 민규이수가 데이트했던 장소로 유명해서 꼭 가보고 싶었는데 명동에 생겼다해서 바로 가봤어요! 외부전경 우물집 명동점 외관입니다. 혼자 웅장해",
+            "url": "https://m.blog.naver.com/subinguuu/223360624066",
+            "nick": "행복한수빙구",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA3MjFfODQg/MDAxNjI2ODY1Mjk3MjM4.UIQRpXItcwwxDvQHTRvbJO_mldBHy5SGKm0C8iz9qe0g.X_MwAtn1NkkvS28d9YAeDqkqiAkKthtSQ2kXSHuXeKkg.PNG.subinguuu/profileImage.png"
+          }
+        ]
+      }
+    ]
+  }
+}

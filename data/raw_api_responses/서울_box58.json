@@ -1,0 +1,103 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 1,
+      "count": 1,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.98709258978992,
+          "minY": 37.559292792792796,
+          "maxX": 126.98822916351367,
+          "maxY": 37.5601936936937
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.9876608766518;37.55974324324325",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "779925346",
+        "name": "카페 포레스트",
+        "x": "126.9881259",
+        "y": "37.5599107",
+        "distance": 0.045,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221212"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 185,
+        "averagePrice": 19000,
+        "address": "서울특별시 중구 남산동3가 32-2 4호선 명동역1번출구180m",
+        "roadAddress": "서울특별시 중구 소파로 145",
+        "abbrAddress": "남산동3가 32-2 4호선 명동역1번출구180m",
+        "shortAddress": [
+          "서울 중구",
+          "소파로 145"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [
+          "착한 가격에 즐기는 편안한 카페"
+        ],
+        "cardDescription": "착한 가격에 즐기는 편안한 카페",
+        "description": "안녕하세요 대한적십자사카페 카페 포레스트입니다!",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjZfMTU4/MDAxNzU4ODcxOTk3NDY5.4m9rq8s0CIvIv3MW64VJnsgok4pdlTbFsz45T0IrrhAg.gSWAP79f-KZPCzASfrcRzg2_oEHBxtK7oIXN0VqBiFsg.JPEG/20250926_112340.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDFfMTc4/MDAxNzUxMzUwNTc5NzE3.Ds6ESJMLegTMNyVuWZDCjOJoCQKLlOxzRGy0PkoVxbsg.Q2rkjBn5BZKb4GzhaglIlN070D5Jz1Im4mJYUOKYFSMg.JPEG/20250701_113825.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240813_236/1723527432792ul70N_JPEG/IMG_6687.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTVfOTkg/MDAxNzUyNTc1ODM4ODYz.WeMS0M9UGS00alE5czp9DLuPoK23hD9J2hLJh3v3pS4g.mzKwnkTZJ7hNqekU0IkF1JpSIrOHGZq85FFKpOdvJu0g.JPEG/20250715_114032.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20241117_101/1731815347784lLg7v_JPEG/IMG_6608.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTRfOTIg/MDAxNzUyNDcyMDUzMjQ5.WVMcbqDLiLGbo_P93OOqVLnw3ZXTdTm279zI9K5ZwYQg.ZutYnRzHas7qj9Thu8C3WKEfOS4wQQBaQ-HjeQ0c3Bgg.JPEG/E9F2B846-815B-4C15-863F-126969C1A709.jpeg",
+          "https://ldb-phinf.pstatic.net/20240813_105/1723527432652MYAUw_JPEG/IMG_6705.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjZfMjI4/MDAxNzU4ODU2NDg0NDIw.8z299Sqf8vfvxjL5xqth66dZC0MH38IqYBGbADEA02gg.sYcuOQfIhu9t0ORUpVRatz-PldNXGwIcVJgn0o4oBKwg.JPEG/20250926_121402.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221212",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.32",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,1137 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 17,
+      "count": 17,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.97686342627625,
+          "minY": 37.57190540540541,
+          "maxX": 126.978,
+          "maxY": 37.57280630630631
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.97743171313812;37.57235585585586",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "2037548060",
+        "name": "오츠커피 광화문",
+        "x": "126.9778819",
+        "y": "37.5721535",
+        "distance": 0.046,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 182,
+        "averagePrice": 5000,
+        "address": "서울특별시 종로구 세종로 100 2층 213-2호",
+        "roadAddress": "서울특별시 종로구 세종대로 178",
+        "abbrAddress": "세종로 100 2층 213-2호",
+        "shortAddress": [
+          "서울 종로구",
+          "세종대로 178"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "안녕하세요 오츠커피 광화문점입니다",
+        "description": "안녕하세요 오츠커피 광화문점입니다",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTBfMTMy/MDAxNzU3NDc2NjY3MjQ3.u4nBAJ_N6Xtfs8zxyvbugpK61zAsgQYOQEcTJI0y2yAg.RR6B_-WKBIu9Vr-gFE51oxtXpBesRGfaZ6foxhy5G6Ug.JPEG/20250909_100836.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjNfODAg/MDAxNzYxMTkwNTQwMTE4.FOtxvzl70k8JLnSLZ7agPzQHyUdGWjMG6pO-JTk_dJwg.PVWF2sLMu0swmzbBV2iEIJcQfcKgMSEBpWf56hUGM6Ag.JPEG/90C9F9D9-7E21-4057-B90D-BB3E2423AEC8.jpeg",
+          "https://ldb-phinf.pstatic.net/20250824_62/1756005771835jwRjI_JPEG/IMG_4044.JPG",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDFfMjky/MDAxNzU2NzIzMjI2MjU1.75pujRkisflZi069vOfo3cdqsc5MyQgVSNywQ1-THHwg.7nrFGBhhwrXi1Vau2ECLAadFXvLhvsbjxzcTHAdgM-Ag.JPEG/1D11B908-6779-436D-8620-F2B9029C90F2.jpeg",
+          "https://ldb-phinf.pstatic.net/20250824_275/1756005758793Qs7dS_JPEG/IMG_4094.JPG",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTZfMTYg/MDAxNzU4MDIzMzM0ODUz.jIi8zcam8DxfNFs_t_uu4WYodoNYHLHgZTzdmu-qhRMg.Ph7ddhKy_lrlBo65PklxFGwVPhzVzOpSz9hXRbSaN8Qg.JPEG/19F3B890-F794-4A34-9790-B659F220D6FB.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MzFfMTM2/MDAxNzU2NjM4NDI5MDYy.2ACdBFMwizpFmAAZjxU8CQEa7qD0MMkXiHxy-f0-QBYg.9BofMzh_o4o4wfYvhZq8LzpkQqHBkPKu5Y_KrczcqV4g.JPEG/708D11C9-DD5B-421F-8553-235466C404D7.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjJfNjYg/MDAxNzU4NTI4MzU3ODA3.u6k5ju2377_eyp4zP3y3H45xaqz6kS3NWQWT_pxiVGsg.uHYIpdMCgYxY5rBV4MmN-gDqAUhtMvpExGNjNXxo4Wsg.JPEG/06F37752-40E5-46D3-8652-E49B13884C41.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDVfMjM3/MDAxNzU5NjY1NzQ2NTYy.fkIVdn0QSIniGWykLa_JcnyyLDDQBQ0vzFiqxVVJ9SUg.fIZL7CESpStSTTfn0Ss3l2DzgPCNjGSTjrO-OIjEujQg.JPEG/D4084A97-1FDB-4745-AE6B-766125506884.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDFfMjQx/MDAxNzU2NzA1MjM2NTE5.KfFt2aJ0lu5OcirZnilEJJ-PA9VqYmPKXFH1LX1GCfEg.5YkNOyYcYXur_JIHJTGT5Ff1h51_ZS0TmR0nM5_3RMwg.JPEG/20250829_141449.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "2001202930",
+        "name": "TWG Tea 광화문점",
+        "x": "126.9778819",
+        "y": "37.5721535",
+        "distance": 0.046,
+        "categoryName": "홍차전문점",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220581"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "홍차전문점"
+        ],
+        "reviewCount": 62,
+        "averagePrice": 30000,
+        "address": "서울특별시 종로구 세종로 100 KT 광화문 빌딩 West 1층",
+        "roadAddress": "서울특별시 종로구 세종대로 178",
+        "abbrAddress": "세종로 100 KT 광화문 빌딩 West 1층",
+        "shortAddress": [
+          "서울 종로구",
+          "세종대로 178"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "TWG Tea Boutique&Salon 광화문점입니다. 150여 종의 다양한 티 메뉴와 함께 TWG Tea 차를 주입하여 만든 브런치 메뉴와 디저트를 제공하며, 선물용 티 패키지, 액세서리 등을 판매하고 있습니다.  TWG Tea B",
+        "description": "TWG Tea Boutique&Salon 광화문점입니다. 150여 종의 다양한 티 메뉴와 함께 TWG Tea 차를 주입하여 만든 브런치 메뉴와 디저트를 제공하며, 선물용 티 패키지, 액세서리 등을 판매하고 있습니다.  TWG Tea B",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTVfMTg1/MDAxNzU3OTMyMzY3MTk1.sxRQ0FdTMEwrcXJyDOGKX-dAE5_a3mR5DnQpaBElJoQg.hPKCrwZLsxETv_VYO6Jt3KXuM-3ognGCue-KVfeyaCog.JPEG/CB1E4F55-BC31-46F3-B9CE-973815AC4DBF.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDRfMTA4/MDAxNzU5NTE2NDU0NTky.ltDDyAHi3ogBsaWxU2RfyntboZcT7oSg2sFDxV75NWUg.IuiS_vEWfVZgSVbr7tSMkPRyP3inxvatKhNb5JmJO-gg.JPEG/EDEB6BA1-5E65-4B20-9FC1-B0013D61CDB5.jpeg",
+          "https://ldb-phinf.pstatic.net/20251013_151/1760316728687MHcww_JPEG/%B1%A4%C8%AD%B9%AE4.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTZfMTQ3/MDAxNzYwNTkxMDA2MzM1.ylMOwSDbamRdMYLbxn4CIyiNBQtBwrM56927gFd1X-sg.zL9Y_6WoKN6VgFsDmzULc2-opg5IavbcsdaWiYB2lpwg.JPEG/20251016_104900.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20251013_114/17603167223382O41O_JPEG/%B1%A4%C8%AD%B9%AE6.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjBfMTYy/MDAxNzU4Mzc0MTY0MTA3.g8msPw0itpTsqOx0DfCKpRA2MY-OdvyIkHHw9E0HKNgg.AtBIeF2txHt-F7rtJ5i6xnRBBLgQSvNBqreb_hZmBSEg.JPEG/6F06BE59-E1A8-426D-A971-6E962C456D20.jpeg",
+          "https://ldb-phinf.pstatic.net/20251013_210/17603167173100THzX_JPEG/%B1%A4%C8%AD%B9%AE5.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjJfMTI2/MDAxNzU4NTMxMzU1ODcz.vNofEe0Ibv02D66zc6t4DBZaNPc0xKFL9IbF1Zpuj28g.-CryBHO1_-IfqacAOsihzJCSKsX8buNHjuCTnG93reEg.JPEG/1000039263.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjhfMTUz/MDAxNzU5MDQ4NzkwNDgx.TeQA_OGzJ9oBYGNcG4M97idNqDUfnbfamoyekSDCnD0g.8-hShaj4FwLjaBRzHzvKXyOlwzJC0gavsHOeW6JrWB4g.JPEG/20250916_105000.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTBfMTU1/MDAxNzYwMTAyNDcwNjc0.WOiLmOZTaRCu1EktJu8zUN5GKAtrJ799HwlAtao-uqQg.ZZCd4nismMOl5wdLPWS0GBq1ryqMGy8aiHnGvCb6fy8g.JPEG/1000032847.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220581",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 3,
+        "id": "2060585090",
+        "name": "파이프그라운드 광화문점",
+        "x": "126.9778819",
+        "y": "37.5721535",
+        "distance": 0.046,
+        "categoryName": "양식",
+        "categoryPath": [
+          [
+            "220036",
+            "220044",
+            "220126"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "양식"
+        ],
+        "reviewCount": 453,
+        "averagePrice": 21000,
+        "address": "서울특별시 종로구 세종로 100 지하1층",
+        "roadAddress": "서울특별시 종로구 세종대로 178",
+        "abbrAddress": "세종로 100 지하1층",
+        "shortAddress": [
+          "서울 종로구",
+          "세종대로 178"
+        ],
+        "displayContext": [],
+        "labelTheme": "양식",
+        "microReviews": [],
+        "cardDescription": "파이프그라운드가 '광화문'에 상륙했다!!  옥수수 피자로 유명한 피자 파스타 맛집인 파이프그라운드 광화문점으로 여러분을 초대합니다.",
+        "description": "파이프그라운드가 '광화문'에 상륙했다!!  옥수수 피자로 유명한 피자 파스타 맛집인 파이프그라운드 광화문점으로 여러분을 초대합니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MzBfNTAg/MDAxNzU5MjI1OTczNjU1.XHE7IhEpA_3TG9vHO2Qb8eBkhxLGRatZyy2VkheZEG8g.5i2fs1MufCIffUu3tbfKtHvzfeMAEq_K4b4OUM3lnzwg.JPEG/1000254928.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDNfMjQy/MDAxNzU5NDYxMTYzNzE5.y2vyXSmas8A7yqH6ZEdNdsl5J4T-YlxcKrz6z7lVC3Eg.uhDijpBnkgJwQlAeHALLxbhkh2BnCt491ocuQ7Sg5yQg.JPEG/D89D50E8-8619-4397-B1ED-377DC9EE61A8.jpeg",
+          "https://ldb-phinf.pstatic.net/20250822_183/1755825479073lLR8s_JPEG/KakaoTalk_20250423_145650147_04.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjRfODQg/MDAxNzYxMjc5ODc0MjQ0.cuPYl5MN8WHd9RnhEeSxawQZKgi1CDFgU2IPoqJudeEg.Ph0zeY83-xhot7sGWx66Lyx0JtEfFGcvFvHP8RCAi8Yg.JPEG/8C27054E-37DF-48A3-A62B-41FB0EA95A30.jpeg",
+          "https://ldb-phinf.pstatic.net/20250822_289/1755825479091pSRgc_JPEG/KakaoTalk_20250423_145650147_01.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTRfMTM5/MDAxNzU3ODQ2MzcxMzk1.u-0rfr0dq3xdAGJYrn7Fsw8WkkcLMnrXL9QHn2FU3tMg.bzTofQ0jhs57v_E1x6aCVkd3l68uxM7kVMyILn7oD6Yg.JPEG/7A25EDEB-B848-43A7-83ED-6E41FED0885D.jpeg",
+          "https://ldb-phinf.pstatic.net/20250822_259/1755825479067aarp2_JPEG/KakaoTalk_20250423_145650147_05.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjVfMjU3/MDAxNzYxMzY5MjM1NTc1.I3lCTqtVy3IwO2k0FcQq9k4jtppmERx_f3UYJ8FsPawg.emhFIV0N_ZCNPH8DWRBYJ8uByiSMGrajc7VNDdNooNIg.JPEG/6BAD37AE-421A-44A7-A778-1AF742863DF2.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDNfNDkg/MDAxNzU5NDU3MDA1MDY2.5DiyklfZ0bO3M909lnOutVSYQWc2JuSSF6xJddxbf2Eg.zf5UVI2lHgGpS0tMVtDUZgUmus2wxZodpGe_Y36fc6kg.JPEG/1000038736.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDlfMTYg/MDAxNzU3NDEwNTU4MjEy.j7U3q1miVBmDes9uqtLeGSr7jI0K4nEaQx187zdM7BMg.oPzv1K5t_JJC8c-pOJn61oJdhF3W6zLxkmRON2fGwT4g.JPEG/20250909_183205.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220126",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 4,
+        "id": "2053916299",
+        "name": "루드베키아",
+        "x": "126.9778819",
+        "y": "37.5721535",
+        "distance": 0.046,
+        "categoryName": "브런치",
+        "categoryPath": [
+          [
+            "220036",
+            "220044",
+            "220133",
+            "220932"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "브런치"
+        ],
+        "reviewCount": 81,
+        "averagePrice": 20000,
+        "address": "서울특별시 종로구 세종로 100 1층 별관 (KT 광화문빌딩 West)",
+        "roadAddress": "서울특별시 종로구 세종대로 178",
+        "abbrAddress": "세종로 100 1층 별관 (KT 광화문빌딩 West)",
+        "shortAddress": [
+          "서울 종로구",
+          "세종대로 178"
+        ],
+        "displayContext": [],
+        "labelTheme": "최근 오픈한",
+        "microReviews": [],
+        "cardDescription": "좋은 재료만을 고집하며 담백하고 정직한 맛을 전하는 브런치 카페, 루드베키아 입니다.  아침부터 저녁까지, 정성 가득한 커피와 든든한 브런치, 달콤한 디저트를 즐기실 수 있습니다.  소박하",
+        "description": "좋은 재료만을 고집하며 담백하고 정직한 맛을 전하는 브런치 카페, 루드베키아 입니다.  아침부터 저녁까지, 정성 가득한 커피와 든든한 브런치, 달콤한 디저트를 즐기실 수 있습니다.  소박하",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjRfMjUg/MDAxNzU4NjY5NTc1Mzgw.vpT3CEruFKcp8oNmwqHQP_Xdx94Puj-d6czy2DJwZdMg.AGWIWq__aJNAJmMeJe3HE9qM_RzCk1hh1asVYBCxjM0g.JPEG/4838A8C0-AE5C-41C2-AAB3-6A3DE4DB7F16.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjhfMTQx/MDAxNzU2MzY5OTkwMjE2.PshXfZ1t53Q5QLx9VXdx2PD18O0qReB9aiCSM_-8PYQg.uSZVceu4BX1P-d-Fkr5nGjtQwYwHButN8aUI9zB7k54g.JPEG/C5554B45-6555-44D4-A91C-DF2EC28AA764.jpeg",
+          "https://ldb-phinf.pstatic.net/20250901_150/1756721626252IlwWU_JPEG/LEJ09007.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDlfMTEg/MDAxNzU3Mzg0ODE1MTA3.dkfltcP8w5fD8lWPtBs7WBStD0_JELmG-1mSUI3zP8wg.nL3QZRX2ichC86VTK8QCR2W5ASaDC5d1X56aeY2iHNQg.JPEG/1BD474D5-7E66-4D47-97AC-B7F91D6361A8.jpeg",
+          "https://ldb-phinf.pstatic.net/20250901_36/175672158942739lxI_JPEG/LEJ09066.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDNfNzMg/MDAxNzU2ODY2Njg1NzQw.v7PvSonaf6CZv4csxRqxuyLXK4YW8vUTL7VNqeea3m0g.L66dlCPjOCvuB4dLYXwt7IG6KsxN5M0hZr6b5AUz36og.JPEG/A859FEBC-043C-40DE-8FAB-170B53CB1E7B.jpeg",
+          "https://ldb-phinf.pstatic.net/20250901_289/1756721602236EghX4_JPEG/LEJ08953.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTRfMjUy/MDAxNzU3ODE5ODA4NjI5.isihhTdJ8kvO3dNbM-xzZI6_qVx7zAQsSmdXLmHhpHsg.vi-lmJMSWNmA4Zs78XLjSSjQlWq99u_qzXsxANsstqUg.JPEG/20250914_105501.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTZfOTkg/MDAxNzU3OTUxMTQwNDQy.kTySLaBPjZWGlbGjcpeHCUTz8kwpXhBTDl5kFtojT-8g.IO97s2blWT-vC5fpTuat9IUA7DcN1gdhkBruYrW-dZkg.JPEG/14837731-7CE5-4ABB-A0E0-EE679424DE4F.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjJfMTg1/MDAxNzYxMTMyNjI5NTQy.DA7hrPeqA6bQ4ah6elhT1wnyUaX8CU-saWjcGRxPN8gg.xdJ-SsetOI-egmuj02Y1vazQS-I43-Nuq1YUPQ0J9Fcg.JPEG/20251022_171033.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220932",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 5,
+        "id": "2016802786",
+        "name": "오리지널팬케이크하우스 다이너 광화문점 (광화문 2호점)",
+        "x": "126.9778819",
+        "y": "37.5721535",
+        "distance": 0.046,
+        "categoryName": "양식",
+        "categoryPath": [
+          [
+            "220036",
+            "220044",
+            "1005465"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "양식"
+        ],
+        "reviewCount": 54,
+        "averagePrice": 20000,
+        "address": "서울특별시 종로구 세종로 100",
+        "roadAddress": "서울특별시 종로구 세종대로 178",
+        "abbrAddress": "세종로 100",
+        "shortAddress": [
+          "서울 종로구",
+          "세종대로 178"
+        ],
+        "displayContext": [],
+        "labelTheme": "양식",
+        "microReviews": [],
+        "cardDescription": "안녕하세요! 오리지널팬케이크하우스 입니다.  1953년 미국 오레곤주 포틀랜드에서 문을 연 정통 미국식 팬케이크 전문점의 한국 분점입니다.  전통방식 그대로 170시간을 숙성시킨 버터밀크 팬 ",
+        "description": "안녕하세요! 오리지널팬케이크하우스 입니다.  1953년 미국 오레곤주 포틀랜드에서 문을 연 정통 미국식 팬케이크 전문점의 한국 분점입니다.  전통방식 그대로 170시간을 숙성시킨 버터밀크 팬 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjhfMjEz/MDAxNzU2MzYxNDUyNjY3.IjpnUfNb-m_xfhGAHANth1Bkssvh-hTsQIc98se_mM0g.NQBxSRTH4Vt_AuOMwmKkeqtjisjFpzl_VB9XJp0IxgMg.JPEG/FCE0E539-82C5-4FFE-B7BE-1D2343A78F4A.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDhfNTAg/MDAxNzU5OTI1MDc1MTE1.gG1sFqJDdoRiUqk5LUFaO1vDIGTTMV089DAOReL8ZmUg.HdbHo0gmYJ7Dd7uAuxKw9s98Su4B0woHkgu4gGbxtW4g.JPEG/20251007_123348.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250827_195/1756261685556oU5Y6_JPEG/%B4%D9%C0%CC%B3%CA.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTBfMTE5/MDAxNzYwMDkzMjIxMTI5.jZqbRVS2_TGg_HHryQShEKA7H9Rhzm4qqhnEd19XXY0g.qpfKJ72T_EnArMkrm0nwGX7P5x5Z7huHkVSNxSIe1Kkg.JPEG/99A60800-57DA-4040-8604-31F44F91974A.jpeg",
+          "https://ldb-phinf.pstatic.net/20250927_174/1758928902275M4bfV_JPEG/%B1%A4%C8%AD%B9%AE%C1%A1_%C1%D6%C2%F7%C0%CC%BF%EB%BE%C8%B3%BB.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDdfNTEg/MDAxNzU5ODA3MDI5NzY4.IcUfyH1qSrELQKGPIjD0viimudxL1k1HBhANlYvjYMQg.tyBQ5IL5S0TNu8VxcOoiucerRcvnRwVKQNPJ8ZXM5AMg.JPEG/E80BAF74-92EF-4861-9F67-7893689CD7D0.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjNfMTkz/MDAxNzU4NjE1MDA1ODA4.z3HvhclxLG4keDZZ6aiuTHU1JFQOIuD84jvk_qNVl9wg.gsu7bgjnd8ZyUVIIwOH0n53Dh5Hy3_qmbn9L0qc8Pmcg.JPEG/20250918_184535.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjlfMjYz/MDAxNzU5MDc0Nzg5Mzg0.YU-N9b-gb1WFgyFqew_znRVWGe_iVDju4cQNLbrPCX4g.XKCafPbV-FZs92YoQnx4Jd-ZDVkX9vAR29yjv9in6P8g.JPEG/B547F651-66D1-44BD-9CC7-AB353977EC94.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTJfMTU5/MDAxNzYwMjQ0Nzc4NDg4.uSgkj8lPFmRJehaOGniexh4d9kD8gwAvConZvueaEhAg.INe-2BhQ4WT_l_k1-5r9m59bEOaJgT2--WT85rN3ITcg.JPEG/DFDFD214-2C6C-4F8A-971C-8C3078A65375.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDhfMjE4/MDAxNzU5OTAxNDM4OTU1.mUr0Ae4-BCauoklBtrTtuqekWKPlPMDMp2XGV5QZDbwg.B78Gq1kGP_HiMceUKlt_4olyniVRh29RivyftS-WxG8g.JPEG/20251008_134434.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1005465",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 6,
+        "id": "2059369430",
+        "name": "타코챔피언 광화문",
+        "x": "126.9778186",
+        "y": "37.5719879",
+        "distance": 0.053,
+        "categoryName": "멕시코,남미음식",
+        "categoryPath": [
+          [
+            "220036",
+            "220044",
+            "220132",
+            "220930"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "멕시코,남미음식"
+        ],
+        "reviewCount": 39,
+        "averagePrice": 16000,
+        "address": "서울특별시 종로구 세종로 100 KT광화문빌딩 WEST 지층",
+        "roadAddress": "서울특별시 종로구 세종대로 178",
+        "abbrAddress": "세종로 100 KT광화문빌딩 WEST 지층",
+        "shortAddress": [
+          "서울 종로구",
+          "세종대로 178"
+        ],
+        "displayContext": [],
+        "labelTheme": "최근 오픈한",
+        "microReviews": [],
+        "cardDescription": "서울특별시 종로구 세종로 100 KT광화문빌딩 WEST 지층",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDFfMTI4/MDAxNzU2NzE2NTAzOTI2.SrCjLqRY0OC9LmE0jsRCYdu501caymMWNHPCQ5NlKaog.pemSCvat9hZBrOH029RT568Imsbi7u-OWS1s2vGYXsYg.JPEG/7A58C81A-80D9-4385-A4CF-537C30171B64.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTlfMTcw/MDAxNzYwODUzMTM0NDEw.p5ap9Kd1WeRneH7t__Cv2TRh8U56s9je5Ru9m8tQ6Msg.Wj1jZgIxoa6VXQ0OWSWRzqr6boX5vMVANHGEcxKSlvIg.JPEG/6D0C8F63-D11E-48D8-A55D-1FB386D410A2.jpeg",
+          "https://ldb-phinf.pstatic.net/20250825_139/1756097132971W9EoS_JPEG/%C5%B8%C4%DA%C3%A8%C7%C7%BE%F0_%B7%CE%B0%ED.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjJfMjMy/MDAxNzU4NTIzNDMzMDQ2.ooI2jkxp6KO6JxKcThjbDMYvCs1mbSeQAqOzfckc2PIg.rAVGEu0hlwFfybh7QtGmAL_jVq_ubwKd_jCqGPTS4ZUg.JPEG/20250922_120503.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250905_270/1757063217356wajE5_JPEG/%C5%B8%C4%DA%C3%A8%C7%C7%BE%F0_%B4%DC%C3%BC%BC%A6.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjFfMTY1/MDAxNzYxMDM2MDA3Mjky.eQvNe9r737mno4mWlROuiCg5yZ43NKnxm9Jj2T-XQQYg.10FbkvdLt3zf38ebqiyUGoB4x2hApZFAtDRJvprj1Jwg.JPEG/20251021_173536.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250903_246/17568666966031VCr9_JPEG/%C5%B8%C4%DA%C3%A8%C7%C7%BE%F0_%B8%C5%C0%E5%BB%E7%C1%F8.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjVfOSAg/MDAxNzYxMzE4Mzc5NTUx.igLX4M1c0cCsS_4SDTvB7hfdqIhTDuZQ76X9Ey9sazgg.wntI90JFB2LVmJxnU5h_dsZELkmNCxjQcDsOzTwsCFgg.JPEG/20251024_195402.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MThfMTIx/MDAxNzU4MTYxMjQ5MDI5.bbJJg4PDB7N4tALvpISBq1nu8k6r-cOrxgV3Ivr27mIg.FjCMM3vjl16MsfIbIHVyiJgRDAWQYdL_64CpI1mzBKog.JPEG/E931AB5E-993D-4AE0-83AE-C9C370B090FE.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDhfNiAg/MDAxNzU5ODc2NDAyOTUx.wMeGsNrlflpejrw_dkLvR0APapxA51H7Yi5-Z1-HVHcg.B9KuvyYRdpNVlg3bYv2iWlt_apTXX8TUUY9xo4fBEoYg.JPEG/20251007_115440.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220930",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 7,
+        "id": "1589255683",
+        "name": "스타벅스 리저브광화문점",
+        "x": "126.9778819",
+        "y": "37.5721535",
+        "distance": 0.046,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221275"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 221,
+        "averagePrice": 6000,
+        "address": "서울특별시 종로구 세종로 100",
+        "roadAddress": "서울특별시 종로구 세종대로 178",
+        "abbrAddress": "세종로 100",
+        "shortAddress": [
+          "서울 종로구",
+          "세종대로 178"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 종로구 세종로 100",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDlfNzEg/MDAxNzU3Mzg0NDA4Nzkw.SUNJpGd3N5gWKouJcWH4ZXwNTbf4DTl0rzRmYnFgbvwg.MzutJDFsReAbWnvuc2ogG3qM0Q1LdRBanl3l1JQE5qcg.JPEG/CD5DACC1-8F21-4752-96DC-E5D17842657F.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDlfMjcw/MDAxNzU5OTY3MjEyNDA4.3nIhDs8PmEidEUbmbrKm7MWhYwzHYHkKSJdnT8H07m0g.TD6DfMvVJY5NWj7_Ec4Whhld-hTcMUQscjAjFVGCz4og.JPEG/20251009_081723.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20190828_93/1566953601239OT9MQ_PNG/xX7Wv642gXMoTI0DAv0hRymS.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjdfMjcy/MDAxNzU4OTMyMDgzMzIw.fXd_bzHcvLED6U32owvDUquayAdPUqz8-hcWPjhk9oMg.d3coT2_e_8uKP5KoNNatNHIbhJyvWegO8XVITkdAp0Qg.JPEG/652FE47B-DBB5-4FC3-9398-2473C7B290E2.jpeg",
+          "https://naverbooking-phinf.pstatic.net/20250828_281/1756324131283ALVbO_JPEG/image.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjlfOTIg/MDAxNzU2NDU4MTQ0OTU3.Rd_1C1Fc5D0FTzYeDzyj0R4gZsHOJMOcB31CgS5B8Jcg.XOaBgzbhBQ-RFjAGOj5AUfacX3ewYFDH44g6oeCnABIg.JPEG/A260520E-AAED-4438-9AC5-0B138BE15D4C.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTJfMjEz/MDAxNzYwMjI1NjIxODE1.fXiaFmR5fKoX1cgTP4M8-cNoitt90eXaSZkWjmWMk5Yg.6Uw-BncJb1W5feExtNBYfXPtSCapfxaORxtpqKhXwCMg.JPEG/AFA714F5-E72A-4BE4-9A02-FEC6718AC640.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDNfMjgy/MDAxNzU5NDU0NTgxNTE0.JjJ9zKXyTcPCOZ89_Brofs8c2R9PszgPolAzHlJwgeUg.2JArHVe1AlDmpoxlfeoFgGSju88OyiJkGKhzrqYoAaYg.JPEG/1000100716.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDlfNDIg/MDAxNzU5OTcxNjgyODQ4.chVEkkEre_ayOHmhF_NAhyZFw5z9Rg5msFgnZ8tMuqsg.PiRR7Id23tRAEgjkJuwYuI2gqp9PwzGnOvOF3wk8q0Ig.JPEG/9BEE7A34-1E98-42B8-A208-0E70EFFABA24.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MzBfOTcg/MDAxNzU2NTY1ODUyNDE1.ZljqwDTc-ZhC6SlCbAw1AJKsWZ1uPvBdXc1m00UG0-0g.FfbYQX5-YxSfiSb1e2UqU9ifK_MbJ3-XSyT4ZlQgNwQg.JPEG/7DF1BBC5-9F39-4A3F-9E60-8B3130EC0340.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221275",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 8,
+        "id": "2050243379",
+        "name": "파리바게뜨 광화문1945점",
+        "x": "126.9778819",
+        "y": "37.5721535",
+        "distance": 0.046,
+        "categoryName": "베이커리",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220564",
+            "221176"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "베이커리"
+        ],
+        "reviewCount": 236,
+        "averagePrice": 15000,
+        "address": "서울특별시 종로구 세종로 100 1층 102호",
+        "roadAddress": "서울특별시 종로구 세종대로 178",
+        "abbrAddress": "세종로 100 1층 102호",
+        "shortAddress": [
+          "서울 종로구",
+          "세종대로 178"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "파리바게뜨 신컨셉 광화문 1945 파리바게뜨 색다른 제품 신선한 제품 여러가지 컨셉 다 있습니다~",
+        "description": "파리바게뜨 신컨셉 광화문 1945 파리바게뜨 색다른 제품 신선한 제품 여러가지 컨셉 다 있습니다~",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTFfMzYg/MDAxNzYwMTc2NTUwMjUx.Mm7Io5S733hA18TzOpNDacDKPBoxziKRgG4SU1oMZogg.LR9XG226Y282SqDPHXcpZk3XbQUVO-UV3YztvLUN35Ag.JPEG/20251007_141306.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDdfMTc2/MDAxNzU5ODI2MDg2ODYx.vMOJZaxG99D4CPVbt5wP6j-jMfIA4kT1b8_rKoc_nu0g.PshPlu20k4CF49ZmaBKGLlea0dCr6a6oD4TKQX7R7GYg.JPEG/05EC81BA-D3AA-4D58-9DB3-7BDC7A75409A.jpeg",
+          "https://ldb-phinf.pstatic.net/20250902_205/1756811563742xAmn9_JPEG/IMG_8286.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjlfMTA2/MDAxNzU2NDI3Njk1NjUz.0BrGHre5dGC-slpGRBbPNU0DgPRaEpEWdic2Y39pCUYg.1f4ppcKrLvzTub7bUVYfzeNLKlP_W92lHJvSfZMm3uYg.JPEG/20250828_114731.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250902_165/1756811563990JQkwf_JPEG/IMG_8287.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MzFfMTMz/MDAxNzU2NTY2MDkwOTc5.ofEtzpCe2-KqKnkKTe_V2_hp1xN5bolNw0yLSHijGQ4g.8ty1sI1sPT2uMJYlmGVTd24PagFfjq_VssvBrqDW4v8g.JPEG/5B6A095C-6224-4D55-999C-BB6F43148E21.jpeg",
+          "https://ldb-phinf.pstatic.net/20250902_71/1756811564014a4nef_JPEG/IMG_8247.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjRfNjMg/MDAxNzU4NjgwOTU1Njcx.HR7baPe5W4wZi4cXwTTs0mzrdOL50yc3__kWnR-nZ90g.-uyaYh847fDRFNn1AJ4yEpoibDYMjVsMZ6W-88fn2TMg.JPEG/1000024614.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjFfNjYg/MDAxNzYxMDEwODM2MjIx.9FhcnacOusogLwt0PpSDGo8BkhnQOk0ENjeG9m2xrpMg.bNtZea62MjPErcAzUJ8LFkY569lyuOZ2QXRuVQybyewg.JPEG/20251021_102509.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDdfMTE3/MDAxNzU5ODIwMzc5MTcx.BumgfE0uJhwmHaHqOs0oX1BGI16YVzGqhRdtosy4FkQg.UslTN1eH3_aTbuUhEDvtINpXpdZN9-yvpj7x0bJ_njsg.JPEG/20251004_091839%281%29.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221176",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 9,
+        "id": "1873581076",
+        "name": "스타벅스 KT광화문웨스트B1F점",
+        "x": "126.9778819",
+        "y": "37.5721535",
+        "distance": 0.046,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221275"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 25,
+        "averagePrice": 6000,
+        "address": "서울특별시 종로구 세종로 100",
+        "roadAddress": "서울특별시 종로구 세종대로 178",
+        "abbrAddress": "세종로 100",
+        "shortAddress": [
+          "서울 종로구",
+          "세종대로 178"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 종로구 세종로 100",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjhfMTg4/MDAxNzU2MzU1MTI2NzE2.LxNgVdiUHBQt34PNdjFK-alZ7L6hKdQjBbS1LO2hU2og.eiSOQvAY2IF8h68e_D6zrk8h5rg_vBXp7xxOYmbNqnkg.JPEG/20250827_111523.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjNfODEg/MDAxNzU4NjIzNDEyNDA4.OZSEWk16PxGdQCMcEs1zK6EfQyu6RcE7IMK6-dqFr38g.4BW8KiX9cGLCmD5uJKAitG9YOVyW85UXDKrEF1FKOuMg.JPEG/20250923_121434.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20190828_93/1566953601239OT9MQ_PNG/xX7Wv642gXMoTI0DAv0hRymS.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjZfOTgg/MDAxNzU4ODYyMzkwOTQ5.Xp9inKaHJvPT5xyu6gvN6XobjkXkBWgy7SF3YYwZqAUg.ykWZoQZjjhjBOUY872qK-dWk4UIFuQlFKUrKa-0KoR4g.JPEG/20250828_102022.jpg.jpg",
+          "https://naverbooking-phinf.pstatic.net/20250829_33/17564105751186HaWf_JPEG/image.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjFfMjA1/MDAxNzYxMDQ0OTQ3MzQ3.ksbedZnKijchVNDkBWPAMPijxtJ9QJ5xfFFaEUhhMTsg.AS67DfEz1qS2VXgtnLYsHjxZwJ39_kl30bxo83hSPKUg.JPEG/20251021_163156.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjZfMTAg/MDAxNzU4ODc1NzM3NTIz.w3YaTZAQ6HDABbwfqwpA0WsDZLJmxfj2aq9zdSxnYiEg.aseKEsmxR-cNaNCfU2Ua-UNv7pHhAWHyhnI7vZELVMEg.JPEG/1000254296.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MzBfMTcy/MDAxNzU2NTI3NDk0Mjk1.pk3NyJ6rJZRV8TxPLUzu6uZ-_PzAvhlFn-A2s_gblz4g.vZkBNXX3ohH8lF3VkLFlYujOgWh6t7r6GrK2AcbKpfMg.JPEG/20250830_131440.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTVfMjY4/MDAxNzU3ODY5MDk4Njk3.EmKXjug1f53bJY4ze1NZsIYHJ4jG_beiBMehEgwbJIUg.tUcFLg0X0UGkbzr0q5YPV7Y6xIYU6BoTKGO6m18W5qEg.JPEG/20250912_091706.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDJfMTgg/MDAxNzU5NDA2MjE0MTQw.Ry3jOUqoVMguoIA6bX8aMu3gA162rt89rjM3JEmAjf4g.ksobIUytZ-oqBZKxcWcKE5YFtm5Jd6pz0slDXAuYSJ8g.JPEG/20250920_091541.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221275",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 10,
+        "id": "1571325594",
+        "name": "스타트업 스퀘어카페",
+        "x": "126.9778819",
+        "y": "37.5721535",
+        "distance": 0.046,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 3,
+        "averagePrice": 0,
+        "address": "서울특별시 종로구 세종로 100",
+        "roadAddress": "서울특별시 종로구 세종대로 178",
+        "abbrAddress": "세종로 100",
+        "shortAddress": [
+          "서울 종로구",
+          "세종대로 178"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 종로구 세종로 100",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 11,
+        "id": "2019032824",
+        "name": "도우룸 광화문",
+        "x": "126.9778819",
+        "y": "37.5721535",
+        "distance": 0.046,
+        "categoryName": "양식",
+        "categoryPath": [
+          [
+            "220036",
+            "220044",
+            "220126"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "양식"
+        ],
+        "reviewCount": 60,
+        "averagePrice": 40000,
+        "address": "서울특별시 종로구 세종로 100 2층",
+        "roadAddress": "서울특별시 종로구 세종대로 178",
+        "abbrAddress": "세종로 100 2층",
+        "shortAddress": [
+          "서울 종로구",
+          "세종대로 178"
+        ],
+        "displayContext": [],
+        "labelTheme": "양식",
+        "microReviews": [],
+        "cardDescription": "2015년 오픈해 국내 생면파스타 붐을 일으킨 도우룸입니다.  도우룸은 미쉐린 2스타 [스와니예 이준 셰프]의 캐주얼 다이닝 브랜드로 생면파스타를 비롯한 수준 높은 이탈리안 요리들을 단품으 ",
+        "description": "2015년 오픈해 국내 생면파스타 붐을 일으킨 도우룸입니다.  도우룸은 미쉐린 2스타 [스와니예 이준 셰프]의 캐주얼 다이닝 브랜드로 생면파스타를 비롯한 수준 높은 이탈리안 요리들을 단품으 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTJfMTYx/MDAxNzU3NjYzOTQ3Njg0.HIG2fp8CcVDO7IkvD-1bELf_XzzXpWjroXC45YWztY8g.iOW2He4oE7afZ8qpsL8LvnCmEOhQWP17NyMCEeSGKfYg.JPEG/88FB907E-BD70-45D9-B4A7-0FE0F05E96D1.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTJfNjIg/MDAxNzU3NjQ5ODk2NzE4.2r3SjjEaU_25C_tVaQV-w_smUMNyLsFmJVRfr53ZLDgg.QZ7zSI6MXdxPExJ2XjxUrNQPTLK-hRmfLvDNklR5q6Ag.JPEG/BD356553-6E3E-4696-A1AD-36B82C3E5548.jpeg",
+          "https://ldb-phinf.pstatic.net/20250828_171/17563615433886qq9J_PNG/%B5%B5%BF%EC%B7%EB%B1%A4%C8%AD%B9%AE.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTdfMTkg/MDAxNzYwNzA1MzYwOTc3.mKkzecUEino8fPx_pyXvdpc_7Ig79yiVQkVANKWzqlUg.7RsUMUTxeeNO3u3cuRcjEz5itcFTXwNsHvqwDR63K00g.JPEG/FD3DB550-CE7C-4801-97B7-CBDA009F794B.jpeg",
+          "https://ldb-phinf.pstatic.net/20250919_111/17582534423610op83_JPEG/%BF%C0%C5%A910x8.JPG",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDhfMjcg/MDAxNzU3MzIyMDc1OTcx.ywwGZ_ZWGjtnDER313yNtLqfRi67vbs8jgyHaO4Kykgg.Wsx2NuFGHKplMoxnaEiFaBiPE2As8WIIPJgZKBYPU-Ag.JPEG/20250902_125211.jpg",
+          "https://ldb-phinf.pstatic.net/20250828_105/17563616234053FTWP_JPEG/%B8%D4%B9%B0.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDVfMjA2/MDAxNzU3MDc2OTE0ODEx._nn4RTn_Ue1ekBKE6sAzhvl6OJ5PSsLCTx56KYjv0Z4g.P96p0yFX7UweJJgFP5Jx3z_P8yvw6LtJsla9TlT6Pt8g.JPEG/7466697D-DA55-4B1E-B36C-0A2EA59D56FA.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjNfMTI3/MDAxNzU4NjIzODIyMzMz.kRqqHWIl3MLSn-1RkXAMvSwXE7cb3HtoYFepeabascAg._IsN9gtoQquriTtZk0gjeJnB7NtyL8JhtMRyGlG6Gkog.JPEG/20250923_111355.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjlfMTMx/MDAxNzU5MTAzOTAyNTY4.zAF1yOYUK-b3Lx-cYmbUkMWs8c_eFNpnrcaj6SenBT4g.K1Y0JgVLxdJ-k7ceHa6rT5mkBAUYet_rWrXGDPkC93Mg.JPEG/20250923_182123.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220126",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 12,
+        "id": "2040179619",
+        "name": "키보아츠아츠 광화문",
+        "x": "126.9778819",
+        "y": "37.5721535",
+        "distance": 0.046,
+        "categoryName": "일식",
+        "categoryPath": [
+          [
+            "220036",
+            "220038",
+            "220082",
+            "220812"
+          ]
+        ],
+        "category": [
+          "일식",
+          "돈가스"
+        ],
+        "reviewCount": 127,
+        "averagePrice": 15000,
+        "address": "서울특별시 종로구 세종로 100 KT광화문빌딩 West동 지하1층 B108-1호",
+        "roadAddress": "서울특별시 종로구 세종대로 178",
+        "abbrAddress": "세종로 100 KT광화문빌딩 West동 지하1층 B108-1호",
+        "shortAddress": [
+          "서울 종로구",
+          "세종대로 178"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [],
+        "cardDescription": "키보 아츠아츠는 매우 뜨거움, 또는 그러한 것 이라는 뜻을 가지고 있습니다. 도쿄 긴자 최초의 돈까스집에서 영감을 받은 로스카츠와 오므라이스를 중심으로 다양한 카츠와, 타파스 그리고 주",
+        "description": "키보 아츠아츠는 매우 뜨거움, 또는 그러한 것 이라는 뜻을 가지고 있습니다. 도쿄 긴자 최초의 돈까스집에서 영감을 받은 로스카츠와 오므라이스를 중심으로 다양한 카츠와, 타파스 그리고 주",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTlfMTUg/MDAxNzYwODYxNjc2MzY2.qV-xk4CHLKmEenzglzNHDV9x6ZJ38H-0QAz08WGZo4gg.r8t-USHo6CoJEePO31MwWBrMeW79ZGaY_8jgPMlmdG0g.JPEG/80BC1465-919F-4000-9691-811F525A1708.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjVfMTI1/MDAxNzYxMzg1NjUyNDky.fgx2PvgivdpNEMBuqmqXTV9Cr7ee7kgMb9vkAQDcl8sg.PvQcdcmhP0ezr1eqOCwUNo97ozmlrZqZ4cdotogC-SQg.JPEG/E3C519A9-7030-4EC1-AF90-9103F933A22C.jpeg",
+          "https://ldb-phinf.pstatic.net/20250905_118/1757059392873GBe4X_PNG/%B6%BC%BC%A61.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjBfMjY2/MDAxNzYwOTIxMDU3MjUy.iuySrUkArKKHbRNQWKyKy2vZ6Bj4PSfaCuCUKd2tfjMg.LZ7AvjRt029EUmJ1AwDB1jtUJeQ3WA8ND3JZV2rAf_gg.JPEG/4E61FAB2-0C37-49CD-B561-9E897B42ED81.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMThfMjg0/MDAxNzYwNzc4MzIwMjMx.6Ys7QvzDkDn2GywHqSB9mQmjYVahnMpGTdAUYG5H2y0g.M2uv9OhhA0f7CvDxG8DaG5ZGfjbb4Pipdh5GQvAAYE8g.JPEG/1000021077.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTlfMTQ2/MDAxNzYwODY4NDMxMjg2.3lqaEJwC_VOvomCgXDVRyWq4FN9Sx9Aa342P_5Gemkcg.X2o9wNBqXT7mmF2KVoynEQfmpcug43t3kIyozb5o4gAg.JPEG/image.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjVfMjgw/MDAxNzYxMzgyNTc1ODk5.unac2bMKzgxOO0d9i0v3P-cZE1PphIOZqmCRJQWTZWkg.Hz-E2AY0tD71uLL8EiI1aJrWD4Zk4nW5o9PrYzTnmQ8g.JPEG/7495970F-63B0-4700-8C83-273B9A780947.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTdfMjEy/MDAxNzYwNjg4ODA2ODM1.2fTh_kksNAaDvbNu8SEj_3K_BxmQQb-v45gRXUOA_8Mg.IS-gPF1Tn6dFzm2Vhut66Z_9Fh_VHbHBVQ7lrDn-c1Ig.JPEG/20251009_171950.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjZfMjAz/MDAxNzU4ODUyMDI1NjQ1.8Ng1afAyyy4cT8fLQ7kPKB3O-3zFWXpQMJ5DoXj24rYg.wjiF495atW-yPxpEuCRrsVDWw4M2wd9fI7h3qza3YLMg.JPEG/IMG_4923.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjFfMTE2/MDAxNzYxMDQ4ODcwNjY3.iEd25czvp4VDxiNYIuiAq85gZwZEvcY-QXNknD7k4isg.AYaNfsmaXvUW6t2MSAyz4kXMaJrSk0AvDJG5kXxwoY4g.JPEG/20251020_122008.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220812",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 13,
+        "id": "2012263714",
+        "name": "광화문옥희",
+        "x": "126.977603",
+        "y": "37.5720855",
+        "distance": 0.034,
+        "categoryName": "일식",
+        "categoryPath": [
+          [
+            "220036",
+            "220038",
+            "220081",
+            "220804"
+          ]
+        ],
+        "category": [
+          "일식",
+          "일식당"
+        ],
+        "reviewCount": 57,
+        "averagePrice": 36000,
+        "address": "서울특별시 종로구 세종로 100 B108호",
+        "roadAddress": "서울특별시 종로구 세종대로 178",
+        "abbrAddress": "세종로 100 B108호",
+        "shortAddress": [
+          "서울 종로구",
+          "세종대로 178"
+        ],
+        "displayContext": [],
+        "labelTheme": "최근 오픈한",
+        "microReviews": [],
+        "cardDescription": "광화문옥희는 다채로운 요리를 재해석한 일식잔치요리를 선보입니다. 한 접시 한 접시 정성을 담은 요리가 흐름을 이루며 이어져, 하나의 만찬으로 완성되는 특별한 경험을 제공합니다.  광화 ",
+        "description": "광화문옥희는 다채로운 요리를 재해석한 일식잔치요리를 선보입니다. 한 접시 한 접시 정성을 담은 요리가 흐름을 이루며 이어져, 하나의 만찬으로 완성되는 특별한 경험을 제공합니다.  광화 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjlfMTMw/MDAxNzU5MTQyODM1NjM1.EVNXbkgIxx5Ipq9mo77EmL4_6V7ZlffsDewfkVKQeYQg.8j7f8fR7fT7PTBGPxNQESWGdGMpQaKHCVjEEhVwiqe4g.JPEG/BAC6844D-C2D7-4396-99D3-1B16F7345778.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjNfMTA3/MDAxNzU4NjE1Njg0Mjcw.QXY89VT137gd-GYRm_mK_mw9-L8BifY7bm23SnOeqtUg.wdC5FnuzZQYr4iIl_A6EtAIW6tNQzu3hOD4gV6Ug9Vkg.JPEG/19317C75-3F48-411D-B3B7-B3E0E1F89C1E.jpeg",
+          "https://ldb-phinf.pstatic.net/20250826_234/1756176867236IvdiR_PNG/%B1%A4%C8%AD%B9%AE%BF%C1%C8%F1_%B4%EB%C7%A5%C0%CC%B9%CC%C1%F6.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjhfMTEx/MDAxNzU2MzUxNjgxNjM1.ZoUMD2y42t7nQfDQXmIr_RJRmhRIau7PVDPEqk4MHJwg._K86zcMMZL3q-nK1VKC_4wbEvQ3tPnWvQiKG91f4WQIg.JPEG/20250828_113922.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250828_29/1756358898816LeLQG_PNG/%B5%F0%B3%CAD_1.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTdfMjk5/MDAxNzU4MDgyOTQ3MDE5.xy_CVpaw4xpOk87xXt_ukA3CDohNZApzBPw8GH6AxE8g.yhifS3Ch10IZK76b6LNbVNPBueKrRgBN5MX6URs6Nfsg.JPEG/6F847412-C1C7-454F-9A6D-83B40864A7AC.jpeg",
+          "https://ldb-phinf.pstatic.net/20250828_133/1756358898407hnVvE_PNG/1.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjRfMjAy/MDAxNzU4NzEyMjkzMTk3.eyOxd_HzXprqi4cZwUXdP7ETZ0B_ElP9kV8ti2nwnVAg.oxzh3TxJ3xwj3VutOp4UuE8-ApxhWaU2e0m0RozabrUg.JPEG/49EBA407-5697-4F25-B29F-200416402CAB.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjhfMTIg/MDAxNzU2Mzg1MTg1MjU3._x_jbKMvMdXI9ZbzZxN0EZlw_SnnvMiNh5wD7tdAub4g.FSDYBrYrza5E-7JEtQh58qIis_ZUQxDjnGuLe4_XvTUg.JPEG/309CD589-967E-49F0-83CC-CD0EA7D8414C.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjhfOTYg/MDAxNzU5MDM1NTk3NDcy.JVhdhKw12XKslkJiD9xlf0hOZQnzaOuIAOoVqE5mRJAg.V-poKIHshV0e_KhdaB6l4vUOq3WFbQZ48nI13XJXnB0g.JPEG/4F51FC11-4FC9-4881-9B48-A8039BD5A66D.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220804",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 14,
+        "id": "2091732790",
+        "name": "보보식당 광화문",
+        "x": "126.9778819",
+        "y": "37.5721535",
+        "distance": 0.046,
+        "categoryName": "중식당",
+        "categoryPath": [
+          [
+            "220036",
+            "220039",
+            "220091",
+            "220861"
+          ]
+        ],
+        "category": [
+          "중식",
+          "중식당"
+        ],
+        "reviewCount": 71,
+        "averagePrice": 40000,
+        "address": "서울특별시 종로구 세종로 100 지하1층",
+        "roadAddress": "서울특별시 종로구 세종대로 178",
+        "abbrAddress": "세종로 100 지하1층",
+        "shortAddress": [
+          "서울 종로구",
+          "세종대로 178"
+        ],
+        "displayContext": [],
+        "labelTheme": "프라이빗",
+        "microReviews": [],
+        "cardDescription": "장보원 셰프의 중식, 압구정에 이어 이제 광화문에서 선보입니다: 보보식당 광화문점 오랜 시간 압구정에서 중식 요리를 선보여 온 장보원 셰프의 모던 차이니즈 레스토랑, 보보식당이 광화문 ",
+        "description": "장보원 셰프의 중식, 압구정에 이어 이제 광화문에서 선보입니다: 보보식당 광화문점 오랜 시간 압구정에서 중식 요리를 선보여 온 장보원 셰프의 모던 차이니즈 레스토랑, 보보식당이 광화문 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjZfMTMg/MDAxNzU4ODU5NzYyNjAz.n2wjfbIB0AYWnx9PUIKHYNpvFw6pcoioLPN_MqNDkqUg.g8S2GihDRSE-m3xbgW2ciEHW9VExxt0d47MsSsG3Ilsg.JPEG/CF7C149A-6B5D-4C0E-869F-B3166F7F91D1.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDJfMjY2/MDAxNzU5NDA4NjQyNjc1.N0W6asb3VWMm2bGEP3MqFzoWJcxZzbvAhCPR5weAI4cg.jrP0iseqtL7fE4HXlNqB-Fltcp8YzoJ-3gftvckMTAUg.JPEG/09DD1F87-F736-4C02-9CA1-C26CDFE645D8.jpeg",
+          "https://ldb-phinf.pstatic.net/20250831_293/1756623895585MJiHz_JPEG/KakaoTalk_20250830_130652321_03.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjdfMTAz/MDAxNzU4OTM0NzUxMjAy.aZ4VVxcwdXs3mcW9zTxrWnU7tLJ6DeSEGVVNhWLVDXsg.VXFYkQUVpCPRyHzzA4XMBzm6vpqjEU106eBlYl8dY9sg.JPEG/3A235B38-519C-43F5-8894-4235F87F3A54.jpeg",
+          "https://ldb-phinf.pstatic.net/20250831_131/1756624009269adcry_JPEG/KakaoTalk_20250826_171911797_04.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjFfMTMg/MDAxNzYxMDE4NzUwNzMz.lgQEsVhWRLDJR0VAWtktSRzBCmh3TvIG83z_w2vgUtkg._p9eMM7V4e-mOf3NUTaxCTT4m2kIxtSu658y7SkOQdwg.JPEG/20FF2C47-AD9C-4EE1-8AD4-2E55690719D6.jpeg",
+          "https://ldb-phinf.pstatic.net/20250831_137/1756624021168VxhaU_JPEG/KakaoTalk_20250826_171911797_10.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTJfMjc5/MDAxNzYwMjQ3OTU3MTQ5.IJpoMcL6wImQ3cEXivIl2wwZZNG_XHc6NoYnewsIQQwg._0bJzn1cb5qjS6isKdU1hnclBC24L7COVQGmblLfMnwg.JPEG/1000085200.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTlfNzIg/MDAxNzYwODc1ODIxOTIz.-iF_AQEtnRFoV_7HwIFyIDK6hx2NgbP-MX3lNIo_Fw8g.eETP-Ugn-A5UQ37d8-CHCrAkvn1E4WcC3ue6yTChCMsg.JPEG/20251015_180734.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDFfNjkg/MDAxNzU5MjkwNDM1NTgx.mob96QkrlCeKiq3yrKjQWzy4f-mzsGq7FLQSZCazD-Qg.SwwgFBg8Q-K9GsBxhLqqKpUH2BZob4CBeqRORQgB6jMg.JPEG/DFEEA9C6-AD43-41F9-8FF1-53FD54764D0B.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220861",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 15,
+        "id": "2003404700",
+        "name": "코끼리초밥 광화문점",
+        "x": "126.9778819",
+        "y": "37.5721535",
+        "distance": 0.046,
+        "categoryName": "일식",
+        "categoryPath": [
+          [
+            "220036",
+            "220038",
+            "220089",
+            "220850"
+          ]
+        ],
+        "category": [
+          "일식",
+          "초밥,롤"
+        ],
+        "reviewCount": 808,
+        "averagePrice": 20000,
+        "address": "서울특별시 종로구 세종로 100 지하1층 B109-5호",
+        "roadAddress": "서울특별시 종로구 세종대로 178",
+        "abbrAddress": "세종로 100 지하1층 B109-5호",
+        "shortAddress": [
+          "서울 종로구",
+          "세종대로 178"
+        ],
+        "displayContext": [],
+        "labelTheme": "일식",
+        "microReviews": [],
+        "cardDescription": "광화문에 새로운 초밥 명소 코끼리초밥이 문을 열었습니다.  스시시미즈, 스시우미, 도산 사카바 카와세미 등 하이엔드 브랜드를 운영해온 대표 셰프가 직접 선보이는 새로운 콘셉트의 판초밥 ",
+        "description": "광화문에 새로운 초밥 명소 코끼리초밥이 문을 열었습니다.  스시시미즈, 스시우미, 도산 사카바 카와세미 등 하이엔드 브랜드를 운영해온 대표 셰프가 직접 선보이는 새로운 콘셉트의 판초밥 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTRfMTE0/MDAxNzYwNDM1MTYyNzg0.LHghKARHPxvEp5f4l784EGu8IS7rB1o81f6brS6FEpog.yVYHxx9bWa970MMXJLDYNBvn69V9G_TYXcV1wS1emTgg.JPEG/ED7A736F-611E-4313-BB9A-5E7C0D13C7B3.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDlfODYg/MDAxNzYwMDE4NjA0MjA2.-zkdsb2QxgaHnD45xHHX6pr-AoDPIG6yka7Q101-bdog.R_KRdJTo-ZUGSuz-B3A4b8rPxP1dnJHcsXfh4ScrQT0g.JPEG/IMG_6303.jpeg",
+          "https://ldb-phinf.pstatic.net/20250826_110/1756165929826uoDWX_JPEG/IMG_1063.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDNfOTEg/MDAxNzU5NDg0ODA2NzQ0.JHL5e4d1K-c3Zv7aWXBIAlXoKbWIlW-jEdGSW_IDtBEg.miVgMmWsfQJK9ngdDoaJaCpoKPVCd5r2z3mzGZYUDlIg.JPEG/D0E49C8D-B5A4-4F66-8971-CCA6870825D0.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjVfNzMg/MDAxNzYxMzU5NDU1ODMz.WuGgvkFQwepZJ6YAN1EwpoQZqNNF5RvIAuxPSUxc8sMg.s-NyNhbC-t5ss4x46UsA_TUC8hR5GOOCsuvJ2JPPr4Ig.JPEG/20251025_111353.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjVfMTkg/MDAxNzU4Nzk0MjczMTQ5.WI2rikht6cYpno_Rf_8BsW_SZzF3ntMj2O-jK3bURisg.fyXShhcOnlI5mSUU6Siiv4M24ZwU42KlGm3TTulpXHIg.JPEG/20250925_183019.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTZfMjc0/MDAxNzYwNjA5MjE2Njgw.2yjFyl0zvtY1ajLU5cnact-abWROnxYf_x9lp5Ft3q8g.SxSU0fYdFgoHXI1HaYYqCEmYvw0gmHFu1ZRr0phOO-og.JPEG/20251016_185637.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjZfMjE0/MDAxNzYxNDU0MTAyOTkw.kq0c6UZISqfGKPJRyQp9m1EhNKRRDtUxR0wVA25a5Esg.6qVXtebNk3fQR9yiZ-_Op613qWry0KoX3h0jQVdAidwg.JPEG/6F1F10B0-133A-496F-92F6-55903C79086C.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MzBfNDMg/MDAxNzU5MjIwNzE4NjI0.TJZGtVZPsTn93tW6tSOcye0ad_6RHvly4ETECXLkZQ8g._NwL8LRDnm6WaUNhKebbEFHzCPJrHOPyuTe02-eJqIYg.JPEG/20250930_171613.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTBfODQg/MDAxNzYwMDcxMjU4MzIw.AsZUlW1J0iMMQsxiZZ966uxiOpjxjP-MC0S7JvLCR_Eg.HwBxLc3sD1BS89fngfFtSuk4Ru_vApURJuQxm6eme2Qg.JPEG/F05CFC1B-6774-4F6C-AE22-4FD75A26BD63.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220850",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 16,
+        "id": "2039195147",
+        "name": "덴푸라감춘 광화문",
+        "x": "126.9778819",
+        "y": "37.5721535",
+        "distance": 0.046,
+        "categoryName": "일식",
+        "categoryPath": [
+          [
+            "220036",
+            "220038",
+            "220081",
+            "220804"
+          ]
+        ],
+        "category": [
+          "일식",
+          "일식당"
+        ],
+        "reviewCount": 47,
+        "averagePrice": 42000,
+        "address": "서울특별시 종로구 세종로 100 비108호",
+        "roadAddress": "서울특별시 종로구 세종대로 178",
+        "abbrAddress": "세종로 100 비108호",
+        "shortAddress": [
+          "서울 종로구",
+          "세종대로 178"
+        ],
+        "displayContext": [],
+        "labelTheme": "최근 오픈한",
+        "microReviews": [],
+        "cardDescription": "덴푸라감춘, 이제 광화문에서 만납니다. 튀김옷 속에 감춘 제철 재료의 풍미를 정성스러운 한 상에 담았습니다.  프라이빗한 룸식당에서 즐기는 특별한 점심 회식부터 저녁만찬까지 모든 것을 ",
+        "description": "덴푸라감춘, 이제 광화문에서 만납니다. 튀김옷 속에 감춘 제철 재료의 풍미를 정성스러운 한 상에 담았습니다.  프라이빗한 룸식당에서 즐기는 특별한 점심 회식부터 저녁만찬까지 모든 것을 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjNfMjY0/MDAxNzYxMjMxNTA1NDc4.4gBL1I7nx2R8u6E5xmCLEdTz8KxllNDOsP01nQNhUjQg.dkOgfs3c9gLlrJLxE0Aa3gffrfe7ql4jSPPsGKvQ2gsg.JPEG/E9734B9F-8FC0-4ACC-B362-B6D26569A895.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjlfMjY3/MDAxNzU5MTA2NzI2NTQ3.QlaZ6KBqVFQjJ53moFR1FpeJvT1ZBfcm_emCexzvx2sg.Im6jPeyGBYOvoATXJlF_iSN_g-98DFeakRzOteM9Wvgg.JPEG/0F0B8BB7-2FAA-4CA1-8435-7220F5E507B8.jpeg",
+          "https://ldb-phinf.pstatic.net/20250828_197/1756358944271XsbSX_PNG/%B0%A8%C3%E1_%BF%F8%BA%BB_60_1.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTlfMzAg/MDAxNzYwODgyMTczNDc3.6BhSQZ0yEd-cv02PGIYNb7vdycjlutLgIjES5O_QfIEg.-pMqWivUx2yrmfwXfAzFoZZMC_PDV40F3KE90ggOH6Ug.JPEG/387F2237-923C-4AC8-B429-D3A951EB6DD2.jpeg",
+          "https://ldb-phinf.pstatic.net/20250828_6/17563589441225ksVu_PNG/C.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTJfMTA1/MDAxNzYwMjU1MjE4NzQ3.UzfgoWEbDCwriLmkAfcAV_ofS3v4u725jyLSRKVxkAQg.G42kmB0cFVjqc4Y5j6bjudvetp1koT_NA5oN4pXT5akg.JPEG/1760254300023.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250828_104/1756358944378cnybD_PNG/%B0%A8%C3%E1_%BF%F8%BA%BB_21.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjZfMTcx/MDAxNzYxNDg4ODcyNTI1.8hM5W87QMABtPPa9BT9mOJNSdCdzex9Gf2EQMkDonV4g.DygInGCrfp--_1kKZFUWrWKsuGc7cx84mR9SYvhLsY0g.JPEG/B89FB4F5-E5BE-4CEB-9964-2FF1B9CCA2E8.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDZfOTEg/MDAxNzU3MTQzMzIwMzUx.YUkpxm3Kkz4yIKc0SIzHXCqzAtDtzuk9RMCRFQfg9fog.ledCmeTaGfequkL1b1TbC_MAfWSQpwbNkxewZ3N3On4g.JPEG/6EA866A1-CD43-4E7B-8184-A2EF0139430B.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTdfMTg5/MDAxNzYwNjg4NzAyOTM1.wF-60wAjZ7zyhR7-b0pEBbw9-70-M_Rke3FTLmPu9aIg.vdMkb1mt9rTmgY9V0sFAMUTUlNq2xxOHn8G51wsVAZog.JPEG/876C88AB-B5B4-4B34-8A0D-2CA803980C24.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220804",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 17,
+        "id": "2073943317",
+        "name": "니욤",
+        "x": "126.9778819",
+        "y": "37.5721535",
+        "distance": 0.046,
+        "categoryName": "태국음식",
+        "categoryPath": [
+          [
+            "220036",
+            "220043",
+            "220124"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "태국음식"
+        ],
+        "reviewCount": 74,
+        "averagePrice": 10000,
+        "address": "서울특별시 종로구 세종로 100 . 지하1층 B109-6호",
+        "roadAddress": "서울특별시 종로구 세종대로 178",
+        "abbrAddress": "세종로 100 . 지하1층 B109-6호",
+        "shortAddress": [
+          "서울 종로구",
+          "세종대로 178"
+        ],
+        "displayContext": [],
+        "labelTheme": "최근 오픈한",
+        "microReviews": [],
+        "cardDescription": "태국 왕실인증 한국인 오너 쉐프가 선보이는 아시안 다이닝 레스토랑 ''니욤'' 입니다.",
+        "description": "태국 왕실인증 한국인 오너 쉐프가 선보이는 아시안 다이닝 레스토랑 ''니욤'' 입니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjdfNjIg/MDAxNzYxNDk1MTE4ODQz.popxLC61c7UF0i80vVGr53elivkVzVpjcwi6NVzA_Egg.ag4fmhyzFqEShKsUrFghYLVGM-LGhGb-6yErd3uMrnkg.JPEG/62958.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDFfNiAg/MDAxNzU5MjgyOTk5MDQ2.QKFbtsvmdtD-IiLLKT8dhX9OXI29OwZD2rI8CASl3EYg.Vw_UuK-vykmWG3W7nIpZ7VvewBeq2IqFrPv5cL9bIKYg.JPEG/1000025935.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250922_139/1758547891103AcKwj_PNG/%B7%EB1.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDNfNyAg/MDAxNzU5NDk0NTk2OTUz.L_-9ucW092rBuX_oJmYLMjG8kEvJIJVL1K0UUWvvFUEg.sRvWS-lqCpg08BKwAEKcTX-Ua3xpSGGICe-lhsm3YHgg.JPEG/A6FBC094-4ABE-40EA-9B54-CE5DF7E5803F.jpeg",
+          "https://ldb-phinf.pstatic.net/20250922_224/1758547886151gGpS9_PNG/%BD%C7%B3%BB1.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjdfMjc2/MDAxNzU4OTQ5OTA0MDQz.8_Z0C4ZQhF5Ipq3YoCcGwFt26fA7ztSR7dxLSOKzZ8Ag.6GnL2tjiC5tyag8Y4jGnB_OfxVFn-zVUt7epeubtWxgg.JPEG/1000012341.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250922_271/1758547881134UlRN2_PNG/%BF%DC%B0%FC2.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDRfOTIg/MDAxNzU5NTU3ODQ4NTc4.GrVccaXNnPfWPCyk7Hh0Zlybq4Mntv09YlRUkyctDr0g.0TVEeZz-diK7xo77muxjL1Fucaw2Vpq_Udid_Kaldwsg.JPEG/326E49CE-1EAE-41FC-9614-32F12A110A25.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTJfMjQx/MDAxNzU3NjUxNTQ0MjA4.zUIJFMqclATzqXRu767TbKSAmcIRpIFO-PhZYhBpIgYg.shj3WtqqWDPIJEnC_Cfhf-gBFR_MoGZ7NtbqrwzdN3wg.JPEG/68F73F6E-3968-44B1-AC81-1905FF57DFE2.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjJfMjM0/MDAxNzYxMTE1NjM1NjA5.Sb8sg5mBXgPhMQWjOcd4_1s7o5PErxACVLoBRCONycMg.hGnbm873j7AlR-KKsHtOG18rqY3w5fyHotXbrHp8OlEg.JPEG/1000063262.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220124",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

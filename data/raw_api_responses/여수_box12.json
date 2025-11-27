@@ -1,0 +1,594 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 8,
+      "count": 8,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 127.65433372574441,
+          "minY": 34.76730450450451,
+          "maxX": 127.6598168628722,
+          "maxY": 34.77180900900901
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "127.6570752943083;34.76955675675676",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1024035479",
+        "name": "카페솜솜",
+        "x": "127.6546092",
+        "y": "34.7704663",
+        "distance": 0.247,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 254,
+        "averagePrice": 5000,
+        "address": "전라남도 여수시 선원동 1310-5",
+        "roadAddress": "전라남도 여수시 무선로 107-1",
+        "abbrAddress": "선원동 1310-5",
+        "shortAddress": [
+          "전남 여수시",
+          "무선로 107-1"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [
+          "시그니처 크림라떼의 달콤한 중독"
+        ],
+        "cardDescription": "시그니처 크림라떼의 달콤한 중독",
+        "description": "식물과 유리소품들이 많은 아담한 공간입니다. 직접 만드는 디저트(쿠키, 쌀소금빵)를 드시고 가실 수 있고 포장, 예약 가능합니다.  쌀소금빵 나오는 시간 : 12시",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjBfNTUg/MDAxNzU1NjkxMDAxMTk5.7tZY8qb9lrmh2fvaHR2IlYpbFl63QcyRbyGff-dVvp8g.1C_XHzfqD13Gwo9MRLZDLxGwpOWHJai0fJOQgy--WMog.JPEG/3FD4D627-8127-4E14-9171-B9A819BFD3BF.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjNfMTU1/MDAxNzUzMjYwNTM2MjYz.MrSyBjO2GWCDKc_i69RtwXsUF7usR2IGFtYrbJdYlZ4g.Xfu3EozFPCiURE9izFHnTdTLAkNLgPA2IuCRWJq-PoYg.JPEG/1C32C68A-3A29-4EF3-B397-E05599D2E18C.jpeg",
+          "https://ldb-phinf.pstatic.net/20210717_73/16265105535668oTJk_JPEG/gG_zPNn-DcyxNOlsY-FsrGWc.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjhfMTc5/MDAxNzQ4NDA3MjA0NzA1.W4zFFbzvdhv-_sLYFtUV3NPnakTkAUiLuYJFlLOgwDsg.xUXGjQMVvNuxbvCgGG8ljHJtg2T9C5ESzIN3DEeTlk8g.JPEG/20250528_133348.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20210717_27/1626510567348kurAy_JPEG/PKzemXx7uKfpmNhzP4o7KyWN.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMTlfMTkw/MDAxNzYzNTQ4NTE2NjA3.3NsdTtVRNp_L2-IXSp5DAzeSrvrNIpMLX1fwEmll4TYg.AKQ1ExLJR1eay3RnimwpCESCU4pYe0B6n_LGBJIhKdYg.JPEG/20251119_134921.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTNfMjcw/MDAxNzQ5ODI0ODkzNDMz.SccRr-qvosRAvF0KnGkUs8c7rmD13PenFBoAmTFMGUwg.Alx_J8EXe10sGkYkdti7_phjHRWinysP3wpvTKG-9Zog.JPEG/20250611_203916.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTRfMTgx/MDAxNzQ3MjA3Mzk3NDIx.4ZL5jkywGSJ6fK481TER9OXgzOw22eFu70fd1qtYQ6Ag.hbdg8l2mjvP4l0Pd498FKvOfKgG_oIhMQoDU52eQm2Eg.JPEG/92764F0A-6996-4A3E-BAA6-EA0ADBE2979B.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTFfMjQ0/MDAxNzYwMTUzNzYwNDI0.ycOdPwE5JStsPJPodlmw15makpuwKJSFZertyvORwF8g.6CoYaceRMcbHG6xeirzFRJu7Ozu0q6j_YO6vxA8u_SEg.JPEG/20251011_123338.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDVfNDIg/MDAxNzU0Mzg2OTgzNzEx.7oAdvxw1NyCASkO4rEzgkUJpCaahRL94kNbHH1uArLMg.rdW-eG6CkKwlvtwN0ddKitRnbOOVpSm0iBs5LIKbUQUg.JPEG/20241013_201258.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1024035479",
+            "bodySummary": "여수 쌀소금빵 맛집 카페 솜솜 전남 여수시 무선로 107-1 Tel) 010-3661-9618 영업시간 월~토 AM 11:00 ~ PM 8:00 매주 일요일 정기휴무 여수 놀러갔을",
+            "url": "https://m.blog.naver.com/meow__17/223358833456",
+            "nick": "앤제로 And zero",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMjJfNzYg/MDAxNzExMDM3NjA0NzUx.Y3A4zf4-04wacGmHvC1upamo_2U4L2Xk4csJPnx0-dQg.Oe-GNCqL2wWrQ6ZrEldVvKB2d2ydlekjq8xZSi22X2Ag.PNG/profileImage.png"
+          },
+          {
+            "sid": "1024035479",
+            "bodySummary": "맛있는 소금빵과 디저트들이 가득했던 여수 소금빵 카페 바로 소개해드릴께요! ▲여수 소금빵 카페 솜솜은 여천전남병원 바로 옆에 위치하고 있습니다. 대로변에 위치하고 있어서 찾기도 쉽",
+            "url": "https://m.blog.naver.com/iamdalkom/223336471542",
+            "nick": "진리",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA3MTFfMzUg/MDAxNjg5MDgxOTU1MjU2.EZA_bN3wApxHGmeK2i8iCn4z2HCROng5uWjzVPjQ_eIg.-i4PkOGQjGTM8ln1jkBFXr58vMM3SGVUzJtPeWXL2REg.JPEG.iamdalkom/20220521_122552.jpg/20220521_122552.jpg"
+          },
+          {
+            "sid": "1024035479",
+            "bodySummary": "여수 휘낭시에 맛집은 #웅천솔레일 여수 소금빵 맛집은 #카페솜솜 베이커리집은 이 두개만 가시면 무조건 성공합니다! 겉바속촉. 정말 바삭한데 버터맛이 정말 진하고 속은 보드럽고 촉촉",
+            "url": "https://m.blog.naver.com/tnwls0427/223303530091",
+            "nick": "허수댕",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjExMThfMjQz/MDAxNjY4NzM2Mzc0Mjg0.0OXvgpZisi_GTDWcLJkwfBv2KqR6a9zfGVC1D-vKMQMg.ipeosnvRU_-WCJ2z69hDpk9-6I26AHCfBxLiZxfFxrAg.PNG.tnwls0427/profileImage.png"
+          },
+          {
+            "sid": "1024035479",
+            "bodySummary": "카페솜솜 [주소] 전남 여수시 무선로 107-1 [영업] 11:00 - 20:00 / 매주 일요일 정기휴무 [연락처] 010-3661-9618 카페솜솜의 로고인가봐요 ~ㅎㅎ정말 이",
+            "url": "https://m.blog.naver.com/dailyona/223282322644",
+            "nick": "온아맘",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMDZfMTYg/MDAxNzA5NjgzNzMyMjk2.nsoZmqUnz3AxAPH_pfD0fW-iGzvg8Qc_CgvueVPEi5cg.CB1UnGc39jNeGTxKr6pkUXuICuHgpsaPhs4ZVaa5QBwg.PNG/profileImage.png"
+          },
+          {
+            "sid": "1024035479",
+            "bodySummary": "커피도 저렴한 편입니다 저희는 아메리카노 2잔과 소금빵 테이크아웃 주문했어요 소금빵 말고도 사브레 쿠키, 케이크류가 있었어요 카페솜솜의 소금빵은 100% 국내산 쌀가루로 만든 쫄깃",
+            "url": "https://m.blog.naver.com/seo_a_c/223242517245",
+            "nick": "옴뇸뇸",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEwMDNfMTU5/MDAxNjk2MjY0ODUxNDEy.8i-0ErYBqMj1_fjTZnMb9Y1jH5hM3bpbgPsyVBr0fjMg.zPp6BihJoVXwbsTitrqxoC4cIhU3OggY-omjaundQRgg.JPEG.whtjdk1823/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "id": "1968270634",
+        "name": "보노",
+        "x": "127.6591287",
+        "y": "34.7686233",
+        "distance": 0.215,
+        "categoryName": "브런치카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "1006039",
+            "1006040"
+          ]
+        ],
+        "category": [
+          "브런치카페"
+        ],
+        "reviewCount": 404,
+        "averagePrice": 10000,
+        "address": "전라남도 여수시 선원동 227-18 1층",
+        "roadAddress": "전라남도 여수시 가곡길 36",
+        "abbrAddress": "선원동 227-18 1층",
+        "shortAddress": [
+          "전남 여수시",
+          "가곡길 36"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [
+          "신선한 재료가 선사하는 브런치의 정석"
+        ],
+        "cardDescription": "신선한 재료가 선사하는 브런치의 정석",
+        "description": "30분 간격으로 한 타임당 한 팀 예약받고 있습니다. 원하시는 시간대에 예약마감이 되어 예약이 어렵다면 매장으로 전화주세요",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMDFfMTA2/MDAxNzYxOTc5Njk1MDUx.IYL3mMhgMWsOWG76XvQOOHz9sOH3u3FZfyx6XPRTwVsg.S_negEiHYq5h9pMP0KqEVlktH1pwT87jK6mrNR7tAWMg.JPEG/3EBAA608-88FF-4C02-92F7-CA20A0BAD5B0.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTRfMTU1/MDAxNzUyNDYzNjMyODA4.6-ZAOepIGaKHXLX_0kZCzIS-ursADDeJKIBYffnKSZ8g.dxcwW96qgwZwIsUmbpH91yrWNeyZSuz-e-3iZJcWT7og.JPEG/60E3EB0B-27E6-4534-AFC2-46DDAA0B6CE3.jpeg",
+          "https://ldb-phinf.pstatic.net/20250910_176/1757479783034vgRjR_JPEG/61B41863-778B-4028-A6FA-412669A4FD2A.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMThfMTA4/MDAxNzYzNDM1MTcwMDE1.OpYGh3DqRvGHPQNZCrFfkTjpqxRoayFiDQlwI0kSDD0g.zJvt-jqtr-RRk2hoRbkNR4ZXq0930BIn171ytYEElXwg.JPEG/3813C2E1-5B2A-45F9-B8AA-3071F9189361.jpeg",
+          "https://ldb-phinf.pstatic.net/20250910_130/17574797831303fRjH_JPEG/13D0AF9D-B1A0-4F4C-B79E-53D75951050D.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjZfMjYg/MDAxNzU4ODU3ODE4MzM2.5tTXI2EheWWnIjDzrPdrIRf9QHykxNBMJUr86rY8zIgg.mKjBc_Rc1GCiiznp9OwVK3AbOaIt-KRv4bLkRZD4p6Ug.JPEG/0EB19348-D8EA-46A2-9218-53533B13C90D.jpeg",
+          "https://ldb-phinf.pstatic.net/20250910_25/1757479783153xlw8r_JPEG/E41565FF-0588-4656-B7B6-2964B6DCEA3D.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDNfNDQg/MDAxNzUxNTEzMDE5NjAz.xhLCOVCIA8WU7MZYaLxqc0jfiDAULId0KVDNBqwYGWkg.NllHKX-z1az_GmvvHTYMo3LsBM0jj6OX_ogxNvJzf6Yg.JPEG/5B4C3EE7-78BD-4204-8C2C-9000A6CD21AF.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDJfMjgz/MDAxNzU5MzcyMTgyMzAx.ZbKBAnOwRrrUDxB2Z5aYSKeK40eODuOQiNcxbpBEwqUg.zz5EIxKnC4EpbK8n0VMA-SoCBVdBaG-G9FkMt1_cLj4g.JPEG/6567A993-DE76-47F6-ADDC-90432452072A.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMDdfMjE5/MDAxNzYyNDg2NTI4OTEx.hSQXX9SA_wlS8byuRSUfs1JjKu2aRO5ygL0-iDckT6wg.R0BqA6D51uBx7NA9gMlVc5vFvAZ2Q9vVEeyZiqNuuqIg.JPEG/20251107_115622.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1006040",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 3,
+        "id": "16961692",
+        "name": "고을분식",
+        "x": "127.6590944",
+        "y": "34.7675943",
+        "distance": 0.286,
+        "categoryName": "종합분식",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220185"
+          ]
+        ],
+        "category": [
+          "분식",
+          "종합분식"
+        ],
+        "reviewCount": 94,
+        "averagePrice": 10000,
+        "address": "전라남도 여수시 학동 3-8",
+        "roadAddress": "전라남도 여수시 학동북4길 14-20",
+        "abbrAddress": "학동 3-8",
+        "shortAddress": [
+          "전남 여수시",
+          "학동북4길 14-20"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "전라남도 여수시 학동 3-8",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MzBfMTkw/MDAxNzUzODY5MDI5MTY0.6Vxc4Pwa20KdAZZRzlM66nuvsRQ1t2vAzKvFzpIbgWMg.WsRm9mgPspo2ckfu1UcEbXwnh4SCszZ11WnPbh30w98g.JPEG/20250729_122925.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjFfMjQ3/MDAxNzU1NzU3NzE3MzU1.lKiHR6EY5LLi_OnLVa46T-H0eROdG_ByTPQyJTq9H-gg.lXVnU05ow_RRulc-IcSJyg3wLhMRMEbnLl8IqB4MYo4g.JPEG/20250821_121444.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220185",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 4,
+        "id": "1528225662",
+        "name": "구르미 호프&카페",
+        "x": "127.658153",
+        "y": "34.7674744",
+        "distance": 0.252,
+        "categoryName": "야식",
+        "categoryPath": [
+          [
+            "220036",
+            "220050"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "야식"
+        ],
+        "reviewCount": 43,
+        "averagePrice": 15000,
+        "address": "전라남도 여수시 학동 3-27 1층 구르미",
+        "roadAddress": "전라남도 여수시 학동북4길 10",
+        "abbrAddress": "학동 3-27 1층 구르미",
+        "shortAddress": [
+          "전남 여수시",
+          "학동북4길 10"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "전라남도 여수시 학동 3-27 1층 구르미",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20220413_39/1649827514464zGxkb_JPEG/20220406_165948.jpg",
+          "https://ldb-phinf.pstatic.net/20220406_29/1649180311767u6BVA_JPEG/1649180283343.jpg",
+          "https://ldb-phinf.pstatic.net/20220406_292/16491803126804NLK6_JPEG/1649180241086-3.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220050",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 5,
+        "id": "1578827359",
+        "name": "여수육해공숙회천국",
+        "x": "127.6543484",
+        "y": "34.7709727",
+        "distance": 0.295,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 33,
+        "averagePrice": 30000,
+        "address": "전라남도 여수시 선원동 1310-14 여수육해공숙회천국",
+        "roadAddress": "전라남도 여수시 무선1길 17",
+        "abbrAddress": "선원동 1310-14 여수육해공숙회천국",
+        "shortAddress": [
+          "전남 여수시",
+          "무선1길 17"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "여수오면 생각나는 곳 육해공 음식을 한곳에서 맛볼수 있는 그곳 나갈때 배가 너~~무 무거워 힘들다 하시는 분들이 많은 그곳. 바로 여수 육해공 숙회천국 ^^",
+        "description": "여수오면 생각나는 곳 육해공 음식을 한곳에서 맛볼수 있는 그곳 나갈때 배가 너~~무 무거워 힘들다 하시는 분들이 많은 그곳. 바로 여수 육해공 숙회천국 ^^",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTdfMTQ1/MDAxNzU1MzkyMjgyNjk5.6jsGcuZWi-CeNx5ih1pN3iqRJOlIc-J9-fLcN3x6Oigg.surHTFVSreytVHvgeq7IeirhZEdmHTM-iUXkDANl8scg.JPEG/3F9A152B-F06A-428B-9275-BB27FA5DE8B0.jpeg",
+          "https://ldb-phinf.pstatic.net/20220614_47/1655194809310fyDwz_JPEG/20220608_172622.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 6,
+        "id": "1049633332",
+        "name": "콩시루 무선점",
+        "x": "127.6546107",
+        "y": "34.7704918",
+        "distance": 0.248,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220061",
+            "1002519"
+          ]
+        ],
+        "category": [
+          "한식",
+          "국밥"
+        ],
+        "reviewCount": 271,
+        "averagePrice": 5000,
+        "address": "전라남도 여수시 선원동 1310-5",
+        "roadAddress": "전라남도 여수시 무선로 107-1",
+        "abbrAddress": "선원동 1310-5",
+        "shortAddress": [
+          "전남 여수시",
+          "무선로 107-1"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "1997년 작은 식당에서 시작한 콩시루 입니다.  어릴 적 맛 보던 어머니의 손맛!  이 시대 단 한 곳! 맛으로 승부를 거는 웰빙 콩나물 국밥 전문점 콩시루입니다.  청정해역 남해안에서 갓 잡아 올 ",
+        "description": "1997년 작은 식당에서 시작한 콩시루 입니다.  어릴 적 맛 보던 어머니의 손맛!  이 시대 단 한 곳! 맛으로 승부를 거는 웰빙 콩나물 국밥 전문점 콩시루입니다.  청정해역 남해안에서 갓 잡아 올 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTBfMjEx/MDAxNzUyMTIwODA0Nzk0.qEE-hmh37-waiYB0S7N1pN0zTDPr8etM2DCSRGWtKrAg.qfwhGaM46S1NAjWCvKp9GeNZlE8nC0D1bMbndIYnHDIg.JPEG/8C175831-FADA-4442-9D0D-318E7241A8CF.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDFfMjAz/MDAxNzU5MjcxNDk2NDY1.T0WHhzMJkMCQnNsECxgujYoMFu6kKRo6-JY6GjE66Pgg.ObPCpmXjdvOPgjthX6e_8O-BWwA3EXhKZfnq9kgyN8Ag.JPEG/E7E4BC7F-0984-454E-AE30-83C16E886B07.jpeg",
+          "https://ldb-phinf.pstatic.net/20250411_255/1744339247943RX4J4_JPEG/1.jpg",
+          "https://ldb-phinf.pstatic.net/20250411_174/1744339247779st8jD_JPEG/2.jpg",
+          "https://ldb-phinf.pstatic.net/20250411_160/1744339247921cYo70_JPEG/3.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1002519",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1049633332",
+            "bodySummary": "계란에 김 부셔서 국물넣고 섞은 다음 호로록 먹기 !! 사람마다 먹는 방법이 다르던데 저는 이렇게 먹습니다! ㅋㅋㅋㅋ반찬도 하나 같이 맛있고 부족하면 직원분이 친절하게 리필해주는 ",
+            "url": "https://m.blog.naver.com/doong_doong_2_/223381421089",
+            "nick": "둥이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMTVfNDcg/MDAxNzEwNDkyNDM1Mjkz.XSIh2gSwuz76De0hcKDZMtOuwuG5wD_EAp2GfQneunkg.nR81F16Xtb_PIVQsRm1lQziQ7v6XwtKsLqFDamzzh-0g.JPEG/profileImage.jpg"
+          },
+          {
+            "sid": "1049633332",
+            "bodySummary": "전국 체인이다... 무선점 조아용 회사랑 가까워용 가격은 이렇게! 난 맨날 얼큰이 먹지롱롱 밑반찬 이러퀘에에에에 깍두기도 마싯고 장조림도 굿굿 히히 드뎌 나왔댱 근데 무선 콩시루는",
+            "url": "https://m.blog.naver.com/1102danbi/223265618902",
+            "nick": "꿀단지",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTAzMDJfNzcg/MDAxNjE0NjQ5Nzk1MjUy.b4kLx0e2pdRtUSZe_jjM6pjh4THzp-5ycac5aGPy2J8g.LVNCB4wYvfVVX-Dh8-xxeIpZRWPtoHjUMggNnVOgETIg.PNG.1102danbi/profileImage.png"
+          },
+          {
+            "sid": "1049633332",
+            "bodySummary": "여수 해장국 맛집 여수에 본점이 있는 [콩시루] 해장하러 다녀왔습니다 오늘은 여천전남병원 옆에 무선점으로 왔어요 푸릇 푸릇 여름인가요 콩시루 메뉴판 기본 반찬 간단하지만 딱 좋아요",
+            "url": "https://m.blog.naver.com/gildong_p/223117666415",
+            "nick": "박길동",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA4MjJfMjYx/MDAxNjYxMTUwMTAzOTIz.VHylJrwodVC6DKiHcPhQYwEv2fTrkPd6jIPKkZ3KP8sg.6sEfFpMKf9rkw3bxymQjj1TRdRiz3vTMGoieEWWFOaMg.PNG.qkrtpgml9344/profileImage.png"
+          },
+          {
+            "sid": "1049633332",
+            "bodySummary": "업체와 직접적인 관련이 없는 참고용 사진입니다. ■영업 : AM 06:30~ PM 03:00 ■ 아침식사 됩니다 ■ 브레이크 타임 없습니다 '콩시루여수무선점'의 콩나물국밥이 특별한",
+            "url": "https://m.blog.naver.com/kmsnam1141/222892545226",
+            "nick": "KMS모바일",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAyMDhfMjQg/MDAxNjQ0MzAzNjA2MTIw.vdSQh_8QLKaYF97XBsxyKRv3kqa1mzR63AEL1Wc-DRkg.-GC60-kGPYLqvRSl5zSoQRxQKCuWZnTwlVhyms594jQg.PNG.kmsnam1141/KMS%25EB%25AA%25A8%25EB%25B0%2594%25EC%259D%25BC%2528%25EB%25A1%259C%25EA%25B3%25A05%2529.png/KMS%25EB%25AA%25A8%25EB%25B0%2594%25EC%259D%25BC%2528%25EB%25A1%259C%25EA%25B3%25A05%2529.png"
+          },
+          {
+            "sid": "1049633332",
+            "bodySummary": "여수 여천 무선 피플들이라면 이미 다들 알고 있는 여천 전남병원 옆 그 국밥집 ~ 하면 알고있는 곳이랄까유~? 콩시루 무선점의 내부모습입니다. 깔끔하고 넓은 모습에 남녀노소 찾는 ",
+            "url": "https://m.blog.naver.com/kgg5407/222619279763",
+            "nick": "고고고",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxNzAyMDFfMjU4/MDAxNDg1OTUyMTI4OTk1.VLDz9lSK3zBi95p9dSs9UM6HCypedfUcH0D5qXKkNJ4g.nIyeTmYBPP7NdMwFrqcWMfRvEJd_SqHtYU9LndVGIBcg.JPEG.kgg5407/KakaoTalk_20170125_004328003.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "id": "32226149",
+        "name": "KS유통",
+        "x": "127.6591391",
+        "y": "34.7679021",
+        "distance": 0.264,
+        "categoryName": "닭요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220770",
+            "221569"
+          ]
+        ],
+        "category": [
+          "한식",
+          "닭요리"
+        ],
+        "reviewCount": 5,
+        "averagePrice": 0,
+        "address": "전라남도 여수시 학동 2-8",
+        "roadAddress": "전라남도 여수시 학동북4길 26",
+        "abbrAddress": "학동 2-8",
+        "shortAddress": [
+          "전남 여수시",
+          "학동북4길 26"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "전라남도 여수시 학동 2-8",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221569",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "5.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 8,
+        "id": "1551547933",
+        "name": "여수삼미옥",
+        "x": "127.6546108",
+        "y": "34.7707292",
+        "distance": 0.26,
+        "categoryName": "해장국",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220068",
+            "220693"
+          ]
+        ],
+        "category": [
+          "한식",
+          "해장국"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 0,
+        "address": "전라남도 여수시 선원동 1310-3",
+        "roadAddress": "전라남도 여수시 무선로 111",
+        "abbrAddress": "선원동 1310-3",
+        "shortAddress": [
+          "전남 여수시",
+          "무선로 111"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "전라남도 여수시 선원동 1310-3",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220693",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

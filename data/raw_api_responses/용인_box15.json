@@ -1,0 +1,91 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 1,
+      "count": 1,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 127.1832582427431,
+          "minY": 37.24560450450451,
+          "maxX": 127.1889164854862,
+          "maxY": 37.250109009009016
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "127.18608736411466;37.24785675675676",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1283451641",
+        "name": "협동조합 케이아트",
+        "x": "127.1884289",
+        "y": "37.2469066",
+        "distance": 0.233,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 8,
+        "averagePrice": 5000,
+        "address": "경기도 용인시 처인구 역북동 192-1 1층",
+        "roadAddress": "경기도 용인시 처인구 성산로109번길 21",
+        "abbrAddress": "역북동 192-1 1층",
+        "shortAddress": [
+          "경기 용인시 처인구",
+          "성산로109번길 21"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "저희 케이아트 카페는 지역기업,예술단체,청년들이 협업하여 만든 갤러리카페입니다.  지역에 있는 다양한 작가님들의 작품을 관람 할 수 있습니다.",
+        "description": "저희 케이아트 카페는 지역기업,예술단체,청년들이 협업하여 만든 갤러리카페입니다.  지역에 있는 다양한 작가님들의 작품을 관람 할 수 있습니다.",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20210608_190/1623125253552lXsAo_JPEG/S3KD18RG6-jFxrpFvQz0BERa.jpg",
+          "https://ldb-phinf.pstatic.net/20210608_128/1623125262413O2ec1_JPEG/iK0EDQWOQj3VcrwQ9CCNQBRs.jpg",
+          "https://ldb-phinf.pstatic.net/20210608_88/1623125272631frYEp_JPEG/RVd1CFHd4mxEN3xgsghI2AnH.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

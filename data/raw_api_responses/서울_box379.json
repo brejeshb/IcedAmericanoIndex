@@ -1,0 +1,672 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 8,
+      "count": 8,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.98822916351367,
+          "minY": 37.57370720720721,
+          "maxX": 126.9893657372374,
+          "maxY": 37.57460810810811
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.98879745037553;37.57415765765766",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1992316476",
+        "name": "크라운커피",
+        "x": "126.9883136",
+        "y": "37.5738925",
+        "distance": 0.052,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 268,
+        "averagePrice": 5000,
+        "address": "서울특별시 종로구 낙원동 25 종로크라운호텔 1층 커피숍",
+        "roadAddress": "서울특별시 종로구 삼일대로30길 9",
+        "abbrAddress": "낙원동 25 종로크라운호텔 1층 커피숍",
+        "shortAddress": [
+          "서울 종로구",
+          "삼일대로30길 9"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [
+          "넓은 공간에서 즐기는 여유로운 모임"
+        ],
+        "cardDescription": "넓은 공간에서 즐기는 여유로운 모임",
+        "description": "익선동 입구에 위치한 저희 블랙드럼은 이곳에선 보기드문 넓은공간에서 차를 드실수있는 카페입니다 새로운 자동드립머신에서 내리는 고품격 커피와 차를 착한 가격으로 마실수있으며 만족 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDFfMjk1/MDAxNzU2NzEzOTg1OTA5.wKTOYnNAd_2NYn9O7RZQKrlAwBmSXMT6b235ZgSnf1kg.DqEd0kb5SnGmFE3MSWjFy4iDun5Bv3NSslweSECMcZog.JPEG/CAA53971-66BE-455D-85FE-0BD7A536C703.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTdfNzgg/MDAxNzUwMTM5NDM5ODA0.2_cxL5pJGl2rgN8EI1h7WgTPbY0FAcVBeSn99T8pd0Yg.wH7z_xMgUOXPyMZl1UtSIsg92Wm9i0SYCpcRqYzEargg.JPEG/20250617_141707.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20230302_54/1677753101742Llusw_JPEG/1677753056836.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDNfNDgg/MDAxNzUxNTE5MTk3OTM1.sesWUB65ZalqIonwbAE6LZ9_cwS2-dl7uQY46uzPgdEg.uYds6NNb2ukEgUk_20yDRdgXKmJfFPffpJkzL5VPbRYg.JPEG/C0EF1F8D-02FA-4100-B7FC-062271772083.jpeg",
+          "https://ldb-phinf.pstatic.net/20230302_192/1677753109561POEBS_JPEG/1677752915478.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjFfMTg2/MDAxNzQ1MjMzMjE4MTQ1.KY7vWibwWz-v-l6FXXxObrBOXgy4bAet-ETF6QUOsYMg.UehCy_3MztXt6ZAlwawvb0ruNSBcts6NfU2XF8Z0JhAg.JPEG/4ED854D5-1A4B-43FD-A822-4C88D92CE2EA.jpeg",
+          "https://ldb-phinf.pstatic.net/20230302_7/1677753124843fNqdM_JPEG/1677752912050.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjJfMTg1/MDAxNzUzMTU3NzQwNzUw.b6wdFyvDdZy4WbSOyHqL3f94SJWK-gmMrfLBQdG4_rcg.RivY58FliVCTO5e18o4QjzPrwGdtnbnZNdaFXrOrPlMg.JPEG/29F793D7-CFAD-40EC-8D8E-70BC5F577C1B.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTRfMjk2/MDAxNzQ3MjA1MjU5NzA2.nrE-i5p21Cw44CIfhtpM50n1NTAkuk_BiVCr2oy_HgQg.pOQt6GhifAXpvt0vbY62tiy5JluIv4pAbCoGJRlT_MQg.JPEG/SE-8ce702af-13c4-45b5-84a5-a4a1b1bb5e50.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTVfMjYx/MDAxNzQ0NjkwNzU0ODI2.BPJ1PH7696JEz6XpjRMBmriZRtbPpMweSHWwkbwGK2wg.6hreWAt-imphCL8ApuuEa0GUiblBgeK5MmGpJ1URJf0g.JPEG/20250415_131656.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1992316476",
+            "bodySummary": "블랙드럼 본점 위치 : 서울 종로구 삼일대로30길 9 종로크라운호텔 1층 커피숍 종로3가역 5번 출구에서 241m ⏰영업시간 · 월~토 09:00~22:00 · 일 11:00~22",
+            "url": "https://m.blog.naver.com/honey_punch_/223397590967",
+            "nick": "꿀주먹",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA4MjRfMjky/MDAxNjYxMzM2MDEzNzA0.quJ-dfklTOgY-_tUPR-j9ZULwtUtGVLgVuzHeQt5O6Mg.RZQx8_ERKx6N0_mN2YpswG19K2wD4AzcbhiLVhsV3Vwg.JPEG.shinee1225/profileImage.jpg"
+          },
+          {
+            "sid": "1992316476",
+            "bodySummary": "카페 출입구도 굉장히 잘 보인답니다. 서울낙원동넓은카페, 낙원동넓은카페로 추천하는 '블랙드럼 본점'의 메뉴 보여 드릴게요! 다양한 커피 메뉴와 허브티와 핸드메이트 티 등등 다양한 ",
+            "url": "https://m.blog.naver.com/08520258/223347548412",
+            "nick": "S맘",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA0MjRfMTUw/MDAxNjUwNzYxNDc5NTY5.eKGKjb0Nsx1IkCBf1o5edaCwEjfls_8pA8U7tA7wERgg.BGPcekziv421YP5d-VgEPtqlSXdgBSw-1IehYi6Gvxsg.JPEG.08520258/profileImage.jpg"
+          },
+          {
+            "sid": "1992316476",
+            "bodySummary": "구석구석 앉을 공간이 배치되어 있고 테이블도 넓어서 쾌적한 환경에서 커피를 즐길 수 있답니다~! 아기자기한 소품들로 가득 매워진 인테리어가 앤티크 한 분위기를 조성하기도 해요 소품",
+            "url": "https://m.blog.naver.com/g_on_g/223139508605",
+            "nick": "봄솔솔",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20220601_169/g_on_g_1654058062081XBu1K_JPEG/image.jpg"
+          },
+          {
+            "sid": "1992316476",
+            "bodySummary": "위치 & 영업시간 & 주차 위치 영업시간 매일 09:00 - 21:00 주차 : 호텔 건물이라 주차는 가능하지만 유료로 가능. 카페 블랙드럼(Black Drum) 외부 카페 블랙드",
+            "url": "https://m.blog.naver.com/mimidoodoo486/223138693108",
+            "nick": "메메츄",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAyMjVfNDIg/MDAxNjc3MzA2ODIwNjg1.aPcoEeYosX5rFo_BQyx9Asg1JqCBIqt6xK1Mt9FKLGEg.G9oqizNfHDIftd8UNF8zsKrHRwRJdijaUF9JjQAc1c0g.JPEG.mimidoodoo486/profileImage.jpg"
+          },
+          {
+            "sid": "1992316476",
+            "bodySummary": "낙원상가 근처에 있고 익선동도 바로 앞에 있었어요 블랙드럼 본점 [ 주소 ] 서울 종로구 삼일대로30길 9 종로크라운호텔 1층 [ 영업시간 ] 매일 09:00~21:00 출처 : ",
+            "url": "https://m.blog.naver.com/odette0112/223096447328",
+            "nick": "오데뜨",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAxMTRfMTg4/MDAxNjQyMTQzMjIwOTM3.3HXN3uY47SL8LrnYNhjLQporG0sb5kmLFI_AmnO3N7Eg.ZzCunIsFbeQlqM7BdIYZsLi2rPnMMYWTG2Mnp50rgwUg.JPEG.odette0112/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "id": "36305441",
+        "name": "파리바게뜨 종로세무서점",
+        "x": "126.9886031",
+        "y": "37.5741375",
+        "distance": 0.017,
+        "categoryName": "베이커리",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220564",
+            "221176"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "베이커리"
+        ],
+        "reviewCount": 1805,
+        "averagePrice": 2000,
+        "address": "서울특별시 종로구 낙원동 58-1 종로오피스텔 1층",
+        "roadAddress": "서울특별시 종로구 삼일대로30길 21",
+        "abbrAddress": "낙원동 58-1 종로오피스텔 1층",
+        "shortAddress": [
+          "서울 종로구",
+          "삼일대로30길 21"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "파리바게뜨 종로세무서점입니다. 네이버 스마트주문에서 간편하게 주문하세요!",
+        "description": "파리바게뜨 종로세무서점입니다. 네이버 스마트주문에서 간편하게 주문하세요!",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDVfMTMy/MDAxNzQ2NDUxNjI2OTA5.G7RZqFLWV9P2qGUqN1_3lJf97u2-1qWQienmTSvV9aYg.Vf_QWzEKpaHl1HFdnPSOYRJjustDbQJPdSHt1XkVIr4g.JPEG/18A1B722-DA8F-46F2-9BEE-0F02C106978F.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjJfODUg/MDAxNzUzMTY2MjE1Mzk1.0YV-pAASdM9Rm84CsDTDZdL3h8FYwVwiVAbnEGK0qoIg.QYQzC7li0iHkdYunZC_3BZE96gLB8T6btQi2Gj5jIsEg.JPEG/IMG_20250722_153356963.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20220413_219/1649840680010FuCYe_PNG/image.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjJfMzcg/MDAxNzUzMTU0MTY2NDI2.zyKkIolMk_5iyfrmRfzlRUF5XWLaMi_JeRN6yrg89-gg.GBl7wkysK8V74ZXeHFKEf7l05DNnBCLfrV8AWc5AHsIg.JPEG/20250722_120449.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDFfMTI0/MDAxNzU2Njk1Njk1Mzcx.NZlhcIhdvl2ZCEubolaIor5IjuxjZSdGbj4pgoUb7cYg.0f77CUZO4iySmcnssxqS7mWq200KS6g_0uA-fELh4IQg.JPEG/20250901_115945.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTBfMTQw/MDAxNzQ2ODc1NTY3OTEx.YSzEjEsizzmFixoPwbqFt_4potM5R4H8CGK3JbyXAmAg.HePniHPrpZaXQNsXOBlSWYf_JL8P3ClQuzjgr9MknI0g.JPEG/20250217_125326.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTRfMjIw/MDAxNzU1MTQxMDQ3MTYw.pXsn0v0apSwEtsHlUR7iUfqMPe9rmBVNwAl3L3WHf6og.LX7o5hss9aJIhYZh2JIx3NM5WleBfHps5HNLlQqElk4g.JPEG/20250814_120032.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTVfNDIg/MDAxNzQ0NjkyMTk3ODky.-Ifa-jwX0Xheh1wkLR9vZzIl3A2u2tkdDbD_oSyVguQg.tzy2VdGI8XuhUWTSW9zO0sr4Q8y4T5Qhz9IyWGsodi0g.JPEG/20250415_134202.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDFfNzAg/MDAxNzQ2MDgwNjMzNTUy.HZ-EC9bdb2YqBz03ipq07MxYeKZdGzzadOUjl2mH1NUg.2OV3cMHuQ3N1v5vnlnDPsSpTPTb_hZPtqKOopIT6XLYg.JPEG/CA9C44E0-48AE-4FB2-BEE6-53EBC5961929.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDhfNzcg/MDAxNzQ2NjczMTQwMzA3.oewRLfELF7IQtwVNNo8w3sEvN25DeErqoVUIXjXQ60Ug.ueGRUSt2TEv9o1MaFYWM21vcVNt-0kZR10u1uDDAUSQg.JPEG/20250508_115805.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221176",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.45",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "36305441",
+            "bodySummary": "루프스테이션 익선에 주차는 불가하고 익선동이 워낙 좁은 골목이라 차를 가져가기 힘든데 자주가는 카페 게시판에서 꿀팁 발견 ㅎㅎ 파리바게트 종로세무서점 매장 앞 주차장에 주차를 한 ",
+            "url": "https://m.blog.naver.com/floyeji/223123896024",
+            "nick": "에디",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA5MjFfMjEy/MDAxNjYzNjk4NDQ3NjU3.4S6gxAPnaEOWGem788tuBYe_QiSl4bT3L66-sS7ARBAg.XqftelfH_yitQdP5OnrqMvGrhJU_Y5E2Eoz3EnRy850g.PNG.yjyj2242/profileImage.png"
+          },
+          {
+            "sid": "36305441",
+            "bodySummary": "인사동에서 파리바게트 찾기가 쉽지 않았다 핑크달리아 케이크가 딱 하나 남아 있었다 그래도 인사동에서는 여기가 제일 가깝다 넘 예뻤던 케익",
+            "url": "https://m.blog.naver.com/kkyyjj12/223117191774",
+            "nick": "하운",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMjBfNTQg/MDAxNzEwODg5MDExNTM2.3Khs13vptn3sJhIwOdhT4t1WXg9UaRsWdW6TGjq-5aIg.RLrzqVRI3mJlEQ6sSJtd0Y4NeAuoZ39-zjMO4mEgOyYg.JPEG/profileImage.jpg"
+          },
+          {
+            "sid": "36305441",
+            "bodySummary": "익선동 바로 옆이예요 샐러드 샌드위치 종류 다양하고 가격도 좀 더 저렴한 편입니다 다만 요기요 주문 시 매장가보다 오백원씩 올려서 받는 메뉴들이 많아서 아쉽지만 뭐 이 매장만 그런",
+            "url": "https://m.blog.naver.com/dizzy0201/223065636309",
+            "nick": "지지",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA4MDVfNjcg/MDAxNjI4MTI0MTY2MTE3.6cMi20bdKtXxP_HIBEp_tYkPkZErEhGce-V8birpuJ4g.wlIlp-ggMjl75dGuu0nyYTmklfLLz0ftqmUlftJ1jDIg.JPEG.dizzy0201/profileImage.jpg"
+          },
+          {
+            "sid": "36305441",
+            "bodySummary": "미리 전화로 예약했어요☺️ 결제는 그날 매장가서 했구요 !! [제품 특징] 영유아 뿐만 아니라 MZ세대들에게도 인기몰이 중인 뽀로로의 절친 ‘루피’를 그대로 재현하고 스티커 꾸미기",
+            "url": "https://m.blog.naver.com/wkd7714/222479652559",
+            "nick": "윰늬",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA3MDJfMjIy/MDAxNjg4MzA2MDY4NjA1.bvlCmrg7uBD7NNy_3DXoJY9pU3Pnh2AMsVFYQTUZuAMg.wE4h1lFeZNTNnvnU1g4myA5_gMl5TRu1zClyidB0kgog.PNG.wkd7714/profileImage.png"
+          },
+          {
+            "sid": "36305441",
+            "bodySummary": "그리고 사먹는 샐러드의 장점답게! 닭가슴살이 매우매우 보들하고 적당히 간이 되어있어서 먹기 더 더 좋았답니다 같이 넣어준 건라즈베리와 듬뿍 들어간 견과류는 한 층 더 풍부한 맛을 ",
+            "url": "https://m.blog.naver.com/shine9329/222304107543",
+            "nick": "브라우니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTAzMzBfMTA0/MDAxNjE3MDY1Nzg3MDQy.7E3ta-8ggCzybr67BMGpr-NsTTHgGyHtpI435jCb2kYg.6iflAdoQkcGVXWGjZDXJCM62OxYB17Agw_EfzCSQTtgg.JPEG.shine9329/KakaoTalk_20210330_095550322.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "id": "1801952684",
+        "name": "매머드익스프레스 익선동점",
+        "x": "126.9892238",
+        "y": "37.5741365",
+        "distance": 0.038,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "230847"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 895,
+        "averagePrice": 0,
+        "address": "서울특별시 종로구 익선동 137-2",
+        "roadAddress": "서울특별시 종로구 삼일대로30길 28",
+        "abbrAddress": "익선동 137-2",
+        "shortAddress": [
+          "서울 종로구",
+          "삼일대로30길 28"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 종로구 익선동 137-2",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjZfMTEz/MDAxNzUwOTI1MjI2OTI1.6rbdkxr3Euqkjr48VSm_Os4xxa4J9EdzoCiubu9K95kg.QbJOt2MMhTcVG5Yi6K7zO7cajMx7VUk9jnWaRFkrSy4g.JPEG/D063F244-2CFC-4812-AC98-9A769F17201B.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MzBfMjU0/MDAxNzU2NTYxOTU1NTky.VbcdZtrm8S3EmFlHojhqpKBvFE4WGklUG-9Yo20WpaAg.t5J28_tY7AVwnUePc2LusHtsw1cWorXRXLoh_deH5eQg.JPEG/E5C8D03D-FAF3-4B3E-B4F9-9BE526F52DD0.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDVfMjAw/MDAxNzQ2NDA3NTQ2MDgy.nnxGa38OK_nC22s5qHsAT34zI4Pal7ONfO4UkDd4nNUg.Wf5rgfK1mVQHZFHOUkFTz5l0aNgEPjl-wH1lgJceUWMg.JPEG/20250417_093823.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjRfNDcg/MDAxNzYxMjYyMjMzMzA3.3VI0BZPBbe0qbP3-6ZrXqRPFOa02q9wrVffZVszHkrwg.Tw7f0QSda2sHhygmr19xdc0OJucqlalvBtRin8NetbYg.JPEG/C9C7FE31-8393-4B68-AF47-2583B683C796.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTZfMTM0/MDAxNzU1MzI3ODE1NTA0.b-h-nygIr3SkHcZN9jQJjuJYEXoa9jKpXOyl9y-odWwg.5hKMcWS-z2lTJ4hmfP_56_YOOMj5kgx4Bpm8tCmKEikg.JPEG/20250816_160254.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTFfMTg4/MDAxNzU3NTc4NzE4Mzgw.4Z0yWTRas29NEC6NjT8eVvKb4CyJ-EiUPBD2KsdwLA8g.kZVd4tj7hytDxUSO78cCh_mY5zni6TtPZ6AY5qcFQgYg.JPEG/B9DDAD0A-DE9F-47D4-A7AC-7DB3B1F5F6D2.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDVfMTYz/MDAxNzU0MzkzNjcxMTM3.n3KM9BSV0Fd3YDSDFK5bvyI-yzMa4dPtxA60NKhgIt0g.T6pl67c_92ErUwuZ9tymtqCK_EN-O0q0nDYnglDnKRwg.JPEG/64341CEA-0F48-4CF0-9AAB-C3D98D627CA4.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "230847",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1801952684",
+            "bodySummary": "익선동카페 매머드익스프레스 테이크아웃에는 저가 커피 브랜드가 제일인데요 익선동에 자주 가고 있어서 테이크아웃이 필요할 때 가끔 자주 가는 매머드익스프레스 익선동점을 소개해요 매장은",
+            "url": "https://m.blog.naver.com/amiableohmi/223221226587",
+            "nick": "박또빵씨",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEwMDlfMTQ4/MDAxNjk2ODYwMTUzNDI3.tJd28zpNsZ5ckCeBruynDQZu8NPatyXG4MbwIbSqlpwg.kE0h5IrL7o3i2bql82uuOIhcsYM7e2oSLYLWOSEhB68g.PNG.amiableohmi/profileImage.png"
+          },
+          {
+            "sid": "1801952684",
+            "bodySummary": "안국역은 아무래도 카페 음료 금액대가 높은 곳이 많기에 요렇게 테이크아웃점이 있어서 너무 좋습니다. *위치* 영업시간 월요일 - 토요일 : 08:00 - 20:00 일요일 10:0",
+            "url": "https://m.blog.naver.com/awd920808/223208366085",
+            "nick": "별명",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTA4MTVfMjQ2/MDAxNTY1Nzk3Mjg1OTM3.1OepNLO1bAjprpLxjkccMnHdPw-5-WvF2YemSykZPK8g.JnunbQKTmkGFyqPpmMVTs1EAVsmoD6Ixt4_BAdDFI3kg.PNG.awd920808/profileImage.png"
+          },
+          {
+            "sid": "1801952684",
+            "bodySummary": "일하러 갑니다! 들어갈 때도 나갈 때도 인사해 주셔서 저도 힘이 솟는 기분이 ••! (다녀본 매머드 지점 중에 최고십니다) 다음엔 신메뉴로 나온 바닐라 크럼블 아이스크림 라떼도 먹",
+            "url": "https://m.blog.naver.com/iksun_choi/223198746464",
+            "nick": "be happy",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA4MDFfMzMg/MDAxNjkwODI4MDIzNTU3.xuISJ0R9dMxacebBSxKXu7JWRusNDBF6hxU_I-yBTKEg.wmFkpJJB4rEdQFsCl6-w6PUmi5QhUSESYG93GivHLjUg.PNG.ikseonspace/profileImage.png"
+          },
+          {
+            "sid": "1801952684",
+            "bodySummary": "안녕하세요. 필름특공대 입니다. (--)(__) 오늘 시공 현장은 익선동에 오픈한 카페 - 매머드 익스프레스 입니다. 시공 부위는 입구샷시+강화도어, 상하부 붙박이 수납장, 카운터",
+            "url": "https://m.blog.naver.com/agggas/222887000436",
+            "nick": "필름특공대",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA1MTBfMjAy/MDAxNjUyMTEwMjUxODg0.0CMeUFKIUwkeGLt3BWXDNuV4TD8zj0k1PuNrtiPy9gwg.0cD5rTHP61EbNwDyFrAuqSr_jttt1XZSCT8-QOTlB2Eg.PNG.agggas/KakaoTalk_20220510_002709091.png/KakaoTalk_20220510_002709091.png"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "id": "1783958750",
+        "name": "전주집",
+        "x": "126.9888063",
+        "y": "37.5742316",
+        "distance": 0.008,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 22,
+        "averagePrice": 9000,
+        "address": "서울특별시 종로구 낙원동 58-1 지하1층 105호",
+        "roadAddress": "서울특별시 종로구 삼일대로30길 21",
+        "abbrAddress": "낙원동 58-1 지하1층 105호",
+        "shortAddress": [
+          "서울 종로구",
+          "삼일대로30길 21"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "서울특별시 종로구 낙원동 58-1 지하1층 105호",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 5,
+        "id": "1992628655",
+        "name": "워싱턴",
+        "x": "126.9886047",
+        "y": "37.5742255",
+        "distance": 0.019,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 8,
+        "averagePrice": 11000,
+        "address": "서울특별시 종로구 낙원동 58-1",
+        "roadAddress": "서울특별시 종로구 삼일대로30길 21",
+        "abbrAddress": "낙원동 58-1",
+        "shortAddress": [
+          "서울 종로구",
+          "삼일대로30길 21"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "서울특별시 종로구 낙원동 58-1",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 6,
+        "id": "2023267989",
+        "name": "익선끝집",
+        "x": "126.9884122",
+        "y": "37.5737195",
+        "distance": 0.059,
+        "categoryName": "육류,고기요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220733"
+          ]
+        ],
+        "category": [
+          "한식",
+          "육류,고기요리"
+        ],
+        "reviewCount": 545,
+        "averagePrice": 20000,
+        "address": "서울특별시 종로구 낙원동 56 1층",
+        "roadAddress": "서울특별시 종로구 삼일대로30길 10-3",
+        "abbrAddress": "낙원동 56 1층",
+        "shortAddress": [
+          "서울 종로구",
+          "삼일대로30길 10-3"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [],
+        "cardDescription": "'블루리본 서베이 2025'에 선정된 본점 '당산끝집'이 종로에 '익선끝집'으로 입성했습니다! 저희 익선끝집은 참나무 장작 직화로 빠르게, 진하게, 끝까지 구워냅니다. 불향 입힌 고기 한 점, 여기 ",
+        "description": "'블루리본 서베이 2025'에 선정된 본점 '당산끝집'이 종로에 '익선끝집'으로 입성했습니다! 저희 익선끝집은 참나무 장작 직화로 빠르게, 진하게, 끝까지 구워냅니다. 불향 입힌 고기 한 점, 여기 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDNfMjQ4/MDAxNzU0MjI0OTU0Njkw.4FitBRlldy-2Xg3Qvetsli3kWJWcNOQwm7tfVIGZ6XAg.mTE61S_7L33zgoiccUG_JUVvu_NL05ciXDjV9Tl5NX8g.JPEG/20250803_201239.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDNfMTEy/MDAxNzU0MjI1MjA0MTg1.Kqe1pG4vfMUUYvojOONLTJYJNid4YYp0wO8PiMkVPkgg.czgMkmt_OBtyPHaV8Q9wZoI6_SuNbSbG4wnck3_pcXkg.JPEG/20250803_201427.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250704_211/175162187883801JFt_PNG/20250704_183628.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjlfNDMg/MDAxNzUzNzQzNzkxNjU0.N_dNLccKPWYd0uh_vWs-0fqeNBeNgEqLWORnwMWJe9wg.aSa7e7rCe1JWJT5SFMDJPzArF36YRx0xGVUsa3KPyWQg.JPEG/AAD88974-3690-4BF9-A04E-CA75897D730A.jpeg",
+          "https://ldb-phinf.pstatic.net/20250716_77/1752622255615C9lAg_JPEG/1000063808.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjlfMTQy/MDAxNzU2NDcwMDY3MTY5.hQjKqdZIEOYDjPprVz4x82ko0TPLejQiET6tgtuA8b4g.ocYfVYe4elVJyhMJWWdsDvLPgYptIf9eZcna4DWqzuIg.JPEG/EB064ACA-2FA3-4467-BEB1-262E4F13318A.jpeg",
+          "https://ldb-phinf.pstatic.net/20250716_7/17526222555978YyMj_JPEG/1000063796.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTRfMjUw/MDAxNzU3ODU3MDUzNzcz.qm62Uf68_t8wj-lQxfhTqJHU9pUkmj3DSmzKtGsSPGEg.0wOkhtOgAFS8kvgRNWZ5FAxJNQ-IcEATF1U5GR7VtSwg.JPEG/1757856859022.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjFfNTIg/MDAxNzUzMTAwMjgxNzY5.xW8mauZIt_2rURriECvPQ6WtEUB6VeGnHhom2m9DKQgg.JGVEw8M1ec5iddqYHi9dm2FtnAxZ1IMnyv5p38N8nxIg.JPEG/20250719_170430.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDVfMjc0/MDAxNzU3MDgwMjM5MjY5.J1iYzBiiSt_c6DeipPtvXnWrZrojxpMxdGuHAf1OtKEg.ZtvUgBpDfGVUIHlzSm0peAULQTD3eVT6hrz-oQ3OuTIg.JPEG/FB95DFD2-657E-4A8F-B0C3-B5302EE0FC18.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220733",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 7,
+        "id": "38426942",
+        "name": "양키스버거",
+        "x": "126.9892822",
+        "y": "37.5741511",
+        "distance": 0.043,
+        "categoryName": "햄버거",
+        "categoryPath": [
+          [
+            "220036",
+            "220044",
+            "220138",
+            "221004"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "햄버거"
+        ],
+        "reviewCount": 2069,
+        "averagePrice": 10000,
+        "address": "서울특별시 종로구 익선동 133-2 1층",
+        "roadAddress": "서울특별시 종로구 삼일대로30길 30",
+        "abbrAddress": "익선동 133-2 1층",
+        "shortAddress": [
+          "서울 종로구",
+          "삼일대로30길 30"
+        ],
+        "displayContext": [
+          "수제버거",
+          "햄버거",
+          "블루베리",
+          "데이트",
+          "나들이"
+        ],
+        "labelTheme": "분위기 좋은",
+        "microReviews": [
+          "핫윙의 쫄깃함과 버거의 완벽 페어링"
+        ],
+        "cardDescription": "핫윙의 쫄깃함과 버거의 완벽 페어링",
+        "description": "안녕하세요. 양키스버거입니다.  저희 양키스버거는 언제나 신선한 재료만을 선별하여 모든 음식에 정성을 다하고 있으며, 편안하고 쾌적한 분위기에서 식사를 즐기실 수 있도록 준비하고 있 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTRfMTMx/MDAxNzQ5ODg2NTY1ODI1.TIauOvF7DlinwGPlyrirAcgffOEHRGjqnIK50Xc1u-0g.CclvD3524rcsppJUCtBZBfIpddB4gJGL16bdluBdUmAg.JPEG/D364FABD-5C29-48F6-BE3F-FE5527BCE31E.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDRfMTIw/MDAxNzUxNjAxOTc4MDA1.XhAQxaZX-iiva-jj_8tOEA0Ymlmjc9bXP3yjFxdAEngg.YIfjC9rwy_Ogy8m2OzbnWBSeROaX-daaGrhb_ldB_ckg.JPEG/F912E560-9388-4ED5-9CA0-17A557EA5393.jpeg",
+          "https://ldb-phinf.pstatic.net/20210707_149/1625636186202JdpdX_JPEG/9k04jvSk2LUGIXgJHI4I1Loz.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjBfMTAg/MDAxNzQ3NzM5NjcxNzkx.yWqXJp6Fji8pcmMviN-_ydu-kGkLv5M79ewVDXBVZKgg.wk73576zTXl8MJ9RFTGpd4A7xz313MsRBc32d31cTRsg.JPEG/4F5E963F-9FE7-4333-9C07-BC906C5AA3DA.jpeg",
+          "https://ldb-phinf.pstatic.net/20201204_67/16070747785614VyFx_JPEG/tExosKIghbN-FNBXx_VR-t_9.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTlfMjA3/MDAxNzQ1MDU5NjEzMDI4.YJ-hfZKTKE64QJAvlGAfAPd6qqgb7famcqpJE_vxi34g.4PtIbc9isZAlcUMZdqNvUnIF7KSEh3sQQi7epvJkNnkg.JPEG/20250405_125850.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250127_159/1737943585230aaX8c_JPEG/20240319_174107.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTRfMTc5/MDAxNzQ5ODcwNTc0MzEx.AFOuBBVAKfUT4JixG0JUCTZ7I_HGZ9kiss6VpwJ_O_8g.tn6PYVTVH6mQbqK_bf6bCeLoZCzukYb6FkwIhbRPTM4g.JPEG/20250430_180935.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjBfMjA2/MDAxNzQ1MTU1NTkxNTkw.LcXHb65DWK3mhofuO1TOLKK-ktsLpPWhE_2j8e73NFgg.IzJ7m_C5sHV3K4i-Pi1_I6Y61G9hRm0vS5ByBN3e-M8g.JPEG/056DB699-3971-4676-9A5C-B82DDBDEEF17.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTRfNTQg/MDAxNzQ3MTk3NTUwMjA5.JFtrquXgd0bfasEaswpEvscfdaqBa6R76mu6YQQjoW8g.InY3NkKxPpwhKGBSH17-xC2e83ZWE9Bi8-qj8Axbso0g.JPEG/9C03FFC0-7651-4C55-8AC3-98272B094B9D.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221004",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "38426942",
+            "bodySummary": "양키스버거 Yankees 서울 종로구 삼일대로30길 30 (익선동 133-2) 영업시간 11:00-21:00 / 평일만 브레이크 3시-4시반 종로3가역, 익선동 한옥거리 쪽으로 조",
+            "url": "https://m.blog.naver.com/haein1991/223394725556",
+            "nick": "매운와사비",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMjNfNzUg/MDAxNzAwNzI4MjEzNzk2.p4DkeEqnqbZNaudRbQcWHoUa_XvfhSrhnJnLNZnN2Jgg.BDZTabCb7Gqfq4vsT46evwAgzu98cvfWmG0TEafBEAwg.PNG.haein1991/profileImage.png"
+          },
+          {
+            "sid": "38426942",
+            "bodySummary": "분위기에 취하고 맛에 취하고 너모좋았던 공간 사람도 많았어서 수제버거 맛은 어떨까 두근두근 기대가 됩니다 주문내역 클래식 치즈버거 더블 + 세트 베이컨 버거 + 세트 클래식 치즈버",
+            "url": "https://m.blog.naver.com/hhbk712/223381505257",
+            "nick": "개란말이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA4MzFfMjY3/MDAxNjMwMzk4NTIwOTUz.UPbWIvg0lYvw4cJGHSbgBQ_knugCwaBJBHA_6WnU-ykg.AbWJ8T15jQzxxRMShcXbWHtfVa2lryud-zKGHW41ntUg.PNG.hhbk712/profileImage.png"
+          },
+          {
+            "sid": "38426942",
+            "bodySummary": "'양키스버거 익선동' 서울 종로구 삼일대로30길 30 방문 일자 : 2024-02-25(월) ⏰영업 시간 월-일 11:00 -21:00 월-금 브레이크 타임 15:00-16:30 ",
+            "url": "https://m.blog.naver.com/byeong_v/223378511682",
+            "nick": "ByeongV",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMDZfMTMw/MDAxNzA0NTExNjY4MjQ1.rB6N5kesNoUWKiDejztnimWJtpQpB0VY3R3Gf6mdQ9Ig.9_JeEzGhymkucnv_FJWpDAYJW02AUKDD5EsnkSrnzTIg.JPEG.qud940327/KakaoTalk_20240104_225005430_07.jpg/KakaoTalk_20240104_225005430_07.jpg"
+          },
+          {
+            "sid": "38426942",
+            "bodySummary": "안국역 다운타우너 말고 또 수제버거 먹을 만한 곳이 있나 찾아보다가 알게 된 익선동 맛집 , 양키스버거 -매장 위치- 서울 종로구 삼일대로30길 30 -영업시간- 평일 11:00 ",
+            "url": "https://m.blog.naver.com/vlwked/223378948096",
+            "nick": "줭",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxODA3MzFfMTg4/MDAxNTMzMDMxNjU0NjQy.D6nXcsLkdEb7hhp74S7D97FUaL6Z_AuBN9bGgLXQCmAg.XrbiKgFE3-GjQp_IWN6boIM7KZMQObCXpPY4LO_GHQkg.JPEG.vlwked/%25B9%25AB%25C1%25A6-4%2B%25BA%25B9%25BB%25E7.jpg"
+          },
+          {
+            "sid": "38426942",
+            "bodySummary": "최근 포스팅했던 광화문 펀치스낵을 통해 언급했다시피 최근 식단을 열심히 하고 있습니다. 수제버거만큼 식단에 최적인 음식이 없기 때문에 수제버거 맛집들을 탐방 중이라고 말씀드렸는데요",
+            "url": "https://m.blog.naver.com/won__blog/223368806126",
+            "nick": "고독하지 않은 미식가",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMjRfMzYg/MDAxNzA2MDgwMjU4NjMw.U6wZic5lkpteHLoV5qn5dRawP_YvqvgHdZqi8YjC904g.jqrn6Y-pWSyCB-Lem7tlUGaoM-yW7_02KSyttCP55xsg.JPEG.wonjooni86/%25EC%259B%2590%25EB%25B8%2594%25EB%25A1%259C%25EA%25B7%25B8_%25ED%2594%2584%25EB%25A1%259C%25ED%2595%2584_%25EC%2582%25AC%25EC%25A7%2584.jpg/%25EC%259B%2590%25EB%25B8%2594%25EB%25A1%259C%25EA%25B7%25B8%2B%25ED%2594%2584%25EB%25A1%259C%25ED%2595%2584%2B%25EC%2582%25AC%25EC%25A7%2584.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "id": "1516814112",
+        "name": "종로세무서 구내식당",
+        "x": "126.9889343",
+        "y": "37.5738921",
+        "distance": 0.032,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 5,
+        "averagePrice": 0,
+        "address": "서울특별시 종로구 낙원동 58-8",
+        "roadAddress": "서울특별시 종로구 삼일대로30길 22",
+        "abbrAddress": "낙원동 58-8",
+        "shortAddress": [
+          "서울 종로구",
+          "삼일대로30길 22"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [],
+        "cardDescription": "서울특별시 종로구 낙원동 58-8",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

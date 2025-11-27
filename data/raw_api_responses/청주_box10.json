@@ -1,0 +1,4359 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 61,
+      "count": 61,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 127.489,
+          "minY": 36.6424,
+          "maxX": 127.49461395691675,
+          "maxY": 36.646904504504505
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "127.49180697845838;36.64465225225226",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1855764972",
+        "name": "미플(Meeple)",
+        "x": "127.4919691",
+        "y": "36.6456469",
+        "distance": 0.112,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 67,
+        "averagePrice": 4000,
+        "address": "충청북도 청주시 상당구 수동 427-23",
+        "roadAddress": "충청북도 청주시 상당구 대성로226번길 3",
+        "abbrAddress": "수동 427-23",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "대성로226번길 3"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [
+          "2층 보드게임으로 떠나는 특별한 시간"
+        ],
+        "cardDescription": "2층 보드게임으로 떠나는 특별한 시간",
+        "description": "수암골 초입, 대성여상 앞에 위치한 카페&보드게임 미플입니다^^ 1층은 맛있는 커피와 디저트, 2층은 재밌는 보드게임과 다트를 즐길 수 있어요~",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDVfMjYw/MDAxNzU0Mzg3MjQ4NTU3.PLu4Z8qiPxV_gVvP9JcQtyZ9MoDbQf5OCHw6Ky1Itn4g.q4MmQFSZTt1zAG9oNJtb06kOkJKTTGKygY_naLRQ5bsg.JPEG/1000022925.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTlfNzEg/MDAxNzYwODUxNDI1MDc1.RC9YOMhIp4NiFbznzYsYBF1ehzgcPP0GFh_1oxywIp8g._AOFDSFQ6TRvPgWkbctpfdFppz_aK3tk-FT84uW6tgsg.JPEG/1000180825.jpg.jpg",
+          "https://naverbooking-phinf.pstatic.net/20241128_204/1732761259756G8BLa_PNG/image.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDVfMjU0/MDAxNzU0Mzg3MjYzNTM0.8x06NZf5qNQbluFdJDkTuD8SPtrkiM3-Je6SetYCrgQg.veT34dFeZz8XPHWO7tbiD4Iis_acRSAoYvbb5dO7TwMg.JPEG/1000177747.jpg.jpg",
+          "https://naverbooking-phinf.pstatic.net/20241128_216/1732761314044nHPxm_JPEG/image.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjhfMjk2/MDAxNzQ4NDMwMDg1MjMx.9wj8MeoEDxS-YTHTKJUE3XO8CPs5v1wEwkdXpZLb4Hwg.ioxNpPZ_uJ3zb5qLTdj9bpNT1R0OhV2ygjPzl_KTeAMg.JPEG/1000174582.jpg.jpg",
+          "https://naverbooking-phinf.pstatic.net/20241128_122/1732761314162gWQiT_JPEG/image.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "1431781652",
+        "name": "바우케이크하우스",
+        "x": "127.4913266",
+        "y": "36.642543",
+        "distance": 0.239,
+        "categoryName": "베이커리",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220564",
+            "221161"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "베이커리"
+        ],
+        "reviewCount": 43,
+        "averagePrice": 40000,
+        "address": "충청북도 청주시 상당구 수동 379-1 1층",
+        "roadAddress": "충청북도 청주시 상당구 상당로158번길 28",
+        "abbrAddress": "수동 379-1 1층",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "상당로158번길 28"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "a special day for you ~*~*  bau cake house  custom cake shop",
+        "description": "a special day for you ~*~*  bau cake house  custom cake shop",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjJfMzkg/MDAxNzU1ODUxNDc5ODQx.n-mNc1-XvjKjgEUrB7QAeA-Y6s-YN31CroGyAVDFUOYg.OZdsUdrDN5qsRDXgGc7wdQRqCh5O5AHzbYsm5ZaksTsg.JPEG/06C55736-7665-4320-BCC7-3595348A93F8.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTdfMjQ5/MDAxNzU4MDM1NjU4MzM0.TBqoNL1z3qP8lqx5lHbuzQIEhK85I2lUqqB0z0x7JxIg.Mwd2yHArleOSXzZH8xV-K-LgjxiA3j-Xv7akY4rITOUg.JPEG/02CD89BB-E5B4-4C8A-AFB9-76A813B9568D.jpeg",
+          "https://ldb-phinf.pstatic.net/20230402_230/1680408074583zXpfR_JPEG/91563366-B71A-4066-95F1-8427D01008C9.jpeg",
+          "https://ldb-phinf.pstatic.net/20231205_238/1701743655005Ffzcx_JPEG/IMG_2090.jpeg",
+          "https://ldb-phinf.pstatic.net/20231205_77/1701743655116puSo7_JPEG/IMG_2691.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221161",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1431781652",
+            "bodySummary": "인스타 피드에 있는 직사각형 케이크가 요새 유행인 것 같고 귀여워 보여서 주문하고 싶었지만 둘이 먹기에 양이 좀 많을 것 같아서 원형도시락으로 주문을 했답니다 저는 원형 도시락에 ",
+            "url": "https://m.blog.naver.com/ssgdol/223394685581",
+            "nick": "슥돌",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA5MTNfMTQz/MDAxNjk0NjEyODMwMzEy.tXCJjx54Bk4vIzhnJlSzezdORKzHcUR8cjXuHHMbfeQg.cFmD4Ftie1u-pwD2g3rj3NEVvsvxAd-NwCr_qTnBbRcg.JPEG.gjwnswl/KakaoTalk_20230913_224654956.jpg/KakaoTalk_20230913_224654956.jpg"
+          },
+          {
+            "sid": "1431781652",
+            "bodySummary": "바우케이크하우스 충북 청주시 상당구 상당로158번길 28 1층 매일 12:00 - 19:00 0507-1391-8914 나라가 인스타에서 미리 예뻐서 알아둔 바우케이크하우스 마침 ",
+            "url": "https://m.blog.naver.com/ejs4476/223390401151",
+            "nick": "피글렛",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMTBfNTYg/MDAxNzEwMDMzNDMwODEx.--91SE3w9aI8ZoPr4nJ3ILvYx97SOALxMni9iBtdnuEg.0zLsKrrRO6JS-CR5w6ZVkdCLq4ZHI7qGl29BtQJP8bgg.PNG/profileImage.png"
+          },
+          {
+            "sid": "1431781652",
+            "bodySummary": "당일은 변경이 어려울 때가 많습니다!) 위치 충북 청주시 상당구 상당로 158번길 28 (수동 379-1) 1층 바우케이크하우스 *성안길 청소년광장 도보 10분 거리 주문방법은 [",
+            "url": "https://m.blog.naver.com/moyahoya_/223365830099",
+            "nick": "MOYA",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMTRfMjgg/MDAxNzAyNTEzNTkyMDM3.aEvivE9qBd0EGhdsuRM2QHKXa7JTqN1H9IJFZxhJK3Ag.TcgZPNKONor0t6YyV4pnduQt99abj4adjyDVIPlVUIkg.GIF.dse0727/%25EB%25AA%25A8%25EC%2595%25BC8-%25EB%259E%25B4%25EB%25B7%25B02.gif/%25EB%25AA%25A8%25EC%2595%25BC8-%25EB%259E%25B4%25EB%25B7%25B02.gif"
+          },
+          {
+            "sid": "1431781652",
+            "bodySummary": "똥굥입니다. 지난주에 남자친구와 1주년이었어요 !기념일에 빠질 수 없는건 바로바로 케이크죵 바우케이크하우스 (BAU CAKE HOUSE) 이리저리 찾아보다가 케이크 디자인이 트렌디",
+            "url": "https://m.blog.naver.com/imskrrrr/223365678712",
+            "nick": "똥굥",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxNzA5MjFfMTg5/MDAxNTA1OTkxMjA3NDMx.sjj7zvOtSN17SPMh8v0EvfR7HcG7ImWG9aM7Wgv-3qYg.cTidFJXPKnnWSRQSXO_s3KW0Z5kVzViVSlFnVYYJ2o8g.JPEG.sglim1012/profileImage.jpg"
+          },
+          {
+            "sid": "1431781652",
+            "bodySummary": "짝꿍이 매번 닉네임?처럼 쓰는 게 있었는데 그걸 Ariel 자리에 적으면 딱일 거 같았음 ㅎ 그래서 후딱 주문을 하러 달려갔답니다 ( ⍨ ) 주문 및 문의는 위의 카카오톡 채널로!",
+            "url": "https://m.blog.naver.com/mlnchox/223260938591",
+            "nick": "민초",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA3MzBfOTYg/MDAxNjkwNjQ5OTkyNjkz.nAc8nVl0v-fJKnA9uJXytt7fDRfD9GrWaMa8r_QCckYg.CVZNxONa2gNK378085J16k6_7r43-F6a1Kzfip56OpYg.PNG.mlnchox/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "id": "1829259857",
+        "name": "수클랑",
+        "x": "127.4908834",
+        "y": "36.6433215",
+        "distance": 0.17,
+        "categoryName": "양식",
+        "categoryPath": [
+          [
+            "220036",
+            "220044",
+            "220126"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "양식"
+        ],
+        "reviewCount": 548,
+        "averagePrice": 10000,
+        "address": "충청북도 청주시 상당구 수동 386-10",
+        "roadAddress": "충청북도 청주시 상당구 대성로199번길 16",
+        "abbrAddress": "수동 386-10",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "대성로199번길 16"
+        ],
+        "displayContext": [],
+        "labelTheme": "양식",
+        "microReviews": [
+          "리코타 샐러드의 상큼한 유혹"
+        ],
+        "cardDescription": "리코타 샐러드의 상큼한 유혹",
+        "description": "다양한 메뉴를 즐길 수 있는 브런치카페입니다 :) 점심식사,저녁식사,커피와 디저트 단체모임 가능한 룸이 준비되어 있습니다.  *식사 시 아메리카노 2,000원씩 할인 *식사후 미니아이스크림 무 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMThfMjY3/MDAxNzYwNzUzOTk4NjA1.igJdn8Xy-WcEkIVLBbtKtS6PpH4a0kj6EOZSREc9Yfwg.5VZgHvig6M6rpgM-3OXLovMB2cuaqyIbk9byDT66aVAg.JPEG/20251018_111608.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjNfNjAg/MDAxNzUzMjQ0NDY5MzU5.-1p-wZ9ReLfy6HeoKI1xH-vXoBLAerT-Mjbq519Qp68g.jruufmM9BurTgSx4ovq8A9ScR_fCBQbBT9S_prpppYsg.JPEG/1753244390220.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250624_125/17507411796692yv72_PNG/%B7%B1%C4%A1%BC%BC%C0%CF12800%BF%F8.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTdfOTcg/MDAxNzQ0ODU2NDEzMTM1.74jYAszB4fj1UPK8N4-A0dwFq0goZF32fi5j76Ms21sg.F1VNLvpQG0XmDb9qUA70_VUoNv6T_U57fE1bbaeH5gcg.JPEG/1744856326882.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250611_144/1749613387644DucWL_JPEG/KakaoTalk_20240604_110941517.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjNfMTIy/MDAxNzQ3OTY2MjA1NzQy.N_f8sLQwLj5H3hXY1z1_zSPX7AQuxX91slzChL-s_tEg.LfaQFx7sK8bHqiGkSwUrImXL3QuYdJmZeleX1mP5Sx4g.JPEG/20250523_110617.jpg",
+          "https://ldb-phinf.pstatic.net/20250725_3/1753412914413rpBLu_JPEG/%B9%CE%BB%FD%C8%B8%BA%B9%BC%D2%BA%F1%C4%ED%C6%F9%C0%CC%B9%CC%C1%F6.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDlfMjAx/MDAxNzU0NzA5MjgxNzMx.qeAzyFFfUdPV40WoqLUK6U8GFFLwr65X9cSXAi1Gxi4g.NbshWs_f7a6qSHKMHGUUECNz0zjLYEG21l57clAp0W0g.JPEG/20250809_121127.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjRfMTE5/MDAxNzU4NjgwNzg0Mjk2.QHyXcvYyxq2t8E50eRHPfWmkoGF1wPFUEY0Ly_IfnPUg.yhcbtjcPYr6_S0P2va-_FbymuwLA3s7zXX7OXbyIc20g.JPEG/20250924_112549.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTAzMjZfMTE5/MDAxNzQyOTgzNDc3NTIx.VCGSjXca-XB9WbPajpBoltym4Yc0Cpa2Y1ircYHSqDUg.HvuKHhCg4iV0dxqEW8cki01wemjgTRMkRtL4cfheiNMg.JPEG/0E6C585E-841B-46A4-8A92-E555380FD385.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220126",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 4,
+        "id": "1208065634",
+        "name": "다올재갤러리카페",
+        "x": "127.4939374",
+        "y": "36.6434017",
+        "distance": 0.236,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 92,
+        "averagePrice": 4000,
+        "address": "충청북도 청주시 상당구 수동 108-18",
+        "roadAddress": "충청북도 청주시 상당구 대성로180번길 75",
+        "abbrAddress": "수동 108-18",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "대성로180번길 75"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [],
+        "cardDescription": "충청북도 청주시 상당구 수동 108-18",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDVfMTYz/MDAxNzU0MzkxNzIyMzY3.DyGVyoUQW5w1TJwasewlseLYWiJRrf06m4_rln0ObdEg.UcBzzb9NtSAFZxbeV1xeXX49-MFqO2a_beMLGGQdBSIg.JPEG/7108DC3A-6401-4FC4-89FA-9A6B00D455C0.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDVfMjMg/MDAxNzU0MzkxNjkyMzcz.2Lox9lC8z3F-vYfpzzZIQp-VSegfAXmDFxS3sII8y1wg.wbK4zTIwaPa4mJwAzeakkITwYKF1Q04ywVPbl0S530sg.JPEG/20250805_194812.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20201231_85/1609411071402z4TiV_JPEG/EMNBxWvuAfCQdMRdu2YCnLIO.jpeg.jpg",
+          "https://ldb-phinf.pstatic.net/20201231_254/1609410945267kVjJJ_JPEG/AsoPzG4E9ObsQcyNCR6AWzRZ.jpeg.jpg",
+          "https://ldb-phinf.pstatic.net/20201231_159/1609410962169mxJHG_JPEG/H02-6HO3iwEzbvZwGUwzybkU.jpeg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 5,
+        "id": "1444581181",
+        "name": "까페아비앙또",
+        "x": "127.4944109",
+        "y": "36.6457483",
+        "distance": 0.263,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221212"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 153,
+        "averagePrice": 0,
+        "address": "충청북도 청주시 상당구 수동 81-28",
+        "roadAddress": "충청북도 청주시 상당구 수암로 39",
+        "abbrAddress": "수동 81-28",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "수암로 39"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "충청북도 청주시 상당구 수동 81-28",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTNfMTgy/MDAxNzUyMzc4NjcxNDk2.G4Zq2uCRgIvciW6koUmoMh1n313MAIuyG1YjrRLEdJgg.blyCOWB-G4fvqPqtiR9l4T2aSvVC2gMKbofJzLigfO4g.JPEG/20250712_143200.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDZfMjY2/MDAxNzU3MTQ5NzU3MTgw.S47bDH2sUgotTPQyf-6DjreBSfwH89_vAz63LNEwqN4g.w-Y8p_kezE2QsKc6XztZePzPDmvkwffKYSBSOV0pt_Ig.JPEG/20250906_172258.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTJfMTg0/MDAxNzQ5NzE4MjQ4MTg0.jRT83mI9pPjG2usFN3dnUJwjLZZ_88_T_o0QWu6PvAsg.EvA-Kew1CC4rVXP3HXSlbVUob3fd3rwNfBJT4FMMjlIg.JPEG/20250612_162241.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221212",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1444581181",
+            "bodySummary": "이번에 소개해드릴 곳은 청주 수암골 카페 아비앙또입니다! [카페 아비앙또] 위치: 충북 청주시 상당구 수암로 39 Tel: 043-224-1140 청주 수암골 카페 아비앙또는 수암",
+            "url": "https://m.blog.naver.com/sb02199/223216148291",
+            "nick": "여행 풀가동",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMTdfNzMg/MDAxNzA1NDc3NTgyODI4.YU7HfpCQdgf3e7MXdgWzPCeD4cmKZ1cUuO4ODaZWWfwg.MCDarL3sxsorOKIXfwWf_In-AlxDpIOhw53dznmBTsIg.JPEG.sb02199/KakaoTalk_20230215_231950860_16.jpg/KakaoTalk_20230215_231950860_16.jpg"
+          },
+          {
+            "sid": "1444581181",
+            "bodySummary": "여름하늘은 종잡을 수 없이 변덕스럽죠. 잠시 소강상태인 틈에 수암골 카페 탐방을 나서게 되었습니다. 몇층씩 높이 올라간 루프탑과 각양각색의 멋진 아우라를 내뿜는 화려한 건물들 사이",
+            "url": "https://m.blog.naver.com/mom_plus/222089116803",
+            "nick": "MOM PLUS",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA2MDJfMjc5/MDAxNjg1NjY5MDU5MDM3.X1ftObmxo0XQtVaFG93g5RiZIdbUfGuf-9jBRbN24Zog.Lnkt2JOGHLdlIJgVEkLFmBDZxwbWJQ-jzWfKP0CAfY8g.PNG.cjmomplus/%25EC%258A%25A4%25ED%2581%25AC%25EB%25A6%25B0%25EC%2583%25B7_2023-06-02_%25EC%2598%25A4%25EC%25A0%2584_10.19.17.png/%25E1%2584%2589%25E1%2585%25B3%25E1%2584%258F%25E1%2585%25B3%25E1%2584%2585%25E1%2585%25B5%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25A3%25E1%2586%25BA%2B2023-06-02%2B%25E1%2584%258B%25E1%2585%25A9%25E1%2584%258C%25E1%2585%25A5%25E1%2586%25AB%2B10.19.17.png"
+          },
+          {
+            "sid": "1444581181",
+            "bodySummary": "오후에 시간이 남아 수암골 카페 아비앙또에 갔다. 영광이네 바로 옆에 있다. 오픈했다! 초록초록 풀잎과 우드의 조화가 맘에 들었다. 많은 메뉴들 중 따뜻한 캐모마일을 주문했다. 주",
+            "url": "https://m.blog.naver.com/skdigpel/222004966177",
+            "nick": "길선",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA2MThfMjY3/MDAxNjg3MDUyNjQzNjQ5.YirMaM_RXwLLIBkMW0Ht4kjyGxKvQL9o4uLaziRrQBQg.RIknHpvgWMOjoFwMx_hCU8N7arHvOZRj9hlt1BZzPVEg.PNG.skdigpel/profileImage.png"
+          },
+          {
+            "sid": "1444581181",
+            "bodySummary": "오늘은 얼마전 다녀 온 커피숍을 소개 해 드릴께요~ Cafe , 아비앙또 청주 수암골 카페 예전에 한번 소개 해 드린 적이 있었는데, 그땐 아이스크림을 소개 해 드리지 못한거 같아",
+            "url": "https://m.blog.naver.com/sakura0110/221559770064",
+            "nick": "그린티",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxODExMjlfMTgx/MDAxNTQzNDk3MDk4NzU3.bQXLnMgnxkt7FFpBAeAjqphAyq9LmPll91rofr2hFD0g.si5ZNbnUFYV4J0nivwSHynIDbv0V5bFCXtQGQt7uW5Ig.JPEG.sakura0110/profileImage.jpg"
+          },
+          {
+            "sid": "1444581181",
+            "bodySummary": "야경만 좋지 마땅히 갈 곳이 없다 거의 다 가봤고 다 그냥 그래서 이번엔 한번도 안 가본 아비앙또에 가봤다 수암골이서 거의 조상님급으로 엄청 오래전에 생긴 것 같은데 안망하고 꾸준",
+            "url": "https://m.blog.naver.com/soj24/221359125583",
+            "nick": "박찹쌀",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTA0MDlfMjA2/MDAxNTU0NzM3NTAwMjA1.pudBVAx5mYXZIkCQFPOYOoLzOC61MJcnx0fGGSY1S3sg.VMuL1OdGh9FUdMrps6pLhcF7rlN94sDA-kSpKgtoNK4g.PNG.soj24/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "id": "1685486348",
+        "name": "청주 짬뽕별",
+        "x": "127.4913595",
+        "y": "36.6425167",
+        "distance": 0.241,
+        "categoryName": "중식당",
+        "categoryPath": [
+          [
+            "220036",
+            "220039",
+            "220091",
+            "220861"
+          ]
+        ],
+        "category": [
+          "중식",
+          "중식당"
+        ],
+        "reviewCount": 23,
+        "averagePrice": 10000,
+        "address": "충청북도 청주시 상당구 수동 379-1 1층",
+        "roadAddress": "충청북도 청주시 상당구 상당로158번길 28",
+        "abbrAddress": "수동 379-1 1층",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "상당로158번길 28"
+        ],
+        "displayContext": [],
+        "labelTheme": "중식",
+        "microReviews": [],
+        "cardDescription": "안녕하세요 청주짬뽕별입니다 율량동 덕성초 후문에 있던 짬뽕별이 수동 상당도서관 앞으로 이전했습니다  기본짬뽕은 조개가 들어가는 짬뽕이 있구요 조개를 빼고 우삼겹을 넣은 고기짬뽕이",
+        "description": "안녕하세요 청주짬뽕별입니다 율량동 덕성초 후문에 있던 짬뽕별이 수동 상당도서관 앞으로 이전했습니다  기본짬뽕은 조개가 들어가는 짬뽕이 있구요 조개를 빼고 우삼겹을 넣은 고기짬뽕이",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjlfMTE4/MDAxNzQ1ODg2MDA0OTI3.AFommA8ts9B5cpG6pxzjrWyzNoLO0D3T2i-yCxSzzncg.dtf4TxOlNFCHSTKaIuDgiw5TArV95l78-JrB9bVBWQkg.JPEG/20250426_124517.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTVfMjIw/MDAxNzQ5OTE5MTE4MzMw.IZs0ebwlBdRDxHol2Xe2AunrCTHE4O_2clFBtB9CI34g.QVC0L8o4Bhdyqd7is9NyPkkv2o2d5JgtLh9b6KNdKrwg.JPEG/A76C96C4-9B0D-4FA7-9E6B-3906B59BF50C.jpeg",
+          "https://ldb-phinf.pstatic.net/20251020_102/1760898504157UFGfa_JPEG/20251019_131924.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDdfNTkg/MDAxNzQ2NTg2NTUzMDIw.Q79jdchn5xRLZKY15zt4vmQBeR5mspA3Cgc_YUdSnZ4g.D2ABVEj17h26PyGnOWcguwnJCuQnxxouIbAD7L_hHzQg.JPEG/20250501_181945.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20251020_119/1760898540169QOIP9_JPEG/20251019_131955.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDJfMjE1/MDAxNzUxNDU4MzMyMDc3.Ti1q_K89jZPHersXdgW7ZzPACW2cKGhpp2jsIsoXdfUg.br_UquY1OklHXHPR3nffW5BkAH7tOXRcgentxMyVqegg.JPEG/20250702_175341.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20251020_9/1760898540169qIP7B_JPEG/20251019_131950.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTRfNTIg/MDAxNzYwNDQxNzMyOTE5.SI6QJHjH3dkRr9Idr0YrCd8zD0zvrrt22LamxsS1cRwg.fRZO792NwZuAqQnG40Vi21Kc3ZzGTH22QIrh2VkVtW8g.JPEG/20251014_185559.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220861",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 7,
+        "id": "17223603",
+        "name": "소영칼국수",
+        "x": "127.4906105",
+        "y": "36.6438706",
+        "distance": 0.138,
+        "categoryName": "칼국수,만두",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220073",
+            "220712"
+          ]
+        ],
+        "category": [
+          "한식",
+          "칼국수,만두"
+        ],
+        "reviewCount": 1661,
+        "averagePrice": 6000,
+        "address": "충청북도 청주시 상당구 수동 406-3 변종선세무사사무실",
+        "roadAddress": "충청북도 청주시 상당구 교동로3번길 146",
+        "abbrAddress": "수동 406-3 변종선세무사사무실",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "교동로3번길 146"
+        ],
+        "displayContext": [
+          "콩국수",
+          "칼국수",
+          "비빔국수",
+          "비오는날"
+        ],
+        "labelTheme": "착한 가격",
+        "microReviews": [
+          "추억의 옛날 칼국수 그 맛"
+        ],
+        "cardDescription": "추억의 옛날 칼국수 그 맛",
+        "description": "칼국수 전문점 소영 칼국수의 수동 본점입니다. 35년 이상의 전통을 가지고 나이 지긋하신 할머니가 운영하는 곳이지요. 만두국처럼 묵은지와 채썬 파, 김가루를 뿌리고 쑥갓과 양념장을 섞어  ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDhfMjg5/MDAxNzU3Mjk1MzU5NTUw.z9LXM1yh4En4umOQs_1elAKwnaCh8rb48-ovkIT0YSUg.7ZeROv9zNqD4o2iK0Te9tBnyjmGuUp8FusL3LW-LhIMg.JPEG/20250906_135148.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDRfMTU4/MDAxNzQ2MzY3NzUxMDMx.YjEAK9bc502f3zv6QRcwKOw4ttHJfZ278tGWR1LRFgIg.yE0_Q8Wp2P5AO8osc6TCpmB4-pWPlVwNuSC1jIGdEHgg.JPEG/20250422_142853.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20200424_226/1587721170463alzO5_JPEG/u0TrgkFi1Wm3oXZBRuktl_ke.jpeg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjJfMTEx/MDAxNzQ1MzAyNTM1NjE4.WRggPgimNfLCZcNSQUHSnNrab3Gjl3KkAscGqPcI2z8g.pBgi_w1WPW1BhvHnLmjml_d4JuS9dLBCz0hBHJP_lW8g.JPEG/20250422_142853.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjFfMTU0/MDAxNzU4NDQxMDk5ODU2.afpEaXen-KlonfVv3GV1TIpiJ-lbFhwwkep2VbbzuuQg.DnX2Ip8TPOAkAAFqS0XPiHgJbK1p-NDNLU-OQxjyjb0g.JPEG/20250918_141625.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MDJfMjU2/MDAxNzQzNTI4NjM1MjU3.J3rSaSXE9PrBJ9_Wzit429FJdgBh0S7e2S7PRqrlEXQg.-jm7e5oLXUH2OnUkgCedQEOKBM2m46J9DToojwN6gSsg.JPEG/20250331_112006.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDZfMjE5/MDAxNzU5Njg2ODQ2Njg5.SjDRWFKtyOS5vOoWVgoRYF5j8kjeztzF3FVD3rwE9QYg.aU1kie4NptS4nX8Nn1OHmQ_AXc3sVbqN46IpxPJQv7cg.JPEG/20250922_131301.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjJfMTk0/MDAxNzUzMTcwMjkxNjM1.44JNVGSdEbdPvc2oXrJrFL9LFbOMkDcxupHZD7Wuy_og.VGpnV-8MkwqOe-TT9rl2jEjoXlVEEEnZwMDx1o6bWfsg.JPEG/20250722_131931.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjdfMjYx/MDAxNzUxMDA3NzA5Mjg5.3UBgskKYclgREYl60Haqo87wk5tZgyWQjwIoi2nQxYMg.H9kyawaVbLa95dB7cfumqaeuNhJTNbX71hIuhWGgwPkg.JPEG/20250627_145334.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDFfMTgz/MDAxNzU0MDE5MDkwMDk0.eY4b1mifgsT3NVtY0x08HUAlNy4epeEFuMQU5nQF29wg.CEHZOic3R6k4v9t7_9T5BOOloCZ4QDD4Td3YnsotndUg.JPEG/20250728_120647.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220712",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "17223603",
+            "bodySummary": "청주 수동 소영칼국수 2대에 걸쳐 35년간 내려오는 청주 수동 소영칼국수는 간판의 빛바랜 모습만 봐도 오랜 맛집임을 알 수 있었다. 새벽같이 운동을 하고 어떤 걸 먹어야 할 지 고",
+            "url": "https://m.blog.naver.com/mitsumosoku/223379544248",
+            "nick": "보통사람",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEwMDZfMTQz/MDAxNjk2NTU2NDgxMjYx._OkYyrxnIkaperw_eeAGrutx6rX0ks4ENItHPkn1h0Ig.mdzoFJ2S0n5b5le98w_ihUiwN3pwg3B_Hto9hS98kCgg.JPEG.mitsumosoku/_ca283363-cbf2-43de-b713-59e7e71a992c.jpg/_ca283363-cbf2-43de-b713-59e7e71a992c.jpg"
+          },
+          {
+            "sid": "17223603",
+            "bodySummary": "맛있는 점심 드셨는지요? 비가 올 때 칼국수 생각이 나서 방문한 곳 소영칼국수 입니다. 몰랐는데 이곳이 본점이더라구요. 매장 앞 전경입니다. 따로 주차장은 없구요. 건넛편 공영주차",
+            "url": "https://m.blog.naver.com/yjm0918/223373680641",
+            "nick": "깜둥이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMTFfMjkz/MDAxNzAyMjQ0ODExNzIx.xwdV5GxfZs5oFwSzz8xUU6OB--mFjQUB6qtS0U4okbkg.FaBIixK6SETaR8tbwTqJR9lXOhw0WRkISdJ1GQOaIlYg.JPEG.yjm0918/profileImage.jpg"
+          },
+          {
+            "sid": "17223603",
+            "bodySummary": "이 식당을 정말 오랜만에 다시 찾았습니다..청주에서는 소문난 칼국수집이죠.. 소영칼국수.. 이곳입니다.. 음식종류 단촐합니다.. 둘 다 주문.. 두부부터 등장.. 따뜻하게 데워진 ",
+            "url": "https://m.blog.naver.com/klee2128/223341582361",
+            "nick": "얼음과남편씨",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAyMTBfMjI2/MDAxNjc1OTc4OTA1OTI3.WGBd2Cu1mdaos371Ufr5HcBmjd8IlLxxHlJmlQUCIPcg.iwxQn0OUbLnFR5YPUmD6FeAoeKGjXRO4g8UpcGepqhYg.JPEG.klee2128/KakaoTalk_20230210_063847427.jpg/KakaoTalk_20230210_063847427.jpg"
+          },
+          {
+            "sid": "17223603",
+            "bodySummary": "주소: 충청북도 청주시 상당구 교동로3번길 146 변종선세무사사무실 전화번호: 043-224-2642 영업시간 : 11:00~20:00 휴무 : 매달 첫 번째 월요일 정기휴무 위치",
+            "url": "https://m.blog.naver.com/wndus4600/223330901492",
+            "nick": "Juyeon",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMTBfNCAg/MDAxNzA0ODY0MzU5ODYy.vI_3qDJMKCNmuZY1PYZNh7wmhIsLmE91gO-fYCisw3gg.0sBw6NzTjqA4zFk2uMHH9CoonqfxpTR5k4YHxW0TkDEg.PNG.wndus4600/profileImage.png"
+          },
+          {
+            "sid": "17223603",
+            "bodySummary": "영업시간이에요 메뉴는 단촐해요 지인 이야기로는 여기가 10년 전부터 있었다고 하더라고요 체인이긴 한데 정말 맛집이에요 다른 지점보다 더 맛있다고 해요 내부는 20평 정도 크기예요 ",
+            "url": "https://m.blog.naver.com/mutt-craft/223317519239",
+            "nick": "아르스헌터",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMDZfMTg2/MDAxNzA5NzMxNTc5NDkw.bIgDCEzaAlsmzNySYVcfapsHbmPlYeiq1JgcvLltwKcg.4jggEkhCKtz_P1M0eQe6PgENVJ5oOAPmEuSx8SgP1S4g.PNG/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "id": "1443457104",
+        "name": "카페파숑",
+        "x": "127.4905969",
+        "y": "36.6445853",
+        "distance": 0.108,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221212"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 93,
+        "averagePrice": 5000,
+        "address": "충청북도 청주시 상당구 수동 402-7 1층",
+        "roadAddress": "충청북도 청주시 상당구 교동로3번길 160",
+        "abbrAddress": "수동 402-7 1층",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "교동로3번길 160"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [
+          "자몽에이드 한 모금에 입안 가득 상큼"
+        ],
+        "cardDescription": "자몽에이드 한 모금에 입안 가득 상큼",
+        "description": "작고 아담한 규모의 동네카페로 분위기가 아늑하다는 평이 많음. 소품과 식물 등이 인테리어 포인트로 사용되어 있으며 사진 찍기 좋아요. 주차는 매장 건너편 공용주차장 이용 가능 다양해서 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTAzMjdfMjQx/MDAxNzQzMDUwMzAxNTg4.7jQSiZfGfvUt7MgUL1iNXgtTDsSU_nuEikMHHMDdFMcg.o4amERc54qoRedAj0ChSCHVClKQ_U-7naiQIrJebdRAg.JPEG/20250327_131250.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDVfMzUg/MDAxNzUxNzAzNTYyMjI3.uBfircHnfrTeqpCyEJTo8CCzLVOEymT-6k__3julEAwg.l11fk_4eRDmOwMkaMfBRp_1SqQEt9eOvgo7B-XGY-4Mg.JPEG/20250705_151917.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250729_149/1753753644088nN4jS_JPEG/1000012256.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjBfODEg/MDAxNzU4MzI2MzkzODc4.HEF1Dn4oNpS71UgBa5VNvW3hs67mXdl5P-nBBonlTYIg.m2YPN--pJlqkGsi3Dkqkx34tZRPcKPtcGUdBvQWyTcog.JPEG/20250919_101555.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250729_126/1753753612539zRrMH_JPEG/1000012250.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjdfMzEg/MDAxNzU4OTU0NjgwMjM3.IcRSnsZr7GZj6dSi9bCd0FCKS1jtbIFVd9jKN-RDbh8g.Onn8BI-YQE-GunxoOnFayBFpbmzmwoF8TyJqEA8_e-0g.JPEG/70DD75D4-73B7-466D-90C4-DF5EAFED1096.jpeg",
+          "https://ldb-phinf.pstatic.net/20250729_282/1753753612660Evqfk_JPEG/1000012249.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDZfNTMg/MDAxNzUxODA1NDA0Njg5.Ri-jkWi1RJkq1C_3rF7uN-moP9KIJhS8WP3PGFsdZMIg.HtekVUe-n_VN0O72iBYwijWQWc_cgaxztbNYoXtJ3UEg.JPEG/20250702_130437.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTFfMjk2/MDAxNzYwMTYyNjgxODcz.hiuDR-BywqCS59s_3suPf4DgB7qs20g1DlrlHzt-ZGog.qsBWbsONciH_lydtGTHjN2QEgVab5gohWDOKNehdAzYg.JPEG/20251011_145936.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTlfNDIg/MDAxNzU4MjQyNjMwNTg1.mJJGD_bGiZ6mijtJtfV5k-J_j_Wt3XNJodB0xgiVp4Ig.yD8E_trdsNyOPJ1JKDBQ8cAuYswkpTP8bKSzzT-IxG8g.JPEG/535DAB7E-5324-4B18-A432-BA21414B0127.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221212",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 9,
+        "id": "20787529",
+        "name": "영광이네",
+        "x": "127.4941518",
+        "y": "36.6462174",
+        "distance": 0.272,
+        "categoryName": "국수",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220062",
+            "220628"
+          ]
+        ],
+        "category": [
+          "한식",
+          "국수"
+        ],
+        "reviewCount": 2231,
+        "averagePrice": 5000,
+        "address": "충청북도 청주시 상당구 수동 88-2 영광이네",
+        "roadAddress": "충청북도 청주시 상당구 수암로 43",
+        "abbrAddress": "수동 88-2 영광이네",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "수암로 43"
+        ],
+        "displayContext": [
+          "국수집",
+          "벽화마을",
+          "돈가스",
+          "드라마촬영지",
+          "데이트"
+        ],
+        "labelTheme": "생생정보통 방영",
+        "microReviews": [
+          "추억을 담은 쫄깃한 우동 한그릇"
+        ],
+        "cardDescription": "추억을 담은 쫄깃한 우동 한그릇",
+        "description": "수암골에 위치한 맛집으로 직접 반죽한 생면을 사용한 60년 전통의 서문우동과 통오징어가 들어간 해물짬뽕, 직접 만드는 수제왕돈까스, 옛날짜장, 쫄면 외에도 다양한 음식을 맛 볼 수있으며, ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjJfMjIy/MDAxNzUzMTgyNzI4MDE3.egSOdiczMcTx-v4FvbeageiLTBgJfUlEaszt_aBky9Eg.sGuj4rxCHAcPHEcSgXl1VmRKElyVunr-Pzo1yINbECYg.JPEG/20250722_183740.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTVfMjcx/MDAxNzU3OTEyODk5MDE5.k48XeiFreKcXMnCnRyz0ByfcIZz5hHvhNu5YShLXa-Mg.R53qz14cxRFTmkZSns-EnOp1c3qLOEddVtzohpg-Oncg.JPEG/356319B2-5513-4D70-A325-F9E0B4421EE0.jpeg",
+          "https://ldb-phinf.pstatic.net/20151124_292/1448349982385jsfqw_JPEG/167074565640247_0.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDJfMTg4/MDAxNzU5NDExNDU3NzAx._mF-VaoWX60iSuJyFGlOFwxsADl6-kmy1BEdH4HLvWEg.iA9EKCoVhc2AZUZQKc7svcE0NRNG7YEBpdj9IkikE6Ig.JPEG/20251002_181950.jpg",
+          "https://ldb-phinf.pstatic.net/20151124_264/14483499825077Dzt4_JPEG/167074565640247_1.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjZfMjE3/MDAxNzU4ODI5NzM1MjQ3.GB8ZDrqlN-3niWdg51sekKrlKnRYUy4CJY7BqVwbIlkg.kw6TtanC-o6upuKAo7d12tBPSHOCQZWvwzlyLRR3g5og.JPEG/63E5EBC3-D9C1-4BC3-AA5A-8B820F66A3C4.jpeg",
+          "https://ldb-phinf.pstatic.net/20151124_256/1448349982858i9eCg_JPEG/167074565640247_4.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTFfNjEg/MDAxNzU0OTExMDE5ODIw.nuy6TopY3jMQYuEQxyb6FqU_O7TaOGz2awQjZcmI-Xwg.i7f0XwM2Toh1czIlypWpAaFjTSvXH_L5wWknHBGVuB0g.JPEG/20250811_182220.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTVfMjM4/MDAxNzQ5OTk5NTI3NDY2.BaeExcbEAo1Q46jDbzUN8gNTlr3dn4IQqNhgM9lzyKEg.TsYHCsaSiAMcR8Wqfn2w6v621-K6_c2aEr4QDtXlIiYg.JPEG/20250614_190557.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjRfMTYz/MDAxNzQ4MDc0ODAzMTg4.NYsXhzH6CR8OmhcKK6xRTiBberdp6wFJlFs7cnD-VY0g.VSPMsosc_axGVrhdChXdxMySxCGxn59Cg0Lt4uW-gfcg.JPEG/1FC64C97-8DB4-4F98-B758-D133FBDEF5E4.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220628",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": true,
+        "broadcastInfo": {
+          "name": "생생정보통",
+          "menu": "국수"
+        },
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "20787529",
+            "bodySummary": "영광이네 국수 충북 청주시 상당구 수암로 43 전화번호 0507-1478-2332 영업시간 11:00~21:00 브레이크 타임 15:00~16:00 ♬ 화창한 봄날에~ 코끼리 아줌",
+            "url": "https://m.blog.naver.com/iooi81/223385052168",
+            "nick": "킴사임당",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMjRfMTI4/MDAxNzAzNDIyMDAwODUz.o2DF5DYNSO5olaj7yOUh_hCpA1lcTxiinJzlmmt9Hfwg.mG9z8plsH0sEU_UOYHN4fzUA7VFB0F_FByHmTGDaSIEg.JPEG.iooi81/profileImage.jpg"
+          },
+          {
+            "sid": "20787529",
+            "bodySummary": "우연히 가게 된 청주 수암공 영광이네 한 번 맛본 뒤로 남편한테 끝없이 어필해서 드디어 갔다 내가 영광이네서 시킬 메뉴들 우동+쫄면+돈까스 우리 가족이 전 날 먹은 메뉴 우동+돈까",
+            "url": "https://m.blog.naver.com/happyarisa/222873967856",
+            "nick": "고양이형",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA1MjlfNTMg/MDAxNjUzODM0NTE3MjU2.oDDN_n1M2PwAoMMwkSoN-yYIRCxTzzzVk4Ck7tcwakgg.kKodxjHvvPB9fgCw5CGK6sfpdts_FedCBorgFmn7dNIg.JPEG.happyarisa/common.jpeg/common.jpeg"
+          },
+          {
+            "sid": "20787529",
+            "bodySummary": "해보진않았지만 빵도 옛날빵같다유 먹음직,, 영아는 꽈배기 보자마자 먹고싶다고 영아아빤 어묵우동! 난 냉모밀! 영아는 새우볶음밥! 간단한 반찬~~ 깍두기 존마탱~~ 요즘 숫자에 관심",
+            "url": "https://m.blog.naver.com/yyoung4841/222850089141",
+            "nick": "영아맘",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA4MDNfMTg1/MDAxNjU5NTMyMzA3Mzkx.2Tu96HBRBPKg2Fe0KUkgNu5PdOjm3EowYeHwqjsI5Pog.r9Si-J8yijMq2Uf8-1WvIJYKVd0GQhmTPgxwOfqUlG4g.PNG.yyoung4841/profileImage.png"
+          },
+          {
+            "sid": "20787529",
+            "bodySummary": "청주시내가 훤히 내려다보이는 청주 수암골 언덕위에 위치해있으며, 드라마 영광의 재인 촬영지이기도 하지요. 이곳의 인기메뉴인 영광이네국수는 진한 멸치육수와 쫄깃한 면발의 60년전통의",
+            "url": "https://m.blog.naver.com/zokj15/222644313493",
+            "nick": "유니윤이돼단해",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTExMDVfMTUz/MDAxNTcyODk0MzM2NDQ1.okDT4fk4UoyWvZ1vkklAD5Lwj6Dzn7tC3yapPtItBnMg.XlvRC1PmELBIToC-L6Zf8rIqGkZpPTiZ2GN1CVoUUsgg.JPEG.zokj15/%25BC%25BC%25C4%25E1%2B%25C1%25F5%25B8%25ED%25BB%25E7%25C1%25F8.jpg"
+          },
+          {
+            "sid": "20787529",
+            "bodySummary": "이곳의 인기메뉴인 영광이네국수는 진한 멸치육수와 쫄깃한 면발의 60년전통의 서문우동입니다. 영광이네국수외에도 새싹비빔국수, 해물짬뽕국수 등 도 맛볼 수 있습니다. ㅡ출처 네이버 영",
+            "url": "https://m.blog.naver.com/happybh0220/222633641133",
+            "nick": "기분좋은바보",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTExMjVfMTk0/MDAxNjM3ODE5NTk5NDU1.upNVqN2bd6p0lxyZ_Pjj3M4uiyhleSL0-vejJXOFUfMg.vOvAgZz4uufeNvTEK-fdSLZ_tun8UFGp6oW1mWup7DMg.JPEG.happybh0220/20201101_180254.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "id": "1005642670",
+        "name": "수암골수제비",
+        "x": "127.4918516",
+        "y": "36.6456785",
+        "distance": 0.114,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 406,
+        "averagePrice": 5000,
+        "address": "충청북도 청주시 상당구 수동 427-21 수암골수제비",
+        "roadAddress": "충청북도 청주시 상당구 대성로 228",
+        "abbrAddress": "수동 427-21 수암골수제비",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "대성로 228"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [
+          "추운 날씨에 딱 맞는 수제비 한 그릇"
+        ],
+        "cardDescription": "추운 날씨에 딱 맞는 수제비 한 그릇",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjFfMjAg/MDAxNzQ1MjQ1NTU5MDkx.nPX-MTJaqr2GtBwZlxcToE7SFbExlQ9W4bQOlbfb4uog.c59UsApx2am25F0vret88bRoSycpA7f5cVKa6CTo6zog.JPEG/20250414_183612.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjdfMTI1/MDAxNzU4OTQwNzQ1OTI0.IaANWnbTorjJQtKL3k7aBN9b9kH7nlcQsw6tHWxN_74g.K7vO-1E5g56OADwxQff6VFuGijbAiCSRa6POnsLlywog.JPEG/Screenshot_20250927_113721.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDlfMTIg/MDAxNzYwMDEwOTQ4ODIz.yhBFCOQON9nbNNvydWy2TJGuZe6XEzrIfhFvK6az3Ykg.vd2N84j2fuwgduS1YLXnXp314wCIG6c9nf3Wod1WGK8g.JPEG/20250921_112705.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1005642670",
+            "bodySummary": "처음 왔을때 추어수제비에 꽂혀가지고 먹었었는데 다음에 올때는 들깨수제비 꼭 먹어야지해서 다시 찾아온 집입니다 겉모습사진이 왜 없지??? 청주대성여자상업고등학교 바로 뒤에 있는 곳이",
+            "url": "https://m.blog.naver.com/jomw906/223383023503",
+            "nick": "조우깅",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMTJfMjk0/MDAxNzEwMjE5NTI0NTIz.mENWLAjyTrpKmTYawAMVrpiyzlQ_AnIRoeP9fkKYtLIg.vOvR8W_h_st-NsTChpEhp4vq8FYU_rr4djZ7tsAbLhkg.PNG/profileImage.png"
+          },
+          {
+            "sid": "1005642670",
+            "bodySummary": "대성여상 근처에 있는 수제비 맛집 우연히 들렀는데 마형사님도 다녀간 맛집이었다 콩나물밥 셀프^__^ 이거 그냥 서비슨데 아삭하고 넘 맛있음 간장 테이블에 놓여있는건데 이렇게 깨끗하",
+            "url": "https://m.blog.naver.com/dadada7270/223357628824",
+            "nick": "김면지",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA3MjRfNDMg/MDAxNjkwMTkwNTY2Njcw.kcNBfdDSVTV7lo7aVAUKEsWJaQlapezqoLYkYf7Thu0g.7bC0T1aS6WggqmRIIb4iQhHWb78kcClhl9yhcBFfujIg.PNG.dadada7270/profileImage.png"
+          },
+          {
+            "sid": "1005642670",
+            "bodySummary": "짝꿍이 밥을 많이 퍼줘서 양념 5-6숟갈 정도 넣은듯 (조금 양념이 센 콩나물밥을 좋아하는 편) 이미 양념이 맛있어서 수제비가 기다려졌다. 주말 점심 시간에 테이블이 꽉꽉 찬 이유",
+            "url": "https://m.blog.naver.com/iamsuzing/223337658638",
+            "nick": "수징",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEwMTJfNDEg/MDAxNjk3MTAxMjA4NjMy.sxYtPZnaA-noyBRNHpHwryE-SBEuvaCgTD4-1uv40xAg.SH1Gd4ELNJ-LT8Y_SsfEZ7cNfDMkWivhCLb4B1qbfbQg.PNG.01022616505/profileImage.png"
+          },
+          {
+            "sid": "1005642670",
+            "bodySummary": "주문 진한황태해장국 8,000원 가게 한켠에 위치한 콩나물 ! 이 가게의 장점은 콩나물밥이 무료이다. 보이는 밥솥에서 원하는 만큼 밥을 푼 다음, 콩나물과 양념장을 넣고 비벼서 먹",
+            "url": "https://m.blog.naver.com/miinji0925/223286775479",
+            "nick": "민수",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMTlfMTY5/MDAxNzAwNDA0MDAwNDk0.NeLYGp0VPh8FwqzvV4B3DCFGEXvP0FJ7nUROnFZW4Ygg.MHvfF9q1cDM2G3Xx0Za57oeyB-Cv4wuQOcvV4u64k14g.PNG.miinji0925/profileImage.png"
+          },
+          {
+            "sid": "1005642670",
+            "bodySummary": "식전 콩나물비빔밥이 무료인 맛있고 양많고 뜨끈한 수제비 맛집 양념단무지 맛집 [수암골수제비] ● 전화번호 : 043-294-5000 ● ● 영업시간 : ● ● 브레이크타임 ● ● ",
+            "url": "https://m.blog.naver.com/hjh6184/222938038872",
+            "nick": "콩콩s",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAzMTFfODMg/MDAxNjQ2OTY4MDQ5MTEw.XksJ89CTb70YSGkMHqsbZq_Sbs-3hgTTWR0JZ7IxFjkg.ekYVKSBuDI3d0uLkqHyxd-UzIn2xcG5oaVGvtWfqzjwg.JPEG.hjh6184/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 11,
+        "id": "1434189382",
+        "name": "카페몰리",
+        "x": "127.4911905",
+        "y": "36.6424892",
+        "distance": 0.247,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "1000783"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 26,
+        "averagePrice": 0,
+        "address": "충청북도 청주시 상당구 수동 380-13",
+        "roadAddress": "충청북도 청주시 상당구 상당로158번길 22-1",
+        "abbrAddress": "수동 380-13",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "상당로158번길 22-1"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "향과 풍미가 가득한 커피가 있는곳 카페 몰리입니다.",
+        "description": "향과 풍미가 가득한 커피가 있는곳 카페 몰리입니다.",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20191230_223/15776786950963zOav_JPEG/u0-0QbkXGZPXNnBzhp8CtZov.jpg",
+          "https://ldb-phinf.pstatic.net/20200429_49/1588158550392lJ1OD_JPEG/9LJQDsc8WGffe677gm64QStp.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1000783",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 12,
+        "id": "38654877",
+        "name": "Cafe in Blossom",
+        "x": "127.490353",
+        "y": "36.642622",
+        "distance": 0.261,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 60,
+        "averagePrice": 0,
+        "address": "충청북도 청주시 상당구 북문로2가 7-1",
+        "roadAddress": "충청북도 청주시 상당구 교동로3번길 119",
+        "abbrAddress": "북문로2가 7-1",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "교동로3번길 119"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "충청북도 청주시 상당구 북문로2가 7-1",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20170109_36/1483921932319PAW2n_JPEG/4.jpg",
+          "https://ldb-phinf.pstatic.net/20161007_147/1475827969118zKXRj_JPEG/176957574268.jpg",
+          "https://ldb-phinf.pstatic.net/20170109_196/1483921932580bBpOr_JPEG/5.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 13,
+        "id": "17224597",
+        "name": "장수촌옻닭",
+        "x": "127.4906304",
+        "y": "36.6429386",
+        "distance": 0.218,
+        "categoryName": "닭요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220770",
+            "221569"
+          ]
+        ],
+        "category": [
+          "한식",
+          "닭요리"
+        ],
+        "reviewCount": 171,
+        "averagePrice": 15000,
+        "address": "충청북도 청주시 상당구 수동 384-3",
+        "roadAddress": "충청북도 청주시 상당구 교동로3번길 122",
+        "abbrAddress": "수동 384-3",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "교동로3번길 122"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [],
+        "cardDescription": "충청북도 청주시 상당구 수동 384-3",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20170109_15/1483927548110qKsdQ_JPEG/10.jpg",
+          "https://ldb-phinf.pstatic.net/20170109_96/1483927548218sQJSX_JPEG/11.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221569",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "17224597",
+            "bodySummary": "안녕하세요 조우깅입니다 :D 날도 꾸리꾸리하고 친구랑 점심에 약속이 있어서 평소에 좋아하던 삼계탕으로 몸보신하러 청주 수동 장수촌옻닭으로 날아왔어요 이 날 사장님 추천으로 옻닭을 ",
+            "url": "https://m.blog.naver.com/jomw906/223381166597",
+            "nick": "조우깅",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMTJfMjk0/MDAxNzEwMjE5NTI0NTIz.mENWLAjyTrpKmTYawAMVrpiyzlQ_AnIRoeP9fkKYtLIg.vOvR8W_h_st-NsTChpEhp4vq8FYU_rr4djZ7tsAbLhkg.PNG/profileImage.png"
+          },
+          {
+            "sid": "17224597",
+            "bodySummary": "싱겁게 드시는분들은 소금간을 따로 안하고 그냥 드셔도 됩니당 ! 메뉴는 요렇게 구성되어있고 가시기전에 예약하고 가시면 바로 뜨끈한 삼계탕을 먹을 수 있답니다! 선생님은 초상권 보호",
+            "url": "https://m.blog.naver.com/nattacalli/223379232370",
+            "nick": "나따",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAxMjRfMjIz/MDAxNjc0NTYyNjUwMjc0.BFoyVXxO7HB-SosebovI0f6KCBPHAl2mraDEygMDTQQg.nzSuvJSW6uOhV815drBRys1hq9vXEtw-6njcLc-LOOMg.JPEG.nattacalli/KakaoTalk_20230124_211621973.jpg/KakaoTalk_20230124_211621973.jpg"
+          },
+          {
+            "sid": "17224597",
+            "bodySummary": "청주시 상당구 수동에 위치한 장수촌 옻닭입니다.가정집을 개조한 마당에서 삼계탕을 먹고 왔습니다. 마당깊은집이 생각나는 듯 오밀조밀한 화분과 마당 옆 별실이 위치한 옛날 분위기의 음",
+            "url": "https://m.blog.naver.com/rising99/223144009509",
+            "nick": "승룡주호",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA3MDhfMjEw/MDAxNjg4ODIzMjUyMDAx.uoplJ3drgOPgh-iy5H_OC3pLjp62atg9K-CTnZ8sbBEg.uFSxnfz6p5iPwaq-hx7tz_VDSfZ6XUELdFbLVuQ1y0cg.JPEG.rising99/profileImage.jpg"
+          },
+          {
+            "sid": "17224597",
+            "bodySummary": "장수촌 옻닭 가게 정보 주소 - 충북 청주시 상당구 교동로3번길 122 영업시간 - 12:00~21:00 주말 비정기적 휴무 가게 전화번호 : 043-223-6856 위치는 청주병",
+            "url": "https://m.blog.naver.com/wndus3813/223131022788",
+            "nick": "디너",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA4MDRfMjE4/MDAxNjkxMTQ0MDUzMTU0.AQOCF0gWj3rT5DO0DfYCZSwWOuGMylac21O-RC4tEvsg.ydfQ2mzJgXjmWiHk65v8Cdx-qYJnzMH-gkiODGH-I7Eg.PNG.wndus3813/profileImage.png"
+          },
+          {
+            "sid": "17224597",
+            "bodySummary": "수유를 하느라 양이 늘어.. 저는 여기에 밥도 반공기 말아서 먹었네요 안에 찰밥이 들어있어요 옻닭 ₩13,000 먹어보진 않았지만 옻닭은 아빠가 더 시원한 느낌이라네요 저는 옻닭을",
+            "url": "https://m.blog.naver.com/zlsk7040/221988050776",
+            "nick": "반짝맘",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTExMTBfMjMx/MDAxNTczMzY5ODI1ODg5.jn3brnYsnb02sSbjnoYwUZesubUq18m3SqiMz7TSNtIg.csBJdL5CC0ft7wyHuUfE-h_jSXypIXA9w2E75NX7kxQg.PNG.zlsk7040/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 14,
+        "id": "17225611",
+        "name": "미소",
+        "x": "127.491025",
+        "y": "36.6449653",
+        "distance": 0.078,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 93,
+        "averagePrice": 24000,
+        "address": "충청북도 청주시 상당구 수동 412-6",
+        "roadAddress": "충청북도 청주시 상당구 상당로186번길 25-1",
+        "abbrAddress": "수동 412-6",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "상당로186번길 25-1"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [],
+        "cardDescription": "충청북도 청주시 상당구 수동 412-6",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20170109_97/1483942306347cbpxT_JPEG/20170106_161125.jpg",
+          "https://ldb-phinf.pstatic.net/20170109_121/1483942306538acjco_JPEG/20170106_161136.jpg",
+          "https://ldb-phinf.pstatic.net/20170109_137/1483942306714jW4Sb_JPEG/20170106_161141.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "17225611",
+            "bodySummary": "미소 매일 12:00 - 21:00 청주 상당구에 위치한 동네 숨은 한식 맛집이에요. 일주일 머무는 동안 2번을 방문했고 갈 때 마다 단체 손님이 있더라구요.회식하기 좋은 동네 식",
+            "url": "https://m.blog.naver.com/iamsuzing/223387238869",
+            "nick": "수징",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEwMTJfNDEg/MDAxNjk3MTAxMjA4NjMy.sxYtPZnaA-noyBRNHpHwryE-SBEuvaCgTD4-1uv40xAg.SH1Gd4ELNJ-LT8Y_SsfEZ7cNfDMkWivhCLb4B1qbfbQg.PNG.01022616505/profileImage.png"
+          },
+          {
+            "sid": "17225611",
+            "bodySummary": "8월28일 도서관 갔다가 혼밥 하고 온 찌개 백반 식당 미소 영업시간 매일 12:00 - 21:00 청주 대성여상과 대성여중 길 건너편에 있어요 청주 미소의 메뉴판 정식류됴 판매하",
+            "url": "https://m.blog.naver.com/alfp2846/221356845743",
+            "nick": "미레미",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjEyMjZfMTcz/MDAxNjcyMDY1OTU4NjMz.zc_jhMOkLqYkF59ts8_JqXwS-djsWMpPynxnvzwQKiMg.W9k11q9NvH1LulVa3TjYQOi5mXk9TNK8uthMBDEh8Wwg.PNG.alfp2846/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 15,
+        "id": "17225558",
+        "name": "목포홍어전문점",
+        "x": "127.4902164",
+        "y": "36.64532",
+        "distance": 0.16,
+        "categoryName": "해물,생선요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220076",
+            "220777"
+          ]
+        ],
+        "category": [
+          "한식",
+          "해물,생선요리"
+        ],
+        "reviewCount": 71,
+        "averagePrice": 20000,
+        "address": "충청북도 청주시 상당구 수동 445-10",
+        "roadAddress": "충청북도 청주시 상당구 상당로190번길 5",
+        "abbrAddress": "수동 445-10",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "상당로190번길 5"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [],
+        "cardDescription": "충청북도 청주시 상당구 수동 445-10",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDRfOTgg/MDAxNzU0MzA5Mjk0Nzcx.nRoXMsuupFvcFBYL6RKQN_B-shiNIdHlsXZZMJ4UlSwg.U1KmqHLJJ4KM7gF8tWHHHYs-KeROMZB9NxDgJja3ySwg.JPEG/18766.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220777",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "17225558",
+            "bodySummary": "홍어가 그렇게 건강에 좋다고 좋다고 노래를 불러서 드디어 세상 처음으로 가봅니다. 포스가 느껴 지시나요? 홍어의 자부심 포스 기본적인 찬들이 나옵니다. 그냥 딱 봐도 어머니 손맛 ",
+            "url": "https://m.blog.naver.com/boojadevil/222951286963",
+            "nick": "핸섬데빌",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA4MjVfMTM1/MDAxNjkyOTQ2MjUyMDAw.DTh1ASgWflTQ-Kf8t7xcYgnjLq2E2N6WEP-l_Itd2YIg.18gLGjdg56EvQPU2HKkB6f_V1YDvOn8p5HCrPDP1Z44g.PNG.pjw6373/profileImage.png"
+          },
+          {
+            "sid": "17225558",
+            "bodySummary": "수동에 위치한 청주홍어 청주삼합 목포홍어! 주차장 넓음ㅋㅋ 단체를 위한 방ㅋㅋ 전에는 가서 먹었는데.. 가게를 하다보니.. 포장으로 자주 해다먹음 ㅋㅋ 너무 맛있으~~~~ 막창집에",
+            "url": "https://m.blog.naver.com/sunny-1707/221169547682",
+            "nick": "sunny",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAyMDJfMjQw/MDAxNjc1MzQ5NzE1NjM0.ECzlWR_Pjv_MaFyIEYkRX251bm0ftTxZvG_uw0dUGikg.WnkLpZuPg0c6SMuu_WekHBitW_6lg_zJeZL_BpVs_L0g.JPEG.sexy0285/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 16,
+        "id": "34016881",
+        "name": "노가네장어",
+        "x": "127.4898075",
+        "y": "36.6453236",
+        "distance": 0.194,
+        "categoryName": "장어,먹장어요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220076",
+            "220799",
+            "1006317"
+          ]
+        ],
+        "category": [
+          "한식",
+          "장어,먹장어요리"
+        ],
+        "reviewCount": 139,
+        "averagePrice": 0,
+        "address": "충청북도 청주시 상당구 수동 449-4 2층",
+        "roadAddress": "충청북도 청주시 상당구 상당로 190",
+        "abbrAddress": "수동 449-4 2층",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "상당로 190"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [],
+        "cardDescription": "충청북도 청주시 상당구 수동 449-4 2층",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20200527_25/1590509057255aCRkx_JPEG/sJHjCINCt6tVK5SONKzvR6r0.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1006317",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "34016881",
+            "bodySummary": "청주 시청 근처 맛집 노가네 장어식당에서 부부동반 저녁 모임이었는데요.. 역시 이름난 식당은 장어 맛이 남다른 거 아시죠~! 대파를 석쇠 밑에 깔아 놓고 그 위로 장어를 올려놓으니",
+            "url": "https://m.blog.naver.com/rgegf24g/223097746995",
+            "nick": "마음이 부자",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAzMzFfOTQg/MDAxNjgwMjcyMDQwNzQ3.AGlGjlyBMo-SKO7pgjXp2J-iEcx8Kb4JSyKiW6X5Wm4g.85xIejEGfE0xWHeCOd7QxDWBH8E9XS5OCzdM5tKeT8og.PNG.rgegf24g/%25EC%25A0%259C%25EB%25AA%25A9_%25EC%2597%2586%25EB%258A%2594_%25EB%2594%2594%25EC%259E%2590%25EC%259D%25B8.png/%25EC%25A0%259C%25EB%25AA%25A9%2B%25EC%2597%2586%25EB%258A%2594%2B%25EB%2594%2594%25EC%259E%2590%25EC%259D%25B8.png"
+          },
+          {
+            "sid": "34016881",
+            "bodySummary": "오 장어집이에요? 여기 일하는동안 몇번왔는데 좋아요 방아다리사거리 sk주유소 옆건물 2층입니다 메뉴에요 점심특선 13,000원! 좌석도 꽤 넉넉하고 방도 있어요 저희는 13명이라 ",
+            "url": "https://m.blog.naver.com/shrgj/221783311237",
+            "nick": "마보",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTEyMTBfODUg/MDAxNTc1OTc5NTYwMTc5.PGjQPjwlO_aQlpOjkhDvcG9wohCDCbevz74Wk8BkEcEg.-C6qYzh4HnjYv3DbKafFRiU1tFOiWWOMobXXkflaUt4g.JPEG.shrgj/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 17,
+        "id": "33558659",
+        "name": "대성식당",
+        "x": "127.490701",
+        "y": "36.644964",
+        "distance": 0.105,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 64,
+        "averagePrice": 3000,
+        "address": "충청북도 청주시 상당구 수동 412-8",
+        "roadAddress": "충청북도 청주시 상당구 상당로186번길 17",
+        "abbrAddress": "수동 412-8",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "상당로186번길 17"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "충청북도 청주시 상당구 수동 412-8",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20170109_185/1483923436419BTXuV_JPEG/186059498736_0.jpg",
+          "https://ldb-phinf.pstatic.net/20170109_185/1483923436634S8nXx_JPEG/186059498736_1.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 18,
+        "id": "34981799",
+        "name": "아그집식당",
+        "x": "127.4914066",
+        "y": "36.6464595",
+        "distance": 0.204,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 140,
+        "averagePrice": 24000,
+        "address": "충청북도 청주시 상당구 수동 435",
+        "roadAddress": "충청북도 청주시 상당구 상당로204번길 34",
+        "abbrAddress": "수동 435",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "상당로204번길 34"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [],
+        "cardDescription": "충청북도 청주시 상당구 수동 435",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTJfMTg1/MDAxNzQ5NzI2OTUxMjI1.X8c_fLhbS7t9NAsT2Rc2V8-GE5ZZRdjDyS3UGWkuBukg.vXVv9NrflQaopnNvqbK7xhxzwsduvarvfmPlDyIN7rQg.JPEG/20250612_191937.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDdfMTEg/MDAxNzU0NTU4MTI2MzQz.vVOWduZasHYrh6oWczV54dc4Cz5sYZO8qP6wi5PHZ10g.mLeiozFrKHdZZl45rA0BH55Rw6jH0u4vxY0n-OcHu-Mg.JPEG/20250807_181400.heic.jpg",
+          "https://ldb-phinf.pstatic.net/20170529_96/14960531220711TFiN_PNG/_1.png",
+          "https://ldb-phinf.pstatic.net/20170529_138/1496053122270nBPnT_PNG/_2.png"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "34981799",
+            "bodySummary": "2023년 제9회이사회 8월 및 9월 주요행사 40명의 인원 이 매월 청주시 물가조사 및 세탁심의 국번없이1372 소비자 상담실운영 2023,8 보이스피싱 현장활동가 교육및 노인(",
+            "url": "https://m.blog.naver.com/ok9143840/223211550386",
+            "nick": "피부관리실 매니저",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMTRfMjAy/MDAxNzA1MjM0ODg1MDYz.l7ajtNo6ZvXO1zfF5ktki5cUYU8afh42C7joi68dWfgg.eOmAun4BzEvPqtCVeVSkcYER0Q5XOvfXveJrsMwRSmgg.JPEG.ok9143840/profileImage.jpg"
+          },
+          {
+            "sid": "34981799",
+            "bodySummary": "청주 수암골 맛집 ♥ 아! 그집식당 예약O 주차X 청주시 상당구 상당로204번길 34 아!그집식당은 수암골 카페거리 진입 초입에 있어요 ㅎ_ㅎ 거래처 미팅으로 알게된 식당인데, 청",
+            "url": "https://m.blog.naver.com/aurora_design/223138832528",
+            "nick": "광찌",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20231031_131/aurora_design_16987368184743DIFe_JPEG/image.jpg"
+          },
+          {
+            "sid": "34981799",
+            "bodySummary": "#우암초등학교 근처 맛집 #아 그집식당 # #충북 청주시 상당구 상당로 204번길 34 #아 그집 식당 차림표 #가보고 싶은 식당 #청주 맛집#황태북어국 8,000 원 #들깨 미역",
+            "url": "https://m.blog.naver.com/io1133/221753015514",
+            "nick": "이혈건강",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMzBfMzkg/MDAxNzAzOTQzMzk0MDc5.wRzmY4NxbJxaZ5RSFdgSIcBenXPGsvmh9RlhTIFDr7Ug.z9gMmI1MthlDE5E9RLF5dBhiGG5N1qZidfBHyFX_fpwg.JPEG.io1133/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 19,
+        "id": "34042488",
+        "name": "연마루 중앙점",
+        "x": "127.4905916",
+        "y": "36.6437625",
+        "distance": 0.147,
+        "categoryName": "두부요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220072",
+            "220705"
+          ]
+        ],
+        "category": [
+          "한식",
+          "두부요리"
+        ],
+        "reviewCount": 177,
+        "averagePrice": 8000,
+        "address": "충청북도 청주시 상당구 수동 406-4",
+        "roadAddress": "충청북도 청주시 상당구 대성로205번길 22",
+        "abbrAddress": "수동 406-4",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "대성로205번길 22"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "충청북도 청주시 상당구 수동 406-4",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDdfMjIg/MDAxNzU3MjE2OTk5Nzky.bkWj-6V-Qhej8Ru3nrMiKWPFthyGl4oyf_oMonluRu8g.voD6wBGeg2PPLC3np-zKkHNPQqlWuelyj8Q6ThHbDiUg.JPEG/9DB3777D-BB50-42D9-88B4-3B481875BAC0.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220705",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "34042488",
+            "bodySummary": "그랬어 한 번 더 추가 계란 하나 톡 까서 넣어주고 순두부 한입 먹으니 감탄이 절로 나오네요 양이 워낙 푸짐해서 다 먹지는 못하고 왔어요 뜨끈한 거 땡기실때 오늘따라 유난히 배가고",
+            "url": "https://m.blog.naver.com/spicesgirl78/222938775669",
+            "nick": "쇼호스트 강사",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMjRfMTgx/MDAxNzExMjg4ODg3NDkx.18Ohq-B9aUEC2FPtSTuroRSuNKrq6iGkQ7Pl72XSwpYg.TVLq67SPAdUFhKBcIL1ysXzsm1ULIq-DgHKg_gOA8GQg.JPEG/profileImage.jpg"
+          },
+          {
+            "sid": "34042488",
+            "bodySummary": "청주수동 연마루식당 . . 청주에만있는것같은! 연마루순두부 연마루는 종류가무지많아요 ㅋㅋㅋ 해물,조개,만두,소고기등등! 종류만 10가지넘는거같아요 금액은 7천원 저는항상 해물순두부",
+            "url": "https://m.blog.naver.com/iamseojihye/221040925396",
+            "nick": "심쿵해친구들",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAzMTNfMjU5/MDAxNjQ3MTQwNTQyOTEz.cviws2pjdryhuCO2n7Sfk0AT_icLhxmrxbLSQJvyksog.7d0DewRTuoekGvgj4p8s7oa08raKyjBMlm3hPJKlxw4g.JPEG.iamseojihye/66677777.JPG/66677777.JPG"
+          },
+          {
+            "sid": "34042488",
+            "bodySummary": "그래도 여기도 종종 간다는! 가서 맨날 똑같은 메뉴인, 해물순두부찌개 (7,000원) 초.이.스. 순두부찌개를 시키면 보시는 저...돌솥밥으로 따끈따끈한 밥이 나온다는 사실~ 밥은",
+            "url": "https://m.blog.naver.com/bylee19/220122634427",
+            "nick": "부엉쓰",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTA5MTVfMTcg/MDAxNTY4NTM1Nzc2NDk0.4AzeuV3MntknvtUTSQWKDM9dfp3kCRfrT6robFpl4dcg.K4WLodzyKr8nJzsoNVfsV0AxqfVg-_4ehMiyOseufBkg.JPEG.bylee19/profileImage.jpg"
+          },
+          {
+            "sid": "34042488",
+            "bodySummary": "없어졌데요 몇바퀴를돌았는지 그래서결국 연마루순두부찌개를먹으러가요 메뉴판이예요 친구와저는 해물순두부찌개두개를시켰어용 각테이블에계란이놓여져있어요 흔들어보니깐 날계란이였네요^^ 밑반찬이",
+            "url": "https://m.blog.naver.com/96632sky/220009088895",
+            "nick": "강채원대표",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTEwMDVfMjAg/MDAxNTcwMjU1NDI3OTE3.xgnCBjtUaeOb5LuggiZKgS7hY79NUbamG4NZ56lKFwog.SUhaiSX56JkD69YK42f4XfcRWQ0Ks_4LH0d331UKmsEg.JPEG.96632sky/%3F%3F%3F%3F.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 20,
+        "id": "1808578060",
+        "name": "행복나눔카페",
+        "x": "127.4899489",
+        "y": "36.6429032",
+        "distance": 0.256,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221212"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 51,
+        "averagePrice": 3000,
+        "address": "충청북도 청주시 상당구 북문로2가 116-145",
+        "roadAddress": "충청북도 청주시 상당구 상당로 164",
+        "abbrAddress": "북문로2가 116-145",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "상당로 164"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "충청북도 청주시 상당구 북문로2가 116-145",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20231127_115/1701069033735fckec_JPEG/1701069011699.jpg",
+          "https://ldb-phinf.pstatic.net/20200527_137/1590508820217e0q8a_JPEG/ass1XnW-DdzO_E8MJ2blshXE.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221212",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 21,
+        "id": "20510495",
+        "name": "카페우민",
+        "x": "127.489041",
+        "y": "36.6445585",
+        "distance": 0.247,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221212"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 209,
+        "averagePrice": 0,
+        "address": "충청북도 청주시 상당구 북문로3가 15-1 대우타워 지하 1층",
+        "roadAddress": "충청북도 청주시 상당구 사북로 164",
+        "abbrAddress": "북문로3가 15-1 대우타워 지하 1층",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "사북로 164"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "충청북도 청주시 상당구 북문로3가 15-1 대우타워 지하 1층",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDRfMTU2/MDAxNzU5NTUwOTQ0MDgy.uH1xSVAVwhmG72U9qyl08f4lquiqV3d2WBj8cjclbe4g.7qRdtJ4YnV0YiPvneWcgv2UwOsn7el9Ca-htf9kvDG8g.JPEG/20251004_125836.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221212",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 22,
+        "id": "1558598954",
+        "name": "성원쭈꾸미",
+        "x": "127.4905603",
+        "y": "36.6440754",
+        "distance": 0.129,
+        "categoryName": "주꾸미요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220076",
+            "220802",
+            "221677"
+          ]
+        ],
+        "category": [
+          "한식",
+          "주꾸미요리"
+        ],
+        "reviewCount": 146,
+        "averagePrice": 5000,
+        "address": "충청북도 청주시 상당구 수동 407-8",
+        "roadAddress": "충청북도 청주시 상당구 교동로3번길 150",
+        "abbrAddress": "수동 407-8",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "교동로3번길 150"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "항상 최선을 다해 조리해 드리겠습니다. 찾아 주셔서 감사합니다.",
+        "description": "항상 최선을 다해 조리해 드리겠습니다. 찾아 주셔서 감사합니다.",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20170906_214/1504676044771ULIz4_JPEG/mQOHr3JlDK8DuwzsvEZIfWBD.jpg",
+          "https://ldb-phinf.pstatic.net/20170906_129/1504676659647YU4uE_JPEG/pYZAVYUy6ZfzmD58qSJijtP5.jpg",
+          "https://ldb-phinf.pstatic.net/20170906_162/150467667340454KkX_JPEG/vNd3W4tzGjG1zVYSfCaz0J4r.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221677",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1558598954",
+            "bodySummary": "부드럽네요.. 동태의 이리라고 하기 어려울 정도로 부드럽습니다..한 토막 가져다 본격적으로 먹기.. 발군입니다.. 이렇게 조미료의 기운 적으면서 깊은 맛을 내는 동태찌개.. 처음인",
+            "url": "https://m.blog.naver.com/klee2128/223276652530",
+            "nick": "얼음과남편씨",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAyMTBfMjI2/MDAxNjc1OTc4OTA1OTI3.WGBd2Cu1mdaos371Ufr5HcBmjd8IlLxxHlJmlQUCIPcg.iwxQn0OUbLnFR5YPUmD6FeAoeKGjXRO4g8UpcGepqhYg.JPEG.klee2128/KakaoTalk_20230210_063847427.jpg/KakaoTalk_20230210_063847427.jpg"
+          },
+          {
+            "sid": "1558598954",
+            "bodySummary": "청주 쭈꾸미 맛집 '성원쭈꾸미' 매콤한 쭈꾸미가 땡길 땐 성원쭈꾸미로 오세요!쭈꾸미 볶음 비주얼 장난 아닌 쭈꾸미 볶음(8000원) 매콤하고 정말 맛있어서 모두들 맛있게 드실 수 ",
+            "url": "https://m.blog.naver.com/cjukurly/222709260144",
+            "nick": "청대컬리",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTExMDZfMjg5/MDAxNjM2MjA0ODA3MTQ0.VCILCNqw2EwVZgAOhkUh6FF3-0AtIEKYLswtq9iMd7gg.GNkV5Ed-OlXX5SMPhjygnqfUkrPoGvi5X6R8TTaA2Vog.PNG.cjukurly/%25EC%25B2%25AD%25EB%258C%2580%25EC%25BB%25AC%25EB%25A6%25AC%2B%25EB%25A1%259C%25EA%25B3%25A0%2B%25EC%25A0%2595%25EC%2582%25AC%25EA%25B0%2581%25ED%2598%2595.png"
+          },
+          {
+            "sid": "1558598954",
+            "bodySummary": "아빠랑 한동안 짜장면집을 가다가 요즘에는 쭈꾸미집을 많이 가고 있어요 ㅎㅎㅎ 예전부터 진짜 자주 가던 집인데 ! 이제야 포스팅을 해보네요 !여기는 맛도 맛인데 쭈꾸미 2인분 포장주",
+            "url": "https://m.blog.naver.com/asdfqndud/222655613964",
+            "nick": "갱순이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA4MjVfMjg1/MDAxNjI5ODc3NDkxMTk5.WPIi6_G9B9YjGku3wCuEwL_5Z48kO_O2R2TslwbwjkEg.7UnkanVMgbumgrlcpFUTKwUBvUzXKw7JK50D6t0q3NMg.PNG.asdfqndud/profileImage.png"
+          },
+          {
+            "sid": "1558598954",
+            "bodySummary": "맛7 가성비7 친절6 주차 가게 앞 갓길주차 쭈꾸미 볶음 8천원 미팅 가던 중 네비의 칼국수 맛집 추천집 앞에 주차할 공간이 없어 부득이 쭈꾸미로 선회. 쭈꾸미를 보니 막상 급 땡",
+            "url": "https://m.blog.naver.com/tellmeliez/222438337984",
+            "nick": "디자인그룹 오늘",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTAyMjNfMTU5/MDAxNjE0MDU4NTI3NjI2.ECwPgBGDy-JH6xJssK2XAuR3NIXKN2Cn0-qUakVeVTcg._L2fouZnde0gK4MuYE6eRDKmoJP_Di2f6DgHcq-Xy9Mg.JPEG.tellmeliez/%25EC%2582%25AC%25EB%25B3%25B8%2B-KakaoTalk_20210223_143352598.jpg"
+          },
+          {
+            "sid": "1558598954",
+            "bodySummary": "좌석은 좌식이라서 신발 벗고 들어감 꽤 넓다 친근한 가정집같은 인테리어 기본반찬! 이 맛있어서 놀랐다 김치가 되게 남다르게 맛있었는데 친구랑 먹으면서 뭐들었는지 추측했는데 잘 모르",
+            "url": "https://m.blog.naver.com/qufgk94/221243722343",
+            "nick": "벼라",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20210412_145/qufgk94_16181878424509s9Gm_JPEG/image.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 23,
+        "id": "38601597",
+        "name": "남촌손칼국수",
+        "x": "127.4906924",
+        "y": "36.6434921",
+        "distance": 0.163,
+        "categoryName": "칼국수,만두",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220073",
+            "220712"
+          ]
+        ],
+        "category": [
+          "한식",
+          "칼국수,만두"
+        ],
+        "reviewCount": 135,
+        "averagePrice": 12000,
+        "address": "충청북도 청주시 상당구 수동 385-1",
+        "roadAddress": "충청북도 청주시 상당구 교동로3번길 138-2",
+        "abbrAddress": "수동 385-1",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "교동로3번길 138-2"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "충청북도 청주시 상당구 수동 385-1",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20170109_137/1483944943886O2hvp_JPEG/186059558561_0.jpg",
+          "https://ldb-phinf.pstatic.net/20170109_31/1483944944070CplO5_JPEG/186059558561_1.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220712",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 24,
+        "id": "1488503815",
+        "name": "대복식당",
+        "x": "127.4898898",
+        "y": "36.6446799",
+        "distance": 0.171,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 11,
+        "averagePrice": 7000,
+        "address": "충청북도 청주시 상당구 북문로2가 2-1",
+        "roadAddress": "충청북도 청주시 상당구 상당로186번길 4",
+        "abbrAddress": "북문로2가 2-1",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "상당로186번길 4"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "충청북도 청주시 상당구 북문로2가 2-1",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20220118_219/1642492504661OlTaM_JPEG/menu.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 25,
+        "id": "1636516598",
+        "name": "땡김",
+        "x": "127.4907757",
+        "y": "36.6443267",
+        "distance": 0.099,
+        "categoryName": "떡볶이",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220187"
+          ]
+        ],
+        "category": [
+          "분식",
+          "떡볶이"
+        ],
+        "reviewCount": 19,
+        "averagePrice": 15000,
+        "address": "충청북도 청주시 상당구 수동 402-36 1층",
+        "roadAddress": "충청북도 청주시 상당구 대성로213번길 16-1",
+        "abbrAddress": "수동 402-36 1층",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "대성로213번길 16-1"
+        ],
+        "displayContext": [],
+        "labelTheme": "분식",
+        "microReviews": [],
+        "cardDescription": "안녕하세요! 땡 김 입니다 저희 땡김은 국물떡볶이 땡초꼬마김밥 각종튀김 컵밥 육회 등 고객님들께 맛있는 음식을 제공하고있습니다 ! 많은 관심 부탁드려요! 참 !! 배달의민족에서 땡김을 검 ",
+        "description": "안녕하세요! 땡 김 입니다 저희 땡김은 국물떡볶이 땡초꼬마김밥 각종튀김 컵밥 육회 등 고객님들께 맛있는 음식을 제공하고있습니다 ! 많은 관심 부탁드려요! 참 !! 배달의민족에서 땡김을 검 ",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20220712_280/1657600510182wBuW7_JPEG/KakaoTalk_20220627_155622422_01.jpg",
+          "https://ldb-phinf.pstatic.net/20220712_63/1657600524099abQ2X_PNG/KakaoTalk_20220627_155741788.png"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220187",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 26,
+        "id": "17224805",
+        "name": "낙동강메기매운탕",
+        "x": "127.4905852",
+        "y": "36.6443411",
+        "distance": 0.114,
+        "categoryName": "매운탕,해물탕",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220076",
+            "220803",
+            "221682"
+          ]
+        ],
+        "category": [
+          "한식",
+          "매운탕,해물탕"
+        ],
+        "reviewCount": 318,
+        "averagePrice": 0,
+        "address": "충청북도 청주시 상당구 수동 402-9",
+        "roadAddress": "충청북도 청주시 상당구 대성로213번길 22",
+        "abbrAddress": "수동 402-9",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "대성로213번길 22"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [],
+        "cardDescription": "충청북도 청주시 상당구 수동 402-9",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20191012_175/1570886665639KOvEB_JPEG/BriW_gedlYIx84Ym8YEj7IHE.jpeg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221682",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 27,
+        "id": "1835121471",
+        "name": "더달달 아이스크림",
+        "x": "127.489426",
+        "y": "36.6443469",
+        "distance": 0.215,
+        "categoryName": "아이스크림",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220578",
+            "1001776"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "아이스크림"
+        ],
+        "reviewCount": 265,
+        "averagePrice": 0,
+        "address": "충청북도 청주시 상당구 북문로3가 123",
+        "roadAddress": "충청북도 청주시 상당구 중앙로 80",
+        "abbrAddress": "북문로3가 123",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "중앙로 80"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "충청북도 청주시 상당구 북문로3가 123",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTRfMjc3/MDAxNzQ5ODk1MTI3Mzcw.Ogya0rmEjVeX6OM-DJGfM9OMr85PktXDjLfb6OCn_nUg.4yA7X-qgQFdNF_bjcKt3EXiBefbfDF50xO9Iknsnlj8g.JPEG/E376C293-313B-4A5F-B90A-171C41846E21.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1001776",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 28,
+        "id": "38609876",
+        "name": "이모네식당",
+        "x": "127.4919698",
+        "y": "36.6432102",
+        "distance": 0.161,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 22,
+        "averagePrice": 0,
+        "address": "충청북도 청주시 상당구 수동 393-22",
+        "roadAddress": "충청북도 청주시 상당구 대성로 200",
+        "abbrAddress": "수동 393-22",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "대성로 200"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "충청북도 청주시 상당구 수동 393-22",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20161230_91/1483086966270KbdHM_JPEG/177180576625_0.jpg",
+          "https://ldb-phinf.pstatic.net/20161230_36/1483086966499wdxXr_JPEG/177180576625_1.jpg",
+          "https://ldb-phinf.pstatic.net/20200429_297/1588161664320mh3w6_JPEG/l7IKQ5I7IIQy2BOnLuVgMsM9.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 29,
+        "id": "1565077996",
+        "name": "크렘드쥬쥬베",
+        "x": "127.4908158",
+        "y": "36.6446479",
+        "distance": 0.089,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221212"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 242,
+        "averagePrice": 5000,
+        "address": "충청북도 청주시 상당구 수동 412-20 크렘듀쥬쥬베",
+        "roadAddress": "충청북도 청주시 상당구 상당로186번길 22-6",
+        "abbrAddress": "수동 412-20 크렘듀쥬쥬베",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "상당로186번길 22-6"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "청주시 수동에 위치한 크램드쥬쥬베 카페에서는 모든 고객에게 수제초콜릿을 드립니다.",
+        "description": "청주시 수동에 위치한 크램드쥬쥬베 카페에서는 모든 고객에게 수제초콜릿을 드립니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTAzMjJfMTcz/MDAxNzQyNjA3MTA0ODM1.7EJXX6LSvryap4U4WtfYwwAcT57QaME1ecKVK_erLDMg.-QtoL4mZGVuBfVTlUe0v42-1pQYYg3elJjy6UTzutH8g.JPEG/20250321_131346.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20201104_180/1604452482501SI8qp_JPEG/CPM2hHcyBU6A3xxXLqP33SgY.jpg",
+          "https://ldb-phinf.pstatic.net/20201105_215/1604542332601qrpfi_JPEG/ywyK8xL_aNPXJaptHVRRVE5_.jpg",
+          "https://ldb-phinf.pstatic.net/20201104_298/1604452481882iW6OK_JPEG/WhUBi0ZFOtMHsgzAt_CfXpJZ.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221212",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1565077996",
+            "bodySummary": "Creme De JuJube (크렘드 쥬쥬베) 충북 청주시 상당구 상당로186번길 22-6 평일 09:00 - 22:00 일요일 12:00 - 19:00 + 카페 마감 시간이 확실",
+            "url": "https://m.blog.naver.com/tnals1914/222512646480",
+            "nick": "머든",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEwMjVfMTE4/MDAxNjk4MjQxMjIzMDQ0.qz46EY4axfZQ7fhDEXdtAfVmpQWkbSR2egOl8Tcx1Awg.GStOP8jzom1tP5dYKZe7HstentXpBDk5I_o81fDw82Qg.PNG.tnals1914/profileImage.png"
+          },
+          {
+            "sid": "1565077996",
+            "bodySummary": "달콤한 대추 크렘 드 쥬쥬베 (Creme De Jujube) 수암골 카페거리로 올라가면서 가게 앞을 여러 번 지나가기도 했고 간판이 눈에 띄어서 꼭 한번 가봐야지 하며 찜해두었던 ",
+            "url": "https://m.blog.naver.com/ags1563/222014998688",
+            "nick": "별하",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20191005_129/ags1563_1570220963127GvwPs_JPEG/image.jpg"
+          },
+          {
+            "sid": "1565077996",
+            "bodySummary": "청주 방아다리 시청 근처 카페 크렘드 쥬쥬베는 대성여상 가는 길에 있으며, 총 2층으로 이루어진 카페에요 매월 마지막주 수요일인 문화가 있는 날에는 음료를 주문시 케익을 준다고 하",
+            "url": "https://m.blog.naver.com/alfp2846/221432971134",
+            "nick": "미레미",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjEyMjZfMTcz/MDAxNjcyMDY1OTU4NjMz.zc_jhMOkLqYkF59ts8_JqXwS-djsWMpPynxnvzwQKiMg.W9k11q9NvH1LulVa3TjYQOi5mXk9TNK8uthMBDEh8Wwg.PNG.alfp2846/profileImage.png"
+          },
+          {
+            "sid": "1565077996",
+            "bodySummary": "-카페외관 이층으로 바로 올라가는 문이 따로있어요 -1층 찻잔이 이뻣어요 ,2층으로 올라가볼까요 ! -2층 처음으로 아포카토 먹어본날 커피시켰는데 왠 아이스크림인지 당황 했던 날 ",
+            "url": "https://m.blog.naver.com/minhee940/221337317429",
+            "nick": "민희",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDA2MDRfOTYg/MDAxNTkxMjY0OTAzNDI5.CVv-AtPtkLbZf_KTIiuuBCwrnT6iqaNPx9xJDYDCPTEg.hqLWc1mNdAuw1yAXXl87SIlhMmWTYQOGMdvinrZK55Ag.JPEG.minhee940/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 30,
+        "id": "1564475997",
+        "name": "항아리집",
+        "x": "127.4943998",
+        "y": "36.6466694",
+        "distance": 0.322,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 21,
+        "averagePrice": 0,
+        "address": "충청북도 청주시 상당구 수동 81-86",
+        "roadAddress": "충청북도 청주시 상당구 수암로 52",
+        "abbrAddress": "수동 81-86",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "수암로 52"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "충청북도 청주시 상당구 수동 81-86",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20201128_197/1606548693744NKtvl_JPEG/dvvgGuzgNM9MfGBwSU0J8lSp.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "1564475997",
+            "bodySummary": "앉아서 백반+제육볶음+계란말이를 주문했다. 금액은 안적혀있다. 저번에 왔을 때로 생각하면 '백반 8천원, 제육볶음 15천원'인 듯 하다. 백반은 밑반찬 9가지+찌개가 나온다. 하지",
+            "url": "https://m.blog.naver.com/qasdf120/223211654846",
+            "nick": "밍스s",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA4MjhfMTcy/MDAxNjkzMjI4ODcyMjQz.KzZ-NCR-zsb0Q5bjx4cVUUBxC6iT6b3Pl99gQRpR3gog.Z1dccnMknnxih8z5DyDrtp3WxrQV9nOBT3kIFNzUIVEg.PNG.qasdf120/profileImage.png"
+          },
+          {
+            "sid": "1564475997",
+            "bodySummary": "요렇게 부탁해요 캡틴 촬영지 표지판 바로 뒤에 위치해 있고 청주 항아리집 네비 설정하면 어렵지 않게 안내하니 찾기 괜찮습니다. 청주 수암골 맛집 항아리집 오픈 시간은 따로 네이버에",
+            "url": "https://m.blog.naver.com/srhlmw22/223171779820",
+            "nick": "kong",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAyMThfMTQy/MDAxNjQ1MTgzODE0MTIz.VqZu2zh7VBYwDt3uHKpbFdkODNXjSbqS9bIrmFaFcMsg.5xLOKyhYTStnPr2aJUWSt_208-gE2f0c9VKmOO0wUwog.JPEG.srhlmw22/KakaoTalk_20220218_202952008.jpg/KakaoTalk_20220218_202952008.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 31,
+        "id": "522856561",
+        "name": "톨게이트",
+        "x": "127.490584",
+        "y": "36.6449418",
+        "distance": 0.114,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 6,
+        "averagePrice": 0,
+        "address": "충청북도 청주시 상당구 수동 412-30",
+        "roadAddress": "",
+        "abbrAddress": null,
+        "shortAddress": null,
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "충청북도 청주시 상당구 수동 412-30",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20170109_270/1483923213224OXqQs_JPEG/186059498352_0.jpg",
+          "https://ldb-phinf.pstatic.net/20170109_128/1483923213402Ius0W_JPEG/186059498352_1.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 32,
+        "id": "1984865537",
+        "name": "메가MGC커피 청주시청점",
+        "x": "127.4894094",
+        "y": "36.644193",
+        "distance": 0.22,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "231192"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 425,
+        "averagePrice": 5000,
+        "address": "충청북도 청주시 상당구 북문로3가 123 101동 1층 107호",
+        "roadAddress": "충청북도 청주시 상당구 중앙로 80",
+        "abbrAddress": "북문로3가 123 101동 1층 107호",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "중앙로 80"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "다양한 취향과 즐거움이 가득한 메가MGC커피 청주시청점입니다.",
+        "description": "다양한 취향과 즐거움이 가득한 메가MGC커피 청주시청점입니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDdfNTAg/MDAxNzU5ODI2MTAyMjY3.vcUF3IxMaHpVe9p2EFf46MJpbHpqy3cV0it0RAusDgQg.UIhcZZIHwDYx6TcYaUPSjnPdEvwpD4GydGjntFidDxAg.JPEG/62CBAD21-94B5-4D33-BE51-F074F38EC734.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDdfMjU3/MDAxNzU5ODI2NjU5OTMx.NphqLEltSsdgMfMvuE-LFyE6VcTEE4Lh1aUEn43OSfgg.W9DIlrpA71vgtAdx1NtChZ4UEpN_Lzy5U9kaFYQ0nFAg.JPEG/B213D739-FA98-4399-8EDB-621C70B60CAD.jpeg",
+          "https://ldb-phinf.pstatic.net/20240223_197/1708648777700XySjW_JPEG/KakaoTalk_20240112_124711956.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDdfMjk2/MDAxNzU5ODI2NjAyOTU5.ne_PdCgkf2Q_ew8UabJP2gt2qjCyBcvZDwvURx93a7og.s-WhzEFYocWHBiDORAETS_F6H9MeP8-GaBl0_GKOc5gg.JPEG/668B8756-21EF-4273-8DD2-17688DBD60FD.jpeg",
+          "https://ldb-phinf.pstatic.net/20240223_160/1708648794124TFwVN_JPEG/KakaoTalk_20240223_093801885.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDFfNzEg/MDAxNzU2NzI1Mjg3NjAx.7MxVkTpp_3BWVBeKBMUF8Cgc04Vg4Boj2O0NAmHeo3wg.FHOmb7KSikOB4FrUCqcRlZNpknNTIx7xr3iI4Yy2NfAg.JPEG/72E9FAEB-1647-43E2-B99F-6FDC9542A0F3.jpeg",
+          "https://ldb-phinf.pstatic.net/20240223_240/1708648796552Rgdpu_JPEG/KakaoTalk_20240223_093801885_02.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDFfMjQg/MDAxNzUzOTc3OTgxODg3.kowdkCwbIiWpPZfBkAg0ZigO6K2iV7JE0nTuCrvLqaYg.bfdS7qn5ZixSplju0ScrdSZytf3h8ipCpfY1Yy6WEqMg.JPEG/9783A03C-1409-4A7B-B2FB-A7BA4239E457.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjlfMjAx/MDAxNzQ1ODkxODQyOTIx.kBNFQBkOxqNO0BxcblsNHgKxlVZazeHo5mF9xKV4Dm0g.ndeK-PwvQKaAIdPsBfAw2tIGRHawfcdLcb22yIr04Sgg.JPEG/20250412_142910.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDVfMTk3/MDAxNzU0Mzc0NTAzOTQ0.MARA1BMLAfBBseeD5HyP_PLfDP2LiGgfdJlmyt6oKrwg.hrCkbXMaEwt1iZQieIVTHhfitMHeUZ_TfpKZiH61Iw8g.JPEG/Screenshot_20250805_151314_NAVER.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "231192",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 33,
+        "id": "35831188",
+        "name": "파스쿠찌 청주수암골점",
+        "x": "127.4945368",
+        "y": "36.6450145",
+        "distance": 0.247,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221342"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 413,
+        "averagePrice": 5000,
+        "address": "충청북도 청주시 상당구 수동 112-118 카페 파스쿠찌",
+        "roadAddress": "충청북도 청주시 상당구 수암로 31",
+        "abbrAddress": "수동 112-118 카페 파스쿠찌",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "수암로 31"
+        ],
+        "displayContext": [
+          "카페",
+          "벽화마을",
+          "야경",
+          "경치"
+        ],
+        "labelTheme": "드립 커피",
+        "microReviews": [],
+        "cardDescription": "파스쿠찌 청주수암골점입니다. 네이버 스마트주문에서 간편하게 주문하세요!",
+        "description": "파스쿠찌 청주수암골점입니다. 네이버 스마트주문에서 간편하게 주문하세요!",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDlfMjY3/MDAxNzQ2NzUxMzMwMzU2.QPJTaaYuO8dmSRCLGqHvwAtczKMPZFxTQNFLZ7sG1Vsg.e1FJKEfoF9Bhc8ggHK6r4UZ0kDZUIgAxejL8_tf2oC0g.JPEG/20250508_121539.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDFfNTEg/MDAxNzU0MDE3OTk1Mjg3.8iz4UVX-U4EzJf_p5HeC7n-qp1H-goxmd6bwxdoknNgg.-ugazVGxo7HGZBc8OWnFrHzI1eEBuU8qhZzg_687MQsg.JPEG/20250728_132135.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20150831_199/1441025076354VbjvU_JPEG/156879578663425_0.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDFfMjIw/MDAxNzU0MDIwMzA5MTQ0.KPZ7QwnxtUcNuKqymyFv38r4XAuLuPsr5bst5lNRDRkg.ObmeQSNSmkc9QFSiz_CZ4QW3W_z4Qi5X-kYprCkpRaog.JPEG/D0BCC45C-89DB-4E35-9290-5914A00907E3.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MThfMTM5/MDAxNzU1NTE4MDE4MTcw.a5mcl0qi9DOgES0hPpzpZhYB1X6tCWgLj8_ALkIF1VIg.1u2riIn7ZMUe_u9czClRyqDiPZskUslk-PmCQv-DBOwg.JPEG/20250818_205208.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221342",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.43",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "35831188",
+            "bodySummary": "유아들을 위한 간단한 장난감과 책들도 있었어요:) 아참, 그리고 파스쿠찌 청주수암골점은 애견동반도 가능하답니다. 노트북으로 일을 해야해서 전원이 있는 자리에 앉았어요. 테이블 위에",
+            "url": "https://m.blog.naver.com/316700a/223341938172",
+            "nick": "퀸A",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20160726_133/316700a_1469515221038ROAyG_JPEG/111.jpg"
+          },
+          {
+            "sid": "35831188",
+            "bodySummary": "그리고 체인카페를 선택하라고 하면, '파스쿠찌'를 바로 선택합니다. 물론, 카페는 가리지 않고 다 선호하는 편이지만 대체로 그렇다아~ 하는거예요ㅎㅎ 청주에 카페거리라고 불리는 '수",
+            "url": "https://m.blog.naver.com/bianca___/222847759815",
+            "nick": "밤색젤리",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMDFfMTAz/MDAxNzA0MDY3NDc2MDUz.MqRmcklcMRuoVn8D_LFpnaMafzBpGv-S0Zd1pZbtOpIg.vXOFlGGdBbpaL_kcdflg7a2H7d7ML_4DMe3yZ3axM5Ag.JPEG.souri_/profileImage.jpg"
+          },
+          {
+            "sid": "35831188",
+            "bodySummary": "안녕하세요~ 오늘은 청주 야경보러 많이 가는 수암골점 뷰 좋은 카페 파스쿠치 수암골점 솔직후기입니다. 위치는 수암골쪽에 있구요~ 앞쪽이라 청주를 바라보기 좋은 위치에 있어요~ 파스",
+            "url": "https://m.blog.naver.com/qazokm8520/222629290578",
+            "nick": "dd",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA2MjlfMjk3/MDAxNjg3OTk4ODA5NTgx.tCjYpxugw4mt0wuLULzvMU-Gk_XICYhpHO0FustPVqsg.MBP6XNL825q6IQk2IrY7NCPLQetCvFJjEh95iMxJ0pwg.GIF.qazokm8520/profileImage.gif"
+          },
+          {
+            "sid": "35831188",
+            "bodySummary": "브링번 입니다 :) 오늘은 청주 수암골에 위치한 파스쿠찌 다녀왔어요 들어가는 입구와 계단이에요 :) 밖에서 보는것보다 훨씬 크고 쾌적해요 카카오 프렌즈와 이벤트도 진행중인지 곳곳에",
+            "url": "https://m.blog.naver.com/hhl4985/222060257910",
+            "nick": "브링번",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA2MDlfMTM5/MDAxNjU0NzAyMjQ2MTYx.ng_UkzJ1AONSzV4gdnJLLo9rgLGkCrvs-Dr62ktXJ1wg.m01FGKz42V-bnRgITuvxF_6n7_mrAgP-jXHTxd1uQlEg.PNG.hhl4985/profileImage.png"
+          },
+          {
+            "sid": "35831188",
+            "bodySummary": "그냥 파스쿠찌 갔어요 ㅋㅋㅋㅋ맛있는 커피가 먹고 싶어서 수암골 많이 죽은 듯해요ㅠ.ㅠ 시간이 늦어서 그런가요? 추워서 그런가요? 야경 보러 많이 왔었는데 사람이 없더라고요! 파스쿠",
+            "url": "https://m.blog.naver.com/yj931121/221462477859",
+            "nick": "킴예",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTA1MjhfMTkx/MDAxNTU5MDQ5NzYzNjQx.eU39R7kDQvU_vsSaIWuPQherLxYEbfsa7UixVjm399Eg.slYVvHa5vdrs2hcZg5kYPy1MzV3O38t5AL-oE2RggNog.PNG.yj931121/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 34,
+        "id": "35593302",
+        "name": "포메인 청주수암골점",
+        "x": "127.4945763",
+        "y": "36.6450258",
+        "distance": 0.251,
+        "categoryName": "베트남음식",
+        "categoryPath": [
+          [
+            "220036",
+            "220041",
+            "220109"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "베트남음식"
+        ],
+        "reviewCount": 568,
+        "averagePrice": 12000,
+        "address": "충청북도 청주시 상당구 수동 112-118",
+        "roadAddress": "충청북도 청주시 상당구 수암로 31",
+        "abbrAddress": "수동 112-118",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "수암로 31"
+        ],
+        "displayContext": [
+          "쌀국수",
+          "치킨",
+          "팟타이",
+          "데이트",
+          "경치"
+        ],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "충청북도 청주시 상당구 수동 112-118",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20250617_233/17501454284900XTAi_PNG/1.png",
+          "https://ldb-phinf.pstatic.net/20210406_249/1617673693283IU7n2_JPEG/30WDYTrF_0nSYO7KNwIYGUuh.jpg",
+          "https://ldb-phinf.pstatic.net/20250617_262/1750145428272suxq5_JPEG/3.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220109",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "35593302",
+            "bodySummary": "지난주 평일 그 언젠가 쌀국수가 먹고 싶어서 다녀온 곳! 수암골 가는 김에 방문 #포메인청주수암골점 #수암골맛집 #청주쌀국수 #수암골쌀국수 파스쿠찌와 편의점 그 어딘가 중간에 껴있",
+            "url": "https://m.blog.naver.com/yeonhong_blog/223377562013",
+            "nick": "연홍",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDEwMjFfMTk1/MDAxNjAzMjgwMTkxMzEy.7In7aToS5ODhOpYX5A3ORwmtwu0ViVtxuNQQqcIBrlog.Ub_sY0kT3HXot26Tx72MnlRCgY2fVVK9bExSGYC3Ekcg.JPEG.fall816/profileImage.jpg"
+          },
+          {
+            "sid": "35593302",
+            "bodySummary": "아빠가 뜨끈한 쌀국수가 생각난다고해서 오랜만에 수동 수암골에 있는 포메인에서 점심 식사를 했습니다. 몇 년 전에 종종 왔다가 정말 오랜만에 방문하는 곳인데요. 예전에는 반려견 동반",
+            "url": "https://m.blog.naver.com/luvkki/223344098172",
+            "nick": "퀴랑",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAyMDRfMjgx/MDAxNzA3MDQzMjgxNzEw.zPeezetpYF-Q2Fu1bKp4UefmvR82jwO5uGoTVctxQzIg.4FBry85xdiFaVi0vdBcbtG4KR1xrnmA70Vg1P70zuo4g.PNG.luvkki/profileImage.png"
+          },
+          {
+            "sid": "35593302",
+            "bodySummary": "갑시다! 포메인! 포메인 청주수암골점 충북 청주시 상당구 수암로 31 043-222-2366 킴사임당 이른 시간이라 주차할 곳은 널널했다. 가게 앞에 주차를 하고 룰루리랄라리. 날",
+            "url": "https://m.blog.naver.com/iooi81/223247789382",
+            "nick": "킴사임당",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMjRfMTI4/MDAxNzAzNDIyMDAwODUz.o2DF5DYNSO5olaj7yOUh_hCpA1lcTxiinJzlmmt9Hfwg.mG9z8plsH0sEU_UOYHN4fzUA7VFB0F_FByHmTGDaSIEg.JPEG.iooi81/profileImage.jpg"
+          },
+          {
+            "sid": "35593302",
+            "bodySummary": "두찌 낳고 근 2년 만에 갔더니 애견동반 가능한 매장으로 바꼈네 지하인 듯 지하가 아닌 수암골 포메인 일단 계단으로 한 층 내려가야 한다 매장은 꽤 큰 편으로 좌석도 많고~ 폴딩도",
+            "url": "https://m.blog.naver.com/joojoo7400/223219707075",
+            "nick": "주야",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDA0MDFfMjY2/MDAxNTg1NzE2OTM4OTQ4.GmLbe3tGtvAg5WYHoR9vjOWxcjEp40nXFTID-qqDvv4g.ZWbDnvaokVGipVCXZNnx5_A0vedw4696mk7BK1LwNpQg.JPEG.joojoo7400/profileImage.jpg"
+          },
+          {
+            "sid": "35593302",
+            "bodySummary": "수암골은 제빵왕 김탁구 때문에 많이 알려지고 관광지가 되었는데, 그 밖에도 여러 드라마가 촬영되었다. 특히 이곳에 김수현 작가의 드라마 아트홀이 있다고 들었는데 다음번엔 거길 방문",
+            "url": "https://m.blog.naver.com/hhmy1/223123953323",
+            "nick": "기매미니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA5MTlfMTUx/MDAxNjYzNTU3MTM2Mzk4.d1-DyCsSLDC8HYzM62lWq2R-mzcilG7Vs18HCK-vv6gg.qKBByPVfJnC2t5kXl_62QR8cYgp8dZgaGgOORUmzMO4g.PNG.i870403/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 35,
+        "id": "1583754432",
+        "name": "뚜레쥬르 청주시청점",
+        "x": "127.4894381",
+        "y": "36.6440066",
+        "distance": 0.223,
+        "categoryName": "베이커리",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220564",
+            "221172"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "베이커리"
+        ],
+        "reviewCount": 329,
+        "averagePrice": 0,
+        "address": "충청북도 청주시 상당구 북문로3가 123",
+        "roadAddress": "충청북도 청주시 상당구 중앙로 80",
+        "abbrAddress": "북문로3가 123",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "중앙로 80"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "충청북도 청주시 상당구 북문로3가 123",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDdfMTcg/MDAxNzU5ODI1MjE3MzAy.xUZnD4J48UAyoW-Zwxmi10Bz53GvqD_xUn9qHqyfrJAg.9485uxAysfqPmwBWNy9Wpv3ZySRgO9t3MfC5Rcf9LM4g.JPEG/112C0E09-D61A-4D75-99C9-3D9C2CD76E51.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTZfMTM2/MDAxNzUyNjM2MDg4Nzgz.1LnjnDxG-W_oDnQ3GYHU93QttwQDadxuM1Xcx3pfo6cg.Fk5QR0ppRLUeLzvsEiRhkq-cN7DB9IPjARHY4SZW29cg.JPEG/20250716_115326.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250813_266/17550484266608gyBG_JPEG/%B6%D1%B7%B9%C1%EA%B8%A3_%B7%CE%B0%ED_%B3%D7%C0%CC%B9%F6.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjZfMjM0/MDAxNzQ4MjM2MTAyNjU5.z7HxziTTQ3yQ7qdMYJWMZz2mP51L9w6NuWMPPjrlwbUg.tKfRq7yA9eBm_PZUZ-5vvoDDNAT-eBC07lliQLJJZCkg.JPEG/Screenshot_20250526_131228_NAVER.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTVfMTI2/MDAxNzU3OTA3MzgzNjg0.U_Z3bpQmnZ2_S23rdy5iVFx37SwY-W7grL9ttqzb--Ag.IKo18hIo_FzOsCBUDyhzjsxO5Vk7DHOiTc59vMgc_M8g.JPEG/A6B63A68-DA71-415E-ACCB-ABBFAA30497F.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTVfMTA5/MDAxNzU3OTIxODc3Nzc1.KbJBPNxDjDYS-ryRxD77ZoCHXr4UxL4iqCYYxJE1xEsg.vv0nySLJfzz5DTbhP5LCyRfRrOCZ2E9jj2qS76Rvw6wg.JPEG/20250915_143700.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221172",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 36,
+        "id": "32034464",
+        "name": "김밥천국 수동점",
+        "x": "127.4919695",
+        "y": "36.6430855",
+        "distance": 0.175,
+        "categoryName": "분식",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220207"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "분식"
+        ],
+        "reviewCount": 8,
+        "averagePrice": 5000,
+        "address": "충청북도 청주시 상당구 수동 393-15",
+        "roadAddress": "충청북도 청주시 상당구 대성로200번길 4",
+        "abbrAddress": "수동 393-15",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "대성로200번길 4"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "충청북도 청주시 상당구 수동 393-15",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20200429_23/1588158784521JLNIB_JPEG/k29hwnN4yDncr0QzVm8vUS1B.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220207",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 37,
+        "id": "31699514",
+        "name": "애쉬커피로스터스",
+        "x": "127.4945373",
+        "y": "36.6446838",
+        "distance": 0.244,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221212"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 51,
+        "averagePrice": 6000,
+        "address": "충청북도 청주시 상당구 수동 112-130",
+        "roadAddress": "충청북도 청주시 상당구 수암로 27",
+        "abbrAddress": "수동 112-130",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "수암로 27"
+        ],
+        "displayContext": [
+          "카페",
+          "분위기좋은",
+          "로스팅",
+          "야경",
+          "벽화마을"
+        ],
+        "labelTheme": "분위기 좋은",
+        "microReviews": [],
+        "cardDescription": "충청북도 청주시 상당구 수동 112-130",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221212",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "31699514",
+            "bodySummary": "청주수암골카페 카페오늘 요즘 수암골 , 청주 핫플레이스로 각광받고 있는곳이죠~ 바로 저희집 뒤에 있어서 밤마다 수암골만 환한 불빛으로 화려해요. 그래서 땅콩이쁘니가 다녀왔어요. 청",
+            "url": "https://m.blog.naver.com/won01111/220810924855",
+            "nick": "땅콩이쁘니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxNjExMjBfMjQ3/MDAxNDc5NjM5MDgxNjg5.GCd3KVaPR1YMF-TGBHuZKIGSTJcIiRRjTNfgaIZGli8g.FNJkd1jXyiWznY5H9x52Qvu4Dpi-1cSS_kBr_IpFEpUg.JPEG.won01111/profileImage.jpg"
+          },
+          {
+            "sid": "31699514",
+            "bodySummary": "간만에~영화한편을 보고 평소 자주가는 수암골 카페거리로 GoGo~ 오늘의 카페선택은 ash(에쉬) 카페 인테리어를 아주 이쁘게 꾸며두신데다가 저녁 야경보기에 아주 좋은 카폐에요 커",
+            "url": "https://m.blog.naver.com/spin077/220499489472",
+            "nick": "코지",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20200517_265/spin077_1589720952068Br6ol_JPEG/image.jpg"
+          },
+          {
+            "sid": "31699514",
+            "bodySummary": "주소: 청주시 상당구 수동 112-130 T E L : 043- 216- 5606 영업시간 : 11:00- 24:00 아무리 더운날에도 저는 야외를 선호한답니다 . 전망좋은 테라스",
+            "url": "https://m.blog.naver.com/armanino2/220458612238",
+            "nick": "Jessica",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAyMTNfNzMg/MDAxNzA3NzcxMDkyNjY2.V3e3pPqNlP2uD_cYUvJNEFupZR8vO-gJYVCO9uliYuog.-TxBh4ghMY-BFpokAQOa7j8hsBbR39vl3xP4beLf4-4g.PNG.armanino2/profileImage.png"
+          },
+          {
+            "sid": "31699514",
+            "bodySummary": "'ash' COFFEE ROASTERS 애쉬커피로스터스 충청북도 청주시 상당구 수암로 27 영업시간 AM11:00 - AM12:00 2층엔 우리밖에 있긔없긔 배터리도 얼마 없는데 ",
+            "url": "https://m.blog.naver.com/zld5527/220456700334",
+            "nick": "MONOGREEN",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20150822_160/zld5527_1440171409483sUVaI_JPEG/MONOGREEN.jpg"
+          },
+          {
+            "sid": "31699514",
+            "bodySummary": "청주맛집, 청주수암골카페 주천 청주 분위기좋은카페 수암골애쉬(ash) 카페가 정말정말 예쁘다면서 선생님이 추천해주신 수암골애쉬 , 선생님이 알려준이름을 까먹어서 , 수암골하얀카페라",
+            "url": "https://m.blog.naver.com/speechseon/220244710487",
+            "nick": "하망이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxNzA5MTJfMTE3/MDAxNTA1MTQzMjkxMTEz.35BSWRznfEvOUmaB2o6-ik_ZY7RjBtns2zL6ieWJ6sog.Idm2xT4U3xGM6Tk4Dj1LKBnsQFu0kEhpi_p9qRPjK8Qg.JPEG.speechseon/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 38,
+        "id": "1694068830",
+        "name": "캠토 상당점",
+        "x": "127.4909001",
+        "y": "36.6449451",
+        "distance": 0.087,
+        "categoryName": "토스트",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220190",
+            "1001501"
+          ]
+        ],
+        "category": [
+          "분식",
+          "토스트"
+        ],
+        "reviewCount": 88,
+        "averagePrice": 0,
+        "address": "충청북도 청주시 상당구 수동 412-7 1층",
+        "roadAddress": "충청북도 청주시 상당구 상당로186번길 21",
+        "abbrAddress": "수동 412-7 1층",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "상당로186번길 21"
+        ],
+        "displayContext": [],
+        "labelTheme": "분식",
+        "microReviews": [],
+        "cardDescription": "충청북도 청주시 상당구 수동 412-7 1층",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1001501",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 39,
+        "id": "1820203857",
+        "name": "다성왕족발보쌈 수동점",
+        "x": "127.4917387",
+        "y": "36.6433901",
+        "distance": 0.141,
+        "categoryName": "족발,보쌈",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220766",
+            "221504"
+          ]
+        ],
+        "category": [
+          "한식",
+          "족발,보쌈"
+        ],
+        "reviewCount": 38,
+        "averagePrice": 0,
+        "address": "충청북도 청주시 상당구 수동 404-7",
+        "roadAddress": "충청북도 청주시 상당구 대성로 201",
+        "abbrAddress": "수동 404-7",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "대성로 201"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "충청북도 청주시 상당구 수동 404-7",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221504",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.6",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 40,
+        "id": "1068602148",
+        "name": "수암골언니네분식",
+        "x": "127.4945895",
+        "y": "36.6449665",
+        "distance": 0.251,
+        "categoryName": "종합분식",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220185"
+          ]
+        ],
+        "category": [
+          "분식",
+          "종합분식"
+        ],
+        "reviewCount": 47,
+        "averagePrice": 0,
+        "address": "충청북도 청주시 상당구 수동 112-118",
+        "roadAddress": "충청북도 청주시 상당구 수암로 31",
+        "abbrAddress": "수동 112-118",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "수암로 31"
+        ],
+        "displayContext": [],
+        "labelTheme": "분식",
+        "microReviews": [],
+        "cardDescription": "충청북도 청주시 상당구 수동 112-118",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220185",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1068602148",
+            "bodySummary": "청주 수암골 맛집, 뷰가 좋은 수암골언니네분식 맛있어요! 청주 수암골 뷰 맛집 수암골언니네분식에서 점심 먹었어요! 성안길에서 놀다가 수암골 벽화마을 구경하러 왔는뎅 점심을 안먹은 ",
+            "url": "https://m.blog.naver.com/dbswjdwls23/222107817828",
+            "nick": "커밍슈니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxNzEyMTNfMjEw/MDAxNTEzMTc1Mjk1MDUz._vBI_v1Aql5AgpO5IMpCVDublMJex76CxaMwW6kQEzIg.LeOj-CYO2PQbC6PPlrK8uA-aTWaz6EU8zlekt5zwVLUg.JPEG.dbswjdwls23/profileImage.jpg"
+          },
+          {
+            "sid": "1068602148",
+            "bodySummary": "언니네분식팁 수암골언니네 분식은 매장 안이 넓다고 생각했던 찰나 바로옆 세븐땡 편의점과 연결되는 문이 있더라구요 그리고 안내문에 세븐 편의점 이용고객은 언니네분식 테이블을 이용해도",
+            "url": "https://m.blog.naver.com/sk21212121/221989645384",
+            "nick": "나나난",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDA2MTFfMjM5/MDAxNTkxODQ2Nzk3MTA3.MroQrUPDil5uc5amgCoBsT8U9f3cIH548Tn3o0ZmegYg.mbrV4hIgDEtbzOjthdRy0Vz-DZn2qTrotEbhFocdj1kg.JPEG.sk21212121/profileImage.jpg"
+          },
+          {
+            "sid": "1068602148",
+            "bodySummary": "식사하는데 조명을 켜주셨는데 카페처럼 너무 부위기 있고 음식도 맛있는데 가게도 이뻐서 더 맛있는 점심시간~~!! 이제 #수암골언니네분식 찜 수암골언니네 분식 주소: 충북 청주시 상",
+            "url": "https://m.blog.naver.com/gpwn622/221989601427",
+            "nick": "Jooooo",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDA5MjVfMjAy/MDAxNjAwOTk1MzUwODI0.oooN-INy1Z_A7lXi3D6ug-0gcEbezOw9UQDjyYNyBNAg.eHXaCR-QRTq46lWfccS545g0lE09JJxFmwqxEJ4Efcsg.JPEG.gpwn622/%25ED%2594%2584%25EC%2582%25AC.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 41,
+        "id": "17771918",
+        "name": "정겨운밥상",
+        "x": "127.4902336",
+        "y": "36.644655",
+        "distance": 0.14,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 23,
+        "averagePrice": 0,
+        "address": "충청북도 청주시 상당구 북문로2가 2-1",
+        "roadAddress": "충청북도 청주시 상당구 상당로 184",
+        "abbrAddress": "북문로2가 2-1",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "상당로 184"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "충청북도 청주시 상당구 북문로2가 2-1",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 42,
+        "id": "1234415660",
+        "name": "종가전집",
+        "x": "127.4938809",
+        "y": "36.6451977",
+        "distance": 0.195,
+        "categoryName": "전,빈대떡",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220074",
+            "220731"
+          ]
+        ],
+        "category": [
+          "한식",
+          "전,빈대떡"
+        ],
+        "reviewCount": 61,
+        "averagePrice": 270000,
+        "address": "충청북도 청주시 상당구 수동 92-6",
+        "roadAddress": "충청북도 청주시 상당구 대성로180번길 115",
+        "abbrAddress": "수동 92-6",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "대성로180번길 115"
+        ],
+        "displayContext": [],
+        "labelTheme": "고급 정찬",
+        "microReviews": [],
+        "cardDescription": "충청북도 청주시 상당구 수동 92-6",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220731",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 43,
+        "id": "1949192994",
+        "name": "서래궁",
+        "x": "127.4902461",
+        "y": "36.6430628",
+        "distance": 0.225,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 4,
+        "averagePrice": 10000,
+        "address": "충청북도 청주시 상당구 북문로2가 6-3 2층 서래궁",
+        "roadAddress": "충청북도 청주시 상당구 교동로3번길 127",
+        "abbrAddress": "북문로2가 6-3 2층 서래궁",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "교동로3번길 127"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [],
+        "cardDescription": "더 맛있고, 건강한 맛으로 식사하실 수 있도록 노력하겠습니다.",
+        "description": "더 맛있고, 건강한 맛으로 식사하실 수 있도록 노력하겠습니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTZfMTk0/MDAxNzQ3NDAwOTY2NDI5.YomgEqGDzire6D0L1co_8jJHaIcamH85Y1_ajn-Qjqsg.-pb38HFE3faee4psYOiDy9p5K7SqqoqK_R6nLmTMUL4g.JPEG/20250516_192239.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTZfMjcw/MDAxNzUyNjM3MTM2OTUx.tRQa1jGQRs7lAqzYOZ9ASbROph1Oq3p6VDpRRYkr7nYg.Y7vLeKop7jwyisBli5ethSFJB6G0WiHRU_34-eux6usg.JPEG/IMG_20250716_121242.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250708_15/1751945595358sPilM_JPEG/MEDIA_20250708_123242_7097845348958770277.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MDVfNTIg/MDAxNzQzODI5NjM2NDAy.GPVjRSAbB4k1IJO0uqF3bm6zmrCukX66ws5OtvKYIJwg.SiaUmxXy6Igzz_gVt3j_ny9mEKZy9iAukbJh8gWc-0og.JPEG/20250404_203954.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250708_193/1751945724718ucJxe_JPEG/MEDIA_20250708_123505_2005764330924238768.jpg",
+          "https://ldb-phinf.pstatic.net/20250708_47/1751945695675sYSzW_JPEG/MEDIA_20250708_123415_7262457980827687131.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 44,
+        "id": "1294655775",
+        "name": "크레페홍아저씨",
+        "x": "127.4916371",
+        "y": "36.6456662",
+        "distance": 0.114,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 4,
+        "averagePrice": 0,
+        "address": "충청북도 청주시 상당구 수동 457 충청북도 창주시 상당구 457-16 청주문화재야행",
+        "roadAddress": "충청북도 청주시 상당구 대성로 227-1",
+        "abbrAddress": "수동 457 충청북도 창주시 상당구 457-16 청주문화재야행",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "대성로 227-1"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "충청북도 청주시 상당구 수동 457 충청북도 창주시 상당구 457-16 청주문화재야행",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 45,
+        "id": "1135993987",
+        "name": "집밥아저씨",
+        "x": "127.4916797",
+        "y": "36.6433951",
+        "distance": 0.14,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 2,
+        "averagePrice": 0,
+        "address": "충청북도 청주시 상당구 수동 404-7",
+        "roadAddress": "충청북도 청주시 상당구 대성로 201",
+        "abbrAddress": "수동 404-7",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "대성로 201"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "충청북도 청주시 상당구 수동 404-7",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 46,
+        "id": "1622961767",
+        "name": "명품한끼죽",
+        "x": "127.4916671",
+        "y": "36.6433755",
+        "distance": 0.143,
+        "categoryName": "도시락,컵밥",
+        "categoryPath": [
+          [
+            "220036",
+            "220047",
+            "220169"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "도시락,컵밥"
+        ],
+        "reviewCount": 1,
+        "averagePrice": 0,
+        "address": "충청북도 청주시 상당구 수동 404-7 1층(수동)",
+        "roadAddress": "충청북도 청주시 상당구 대성로 201",
+        "abbrAddress": "수동 404-7 1층(수동)",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "대성로 201"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "충청북도 청주시 상당구 수동 404-7 1층(수동)",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220169",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 47,
+        "id": "17224591",
+        "name": "거창식당",
+        "x": "127.49164",
+        "y": "36.64566",
+        "distance": 0.113,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 1,
+        "averagePrice": 0,
+        "address": "충청북도 청주시 상당구 수동 457",
+        "roadAddress": "충청북도 청주시 상당구 대성로 227-1",
+        "abbrAddress": "수동 457",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "대성로 227-1"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "충청북도 청주시 상당구 수동 457",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 48,
+        "id": "1240135834",
+        "name": "본뼈감자탕",
+        "x": "127.4916671",
+        "y": "36.6433755",
+        "distance": 0.143,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 3,
+        "averagePrice": 0,
+        "address": "충청북도 청주시 상당구 수동 404-7 1층(수동)",
+        "roadAddress": "충청북도 청주시 상당구 대성로 201",
+        "abbrAddress": "수동 404-7 1층(수동)",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "대성로 201"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "충청북도 청주시 상당구 수동 404-7 1층(수동)",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 49,
+        "id": "17225465",
+        "name": "장뜰식당",
+        "x": "127.4905273",
+        "y": "36.6449492",
+        "distance": 0.119,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 3,
+        "averagePrice": 0,
+        "address": "충청북도 청주시 상당구 수동 412-9",
+        "roadAddress": "충청북도 청주시 상당구 상당로186번길 15",
+        "abbrAddress": "수동 412-9",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "상당로186번길 15"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "충청북도 청주시 상당구 수동 412-9",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.83",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 50,
+        "id": "1221259436",
+        "name": "아낌없이주는화로숯불구이",
+        "x": "127.4945574",
+        "y": "36.6440864",
+        "distance": 0.254,
+        "categoryName": "육류,고기요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220733"
+          ]
+        ],
+        "category": [
+          "한식",
+          "육류,고기요리"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 0,
+        "address": "충청북도 청주시 상당구 수동 112",
+        "roadAddress": "충청북도 청주시 상당구 수암로 21",
+        "abbrAddress": "수동 112",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "수암로 21"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "충청북도 청주시 상당구 수동 112",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220733",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 51,
+        "id": "1119259562",
+        "name": "가마솥 왕갈비탕&코다리 회냉면",
+        "x": "127.4916671",
+        "y": "36.6433755",
+        "distance": 0.143,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 0,
+        "address": "충청북도 청주시 상당구 수동 404-7",
+        "roadAddress": "충청북도 청주시 상당구 대성로 201",
+        "abbrAddress": "수동 404-7",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "대성로 201"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [],
+        "cardDescription": "충청북도 청주시 상당구 수동 404-7",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 52,
+        "id": "1666496142",
+        "name": "볶음밥 24시",
+        "x": "127.4916671",
+        "y": "36.6433755",
+        "distance": 0.143,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 0,
+        "address": "충청북도 청주시 상당구 수동 404-7 1층(수동)",
+        "roadAddress": "충청북도 청주시 상당구 대성로 201",
+        "abbrAddress": "수동 404-7 1층(수동)",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "대성로 201"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "충청북도 청주시 상당구 수동 404-7 1층(수동)",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 53,
+        "id": "1897522286",
+        "name": "그날제주",
+        "x": "127.4945464",
+        "y": "36.644108",
+        "distance": 0.252,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 757,
+        "averagePrice": 5000,
+        "address": "충청북도 청주시 상당구 수동 112 3층",
+        "roadAddress": "충청북도 청주시 상당구 수암로 21",
+        "abbrAddress": "수동 112 3층",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "수암로 21"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [
+          "입안에서 녹는 부드러운 카이막의 매력"
+        ],
+        "cardDescription": "입안에서 녹는 부드러운 카이막의 매력",
+        "description": "제주 분위기를 모티브한 포토존이 많은 카페입니다.",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20220718_4/1658129690025Jo3s5_PNG/FE17B250-2B34-462B-A9DF-A845A75851CC.png",
+          "https://ldb-phinf.pstatic.net/20241226_201/1735188042938VIBWY_JPEG/20241226_133613.jpg",
+          "https://ldb-phinf.pstatic.net/20241226_125/1735188043141AGkKd_JPEG/20241225_132656.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "1897522286",
+            "bodySummary": "개인적으로 국내에서 맛본 카이막 중에서 용인의 묵리 459 가 제일 맛있었는데 여기도 나름... 먹을 만 했어요. 비주얼은 일단 합격 접시까지 현무암 스타일인거 뭐냐고요 빵은 확실",
+            "url": "https://m.blog.naver.com/iamsuzing/223387298556",
+            "nick": "수징",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEwMTJfNDEg/MDAxNjk3MTAxMjA4NjMy.sxYtPZnaA-noyBRNHpHwryE-SBEuvaCgTD4-1uv40xAg.SH1Gd4ELNJ-LT8Y_SsfEZ7cNfDMkWivhCLb4B1qbfbQg.PNG.01022616505/profileImage.png"
+          },
+          {
+            "sid": "1897522286",
+            "bodySummary": "내리면 바로 카페가 있습니다 밥을 안 먹고 방문해서 식사대용으로 카이막 주문했습니다 같이먹을 아아도 시켰어요☕️ 주문을 하고 자리를 둘러 보는데 매장이 전체적으로 제주도 분위기로 ",
+            "url": "https://m.blog.naver.com/jjyy0022/223372095084",
+            "nick": "오늘",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMjBfMTc2/MDAxNzA1NzU5ODY1NTQx.gDNE2Dwy11AYthx6C_en7wQFji3E2K0UlOxR_LLqtaYg.0q523hpEbxgi8SX4YO6PtaBdbLq26BxY9S1zLq3sTtog.PNG.jjyy0022/profileImage.png"
+          },
+          {
+            "sid": "1897522286",
+            "bodySummary": "주소 : 충북 청주시 상당구 수암로 21 3층 ● 전화번호 : 0507-1394-0097 ● 영업시간 : 월~금 12:00 - 23:00 / 주말 11:00 - 23:00 / 라스",
+            "url": "https://m.blog.naver.com/swsb22/223365254880",
+            "nick": "소린",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMjhfNTcg/MDAxNzA2NDA2NzQzMDM1.WfU2ehCVyUeOe9d4aFXUBhJntqhxDTh3_-fCt_p-q84g._Jqc-I5xcyXGYuCP6ffi6hhPI4BDPm8NdkQjt7TcMbwg.PNG.swsb22/profileImage.png"
+          },
+          {
+            "sid": "1897522286",
+            "bodySummary": "사장님도 남자분이셨는데 정말 친절함 그날제주 청주시 상당구 수암로 21 3층 청주 시내 시청 정류장에서 걸어서 10분 평일 12:00 - 23:00 주말 11:00 - 23:00 ",
+            "url": "https://m.blog.naver.com/ejs4476/223352648040",
+            "nick": "피글렛",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMTBfNTYg/MDAxNzEwMDMzNDMwODEx.--91SE3w9aI8ZoPr4nJ3ILvYx97SOALxMni9iBtdnuEg.0zLsKrrRO6JS-CR5w6ZVkdCLq4ZHI7qGl29BtQJP8bgg.PNG/profileImage.png"
+          },
+          {
+            "sid": "1897522286",
+            "bodySummary": "제가 먹어본 카이막 중 1순위 ,, 카이막 먹으러 올 정도 청주 카이막 맛집 인정이에요, 데이트하러도 강아지랑 시간보내러 오기에도 수암골 그날 제주 좋을 거 같아용 카이막 꼭 꼭 ",
+            "url": "https://m.blog.naver.com/luminoussss/223349740965",
+            "nick": "이야",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMjhfMzkg/MDAxNzAzNzU3MzM1MjIz.vkzHN6Seyifc3X6VJUUejUTpkD9ZnQ2D4ScTkBkJJwUg.v7aNuStJy-VlkI0uru04Fql0YFhVbcNeBLfhRLw3JIAg.PNG.luminoussss/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 54,
+        "id": "1799287245",
+        "name": "임금님짬뽕",
+        "x": "127.4902316",
+        "y": "36.6439936",
+        "distance": 0.159,
+        "categoryName": "중식당",
+        "categoryPath": [
+          [
+            "220036",
+            "220039",
+            "220091",
+            "220861"
+          ]
+        ],
+        "category": [
+          "중식",
+          "중식당"
+        ],
+        "reviewCount": 197,
+        "averagePrice": 9000,
+        "address": "충청북도 청주시 상당구 북문로2가 4",
+        "roadAddress": "충청북도 청주시 상당구 교동로3번길 149",
+        "abbrAddress": "북문로2가 4",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "교동로3번길 149"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [
+          "유니짜장과 함께하는 특별한 식사"
+        ],
+        "cardDescription": "유니짜장과 함께하는 특별한 식사",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDNfMTk3/MDAxNzUxNTA0NzgzOTA1.CXCUKEcZiC6rErhh7DDXITBsrnpLZHp_Y5jYtxKmsEYg.woRkxXvI9BZ0A3M2LSWp-hcNIVNWwvBq_jMZevIWLd0g.JPEG/20250617_123416.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDJfMjcw/MDAxNzQ4ODM2NDM4MjQ4.5KUoT690OEd5BIGK8tx8S5R2n4XIpGRm96_1xd15Hk4g.GZZlJpFjUxNZYljgo4Otiaqa4OrztlXT1uWl4kzIcewg.JPEG/20250530_123533.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjdfMTY2/MDAxNzU2MjMyOTMyMjM0.bKG2saF4Y0Q7P3ABFy3_OeOz4zEfc1VZPaSq0qfgvEYg.cuMQx3nDV1wucNQS_Pmdrqv7MLREveZqpMz4a9_dW3Ug.JPEG/210A18A8-2790-4E01-A691-2866EC7135CF.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjNfMjE0/MDAxNzUzMjIxMjMxMzA3.NGmiqJujlA1uuZy_ylyRzWeOkKGTy0GI0a14y70syXkg.accF_itgpSgRxNPp-TvZIW3R-FnGPZD3X5PUH6YiaFcg.JPEG/58F35734-B261-4615-BD9C-D2DAA1F8AB48.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjRfMjQg/MDAxNzUwNzAxNTkzNjc1.u96fc3dVOjrP90aUtdaSzc7yUNgnvHpQKeE6DOH3PkYg.CghrM9oWxnZ62MjFM8ofbTJiG6qxGzF5R_va4qmO0Owg.JPEG/F63B3153-3E18-4B12-B910-BF1395A9C621.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDNfMjI1/MDAxNzU5NDg3Mzc3OTE1.XqR3JLFww6HYzGB4r_vuxqieIeQ30MrEUha3FMc05Nog.-pDjVlmHRZwl8CjyUjvnUmGK17M9TX3sAvtdPR8XQPYg.JPEG/20251003_181614.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MDhfMTEg/MDAxNzQ0MDM5NTYyNTIy.ttLANEUGVsroWM-b2nSSDscpRoZT9yIDV-ALBDLiKNAg.hhpIoRGfLFuRkQDjSdrL7yaRT0EbHKFjE1W-Z_FWH4Ug.JPEG/EAAE5962-D218-4C57-A36C-97DA1AEE4827.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjNfNSAg/MDAxNzU1OTA1MTMxOTM4.HXm7feaCia9bdvLdqii-2YcLoWs4dozZI9Tx20Lz6CQg.sR8mNGXvjdMAfhUqrbFsAyD4c-3YpaDzXiwONj7p-Ekg.JPEG/20250822_140318.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTRfMjQg/MDAxNzUyNDI2Njg5ODY5.oDKlLiU8cgaogF8dKX4aTOUxOuBuvLcIscp41sqt1sEg._rzSIjh_4CW30aV-f9UUKjmHHON0jvXdyY8v6w3Y7BYg.JPEG/75327417-2D42-471E-AB8E-D47E17687B05.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTAzMjBfMjc5/MDAxNzQyNDYxNjcyMTI0.AXZyGj6HJMmStstotm54-zqQi643g0FFldlfgFg_5Ncg.mYoOdXPQhEMhXH6icdT_UThGdykQGWNFi50n8b106H0g.JPEG/90C6BD8A-471A-4A3D-8BCF-248F61F72AF0.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220861",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1799287245",
+            "bodySummary": "청주 수동에 은근히 식당이 많은거 같아요. 그리고 주택을 개조해서 만든 식당도 있구요. 주택을 식당으로 리모델링 하고있는곳도 보이더라고요~ 이곳이 독특해서 짜글이를 먹을까 했는데 ",
+            "url": "https://m.blog.naver.com/hwan9890/223360870861",
+            "nick": "에스파파",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTExMDRfMTU2/MDAxNjM2MDE4NzE4NzQw.0BXmsnqSTGCncdM6TT1RRKJV8lerUNG3tc9Y-gAynjsg.eFsCPiD48XNRbQJ2dgcnE1BVW8jKAhs5N3P13bwaqXgg.PNG.hwan9890/profileImage.png"
+          },
+          {
+            "sid": "1799287245",
+            "bodySummary": "청주 맛집 임금님짬뽕 영업시간 : 10:30 - 20:00 위치 : 청주 시내 시청 근처 청주 맛집 임금님짬뽕 불짜장 (곱빼기) 10,000원 임금님짬뽕 10,000원 오늘 리올리",
+            "url": "https://m.blog.naver.com/hotdog0202/223276988317",
+            "nick": "안자니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTAyMjJfMTQ1/MDAxNjEzOTkxMjgwMTM4.1khjxEQjNu387wKFy0XtRoOneqHDtqQF0rttyjnG0K8g.lu2kQB7VBRnO_fF-IJNdsLFxNNyQeE1KGIy5NFMHgSAg.PNG.hotdog0202/226800BA-6A8E-41D4-82A9-A5571C3EB0DF.png"
+          },
+          {
+            "sid": "1799287245",
+            "bodySummary": "집게사장입니다 :) 오늘은 일요일, 오늘은 내가 짜파게티요리사! 아니고, 짜장면 사먹으러 다녀왔어요. 북문로짬뽕, 임금님짬뽕입니다. 저는 길치라 ... 여기가 수동인가?교동인가? ",
+            "url": "https://m.blog.naver.com/hshine19/223275205560",
+            "nick": "청주게장도시락",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMDNfMjMx/MDAxNjk5MDEzMTgyNjkw.BHWZxrK2_7Lgp29Es7_CVsu4N0BYjufgqhCgMnV_OK0g.JxZfYiZANyWlvGi6TZkUy8UOnoo-Za9YuaDvbxRDdTkg.JPEG.hshine19/profileImage.jpg"
+          },
+          {
+            "sid": "1799287245",
+            "bodySummary": "안녕하세요 그림일기예요:D 요날도 워니데이. 목이 아픈데 짬뽕 먹고 싶다고 해서 저녁으로 주문해준 날, 아직 정착은 못해서 리뷰 좋은 곳으로 주문했지만 실은 찹쌀 탕수육에 홀려서.",
+            "url": "https://m.blog.naver.com/hhoo08/223169077954",
+            "nick": "그림일기",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTEwMDlfMTY5/MDAxNjMzNzMwMDQ0MDQy.QnRmmVp4NrZoZdG6zeMVYHwLtT-0TuvPm_T_sxnGeJsg.Jqw9ZluaoLI5xVz4QFclr3OkmSxuXZzDubWqC73tDFcg.JPEG.hhoo08/profileImage.jpg"
+          },
+          {
+            "sid": "1799287245",
+            "bodySummary": "임금님짬뽕 (중식당) 10:30 - 20:00 Last Order | 19:40 Close | 매주 금요일 043-221-0102 충북 청주시 상당구 교동로3번길 149 배달어플가",
+            "url": "https://m.blog.naver.com/haru-----/223158039175",
+            "nick": "하루",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA4MDNfMjE3/MDAxNjkxMDA2ODQ5MTkx.M53XgQ0NCJgdR3W5sdHPZh2FNS6PWgQFtYso54vTTY4g.3hJ44LnJwGvckH-IokMrI_Yc4H-IJw0dRpTagEtZn-0g.PNG.sssyyy316/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 55,
+        "id": "1698330148",
+        "name": "수돈돈",
+        "x": "127.4899767",
+        "y": "36.6437561",
+        "distance": 0.191,
+        "categoryName": "돼지고기구이",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220765",
+            "221458"
+          ]
+        ],
+        "category": [
+          "한식",
+          "돼지고기구이"
+        ],
+        "reviewCount": 85,
+        "averagePrice": 20000,
+        "address": "충청북도 청주시 상당구 북문로2가 116-90 1층",
+        "roadAddress": "충청북도 청주시 상당구 상당로 174-2",
+        "abbrAddress": "북문로2가 116-90 1층",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "상당로 174-2"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [
+          "시원한 생맥주와 찰떡 궁합 고기 한점"
+        ],
+        "cardDescription": "시원한 생맥주와 찰떡 궁합 고기 한점",
+        "description": "해산물을 함께 즐길 수 있는 돼지고기(삼겹살, 목살, 항정살, 가브리살 ) 집입니다 미리 연락만 주시면 단체 빨리 오픈하거나 늦게 마감 합니다 단체 예약 환영합니다",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjJfMjQw/MDAxNzUzMTg1MjM4MDg5.GKrMT9jvsWPGHoHok8fkg8EzwSxlVJJq53I5s9jxEXIg.1X6yxcOvRinFh1l9s543FTU_lfkCrcbcfDpomRoKN3Ig.JPEG/A9660483-A69D-4748-A8E1-DC20E2DB168A.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjVfMTQx/MDAxNzUwODYxNzg4ODky.Nxy7FXZxlXSTHEunim7EeELaPDdX1Vqx_I5nr-X83cgg.grUnFX-kJ78MLOpPNljXqSRGnymWtebE6EfgISBNtWUg.JPEG/20250503_191034.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250721_21/1753060793359yoiVH_PNG/CCB71135-BDAD-4D7E-9F81-D33CD3C518B8.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MDVfMTEw/MDAxNzQzODQ2NTE5NDE5.8jYSeqW4NMFyuGxFPMa-FNr53KZurp_VWfdKhSc3p24g.lqode1lD_V6C4iHMNr5HBVAI8j0T0kKQwZY4DyLsteMg.JPEG/0FAC87C3-F08A-474D-9D05-A8D8DA388025.jpeg",
+          "https://ldb-phinf.pstatic.net/20250721_159/17530607931983K1jb_JPEG/IMG_5838.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjFfMjM1/MDAxNzQ1MjI4NDEwNTc5.7SDILMhNiZQgFajB_YkPe2rlzYGVGvZSlsgwQW7A4Ekg.Oq4Jk_8zo_MDCgfTMJ1C74__oWpH6dcrHeWN_9dUyGAg.JPEG/277FF8C1-540B-497A-AC4B-4D632EC52352.jpeg",
+          "https://ldb-phinf.pstatic.net/20250721_33/1753060791041jSoHt_JPEG/2B2ABD3C-268B-47A9-AA61-D7F1389F7DCD.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTdfNzcg/MDAxNzQ0ODgzNzMwMDMw.LlDC9D3YGSmiDlPVzLf-MQnH8XTVDRa3EDWcIVyfqNgg.HMK_MECEcnSiV4-Vd58Mgklq9QyYbQS54FBwYzOco4og.JPEG/4912902A-A5CF-455D-AA2B-26C520CB68DA.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTAzMzBfMTcz/MDAxNzQzMzI0Njc4MjQ0._GbakKVRgwfoKZE8X6aq5xemoT7TCQx6OSO6Xy92Pc4g.TbrRkco-_zHPLP7qkVQQkvCPhLF6d_rGRMcAe0-vRfog.JPEG/D9365C6E-5569-49EA-9C1A-F756578EB100.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221458",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 56,
+        "id": "1109646375",
+        "name": "수암면옥",
+        "x": "127.4901037",
+        "y": "36.6438075",
+        "distance": 0.179,
+        "categoryName": "육류,고기요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220733"
+          ]
+        ],
+        "category": [
+          "한식",
+          "육류,고기요리"
+        ],
+        "reviewCount": 583,
+        "averagePrice": 10000,
+        "address": "충청북도 청주시 상당구 북문로2가 116-90 영신빌딩1층",
+        "roadAddress": "충청북도 청주시 상당구 상당로 174-2",
+        "abbrAddress": "북문로2가 116-90 영신빌딩1층",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "상당로 174-2"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "구수한 사골 온육수와 직접 반죽하여 뽑은 쫄깃한 고구마전분(100%) 면발과 오랜시간 숙성시킨 매콤한 양념장으로 회냉면과 비빔냉면을 요리하고 있습니다. 또한 물냉면은 동치미&사골&한방육 ",
+        "description": "구수한 사골 온육수와 직접 반죽하여 뽑은 쫄깃한 고구마전분(100%) 면발과 오랜시간 숙성시킨 매콤한 양념장으로 회냉면과 비빔냉면을 요리하고 있습니다. 또한 물냉면은 동치미&사골&한방육 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDRfMjQ3/MDAxNzUxNjAyMjQ0NzAy.rFdJXT-QW62tGMorhUc3hgN7gDbhee-7jXLRtNTNgDsg.dGNchsDrLYa92OACEMmgCK5_IS7LDF8tERW4FaTRKgQg.JPEG/DCEBAE5B-B63D-49B0-B9A3-6C2DD22292FB.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjZfMTE0/MDAxNzU2MTg2NDU3OTI4.yjK6e0HS8uxHEtSXfFmlGBRwZdf7x_CEFaeSokDtPSAg.lAxYXut5J5u5aPyqDYaHcnymaWYaNNZXoc5TxaiIxoQg.JPEG/04EEB1D8-E8E1-419A-997C-FE62838ECA36.jpeg",
+          "https://ldb-phinf.pstatic.net/20211130_82/1638269501813MsUfs_JPEG/20211130_194804.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDRfNzYg/MDAxNzQ2MzM2MjU5MjYw.QiHPLy3sE4L0CVqm3Ew0fTftAg2AqkmikybUorCLigUg.oVVaqKPHN-hatiXK2A8I6BXFLLsOhO7-xD2KCjVYxBAg.JPEG/20250504_133431.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20210805_295/1628145254521kNdYw_JPEG/gDZVBCx-_oCVxkhd7_v89Ssr.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDZfMTU2/MDAxNzU0NDYwNzY3OTcw.-uoun7S5Rh7QC6vrRMdit68hXkxRFnm6CTiz4hvEaH0g.l3umXtJAHpnsqlvK2IU8VkKh2Mu8So8ESDvgpbb61_Yg.JPEG/20250806_123952.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220733",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.47",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "1109646375",
+            "bodySummary": "안녕하세요! 그동안 가보고 싶었던 수암면옥에 다녀왔습니다. 익히 소불고기 맛집이라고 얘기를 많이 들어서 기대를 굉장히 많이 하고 갔습니다. 건물 주차장 있음, 길가 주차 가능 자리",
+            "url": "https://m.blog.naver.com/daily_happy_j/223348421402",
+            "nick": "찌",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA2MTNfOTAg/MDAxNjg2NjI4ODg3NDcy.t2DKJZd6vPJROJtXdWuIuKw8PAiA1k03qsII5w1Ed6Ag.hfO_znn5762BRTU39Og7Nl_u-LJFyoWoHbNOMfsmzpog.PNG.in37234/KakaoTalk_20230609_100751139.png/KakaoTalk_20230609_100751139.png"
+          },
+          {
+            "sid": "1109646375",
+            "bodySummary": "여러분 오늘은 청주 중앙동에 위치한 맛집을 소개할게요 수암면옥입니다 내부는 30평 정도 크기로 아주 널찍해서 단체나 모임도 괜찮을 것 같아요! 여기는 메뉴가 정말 빨리 나오는 편이",
+            "url": "https://m.blog.naver.com/mutt-craft/223320738858",
+            "nick": "아르스헌터",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMDZfMTg2/MDAxNzA5NzMxNTc5NDkw.bIgDCEzaAlsmzNySYVcfapsHbmPlYeiq1JgcvLltwKcg.4jggEkhCKtz_P1M0eQe6PgENVJ5oOAPmEuSx8SgP1S4g.PNG/profileImage.png"
+          },
+          {
+            "sid": "1109646375",
+            "bodySummary": "기본 반찬 1인 1가위&집게 넘 좋아유 함흥냉면 세팅 갈비탕 세팅 물냉면(9,000원) 갈비탕(13,000원) 갈비탕(13,000원) 총평 : (5점 만점) 식당 자체가 깔끔하고,",
+            "url": "https://m.blog.naver.com/t_tooooo/223283537086",
+            "nick": "간디소녀",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjEyMTZfMjQx/MDAxNjcxMTc3NTY0NzA4.1_3KbXqEFWUu2dOfr32G5w0FOEZbW_2S_CwPVbW4XKEg.2WpMLAV2RBjNRaP-7Otof4aN1ImjTuz51PJLVjre-F8g.PNG.tngh7251/profileImage.png"
+          },
+          {
+            "sid": "1109646375",
+            "bodySummary": "갈비탕과 냉면을 한 번에 먹을 수 있는 곳 수암면옥 우리가 일 박 하였던 아몬드 빌라에서 얼마 멀지 않은 곳이에요 청주 병원 근처에 있는 수암면옥 함흥냉면 수암면옥 충북 청주시 상",
+            "url": "https://m.blog.naver.com/ejuinn69/223268202522",
+            "nick": "찐찐",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20160519_122/ejuinn69_1463585717311cLj2Y_JPEG/profileImage.jpg"
+          },
+          {
+            "sid": "1109646375",
+            "bodySummary": "소불고기 2인분 (중간맛) ✔ 물냉면 요렇게 주문했습니다 ❣밑반찬 깔끔한데 김치 씻어서 양념해 주는 집 첨 봤어요~~~! 맛잘알이신 듯 깍두기도 넘 맛있었구~~~ 상추가 아삭아삭 ",
+            "url": "https://m.blog.naver.com/susublog-/223262153637",
+            "nick": "susu",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA3MTdfODIg/MDAxNjg5NTg5MDI2NjM1.r0W_Nnqfd6dENY2vGBbpvqjlXnyfI4X3IMpdXKUSZKwg.pIKBbVm2w3r1AGfHz15cEzZOzVic4O-4GLguR_3861og.JPEG.dianasu_/%25EB%258C%2580%25EA%25B4%2580%25EB%25A0%25B9.jpg/%25EB%258C%2580%25EA%25B4%2580%25EB%25A0%25B9.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 57,
+        "id": "33429280",
+        "name": "진성짜글이",
+        "x": "127.4906435",
+        "y": "36.6432491",
+        "distance": 0.188,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 149,
+        "averagePrice": 5000,
+        "address": "충청북도 청주시 상당구 수동 385-3 1층",
+        "roadAddress": "충청북도 청주시 상당구 대성로199번길 22",
+        "abbrAddress": "수동 385-3 1층",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "대성로199번길 22"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [
+          "국물이 자작한 짜글이의 깊은 풍미"
+        ],
+        "cardDescription": "국물이 자작한 짜글이의 깊은 풍미",
+        "description": "테이블 2개 방,테이블 3개 방, 테이블4개 자바라문,1인석 2개 그리고 홀로 이루어진 입식테이블 식당입니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjVfMTAg/MDAxNzQ1NTU3NTI0MDk1.IzchiRIWAKFz7wQrEpZ8JX_GGVncSMbRlnjpdDDNJ-Ag.O4JH3PGUMZIdKepv4EIy3DUB26VYuoLQ-JRcJ3a4g9kg.JPEG/20250425_125940.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDNfMjQg/MDAxNzUxNTM5ODA5NjA1.EEFSRp5bFwwLGPCbFG0h9KyUfs4LwbvLCOXmMP6weTYg.zl8AnrU2IEhjiIyrGtY8NxqS83fSoJ2tgRgB000wFPog.JPEG/20250703_184917.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250825_81/1756117916065cetlY_JPEG/1000010862.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MDlfMTUw/MDAxNzQ0MTcyNjYyNjM4.UZNJO0Z5EHf2QcMhj1gQv9vefLoGKJehf33kji_AmCMg.oQdXs9x5pjALuY5KYgamY2DtOETC55GvyMknFkrCPvog.JPEG/B8131C1E-80C0-44E6-BF8D-E4530FAC9A28.jpeg",
+          "https://ldb-phinf.pstatic.net/20250617_137/1750127099309UwwkA_JPEG/1000009757.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTAzMjRfMTcy/MDAxNzQyNzkxMTAxMTYy.aRnmtsTGr6Tt5sjbHgHZRIleLNg5hxMtjCbuz6UxhFkg.-NqoHZ_YWnRlSHF-oDJ13TSgBlOIIeuY0AywlLgR4GEg.JPEG/20250324_123024.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250617_236/1750127174298mjYnL_JPEG/1000009758.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjVfMTIg/MDAxNzQ4MTg0NjU1Njky.INoqnv6MIhYpftrysyvavdiEST64cE3E__oD4kelyKkg.-mPyC9TLKY758oJznGC2dEsu8hZOCIloSuCOX5RjUbMg.JPEG/20250525_134812.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "33429280",
+            "bodySummary": "'싸리골버섯마을' 영업시간 : 11:00 - 21:00 (BT 14:30 - 16:30) 정기휴무 : 매주 일요일 매장번호 : 043-221-3500 단체석, 포장, 예약, 무선 ",
+            "url": "https://m.blog.naver.com/mensch_a/222906267904",
+            "nick": "수딥가A",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA2MDhfMTQ5/MDAxNjU0NjgwMjQyNTEw.JpRhQe-jt0ub79E8G11a_JbGfmF5rf9EQJv-z5mwl9og.dsneEsQWPw53pVWjG_Veg2fhmG08temWCFNdI44clhEg.PNG.mensch_a/profileImage.png"
+          },
+          {
+            "sid": "33429280",
+            "bodySummary": "싸리골 버섯마을 043-221-3500 충북 청주시 상당구 대성로199번길 22 영업시간 : 오전 11시 ~ 오후 9시 / 토요일은 3시까지 브레이크타임 : 오후 2시30분 ~ 4",
+            "url": "https://m.blog.naver.com/tjddus5668/222677328291",
+            "nick": "FIRST AUTO GLASS CJ",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEwMTRfMTQ5/MDAxNjk3MjY3MTI4NTY3.ySt8W9o-rnL9Fr5usDwdyxUgtZP8vmMep0ohzA_u27Mg.jVyCQXEmUT8lLUeaG6wtHWpNYGVmoFeTlrgrK6_nECMg.JPEG.tjddus5668/KakaoTalk_20231014_153745653_01.jpg/KakaoTalk_20231014_153745653_01.jpg"
+          },
+          {
+            "sid": "33429280",
+            "bodySummary": "시청 앞쪽 복개한 곳에 있는 곳으로 무엇을 먹을까 하다가 처제가 추천을 해서 간 곳이다. 버섯찌개 전문점으로 내가 청주에서 아는 곳은 경주 집만 알고 있었는데. 반찬도 깔끔하게 나",
+            "url": "https://m.blog.naver.com/ysyd12/222637985899",
+            "nick": "마른장작",
+            "profileImg": ""
+          }
+        ]
+      },
+      {
+        "rank": 58,
+        "id": "1434542647",
+        "name": "계룡산삼식당",
+        "x": "127.4901745",
+        "y": "36.6446792",
+        "distance": 0.146,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 22,
+        "averagePrice": 47000,
+        "address": "충청북도 청주시 상당구 북문로2가 2-1 계룡산삼식당",
+        "roadAddress": "충청북도 청주시 상당구 교동로3번길 163",
+        "abbrAddress": "북문로2가 2-1 계룡산삼식당",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "교동로3번길 163"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [],
+        "cardDescription": "청주 최고의 맛집! 저희 업소는 예약제 운영입니다. 최대 70명 수용 가능하며, 주말에도 예약가능하고, 칠순 및 팔순잔치등 가족연회 가능합니다. 음식의 맛 유지를 위하여 미리 예약 부탁드립 ",
+        "description": "청주 최고의 맛집! 저희 업소는 예약제 운영입니다. 최대 70명 수용 가능하며, 주말에도 예약가능하고, 칠순 및 팔순잔치등 가족연회 가능합니다. 음식의 맛 유지를 위하여 미리 예약 부탁드립 ",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20230215_180/1676439555628PVsRg_JPEG/1676439541473-1.jpg",
+          "https://ldb-phinf.pstatic.net/20230215_191/16764395661089N0cw_JPEG/1676439541473-0.jpg",
+          "https://ldb-phinf.pstatic.net/20230215_144/1676439624102y7tzT_JPEG/1676439611763.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1434542647",
+            "bodySummary": "저희는 산삼능이백숙을 먹었습니다. 정식이 뭔지 궁금해서 사장님께 여쭤보니 국과 밥, 오리훈제, 반찬으로 구성된다고 하네요. 간단한 한정식 느낌인 듯. 식당안 모습인데요. 우선 들어",
+            "url": "https://m.blog.naver.com/yeouh99/223335345341",
+            "nick": "프로젝터",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMDdfMTEy/MDAxNzA0NjIzODA3NTQ2.U5PU80FrvH6fltaS6iIREhsh9Vl2AMxTUZm_TDWe5g0g.AZOmHrdSgV01nD_0dpkrxPjVrwM559RiCj7MuvooDnQg.JPEG.yeouh99/profileImage.jpg"
+          },
+          {
+            "sid": "1434542647",
+            "bodySummary": "계룡산삼농원식당 / 청주계룡산삼농원식당 / 청주맛집 / 청주산삼오리백숙 / 청주산삼삼계탕 / 청주상당구맛집 / 청주백숙맛집 / 청주한식맛집 항상 고객의 작은 소리에도 귀 기울여 듣",
+            "url": "https://m.blog.naver.com/smart6300/223066473073",
+            "nick": "스마트모바일안내2",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMjBfMTg3/MDAxNzEwOTEyNjcxMzg4.-F5jzD3QAl437fj4IpCQBw_LCjUXqrscp1qdtt08wdog.VaMRsBurq7sn0vQ2Ygo5wo8HFFwdTbQB0_qcGByToGwg.JPEG/52.jpg/52.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 59,
+        "id": "1610031422",
+        "name": "동네김밥",
+        "x": "127.4902632",
+        "y": "36.6438046",
+        "distance": 0.167,
+        "categoryName": "김밥",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220186"
+          ]
+        ],
+        "category": [
+          "분식",
+          "김밥"
+        ],
+        "reviewCount": 125,
+        "averagePrice": 0,
+        "address": "충청북도 청주시 상당구 북문로2가 116-90",
+        "roadAddress": "충청북도 청주시 상당구 교동로3번길 174-12",
+        "abbrAddress": "북문로2가 116-90",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "교동로3번길 174-12"
+        ],
+        "displayContext": [],
+        "labelTheme": "분식",
+        "microReviews": [],
+        "cardDescription": "충청북도 청주시 상당구 북문로2가 116-90",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDVfNzgg/MDAxNzU0Mzc0MzE5MjIx.jHnSDU8DnglhrNgTph6cvXZly_5Lc-VkaQ-0_iHsbJAg.qbJkb5GahtBdXq7tyXMl1es5P4_6kU9eSovSsWIjLGsg.JPEG/20250805_112627.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTdfMzAw/MDAxNzUwMTM1NDMyOTc4.MV4vkUPGCdaax3jqqic1qFtX-psWeQ-n2AIfGD7tS3kg.2IrptqmybSN6InPcNMcV5Rwjs1j85x1d209HIu0j510g.JPEG/20250617_115309.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjRfNTAg/MDAxNzUwNzA5ODE5Njcy.Sjh4d9a1NL7ADR1TDGAirG84PJZsNVR2FIEvhijnb_Mg.3ZZJHPiyJ0PfoIT9EJ-7JutuWy5tYAnJanNhd1FalnUg.JPEG/D677E565-31C2-44F4-B3A7-B28960CFE08C.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDdfMjUz/MDAxNzU0NTIzNDgwOTc3.vouHboPAjwKUUHA7xyB7w9L0ucTs4XUiiZOF9k4g0vwg.DqMBS0JszoTC0kV-3tzQ6XH5VwdJtN6ljxDbVsK0X1wg.JPEG/20250806_115156.heic.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTBfMjE3/MDAxNzU3NDc2MTA4Njc2.sdnhSitAReN6W_beqkPOHdl3vznmDlWSweOYdVW24-sg.J-pD1t7JZViywu5Kh0_ihchZHl5XxKtU-FS3nN4tlyQg.JPEG/Screenshot_20250910_124351_NAVER.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220186",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 60,
+        "id": "1945633484",
+        "name": "노랑통닭 청주우암점",
+        "x": "127.4918242",
+        "y": "36.6466369",
+        "distance": 0.221,
+        "categoryName": "치킨,닭강정",
+        "categoryPath": [
+          [
+            "220036",
+            "220049",
+            "220295"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "치킨,닭강정"
+        ],
+        "reviewCount": 52,
+        "averagePrice": 30000,
+        "address": "충청북도 청주시 청원구 우암동 144-3 1층",
+        "roadAddress": "충청북도 청주시 청원구 대성로 238",
+        "abbrAddress": "우암동 144-3 1층",
+        "shortAddress": [
+          "충북 청주시 청원구",
+          "대성로 238"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "온 가족이 모여 따뜻하고 바삭한 치킨을 맛있게 먹던 기억이 있으신가요?  이런 소중한 순간들은 오랫동안 기억에 남기에 노랑통닭은 그 추억에 행복이 더해질 수 있도록 치킨의 본질에 집중  ",
+        "description": "온 가족이 모여 따뜻하고 바삭한 치킨을 맛있게 먹던 기억이 있으신가요?  이런 소중한 순간들은 오랫동안 기억에 남기에 노랑통닭은 그 추억에 행복이 더해질 수 있도록 치킨의 본질에 집중  ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTVfMTU1/MDAxNzQ5OTk0ODUwNjAx.gfFZafXUQb-_4n4zOFK4LP_78E7_FSh4StXPpKXzpe4g.tzrXzOvkpr0gbY5wvSeZgU5P_OoPAM5ztjC_Rqg6nbog.JPEG/93B3EF05-59B3-43CD-AB1A-3296441D75FF.jpeg",
+          "https://ldb-phinf.pstatic.net/20220331_42/1648729985144oqtg2_JPEG/%BF%E4%B1%E2%BF%E4_%BD%E6%B3%D7%C0%CF_%C3%D6%C1%BE_400x400.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220295",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 61,
+        "id": "1670513366",
+        "name": "본 야식",
+        "x": "127.4916671",
+        "y": "36.6433755",
+        "distance": 0.143,
+        "categoryName": "야식",
+        "categoryPath": [
+          [
+            "220036",
+            "220050"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "야식"
+        ],
+        "reviewCount": 2,
+        "averagePrice": 0,
+        "address": "충청북도 청주시 상당구 수동 404-7 1층(수동)",
+        "roadAddress": "충청북도 청주시 상당구 대성로 201",
+        "abbrAddress": "수동 404-7 1층(수동)",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "대성로 201"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "충청북도 청주시 상당구 수동 404-7 1층(수동)",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220050",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

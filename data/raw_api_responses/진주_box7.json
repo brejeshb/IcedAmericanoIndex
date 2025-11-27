@@ -1,0 +1,2511 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 40,
+      "count": 40,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 128.1131111282424,
+          "minY": 35.1753954954955,
+          "maxX": 128.1186222564848,
+          "maxY": 35.1799
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "128.1158666923636;35.177647747747756",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "20742715",
+        "name": "정동근과자점",
+        "x": "128.1149389",
+        "y": "35.1797167",
+        "distance": 0.245,
+        "categoryName": "베이커리",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220564",
+            "221161"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "베이커리"
+        ],
+        "reviewCount": 592,
+        "averagePrice": 3000,
+        "address": "경상남도 진주시 상대동 310-13",
+        "roadAddress": "경상남도 진주시 동진로 218",
+        "abbrAddress": "상대동 310-13",
+        "shortAddress": [
+          "경남 진주시",
+          "동진로 218"
+        ],
+        "displayContext": [
+          "빵집",
+          "케이크",
+          "크로켓",
+          "초콜릿"
+        ],
+        "labelTheme": "카페",
+        "microReviews": [
+          "빵과 커피가 어우러진 편안한 공간"
+        ],
+        "cardDescription": "빵과 커피가 어우러진 편안한 공간",
+        "description": "천연발효종을 사용한 제대로 된 베이커리. 반죽과 발효, 성형 등의 과정이 모두 수작업으로 이루어진다. 유산균을 사용하기 때문에 소화도 잘되는 빵들이다. 동물성 생크림을 사용하는 케이크 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMDZfNTgg/MDAxNzYyNDI2Mjc4OTQ3.EDEVMuWt6JyU8WqlUPUptoeYt-Taygk0j113jYZD0gkg.L2CxUD7cKmi-izpkRJgJDbFY6hblEYi0tnHU1few_KQg.JPEG/20251106_074916.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMDdfMjgx/MDAxNzYyNDg5NTgzNDYy.KbgjUUfDJaiLgqr9epxDrqgDG4F1EaWoS0eLt5ajc90g.-WfmzpHgTMd2iKzn6rChNSRHQUH5hFz1wnOGTl5aRmsg.JPEG/0251E364-9145-4D80-8046-C3C8F18AA8A2.jpeg",
+          "https://ldb-phinf.pstatic.net/20190129_256/1548772633858ImyDA_JPEG/0W4vHvGPQKoni9eXQCqNyxWO.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDdfMTg3/MDAxNzUxODU2MTEzMzAw.MTofIaKvrzS5w03SlVpF_P7-7IxwsRs3sBWTGZUkMHQg.UOFFthX3n3hdZ696nZYBxkkUiI_WvDCBuVHMLHl0QjAg.JPEG/894ED346-108B-4599-936A-60A52D832A11.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTJfMTA2/MDAxNzQ5Njg0NDA2MjUz.eSALfOQ0mC84dcghaq_tI23fohvEHApcG5juGcW9ZHwg.CT5rUMsf9ChjRPWUEU76WsazYijvogIx2QPV5fbzcsog.JPEG/20250601_130430.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTJfMjkg/MDAxNzQ3MDE1MzQ2ODI5.RF5eNbB1fgwrsjuusUArmfXGaT0EzI-OLlzwfOf5x_Eg.LOev7gA51UerCNoTpR1DFQqxiTE7hhwIN4norxE9Hbog.JPEG/Screenshot_20250512-110042_NAVER.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDNfMjEw/MDAxNzU5NTAyMDM3NjQx.QObs_EgZBrADo4drs-HqXjA48k_Q0uww2ORY2zVgT0Ug.cTMMx7vIGcP3X2PiO_VLTO_cexC2k_OeY1CeKweJtT4g.JPEG/20250307_114120.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTZfMTQy/MDAxNzUyNjQ5OTA3NzQ1._JMCZ8xDCWnoauhD3f2GMqJDu3X32XeM71F_Igi2-6Ag.1uXNLYkJi6G68NP34EpKdZszorKeTaQr5pAxqEzECtsg.JPEG/20250716_161051.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTFfMjQ4/MDAxNzQ2OTcyNDQ3Mzk4.eTOFC_sAyY65Oe0n0EIvC9yUxdWAIpJZ6qfZCrVh6UEg.5ka4QAUJYNteEy3Vmbk9T2XilH9YMGPPNnNnxN6CT20g.JPEG/20250511_230627.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221161",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "20742715",
+            "bodySummary": "운영시간 매일 07:00 - 24:00 전화 055-755-2947 아침일찍부터 밤 늦은 시간까지 영업하시는데, 빵 종류도 다양해서 상대동 근처 빵집중에서는 여기를 제일 추천드리는",
+            "url": "https://m.blog.naver.com/1000dmsrud/223288404429",
+            "nick": "천천",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA1MjRfMjEg/MDAxNjg0ODgzMTI4NDgw.C9DQyIo_YB5NAnysZJdsjHGCXwz1vd1-_tKU-Wx1qbEg.nUxedHD8zgMo_lNRh4SyCFzjDiDEz-t5B9cDa4m8lW4g.JPEG.1000dmsrud/profileImage.jpg"
+          },
+          {
+            "sid": "20742715",
+            "bodySummary": "머핀종류 브라우니 생크림종류의 빵 미니 치즈케이크 샌드위치 식빵 마늘빵 바게트 쿠키 슈크림 호두과자 케잌종류 생크림케이크 블루베리 케이크 초코생크림 케이크 기본롤 모카롤 단호박롤 ",
+            "url": "https://m.blog.naver.com/psj4822/222891004775",
+            "nick": "억텐블리",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTExMjJfOTYg/MDAxNjM3NTg1OTUzNDgx.OnwXDvV78qV8cnWJqr3ZXZNayymlOKWVilDpz3O-jDog.NMJP32ahLAkpzcqs_kTGSyOw2O02kjyNUWK7Zl6Pat8g.PNG.psj4822/profileImage.png"
+          },
+          {
+            "sid": "20742715",
+            "bodySummary": "진주 베이커리! 진주 빵집! 진주 맛집! 진주 정동근 과자점! 이번에도 블루리본 서베이 찬스!! 천연발효종을 사용하는 베이커리이고 반죽. 발효. 성형 등을 수작업으로 한다고 한다.",
+            "url": "https://m.blog.naver.com/ksji_hg/222690451065",
+            "nick": "지푸",
+            "profileImg": ""
+          },
+          {
+            "sid": "20742715",
+            "bodySummary": "20210717 진주 상대동 빵집/베이커리 정동근과자점 #진주 홈플러스 인근에 위치한 #진주상대동빵집 #진주상대동베이커리 #정동근과자점 #제과기능장 이 운영하는 #진주빵집 #진주베",
+            "url": "https://m.blog.naver.com/theazure7/222617282530",
+            "nick": "디아주르",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTA1MjdfMjUz/MDAxNTU4OTQ5MDc1MTY4.846SLwxa_6Y0bjNRplO55BUynRjoD4B_qkfiyGG5zIEg.Xuco5UtyzM1HrhQ3Jm1ap_c9irG3wregxv_3fdXUv4Yg.JPEG.theazure7/profileImage.jpg"
+          },
+          {
+            "sid": "20742715",
+            "bodySummary": "신랑이 친구들과 저녁을 먹고 들어오는 길에 케이크를 사왔다. 왠 케이크냐며 물어보니 신랑 친구가 사줬다고 한다. 정동근에서 제일 맛있는 케이크~!! 그런데 이름이 뭔지 모르겠다. ",
+            "url": "https://m.blog.naver.com/gangzz3221/222589677553",
+            "nick": "박갱",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTEwMDhfNCAg/MDAxNjMzNjU0MDMxNjQx.MOUuoGeGfqiuen3oIF_8gzv1fqEASUSpSPHLkSzSwYUg.TrgyIhbrQa11AE55-6TS88LWsZKOjKxeZ-lIiuDc5aQg.JPEG.gangzz3221/KakaoTalk_20211008_094235540_03.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "id": "1978362681",
+        "name": "장수국수",
+        "x": "128.116314",
+        "y": "35.1757283",
+        "distance": 0.217,
+        "categoryName": "국수",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220062",
+            "220628"
+          ]
+        ],
+        "category": [
+          "한식",
+          "국수"
+        ],
+        "reviewCount": 16,
+        "averagePrice": 5000,
+        "address": "경상남도 진주시 상평동 196-129 1층",
+        "roadAddress": "경상남도 진주시 공단로 151-1",
+        "abbrAddress": "상평동 196-129 1층",
+        "shortAddress": [
+          "경남 진주시",
+          "공단로 151-1"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "경상남도 진주시 상평동 196-129 1층",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjFfMTU3/MDAxNzYxMDM5ODE5MTg1.pQdRXPvDROtJM8N112nrH4M0naIhYOcrN3Qgj9IIpo8g.w9gFk40Ewd1Jr8q9ptqPCLvn-6N2c3_qQXAjYW3MR1Qg.JPEG/20251019_195700.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20230616_160/1686890979474cz0j5_JPEG/1686890955623.jpg",
+          "https://ldb-phinf.pstatic.net/20230606_8/16860209428252wRff_JPEG/1686020928931.jpg",
+          "https://ldb-phinf.pstatic.net/20230606_276/1686020637216C7gGv_JPEG/20230606_120147.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220628",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 3,
+        "id": "1366715112",
+        "name": "호이앤고",
+        "x": "128.1148009",
+        "y": "35.1795795",
+        "distance": 0.236,
+        "categoryName": "베트남음식",
+        "categoryPath": [
+          [
+            "220036",
+            "220041",
+            "220103"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "베트남음식"
+        ],
+        "reviewCount": 91,
+        "averagePrice": 5000,
+        "address": "경상남도 진주시 상대동 302-117",
+        "roadAddress": "경상남도 진주시 동진로216번길 4",
+        "abbrAddress": "상대동 302-117",
+        "shortAddress": [
+          "경남 진주시",
+          "동진로216번길 4"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "경상남도 진주시 상대동 302-117",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20221123_247/16691333103224U6BN_JPEG/1669133292128.jpg",
+          "https://ldb-phinf.pstatic.net/20221123_292/1669133204538S7Nn7_JPEG/20220107_193752.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220103",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1366715112",
+            "bodySummary": "저는 그냥 소쌀국수 두개와 음료를 주문했는데 코코넛 좋아하시는 분들은 꼭 코코넛 디저트 주문해보셔요. 테이블에 와이파이 QR코드가 있어서 편하게 접속할 수 있었답니다.직원분이 없고",
+            "url": "https://m.blog.naver.com/j0705ha/223391287109",
+            "nick": "주말여행자 현아",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjEwMTNfMTY1/MDAxNjY1NjYyNTgxMzA4.bOBFWyJ7vcda0HHXVbwOlPbSCHB04w3CgvoaxWPnPusg.l5n0_LTX_iVl4U65q8wzdZlk5GHfTu1N8qS6mGxTeP0g.JPEG.j0705ha/IMG_8251.jpg/IMG_8251.jpg"
+          },
+          {
+            "sid": "1366715112",
+            "bodySummary": "진주상대동맛집 #진주베트남음식 호이앤고는 쌀국수도 팔면서 카페도 함께 운영하고 있어 디저트 및 커피 종류도 있습니다 주차장은 따로 없어 길가에 잘...^^ 내부는 테이블이 꽤 많고",
+            "url": "https://m.blog.naver.com/dmswl4083/223330659281",
+            "nick": "응디",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMThfNTUg/MDAxNzA1NTg4OTI2MTQ3.uORCNy45vahgYPj_jz0EB8FTG-BbPmbrI6XWNKz69IYg.rPde5tIJxezGRaBHmwsGZz54nclFcjr-tfIEjTVvVXQg.PNG.dmswl4083/profileImage.png"
+          },
+          {
+            "sid": "1366715112",
+            "bodySummary": "주소는 동진로 216번길 4 이며 찾아오는길은 상대동 LG베스트샵 검색해서 오면 쉽게 찾을 수 있었습니다.내부 가게 내부는 아래 사진과 같습니다.동남아시아 느낌이 가득했고 밝은 통",
+            "url": "https://m.blog.naver.com/mymy963/223330344095",
+            "nick": "청솔",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA5MjZfMTgz/MDAxNjk1NzM3NDkwMzI4.uSBryIxGSA6hICPzAlKtevfyKeubuYlPqHPUTUIB80Yg.jZR_qLvNF1asptR05mZhEjK5iiBSmjMV6YYl3QcCyb8g.JPEG.mymy963/12.jpg/12.jpg"
+          },
+          {
+            "sid": "1366715112",
+            "bodySummary": "평거동에서 저번달에 먹고 올해는 첫 쌀국수네요! 이웃님들도 샤브샤브나 쌀국수 많이 드시던데 저도 뜨끈한 국물로 가져왔어요 ㅎㅎ 호이앤고 영업시간 10:00-21:00 화요일휴무 주",
+            "url": "https://m.blog.naver.com/coco_day/223326156012",
+            "nick": "코코",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMTVfOTMg/MDAxNzAyNjA4OTcxNjU0.uzt5cVa6mSdLVnI7tlmkt8E-Vc-BQDAru_AQgAVFIhsg._LTvQz1YuVJDHIFP5XlVS2LXqXd5Xz3mBNZ3DYsnyvUg.PNG.jgsta3124/profileImage.png"
+          },
+          {
+            "sid": "1366715112",
+            "bodySummary": "영업시간 - 11:00 ~ 21:00 - 정기휴무 매주 월요일 위치 및 정보 - 진주 상대동에 위치한 쌀국수 맛집 - 제로페이 결제가능, 음식과 카페 같이 하세요 진주 상대동에 위",
+            "url": "https://m.blog.naver.com/feelgyo1226/223285583258",
+            "nick": "매리매리",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA5MDZfMjEw/MDAxNjYyNDUxMDgwNDQ4.XHaLwVdkuEOGZE05KqZGioTlXuSaTYGUqfxSuHn1zAwg.-hAyLQqJFdaAKqVz1oWDRL2w_MLQPDySYYOOYUV4wy0g.PNG.feelgyo1226/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "id": "19847798",
+        "name": "진주장어구이",
+        "x": "128.113175",
+        "y": "35.1756012",
+        "distance": 0.334,
+        "categoryName": "장어,먹장어요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220076",
+            "220799",
+            "1006317"
+          ]
+        ],
+        "category": [
+          "한식",
+          "장어,먹장어요리"
+        ],
+        "reviewCount": 49,
+        "averagePrice": 22000,
+        "address": "경상남도 진주시 상평동 199-77",
+        "roadAddress": "경상남도 진주시 공단로 121",
+        "abbrAddress": "상평동 199-77",
+        "shortAddress": [
+          "경남 진주시",
+          "공단로 121"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [],
+        "cardDescription": "경상남도 진주시 상평동 199-77",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTJfMjM3/MDAxNzYwMjI0MTY1NjQ4.3lvZqS8OgVxYQvbNhHm07pA1aOz0C63HLKmIM1awxRYg.Izxa8gUv-RjhYcTr8Q5OHWpv4hh9d7PLJfT0zM6bq9gg.JPEG/20251010_181718.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1006317",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "19847798",
+            "bodySummary": "아잇 ,, 운동도 빼고 오늘 가족들이랑 외식하고 왔어요! 거의 10년정도 단골인곳인데요 사장님도 너무 너무 친절하시고 맛도 있어 오랜 단골로 먹으러 가고 있습니다 밑반찬이며 주메뉴",
+            "url": "https://m.blog.naver.com/chaehyeon_e/222543112006",
+            "nick": "챈",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA2MDJfMTk2/MDAxNjIyNjIwNDk1OTkz._p3GSmh-zuvffX5IRjwxwlbrnoAv1YjLHjHelVFy6hcg.36PTZttqw0Ude_WtmMJdsjtWweUjNQavHS9A0fEZpGog.PNG.chaehyeon_e/profileImage.png"
+          },
+          {
+            "sid": "19847798",
+            "bodySummary": "진주장어구이 진주하면 장어구이 장어구이 하면 진주 1박 2일에서 강호동이 진주에서 장어구이 맛보고 감탄하고 갔지용 진주 하면 장어가 유명하다고해요! 장어는 가을이 제철이고 기력이 ",
+            "url": "https://m.blog.naver.com/verymucho/100205947939",
+            "nick": "핫초코",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20131219_293/verymucho_1387429730130Q1VfO_JPEG/naver_com_20131219_131727.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "id": "355806676",
+        "name": "대박집",
+        "x": "128.1150878",
+        "y": "35.1775918",
+        "distance": 0.071,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 55,
+        "averagePrice": 0,
+        "address": "경상남도 진주시 상평동 197-11",
+        "roadAddress": "경상남도 진주시 대신로195번길 23",
+        "abbrAddress": "상평동 197-11",
+        "shortAddress": [
+          "경남 진주시",
+          "대신로195번길 23"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경상남도 진주시 상평동 197-11",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20190123_256/1548237020748KrVBP_JPEG/SfWkdZWXbdL8_0FyrHuGUep_.jpeg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 6,
+        "id": "1087829683",
+        "name": "돈이랑파티",
+        "x": "128.1169646",
+        "y": "35.1788376",
+        "distance": 0.166,
+        "categoryName": "육류,고기요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220733"
+          ]
+        ],
+        "category": [
+          "한식",
+          "육류,고기요리"
+        ],
+        "reviewCount": 7,
+        "averagePrice": 0,
+        "address": "경상남도 진주시 상대동 311-1",
+        "roadAddress": "경상남도 진주시 대신로207번길 5",
+        "abbrAddress": "상대동 311-1",
+        "shortAddress": [
+          "경남 진주시",
+          "대신로207번길 5"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경상남도 진주시 상대동 311-1",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20230305_73/1677996777781LI9G4_JPEG/20230305_135533.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220733",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 7,
+        "id": "1778646988",
+        "name": "큰손할매아구찜 상대본점",
+        "x": "128.1138382",
+        "y": "35.1796715",
+        "distance": 0.291,
+        "categoryName": "아귀찜,해물찜",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220076",
+            "220793",
+            "221633"
+          ]
+        ],
+        "category": [
+          "한식",
+          "아귀찜,해물찜"
+        ],
+        "reviewCount": 13,
+        "averagePrice": 39000,
+        "address": "경상남도 진주시 상대동 302-32 1층 일부()",
+        "roadAddress": "경상남도 진주시 동진로 208",
+        "abbrAddress": "상대동 302-32 1층 일부()",
+        "shortAddress": [
+          "경남 진주시",
+          "동진로 208"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경상남도 진주시 상대동 302-32 1층 일부()",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MThfMTg1/MDAxNzU1NDQ4MjExNzQw.dM3R5MVkVEFuW81uFJudHn_EX17JZJlv8XOC82g16AIg.RSvmPWD9uoqcaNo8TWJANknMLNCNYhvNDN8QHGVH9ZYg.JPEG/20250527_181820.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20220307_32/1646638702294Quin5_JPEG/1646638668629.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221633",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 8,
+        "id": "1033158864",
+        "name": "파파존스 진주점",
+        "x": "128.1170812",
+        "y": "35.1797732",
+        "distance": 0.261,
+        "categoryName": "피자",
+        "categoryPath": [
+          [
+            "220036",
+            "220044",
+            "220136",
+            "220969"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "피자"
+        ],
+        "reviewCount": 44,
+        "averagePrice": 29000,
+        "address": "경상남도 진주시 상대동 310-67",
+        "roadAddress": "경상남도 진주시 동진로 238",
+        "abbrAddress": "상대동 310-67",
+        "shortAddress": [
+          "경남 진주시",
+          "동진로 238"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "파파존스는 미국 3대 대표 피자브랜드이며 더 좋은 재료, 더 맛있는 피자를 기업 이념으로 삼고, 고객들에게 가장 맛있고 뛰어난 품질의 피자를 제공하는 것에 최고의 가치를 두고 있습니다. ( ",
+        "description": "파파존스는 미국 3대 대표 피자브랜드이며 더 좋은 재료, 더 맛있는 피자를 기업 이념으로 삼고, 고객들에게 가장 맛있고 뛰어난 품질의 피자를 제공하는 것에 최고의 가치를 두고 있습니다. ( ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDNfNjYg/MDAxNzU0MjI4Mjk5MzU2.Ox-96yzKHg1V_DFGKqhQJJwmyVUlux67kkzSsKbd8T4g.92v-tBhHNgJUrnKpirNiuvvfpbmufB4A3oLWOoVNjRUg.JPEG/20250711_180437.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMDJfMTIx/MDAxNzYyMDU0NTI5NzIx.FgBFammGBy4f3nwqXuFz6nMz6Aobe1nCMyjtTRvQ2lUg.Ehrfvn73TvZF1vPyiEqvLPKh-b00AVHoFd4Z4VX741gg.JPEG/20250808_233103.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250728_272/17536816115383dDNh_JPEG/0.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjRfMTU4/MDAxNzYxMjU2MjE5Mjgz.ug4Q2aCU8GfnCHpePp0eRqUCMifxquUTapHa3LJRpCEg.Jw-Bt8CB3RGLvyba_1PRGUJALO5Z5IdDi_ZbyG49TcAg.JPEG/AA3C1BB8-76A3-4DEC-BE8E-4D659990A9C9.jpeg",
+          "https://ldb-phinf.pstatic.net/20250107_285/1736240631297KHK9w_PNG/%C3%D6%C1%BE-250106_2025_%BA%EA%B7%A3%B5%E5%C6%F7%BD%BA%C5%CD_out_2025%BA%EA%B7%A3%B5%E5%C6%F7%BD%BA%C5%CD2.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDZfOTkg/MDAxNzU0NDcyNzkzMzEw.3drv3BdvIPclhel33yrMMrXGgZ2QUHey6w6JBOtHuAwg.2EaYrwSx3_CzaQZOo9LtbcQtT3_ekTx6qJhkw5s-mpQg.JPEG/1BE4EED8-A587-424E-A6D4-AD979770860C.jpeg",
+          "https://ldb-phinf.pstatic.net/20220302_29/164618552231640tcj_JPEG/%C6%C4%C6%C4%C1%B8%BD%BA-%BD%C5%B7%CE%B0%ED.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTdfMTE3/MDAxNzUyNzAwMDk1OTUy.AkL5QOtipBJxiM5Li1fAWGYflonu9pd5-hfeLCuAG3Ig.27JpJ2yBPsH2sfCrUMO7Dpvb_SPHtyZdo-TH97dWYmIg.JPEG/A1D56C7F-3A6A-45D0-B5AE-EE3D4C995697.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjdfMjk4/MDAxNzU2MjcyNDg2MTAz.dbojCOLDcs9fPzAiziFloYjF4o43lkND8yIeB1RRCuQg.7ueX68MdUUdBUmN1927ZjGbIsfZwkF83vJUAuHs4Oawg.JPEG/20250815_170500.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjNfMTUx/MDAxNzQ3OTQ3NzkyMzc0.BK0fNfSDiSJmA9V9_diS062YRefuWwKTRZQ28qEPlDkg.sY5Nse81QtS9ST7C5wohV2-8LAq8tmYHmzxS4askKZgg.JPEG/01AC5D3E-44C5-429C-8116-14A416880CFB.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220969",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 9,
+        "id": "37165793",
+        "name": "이디야커피 진주상대동점",
+        "x": "128.115008",
+        "y": "35.1795076",
+        "distance": 0.221,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221288"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 97,
+        "averagePrice": 4000,
+        "address": "경상남도 진주시 상대동 310-25 1층",
+        "roadAddress": "경상남도 진주시 동진로216번길 5",
+        "abbrAddress": "상대동 310-25 1층",
+        "shortAddress": [
+          "경남 진주시",
+          "동진로216번길 5"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "Always beside you, EDIYA COFFEE 일상 속 모두에게 커피를 통한 휴식과 영감을 제공하는 이디야커피는, 대한민국의 커피 문화를 만들어가는 가장 가까운 안식처입니다.",
+        "description": "Always beside you, EDIYA COFFEE 일상 속 모두에게 커피를 통한 휴식과 영감을 제공하는 이디야커피는, 대한민국의 커피 문화를 만들어가는 가장 가까운 안식처입니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjhfMjg3/MDAxNzU5MDI3NjMzMTg5.UCvYQC3KA750EUvPHn19khz7VQtdr9Ft9m29x4MUahkg.evtH3-VJaHz2zYwOwcoRZNdQthWyRZo6yZNuALLn5XAg.JPEG/20250928_104413.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20251028_234/1761610388244OvEs5_JPEG/APP_%B3%D7%C0%CC%B9%F6%C3%A4%B3%CE.jpg",
+          "https://ldb-phinf.pstatic.net/20250902_162/17567710812518xnfP_JPEG/%C0%CC%B5%F0%BE%DF%C4%BF%C7%C7_%BF%C2%B6%F3%C0%CE_SNS%2C-%B1%E2%C5%B8_9%BF%F9%C4%DD%B6%F3%BA%B8_%B3%D7%C0%CC%B9%F6%C3%A4%B3%CE.jpg",
+          "https://ldb-phinf.pstatic.net/20250731_225/1753952280077H9bMh_PNG/%BC%D2%BA%F1%C4%ED%C6%F9.png"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221288",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.32",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 10,
+        "id": "15547255",
+        "name": "호식이두마리치킨 진주2호점",
+        "x": "128.115219",
+        "y": "35.178752",
+        "distance": 0.136,
+        "categoryName": "치킨,닭강정",
+        "categoryPath": [
+          [
+            "220036",
+            "220049",
+            "220539"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "치킨,닭강정"
+        ],
+        "reviewCount": 54,
+        "averagePrice": 0,
+        "address": "경상남도 진주시 상대동 311-83",
+        "roadAddress": "경상남도 진주시 대신로207번길 21-2",
+        "abbrAddress": "상대동 311-83",
+        "shortAddress": [
+          "경남 진주시",
+          "대신로207번길 21-2"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "치킨이야? 탕수육이야? 이런 치킨 처음이야!!! 조기 품절로 없어서 못판다는 그 치킨?? 고객이 맛있다고 찐소문내고 있는 그 치킨?  쫀득하고 부드러운 안심 순살에 상큼한 레몬크림소스를 찍먹?",
+        "description": "치킨이야? 탕수육이야? 이런 치킨 처음이야!!! 조기 품절로 없어서 못판다는 그 치킨?? 고객이 맛있다고 찐소문내고 있는 그 치킨?  쫀득하고 부드러운 안심 순살에 상큼한 레몬크림소스를 찍먹?",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20210730_179/16276117800989nT7b_JPEG/ShSeZ8y1sSCv9N6S5vyZjqwP.jpg",
+          "https://ldb-phinf.pstatic.net/20210730_261/1627611792065JcQ00_JPEG/zPD0JxDhWCLmP1Gx5eutsOqa.jpg",
+          "https://ldb-phinf.pstatic.net/20210730_235/1627611800937O2NKY_JPEG/TYFzaASVqCvPPoFyFKCOtCd8.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220539",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 11,
+        "id": "11803078",
+        "name": "또래오래 진주상대점",
+        "x": "128.1145079",
+        "y": "35.1797098",
+        "distance": 0.261,
+        "categoryName": "치킨,닭강정",
+        "categoryPath": [
+          [
+            "220036",
+            "220049",
+            "220330"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "치킨,닭강정"
+        ],
+        "reviewCount": 69,
+        "averagePrice": 0,
+        "address": "경상남도 진주시 상대동 302-115",
+        "roadAddress": "경상남도 진주시 동진로 214",
+        "abbrAddress": "상대동 302-115",
+        "shortAddress": [
+          "경남 진주시",
+          "동진로 214"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "또래오래(TOREORE)는 '즐거움이 있는 곳에 친구들을 초대한다'라는 의미로 생각과 행동을 함께하는 또래들이 건전한 먹거리를 함께 즐길 수 있는 문화공간이라는 의미입니다.  목우촌 또래오래는",
+        "description": "또래오래(TOREORE)는 '즐거움이 있는 곳에 친구들을 초대한다'라는 의미로 생각과 행동을 함께하는 또래들이 건전한 먹거리를 함께 즐길 수 있는 문화공간이라는 의미입니다.  목우촌 또래오래는",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20200511_71/1589172854249wEJcB_JPEG/n4u9DCBJzvtXePKXwzNCNpG2.jpg",
+          "https://ldb-phinf.pstatic.net/20221207_203/1670395346863CzxCY_JPEG/221130_%B6%C7%B7%A1%BF%C0%B7%A1_%BD%C5%B8%DE%B4%BA%C6%F7%BD%BA%C5%CD_51x72cm.jpg",
+          "https://ldb-phinf.pstatic.net/20220526_226/1653538279840OdYhm_JPEG/%C7%D6%BB%D1%B7%B9%C0%CC%C5%A9_%C6%F7%BD%BA%C5%CD_.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220330",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.33",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 12,
+        "id": "15734792",
+        "name": "금곡추어탕",
+        "x": "128.117146",
+        "y": "35.1788218",
+        "distance": 0.175,
+        "categoryName": "추어탕",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220066",
+            "220672"
+          ]
+        ],
+        "category": [
+          "한식",
+          "추어탕"
+        ],
+        "reviewCount": 81,
+        "averagePrice": 16000,
+        "address": "경상남도 진주시 상대동 311-66",
+        "roadAddress": "경상남도 진주시 대신로207번길 3",
+        "abbrAddress": "상대동 311-66",
+        "shortAddress": [
+          "경남 진주시",
+          "대신로207번길 3"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [],
+        "cardDescription": "경상남도 진주시 상대동 311-66",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220672",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "15734792",
+            "bodySummary": "급 달려갔습니다.수리를 할려면 대략 식사할 시간이 있기에...아버지 모시고 인근 식당에 갔네요. 예전에 한번 가서 먹었는데 반찬도 잘나오고해서 다시 찾은 금곡추어탕~~ 약간 이른 ",
+            "url": "https://m.blog.naver.com/indangsu777/221195973536",
+            "nick": "해인공인중개사",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20160609_107/indangsu777_14654573055822nOMe_JPEG/%25BB%25E7%25B9%25AB%25BD%25C7%2B%25BB%25E7%25C1%25F8.jpg"
+          },
+          {
+            "sid": "15734792",
+            "bodySummary": "몸에 좋은 추어탕에 숙주나물에 부추까지 보기만 해도 몸이 건강해지는 듯 합니다. 뜨거우니 조심 비쥬얼이 영 넷이서 청량고추를 각자 넣고 나서 남은 거라 모습이 이뿌지는 않아요 이 ",
+            "url": "https://m.blog.naver.com/sy1313627/220631403365",
+            "nick": "진주서영",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTEyMTJfMjkw/MDAxNTc2MTM5ODE4ODU4.wZjX-V7dIGTN-z3x-Oq4mM913O376AVtdL4z26LcJJkg.aj1gCp-l3s-oqpzbk8qlJeLj36PHrhVQGz8kT7juylcg.JPEG.sy1313627/MomentCam_20181109204332.jpg"
+          },
+          {
+            "sid": "15734792",
+            "bodySummary": "진주맛집 금곡추어탕 주소 경상남도 진주시 상대동 311-66 055-754-2260 공단로터리 경남 예식장 근처에 있어요^^ 초초강추 옛날엔 이런간판의 식당은 쳐다보지않고 깨끗한 ",
+            "url": "https://m.blog.naver.com/clickbsweety/200000490613",
+            "nick": "마미1519",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxNzA4MDlfMTU2/MDAxNTAyMjY1NDk0ODE4.Wr0ig_3x36_DprI93oDQp0BE1Qjqoy5tYV4VCqo4S78g.T5rl6UManePC0ZveYy4p4sLhvmCdIfKkc-HT10Ai3qUg.JPEG.clickbsweety/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 13,
+        "id": "1041904152",
+        "name": "그래그래 상대동점",
+        "x": "128.1136646",
+        "y": "35.1796613",
+        "distance": 0.301,
+        "categoryName": "떡볶이",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220187"
+          ]
+        ],
+        "category": [
+          "분식",
+          "떡볶이"
+        ],
+        "reviewCount": 11,
+        "averagePrice": 0,
+        "address": "경상남도 진주시 상대동 302-28",
+        "roadAddress": "경상남도 진주시 동진로 206",
+        "abbrAddress": "상대동 302-28",
+        "shortAddress": [
+          "경남 진주시",
+          "동진로 206"
+        ],
+        "displayContext": [],
+        "labelTheme": "분식",
+        "microReviews": [],
+        "cardDescription": "경상남도 진주시 상대동 302-28",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220187",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "3.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 14,
+        "id": "15738983",
+        "name": "중화관",
+        "x": "128.113901",
+        "y": "35.177586",
+        "distance": 0.179,
+        "categoryName": "중식당",
+        "categoryPath": [
+          [
+            "220036",
+            "220039",
+            "220091",
+            "220861"
+          ]
+        ],
+        "category": [
+          "중식",
+          "중식당"
+        ],
+        "reviewCount": 56,
+        "averagePrice": 0,
+        "address": "경상남도 진주시 상평동 198-6",
+        "roadAddress": "경상남도 진주시 돗골로106번길 14",
+        "abbrAddress": "상평동 198-6",
+        "shortAddress": [
+          "경남 진주시",
+          "돗골로106번길 14"
+        ],
+        "displayContext": [],
+        "labelTheme": "중식",
+        "microReviews": [],
+        "cardDescription": "경상남도 진주시 상평동 198-6",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220861",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 15,
+        "id": "32664872",
+        "name": "상평촌국수",
+        "x": "128.1175",
+        "y": "35.176627",
+        "distance": 0.187,
+        "categoryName": "국수",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220062",
+            "220628"
+          ]
+        ],
+        "category": [
+          "한식",
+          "국수"
+        ],
+        "reviewCount": 7,
+        "averagePrice": 0,
+        "address": "경상남도 진주시 상평동 196-119",
+        "roadAddress": "경상남도 진주시 대신로 181-1",
+        "abbrAddress": "상평동 196-119",
+        "shortAddress": [
+          "경남 진주시",
+          "대신로 181-1"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경상남도 진주시 상평동 196-119",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220628",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 16,
+        "id": "32675339",
+        "name": "풍년",
+        "x": "128.117003",
+        "y": "35.175758",
+        "distance": 0.234,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 8,
+        "averagePrice": 0,
+        "address": "경상남도 진주시 상평동 196-115",
+        "roadAddress": "경상남도 진주시 공단로 155",
+        "abbrAddress": "상평동 196-115",
+        "shortAddress": [
+          "경남 진주시",
+          "공단로 155"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경상남도 진주시 상평동 196-115",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.7",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 17,
+        "id": "1379407633",
+        "name": "돼지게티 진주점",
+        "x": "128.1136542",
+        "y": "35.1796318",
+        "distance": 0.299,
+        "categoryName": "스파게티,파스타전문",
+        "categoryPath": [
+          [
+            "220036",
+            "220044",
+            "220127",
+            "220914",
+            "1004979"
+          ]
+        ],
+        "category": [
+          "이탈리아음식",
+          "스파게티,파스타전문"
+        ],
+        "reviewCount": 16,
+        "averagePrice": 10000,
+        "address": "경상남도 진주시 상대동 302-28",
+        "roadAddress": "경상남도 진주시 동진로 206",
+        "abbrAddress": "상대동 302-28",
+        "shortAddress": [
+          "경남 진주시",
+          "동진로 206"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "경상남도 진주시 상대동 302-28",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1004979",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1379407633",
+            "bodySummary": "진주점은 상대동에 위치해있는데 사장님 혼자서 운영하시는 거라 전화주문이랑 포장은 안된다고 되어있어요! 앱으로만 주문해야 됩니다 메뉴표가 따로 없어서 배민에서 가져왔어요!!! 양을 ",
+            "url": "https://m.blog.naver.com/ot224/222610986080",
+            "nick": "꽃댕",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA3MDlfNCAg/MDAxNjI1ODQxODE5MTgz.HNNDBXS7wmkJMu8rwwUHdziW1sJJl9vVJGN5bV5TQmog.elEnhtBysAXJ9tIjjZMSH2a6PrMrqH517BRkf7A4pCUg.PNG.ot224/profileImage.png"
+          },
+          {
+            "sid": "1379407633",
+            "bodySummary": "'-' 예전부터 계속 먹어봐야지 하다가 드디어 시켜 먹어 보게 됐는데요. 결론부터 말하자면 대만족이었던 진주 돼지게티 후기 시작합니다:D 배달의 민족 예전엔 그래도 집밥을 자주 해",
+            "url": "https://m.blog.naver.com/zzuyaggo/222566400634",
+            "nick": "쭈쭈바",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA5MDNfNzQg/MDAxNjMwNTk1ODY4ODYz.Z18iwGYyEh2mQ4XDrjUqWjv6WKcNEiWGuS0SmXMi34Yg.CAPTe8YP5-b58jafSIMrmJ37D2Dr2_xJ6KLw5ORmz_kg.JPEG.zzuyaggo/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 18,
+        "id": "1103773082",
+        "name": "카페바바라",
+        "x": "128.1150498",
+        "y": "35.1780443",
+        "distance": 0.086,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221212"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 1,
+        "averagePrice": 0,
+        "address": "경상남도 진주시 상대동 311-30",
+        "roadAddress": "경상남도 진주시 동진로216번길 19-2",
+        "abbrAddress": "상대동 311-30",
+        "shortAddress": [
+          "경남 진주시",
+          "동진로216번길 19-2"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "저희 매장은 [패스오더 앱]으로 편하게 주문이 가능한 매장입니다! 앱으로 미리 주문하고 방문 후 기다리지 않는 VIP 경험을 가져보세요!  공휴일 주말은휴무입니다",
+        "description": "저희 매장은 [패스오더 앱]으로 편하게 주문이 가능한 매장입니다! 앱으로 미리 주문하고 방문 후 기다리지 않는 VIP 경험을 가져보세요!  공휴일 주말은휴무입니다",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjJfMTMy/MDAxNzU1ODQ5NjEzODEy.kT9-HcbQPo5qEJ9f1uDgPt6bqUiSsxU0yJg6dceOkXcg.fB8iEZMrJZ0ndV72eH8xsH7bFzLQnc2hDVf1a0SX6kcg.JPEG/3D1933DA-5BA2-4BE8-BF2D-5AC622E49E0A.jpeg",
+          "https://ldb-phinf.pstatic.net/20240603_93/1717372993890jTORG_JPEG/IMG_1718.jpeg",
+          "https://ldb-phinf.pstatic.net/20240603_139/1717372994240dtWeo_JPEG/IMG_1717.jpeg",
+          "https://ldb-phinf.pstatic.net/20240603_91/1717372992068JsMnl_JPEG/IMG_2428.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221212",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": true,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 19,
+        "id": "1123171964",
+        "name": "행복한찜닭 진주점",
+        "x": "128.1150729",
+        "y": "35.1780707",
+        "distance": 0.086,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220776",
+            "1005827"
+          ]
+        ],
+        "category": [
+          "육류,고기요리",
+          "찜닭"
+        ],
+        "reviewCount": 84,
+        "averagePrice": 0,
+        "address": "경상남도 진주시 상대동 311-30 1층 행복한찜닭",
+        "roadAddress": "경상남도 진주시 동진로216번길 19-2",
+        "abbrAddress": "상대동 311-30 1층 행복한찜닭",
+        "shortAddress": [
+          "경남 진주시",
+          "동진로216번길 19-2"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경상남도 진주시 상대동 311-30 1층 행복한찜닭",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTVfMjgz/MDAxNzU1MjQ0MzkyNDIy._PPqHOqwKU6E5j_01Ab2FxeeSqmaqBT9PWUGT9Qc9_Yg.Ye8Jzqk4wzZBPpJDIgwGv4sB46P8QmUPvUfQ5svF7Gwg.JPEG/20250815_125936.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDZfMjU3/MDAxNzQ2NTIwMjg1OTY5.Kx3L0UUsk3T70pMGY979OsK39L5w4ucrEXG3IE4l9kgg.syf0kJztxNCcIg6BtECTWiQZvP5szOrATV5PeyzAFfcg.JPEG/1746518106450.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1005827",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1123171964",
+            "bodySummary": "어젠 저녁으로 치킨? 국밥? 여러 메뉴 중 고민하다가 행복한 찜닭에서 밥이랑 먹을 찜닭을 시켰어요!(배달의 민족을 통한 리뷰서비스까지 완료!) 처음 시켜본 곳이라 어떨지 두근두근 ",
+            "url": "https://m.blog.naver.com/eaenae/222919135912",
+            "nick": "eae",
+            "profileImg": ""
+          },
+          {
+            "sid": "1123171964",
+            "bodySummary": "안녕하세요!르웨입니다 오늘은 제가 시켜 먹은 찜닭을 리뷰해볼려고 합니다 평소 찜닭을 두찜에서 시켜먹고 두찜찜닭을 좋아하는 편이라 새로운 곳에서는 잘 시키지않는데 이번에는 다른 가게",
+            "url": "https://m.blog.naver.com/31raspberry30/222889847895",
+            "nick": "르웨",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMDZfMjIg/MDAxNzA0NTE3MjU1MTcz.ajQVrs-zGGYgUbsI6YvlVn1siWfHDZVmx1qtab3XAAUg.Uva-8tAo1rQw0oIhTkU949vpVt_v9LErIH5cFAf3b6og.PNG.31raspberry30/profileImage.png"
+          },
+          {
+            "sid": "1123171964",
+            "bodySummary": "리뷰 이벤트도 많으니 참여해보세유~ 직통 번호: 055-745-1110 평거동에 있다가 상대동으로 이동했다궁~! 행찜의 가장 큰 장점 '배달비 무료' 오픈형 주방이라 청결함 역시 ",
+            "url": "https://m.blog.naver.com/silver_aug/222756611804",
+            "nick": "어거스트",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAxMzFfMTUg/MDAxNjQzNjMzOTEzNjQ3.cVwGKDg-XLYBLXddBubmvO54Z2HN8fkPNpWJ7SxAVNwg.CrYdcEdYN2I0Dnf4bEu36AI0aK4PXHRVcV5CjyHp6PIg.PNG.tjdmsql10/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 20,
+        "id": "1972114123",
+        "name": "티바두마리치킨 상대하대점",
+        "x": "128.1148659",
+        "y": "35.1781425",
+        "distance": 0.106,
+        "categoryName": "치킨,닭강정",
+        "categoryPath": [
+          [
+            "220036",
+            "220049",
+            "220514"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "치킨,닭강정"
+        ],
+        "reviewCount": 3,
+        "averagePrice": 20000,
+        "address": "경상남도 진주시 상대동 301-70 1층",
+        "roadAddress": "경상남도 진주시 동진로216번길 20",
+        "abbrAddress": "상대동 301-70 1층",
+        "shortAddress": [
+          "경남 진주시",
+          "동진로216번길 20"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "안녕하세요 티바두마리치킨 상대하대점입니다",
+        "description": "안녕하세요 티바두마리치킨 상대하대점입니다",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20240513_271/1715585913144AMgGI_JPEG/17155859030296629344700728374243.jpg",
+          "https://ldb-phinf.pstatic.net/20240513_54/1715585901522l78Db_JPEG/17155858931698115609522313588161.jpg",
+          "https://ldb-phinf.pstatic.net/20240513_286/1715585891176PAgCe_JPEG/17155858605166761222808537793523.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220514",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 21,
+        "id": "1181605206",
+        "name": "몬떡 상대점",
+        "x": "128.1151513",
+        "y": "35.179664",
+        "distance": 0.234,
+        "categoryName": "종합분식",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220185"
+          ]
+        ],
+        "category": [
+          "분식",
+          "종합분식"
+        ],
+        "reviewCount": 4,
+        "averagePrice": 0,
+        "address": "경상남도 진주시 상대동 310-12",
+        "roadAddress": "경상남도 진주시 동진로 220",
+        "abbrAddress": "상대동 310-12",
+        "shortAddress": [
+          "경남 진주시",
+          "동진로 220"
+        ],
+        "displayContext": [],
+        "labelTheme": "분식",
+        "microReviews": [],
+        "cardDescription": "경상남도 진주시 상대동 310-12",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220185",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 22,
+        "id": "15482803",
+        "name": "명성루",
+        "x": "128.114925",
+        "y": "35.1772469",
+        "distance": 0.097,
+        "categoryName": "중식당",
+        "categoryPath": [
+          [
+            "220036",
+            "220039",
+            "220091",
+            "220861"
+          ]
+        ],
+        "category": [
+          "중식",
+          "중식당"
+        ],
+        "reviewCount": 3,
+        "averagePrice": 0,
+        "address": "경상남도 진주시 상평동 198-52",
+        "roadAddress": "경상남도 진주시 공단로139번길 19",
+        "abbrAddress": "상평동 198-52",
+        "shortAddress": [
+          "경남 진주시",
+          "공단로139번길 19"
+        ],
+        "displayContext": [],
+        "labelTheme": "중식",
+        "microReviews": [],
+        "cardDescription": "경상남도 진주시 상평동 198-52",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220861",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 23,
+        "id": "1046348303",
+        "name": "하노이분파맷",
+        "x": "128.1160691",
+        "y": "35.1778609",
+        "distance": 0.03,
+        "categoryName": "베트남음식",
+        "categoryPath": [
+          [
+            "220036",
+            "220041",
+            "220103"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "베트남음식"
+        ],
+        "reviewCount": 3,
+        "averagePrice": 0,
+        "address": "경상남도 진주시 상대동 311-132",
+        "roadAddress": "경상남도 진주시 대신로195번길 16",
+        "abbrAddress": "상대동 311-132",
+        "shortAddress": [
+          "경남 진주시",
+          "대신로195번길 16"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "경상남도 진주시 상대동 311-132",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220103",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.67",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 24,
+        "id": "1414706838",
+        "name": "옛날솜씨그대로왕짬뽕",
+        "x": "128.1168262",
+        "y": "35.1787979",
+        "distance": 0.155,
+        "categoryName": "중식당",
+        "categoryPath": [
+          [
+            "220036",
+            "220039",
+            "220091",
+            "220861"
+          ]
+        ],
+        "category": [
+          "중식",
+          "중식당"
+        ],
+        "reviewCount": 1,
+        "averagePrice": 0,
+        "address": "경상남도 진주시 상대동 311-45",
+        "roadAddress": "경상남도 진주시 대신로207번길 7",
+        "abbrAddress": "상대동 311-45",
+        "shortAddress": [
+          "경남 진주시",
+          "대신로207번길 7"
+        ],
+        "displayContext": [],
+        "labelTheme": "중식",
+        "microReviews": [],
+        "cardDescription": "경상남도 진주시 상대동 311-45",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220861",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 25,
+        "id": "1027137971",
+        "name": "맛있는이야기",
+        "x": "128.115254",
+        "y": "35.1796069",
+        "distance": 0.225,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 25,
+        "averagePrice": 0,
+        "address": "경상남도 진주시 상대동 310-12",
+        "roadAddress": "경상남도 진주시 동진로 220",
+        "abbrAddress": "상대동 310-12",
+        "shortAddress": [
+          "경남 진주시",
+          "동진로 220"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경상남도 진주시 상대동 310-12",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 26,
+        "id": "1183341994",
+        "name": "정성식당",
+        "x": "128.1150893",
+        "y": "35.1773927",
+        "distance": 0.076,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 0,
+        "address": "경상남도 진주시 상평동 197-13",
+        "roadAddress": "경상남도 진주시 공단로139번길 20",
+        "abbrAddress": "상평동 197-13",
+        "shortAddress": [
+          "경남 진주시",
+          "공단로139번길 20"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경상남도 진주시 상평동 197-13",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 27,
+        "id": "1008924483",
+        "name": "모닝커피",
+        "x": "128.1152384",
+        "y": "35.175968",
+        "distance": 0.195,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221212"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 0,
+        "address": "경상남도 진주시 상평동 196-19",
+        "roadAddress": "경상남도 진주시 공단로139번길 6",
+        "abbrAddress": "상평동 196-19",
+        "shortAddress": [
+          "경남 진주시",
+          "공단로139번길 6"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "경상남도 진주시 상평동 196-19",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221212",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 28,
+        "id": "355637338",
+        "name": "란실비",
+        "x": "128.1149336",
+        "y": "35.177123",
+        "distance": 0.103,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 0,
+        "address": "경상남도 진주시 상평동 198-141",
+        "roadAddress": "경상남도 진주시 공단로139번길 17-2",
+        "abbrAddress": "상평동 198-141",
+        "shortAddress": [
+          "경남 진주시",
+          "공단로139번길 17-2"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경상남도 진주시 상평동 198-141",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 29,
+        "id": "1024108019",
+        "name": "시골추어탕돼지국밥",
+        "x": "128.1151907",
+        "y": "35.1757866",
+        "distance": 0.216,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 3,
+        "averagePrice": 0,
+        "address": "경상남도 진주시 상평동 196-79",
+        "roadAddress": "경상남도 진주시 공단로139번길 4",
+        "abbrAddress": "상평동 196-79",
+        "shortAddress": [
+          "경남 진주시",
+          "공단로139번길 4"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경상남도 진주시 상평동 196-79",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 30,
+        "id": "1015803409",
+        "name": "깨순이야식",
+        "x": "128.1152058",
+        "y": "35.1756893",
+        "distance": 0.226,
+        "categoryName": "종합분식",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220185"
+          ]
+        ],
+        "category": [
+          "분식",
+          "종합분식"
+        ],
+        "reviewCount": 1,
+        "averagePrice": 0,
+        "address": "경상남도 진주시 상평동 196-80",
+        "roadAddress": "경상남도 진주시 공단로 139",
+        "abbrAddress": "상평동 196-80",
+        "shortAddress": [
+          "경남 진주시",
+          "공단로 139"
+        ],
+        "displayContext": [],
+        "labelTheme": "분식",
+        "microReviews": [],
+        "cardDescription": "경상남도 진주시 상평동 196-80",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220185",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 31,
+        "id": "1020142587",
+        "name": "타코아찌 동진주점",
+        "x": "128.1136792",
+        "y": "35.1796363",
+        "distance": 0.298,
+        "categoryName": "햄버거",
+        "categoryPath": [
+          [
+            "220036",
+            "220044",
+            "220138",
+            "221004"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "햄버거"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 0,
+        "address": "경상남도 진주시 상대동 302-28",
+        "roadAddress": "경상남도 진주시 동진로 206",
+        "abbrAddress": "상대동 302-28",
+        "shortAddress": [
+          "경남 진주시",
+          "동진로 206"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "경상남도 진주시 상대동 302-28",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221004",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 32,
+        "id": "1282395978",
+        "name": "응답하라7080",
+        "x": "128.114636",
+        "y": "35.17962",
+        "distance": 0.246,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 2,
+        "averagePrice": 0,
+        "address": "경상남도 진주시 상대동 302-114",
+        "roadAddress": "경상남도 진주시 동진로 214-1",
+        "abbrAddress": "상대동 302-114",
+        "shortAddress": [
+          "경남 진주시",
+          "동진로 214-1"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경상남도 진주시 상대동 302-114",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 33,
+        "id": "1993250637",
+        "name": "옐로코너",
+        "x": "128.1158979",
+        "y": "35.1776542",
+        "distance": 0.003,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 57,
+        "averagePrice": 5000,
+        "address": "경상남도 진주시 상평동 197-93 1층 101호",
+        "roadAddress": "경상남도 진주시 대신로195번길 17-1",
+        "abbrAddress": "상평동 197-93 1층 101호",
+        "shortAddress": [
+          "경남 진주시",
+          "대신로195번길 17-1"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [
+          "크림라떼와 치즈케익의 달콤한 조합"
+        ],
+        "cardDescription": "크림라떼와 치즈케익의 달콤한 조합",
+        "description": "일상속 휴식이 필요할때 옐로코너에 들러주세요 유리창으로 들어오는 따사로운 햇빛과 싱그러운 식물들  풍미가득한 커피와 향듯한 티, 델리만쥬, 케이크, 크로플, 소금빵까지. 다양한 모습의 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjZfMjgw/MDAxNzUwOTA4ODg2ODAy.OAcXtDfgaSKVfoVLI-nfC2SWW3fAwNBEBjZcueosWSMg.3EfSG6ACSID0wHcq3QGb9OZbH8t3gCnlObunZyKaJ-kg.JPEG/20250626_115428.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDFfMTY2/MDAxNzQ2MTA5NjQ1MjM3.udkpp6zNkMCbctHqP-EyzQ7xsRjl3bHDJsilV8LfUMIg.LiSAtQ4AzSx8tX7fUp46h8gfRmPdSDvcILk4lSGmPKwg.JPEG/F634CD6B-5D76-4157-8F48-CF7DA1A76A6B.jpeg",
+          "https://ldb-phinf.pstatic.net/20250312_151/1741768326271toGCI_JPEG/IMG_9328.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDlfMTI3/MDAxNzUyMDQwNDkwNzU2.nsZ7GPQeMkLLpjxXZbOy2xPoDnNPbEKnSzghUmqq7aQg.3slBDPBpvnn00brW5crhJA5HeA_JeFrqnBmE6VvsPMwg.JPEG/405DD476-246E-40AF-A62F-9859250F723A.jpeg",
+          "https://ldb-phinf.pstatic.net/20250509_138/17467945021354LBVY_JPEG/IMG_0283.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjhfMjU5/MDAxNzQ1ODE5ODE4MTU0.OhzTe8LqxmU3_hGlR7noze92Hqt7ImcQlD6SfeFGGAog.boKudIx8YdVtHhxMXAaCsPbmXNhp7UWVJjFAL1eR_xkg.JPEG/IMG_7066.jpeg",
+          "https://ldb-phinf.pstatic.net/20250509_181/1746794501911LeJwG_JPEG/IMG_9447.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjBfMTU2/MDAxNzUwNDAwMjg1Mjkx._041SBQxdey16fHEP-uhngUHUnapFtdPN_6LLqUZ61Ig.SC79t82h0GkTDaOnBIKlFZ297aQwqabZkDAq-KuCGHMg.JPEG/IMG_7532.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MzFfNjkg/MDAxNzQ4Njc2MjExNjgy.d5TVxPKgG3zvSe0WTsbEnpj0NghoNbZ7N14BWLcOMPYg.csJ-Zgxs7mHfDbH1XrjO2x0cBvyw_EIhpaJdbgtgS00g.JPEG/20250531_153350.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDFfNzcg/MDAxNzQ4NzU1NzE5NjIx.svEO9MDkXktKU-Lx0Ztx4gfRZHnclIrm9B-OklOeKH8g.ov_igDgIPrxQ-uvJnQSZaj60CQA-WLe-qY397iAowTQg.JPEG/20250601_131136.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 34,
+        "id": "1800566944",
+        "name": "냠냠숯불두마리치킨 진주점",
+        "x": "128.1153021",
+        "y": "35.1756792",
+        "distance": 0.225,
+        "categoryName": "치킨,닭강정",
+        "categoryPath": [
+          [
+            "220036",
+            "220049",
+            "1005117"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "치킨,닭강정"
+        ],
+        "reviewCount": 36,
+        "averagePrice": 20000,
+        "address": "경상남도 진주시 상평동 196-112",
+        "roadAddress": "경상남도 진주시 공단로 141",
+        "abbrAddress": "상평동 196-112",
+        "shortAddress": [
+          "경남 진주시",
+          "공단로 141"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "- 타업소와 확연히 다른 냠냠만의 숯불소스! - 냠냠만의 특별한 염지법으로 퍽퍽살도 부드럽고 수분끼가 가득 찬   국내산 냉장계육! - 장비를 쓰지 않고 직접 사장님이 직화로 조리를 하는 숯불",
+        "description": "- 타업소와 확연히 다른 냠냠만의 숯불소스! - 냠냠만의 특별한 염지법으로 퍽퍽살도 부드럽고 수분끼가 가득 찬   국내산 냉장계육! - 장비를 쓰지 않고 직접 사장님이 직화로 조리를 하는 숯불",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20210712_101/1626063786329DlPig_JPEG/BF2FUbh3wSWtwIPcBBOD6NOm.jpg",
+          "https://ldb-phinf.pstatic.net/20200106_236/1578308542441ql4BJ_JPEG/NSEtlxMgdvnHfPLUXffAa9im.jpg",
+          "https://ldb-phinf.pstatic.net/20200106_143/1578308548261jyyry_JPEG/JLBMVyq8pKgob95wPmEUOxs7.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1005117",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 35,
+        "id": "1740513389",
+        "name": "치킨인류 진주상대점",
+        "x": "128.1151351",
+        "y": "35.1790323",
+        "distance": 0.168,
+        "categoryName": "치킨,닭강정",
+        "categoryPath": [
+          [
+            "220036",
+            "220049",
+            "1004715"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "치킨,닭강정"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 20000,
+        "address": "경상남도 진주시 상대동 310-55",
+        "roadAddress": "경상남도 진주시 동진로216번길 11",
+        "abbrAddress": "상대동 310-55",
+        "shortAddress": [
+          "경남 진주시",
+          "동진로216번길 11"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "치킨인류는 오랜세월 우리와 함께 해온 치킨의 전통을 계승 발전시키지만, 후라이드 치킨의 근본을 지키기 위해 노력합니다. 부드러운 육질, 맛있는 육향과 육즙을 잘 살리고 바삭한 식감의 최",
+        "description": "치킨인류는 오랜세월 우리와 함께 해온 치킨의 전통을 계승 발전시키지만, 후라이드 치킨의 근본을 지키기 위해 노력합니다. 부드러운 육질, 맛있는 육향과 육즙을 잘 살리고 바삭한 식감의 최",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20230417_205/16816958301848nsJN_JPEG/%C4%A1%C5%B2%C0%CE%B7%F9_%BD%E6%B3%D7%C0%CF_%C3%D6%C1%BE.jpg",
+          "https://ldb-phinf.pstatic.net/20250709_162/17520528384495Bo7j_JPEG/1.jpg",
+          "https://ldb-phinf.pstatic.net/20250709_73/1752052838690nisjH_JPEG/2.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1004715",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 36,
+        "id": "1920061460",
+        "name": "와따곱창",
+        "x": "128.1148929",
+        "y": "35.1779565",
+        "distance": 0.095,
+        "categoryName": "곱창,막창,양",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220767",
+            "221540"
+          ]
+        ],
+        "category": [
+          "한식",
+          "곱창,막창,양"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 20000,
+        "address": "경상남도 진주시 상대동 301-82 1층",
+        "roadAddress": "경상남도 진주시 동진로216번길 22",
+        "abbrAddress": "상대동 301-82 1층",
+        "shortAddress": [
+          "경남 진주시",
+          "동진로216번길 22"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "저희 와따곱창을 방문해주셔서 감사합니다.  저희 매장은 곱창 국내산 100% 마장동에서 공수해온 곱창을 매일 삶고 또 씻어서 사용하기 때문에 안전하고 깨끗합니다.  맛은 기본이 매콤한 편입 ",
+        "description": "저희 와따곱창을 방문해주셔서 감사합니다.  저희 매장은 곱창 국내산 100% 마장동에서 공수해온 곱창을 매일 삶고 또 씻어서 사용하기 때문에 안전하고 깨끗합니다.  맛은 기본이 매콤한 편입 ",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20240409_132/1712656598783XckMg_JPEG/%C0%FC%B0%E6.jpg",
+          "https://ldb-phinf.pstatic.net/20240409_21/1712656594169SrW2x_JPEG/%B0%F6%C3%A2.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221540",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 37,
+        "id": "1326617379",
+        "name": "싸다닭",
+        "x": "128.115604",
+        "y": "35.1765889",
+        "distance": 0.12,
+        "categoryName": "치킨,닭강정",
+        "categoryPath": [
+          [
+            "220036",
+            "220049",
+            "220245"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "치킨,닭강정"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 0,
+        "address": "경상남도 진주시 상평동 196-72",
+        "roadAddress": "경상남도 진주시 대신로183번길 21-1",
+        "abbrAddress": "상평동 196-72",
+        "shortAddress": [
+          "경남 진주시",
+          "대신로183번길 21-1"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "경상남도 진주시 상평동 196-72",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220245",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 38,
+        "id": "1083969617",
+        "name": "그래그래피자 진주점",
+        "x": "128.1136542",
+        "y": "35.1796317",
+        "distance": 0.299,
+        "categoryName": "피자",
+        "categoryPath": [
+          [
+            "220036",
+            "220044",
+            "220136",
+            "220944"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "피자"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 0,
+        "address": "경상남도 진주시 상대동 302-28",
+        "roadAddress": "경상남도 진주시 동진로 206",
+        "abbrAddress": "상대동 302-28",
+        "shortAddress": [
+          "경남 진주시",
+          "동진로 206"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "경상남도 진주시 상대동 302-28",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220944",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 39,
+        "id": "1366867250",
+        "name": "후라이드만 판닭",
+        "x": "128.1136792",
+        "y": "35.1796363",
+        "distance": 0.298,
+        "categoryName": "치킨,닭강정",
+        "categoryPath": [
+          [
+            "220036",
+            "220049",
+            "220245"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "치킨,닭강정"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 0,
+        "address": "경상남도 진주시 상대동 302-28",
+        "roadAddress": "경상남도 진주시 동진로 206",
+        "abbrAddress": "상대동 302-28",
+        "shortAddress": [
+          "경남 진주시",
+          "동진로 206"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "경상남도 진주시 상대동 302-28",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220245",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 40,
+        "id": "15485147",
+        "name": "돈돼네",
+        "x": "128.1172461",
+        "y": "35.1768184",
+        "distance": 0.156,
+        "categoryName": "돼지고기구이",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220765",
+            "221458"
+          ]
+        ],
+        "category": [
+          "한식",
+          "돼지고기구이"
+        ],
+        "reviewCount": 1,
+        "averagePrice": 0,
+        "address": "경상남도 진주시 상평동 197-125",
+        "roadAddress": "경상남도 진주시 대신로183번길 6",
+        "abbrAddress": "상평동 197-125",
+        "shortAddress": [
+          "경남 진주시",
+          "대신로183번길 6"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경상남도 진주시 상평동 197-125",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221458",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "5.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

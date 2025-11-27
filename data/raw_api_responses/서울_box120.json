@@ -1,0 +1,395 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 4,
+      "count": 4,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.9666342627626,
+          "minY": 37.5628963963964,
+          "maxX": 126.96777083648634,
+          "maxY": 37.5637972972973
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.96720254962446;37.56334684684685",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1246620012",
+        "name": "꽃다방",
+        "x": "126.9672016",
+        "y": "37.5630587",
+        "distance": 0.032,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 759,
+        "averagePrice": 5000,
+        "address": "서울특별시 서대문구 미근동 72-5",
+        "roadAddress": "서울특별시 서대문구 충정로6안길 17-2",
+        "abbrAddress": "미근동 72-5",
+        "shortAddress": [
+          "서울 서대문구",
+          "충정로6안길 17-2"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [
+          "흑임자의 고소함이 담긴 부드러운 라떼"
+        ],
+        "cardDescription": "흑임자의 고소함이 담긴 부드러운 라떼",
+        "description": "일상 속 맛있는 힐링을 드리는 수제 디저트 카페, 꽃다방입니다.  루프탑을 포함한 총 5층의 다양한 좌석들과, 식물과 함께 할 수 있는 지상 야외 좌석이 구비되어 있으니 방문하셔서 좋은 재료 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTJfMTA2/MDAxNzU3NjYxMzg1MDM4.LPXD5QFtUknSk8604BcA_wORCg1wZOBODuLaoWXcgqcg.fS7jScFhuX3gZcH7tqavPedmVw3Vwg2-RuABjl-TPigg.JPEG/20250911_230435.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTFfMTY1/MDAxNzQ2OTY5MjU0MzM0.UjPcjtXlk16ElkFzC5Ez647Od-bpgjTlSNTqmwhUP1wg.dclmhze47YMyl1uvvEr6zwcA9qs93-f7hE4fO7vI5IUg.JPEG/IMG_8849.jpeg",
+          "https://ldb-phinf.pstatic.net/20250616_96/1750072354733D9HIu_PNG/%B2%C9%B4%D9%B9%E6-%C8%A6%B4%F5%B7%CE%B0%ED2.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTVfMTk5/MDAxNzYwNTMzNjQ1NDI5.9riJEANFPAToHZEDnEdX8YFXJe0_q7EqudrDkjrtKUsg.DiigT7XtpOp4mD3bHmv7aG0gpoIGoBxxwcidTfyC0Wcg.JPEG/D396E4B6-B8F0-4094-B28A-4A138B4E265C.jpeg",
+          "https://ldb-phinf.pstatic.net/20240215_104/1707989925387errJ6_JPEG/004.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTNfMTAx/MDAxNzQ0NTA2NDY4MTYw.W03jWIv3gxHDOKClh8k6V3VG5oaaWn6klXMWMRnE__Eg.UwMqIZcKLaZ8OCB4jgXMAp5eAAObGkiX47Xg-Nr2fVsg.JPEG/F39E231B-8A7F-4C5B-904B-08993B70690A.jpeg",
+          "https://ldb-phinf.pstatic.net/20250922_154/1758529503448cyP9K_JPEG/%B9%AB%C8%AD%B0%FA%BE%F3%B1%D7%B7%B9%C0%CC%B0%BC%B6%C7a.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDJfMjQy/MDAxNzU5NDA2NjI4ODE5.JzCo5giIoYsoQhXIbXs8xg5vIo4Q6bY7_onxSVRX4uQg.-mEzt0lnJV1eex0uPzqUD50Lyr8M_IHu1Tc65nyOoz8g.JPEG/AEAECA9F-D453-44F9-B2C4-5E3925C48DB4.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjhfODIg/MDAxNzU4OTg2NTIzNjA1.uIckcSeRE6GvW-yURYM2dfnmw72DS1LZh7wLBF26omgg.byrrKBW8ewf0RrvKwDiZhF2c35a_OfP4eDm299Vlvoog.JPEG/09F9184F-B985-460E-BC89-5CFB8769B76B.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMThfMjMy/MDAxNzYwNzY5NzU3NzMy.NCq0RaR4vKm_OwcgWeZQnSnwTv2NF3KVNqmWLNga0lIg.wGlbfzFvyxssgR7CLghVjQA_4UJernRMdIwHA1qLuvIg.JPEG/IMG_5385.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.48",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "1246620012",
+            "bodySummary": "꼬마빌딩 전 층이 모두 카페! ★가게 정보★ 운영시간: 월~금 8:00 - 21:00 토 12:00-17:00 전화번호: 0507-1348-5956 주소: 서울 서대문구 충정로6안",
+            "url": "https://m.blog.naver.com/volunteer9517/223385946528",
+            "nick": "노을",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMjVfMTE5/MDAxNzAzNDg2Mjc0NTUx.3En1JUWIaqYT-YcSFw563-Y50ImmRlJrQ96Sb1ANLQsg.YKzAyaC8l2Y5tcIgMadGtTU9mv-BDkOTVf7nfryXefog.JPEG.100erin/profileImage.jpg"
+          },
+          {
+            "sid": "1246620012",
+            "bodySummary": "여기 꽃다방은 6층 건물 전체가 카페여서 층마다 다양한 분위기의 예쁜 자리들이 마련되어있답니다 엘베는 없음 메뉴 메뉴는 정-말 다양한데 저는 항상 아이스 꽃다방라떼만 마시는,, 꽃",
+            "url": "https://m.blog.naver.com/eatingmerry/223098999402",
+            "nick": "메리",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMThfOSAg/MDAxNzAwMzE4MDk3NDY5.RTR04rHNdpvk3FKiqagMgBcxjjj9WmglO5KmbHwLa1sg.8bGkWq9sHSzQTHacLdD6y1fyicERIvvJlB4o1OH9Pxkg.PNG.mi0553mi/profileImage.png"
+          },
+          {
+            "sid": "1246620012",
+            "bodySummary": "서대문역에서 약 8분 거리 경찰청 건물 뒷쪽에 자리하고 있다. 나의 서대문 카페라떼 맛집 방문! 서울에 5층짜리 카페 건물 하나가 통째로 있다. 건물주님 부럽스... 작지만 야외자",
+            "url": "https://m.blog.naver.com/everythingexperience/222945924675",
+            "nick": "지우개",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDA5MTRfMTEg/MDAxNjAwMDExMTYzNDY5.ml4ey0IAyTmEB2wESSUszuz_lmbhiMqGyp1n2t_wq38g.YuGU85IAuMjFb_Z2vtkpQXwRoXcmxsqc_U2DzvCYfYUg.JPEG.dlrpanjdi000/profileImage.jpg"
+          },
+          {
+            "sid": "1246620012",
+            "bodySummary": "회사에서 조금만 걸어가면 미근동카페 꽃다방이 있다. 그 주변으로 점심 먹으러 많이 다니는데도 이 꽃다방 카페는 처음 봤다. 역시 골목은.. 재밌어!점심시간 땡! 하고 찾아간 미근동",
+            "url": "https://m.blog.naver.com/daljax_x/222634732499",
+            "nick": "오데일림",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA3MjVfMTM2/MDAxNjI3MTQzNDM5NjQ3.L-KuG2tZNTxiq_3svDqEbkn69DL7mzcub4rVQuzUbWog.dlPneoYJ2x3xUZNOdBRFdwgtmOAunvbZ9nV0SPC88eMg.JPEG.daljax_x/KakaoTalk_20210725_011654771.jpg"
+          },
+          {
+            "sid": "1246620012",
+            "bodySummary": "위치가 좀 애매해요 네비게이션 키고 한참 헤매다가 찾았는데 한적한 주택가에 위치해 있어요 두둥 레트로 느낌이 물씬 디저트카페 꽃다방 입구에 걸려있는 간판도 레트로 감성 주말이라 북",
+            "url": "https://m.blog.naver.com/wjddls_2/222597693037",
+            "nick": "보 배",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAxMTVfMTg0/MDAxNjczNzUzOTk0NjAx.UjCESA6fl8zqcQ9EzGY7AiPoypMPwwtpm2e3EMKYD6Qg.092s2xoIXGYodOOktNPtAyCQzrKs7ekXVipaEuhJMFMg.JPEG.wjddls_2/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "id": "188658447",
+        "name": "서대문집",
+        "x": "126.9667041",
+        "y": "37.5633437",
+        "distance": 0.044,
+        "categoryName": "닭갈비",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220771",
+            "221575"
+          ]
+        ],
+        "category": [
+          "한식",
+          "닭갈비"
+        ],
+        "reviewCount": 479,
+        "averagePrice": 11000,
+        "address": "서울특별시 서대문구 미근동 72-3 미근빌딩",
+        "roadAddress": "서울특별시 서대문구 충정로6안길 29",
+        "abbrAddress": "미근동 72-3 미근빌딩",
+        "shortAddress": [
+          "서울 서대문구",
+          "충정로6안길 29"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "식사와 술안주로 제격인 서대문집 대표메뉴 숯불닭갈비! 철판이 아닌 숯불에 직화로 구워 숯불향과 함께 훨씬 담백한 맛을 느끼실 수 있습니다. 초벌을 한 후에 나오기 때문에 연기가 적고 금 ",
+        "description": "식사와 술안주로 제격인 서대문집 대표메뉴 숯불닭갈비! 철판이 아닌 숯불에 직화로 구워 숯불향과 함께 훨씬 담백한 맛을 느끼실 수 있습니다. 초벌을 한 후에 나오기 때문에 연기가 적고 금 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjZfMjUw/MDAxNzU4ODc5Njk0OTQz.-aIMUKGXl1KKVghtfG8PSH5BqvJZPl87NvxLODsPjoQg.gmfAIfX2pZ5lDpjVSjnc-hkSuY7YyZqAJCN5zGN3QMEg.JPEG/20250926_124031.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTlfMTA1/MDAxNzQ3NjI3NjAzNzI2.l_Xz8fSeEokUL-frePR-E_rWwkpitdx5IsAAXhald_8g.HBlS6Lpvn8pyKkAWyNvVHaW0rnr-U4VhfpOcYS2X9iUg.JPEG/20250519_122731.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20171212_2/1513087941784pmn97_JPEG/ywBceBQSAJb2FgIm_ZyFc_Ym.JPG.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDhfMjQ0/MDAxNzU5ODUyMjI3MjY0.79F6QV714dqRv4khFam2DDENChq2cYlAqRl8ZS-tbFUg.a9HImmXVTOjYhO3SwhMQGzd8NdMRoU1sQj8uNQWdr-Eg.JPEG/20250925_121745.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20171212_49/1513087918348d2z0q_JPEG/pM3dlnRG2h2x2reei-thbV93.JPG.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTdfMTYw/MDAxNzU1MzkxMDY0NzM0.GGW0yMigCaBpJTedld7KbbCZGivS5kW8yfVdUIBMAJ4g.VVURctUX_Bbnh56Jo35GEGWj-5NWY2QPoFT0-cPpCCcg.JPEG/1755391008533.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20171217_37/1513497392137pmODM_JPEG/w-pnlTMi66zkmLNx8YeDeZMA.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221575",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "188658447",
+            "bodySummary": "점심메뉴는 갈비탕, 수제돈가스, 막국수, 비빔밥 김치, 된장, 순두부찌개 등등 이렇게 판매를 하고 있습니다. 저희는 갈비탕을 먹기위해 방문해서 고민도 없이 갈비탕 주문!! 그리고 ",
+            "url": "https://m.blog.naver.com/womkiki/223244415195",
+            "nick": "단밤스토리",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMTBfMjYz/MDAxNzAyMTg2NTMyNjQ5.bj30zLaVcn5nl3xxlNU2bHlYG9ujlbPPuqqSP-Dh_vcg.GJOSGXXc98qHQMDeCUjsnkr3pIpABLI97jETHQCMFCQg.JPEG.womkiki/profileImage.jpg"
+          },
+          {
+            "sid": "188658447",
+            "bodySummary": "서대문집 경찰청 뒤쪽 골목에 있는 백반집이다. 메뉴는 주변 동네 음식점들보다 전체적으로 저렴한듯? 직장인들이 많다... 요건 내가 시킨 순두부찌개 (7,000원) 밑반찬은 요렇게 ",
+            "url": "https://m.blog.naver.com/kclee0503/222676748852",
+            "nick": "차니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjExMTlfMjAy/MDAxNjY4ODUwNDk5ODYy.YN2ca-S6L3PxtgEHdb_QoLB_LlmRdw9qKup6eOf-4UIg.CEvDakPk1QOKReGy1oPsm7MmT2s7m7n5hNewtgjY2zkg.PNG.kclee0503/profileImage.png"
+          },
+          {
+            "sid": "188658447",
+            "bodySummary": "평일 점심에 서대문집에 다녀왔습니다. 메뉴는 이렇습니다. 갈비탕먹으러 자주왔었는데 작년초인가 재작년인가에는 갈비탕이 10000원이었는데 메뉴판에 오른 흔적이 보이네요ㅎㅎ 전화번호도",
+            "url": "https://m.blog.naver.com/nakhl1185/222629688661",
+            "nick": "무비스",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAxMTJfMzgg/MDAxNjQxOTgxMDk3Mzk5.Wa1QIQOJ3UjusctHHImH4AVxcpUC7ECG2bUPBiZ9wdsg.t2IIRI26tr727sqemkklRE60oJgdY0hOxnG7Q7GUqQog.JPEG.nakhl1185/profileImage.jpg"
+          },
+          {
+            "sid": "188658447",
+            "bodySummary": "이집은 조미료 맛이 강하지 않고 담백하고 깔끔한 음식맛이 좋았다. 자극적이지 않은 막국수와 슻불닭갈비. 점심때 먹기에는 너무 숯불 피우고 본격적인 느낌이라 부담스럽긴 한데 어차피 ",
+            "url": "https://m.blog.naver.com/themusia/222077087880",
+            "nick": "뮤시아",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMTdfMjg3/MDAxNzEwNjM4OTkyNjg1.vq-nIOBBMxBZEcgvQvrWzdrgXByas00xsbhAMBLOPDMg.JnH4ohtttHZ7jC86a_Oa0ouzAxmeY7cyej7SZHsEvHgg.PNG/Black_White_Simple_Minimalist_Monogram_Logo.png/Black%2BWhite%2BSimple%2BMinimalist%2BMonogram%2BLogo.png"
+          },
+          {
+            "sid": "188658447",
+            "bodySummary": "맛좋은 숯불닭갈비 서대문집 서대문역에 약속이 생겨서 가보게 된 숯불 닭갈비집 인데 푸근하고 맛도 좋아 기분좋은 식사를 했던 곳이다 <위치> <메뉴> 닭갈비 외에도 갈비탕 돈가스 등",
+            "url": "https://m.blog.naver.com/rim7229/221730092298",
+            "nick": "옘로그",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTExMjFfMzUg/MDAxNTc0MzM5MzEwNzg3.QHv8eSDkv8F5ZNag-H-343bYh9T-2xH5q6yCZylSJicg.TPJOtDd8aJGJyBIpl8njq9xNZR_OKlamfbi3R20EHNsg.PNG.rim7229/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "id": "1127013582",
+        "name": "드디어커피 경찰청점",
+        "x": "126.9674929",
+        "y": "37.5633646",
+        "distance": 0.026,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 208,
+        "averagePrice": 0,
+        "address": "서울특별시 서대문구 미근동 209",
+        "roadAddress": "서울특별시 서대문구 통일로 97",
+        "abbrAddress": "미근동 209",
+        "shortAddress": [
+          "서울 서대문구",
+          "통일로 97"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 서대문구 미근동 209",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTlfMTUx/MDAxNzUyODg1NDkwNjAy.nI_FzLvUQSvylKp5ebKlG1e06qTscmw16UfRZD_vfzsg.OK1Kergpf1zk-12-w4lAZqymx_8cgW53Vhvd4G7V3TIg.JPEG/20250718_125135.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MzBfMzQg/MDAxNzU5MTYxMDk5Mzkw.Bi1KzsGkG7AWM9i1PHcXdYB9vo9x0qgSA6yj3Ea0V8gg.XwNBTgHRAogPqe8Zh4tYSGIH8pSZ-j2TBUoHsWZcVQUg.JPEG/20250919_103846.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTdfNjUg/MDAxNzUyNzM3NjAwNjUw.8K2FrmAwXlRDKSC-oJIBQ6i3kMT2ptBxBMmKn9Yeyn4g.FHi92AjZgV6-84zDgpGLA8s2ylmFU3tHOq03pq0bmTcg.JPEG/20250425_104152.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDJfMjQy/MDAxNzUxNDUzNDc3NDUw.67i5X5dvRZjTFgIhld-K36TXrNCWxHpmoX8e5NCMc6gg.LdeEMUUBxkFpNZO7VsASIbYTDnCIv7ZZSboGZTq4Q-cg.JPEG/20250425_104152.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 4,
+        "id": "1123306060",
+        "name": "대림정",
+        "x": "126.9670278",
+        "y": "37.5630046",
+        "distance": 0.041,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 591,
+        "averagePrice": 36000,
+        "address": "서울특별시 서대문구 미근동 72-6",
+        "roadAddress": "서울특별시 서대문구 충정로6안길 17-6",
+        "abbrAddress": "미근동 72-6",
+        "shortAddress": [
+          "서울 서대문구",
+          "충정로6안길 17-6"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [
+          "한우 버섯불고기의 깊은 풍미"
+        ],
+        "cardDescription": "한우 버섯불고기의 깊은 풍미",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjdfNCAg/MDAxNzQ1NzE0NjQ3MTM3.NGrbnU9e4B9_apeBbzCge2NaqWmEsu9MxA2QYDmmy_8g.iKv5gDIZ1ZebDMKD3FeNw-LQx2np2fJm_4nvP39fxuEg.JPEG/20250423_171235.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjNfMTQ1/MDAxNzYxMjE2MzE2NTU3.bJbDbn-w-jUCCJ60g4u_NprBzQU7AT3yF08zk8xg1_Qg.TlIoUMiaoohuFzxk_zIohtbvQj-5JguayQKFOk7QHuQg.JPEG/20250828_182235.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20201017_240/1602918453091nqexv_JPEG/fzoXLiz_fs87iH3vuG_IuWFM.jpeg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1123306060",
+            "bodySummary": "대림정메뉴 우린 모두 영양왕갈비탕으로 통일 날 좋은날에는 야외에서도 먹을 수 있지만 이번에는 너무 더워서 에어컨 빵빵한 실내에서 먹음 전날 단체회식을 했어서 다들 좀비처럼 흡입했다",
+            "url": "https://m.blog.naver.com/ujk5080/223164722150",
+            "nick": "또또",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTEyMTdfMjI3/MDAxNTc2NTgzOTQzODQ4.S3l4FaDz7-cvw-rPMPiVei1O8_7M3aJXJ9XRA2Xd6Ccg.dN4Q8iY4zNykblni7iBFMri6CC701Ux_tKUBC0K16-og.PNG.ujk5080/profileImage.png"
+          },
+          {
+            "sid": "1123306060",
+            "bodySummary": "이런 저 꽤 놀랍지도 않아요. 오늘은 서대문역 경찰청 뒤에 숨어있는 맛집에 다녀왔어요. 지글지글 이 날은 소와 돼지 둘 다 먹었습니다. 충정로 서대문역 삼겹살 맛집 '대림정' 위치",
+            "url": "https://m.blog.naver.com/weinen0904_/223072392356",
+            "nick": "비넨",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAyMTFfMTU1/MDAxNjc2MTExMDY0MDg4.kLEe2XZejWplqofavDH3UoP1qlIRVgIVrLlErXxYD2cg.nTMoy_WpNx10h3W3pFDNjafb8gMa0ZnaS6-o2xNN930g.JPEG.weinen0904_/KakaoTalk_20230211_183102669_02.jpg/KakaoTalk_20230211_183102669_02.jpg"
+          },
+          {
+            "sid": "1123306060",
+            "bodySummary": "[주문 메뉴] 한우채끝등심 500g 62,000원 한우차돌박이 150g 20,000원 한우육회한접시 300g 30,000원 물냉면 6,000원 비빔냉면 6,000원 차돌박이는 3인",
+            "url": "https://m.blog.naver.com/ohri2252/223012910614",
+            "nick": "오해",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjEyMjFfMTUz/MDAxNjcxNjA0Njg0MTAx.pMrTs0qoIisCH_lze7CspoNleLoJYr326Qfng5KoCMsg.tDZ62fsI8ThW84-f2xwplCRcZfO0AHOr9IZ2XoEtcKEg.PNG.ohri2252/profileImage.png"
+          },
+          {
+            "sid": "1123306060",
+            "bodySummary": "(입구에 소주병 뭐야...?) 주로 단체손님이 많은 것 같았다. 기본찬 (파절임, 무절임, 피클, 마늘, 쌈채소) 메뉴 가격 이 집의 주 메뉴는 소고기지만.. 우린 삼겹살로 먹었다",
+            "url": "https://m.blog.naver.com/hyungi1022/222958950708",
+            "nick": "Mangnana",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAzMjZfMTUx/MDAxNjc5ODM5MDA2MTUx.ocm7h4soYepPZSTB8TtjQH_ajsE4esDiZj9Ot5QjChIg.lRtLzpEhY9nWUWDD8rVI2rbvg0hS7vqhidNa2gDHkuIg.PNG.hyungi1022/profileImage.png"
+          },
+          {
+            "sid": "1123306060",
+            "bodySummary": "2021년 1월에 방문한 후기입니다. 서대문역 소고기 대림정 회사에 좋은 일이 있는 동료분이 소고기를 쐈던 대림정 후기입니다. 서대문역 뒷골목쪽에 있습니다. 가다보니 길가에 메뉴판",
+            "url": "https://m.blog.naver.com/yunsanggul/222232540879",
+            "nick": "쀼랜드",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTExMTBfMTUx/MDAxNTczMzY1MjA5NzI1.MTm2pmf_oM3Q4b-ECJb8z_UISQZrMfZkH4Laq4Ef1dcg.zN_VGDK2sInMBeLfcFiQg1ZdvMba5lrVRvyx56sPwsQg.JPEG.yunsanggul/profileImage.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

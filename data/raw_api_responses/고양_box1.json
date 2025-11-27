@@ -1,0 +1,801 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 11,
+      "count": 11,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.82931025759449,
+          "minY": 37.64739099099099,
+          "maxX": 126.835,
+          "maxY": 37.651895495495495
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.83215512879724;37.64964324324325",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1365144158",
+        "name": "요기커피라면",
+        "x": "126.8321535",
+        "y": "37.648179",
+        "distance": 0.163,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 30,
+        "averagePrice": 5000,
+        "address": "경기도 고양시 덕양구 화정동 858 상가동 1층 102호",
+        "roadAddress": "경기도 고양시 덕양구 어울림로 14",
+        "abbrAddress": "화정동 858 상가동 1층 102호",
+        "shortAddress": [
+          "경기 고양시 덕양구",
+          "어울림로 14"
+        ],
+        "displayContext": [],
+        "labelTheme": "24시간 영업",
+        "microReviews": [
+          "진한 커피와 달콤한 마카롱의 조화"
+        ],
+        "cardDescription": "진한 커피와 달콤한 마카롱의 조화",
+        "description": "화정동 24시 무인카페, 무인 라면 맛집 매장 이용 중 문의 사항은 네이버 번호로 전화 또는 문자 주세요! ( 문자로 남겨 주시면 확인 후 순차적으로~! 원격으로~~! 해결 해 드립니다)  * 외부음식 , ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjZfNTcg/MDAxNzUzNDk1NDM2ODQ1.QUPDSBcvUMY0tIeso_u9v_wMnABhIMSeHuUjJja6uVwg.2SrMzkYQ4GnwCn8v1BAT9OaxtRXM1AykbJKCfSHKl_4g.JPEG/20250726_110324.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjNfMTEy/MDAxNzQ3OTM1NzEzMjE3.V57K27-DG50GVv6Lb5WapK4G3Kv6UOt3G3azUY-Vdbcg.e_bkG94hCkjIBAVimyiTLzztGbeUQV8MaBdI1DVZmDsg.JPEG/65E8A728-0ECB-4E85-8234-13B231B28826.jpeg",
+          "https://ldb-phinf.pstatic.net/20240511_226/1715390222411qKB2q_JPEG/1000023185.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDRfNjAg/MDAxNzU0MjkzMDQxNDk3.fy6aPduRjLgcobYAlBt6nIm3a-XvEypao6PZP942kLwg.3gq1a4N5I93FyAqZhO6JGMsPOQhosdgSvVL1cpcGuBMg.JPEG/20250804_163643.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240511_23/1715390154639lrPs0_JPEG/1000023353.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjNfMjc3/MDAxNzQ3OTg5NDA1NjA4.6FfLpxuajfTvcX-jatoJzLTTI9VONE4hcsM9xyRVOfEg.czECTKfMHyVg2pumXDc9FDy6UYHLm-CBwCIyZmRnOucg.JPEG/443E2CF3-6E37-4DF1-BC18-6E861FF3AFA3.jpeg",
+          "https://ldb-phinf.pstatic.net/20240511_273/17153901553991UdPC_JPEG/1000023321.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDNfMTY5/MDAxNzU0MjEyNjg3Mzc5.dIHdFxPhcgYbMMEdnROLhcHAWGLqc0c5arX5hnepZkcg.FFkGCIElUoTdffjEhkekCwiwrggHf7w86PqdDZ6MPAwg.JPEG/20250803_181713.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "2097812713",
+        "name": "블루라인커피",
+        "x": "126.8330956",
+        "y": "37.6510466",
+        "distance": 0.177,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 8,
+        "averagePrice": 5000,
+        "address": "경기도 고양시 덕양구 성사동 735-4 1층",
+        "roadAddress": "경기도 고양시 덕양구 호국로716번길 17",
+        "abbrAddress": "성사동 735-4 1층",
+        "shortAddress": [
+          "경기 고양시 덕양구",
+          "호국로716번길 17"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [
+          "부드러운 카페라떼와 유자차의 조화"
+        ],
+        "cardDescription": "부드러운 카페라떼와 유자차의 조화",
+        "description": "블루라인커피는 아이스하키의 블루라인처럼, 일상 속에서 잠시 숨 고르기를 할 수 있는 공간입니다. 깔끔하고 모던한 인테리어 속에서 신선한 원두로 내린 커피와 시원한 음료들, 직접 구워내 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjlfMTk5/MDAxNzU2NDYyMzcwNzIw.ASwOTb1Q3LXyl320CX8dM38XCGtB0yEsLoe3q7ZYrTUg.ps1TL3_hFnBxWjYMeilWTeVAm0jT2Z_DG7lJWRrK4tog.JPEG/083AE22C-F830-4A9C-BE3F-686F25698689.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjZfMTY4/MDAxNzU2MjA0NjI5NDEx.vpPOnYLbsoWeKEl8qFMTPbTn2lgogA40OPQ7V38EFrEg.X_JB39Q0xhP-QM2u8aPSE-RjrEmUW09CuApahA7sygog.JPEG/DCD256E7-1B00-4A03-B8F4-3B5E7F887956.jpeg",
+          "https://ldb-phinf.pstatic.net/20250813_102/1755066283172MesWN_JPEG/IMG_0365.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjNfMTA3/MDAxNzU4NjAyMjkwMjY3.dYRMxMwjZ204LlytJlMfvnb3igvbSbwysHOLfSpZgc4g.cSLTSghMs0WsZaWlxBP62Sr4U9ynzS4T0nh4eYNt8ygg.JPEG/1CA92816-8DA7-4B8E-B88A-ADFBE18BEC53.jpeg",
+          "https://ldb-phinf.pstatic.net/20250813_276/17550662547927e88c_PNG/A588A6FC-D5EA-4C18-836B-8C31AB867576.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDRfMTQ5/MDAxNzU2OTgyMDQyNjAx.udcqWUxc4cHLb4vHGG8PFnJgWBRBCe3d3cBa3eIAOcQg.yRSzrwwAzGQHQjmYscfGgm8zEENz5cXDtfVmblChT_Ig.JPEG/20250904_132133.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjFfMjU0/MDAxNzU1NzA1NDUzMTEy.LPfABLo59qHxqtOqffj8khIJirg-QnbS_3ekboKNUW0g.xWToY6vRtn0kFl7d-fLZ_bOC9wVmuZ5004W4rdCXKsAg.JPEG/EFDEDAF0-FD2A-47CC-B5EE-9CBD1ECCD30A.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMTRfMjQ2/MDAxNzYzMDg4ODA4MjUw.MaeC_E9zUoUp9q3Pi9NPRU8IXecXCjJnniPxYUvIFZkg.RWBlGRpwi__gjCrkm7754x_fD5-IG26TdVscPKLeAgMg.JPEG/011539D4-774D-4D71-81AC-E6833BC8B1A2.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MzBfMTIy/MDAxNzU2NTI4NTY0MDMw.8aXPFKwxjpbyXvYwm86VRA5pUlt4om8uH6Z5tTQGa-og.jtw9okaZtEOwQp_nGRUwF2PyvuRI5S9_IX1WOYakVr8g.JPEG/1C8C11AC-EE28-437F-8E1B-4BC23C0BA20D.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDlfMjQx/MDAxNzYwMDAxNDEzNzg4.PhZwpEO8FjqdkOIQK_T503z4Ue1cn9-TTXvwruXH-3sg.XqYFc28aL4SLW_X3iq6mLEl1VffUTmRj_Z0tN7M1YIUg.JPEG/20250924_123434.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 3,
+        "id": "18277086",
+        "name": "숯불목심생구이",
+        "x": "126.8322945",
+        "y": "37.6481517",
+        "distance": 0.166,
+        "categoryName": "육류,고기요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220733"
+          ]
+        ],
+        "category": [
+          "한식",
+          "육류,고기요리"
+        ],
+        "reviewCount": 176,
+        "averagePrice": 11000,
+        "address": "경기도 고양시 덕양구 화정동 858 달빛마을1단지",
+        "roadAddress": "경기도 고양시 덕양구 어울림로 14",
+        "abbrAddress": "화정동 858 달빛마을1단지",
+        "shortAddress": [
+          "경기 고양시 덕양구",
+          "어울림로 14"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경기도 고양시 덕양구 화정동 858 달빛마을1단지",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjhfMTQg/MDAxNzU5MDU3NjUxMzg2.H9aUCaTboE-W5b9s9y8jtut8bYIO4AEpHnUjnPvBD98g.O6y8XfeSaa5iTEdaaXwZXZ5OMHI3ezwjL76d0Bz5XsUg.JPEG/B23F366A-BE2E-4497-9522-DAC5BF7BAD0F.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDRfMjg4/MDAxNzUxNjMzNzE4Nzk3.tytnCbUS44JZl9ApxIbJJiHQBJqhx2uahpvZvIgoUREg.VVOhwmldIonycne_a4xru0R9fHfjsI4S1SyKOF0q624g.JPEG/BF13D7A6-E88C-4D78-A50D-0652C9EEED6D.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220733",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.4",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "18277086",
+            "bodySummary": "안녕하세요! 오늘 포스팅할 곳은 화정 달빛마을 1단지 상가에 위치한 “숯불목심생구이” 입니다 언니가 굉장히 가고 싶어 했던 식당으로 엄청 오래된 가게라고 하더라고요! 주차는 상가건",
+            "url": "https://m.blog.naver.com/wltn9839/223042186418",
+            "nick": "알린이가 알려드림",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjEyMjhfMjg3/MDAxNjcyMTkzNTIzNDEw.YvGEtxxbCORgoHYItWL7Vb-zbIWhKoOU-oy7Fzr9c7Ug.Vjn3dwRmOQuQvFLk4zyXj5moP16dkCqtHR-BbzDxfcUg.PNG.wltn9839/profileImage.png"
+          },
+          {
+            "sid": "18277086",
+            "bodySummary": "숯불목심생구이’ 매일 16:30~00:30 *상가 뒷편 주차가능 화정맛집 숯불목심생구이는 아주 오래된 로컬 맛집이에요 화정에서 느끼는 을지로 감성…!? 차타고 지나다니면서 어울림누",
+            "url": "https://m.blog.naver.com/hfg1102/222959761155",
+            "nick": "니니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA3MDRfNzUg/MDAxNjU2OTQ2NTg4Njk1.OEYBbqVgnpTsS0lyZvuKBgwNHIrsv8K0kjBQ-svHH7Mg.lGPzGQBKXyhCPBSgFSja3NXkdjZ0l7RHEgPamtOcim8g.PNG.hfg1102/profileImage.png"
+          },
+          {
+            "sid": "18277086",
+            "bodySummary": "매일 16:30~00:30 내가 애정하는 우리 동네 작은 삼겹살 맛집 목심생구이를 갔던 첫 기억을 떠올려보면 정말 15년은 더 된 느낌이다 주인이신 할머니 할아버지랑도 오랜 인연이",
+            "url": "https://m.blog.naver.com/tnrudxnxn/222922402143",
+            "nick": "뽀실누나",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjEwMDhfMjc1/MDAxNjY1MTg3NTkwMjQw.0DHgNeRyRwK-8qOpOal9fjvhWjL9rBkcMY1RUHlvvoUg.u5dmS2HfjyVmkd3JsELTjHWEtSxiKinUkwyxFl8UqzUg.PNG.tnrudxnxn/profileImage.png"
+          },
+          {
+            "sid": "18277086",
+            "bodySummary": "아쉬워서 1인분 추가하고... 화정 맛집 목심 생구이 이 집을 가는 이유 중에 하나 정말 된찌가 최고!! 된찌 주문하면 뚝배기 밥을 주시는데 나는 말아먹기 선수! 화정 맛집 목심생",
+            "url": "https://m.blog.naver.com/coolno1/222223086169",
+            "nick": "송나무",
+            "profileImg": ""
+          },
+          {
+            "sid": "18277086",
+            "bodySummary": "그곳은 바로 화정 1단지상가에 있는 맛집! 숯불목심생구이 에요 ~ 1단지에는 상가가 2개 있는데 그중 어울림누리 축구장쪽 맞은편에 있는 상가에 있어요 ^^ 밖에서 보는 비주얼부터 ",
+            "url": "https://m.blog.naver.com/jisena224/221244587650",
+            "nick": "세나실장 메이원헤어",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAyMDVfNiAg/MDAxNjQ0MDYwODI4NzY5.OZCsi5AQL-ojPXWXHr7sOtNPiHIUH07TLBR7DQaT2fcg.LY5_apSMlDQYENxxaMGiT6PGzwd3BL_zrInZkVn0l0Mg.PNG.jisena224/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "id": "1436485265",
+        "name": "어울림누리 구내식당",
+        "x": "126.8347904",
+        "y": "37.6485549",
+        "distance": 0.262,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 27,
+        "averagePrice": 0,
+        "address": "경기도 고양시 덕양구 성사동 826",
+        "roadAddress": "경기도 고양시 덕양구 어울림로 33",
+        "abbrAddress": "성사동 826",
+        "shortAddress": [
+          "경기 고양시 덕양구",
+          "어울림로 33"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [],
+        "cardDescription": "경기도 고양시 덕양구 성사동 826",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTFfMjE4/MDAxNzYwMTM2MDAyOTQ3.1Hd7VpJJ40T-fT55-AQ55BDy8PJufKMr4ByIP1d0w8wg.M7C8QGKLT3rOdqnt75G8BnDC9w5WFhNKEvfbsFUU4TAg.JPEG/20250919_090757.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDdfNDgg/MDAxNzQ5Mjc5MDY5NzU2.OAZHoJmMkc_NU4PpsOnF4kPQb0OAmT0dul6pS1frQD0g.MxRX8ZFI3r59TkjS8f2Iw_uZzO2IBmx6s3wBowPZ01Qg.JPEG/11209E01-8D8B-4F77-B6BA-1BA710FDFEB4.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjRfOSAg/MDAxNzUwNzY3ODEzNjc1.NANnB8amyB4EJZSX0McEXdN9FAGPaz_pEl_EAJMA0ckg.VtSBmF8P9bBxqb-eyfrie7VlZL3iLWwJD3mfb1nQ_Lsg.JPEG/20250623_124239.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDNfMTg1/MDAxNzQ4OTYyMDA3NDc5.sypkrmgSF0rxN1T2eCrymYewkIU4x_1j4Q0Aj9Il34Yg.dBgfZVLRQDrLCO0z0MJcWzqioYwVmH5PWQxpdZs0UHsg.JPEG/20250602_113717.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 5,
+        "id": "1748978644",
+        "name": "하이하이스낵",
+        "x": "126.8341483",
+        "y": "37.6487424",
+        "distance": 0.202,
+        "categoryName": "종합분식",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220185"
+          ]
+        ],
+        "category": [
+          "분식",
+          "종합분식"
+        ],
+        "reviewCount": 21,
+        "averagePrice": 0,
+        "address": "경기도 고양시 덕양구 성사동 826",
+        "roadAddress": "경기도 고양시 덕양구 어울림로 33",
+        "abbrAddress": "성사동 826",
+        "shortAddress": [
+          "경기 고양시 덕양구",
+          "어울림로 33"
+        ],
+        "displayContext": [],
+        "labelTheme": "분식",
+        "microReviews": [],
+        "cardDescription": "경기도 고양시 덕양구 성사동 826",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDlfMjUx/MDAxNzQ2NzU1OTgyNDAy.3dyJukkLdOHMCk38Wq2Ij2p2uJewuOg-KHGGcxjpBz0g.a5KD3JQKkIZsGXGdpjfOpwcmbkzbN5oKjVP1F4X3as4g.JPEG/20250430_094327.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDZfOTAg/MDAxNzUxNzk4MTUwMDUw.g0cCoaLAJ8dDjx8v6pgtP-FkHSIwu7niWsh147RP9G4g.npWwQW5mtf9M3jjzV0T6O3p2Bwl6o35kBCNXJKBJhmAg.JPEG/20250706_153008.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20231112_99/1699774523748cwfeM_JPEG/1699774501133.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220185",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 6,
+        "id": "1602930538",
+        "name": "카페아르젠또 어울림점",
+        "x": "126.8345321",
+        "y": "37.6495942",
+        "distance": 0.21,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 772,
+        "averagePrice": 3000,
+        "address": "경기도 고양시 덕양구 성사동 826",
+        "roadAddress": "경기도 고양시 덕양구 어울림로 33",
+        "abbrAddress": "성사동 826",
+        "shortAddress": [
+          "경기 고양시 덕양구",
+          "어울림로 33"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [
+          "와플과 아이스크림의 달콤한 조합"
+        ],
+        "cardDescription": "와플과 아이스크림의 달콤한 조합",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTJfNDMg/MDAxNzU3NjUzMTY5ODYx.V_pu_IYR4ax2BvnwJKbE3cj2GXHb80XxMuoBJWvrCkQg.Z7Xiy5_Fc5149twM7GrAlBUuOyglQxJHhn-kP7NfOiog.JPEG/F58085B8-B4D8-4893-9406-1118929A9405.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMzFfMzEg/MDAxNzYxODc1MDA4MjM0.DLT4QeuYD7oH5xpYj548hp9o9kes5fX884vYxF8G-hcg.LGEzIqN2j7t_KuukRhpsvpB7DS_co7LIv688nO0ilP4g.JPEG/20250904_121953.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250918_151/1758192738531iguiR_JPEG/1000015652.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjVfMTQ0/MDAxNzU4ODAwNTYzMTg0.zVEbqDoptBDJUsigqLY_s4GPWfLPmCHx4fKYIiFGZFAg.CGMpWuXRYa1cdv-jcFKTpU4urnQ3I8sP33jM5SdfqCwg.JPEG/20250904_121953.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjVfMjY1/MDAxNzUwODEzNzIyNzA4._S5mC2Q0ijOMcc1rc_B9pDtOlapzFm54QTrWQ7FoE6cg.PnRZU2vTujHRCvWUd0TbrP2Mlw6YP8Paxh1fApUHB6Mg.JPEG/20250625_100615.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDVfMjI1/MDAxNzU3MDUyMTU4NDcx.YHs2rW21IurC2LzwkOgAhqHMalHwT0fogbzjO8bsWYQg.q-MXeuRy0oQskVKC5CspWps-nWAW8JdjIAIC_SvV__cg.JPEG/D5F03A5D-909A-4BA2-A39B-28CEAE4F2861.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTFfMTQ4/MDAxNzU3NTYxOTk4NDc4.8RbGFLZapFaLfuQCGFgDfrKC31PKIgMaatWbWa6eCicg.epvWGo48w46gDX_L1DkVC0Q2MjJloDOekkGQwGCYqe0g.JPEG/20250904_121953.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDRfNDIg/MDAxNzU2OTU5NzM2NzMy.SiJHJRVt-K7Ywvjoiwpm6BQFjPxslHJTD6TZc5to3kcg.NJhsxdaQH4L07eQxnQ9-6IG99EfSSDdJcb-vD-bt4Pgg.JPEG/20250904_121953.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MzFfMjQx/MDAxNzQ4NjUzMzI1NjA1.Ksl-C1gDeNW0aUqeFa3Puo9HOoq-DPt38eR8Ry3bApIg.fPm2-IiwL9nGGlUSR_efAgx9pmEykMUbFhbt-F8uI74g.JPEG/20250531_095437.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjZfNzkg/MDAxNzUzNTIxMTUzMDg5.iapqTbLTYwFTWSzMFx7n0bWHMyDJP0Lx9leNI8mM-xcg.4zVgAcly-7F9q5in0LNbTmOkW0-fsIslBkbR1qJwoLwg.JPEG/20250726_123352.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.48",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "1602930538",
+            "bodySummary": "전화:070-4209-7784 ⏰영업시간:08:00~19:30 주말 09:00~17;30 주차: 어울림누리 2시간 무료에 추가 넣어주세요~ 외부 모습 수영장 있는 건물에 쉼터 안쪽",
+            "url": "https://m.blog.naver.com/1234648/223330077056",
+            "nick": "콰트로제이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMjdfMTM3/MDAxNzAxMDgyMTU4NDU0.MurmJhYtoTYWOHR5TtLdSOaaoaA3_09-p8QVs_CpVW8g.ZsDG0jYFrcrl9vorjxZ6pMW0xkwLxPSuJO86p8lk2uAg.JPEG.1234648/profileImage.jpg"
+          },
+          {
+            "sid": "1602930538",
+            "bodySummary": "카페아르젠또 어울림점 #까페아르젠또어울림점 고양덕양어울림누리 안에 수영장 옆에 있는 까페 입니다. #고양덕양어울림내카페 카페아르젠또어울림점 고양어울림에서 운동 마치고 함씩들러 라떼",
+            "url": "https://m.blog.naver.com/jaya1384/223182012617",
+            "nick": "현이네",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA0MTBfMjA0/MDAxNjgxMDk2ODg0MTc2.jaXuvt5s2Xj5z6hfX5_LjMhxIr_1Qa54AuJh6gMYRVwg.hSqkjrjTjp-JwcI82hthFjGHCfftdxi6ur6bgcuDtRwg.JPEG.jaya1384/profileImage.jpg"
+          },
+          {
+            "sid": "1602930538",
+            "bodySummary": "언젠가 아빠가 정년퇴직 이후에 카페를 하고 싶다는 얘기를 하신 적이 있었는데 요즘 젊은 사람들은 나이 든 직원을 불편해한다는 얘기를 들었다며 요즘은 이른 나이에 창업을 하고 빠른 ",
+            "url": "https://m.blog.naver.com/wahees0s1/223154512888",
+            "nick": "김와희",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA2MzBfMzgg/MDAxNjU2NTg1ODA2MDQw.BzZvgjP6o2-iIcj7DAsqBSYJ_qy8MbVo_AdJcrdddkog.gj4VbO2ZmFXRNHg1SXv3L_l-vJZrWLm1CreD11n7ci0g.JPEG.cinnamon_kim/profileImage.jpg"
+          },
+          {
+            "sid": "1602930538",
+            "bodySummary": "너무 춥습니다.이러한 날에도 아이의 주말 수업이 있어 이동하게 되었습니다.ㅎ 이동하곳은 바로~ 고양 덕양구 어울림누리 아르젠또 커피 이곳을 오게 된 이유는 아이 주말 수업이 있어 ",
+            "url": "https://m.blog.naver.com/alikeolive21/222992472004",
+            "nick": "올리브",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDEyMjJfMTky/MDAxNjA4NjIxMzI5OTE3.4Sf6lIBbMorvAnTIr15_9byYguOaw_zv5WNcuNNgxM8g.YwmZx8fHgUL8sMb4rLkySwnoykllhZnFEGpyrX9qgjYg.JPEG.alikeolive21/%B9%E8%B0%E6.jpg"
+          },
+          {
+            "sid": "1602930538",
+            "bodySummary": "노인분들의 일자리가 되어주고 있는 착한 곳이었다. 또, 수익금 2%를 저소득 가정의 청소년 장학금으로 기부된다고 하니 진짜 여러모로 참 좋은 카페!! 카페 아르젠또 메뉴판! 메뉴도",
+            "url": "https://m.blog.naver.com/forgetsad/222614513040",
+            "nick": "후이쯔",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDA3MDhfMjkz/MDAxNTk0MTcwNDQ5MDI5.mGdWnIL084ivxpp3qBhx0jcHp7J_wc1-6BxBlFUtmpcg.8zohsL710krALcTy0E-99MmzZGsSsMo0tG2MPoGK6dgg.JPEG.forgetsad/%25C7%25B2%25C4%25DA.JPG"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "id": "1786441935",
+        "name": "얼음마루스낵",
+        "x": "126.8345322",
+        "y": "37.6495942",
+        "distance": 0.21,
+        "categoryName": "종합분식",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220185"
+          ]
+        ],
+        "category": [
+          "분식",
+          "종합분식"
+        ],
+        "reviewCount": 28,
+        "averagePrice": 0,
+        "address": "경기도 고양시 덕양구 성사동 826",
+        "roadAddress": "경기도 고양시 덕양구 어울림로 33",
+        "abbrAddress": "성사동 826",
+        "shortAddress": [
+          "경기 고양시 덕양구",
+          "어울림로 33"
+        ],
+        "displayContext": [],
+        "labelTheme": "분식",
+        "microReviews": [],
+        "cardDescription": "경기도 고양시 덕양구 성사동 826",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220185",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 8,
+        "id": "1507506739",
+        "name": "채민이네",
+        "x": "126.8325077",
+        "y": "37.6516524",
+        "distance": 0.226,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 0,
+        "address": "경기도 고양시 덕양구 성사동 737-3",
+        "roadAddress": "경기도 고양시 덕양구 호국로716번길 7-13",
+        "abbrAddress": "성사동 737-3",
+        "shortAddress": [
+          "경기 고양시 덕양구",
+          "호국로716번길 7-13"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경기도 고양시 덕양구 성사동 737-3",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 9,
+        "id": "1092087659",
+        "name": "우리할매떡볶이 화정점",
+        "x": "126.8323439",
+        "y": "37.6480732",
+        "distance": 0.176,
+        "categoryName": "분식",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "1004806"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "분식"
+        ],
+        "reviewCount": 887,
+        "averagePrice": 10000,
+        "address": "경기도 고양시 덕양구 화정동 858 달빛마을1단지 113호()",
+        "roadAddress": "경기도 고양시 덕양구 어울림로 14",
+        "abbrAddress": "화정동 858 달빛마을1단지 113호()",
+        "shortAddress": [
+          "경기 고양시 덕양구",
+          "어울림로 14"
+        ],
+        "displayContext": [],
+        "labelTheme": "분식",
+        "microReviews": [],
+        "cardDescription": "TV 방영되어 유명 유튜버들이 소개해주신 그~떡볶이!! 네이버 실시간 1위를 찍은 그~ 떡볶이 옛날 떡볶이 전문점 ''우리 할매 떡볶이'' 입니다.  옛날 학교앞 떡볶이~ 할머니가 해주시던 쫜득~한  ",
+        "description": "TV 방영되어 유명 유튜버들이 소개해주신 그~떡볶이!! 네이버 실시간 1위를 찍은 그~ 떡볶이 옛날 떡볶이 전문점 ''우리 할매 떡볶이'' 입니다.  옛날 학교앞 떡볶이~ 할머니가 해주시던 쫜득~한  ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTFfMTQ1/MDAxNzU0ODg4NjU1NzI1.a7KUuX07ELuKJitOtkwnY50_uIpaZUwJ4DVolPxL560g.3YStTLf31uIzl6fD4uudLwL4CWaMaGlXYhB3UiO0HUwg.JPEG/IMG_5601.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjJfMjg2/MDAxNzYxMTQyMTIwMzg3.vUKIpKhSLTkoMPWpRTYXFDubH8nPNhEu7yvAgWc3O8Yg.izoKpYd_wJdmBtyLFzLHpFohI0MwMuiS71SyOyfYxNMg.JPEG/20251022_182300.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20210317_3/1615970374049IYYxi_JPEG/FJ8dfgWrAAJC2F0saFhogbSt.jpg",
+          "https://ldb-phinf.pstatic.net/20210317_134/1615970373292kPzHp_JPEG/52AaYBRIFU13RurORHuoTvHn.jpg",
+          "https://ldb-phinf.pstatic.net/20210317_236/1615970373281hTXoI_JPEG/RjqVdMos_o27aVxI2rIvfQ52.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1004806",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": true,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1092087659",
+            "bodySummary": "딸랑구랑 걸어서 화정 데이트하고ㅋㅋ 돌아오는길에~ 들렀어요♥ ㅋㅋ #우리할매떡볶이화정점#고양시맛집#할매떡볶이#일산덕양구떡볶이맛집#떡볶이맛집",
+            "url": "https://m.blog.naver.com/couragemom87/223164508426",
+            "nick": "I will be N job er",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA1MDFfMzkg/MDAxNjgyOTIwNTk2NDIz.WCMBvkFpFs6AYNZKbWUUPn7KhYT0mEkErlPfTlvB3xcg.ZvrJsfJRGD_CYcxU21sx0IocxgJNaDir20pxlXUcv9Eg.JPEG.musik_ko/%25ED%259A%258C%25EC%2582%25AC_%25EB%25A1%259C%25EA%25B3%25A0.jpg/%25ED%259A%258C%25EC%2582%25AC%2B%25EB%25A1%259C%25EA%25B3%25A0.jpg"
+          },
+          {
+            "sid": "1092087659",
+            "bodySummary": "우리할매떡볶이는 어울림누리 앞 달빛마을 1단지 상가에 위치하고 있더라고요 의외로 역세권에 없어서 놀랬음 역세권이였으면 집에서 걸어가려고 했는데 ㅎㅎ.... 우리할매떡볶이는 제가 다",
+            "url": "https://m.blog.naver.com/kimeunmi_o/223159800093",
+            "nick": "은미",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMjNfMjcz/MDAxNzA1OTM2ODQxNzk0.zKJgXpjZGqpDdMMW5HqcrQoEASAJYryc0sNqFzXtw5gg.vcpD07IWYOOjoSkk6rC5NZffsntj-t_CmypTVSinFhog.PNG.kimeunmi_o/profileImage.png"
+          },
+          {
+            "sid": "1092087659",
+            "bodySummary": "이곽콩 이에요 •̀ᴗ•̀ 아직 어린 유쭈쭈는 매운 걸 못 먹어서 외식을 하게 되면 떡볶이를 배제했었는데, 여기는 짜장 떡볶이를 팔기에 방문해 보았어요. 거기다 어울림누리 극장 근처",
+            "url": "https://m.blog.naver.com/philla0210/223130273659",
+            "nick": "이곽콩",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20230202_17/philla0210_1675315989271uNQlV_PNG/profileImage.png"
+          },
+          {
+            "sid": "1092087659",
+            "bodySummary": "토리의 어울림누리 수영 강습이 끝나고 참새방앗간처럼 수영장 건물에 있는 매점에서 질리게 먹다가 집에 가는 길에 우리할매떡볶이 간판 발견 경기 고양시 덕양구 어울림로 14 달빛마을1",
+            "url": "https://m.blog.naver.com/sinbi1211/223062229048",
+            "nick": "토리새봄",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTAxMTVfMjQ0/MDAxNjEwNjgyMDcxMzA2.wuw5FRO-pL8pFlbhCZWSscVIMUB2ePQqw-w71V76u6Eg.Wds9JDWZqjAbpJScas2sdECXM8cdmwgz3raA43DcTGAg.JPEG.sinbi1211/profileImage.jpg"
+          },
+          {
+            "sid": "1092087659",
+            "bodySummary": "꼬치 어묵 1개 1,000원 화정점 우리할매떡볶이 김말이 튀김 3개 / 야채튀김 1개 1,200원 / 1,200원 화정점 우리할매떡볶이 밀떡볶이(순한 맛/매콤한 맛) 4,500원 ",
+            "url": "https://m.blog.naver.com/tnzhkd98/223001684998",
+            "nick": "수팡",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAxMDZfMjU0/MDAxNjcyOTY5MzY2MTgx.avJBRbDkll_pnTbfC37XDZlUljDJi8dCesej-FQmoCAg.DYEs_EED0E6ag1iCFJyroS6Cuzdsyfa3GIHZ7fcYYCog.PNG.tnzhkd98/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "id": "1169830500",
+        "name": "뚜리몽피자 고양점",
+        "x": "126.8323619",
+        "y": "37.6511678",
+        "distance": 0.171,
+        "categoryName": "피자",
+        "categoryPath": [
+          [
+            "220036",
+            "220044",
+            "220136",
+            "220944"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "피자"
+        ],
+        "reviewCount": 1,
+        "averagePrice": 0,
+        "address": "경기도 고양시 덕양구 성사동 737-8",
+        "roadAddress": "경기도 고양시 덕양구 호국로716번길 7-1",
+        "abbrAddress": "성사동 737-8",
+        "shortAddress": [
+          "경기 고양시 덕양구",
+          "호국로716번길 7-1"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "경기도 고양시 덕양구 성사동 737-8",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220944",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 11,
+        "id": "1875037282",
+        "name": "피치굿",
+        "x": "126.8323619",
+        "y": "37.6511678",
+        "distance": 0.171,
+        "categoryName": "피자",
+        "categoryPath": [
+          [
+            "220036",
+            "220044",
+            "220136",
+            "220944"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "피자"
+        ],
+        "reviewCount": 3,
+        "averagePrice": 0,
+        "address": "경기도 고양시 덕양구 성사동 737-8",
+        "roadAddress": "경기도 고양시 덕양구 호국로716번길 7-1",
+        "abbrAddress": "성사동 737-8",
+        "shortAddress": [
+          "경기 고양시 덕양구",
+          "호국로716번길 7-1"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "경기도 고양시 덕양구 성사동 737-8",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220944",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

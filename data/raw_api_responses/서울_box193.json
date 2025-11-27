@@ -1,0 +1,611 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 7,
+      "count": 7,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.98140972117122,
+          "minY": 37.5655990990991,
+          "maxX": 126.98254629489496,
+          "maxY": 37.566500000000005
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.98197800803308;37.566049549549554",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1794817301",
+        "name": "호두붐 을지로점",
+        "x": "126.982373",
+        "y": "37.5660508",
+        "distance": 0.035,
+        "categoryName": "호두과자",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220570",
+            "221204"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "호두과자"
+        ],
+        "reviewCount": 2938,
+        "averagePrice": 7000,
+        "address": "서울특별시 중구 을지로1가 100-1",
+        "roadAddress": "서울특별시 중구 을지로 42",
+        "abbrAddress": "을지로1가 100-1",
+        "shortAddress": [
+          "서울 중구",
+          "을지로 42"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [
+          "다양한 맛으로 즐기는 특별한 호두과자"
+        ],
+        "cardDescription": "다양한 맛으로 즐기는 특별한 호두과자",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDNfMTA3/MDAxNzU5NDcxNTY4MTYw.xfTc9DeD9sgfLlMi2vL9fMt9ROhc-OsHoq5WVf2Tm9Qg.Jmkz7ObRTG5YH5KaR9NlFHnPpSJiiiwhRWeCjR9Phbkg.JPEG/1000013374.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjdfMTQ5/MDAxNzU4OTU0OTE1MzE2.pF0G-CAacqJ5NL97cLQBeYk6NjtRy3WgdntPoGQp3u0g.vXB_gEvEjlwTKjK6BVhq1o_2RlSAUeD6kVl4AQri_BIg.JPEG/20250923_080539.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20211126_151/16378905815184IpQD_JPEG/m4K9RNNGo6TsCbaOnOv4CoKi.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTlfMTIg/MDAxNzUyOTIyNDExNDA0.cji2ukJ1FML_w95g4aKL5lRePIzZewzyccphgJiEHj0g.xtDWb4KBUjw9F30SmYFoDiRUM_mqIm_YtuYQxJuV-YEg.JPEG/20250719_180435.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDhfNzMg/MDAxNzU5OTEyOTUxNjA0.HNrbU_29nYU5-Y4Ep1HWlTzmjQGj3u-Eh1QkAi588agg.vFRcY7Rkm8UdBvv-jVJzV2jDZXA7CRWZvKnWlr2Fv4kg.JPEG/20250802_135207.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDhfMTk4/MDAxNzU5OTE0ODI5NDI4.bL1ys_0zMAujfVusOZp9_b32PFzfs_Cw9uTj2wFjccMg.5i8rhlZOzbDWBjvKMGz3YoDdCDGSFt1OMzHTH-omdvYg.JPEG/C57D8952-68EE-420C-A9AC-E1134BC493D2.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDNfMTE4/MDAxNzU2ODkwNzM4NzE5.ethID1svJrYV4z9Fq9QlhODt1ExQKawI-_yDF0P--jQg.uDwjEVG0NA_C3VFiREXvD8SRze-IJ_XngW24SqaVyBgg.JPEG/3383260C-9B24-4BF6-A029-521BA74B24D1.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDZfMTQg/MDAxNzU5NzAwNjQxNzk1.zu9UPd91fgPMhA5j4N_A8IjNhZXI61jle9v_-e-QOl0g.qWghO2mSYDllp0FhOSChiW9gCGA5w3iZ214xdwmaLvEg.JPEG/20251002_125328.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTNfOTMg/MDAxNzU1MDQ5NjU5Mjkx.4-Noq2UVvQ6jtbVoKXU_FzTC8PS7yNeXwa7SnyqmULwg.7mwCRwmeD9cx_pMMrev1sviOi8ow6sbfpKfqHUVSn3cg.JPEG/20250812_115628.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDhfMjgz/MDAxNzQ2NjY5NTE5Mzg3.ePULqymssYnxhHLknSBv61uAJv4wpmGclOOtMu3OaC4g.WUmnP9OSU4hvF4Js5lzea_maI7PbFCKXlb0qGJRpSTkg.JPEG/EAE41AB8-3155-4E75-9354-77B1129B7B09.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221204",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1794817301",
+            "bodySummary": "을지로입구역 개찰구 앞에 자리 잡고 있는 #호두붐 고소하고 달달한 냄새가 발길을 잡았다. #지하철간식 으로 딱 좋은 #호두과자 호두붐 을지로점 저녁시간쯤이라 유동인구가 많다 보니 ",
+            "url": "https://m.blog.naver.com/jininmini/223283331616",
+            "nick": "미냠냐미",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAxMDVfMTUw/MDAxNjcyODkwMjA4OTg2.GKMhAyobu8gvbVCGaWujhPZ7Vh587hiY9Bp5kH0zvtkg.Bkg_hJqJ6n4r_cShbuNqxemyw1x0ctXw6NJIMcd8q3gg.JPEG.bma0547/profileImage.jpg"
+          },
+          {
+            "sid": "1794817301",
+            "bodySummary": "뭐니뭐니해도 호두과자는 그냥 팥이 제일 맛있는것 같아요 처음엔 5알로 시작했다가 요즘엔 다양하게 맛본다며 세트 사기 시작해서 호두과자에 미쳐있는 사람이 되었어요 오늘은 소세지와 고",
+            "url": "https://m.blog.naver.com/cokoconan/223172011904",
+            "nick": "놀고먹고싶은사람",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMTBfMTY2/MDAxNjk5NTk1NDYzMjU2.H_NCF2JAazR1432LYNcH_EI2U1_yYwOD09qrpykdN64g.5HNh86HJaG_y1Z45EH7kI5Sflg7EVUU4tXkHcptqgVEg.JPEG.cokoconan/profileImage.jpg"
+          },
+          {
+            "sid": "1794817301",
+            "bodySummary": "을지로입구역 맛집: 수제호두과자 전문점 [호두붐] 신기한 호두과자가 많았음~ 오~ 호두과자 종류별로 사왔음 ㅎㅎ 왼쪽부터 저당팥앙금, 커스터드 크림, 치즈&치즈 ㅎㅎ 에어프라이어로",
+            "url": "https://m.blog.naver.com/kimseolkkachi/222837214858",
+            "nick": "까치",
+            "profileImg": ""
+          },
+          {
+            "sid": "1794817301",
+            "bodySummary": "을지로 붕어빵 맛집 호두붐 호두붐은 호두과자를 파는 곳인데 나는 호두과자는 한번도 안 먹어보고 붕어빵만 먹어봤다. 엄마가 퇴근할 때 한번 사왔었는데 그 후로 맨날 사다달라고 함.ㅋ",
+            "url": "https://m.blog.naver.com/a_sj_53/222729826711",
+            "nick": "쩡이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA0MDFfMjY1/MDAxNjQ4ODAwNjA3MDA2.j3mP8ooJ8Eop6zB09Mz6qrJIZ191bBRJg-W89eFEJWAg.HegtMTCD0BHYXoG9UH2nn5nvp9vqhw87303R6B0tcREg.JPEG.a_sj_53/profileImage.jpg"
+          },
+          {
+            "sid": "1794817301",
+            "bodySummary": "그리고 저녁에 비가 갑자기 왔는데 포장박스가 두꺼워서 끄떡없었습니다! 굿굿~~ 호두과자가 엄청 많이 들어있죠!? 장사가 끝날 시간이라 많이 주셨다고 하더라구요~ 맛은 총 4가지로,",
+            "url": "https://m.blog.naver.com/d_a_illust/222329368853",
+            "nick": "호롱2",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA3MjFfMjkw/MDAxNjg5OTQ4NTM5NTg1.ANan0uz39DeD80fU9z_Vl5VS19kS7xqTsDvCfWuI3jMg.OmbwrMryOJtEOE_KnnskkYWM3DxedE7KB63_u80tEvYg.JPEG.d_a_illust/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "id": "1859131621",
+        "name": "어묵애꼬치다",
+        "x": "126.982373",
+        "y": "37.5660509",
+        "distance": 0.035,
+        "categoryName": "종합분식",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220185"
+          ]
+        ],
+        "category": [
+          "분식",
+          "종합분식"
+        ],
+        "reviewCount": 697,
+        "averagePrice": 6000,
+        "address": "서울특별시 중구 을지로1가 100-1",
+        "roadAddress": "서울특별시 중구 을지로 42",
+        "abbrAddress": "을지로1가 100-1",
+        "shortAddress": [
+          "서울 중구",
+          "을지로 42"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 을지로1가 100-1",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTlfNjkg/MDAxNzUwMzE4MzU1ODk5.VSA7BHK27lH6_Txczp7EuVPczGHl9c55KoIZlxWg4bgg.ViXQEoE0BMCQrBdCL3nYrpnL3egglM-XLzwQxjJ2M8Yg.JPEG/383AD3DE-00BA-4F79-8224-A0673A034041.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDFfMjIz/MDAxNzQ4NzA2MzA3OTAw.-wu-Jg0LyvtXO5ek0udMWUJtaUQhgD-YQzmtEAF9mAYg.ImEcANiujYqBE1Qb92r7vhVoRfW79MJq1VL5PJstgHgg.JPEG/20250531_204613.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTVfMjcx/MDAxNzQ0NzAyNTg4ODg3.fpI7tqgHBtWzGWAP_MembPgWrmEAJr_Fbc0C6rQFWuQg.PwnFzeWxUktyuYAKilVVsODQ-V1bYMaX1-MUtwOcb5Ig.JPEG/9A5E9233-15FA-4E98-9344-3E9F8AFE5DFF.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDdfMjAy/MDAxNzUxODg2NjM1MDgz.hwk2NBlCMNKlMTAXJfRTg72BTu_8mopHE74PYu6iNikg.41DVKTWd_krpmix6J2K5jrvvbpJuq32Nff71EOTwnLAg.JPEG/20250703_084046.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTJfMyAg/MDAxNzQ0NDM1MjU4MTI4.Y6hkthibx_2TtO0nymRFvnxmPlMwkSiZbH-teIzh7-4g.7RHhNBm46zdD7_voBfQLdpOYL-EgKlQJBfQUOu88gzwg.JPEG/B9C25F0C-F4FF-4338-AE80-7DE5E39F4F59.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjNfMjE4/MDAxNzU1OTM3MTU1OTk0.vHZfh469hHJxa9o_luABwlzWdie1Se1NdD1YN9MwdpMg.TdLkWZxdX5gDFJ2WwWal8Hn2Uoh_WXVvYlTB65HLwtYg.JPEG/20250708_183733.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDhfMjQy/MDAxNzQ2Njc2OTk0MDk0.lOXn4zLwEcZPavnkkEvV8dh9d0h7w6EGevxv6x9x8rIg.l0mon_1qQTwsaiHvIyOpQzcdGoVKh9dKbFGtuQGhaR4g.JPEG/7003B587-5E96-46A6-937B-E65F4B9DE13A.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjNfMTMy/MDAxNzU1OTExMzI5NDcz.iLJL7Vg5o90stD6F51Z7UsSHTVKK5wPLCMl8XtC_oJUg.z1Rf8udXEFd7zJ7CeiA2OyKV5WlK3P9dSm_UbQJ01K8g.JPEG/20250819_160555.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDVfNTAg/MDAxNzQ5MDgwNTcyNzM2.1tLJ09vD61uTXGeD1D51MnoHXzmDE0gUqEjPpCSoUDYg.1xjjI9Hu1JR39cY26lIMm46x-LAzqSmNWiibqhvWPzUg.JPEG/8E26536E-AF09-4450-B9A3-6CF3DBA13BC0.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDFfMTYz/MDAxNzU5MjczMzMzMzE4.muNDelPAAHq8h_Q_QH2trZLsjPMj7omgjDNJC6kUoMIg.16FmsJJ0Wx7VV3SjWEQaqzN8eTJvDAz5iihe8dD0VVQg.JPEG/20250927_122426.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220185",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1859131621",
+            "bodySummary": "튀긴 음식은 건강에 좋지 않다고 하네요. 그럼 튀긴 음식을 물에 담가서 먹으면 괜찮지 않을까요? 그럼 오늘은 어묵을 먹어 볼게요. ㅎ안녕하세요 올리원입니다.주소 : 서울 중구 을지",
+            "url": "https://m.blog.naver.com/all_re_one/223373769023",
+            "nick": "올리원",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMjFfMTc0/MDAxNzAzMTQxNDg4NTY0.52zwD_QdpUQs1SflgGwD0LHbq2EBxSATyVVteaZ2Fxcg.MaThTbiOOfh5FkmoIf4kIB2UGpedQiSPLvQsnDQYTlkg.JPEG.jarnannomki/profileImage.jpg"
+          },
+          {
+            "sid": "1859131621",
+            "bodySummary": "오늘은 제가 n번째 방문한 을지로 입구역 찐 맛집 어묵애 꼬치다를 소개해보려고 합니다 아마 을지로 입구역으로 출퇴근 하시는 분들이라면 알 수 밖에 없는 맛집 중 맛집인데요~ 여기 ",
+            "url": "https://m.blog.naver.com/tttpfk/223262967001",
+            "nick": "케셀",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA0MzBfNDQg/MDAxNjgyODQ0NzcyMTA2.fmftw3_2FhQTkoRzBkPhU1EU-JBGUjZC7227_vKMV_Eg.m9TDUOdXCx4aPrEAl7b-QlkYllOwKXxbASA0JA6CPGog.JPEG.mic1503/KakaoTalk_20230430_175215417.jpg/KakaoTalk_20230430_175215417.jpg"
+          },
+          {
+            "sid": "1859131621",
+            "bodySummary": "'어묵愛 꼬치다'는 을지로입구역 지하의 1번출구와 1-1출구 사이에 있습니다. Bread&Co 빵집 바로 옆이에요 어묵, 김밥, 떡볶이, 순대를 파는 분식집이에요 가게가 깔끔해서 ",
+            "url": "https://m.blog.naver.com/do_haso/222860868710",
+            "nick": "꿀떡",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjEyMTJfMTU2/MDAxNjcwNzcxNzk1NDk3.xFZMvO_Nkgj1FVdZlAIic0mCT7zGUyYLWdaLhR0iZGog.Z5tORAYq3ZZkjtV0L1lEpaRe_5N-NsHUeQqJEjBTXrMg.JPEG.gguldduk11/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "id": "19729116",
+        "name": "프레즈베이글카페을지로입구역점",
+        "x": "126.9823729",
+        "y": "37.5660509",
+        "distance": 0.035,
+        "categoryName": "베이커리",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220564",
+            "221161"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "베이커리"
+        ],
+        "reviewCount": 62,
+        "averagePrice": 0,
+        "address": "서울특별시 중구 을지로1가 100-1",
+        "roadAddress": "서울특별시 중구 을지로 42",
+        "abbrAddress": "을지로1가 100-1",
+        "shortAddress": [
+          "서울 중구",
+          "을지로 42"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 을지로1가 100-1",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDhfMTg1/MDAxNzU0NjQ1MjQzNzQy.YXXuqhK6JK0QV6FjhUl4o96dtJlRNH3wOOCWt88K0K0g.nVxRzQGMpCtRN5tHUaTxem1RtDocasIW7uUDge8EQMsg.JPEG/20250808_182425.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221161",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.35",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 4,
+        "id": "1177150418",
+        "name": "브레댄코 을지로입구역점",
+        "x": "126.9823767",
+        "y": "37.566051",
+        "distance": 0.035,
+        "categoryName": "베이커리",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220564",
+            "230859"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "베이커리"
+        ],
+        "reviewCount": 2375,
+        "averagePrice": 5000,
+        "address": "서울특별시 중구 을지로1가 100-1 202-116호",
+        "roadAddress": "서울특별시 중구 을지로 42",
+        "abbrAddress": "을지로1가 100-1 202-116호",
+        "shortAddress": [
+          "서울 중구",
+          "을지로 42"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "건강한 빵, 브레댄코 을지로입구역점입니다. 을지로입구역에서 내리시면 맛있는 빵과 커피를 드실수 있습니다. 샌드위치 .토스트. 머핀. 크로와상 .밤식빵. 블루베리쿠키. 핫치킨치아바타. 토 ",
+        "description": "건강한 빵, 브레댄코 을지로입구역점입니다. 을지로입구역에서 내리시면 맛있는 빵과 커피를 드실수 있습니다. 샌드위치 .토스트. 머핀. 크로와상 .밤식빵. 블루베리쿠키. 핫치킨치아바타. 토 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDFfNjcg/MDAxNzU5MjUwMzgyMDk0.HSnY_eGS_NvyYJypkP8shZCcGKhbAvxiWz9i1NlZYEsg.dnQCaGGffEJbUR-7J5a0bfegAjZ-tdZgfbU_xCVS2xQg.JPEG/5ED33E76-D27B-4706-A2A5-6ACB406E7E4A.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjVfMTM4/MDAxNzU4Nzg4Njg5Mjk5.YS5A981Qo2M8Hq1XIF21eLcZDaBoSzt3Qjomdw4X4qgg.E5G0iCeiuq9zxpQFiIHuP8ariRlcO6Dd5qpyIxUfHsIg.JPEG/81602F30-45F6-404B-A2A8-38059F53D675.jpeg",
+          "https://ldb-phinf.pstatic.net/20250930_5/1759219020508DsGIH_JPEG/250918_%B0%ED%B7%CE%C4%C9_%C0%A5%BD%E6%B3%D7%C0%CF_810-810px.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjdfMTM1/MDAxNzQ1NzE2MjE3NDA0.1SXOqHpZnp3Dj4rYuSpizevNT30Zs7s-5lFqUij0kuog.d-0-2WtDsSi1gRc8Dy8udmy6Br65VCp9zwnr3MPisfkg.JPEG/20250427_100752.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250930_291/1759219015628dnxm1_PNG/%B4%D9%BF%EE%B7%CE%B5%E5.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjhfMjAx/MDAxNzU5MDM3MjQwMDAx.U6Udz-5p2Y-I94LOIa0mtlcFNk01m83jQTSHZJrPiysg.LqJY9CFwdJD1NfOsgsqOaES5v6G5NIsm93PBhw4oIXMg.JPEG/C4A0B07F-B40E-4658-B508-FF5D5573C76E.jpeg",
+          "https://ldb-phinf.pstatic.net/20250925_167/1758787685325FuOnK_PNG/250925_%C4%A1%C1%EE%B4%CF%C1%A6%C1%D6%B0%A8%B1%D6_%BD%E6%B3%D7%C0%CF.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTRfMjEg/MDAxNzUyNDk0MjU1NTg3.CCGNWG4g955cpcp_SROtKP0o5kMIXUkEWMURIfzWrO4g.JfpcdXIHMfCgC-ViRYzG4CuUpbOHrpJk4xRSHaHxkpgg.JPEG/E347EBC7-495F-455F-9106-CD8E92A579B3.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjdfMTc3/MDAxNzU4OTcxMjc2ODgz.yiuMQi6tt54dnKsXYc9txqBXhrUVA23VD0ySm4a4vcYg.OKDMLaOw7U5oMNsYDkOdYZ3I2ojPe_CS0BcBRthrb3Qg.JPEG/Screenshot_20250927_200747_Samsung_Internet.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjBfOTIg/MDAxNzUwNDE1MjMwNjM1.tvvZwQ8LVqCxdPRW9cwSF6912HYZQpELX7jcHHxHcZQg.JqkLkw1_wrdEyJjWqIAMw0IFm8kcvi3tPgNNMzxsDVQg.JPEG/20250620_180221.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "230859",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1177150418",
+            "bodySummary": "사람없는 틈을 타 찍어본 매장사진 빵은 종류별로 진열되어있고, 커피주문은 계산대에서 하고 바로 옆에서 받으시면되용 제가 젤 좋아하는 소세지트리 2700원 골라서 계산대로 가구여 다",
+            "url": "https://m.blog.naver.com/daramgy2008/223341916712",
+            "nick": "다라미",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20210426_14/daramgy2008_1619410464574WmacU_JPEG/KakaoTalk_20190614_131347358_02.jpg"
+          },
+          {
+            "sid": "1177150418",
+            "bodySummary": "을지로 빵맛집 카페 추천 브레댄코 을지로입구역점 을지로입구역 근처에 볼일이 있어서 다녀왔다가 발견한 빵 맛집 브레댄코! 몰랐었는데 신라명과의 자회사라고 한다. 역시 대기업 빵집은 ",
+            "url": "https://m.blog.naver.com/eunya__a/223269423864",
+            "nick": "으니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMThfMjc3/MDAxNzAwMjYyMjQ0OTc1.dTV85CrRo84r_ys50XR5XKnVd053x8XXkJRF9x_euZ8g.Y2yiuC4kt8JWgPKLMzeG9fCDkcWQyJOjH7VjH_X6ircg.PNG.jjnjjn1004/profileImage.png"
+          },
+          {
+            "sid": "1177150418",
+            "bodySummary": "오늘은 을지로 빵집! 브레댄코를 포스팅할거예요 을지로입구역은 명동역 시청 가는 길이라서 역사내에도 엄청 커요! 안에 편의점 악세서리 매장도 있고 빵집도 있어요! 브래덴코도 내돈내산",
+            "url": "https://m.blog.naver.com/thewintersea_/223215894250",
+            "nick": "새벽의 별",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDA5MTZfMjI3/MDAxNjAwMjQ4MjIzNTQz.pGFSLPIngMp4MLnCAPuCAciIEOIqhTWsvSXetC29aAsg.YCMTwtoRUxd4_SmlBT2tf34X4p_vqLTC-aEfQywAGVsg.JPEG.thekajrwk/%25EB%258B%25A4%25EC%259A%25B4%25EB%25A1%259C%25EB%2593%259C.jpg"
+          },
+          {
+            "sid": "1177150418",
+            "bodySummary": "출근길 지하철 역안에 있는 빵집 냄새를 그냥 지나치는 게 고역이었는데, 오늘 아침에는 조금 더 일찍 도착해 빵을 구매했다. 후다닥 빵과 커피를 사가는 현대인들 속에서 난 꽤나 신중",
+            "url": "https://m.blog.naver.com/jmtgr77/222627198147",
+            "nick": "푸린",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAxMTZfNCAg/MDAxNjQyMzM4Nzc3NDM4.4i1Bv8of2gECNu900YLw_WRYuu3FfSQRjh-sflGaa5Ag.CaJ_eA9-loOsCyPufEF77OZVc4XjbruYl1QsZdpvaeog.PNG.jmtgr77/profileImage.png"
+          },
+          {
+            "sid": "1177150418",
+            "bodySummary": "빵이다. 신메뉴가 나왔나... 브래덴코 을지로입구역점, 누나네 빵가게다. 블로그 광고쟁이들한테 부탁했으면 됐지, 굳이 영향력 없는 내 블로그에까지 올리라고 ㅡ,.ㅡ;; 하지만, 누",
+            "url": "https://m.blog.naver.com/letme_alone/221744264520",
+            "nick": "이두콩",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTEyMjZfMjU4/MDAxNTc3MjkxMTIxNzg5.Rp2PKAJsHd_CNvm8oSIGGt2RAd_OeexUDWMebkd02-kg.OVdNhkO05neeiUbBfxyb7ivsUg-XD_u5BFj99Ym6z2gg.JPEG.letme_alone/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "id": "1082284615",
+        "name": "커피빈 하나은행본관로비점",
+        "x": "126.9818658",
+        "y": "37.5664918",
+        "distance": 0.05,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221327"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 19,
+        "averagePrice": 6000,
+        "address": "서울특별시 중구 을지로1가 101-1 하나은행본점 1층",
+        "roadAddress": "서울특별시 중구 을지로 35",
+        "abbrAddress": "을지로1가 101-1 하나은행본점 1층",
+        "shortAddress": [
+          "서울 중구",
+          "을지로 35"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 을지로1가 101-1 하나은행본점 1층",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20251021_9/1760995560038ilThH_JPEG/%B7%CE%B0%ED_%B3%D7%C0%CC%B9%F6_%B4%EB%C7%A5_%B7%CE%B0%ED_%C0%CC%B9%CC%C1%F6-02.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221327",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 6,
+        "id": "11825032",
+        "name": "롯데리아 소공2호점",
+        "x": "126.9821087",
+        "y": "37.5658028",
+        "distance": 0.03,
+        "categoryName": "햄버거",
+        "categoryPath": [
+          [
+            "220036",
+            "220044",
+            "220138",
+            "222365"
+          ]
+        ],
+        "category": [
+          "양식",
+          "햄버거"
+        ],
+        "reviewCount": 9069,
+        "averagePrice": 7000,
+        "address": "서울특별시 중구 소공동 1 을지로입구역7,8번출구방면(롯데백화점 들어가서 우측)",
+        "roadAddress": "서울특별시 중구 을지로 30",
+        "abbrAddress": "소공동 1 을지로입구역7,8번출구방면(롯데백화점 들어가서 우측)",
+        "shortAddress": [
+          "서울 중구",
+          "을지로 30"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "*을지로입구역 7,8번 출구로 내려 오신 뒤 롯데백화점 출입 후 우측에 있습니다.",
+        "description": "*을지로입구역 7,8번 출구로 내려 오신 뒤 롯데백화점 출입 후 우측에 있습니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjVfMTcz/MDAxNzU2MTA3OTg3MDY0.VBarlDf_9pL8qz3u-rPylAdZIv2-i7vnS6EwqshIb-wg.9MB6UvkqyjVVAkCuQd-FawJmFz1rE8Lzae1ryZ6ZaFMg.JPEG/537F6EAC-D14A-4AC7-AD87-6F82BC56E180.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTlfMjIy/MDAxNzYwODQ0NTk1NzI1.iO6v-la0Dx1x5_CD35YBwrvW7IYuXeccLpfN7xLKeTQg.jEHp7kzoQAVGBLuumfYU0oqpLCFVDHf3DWOy-k8bZgsg.JPEG/7DC0E1E8-CE80-4708-9E6E-39E0B395C44D.jpeg",
+          "https://ldb-phinf.pstatic.net/20240923_185/1727052511572Vxuh6_JPEG/1.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDlfMjY1/MDAxNzQ2NzY3MzI1OTQx.EbAdzzyuMezwM5hwuPK33lcZgaCfkMd1kuzvO22kfa4g.1GCZNYLqxL1c5gzv8in2V1JbkLFwqtHEu3mVpCYCoP0g.JPEG/20250507_112501.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240923_27/17270525114906lSCR_JPEG/2_%B8%AE%BE%C6_%BA%D2%B0%ED%B1%E2.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjJfNzQg/MDAxNzUzMTg2MzQ0NDcw.dSB8EmcjHYjF4xxvpPZvGb7s6Uk-aCL4nN62WwomYvwg.3Gdvs1OFuTVg_looWRsRq7hiUXLGsLpDZSLHB6qHqAAg.JPEG/20250721_134712.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240923_187/1727052511483mf07o_JPEG/3_%C7%D1%BF%EC%BA%D2%B0%ED%B1%E2.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjFfMjg2/MDAxNzU1NzUyODc4ODM1.5dF_Hkxzdj6ZzLM71hk43NkpVpji1Z_Zvsq5uD-6yiQg.saJKipgNOxCaKgaN7iTGSu8WoXa2OgadvfFBrW3QYEMg.JPEG/20250821_135010.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTZfNjQg/MDAxNzUwMDY2MTY5NDM1._EPY8NSrLd76-wQOWMUkibe4oDl_gdXOno63ptFSCHYg.08zpGpUAou9-0TdeBBat5UwmQycsF6Y-jrWAhFb-pQUg.JPEG/SE-2fbc275e-64b9-48b0-80cd-d074e047bc9b.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDJfMTE4/MDAxNzQ2MTgwOTA5Nzg2.sr6JXropnt0odYdCMopxbFB5m3OH7IJZiUpdzWNPcLog.-YgR8KJRF0gQQqARMvGese73z_ZVLqEQ-fCda7SxsA4g.JPEG/20250502_190050.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "222365",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.38",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "11825032",
+            "bodySummary": "그리고 가~장 좋았던 건 바로 친절한 직원들의 태도였지. 주문을 넣고, 픽업을 할 때 항상 미소 넘치는 얼굴로 설명해주는 직원들 모습이 기억에 남을 정도였어. 메뉴는 다양한데, 이",
+            "url": "https://m.blog.naver.com/b8lmscmt295/223348729659",
+            "nick": "장향미",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMDZfMjMz/MDAxNjk5MjM5NzUyMzA1.9fmfO5AYpHPtENz1G05KI2iuyteXtK4gFWPOpAjHN6Ig.XSAs8XF3UzPpidlZd7zii-VQoBF5kN03x06w9asXAeQg.PNG.b8lmscmt/1691540496.3239844.png/1691540496.3239844.png"
+          },
+          {
+            "sid": "11825032",
+            "bodySummary": "그냥 롯데리아에서 점심이나 때우자 하고 들어왔는데 거꾸로 매단 트리가 눈길을 사로잡는다 신세계가 연말만 되면 화려하게 장식하는 것에 자극 받았는지 요즘 외관에도 애를 쓰던데 이건 ",
+            "url": "https://m.blog.naver.com/jawoonine/223263849578",
+            "nick": "패피티",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAxMTFfMjkg/MDAxNjczNDA4NzQ1ODAx.sknkRkfkxb5Pl9Pf4GGcqE5GwVRJMRBlnLjLvy0siWAg.KoJK40kXZgtf45e6U_4ExwvxvFhlEeeuKqQMMjQScckg.PNG.jawoons/profileImage.png"
+          },
+          {
+            "sid": "11825032",
+            "bodySummary": "이 요리를 먹으면서 가까운 제주나 바다 근처까지 가지 않아도 제주의 맛을 느낄 수 있었어요.집에서 자주 만들어 먹기 좋은 요리 중 하나였습니다. 저녁에는 술안주 레시피로 진미채 튀",
+            "url": "https://m.blog.naver.com/skyblue1225_/223231386677",
+            "nick": "별이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA5MjNfMTIw/MDAxNjk1NDIxNzI2ODMw.L_rr3qYUTrGB4INZYMD-XBmgyFBFTaLFBvffNXaVNlYg.N2ume5_5WbrTLYNEiKis5k3UV-maT5g-O-q5yJLVo-wg.JPEG.maybe0941/profileImage.jpg"
+          },
+          {
+            "sid": "11825032",
+            "bodySummary": "메뉴 가격 매장 내부 대한민국 롯데리아에서 제일 오래된 매장 서울특별시 중구 소공동 롯데백화점 본점 지하에 위치한 롯데리아 소공2호점을 다녀왔습니다 서울 중구 롯데백화점 본점 지하",
+            "url": "https://m.blog.naver.com/vkfvkf2121/223226610095",
+            "nick": "이일아빠",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMTRfODgg/MDAxNjk5OTI4Mjg5NTY2.u4ZQPwWE85O2QdNnxtPelsZzVfmf2QEqxif7ofN_oEAg.-Ob6kZ83KPm9ogWW0OP64a4Jl0FU3sbke80RV9s_Qb0g.JPEG.h-endplus/%25ED%2594%2584%25EB%25A1%259C%25ED%2595%2584.JPG/%25ED%2594%2584%25EB%25A1%259C%25ED%2595%2584.JPG"
+          },
+          {
+            "sid": "11825032",
+            "bodySummary": "근데 점심시간이라 사람 많아서 그런가 좀 오래 걸렸움. 주문번호가 106번이라서 우우 한 명만 우리 앞에 있었으면 내 생일이었는데, 따위의 생각을 하고 있었음.먹고 나서 소프트콘 ",
+            "url": "https://m.blog.naver.com/jcj0107/223222403748",
+            "nick": "영",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMjJfOTUg/MDAxNzAwNjM3NDgyODgw.uoIyAwnZ5eMFjC36E4h9Jiu9fR-ufEGpd3OAgsLXHZgg.F4kLg2q1Pmq2gkB9_EPuvUokcAaPz7zzOeon8P2XBdkg.PNG.jcj0107/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "id": "1662584856",
+        "name": "커피빈 하나은행을지로본점",
+        "x": "126.9818658",
+        "y": "37.5664918",
+        "distance": 0.05,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221327"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 562,
+        "averagePrice": 5000,
+        "address": "서울특별시 중구 을지로1가 101-1 하나은행 을지로본점 24F 스마트워크센터",
+        "roadAddress": "서울특별시 중구 을지로 35",
+        "abbrAddress": "을지로1가 101-1 하나은행 을지로본점 24F 스마트워크센터",
+        "shortAddress": [
+          "서울 중구",
+          "을지로 35"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "커피빈 하나은행을지로본점은 건물 내 24층 입점 매장으로, 하나은행 본점 직원외 이용이 불가능합니다.",
+        "description": "커피빈 하나은행을지로본점은 건물 내 24층 입점 매장으로, 하나은행 본점 직원외 이용이 불가능합니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTdfMjY2/MDAxNzYwNjgxNDY3OTcy.oI8_DZSMbpl_NqCGmoDd-5wDAg-gnebcTmLaaoTOjUsg.iX4wiF5Q7elliY2muzBAmD3r1CvMRq9rIodZiaUzZVcg.JPEG/7972FC6C-F68E-4FB1-9343-3C8E542C4619.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDJfNzAg/MDAxNzU5Mzc4NjU2NTg2.sKhnO7y3zOERzCS0oagYMtkh0BCqgh6WRi-U1Ux3O_kg.PcPRSQEDOzEvhQN8OFbJWR8VOjT9Q-At8lSsPRscAMAg.JPEG/77E4AE0E-916A-4BB5-A855-80458748E590.jpeg",
+          "https://ldb-phinf.pstatic.net/20251023_294/1761186864899taz2D_JPEG/%B7%CE%B0%ED_%B3%D7%C0%CC%B9%F6_%B4%EB%C7%A5_%B7%CE%B0%ED_%C0%CC%B9%CC%C1%F6-02.jpg",
+          "https://ldb-phinf.pstatic.net/20201117_200/1605602314470rxkdK_JPEG/YpEgjDB1LyLDXTh-54MiBiAj.jpg",
+          "https://ldb-phinf.pstatic.net/20201117_41/1605602323106dhqqQ_JPEG/oAVDY-HnDDeWATumuBAwSwvf.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221327",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

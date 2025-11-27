@@ -1,0 +1,100 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 1,
+      "count": 1,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.98822916351367,
+          "minY": 37.558391891891894,
+          "maxX": 126.9893657372374,
+          "maxY": 37.559292792792796
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.98879745037553;37.558842342342345",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1428739187",
+        "name": "푸디스트",
+        "x": "126.9890139",
+        "y": "37.5589228",
+        "distance": 0.021,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 250,
+        "averagePrice": 0,
+        "address": "서울특별시 중구 예장동 6-7",
+        "roadAddress": "서울특별시 중구 퇴계로26길 52",
+        "abbrAddress": "예장동 6-7",
+        "shortAddress": [
+          "서울 중구",
+          "퇴계로26길 52"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [
+          "저렴한 가격으로 즐기는 푸짐한 한상"
+        ],
+        "cardDescription": "저렴한 가격으로 즐기는 푸짐한 한상",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDRfMTc5/MDAxNzUxNjIzODY0MjQ4.iwT8AqgRJVD8fukydckp5uyBk_a1AIqTyIeXtEFVYLIg.5pbWCvefi4NBNfVsrq5zKCKJ36zpWrf3kzStgYy9Cu0g.JPEG/20250703_120539.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTVfMTI1/MDAxNzYwNTE3MDkwNTM0.38aukd6p0njqucyrSG0HPnqZ6n0bYAus5TNbv9f3cxkg.109LNgD_nAVTkSppc6ezzj_-GV3dETVa8LJQQ27yqW8g.JPEG/20251014_123427.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjZfMjE4/MDAxNzU4ODcxOTEzODM2.RWXyAIW7JGtiWJK4NjCWNI7jc8ro006OJVXd8by4Vzgg.e4H-UIFhVoZv88WuxI1gXiwZYHd-lAK032HiuKVNSwkg.JPEG/20250926_105724.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjFfMTQx/MDAxNzU1Nzc3MjM4MTEw.YKToBIbiQvLdGnZfN2mJUahQwwws8SejCRINN03HnO4g.YURBFa8ydVk-FXxATzKBFDgEDenaMAhWz3Zd1G2R0Rog.JPEG/45E62F91-3720-47D4-A6F7-EAD99EF900E1.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MDdfNDIg/MDAxNzQ0MDE2OTk1NDA1.JOWeXZbT7zd0jlQ1uK9JShSRXOz8YcsOr2Tv_f9d_gwg.-LQbfnskKvXVss-9-YB0-DskAFWbJZvBdMvxbm5aPqIg.JPEG/F462CC1F-3FE8-4458-B2DB-A059F5851C16.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDlfMiAg/MDAxNzQ5NDY1MzYyODE4.CpBbu_L8PKDUGzbKRznMU4A01OVZo7q4hEhKPrxLUtcg.g_KAlOgjltw1BQlQNdGv47hhOzwCobKHVHo4QZo5X8Ig.JPEG/1A7694A8-637A-4A39-B397-152127EBC835.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTVfOTcg/MDAxNzUyNTc1NzcyMzAx.FJTYu1u4W74_QfMYNXWmQeorSLvk456WQt2J8ZaV2Ywg.sjACBJ7djpwrZLdS_HlfLlbLyqC_W8awCwb5iQbcIKwg.JPEG/20250715_111038.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjFfMTMz/MDAxNzQ3ODI0OTQ0NzU2.ufkBBhdw7QJwlPtGBZFq1o9l-CtE3tMkCiML_q06670g.mmFQeBlMXughDIFR0Se5-MUwKNmParcIMaphh1U1I_Ug.JPEG/D5B6A1E6-20C2-4A71-9860-F4869CC007E2.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MThfMTM4/MDAxNzUyODEyNzc1MjQ0.uJF_a45untGOjjQw91hEF8hQTbhyc2IyaDsDNQjbElAg.gd4ZzDMFa_NIdOeOgBInPttctCRFvHU0qII2WXb1HvEg.JPEG/37F3E93D-FD71-4BD9-B492-D0A3FFE482FC.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjhfMTQ5/MDAxNzU5MDMyNTgzNjI2.u6mjZ0HBjrWKn8owvYif0rwZETS-s7fs5VhWoCVVceUg.IKlAoG8kX3SAaMv0AqzCz8HzQMzMJlGCDMjGqShip1gg.JPEG/Screenshot_20250922_222233_TikTok.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

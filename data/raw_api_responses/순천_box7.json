@@ -1,0 +1,2073 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 27,
+      "count": 27,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 127.49329566216215,
+          "minY": 34.945995495495495,
+          "maxX": 127.49879132432432,
+          "maxY": 34.9505
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "127.49604349324323;34.94824774774774",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1680896569",
+        "name": "SAMO COFFEE",
+        "x": "127.4980139",
+        "y": "34.9471069",
+        "distance": 0.22,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 650,
+        "averagePrice": 5000,
+        "address": "전라남도 순천시 조곡동 151-45 세이모 커피",
+        "roadAddress": "전라남도 순천시 역전2길 14",
+        "abbrAddress": "조곡동 151-45 세이모 커피",
+        "shortAddress": [
+          "전남 순천시",
+          "역전2길 14"
+        ],
+        "displayContext": [],
+        "labelTheme": "드립 커피",
+        "microReviews": [
+          "부드러운 밤치즈케이크와 커피의 만남"
+        ],
+        "cardDescription": "부드러운 밤치즈케이크와 커피의 만남",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMThfMTAz/MDAxNzYzNDEyNTE0MTQ3.rb4p63mrlusuB4NxWK6XtMi0TFFmlQdb6FeB8hppA1Eg.vexUDi_xvTWHM94XL2xwmWit0v0Pd4-NQPGanqjf0Xcg.JPEG/4E2E3D73-A257-4983-9F7E-C33907783859.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDdfMTg5/MDAxNzU5ODMwMjI5NTAw.RSkgI9rYJdXULGsu_QZplHEzy2d3q7SKbbff_BxhLjIg.k4peLd7WgbuswGUEY5tQvvMd60evmyQnDCYKgzAWJ0Qg.JPEG/BA5F9ACB-5E7C-47DD-AB61-E67BC6374B1D.jpeg",
+          "https://ldb-phinf.pstatic.net/20241001_25/1727786685576MxVAx_JPEG/8D66BCEE-943A-4EFC-9B9A-E7099DB25098.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDdfMTQg/MDAxNzU5ODM4MTg3OTYz.dLjnXXnFAhdvGMe9X4WuGyAE1fYeCIBpi0FTRouNA0Yg.XQI4TT_lrG1wYIFFEp_3Wd100CZ0M9NTOXf7eum3dSIg.JPEG/645DB68D-4179-4973-9BE3-F60D7CB33E24.jpeg",
+          "https://ldb-phinf.pstatic.net/20250511_27/17469645257121cjDT_JPEG/IMG_8902.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTJfNiAg/MDAxNzYwMjQ2MjM0NDQ1.DnVcjmI1F19wfBkEDt6OQVWJjXA3QlsyAi5pbW8yTaMg.0QlXn29ENKgOQjs_f7aAZqgJyPFiyDfuV6njylAuxOcg.JPEG/20251010_104706.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250511_161/1746964552079PKH1q_JPEG/IMG_6666.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDJfMSAg/MDAxNzQ2MTg4MTc3NjI3.5GAf3oi2sVT9Fw11yBjDKnvyCkWy6fynEU3prpyyreog.0fsrgjDmAt-tZNlzB2ySJAZXMJuU-n0eliYG-5vtaxgg.JPEG/20250502_143203.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTZfMjI1/MDAxNzU1Mjk2MzcwMzg5.yvSKFFhCKAOKkQ-AVi5c1CUvVJq0QZdX1LNumRgQRckg.4fAN74IQ5Ox5EOvyD4tcLvmFNeB72Fm3Zfcrab7o-fwg.JPEG/253DB4DC-6813-4D50-810C-A13E7C9C3F1C.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjNfNjMg/MDAxNzYxMTc3NTAwNTQz._oQM3o6ybF8OQ4ngq11D1LPEDUsFVcGqUInqldLip1Mg.n6Ux3h9U9j5SiIQwMpQR1Um7fO7_kkbsT7qr8fCWkvgg.JPEG/D8C950AE-AD8D-4778-B264-77C96783E7A3.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.91",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "1680896569",
+            "bodySummary": "평일 낮이었는데도 손님들이 꽤 오던 순천역 카페 세이모커피 커피 좋아하는 제 지인들 사이에서 커피가 맛있기로 유명하다고 하더라고요. 사장님도 너무 친절하셨던 세이모커피 한쪽에는 이",
+            "url": "https://m.blog.naver.com/2_sso/223356299304",
+            "nick": "리쏘",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTEyMDRfMjMw/MDAxNjM4NTk2MTYzNjMw.pHqax5GkzJcv3G1wbQYtZl0sHXlTWD9j7QqBdcLo3Acg.UO5rmXxGuWOwrDaBabYih7r3Jn_dymYqiD_IK6qG9vog.PNG.2_sso/profileImage.png"
+          },
+          {
+            "sid": "1680896569",
+            "bodySummary": "#순천카페추천 #순천사모커피 #SAMOCOFFEE 12월인가 트리보니 생각났다 내부가 깔끔하고 좋다 화장실 가는 길 큰 거울 #사모커피디저트 #순천드립백 #순천핸드드립 여기 드립커",
+            "url": "https://m.blog.naver.com/ksl7857/223343118222",
+            "nick": "뜽리",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA2MjlfMiAg/MDAxNjg4MDQwMjA0MjEz.gA_PVvubuX8UjiIXyBIUbldOR4h5Fp8KgOeabbstx3Ag.xetCZRi1JIK-AcW47WjepTx2O5FyI3RQNAHCeBBxuewg.PNG.ksl7857/profileImage.png"
+          },
+          {
+            "sid": "1680896569",
+            "bodySummary": "블루베리 , 딸기 , 얼그레이 조각 케이크들도 판매하고 있었고 세이모 상자에 조각케이크 테이크 아웃도 가능한가보다 원두의 종류가 다양해서 입맛에 맞게 선택이 가능했기에 좋았당 크리",
+            "url": "https://m.blog.naver.com/sora_112/223275975753",
+            "nick": "mozzi hongsi",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA4MzFfMTcx/MDAxNjkzNDgyNDMyMTE3.RZbPu3gVvP2L_-TjH4Ym6HSuKJ9ue4tIbklMyfFMaJog.i_NHvyAWUtHgAgDfXnkUvuN56gFRbzk6CBLCrvUwVpog.PNG.usop3278/profileImage.png"
+          },
+          {
+            "sid": "1680896569",
+            "bodySummary": "주소 : 전남 순천시 역전2길 14 세이모 커피 영업시간 : 평일 11:00 ~ 21:30 토 : 10:00 ~ 22:00 일 : 10:00 ~ 21:30 정기휴무 : 매주 수요일",
+            "url": "https://m.blog.naver.com/eh_storage/223266911690",
+            "nick": "글쓴이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA3MDVfMTkz/MDAxNjg4NTQ0NTY1OTA2.DuUENZizoFajqNaTQ2S2Ot8inII_GvmAjePnv3jTQu4g.5biCdfGUeK-fxlbYGmqSbUVnKzubPDXQvUiYgPNDwtIg.JPEG.toy3987/profileImage.jpg"
+          },
+          {
+            "sid": "1680896569",
+            "bodySummary": "주변에 아무것도 없을것 같은데 이런 구석진곳에 이런 감성카페라니 samo coffee 매주수요일휴무 월화목금 11:00 - 21:30 일 10:00 - 21:30 토 10:00 -",
+            "url": "https://m.blog.naver.com/snowy_sally/223241040144",
+            "nick": "allmyday",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAzMTJfOTgg/MDAxNjc4NjA1MTMzMDYy.t_FgxxY6CRPuw54Vs5Lb1o2y6gv6FSA6YkOqhSjK4UQg.mj60mQqPZaPlZtTUvzI5tBZcVEbsZUEgGcMi_MeuH8Yg.JPEG.allornone92/B1492271-4668-49E8-A603-5733409A9BBD.jpeg/B1492271-4668-49E8-A603-5733409A9BBD.jpeg"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "id": "1309723187",
+        "name": "에커커피",
+        "x": "127.4984252",
+        "y": "34.9461476",
+        "distance": 0.319,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 287,
+        "averagePrice": 5000,
+        "address": "전라남도 순천시 조곡동 153-15 1층",
+        "roadAddress": "전라남도 순천시 팔마로 91",
+        "abbrAddress": "조곡동 153-15 1층",
+        "shortAddress": [
+          "전남 순천시",
+          "팔마로 91"
+        ],
+        "displayContext": [],
+        "labelTheme": "드립 커피",
+        "microReviews": [
+          "향미가 살아있는 정성 가득 드립커피"
+        ],
+        "cardDescription": "향미가 살아있는 정성 가득 드립커피",
+        "description": "에커커피 ecke coffee  ecke(에커): 모퉁이, 코너 Specialty coffee, Small indulgence.  일상에 작은 사치를 선물 하세요.  수상 이력 2019 IGCA 광저우 에스프레소 부분 은상 2021 마스터오브카페 개인부분 장려상 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjRfMzQg/MDAxNzQ4MDU1MjAxNTc1.HOA6xJYXOR3EisF1wmufF6M7qA5Yd8JFejZ5F9NzfiQg.bWbySc6qP0QlUF-_AUZkp1IanT4aIQOtBR4lee5nqWYg.JPEG/DB0BF9C4-4034-416E-B026-7D25E859BF1A.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjFfMzIg/MDAxNzUwNDk5NTY2MDc5.Dco9YfDvjdJmYwptL3c6lwmeQs4ynyeVAFuXwskzwcwg.qD500UGEmg3_3wdvwKhbrodOI6YLQDXz2YdwEg8EgJ8g.JPEG/E86F7C6E-089F-4A3C-88B9-6608615E4523.jpeg",
+          "https://ldb-phinf.pstatic.net/20250325_30/1742912489888p3lwF_PNG/113._%BF%A1%C4%BF%C4%BF%C7%C7.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTJfMjE5/MDAxNzYwMjU1MzE2MDE1.9L-bYAW7V5wjy6HrNBpDc808-Y8fk_EfpDETRi28jRYg.cZwQI2dgrecXwghYb-bUktpTrjw9Gj0zIBkrNv7C720g.JPEG/A8A0FD49-8B10-485F-9F3B-3F9030DB8927.jpeg",
+          "https://ldb-phinf.pstatic.net/20220305_168/1646459383049QVNpW_JPEG/DSC_1119.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjhfMjk4/MDAxNzUxMDc2NDI0NDAx.h4lZtx80QC1JCRtuXL340EKDWJ9q207z5ZehIEvzTJ8g.ksq8LAEoLW6YVGj4x5XXWvl8mRq8QwYjw162t7efDiog.JPEG/15FAE39F-E1E1-40CC-B5BB-BAB8DED10C81.jpeg",
+          "https://ldb-phinf.pstatic.net/20220912_116/16629885607203acmt_PNG/003.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MThfMTkz/MDAxNzQ3NTMyNjE4OTcw.oeUMVYrD5_7K85VwueVPFmwTC3w9jfQNqBqy1v6KC-4g.NSGZVFvzm8gbCWJXSIjS6nzoDicEqs6Q0XDc4JadzuIg.JPEG/612A97D1-7643-4C06-91DD-3A9AC975E2AF.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjJfMjQx/MDAxNzUwNTkzNTk4NDM4.sBL8CT0Bz4JOo8Irrh4bjQQQb1uJbgb5nGS92DBvRj8g.ptTw4zD0s7pOOvX4OXwmkL-_KuNcgXWiMJjBNCVs17sg.JPEG/20250622_145919.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDZfMjMx/MDAxNzUxNzg1NzUzNDQ4.AyZbGRjCAjAW-neYIr08OEP_CGbg3q9Jjtb7DVqK0Vkg.09fSa9XvLRx2TCX-3f30TQBi5u4Tuc0Qkfi9_0Utrvkg.JPEG/9D3DF2C6-3575-4723-A164-D4A12ABEC067.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1309723187",
+            "bodySummary": "완전 대 만족 조만간 순천 놀러갈 예정인데 꼭 다시 한번 가고 싶다 순천역에서 아랫장 방향으로 가는 길에 있는... 순천 동강 다리 입구에 위치해있다 버스로 종종 지나갔던 곳이라 ",
+            "url": "https://m.blog.naver.com/postcard-/223399599569",
+            "nick": "레이스",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAyMjdfMjM2/MDAxNjc3NDc2MTg0ODEz.QaUtJGDHGLeROVN_KwTmiC9pRyNHJz-yWZdgD03kERAg.fNIeLoJz4YJDywKLjAOgjOy7WPBNb6RMacv0vSlTEbUg.JPEG.coco_8811/20230131_140448.jpg/20230131_140448.jpg"
+          },
+          {
+            "sid": "1309723187",
+            "bodySummary": "에커 = 모퉁이 라는 뜻으로 정말 모퉁이에 위치해 있는 카페였어요.. 저희가 순천에 일이 있어서 왔다가 급하게 구글맵켜서 찾은 카페에요 - 평점 만 믿고 직진했어요 ,, 하루에 한",
+            "url": "https://m.blog.naver.com/dakyoss/223355295927",
+            "nick": "듕듕",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA4MTdfMTUz/MDAxNjYwNjY1NDUwODEw.fiVKWsO_h9R2Qb7G7F71AkrmBYWGhC20cr3VkscK6E8g.DFuaYTpat9rNK4I5E4Qaf1uUAacUXjEK1RTpzOshi50g.PNG.dmswjdckdals/profileImage.png"
+          },
+          {
+            "sid": "1309723187",
+            "bodySummary": "수상 이력 - 2019 IGCA 광저우 에스프레소 부분 은상 - 2021 마스터오브 카페 개인부분 장려상 - 2021 스트롱홀드 로스팅 챔피언쉽 본선 진출 - 2021 알마씨엘로 ",
+            "url": "https://m.blog.naver.com/wonah03/223343448263",
+            "nick": "나는야 회친자",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA5MTRfMjg4/MDAxNjYzMTQ5OTI3MTYz.jKCzgnKnUW_M0vrwAOkXVFaH1sLPnbItfPCnjIeS5Hkg.Gd-nErqSqAdBUYaASMWUXo3FHScAShgQqKEH4LsifQkg.PNG.wonah03/profileImage.png"
+          },
+          {
+            "sid": "1309723187",
+            "bodySummary": "사진 그날그날 모으고 모아 아껴둔 포스팅 시작~! 에커커피 [영업시간] *월-금 11:00 ~ 17:00 (라스트오더 16:30) *토-일 12:30 ~ 18:00 (라스트오더 1",
+            "url": "https://m.blog.naver.com/seolbbibbi/223293412204",
+            "nick": "삐삐",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMjJfMjky/MDAxNzExMDM3NDQ2Nzcx.frrNeIUvuQf7Mzlx65nhNh4tBfiTa0zPNzrZf-H7uFEg.dBZKMTfx0fJvRiBYFoJQpcOnS4nbrC6Za9tOpnI-J0sg.PNG/profileImage.png"
+          },
+          {
+            "sid": "1309723187",
+            "bodySummary": "에커커피 ; ecke coffee 위치정보 전남 순천시 팔마로 91 1층 영업시간 11:00 ~ 18:00 라스트오더 17:30 전화문의 0507-1336-3258 안녕하세요 -!",
+            "url": "https://m.blog.naver.com/huhssuu1105/223258588227",
+            "nick": "SUNI",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMDNfMTgg/MDAxNzAxNTg5MTQzMzUz.lKaeeY3gYYyv1PREUNg7YVTYkUkI3nPhYMufJ-PM7Oog.Lo65Rxd3F6RrDdr0uCTx2aJJoKwBrcYR6Izdphy0AiEg.PNG.huhssuu1105/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "id": "1630653208",
+        "name": "카네초콜릿",
+        "x": "127.4953539",
+        "y": "34.9464163",
+        "distance": 0.213,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 75,
+        "averagePrice": 14000,
+        "address": "전라남도 순천시 풍덕동 1263-7 1층",
+        "roadAddress": "전라남도 순천시 팔마로 63",
+        "abbrAddress": "풍덕동 1263-7 1층",
+        "shortAddress": [
+          "전남 순천시",
+          "팔마로 63"
+        ],
+        "displayContext": [],
+        "labelTheme": "기념일 맛집",
+        "microReviews": [
+          "향긋한 초콜릿 향이 머무는 공간"
+        ],
+        "cardDescription": "향긋한 초콜릿 향이 머무는 공간",
+        "description": "수제초콜릿가게 핸드메이드 수제로 만든 초콜릿샵. 초콜릿의 원재료인 카카오를 맛볼 수 있는 곳. 카카오빈으로 직접 만든 수제 초콜릿 가게 데일리초콜릿, 이벤트초콜릿, 선물용초콜릿 등. ( ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDVfMjQ4/MDAxNzU0Mzc2Nzk4ODk5.LhVGUvrIyldcFmWxRRSezOQM3lT0hyDe5twJD-csL3og.K7D8aqYVOU_uCxV_G37xyim78geFUNUNKeWNWHOpQAcg.JPEG/3FA1C35B-3F43-46DB-832D-252D181DEDED.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMDZfNTQg/MDAxNzYyNDI3NzYxNTU4.QYQ_Lo43NT_K8E9ouQvWDpgrs32DeMEriU7o-gjMiQ4g.gBemc4B-Yu8iYDnHEtl70xCTn_nPFtG76wT8YGEe9f4g.JPEG/5CC0D981-960B-45FF-8B82-6C287C66E1A1.jpeg",
+          "https://ldb-phinf.pstatic.net/20231022_219/16979799094694jhNS_JPEG/C527E5BD-2F0E-493C-91F7-1C1BC6D8FE5B.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDJfMjEx/MDAxNzU5MzgxNzA2Njkw.JqQk-r5UTIvLrgrH3cUpCPrZXqGJuoDpzcpwn58_lz0g.n1sY9YUSGmefegeBEB0JQrkKCH8PkaZsN7VrFAPNNHAg.JPEG/CE6BB612-2652-49A0-BAE9-6006A08CCB00.jpeg",
+          "https://ldb-phinf.pstatic.net/20231022_114/16979797698506iuwn_JPEG/85DDB03A-785F-4DBA-A342-34E8DAA75335.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MThfMTYg/MDAxNzUyODIwNDQ4MzQy.ElMFK1wkuSVeGgz9WP_csw20lLpyZGzCZBbf0rOdpKQg.ZGFTTb4teAFms2kA_djRgOYfbUapOnewSjkbnryM498g.JPEG/5EAFC11C-D57C-4173-AC70-648153BC7606.jpeg",
+          "https://ldb-phinf.pstatic.net/20231022_276/1697979909508CSoiQ_JPEG/1FEC739E-24BE-41D0-A756-D0630827149C.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjFfMjI0/MDAxNzUwNDk4MzA0MDY1.AINqbsgJvEs2Nt1jOUhBM7hwZtB8dToEmSsNRIaRjsYg.s5sGZAp3DEk4GKQSFDniqZgzf-LlrYLc2W7S96MzS7Yg.JPEG/CA702AFF-B12B-442E-90FE-ECBA4E310AA0.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTRfMjA1/MDAxNzU1MTQ4NzMzNDc5.aWrJDWqvz6u3oZaBQWDZh9pj2ExeYgyQpFrEpkQcKQsg.WvvNDCf7BXJRkHc4_dRF8mrrZ78VyXhNwwn11xCLWt8g.JPEG/21C90361-6998-435D-A56F-80A3BD4DC937.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTZfNzAg/MDAxNzUwMDU4NTE1Njg4.wsUjc8Ginf8ebmxmodVupVpPqW8QKhLOu6QppVGZyhAg.y3Ki5Z2FIeqk4CyqEjj-hAG7MiuQCk8aAux9tVL5ydIg.JPEG/20250616_161644.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 4,
+        "id": "1365293638",
+        "name": "더바스터즈",
+        "x": "127.4983627",
+        "y": "34.9464129",
+        "distance": 0.294,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 67,
+        "averagePrice": 5000,
+        "address": "전라남도 순천시 조곡동 153-25",
+        "roadAddress": "전라남도 순천시 역전2길 4",
+        "abbrAddress": "조곡동 153-25",
+        "shortAddress": [
+          "전남 순천시",
+          "역전2길 4"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "순천역에 강이 흐르는 카페입니다. 순천의 색깔을 담은 커피와 정원의 안락함을 즐겨보세요.",
+        "description": "순천역에 강이 흐르는 카페입니다. 순천의 색깔을 담은 커피와 정원의 안락함을 즐겨보세요.",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20190216_180/1550319501578Lw9WB_JPEG/aRRLztJLcW7cyQlUGNs7A_ZF.JPG.jpg",
+          "https://ldb-phinf.pstatic.net/20190216_4/1550319501336soPC5_JPEG/9iSeOruFx9NN6fBitDsKcSjp.JPG.jpg",
+          "https://ldb-phinf.pstatic.net/20190216_105/1550319500944EYTr3_JPEG/5MpGhLxK4Tq1JbtNkzEJ-hFB.JPG.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1365293638",
+            "bodySummary": "낮에는 카페 밤에는 술집인것 같은 더바스터즈에 다녀왔다. 분위기 좋은 카페라길래 다녀왔는데 생각보다 작았다. 바깥바람 쐬는걸 좋아한다면 날 좋을때 이렇게 밖에 나가서 커피 한잔 할",
+            "url": "https://m.blog.naver.com/korean_english_class/223235965214",
+            "nick": "레이쌤",
+            "profileImg": ""
+          },
+          {
+            "sid": "1365293638",
+            "bodySummary": "추석 연휴로 카페 맛집을 찾아댕기는데 제 집이 차타고 역에서 엄청 가까워서 더바스터즈카페를 방문하게 되었습니다.솔직히 입구에서는 실망했어요. 카페 겉이 노란색으로 화려한 줄 알았는",
+            "url": "https://m.blog.naver.com/nyounghoney/223227079580",
+            "nick": "녕이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA4MjRfMTI0/MDAxNjkyODY1MzYxNTE2.4EkM-Wln7_H_FoF4A-I-V2_jvDPoK2U_aENbXJG7o9cg.E-_kXpALh1qLYXEintqgpgpZKbdRcxdWBTTHzYNhkhcg.JPEG.ggnakje/KakaoTalk_20230824_172144159.jpg/KakaoTalk_20230824_172144159.jpg"
+          },
+          {
+            "sid": "1365293638",
+            "bodySummary": "순천 카페 & 펍 < 더바스터즈 > 11:00 - 24:00 0507-1312-8925 주차 가능 내가 이번 #순천 #순천여행 하면서 묵었던 #순천숙소 아래에 있던 #더바스터즈 영",
+            "url": "https://m.blog.naver.com/annau__u/223211422825",
+            "nick": "AN",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAyMTJfNDQg/MDAxNzA3NzMzMjIzMjYw.CqAXkCUj46mIhMaIAoExaMNI2O4Hx9785WkX7yasUSIg.N0kjnwg7roK1WVbPx93c8GxcD7LILngE4wf5cNnQLrgg.PNG.annau__u/profileImage.png"
+          },
+          {
+            "sid": "1365293638",
+            "bodySummary": "순천역 카페 더바스터즈 오늘 소개드릴 곳은 순천역 근처에 위치한 카페 더바스터즈입니다. 더바스터즈 전남 순천시 역전2길 4 매일 11:00~24:00 순천 카페 더바스터즈는 순천역",
+            "url": "https://m.blog.naver.com/jjonghooni/223163318324",
+            "nick": "쫑쫑",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAyMjVfMzkg/MDAxNjQ1NzkwMzUzNDQy.f_ESALZTl02--IrYvdvJLpbNAU52d8G3ic7XauhMtKog.Y9B6PgyE1T4xDZVUDF-b2WV8E6_CzHmyEgjHtuHxjEAg.JPEG.jjonghooni/profileImage.jpg"
+          },
+          {
+            "sid": "1365293638",
+            "bodySummary": "그리고 저 컵에 있는 더바스터즈 로고가 그냥 넘 멋져보였어요 순천에 숨겨진 카페를 또 하나 발견해서 너무너무 기분 좋았던 날이에요 다음엔 엄마와 맥주를 마시러 가기로 약속했답니다 ",
+            "url": "https://m.blog.naver.com/eoeo2828/222639182402",
+            "nick": "예또리",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDA2MDJfNjkg/MDAxNTkxMDMyMDM0ODAy.8OxJALpSiHhKjPWXCxSetEyHvWD1imjv8J-w765eMM8g.0J5SRcrQYrU3qpF61Pq8WIkmcdSgcepoEUxWy2p4oLUg.PNG.eoeo2828/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "id": "1216221267",
+        "name": "인솔베이커리",
+        "x": "127.4987429",
+        "y": "34.9479874",
+        "distance": 0.248,
+        "categoryName": "베이커리",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220564",
+            "221161"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "베이커리"
+        ],
+        "reviewCount": 76,
+        "averagePrice": 10000,
+        "address": "전라남도 순천시 조곡동 139-3 청춘창고 1층 15호",
+        "roadAddress": "전라남도 순천시 역전길 34",
+        "abbrAddress": "조곡동 139-3 청춘창고 1층 15호",
+        "shortAddress": [
+          "전남 순천시",
+          "역전길 34"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [
+          "휘낭시에와 마들렌의 달콤한 유혹"
+        ],
+        "cardDescription": "휘낭시에와 마들렌의 달콤한 유혹",
+        "description": "1인 베이커리 샵입니다 :) 모든 빵과 디저트는 수제로 만들어요!",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTRfMTg2/MDAxNzU1MTUyNjYxNjg0.2JgxWy4DBfRHeGK0w3ikRqvNCPz2G2dRhih_W_1kUqog.cJBT6jQXvdRwAmkLKj8JrUXj9dov8xJEYwMQth7DeQ4g.JPEG/20250814_151556.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMDFfMTc2/MDAxNzYxOTY5NDExMjA0.4FYjGi7AsRC8MwbW_GifUzTiKA4t-xNZG4DpiRPbih8g.8tJCVoTqqaeWvsr4alqMTiFp68Ej_rARe_G9oHAMdwog.JPEG/20251101_123944.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250106_65/1736139367842JVg2t_JPEG/IMG_8314.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTNfMTky/MDAxNzU3NzUwNzE1NjQ1.0A2HN7wI8zfJ1Z3wHfIbwmbxnBgmnl0uh7h_nP9I0CIg.wohxk-Igy3G3gAdTD5x5w7Q0kIzm9jwWoC0Raz-cIGgg.JPEG/907F2F4D-3E0C-4266-9CF4-ADA55E015A0D.jpeg",
+          "https://ldb-phinf.pstatic.net/20250324_195/1742793221356a92N5_JPEG/IMG_8467.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMThfMTI1/MDAxNzYwNzc1OTA0NzIz.U6D9H4BMHRDTIw2PGF3iImnEvQbeTWocliN4y2FjKEIg.nyLpExo_VpL4yfZO7kEEH5OQCHMTLGMJTgMsIoGlpVwg.JPEG/A8527FBF-05B6-41A4-AA6F-3356B97399B6.jpeg",
+          "https://ldb-phinf.pstatic.net/20250324_281/1742793266779b4Ctr_JPEG/IMG_0088.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMTZfMTk5/MDAxNzYzMjgxMzI5MjQ0.Yd3uBnWbKQIaPJtembqPO4sT3pw8kmR5Nu9D2DkCnFEg.IQFAIeoFMhTD98LR0qKpjeOcCdXJSBfJrLtgWNebfAkg.JPEG/20251116_172113.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjBfMTA2/MDAxNzUyOTk0NzgxNTgw.5ZxVjZSBCjUnfRB1mFvzCkJYDqDqh5UQJKOzZnEf7okg.X8Hk_GCFONIpWivT6DX5EmviQ2xcQ_jGwulf8qvgF08g.JPEG/IMG_1502.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MzBfMjcz/MDAxNzU5MjM0ODQ3MTcw.2H0VK_ZMNciKE9y4ub25qrcQHoRahfnOLVD6lSnEv70g.Gr9hjnSMgPqEncPK-3SreXu-VNFFloMnh8Q1RPCYCU4g.JPEG/1759234840280.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221161",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 6,
+        "id": "1564465973",
+        "name": "브루웍스",
+        "x": "127.4983931",
+        "y": "34.9472602",
+        "distance": 0.241,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221212"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 4954,
+        "averagePrice": 5000,
+        "address": "전라남도 순천시 조곡동 151-31 브루웍스",
+        "roadAddress": "전라남도 순천시 역전길 61",
+        "abbrAddress": "조곡동 151-31 브루웍스",
+        "shortAddress": [
+          "전남 순천시",
+          "역전길 61"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [
+          "산미와 고소함이 공존하는 커피 명소"
+        ],
+        "cardDescription": "산미와 고소함이 공존하는 커피 명소",
+        "description": "당신의 인생카페가 되기 위해 노력 합니다. 직접 로스팅한 대한민국에서 가장 신선한 카카오를 가공 하며 카카오로 만든 다양한 상품을 판매 하고 있습니다. 코코아 파우더가 아닌 카카오로 만",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMTFfMTMg/MDAxNzYyODQ3MjU4NjA5.ekV1a9Ptqbih3Q64zs_yTKu4S0uBhUhbCA4LJGXZW70g.xGfk6mdhFIRV4JSq4PwNLXWpE8ZBWzy6DhyUDPnaLf4g.JPEG/20251111_124820.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjJfNjMg/MDAxNzUwNTQ4Njk0NzQy.UxEPUQCM3eNC5lrITvhwoXF7OeLabgdzsJEyQYqlmMAg.IHxfQmcOhYZOVAouHRjoYXSchJQIGE8MoedQdR8T5jcg.JPEG/DFD9B4A7-11ED-4103-AACA-9AE1543DEE9E.jpeg",
+          "https://ldb-phinf.pstatic.net/20180617_97/1529208658645BQNpd_JPEG/bvJp83SNH4iX-KuOg3jrZkVC.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDVfMTkz/MDAxNzUxNzA0Mzc5MDU1.DHfKbMGmoBwhDux8lax6iNkP7I7udm-L0rtSor0pRLMg.D0qeDpqT5spv4XdgrATuwBw5c80I5EJ3W4l1iDKx_FEg.JPEG/20250705_133859.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20180617_218/152920865845756k4D_JPEG/GvpN3ldKtVRBcdtNZReRPXtp.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTVfMjgy/MDAxNzQ5OTU0MTY5Mzky.X3nRA5HZPN_G7G_M1qUkjNprj-ouddSYcE3Pu6MyzcIg._7HSg7i_gZX6evJnUlPHKWZxjUkqHF02QQF0_5fwDu8g.JPEG/20250615_102743.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20180617_194/1529208658420kv2Yz_JPEG/Il4X_5vImGGU28141_csiP4B.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMDhfMjgz/MDAxNzYyNTY4ODI5ODAx.hd5kZZp14nKM1wDX_OSxcHPdEFnouiwHpVDJAJ5Oqq4g.sWu8EWHp--TnhSyfE0HkcLi-MM6pEOZt2sK5LDJLFvog.JPEG/5E9927EE-3332-4E2E-87BC-690E19016A99.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTZfMjIg/MDAxNzUyNjQ1MzUwMjEx.jiz94WIOEzwKcmGDBua22f1J34QyuSyJx1LHRg2pA4Ug.jRUn2zGw9BoTKz4AtgXGvCYlgOJLnaIiAZgPAQGetQ4g.JPEG/1000015620.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjlfMTA1/MDAxNzUxMTU3NTMxNDQ3.dNnBKZVU3W8MYvuUzvgQZboCsa8mMGoggnthYbCNEXcg.UQL2wOPEO-lpfspKSbkzzyKeDn2nxoRmxPYce2xNU6Eg.JPEG/A65C0422-415E-41E6-980D-468B2741CD02.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221212",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1564465973",
+            "bodySummary": "처음 블로그 작성할 때만 해도 뭐 쓰지.. 뭐 하지 이러고 있었는데 지금은 오히려 블로그 덕에 여기저기 다니고, 기록하는 습관이 생겨 좋은 거 같습니다. 앞으로도 괜찮은 곳, 가보",
+            "url": "https://m.blog.naver.com/kdl2138/223393054172",
+            "nick": "류리",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMTRfMyAg/MDAxNzA1MjM3MTAyMjM4.BHqc7xkpZntkzILGfT9YJRKljhGru7N4nOVEaIk8ohAg.pFab1RJgCGobfiFRW4xXDZCca3FPu9q1cSmvNjKbpmMg.PNG.kdl2138/profileImage.png"
+          },
+          {
+            "sid": "1564465973",
+            "bodySummary": "인테리어에 신경을 많이 쓰고 있는 카페인듯하당 힙한 느낌이 가득한 카페였당 이상 끝 ~~~ #내돈내산 #브루웍스 #커피맛집 #순천맛집 #조곡동카페 #순천카페 #분위기좋은카페 #순천",
+            "url": "https://m.blog.naver.com/ksms0330/223363127576",
+            "nick": "성가리",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjEyMzFfMjI0/MDAxNjcyNDQzMzMxODgz.np2uXMtVDagICnUrVjssg6TaY263AxvkKsFAwtE0dbIg.hAv9mNnqDlnlTTrhlZomXuZFVNU7K64Dr3FSyLll77Qg.PNG.aa9163/profileImage.png"
+          },
+          {
+            "sid": "1564465973",
+            "bodySummary": "순천가볼만한곳 #순천카페 #순천카페추천 #순천커피맛있는집 #순천카페명소 #순천카페브루웍스 주차장은 협소 한편이지만 주변에 주차하고 카페 정문 카페 내부에 전시 되어있는 클래식한 카",
+            "url": "https://m.blog.naver.com/jinstar_o/223355573285",
+            "nick": "진스타",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDA1MDJfMTQ3/MDAxNTg4MzU2NTkyMDUz.p_8z30mowzI4PQduwtrt1vydYs2qYXxeurMMohJ-DQkg.qt0nHbhIjQgcNma_srrBb3UESN8bcWJj1K5xZJLXB98g.PNG.jinstar_o/profileImage.png"
+          },
+          {
+            "sid": "1564465973",
+            "bodySummary": "전남 순천시 역전길 61 브루웍스 ☑️주차정보☑️안쪽에 주차공간이 없어서 건물 밖 도로에 주차 해야합니다..(그게 조금 아쉽..) 2. 메뉴정보 음료는 이렇게 있고, 주문한 메뉴는",
+            "url": "https://m.blog.naver.com/9783dbwls/223348560694",
+            "nick": "먹사인",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA4MzBfMjQ5/MDAxNjkzMzg1NzMyNDEy.ppLF29zA2fPkd_wyArtU-lCWIWrS4C0AW7VSxNyop_Eg.EYcBp0JOqzN8VUMHK72WATg0jd-06lCaK4iXQXaiuqYg.PNG.9783dbwls/profileImage.png"
+          },
+          {
+            "sid": "1564465973",
+            "bodySummary": "순천으로 가는길 ~!!! 순천을 왜가냐구요?? 혀니랑 제가 정말 좋아하는 커피가 #순천브루웍스 에 있어요... 브루웍스 도착 !!!! 여긴 올 떄마다 기분이 정말 좋아요ㅎㅎ 다만 ",
+            "url": "https://m.blog.naver.com/rkwhr5419/223344449030",
+            "nick": "GONGZU",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAzMDdfMTEz/MDAxNjc4MTE2MDkwNDg2.0eZAp27N0rRBqCIjAmp0lNB8IfbsKnZf6yKECPiJi8cg.aEKcKQFMVq8NMeOjPev-aD4sM4lQJJ50rlnZIrqX0U8g.PNG.rkwhr5419/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "id": "1182611275",
+        "name": "휘게파스타",
+        "x": "127.4987392",
+        "y": "34.9479904",
+        "distance": 0.248,
+        "categoryName": "양식",
+        "categoryPath": [
+          [
+            "220036",
+            "220044",
+            "220126"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "양식"
+        ],
+        "reviewCount": 62,
+        "averagePrice": 10000,
+        "address": "전라남도 순천시 조곡동 139-3 6동 1층 1호",
+        "roadAddress": "전라남도 순천시 역전길 34",
+        "abbrAddress": "조곡동 139-3 6동 1층 1호",
+        "shortAddress": [
+          "전남 순천시",
+          "역전길 34"
+        ],
+        "displayContext": [],
+        "labelTheme": "양식",
+        "microReviews": [
+          "부드러운 찹스테이크와 달콤새콤 소스"
+        ],
+        "cardDescription": "부드러운 찹스테이크와 달콤새콤 소스",
+        "description": "순천역 옆 청춘창고 1층에 위치한 파스타 필라프 리조또 찹스테이크 샐러드마저도 맛집인 휘게 파스타입니다 :D",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTJfMTQ1/MDAxNzU3NjgwMDI1NDE1.gCt6nraOmJZecBgI_H_II25JxUTS0LUFTJvA12dh4Fkg.ftwnfpMRka4yMMoApfW27d5kKW1MNCL09K4Sxnv50mEg.JPEG/20250911_143035.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjdfNjcg/MDAxNzUxMDI0OTcyMzIy.Gw7GJ1ECiVB85cKv1_FBtBhYmPcZqOiyRji655n8c68g.fMVR8whwjSMecAcxTgk76IDjOdYMck_3dvG4SFG9Auog.JPEG/D0B5F9E2-7D62-4AB4-BE4E-F92A2C0E8A0F.jpeg",
+          "https://ldb-phinf.pstatic.net/20250615_293/1749984342609b3H2i_JPEG/IMG_6035.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTdfMTMg/MDAxNzYwNjgxNDc2MDYw.fBZR-H6__Xof5G8jLCKgMUfN27QvY9dTghhkgrN60zcg.-gRe_ZICysSF8P5-pjMSzPqHzhviuDYHiwIUpCYbQEwg.JPEG/IMG_5215.jpeg",
+          "https://ldb-phinf.pstatic.net/20250615_212/1749984370933oSz17_JPEG/IMG_6090.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjRfMjA1/MDAxNzUwNzQwNzYyNzg2.sByTRT7vaD89UQvRENq8ictNXzPZTsvpcQPI-u2lmhUg.10QEXuAz48MWgVWekRykuHSzzrnWNs_FMARrlNjUeOQg.JPEG/236F8419-A4D0-466F-9E98-34ADB73F00A6.jpeg",
+          "https://ldb-phinf.pstatic.net/20250615_293/1749983763474F54jK_JPEG/6C6007C4-B947-4E0D-979C-17BC06168B77.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTdfMjM1/MDAxNzYwNjYwNzY1ODUz.GsEknPX7B8P3hqdGDN504AtslTFDBJpyh9qrNv8n9Nsg.XKEWmYvZ-5EMxYlnGC2mmpH3gaDkJ9oD88H_uyFKfBQg.JPEG/2C9D34BD-8B0F-4527-8F4A-45247B9ACDEF.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMDlfMTgw/MDAxNzYyNjk2OTc5MDEz.Hf2aWtz3m-1DtbembHC06v5Vs1j3EG1v-GkGqX7umgcg.gKniXrAfUvjzFbapKUlsb_jZpwmtV6kuRkpOakRZBEEg.JPEG/79BE2532-1E6C-4279-9864-14D179539D4C.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTNfMTAw/MDAxNzU3NzMxNjcxNTgw.H0SBpFZj6Nq-5luDnw5UAHviIKOUIbslZ9U3WHj8Qu8g.CrijXPh3MsBJRTft5ZExq0kIUxXWL9NgXkbHmE7_OVEg.JPEG/1757647039010.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220126",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 8,
+        "id": "1924107833",
+        "name": "팔레트볼",
+        "x": "127.4987405",
+        "y": "34.9479718",
+        "distance": 0.248,
+        "categoryName": "다이어트,샐러드",
+        "categoryPath": [
+          [
+            "220036",
+            "220047",
+            "220170",
+            "230734"
+          ]
+        ],
+        "category": [
+          "도시락,컵밥",
+          "다이어트,샐러드"
+        ],
+        "reviewCount": 180,
+        "averagePrice": 10000,
+        "address": "전라남도 순천시 조곡동 139-3 6동 1층 11호",
+        "roadAddress": "전라남도 순천시 역전길 34",
+        "abbrAddress": "조곡동 139-3 6동 1층 11호",
+        "shortAddress": [
+          "전남 순천시",
+          "역전길 34"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [
+          "신선한 재료로 가득한 건강한 한끼"
+        ],
+        "cardDescription": "신선한 재료로 가득한 건강한 한끼",
+        "description": "안녕하세요. 팔레트볼입니다 !  팔레트의 색으로 그림을 그리듯이 저희만의 색으로 볼을 채워 건강하고 맛있는 한그릇을 제공해드리겠습니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMTFfMTcz/MDAxNzYyODI5MzM1NjUy.8UfFgZS20oPNUDj7azbq-mdSwImvtUiqOKgekN8VpJEg.tUtCp76aWD5ndpSdJDkmjtJNvYYg7wiY3hJhRhQ-Qt8g.JPEG/1000101715.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDRfMTg0/MDAxNzU5NTQ2MTI5MjAy.cjpqg1-CH-_FwuuL4eFyOmy-7H-ogH6Eh-duxkz18IEg.GrKT1179EIyLvq6zn8Bf9WhqtuxhPWXPVrZ9ktj18E0g.JPEG/IMG_1513.jpeg",
+          "https://ldb-phinf.pstatic.net/20250310_111/174161552256094Vop_JPEG/IMG_0636.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MThfMjQ0/MDAxNzU1NDg2NzU3MjI1.lfN3sYrxtqyOVNel1wCT8SxXc_htNlNV3PERZEhM5sUg.j5rBH6ayzL7slhyBP-317i-Rz-FHY2YMsNqX-qNOTmMg.JPEG/1000007078.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250310_259/1741615614876Napxq_JPEG/IMG_6213.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMDFfMjcw/MDAxNzYxOTY2MzYxNTIz.tYrJoJ6DDkS11RiJ3T7cpn1AcGFMGgMoOfM_uv3zukQg.fAB4uDAsr_jDXgCGKMG3pHem0jzVN9TJG2CagtQiydAg.JPEG/20251101_120049.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250310_292/1741615522838tCuYo_JPEG/IMG_6455.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MzFfMjM4/MDAxNzQ4NjY2NjQyODYw.tSaXN7xL3TChzk8DxmLJEpyo0yM4cQW8dmQFawbUovgg.aqgHsBcQX6JztoxUiGAUtUXWchvRukG2WpxPkH-K8rUg.JPEG/FAE84525-1C76-4407-84BD-BF77CD0B4A4A.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTNfMjYz/MDAxNzUyNDAwODk4Mzcx.AE3plt-1B2WoYgEcj5feaMyqyM6CAuU4rG2F97gqvkAg.nhm3KA_jCx-CXTgTRoW9XidqL0HSkcaKU2Cxus_X58og.JPEG/20250713_185805.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjJfMjE2/MDAxNzUwNTY1NDM0ODcy.NSDNs6KyM2tzrwKah4Q3BPyTb7CvNVKiwBi4eSn5D50g.IT1IP1chzpl-2KJOzjYuXSbNdi-rXvVYTUUVtian26Ag.JPEG/20250622_130712.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "230734",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 9,
+        "id": "1531118046",
+        "name": "순천만갈대",
+        "x": "127.4953876",
+        "y": "34.9464015",
+        "distance": 0.214,
+        "categoryName": "김밥",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220186"
+          ]
+        ],
+        "category": [
+          "분식",
+          "김밥"
+        ],
+        "reviewCount": 243,
+        "averagePrice": 10000,
+        "address": "전라남도 순천시 풍덕동 1263-7 순천만갈대",
+        "roadAddress": "전라남도 순천시 팔마로 63",
+        "abbrAddress": "풍덕동 1263-7 순천만갈대",
+        "shortAddress": [
+          "전남 순천시",
+          "팔마로 63"
+        ],
+        "displayContext": [],
+        "labelTheme": "생방송투데이 방영",
+        "microReviews": [
+          "입안 가득 퍼지는 식혜의 달콤함"
+        ],
+        "cardDescription": "입안 가득 퍼지는 식혜의 달콤함",
+        "description": "순천만갈대는 주문과 동시에 조리하여 제공합니다. 시간과 마음의 여유를 가지고 방문해주시길 바랍니다. 자세한 사항은 > 인스타그램 : 순천만갈대 순천 수제 식혜 맛집 순천만갈대 맛보기 식",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMTRfMTU0/MDAxNzYzMDgwMDI3Nzkw.6ZXEQiWL8ESeaGP2fd-dNOHeU1MrcYbAyDGapf_k1tAg.7wOC3LRmKtLb-gTFGycZ3ovSJp6w6r3Lbdd2_jYBE0kg.JPEG/20251113_100544.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MzFfMjA1/MDAxNzU2NjE5MTkzNzM1.t_au9L-hPjJdPSKL79G1gk5ijnUKH1LHFyAqSnAzstwg.voWVILYik_Ci8bt52WEgaxm72ySic0JmvQ1EXOd-9Mog.JPEG/5675185B-C9C8-4F26-984B-2C79BFD6DBD0.jpeg",
+          "https://ldb-phinf.pstatic.net/20190930_53/1569841995715wCR35_JPEG/AUYQE7eJ1uc6QLMPksK75zhP.jpeg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjFfMjM0/MDAxNzYxMDI2MzI5NDk3.wC-o0h96_gi366uEycFT3NKcCT9C8IIu8-ktxLfQBm8g.DJ0DZvVh1aAXZ3Slrlgph_nVbk_HTJHJ3VIloYFTEusg.JPEG/5B99A293-BDC0-46D5-9AED-85AAE3C68207.jpeg",
+          "https://ldb-phinf.pstatic.net/20190930_181/15698420051789wg0C_JPEG/LmJvjiQWmf9eOocKsSnBSt17.jpeg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDRfMzgg/MDAxNzUxNjI2MjQ5NzQ4.QLSZL3-Gz6-KpD-2Acwx_OyZsNYIkwPaGl4gM9XukcMg.NYcxg7SABFzk51EbD4lgPGvsw1DM3d8_I1fZSdxnQVAg.JPEG/5E42C3EC-90EF-4543-A755-BF34FE71980F.jpeg",
+          "https://ldb-phinf.pstatic.net/20190729_250/1564380898319CdxXS_JPEG/LMQH4ps9gul7X6uD-aBvoDUB.jpeg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjlfMTMy/MDAxNzYxNzI2MjE4NDI1.-C78rmdvNtob7I9fxKNFV4_yiBPeQZ6_kdwwtme_p-0g.H7BX2Y8s0thfQ5jJ4kgTJkDlhpQ6AKXzM-GZHKKZkZog.JPEG/1000055755.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTlfMjcy/MDAxNzUwMzExNzIzMDcw.iXf_k1Ca2jaQkb9rtqHmyT7H8_aoO5SVwziYUf40m_Mg.tpwfHS0HxQg_yBlmFO4Li56k7xKJvcjSJ7wTC7upr2Ig.JPEG/IMG_6420.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTVfMjMz/MDAxNzQ3MjgwNTY4MDky.6Qzr6wGF1ZGXmuTRYatgnnoGKUVB5QGhjXN_P43DSB8g.TZI00x7HmMkR7HsMETtMet9eqNQV-EgW0sO8zt5X0YMg.JPEG/IMG_4149.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220186",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": true,
+        "broadcastInfo": {
+          "name": "생방송투데이",
+          "menu": "김밥/식혜"
+        },
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.24",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "1531118046",
+            "bodySummary": "미리 전화로 포장 연락드리고 방문함 ! 우리는 억새김밥과 고추참치김밥으로 사장님 혼자서 운영하시는 곳이라서 주문이 많으면 시간이 좀 걸릴 수도 있다고 했는데 우리는 미리 연락드려서",
+            "url": "https://m.blog.naver.com/yonglog_/223230449232",
+            "nick": "에이용",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA5MTdfMTkg/MDAxNjk0OTM4NzMwNTQz.ZDOH0X_chLeWLiRMFJo552fOB-PjhHEbfeF7M32FiPYg.0pFjqLCBk6QjBCu-dm8xWa16HHSBQAVvXkr1qkTTwFQg.PNG.queen3163/profileImage.png"
+          },
+          {
+            "sid": "1531118046",
+            "bodySummary": "엄마 아빠와 함께하는 팔월 일, 이일의 여수여행 여수에 도착하자마자 아구찜과 아구탕을 먹기 위해 복춘식당을 갔다 근데 웬걸,, 아구만 빼고 다 된다기에.. 서대회무침도 맛있다해서 ",
+            "url": "https://m.blog.naver.com/plomoz/222083188157",
+            "nick": "엱",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDA0MTNfMjcg/MDAxNTg2NzcyMDI1MTg1.aipkicq9AN3gUxSYOB7xfVj7b8mAYOFhIs3-ZeCgGDcg.yD6gvt-AUf8HFYld1hS__qfa5lqf3AuljBmN6NuQn1Qg.PNG.duswl4075/profileImage.png"
+          },
+          {
+            "sid": "1531118046",
+            "bodySummary": "김밥도 업소에서 사먹는 게 맛있어요.업소김밥 먹으러 왔어요.아랫장에 위치한 순천만갈대예요. 순천역에서 아랫시장 가는 길에 위치했는데간판이 작아서 매의 눈으로 잘 보셔야 해요.메뉴와",
+            "url": "https://m.blog.naver.com/lovelyhyejin/221628277846",
+            "nick": "신드롬",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20111027_121/lovelyhyejin_1319653267776_ez4RRI_jpg/vs%287593%29.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "id": "306021786",
+        "name": "힘센장어집",
+        "x": "127.493324",
+        "y": "34.946957",
+        "distance": 0.287,
+        "categoryName": "장어,먹장어요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220076",
+            "220799",
+            "1006317"
+          ]
+        ],
+        "category": [
+          "한식",
+          "장어,먹장어요리"
+        ],
+        "reviewCount": 88,
+        "averagePrice": 25000,
+        "address": "전라남도 순천시 풍덕동 1260-1 힘센 장어집",
+        "roadAddress": "전라남도 순천시 강남로 9-5",
+        "abbrAddress": "풍덕동 1260-1 힘센 장어집",
+        "shortAddress": [
+          "전남 순천시",
+          "강남로 9-5"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [],
+        "cardDescription": "전라남도 순천시 풍덕동 1260-1 힘센 장어집",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjRfNjkg/MDAxNzUwNzYxNDk3MjAx.Agqy-t-rTKCq2atc12d8jrxqprGME7zdq0eKddeNF8og.Aifin8DanVP8-DqyUmWeC51BCzAjL5ltjHHBi3d_kE8g.JPEG/20250624_193708.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1006317",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.27",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "306021786",
+            "bodySummary": "유난히 더운 이번 여름.. 루피찡의 친구들이 순천엘 왔는데.. 어딜 델꼬 가야하나.... 고기는 별로 좋아하지 않는 친구가 있어서 메뉴 선정이 쉽지 않았는데 .... 고기를 못먹는",
+            "url": "https://m.blog.naver.com/nhr_love/222827221554",
+            "nick": "로뽕",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTAzMTBfMjAx/MDAxNjE1MzUzMzMzMzUx.fN1Bxqdf5Ou6uBu5Q4j5TWubXuQV67OXojcjtsgGntsg._w_eJx5x9X2O2zcbVsXG-igBt2YN-GN17VaIfLhnLhMg.JPEG.nhr_love/profileImage.jpg"
+          },
+          {
+            "sid": "306021786",
+            "bodySummary": "정성과 사랑을 담아 감동을 드리는 저희 #힘쎈장어 는 #전남 #순천 #풍덕 에 위치한 #음식점 #장어요리 전문점 입니다. #국내산장어구이 #장어탕 #단체예약환영 ' 가족외식, 데이",
+            "url": "https://m.blog.naver.com/womank1234/221771443498",
+            "nick": "타운페이지114",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA0MjFfMjEz/MDAxNjE4OTczNTExOTE4.PgajNdes-06tbWi-BNEQq0xPPbwKNvEgrFxxN1PyOnUg.CD0bfQzMXHe_p5JeOjcPsMkUPdLdRU3a-el98Yr-xasg.JPEG.womank1234/123.jpg"
+          },
+          {
+            "sid": "306021786",
+            "bodySummary": "바다장어는 양식이 안되어 가격이 좀 있죠 장어 종류엔 아나고,붕장어,갯장어 여러가지지만 요리법에 따라 맛도 달라집니다 오늘은 아나고 장어탕집 소개예요 순천 아랫장 근처 힘센장어집 ",
+            "url": "https://m.blog.naver.com/zdj/221338969828",
+            "nick": "라피스",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20151016_162/zdj_1444922440617bwUbX_GIF/az.gif"
+          }
+        ]
+      },
+      {
+        "rank": 11,
+        "id": "1247722959",
+        "name": "드림애카페 조곡점",
+        "x": "127.4986126",
+        "y": "34.9500871",
+        "distance": 0.311,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 7,
+        "averagePrice": 3000,
+        "address": "전라남도 순천시 조곡동 82-260",
+        "roadAddress": "전라남도 순천시 자경1길 13",
+        "abbrAddress": "조곡동 82-260",
+        "shortAddress": [
+          "전남 순천시",
+          "자경1길 13"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "전라남도 순천시 조곡동 82-260",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20191023_44/1571803839989wq9eR_JPEG/qAEOG0quh3SorGRLQvnK16Li.jpg",
+          "https://ldb-phinf.pstatic.net/20191023_29/1571803846272TJVPR_JPEG/WwM6FNPwa4-X8DVxvh2ipDMu.jpg",
+          "https://ldb-phinf.pstatic.net/20191023_138/1571803851936cfl1S_JPEG/-R95djTKloG1_4FwJS7Be6Hr.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 12,
+        "id": "1278998995",
+        "name": "카페인천철물",
+        "x": "127.4948993",
+        "y": "34.9460125",
+        "distance": 0.27,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 9,
+        "averagePrice": 5000,
+        "address": "전라남도 순천시 풍덕동 1264 1층 A-16호",
+        "roadAddress": "전라남도 순천시 장평로 60",
+        "abbrAddress": "풍덕동 1264 1층 A-16호",
+        "shortAddress": [
+          "전남 순천시",
+          "장평로 60"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "직접 개발한 특제 소스와 100% 하림 닭다리살로 튀긴 앗있는 닭강정 입니다.",
+        "description": "직접 개발한 특제 소스와 100% 하림 닭다리살로 튀긴 앗있는 닭강정 입니다.",
+        "images": [
+          "https://naverbooking-phinf.pstatic.net/20250907_249/1757219214396adroz_JPEG/image.jpg",
+          "https://ldb-phinf.pstatic.net/20250907_69/17572214576358vxHd_JPEG/1000013380.jpg",
+          "https://ldb-phinf.pstatic.net/20220325_267/1648184437824CpY1F_JPEG/44F76C63-39CA-49C9-9104-6DDF604C2563.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 13,
+        "id": "17077061",
+        "name": "우리집",
+        "x": "127.4956382",
+        "y": "34.946378",
+        "distance": 0.211,
+        "categoryName": "오리요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220769",
+            "221553"
+          ]
+        ],
+        "category": [
+          "한식",
+          "오리요리"
+        ],
+        "reviewCount": 90,
+        "averagePrice": 0,
+        "address": "전라남도 순천시 풍덕동 1263-11",
+        "roadAddress": "전라남도 순천시 팔마로 65",
+        "abbrAddress": "풍덕동 1263-11",
+        "shortAddress": [
+          "전남 순천시",
+          "팔마로 65"
+        ],
+        "displayContext": [
+          "오리불고기",
+          "오리고기"
+        ],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "전라남도 순천시 풍덕동 1263-11",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221553",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "17077061",
+            "bodySummary": "#우리집오리 #순천역우리집오리 원래 가려던 식당이 브레이크 타임이라 급하게 찾아서 들어간 곳인데 맛입이였다죠? 그래서 포스팅 합니다 이곳은 널리널리 알려져야 합니다 (원래도 유명했",
+            "url": "https://m.blog.naver.com/dtg0123/223272527424",
+            "nick": "유댕",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjExMTZfMTM3/MDAxNjY4NTc1NjQ2NjIz.NKYHzVPXh-toKC_9mqTqySDbnXduHNFSJAS1sli1BHQg.iqI2F0hgJeUL2DyBgwDiTBwIWfYuqiupq1MvAtqLAm8g.PNG.dtg0123/profileImage.png"
+          },
+          {
+            "sid": "17077061",
+            "bodySummary": "내가 혼자 다 먹은 오이냉국...여기는 순천의 다른집에 비해서는 밑반찬이 많지는 않음! 그래도 오리고기 양이나 먹고나서 볶음밥도 먹어야하니까 그거 생각하면 양은 충분히 만족스러웠다",
+            "url": "https://m.blog.naver.com/linsy727/223126509996",
+            "nick": "가닥이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTA0MjhfMjk2/MDAxNTU2NDQ0ODMwNjU5.KPnQ-ijCkey7O_R7LuhzY9zx3n9r20X__CC6QEl64r4g.VWPb0SgFPJnDiFgKuvwwXVvP729p_DQw5QTRIxDWoQog.JPEG.linsy727/%25C7%25C1%25B7%25CE%25C7%25CA_02.jpg"
+          },
+          {
+            "sid": "17077061",
+            "bodySummary": "순천 아랫장 맛집 , 오리불고기 #우리집오리 아마 순천사람이라면 가보진 않았어도 여기가 어디인지는 누구나 다 알만한 곳에 위치한 - 순천 아랫장 맛집 , 우리집오리 뜬금없이 달달한",
+            "url": "https://m.blog.naver.com/nabee1027/220649562166",
+            "nick": "미스리코코",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20150207_298/nabee1027_1423271681578yANdF_JPEG/DSC01761.jpg"
+          },
+          {
+            "sid": "17077061",
+            "bodySummary": "[순천 맛집 ] 오리불고기 순천에 내려가면 대부분 관광지 주변에서 흔히 볼 수 있는 식당메뉴로 그 날의 식단을 정하곤 한다. 그래서일까 순천에서 유명한 음식을 물어보면 모두들 장뚱",
+            "url": "https://m.blog.naver.com/simsim7879/220362437295",
+            "nick": "심심이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/data35/2008/8/3/230/simsimii-simsim7879.gif"
+          }
+        ]
+      },
+      {
+        "rank": 14,
+        "id": "1377086761",
+        "name": "정원국수",
+        "x": "127.4937924",
+        "y": "34.9460581",
+        "distance": 0.319,
+        "categoryName": "국수",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220062",
+            "220628"
+          ]
+        ],
+        "category": [
+          "한식",
+          "국수"
+        ],
+        "reviewCount": 99,
+        "averagePrice": 6000,
+        "address": "전라남도 순천시 인제동 371",
+        "roadAddress": "전라남도 순천시 장평로 71",
+        "abbrAddress": "인제동 371",
+        "shortAddress": [
+          "전남 순천시",
+          "장평로 71"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "전라남도 순천시 인제동 371",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220628",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1377086761",
+            "bodySummary": "아랫장공영주차장에 주차 했어요 순천사랑상품권 가맹점은 아니라고 하셨어요 순천 아랫장 사거리에 위치한 정원국수~ 제가 간 날이 장날이라 테이블에 손님이 많아서 내부는 못찍었어요 ㅠ내",
+            "url": "https://m.blog.naver.com/geejeee/223182335925",
+            "nick": "묵돌이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA0MjdfMTk2/MDAxNjgyNTk0MTAyNTIz.ax9b-BaGb2x4Yx0wSFClUHeV4hcZHLlsZDWgzwQfNU8g.3MKXegGHlNOMQlOm-yzLWtWQRs8T8jPkBpjDLqUcCREg.JPEG.geejee687/profileImage.jpg"
+          },
+          {
+            "sid": "1377086761",
+            "bodySummary": "운영시간 11:00~19:00 휴무일 : 매주 화요일 주차난이도 : 헬.. 단연컨데 순천 내 국수집중 가장 맛있는집 후배가 갑작스럽게 기가막힌 국수집을 찾았다며 일주일 전부터 국수",
+            "url": "https://m.blog.naver.com/lis45/223107621007",
+            "nick": "T T T T",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA2MDVfMTgg/MDAxNjg1OTczNzg4MzEw.Kf1aVh60M61DiMx_QCFveNsVJiiNely1SDROb1KytF4g.ZSB-K5LUwJCJMVC6cAD0t3b8GUFGpDQ7Wvt4S0FmmyUg.PNG.lis45/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 15,
+        "id": "17308195",
+        "name": "박가네숯불흑염소구이",
+        "x": "127.4947374",
+        "y": "34.9476512",
+        "distance": 0.136,
+        "categoryName": "육류,고기요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220733"
+          ]
+        ],
+        "category": [
+          "한식",
+          "육류,고기요리"
+        ],
+        "reviewCount": 6,
+        "averagePrice": 0,
+        "address": "전라남도 순천시 풍덕동 1262-1",
+        "roadAddress": "전라남도 순천시 강변로 685",
+        "abbrAddress": "풍덕동 1262-1",
+        "shortAddress": [
+          "전남 순천시",
+          "강변로 685"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "전라남도 순천시 풍덕동 1262-1",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220733",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.88",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 16,
+        "id": "1957322422",
+        "name": "덮밥90도씨 순천점",
+        "x": "127.4984936",
+        "y": "34.946168",
+        "distance": 0.322,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 5,
+        "averagePrice": 0,
+        "address": "전라남도 순천시 조곡동 153-15",
+        "roadAddress": "전라남도 순천시 팔마로 91",
+        "abbrAddress": "조곡동 153-15",
+        "shortAddress": [
+          "전남 순천시",
+          "팔마로 91"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "전라남도 순천시 조곡동 153-15",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 17,
+        "id": "1170624125",
+        "name": "디와이카페",
+        "x": "127.4987242",
+        "y": "34.949699",
+        "distance": 0.293,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 4,
+        "averagePrice": 0,
+        "address": "전라남도 순천시 조곡동 82-79",
+        "roadAddress": "전라남도 순천시 자경1길 7",
+        "abbrAddress": "조곡동 82-79",
+        "shortAddress": [
+          "전남 순천시",
+          "자경1길 7"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "전라남도 순천시 조곡동 82-79",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDRfMTI5/MDAxNzQ2Mjg4MjY2ODE3.paXjRVmGRIO2IIKsY7pxAdydUt7PlkPR5vhIeUbkM2Ug.rKcC9y0ZfsVC6IqggrTzvVMFwrOX197IemYoJ0VCTGgg.JPEG/IMG_20250503_233737974_HDR.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 18,
+        "id": "17091777",
+        "name": "이서방치킨",
+        "x": "127.4970797",
+        "y": "34.9479531",
+        "distance": 0.1,
+        "categoryName": "치킨,닭강정",
+        "categoryPath": [
+          [
+            "220036",
+            "220049",
+            "220245"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "치킨,닭강정"
+        ],
+        "reviewCount": 4,
+        "averagePrice": 0,
+        "address": "전라남도 순천시 조곡동",
+        "roadAddress": "",
+        "abbrAddress": null,
+        "shortAddress": null,
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "전라남도 순천시 조곡동",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220245",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "5.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 19,
+        "id": "1716619367",
+        "name": "볶음밥zip",
+        "x": "127.4984615",
+        "y": "34.9461517",
+        "distance": 0.321,
+        "categoryName": "도시락,컵밥",
+        "categoryPath": [
+          [
+            "220036",
+            "220047",
+            "220169"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "도시락,컵밥"
+        ],
+        "reviewCount": 1,
+        "averagePrice": 0,
+        "address": "전라남도 순천시 조곡동 153-15 1층()",
+        "roadAddress": "전라남도 순천시 팔마로 91",
+        "abbrAddress": "조곡동 153-15 1층()",
+        "shortAddress": [
+          "전남 순천시",
+          "팔마로 91"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "전라남도 순천시 조곡동 153-15 1층()",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220169",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 20,
+        "id": "1162214838",
+        "name": "시장동맛나네",
+        "x": "127.4957571",
+        "y": "34.9463669",
+        "distance": 0.211,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 0,
+        "address": "전라남도 순천시 풍덕동 1263-11",
+        "roadAddress": "전라남도 순천시 팔마로 65",
+        "abbrAddress": "풍덕동 1263-11",
+        "shortAddress": [
+          "전남 순천시",
+          "팔마로 65"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "전라남도 순천시 풍덕동 1263-11",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 21,
+        "id": "1936511376",
+        "name": "불사식당",
+        "x": "127.49852",
+        "y": "34.9461599",
+        "distance": 0.324,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 1,
+        "averagePrice": 10000,
+        "address": "전라남도 순천시 조곡동 153-15 1층",
+        "roadAddress": "전라남도 순천시 팔마로 91",
+        "abbrAddress": "조곡동 153-15 1층",
+        "shortAddress": [
+          "전남 순천시",
+          "팔마로 91"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "전라남도 순천시 조곡동 153-15 1층",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 22,
+        "id": "1472165406",
+        "name": "밀림슈퍼",
+        "x": "127.4974226",
+        "y": "34.9477744",
+        "distance": 0.136,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221212"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 1198,
+        "averagePrice": 5000,
+        "address": "전라남도 순천시 조곡동 151-7",
+        "roadAddress": "전라남도 순천시 역전2길 46",
+        "abbrAddress": "조곡동 151-7",
+        "shortAddress": [
+          "전남 순천시",
+          "역전2길 46"
+        ],
+        "displayContext": [],
+        "labelTheme": "생방송투데이 방영",
+        "microReviews": [
+          "산미 없이 깔끔한 아메리카노 한잔"
+        ],
+        "cardDescription": "산미 없이 깔끔한 아메리카노 한잔",
+        "description": "1970년 시작한 작은 동네 슈퍼의지금. 이 공간이 품고 있는 몇십 년의 이야기들을 그대로 간직한 채 오늘 우리의 이야기를 담아 가고 있습니다. 모든 세대가 함께할 수 있는 맛과 멋이 있는 공간,",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTdfMTEw/MDAxNzU4MDg5NzkzODI5.jaMm4o5c0R_DpdbID6naJdZ1GOtKP9-HWKHHzjtsO44g.9s7iCDP4HJ0p0NpuICFOniz3CTBGsAHgK5x619Vn3asg.JPEG/20250910_132500.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjdfMjY4/MDAxNzUzNjA2MTg1OTE0.KNE7dtQk2Ku20JaI5vEElrdpmnzno03uPT9biBUpf2kg.yOpSYmiM99458fRCwQ-Kxq7ljIOlrB9YIQahk2ZxCsMg.JPEG/1000010607.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20181105_216/1541420408026j7utA_JPEG/2_Wqi2YcWhkiGT1YP6BKV0za.JPG.jpg",
+          "https://ldb-phinf.pstatic.net/20200221_283/1582267221658Ys8Oa_JPEG/sTzLSITIENFSXFCgUrbxdsSA.jpg",
+          "https://ldb-phinf.pstatic.net/20200221_279/1582267221611WvE87_JPEG/wNovkMqkautu_qLMf7ur89eM.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221212",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": true,
+        "broadcastInfo": {
+          "name": "생방송투데이",
+          "menu": "말꾸티"
+        },
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.7",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "1472165406",
+            "bodySummary": "말꾸티 등장! 쵸코우유도 아닌것이 베지밀도 아닌것이 뭔가 아주 진~ 할것같은 비주얼이죠? 순천 밀림슈퍼 말꾸티 맛을 한번 봐야겠습니다. 너무 궁금합니다. 밀림슈퍼 시그니처 말꾸티는",
+            "url": "https://m.blog.naver.com/thstktk/223386488511",
+            "nick": "손샤인",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAyMjBfOTIg/MDAxNzA4NDM2OTIyMzA4.FWF2rv1JqICDMaM9QLzawKnN-NejBOt_EyPXbtM5Vbkg.DFa_H-HPaZAPpO8qXFcJQHjr_Vlz1Zcd1cPdzNRk6pMg.PNG/profileImage.png"
+          },
+          {
+            "sid": "1472165406",
+            "bodySummary": "순천 밀림슈퍼 시그니처 메뉴인 말꾸티와 아메리카노와 바게트 주문했어요 소금빵,스콘,시나몬롤,바게트 등 디저트 종류가 다양해요 ! 저희는 사장님이 직접 만드신다는 버터가 포함된 플레",
+            "url": "https://m.blog.naver.com/enfl1710/223373133341",
+            "nick": "꽃바니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMTNfMjA3/MDAxNzAyNDc4NjcxMDk1.28QPpE_PWqVu5XTyDitPbRaPs7_mXc9x24oSLo1wcEsg.WZeAjuMp8rIFtDVooVNvGJvWaV2IjNhCIpLv9LHGslsg.PNG.enfl1710/profileImage.png"
+          },
+          {
+            "sid": "1472165406",
+            "bodySummary": "이미 아는사람은 다 아는 그런 곳이더라고요 밀림슈퍼 12:00-19:00 (18:30 라스트오더) 위치는 순천역과도 그리 멀지 않아 여행객들도 많이 방문 하시는 거 같더라고요 얼핏",
+            "url": "https://m.blog.naver.com/xowns6778/223368190004",
+            "nick": "태언쓰",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTA1MjdfMTEx/MDAxNTU4ODg5MTA3MjE4.CYP2RBB-R27O6sY0OzLnPCDaytJ0ZQExwkgtg-Xdb9Mg.aMc8Ve2RGYqbZ4O7fAK0-mvYXD6-kifdUcSyrc0DRMYg.JPEG.xowns6778/IMG_9711.jpg"
+          },
+          {
+            "sid": "1472165406",
+            "bodySummary": "메뉴판 베이커리 ✅온놈 오렌지 생과일주스는 과육이 많이 씹혀서 먹기 힘들 때도 있는데 부드럽게 넘어가고 엄청 산뜻! 상큼! 이런 느낌 ✅카페라떼 (ice) 커피 자체가 고소해서 우",
+            "url": "https://m.blog.naver.com/hdodooo/223357168546",
+            "nick": "하또",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAyMjBfMTIy/MDAxNzA4NDAxODczNjc2.xQ4oXvUrHloLlWLKQfkC6Gx2FpbGcKkS5JSQ6g2S4xgg.h6xey6DAot7QdnKImQR12XfjyDQBpmcpbADDJTggpvog.JPEG/profileImage.jpg"
+          },
+          {
+            "sid": "1472165406",
+            "bodySummary": "마치 90년대로 타임슬립 한 것 같은 순천에 있는 카페 밀림슈퍼에 다녀왔어요 간판은 슈퍼인데! 커피집 입니다 지나가다 보면 호기심에 들어가 볼 것 같아요 어릴 때 집에 있었던 소품",
+            "url": "https://m.blog.naver.com/ijaoddcy/223354539918",
+            "nick": "글",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTA0MjRfNTcg/MDAxNTU2MDU5MzA2MjI1.1YxIEWkRkOwFkkfbe-T8tLDXqJ-cCnWSJMFr3CU0b9kg.klezi3ZQ7T9up3smr305PrbcaGu4cy_dlHbcWFbwQTQg.PNG.ijaoddcy/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 23,
+        "id": "1919371993",
+        "name": "비버베이크하우스",
+        "x": "127.4953374",
+        "y": "34.9469401",
+        "distance": 0.159,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 1170,
+        "averagePrice": 10000,
+        "address": "전라남도 순천시 풍덕동 1263-1 1층",
+        "roadAddress": "전라남도 순천시 강변로 675",
+        "abbrAddress": "풍덕동 1263-1 1층",
+        "shortAddress": [
+          "전남 순천시",
+          "강변로 675"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [
+          "예쁜 뷰와 함께하는 상큼한 케이크"
+        ],
+        "cardDescription": "예쁜 뷰와 함께하는 상큼한 케이크",
+        "description": "비버베이크하우스는 전남 순천 동천 옆에 위치한 수제 디저트 전문 카페로, 자연과 함께하는 여유로운 분위기 속에서 정성 가득한 디저트를 즐길 수 있는 공간입니다.  매일 소량만 직접 반죽 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjhfMTk2/MDAxNzYxNjA3NDExNTAy.10vWT467woh_g_85NgkOJj-2Y6wYc-TA1Pmg7RQJFDsg.7EBoJWbyVXNwey3MUbHJBbKgK_G_Dyu_iFYhQftKV1Ig.JPEG/IMG_2779.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTJfNjYg/MDAxNzYwMjUyNjYxMjE0.Sxah5pp9H-_qLjrryX_ulQk9qOmt_vuXYUAN6r093cog.UIPpj-fGUzeeeFgIX_CHBTVdGy0lpFuH1X_MWU8FBYkg.JPEG/FCA65411-0DEC-4AAB-9F3A-59AD7DB3887A.jpeg",
+          "https://ldb-phinf.pstatic.net/20250808_248/1754636707098JDEgi_JPEG/11717.JPG",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDZfMjkz/MDAxNzU3MTQ4MTE0Mjky.QqW-L-3oSLYFr-4SkKmonI7HUAEOwwpzKWPu-K3596cg.bjJCB7VlBJRoPW4xvLwKT5le75bxvbbgha2C3tZxR48g.JPEG/56BCEE2B-3685-4F4A-9D53-1E7BD966003F.jpeg",
+          "https://ldb-phinf.pstatic.net/20250808_236/1754636708002GWAA7_JPEG/19889.JPG",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjhfMjc4/MDAxNzU5MDQ0MDE5NTgx.-1BvX7cceeiZAwXgZwE0AJxBNTyaYPehGZaiRvDfCDkg.Gt-aDen0OOxYXyka5SGD7cs3jui5NshnryL7HDuXTbkg.JPEG/E1131C26-5C28-4BA3-8F10-627E419807A3.jpeg",
+          "https://ldb-phinf.pstatic.net/20250808_74/1754636706082Ea9bm_JPEG/1.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTJfNjUg/MDAxNzU3NjUzNDI3MDA4.NnrCV_PmPgRAb-TKTP0Z4Jl-s6SeNZP-hiaS4wECo0Qg.GZkK0dtejluSQSfyu92IyjftuwwfAtouPo9FKTYMNLUg.JPEG/915FE216-E85F-4647-953B-E948E4667DB4.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjZfMTQ2/MDAxNzYxNDQ0NjU3NzY5.PBPtkASfSd4HU3amNuwvzyg4j9xmM-GjwLjecxPmtlUg.0D8AWGzQ3Z1rGZdXCXTgsB6UPhaAa01nLJm4vEagiaEg.JPEG/20251026_110619.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMjJfMiAg/MDAxNzYzNzkxNTcyMjE5.u0I0MtfMoVZfIhAQnUwssl5VQJ18_LtJcCSgIeV3Tpgg.aaNWfaDBqftoSP9tFL_xQhRiaXlsU6NLKZ_jarWPLd8g.JPEG/1000037795.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1919371993",
+            "bodySummary": "안녕하세요 모모입니다 제가 요즘 애정 하는 베이커리 카페 소개할게요! 전 평소에 흑임자, 쑥 등등 꾸덕파입니다 비버베이크하우스 월-일 10:00-21:00 (화 휴무) 예약문의 아",
+            "url": "https://m.blog.naver.com/memo_momo/223374399941",
+            "nick": "모모",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMjVfNDkg/MDAxNzAzNDk0NTcwODE0.Nr8n8U2RzgRivv8_BmM5FB2rnQDAV-DP45NEnJUdHlwg.8x6R-LpWMSZk36ikgyftreODD0CHszHrdGNU1jg-loYg.JPEG.tusl00/Running.jpg/Running.jpg"
+          },
+          {
+            "sid": "1919371993",
+            "bodySummary": "비버베이크하우스 OPEN : 매일 10:00 - 21:00 ( last order 20:30) 화요일 정기휴무 전남 순천시 강변로 675 주차O, 무선 인터넷, 포장, 남/녀 화장",
+            "url": "https://m.blog.naver.com/modu_eroom/223360762035",
+            "nick": "모두이룸",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMjZfMjQw/MDAxNzExNDYyNDQ2NTAz.SZJenngFcAmja0eCR3lzvX-gsdVeh1Z-3uIR176EP8kg.vIvHvq-lBscmPISs9bJrvhiS0EY-rwya3t30_tCv30Yg.JPEG/profileImage.jpg"
+          },
+          {
+            "sid": "1919371993",
+            "bodySummary": "친한동생이 대기업에 취업해서 만난 자리라 제가 더 기뻐서 축하 하는 마음으로 만났는데 딱 알맞은 카페를 만났어요 비버베이크하우스 주소 : 전남 순천시 강변로 675 ⏰ 운영시간 :",
+            "url": "https://m.blog.naver.com/happy_mi_s2/223360222150",
+            "nick": "해피미",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEwMjVfMzUg/MDAxNjk4MjEwNzUwODY3.MFYPXJFPHlPJKwhnkOWHhYZ0vKdnzo39lKm0iIVjC7Mg.GwKLefzSBGeOqedbw8IowAsZ3oxtRYPf1Iz0y-xNxEEg.PNG.didghlal123/profileImage.png"
+          },
+          {
+            "sid": "1919371993",
+            "bodySummary": "지난주 순천에 있는 친구를 만나기 위해 다녀온 카페 비버 베이크 하우스 위치: 순천시 강변로 675 순천기차역에서 걸어서 약 10분거리 ⏰ 영업시간: 오전 10시부터 오후 9시 (",
+            "url": "https://m.blog.naver.com/dorothy_june/223350227565",
+            "nick": "Dorothy",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA2MTZfMjA4/MDAxNjg2OTE0OTk4MjA4.Nb2KC1u1_USeLhj4W2U-KuRNg-rTx-Naud9gH87MEv4g.jwlzoNaMYvZqUHjYr66rZ5dkrgp3HH5poqkqlTJLOGYg.PNG.music_therapy_yeseul/profileImage.png"
+          },
+          {
+            "sid": "1919371993",
+            "bodySummary": "(대충 맛있었다는 말) 대추 완전 좋아하시고, 당뇨없으신 분들은 한번 드셔보세용. 그리고 다른 날. 비버베이크하우스에서 친구가 포장해서 준 케이크들입니다. 이 중에서는 쑥 인절미 ",
+            "url": "https://m.blog.naver.com/hstree1/223334475536",
+            "nick": "이야기 채집가",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA4MjFfMjMx/MDAxNjkyNTQ1NDQxNDg4.iwgx8sNPuV1pGezz2c_t3_zJQ56wB4YAYM_NDws69iMg.0u7VJ58yurD7rVj2nCdbNWQmlWsy830WKZh_icjCWJIg.JPEG.hstree1/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 24,
+        "id": "1785692184",
+        "name": "밀림슈퍼",
+        "x": "127.4974344",
+        "y": "34.9477923",
+        "distance": 0.137,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 386,
+        "averagePrice": 5000,
+        "address": "전라남도 순천시 조곡동 151-7",
+        "roadAddress": "전라남도 순천시 역전2길 46",
+        "abbrAddress": "조곡동 151-7",
+        "shortAddress": [
+          "전남 순천시",
+          "역전2길 46"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [
+          "바질잠봉소금빵으로 협찬도 완벽 정복"
+        ],
+        "cardDescription": "바질잠봉소금빵으로 협찬도 완벽 정복",
+        "description": "1970년 시작한 작은 동네 슈퍼의 지금. 이 공간이 품고 있는 몇십 년의 이야기들을 그대로 간직한 채 오늘 우리의 이야기를 담아 가고 있습니다. 모든 세대기 함께할 수 있는 맛과 멋이 있는 공간",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMTBfMTkx/MDAxNzYyNzUyNjAzNTcy.PwH3gn67DZUTvw32dx6ICm7RSTbeyZP8mkO2xiPd53Qg.9JEI-XKWReS37KlUFQhcS8lJcDjHmjgoyOAqb_OlX5cg.JPEG/20251110_140217.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMTdfMTk5/MDAxNzYzMzY5MTMxNzg3.zFjrM6XEEXef_a8FHdt8LyISUj5b3TJHi_RG_DqtO5gg.XlJPqGgPkN7jFCvT4sNWEseX6uAI6bqY4TJe5989GHgg.JPEG/2D776C01-F8CE-4BC1-B5FB-949D68B8BEEB.jpeg",
+          "https://ldb-phinf.pstatic.net/20250219_180/1739964888597LdxhV_JPEG/TOGO-14.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDFfMjIw/MDAxNzU5Mjk5ODQ5NTc3.LEa5qESlb8ErsO8owCZ6nq-2yiyaodGLw-XMYHK20iAg.BxAA4nYg0VkMF0vZm3sy-wNeB_uCMsMGvChcuM3JRL8g.JPEG/1000044834.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250219_225/1739964888497BymHw_JPEG/PIC_2890.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDFfMTYz/MDAxNzUxMzAzNjg3MjQ0.quu3-qCvCVH-nYV2K-kEqDgm7XykMmt-dBQ210xRZLcg.J4cOBUGKp6HhAMNDK0SvANEDOUG8gNrosnl6vEDd_bEg.JPEG/IMG_6577.jpeg",
+          "https://ldb-phinf.pstatic.net/20250219_99/1739964888655tOGcf_JPEG/PIC_2912.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTNfMjAy/MDAxNzQ3MTI2OTYzOTk5.-1HG-jYnXc_1Z5dDkCYrJoOfCU2US7jhNBOR_c1vbl0g.Z1X9fHSBfwdQtpQ2mR4COokUTuFendfyYA9NCeA9p6Mg.JPEG/9856CA5C-B56B-490D-B9E4-AA9B0079C810.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MThfMjgw/MDAxNzUyNzg5MzA0ODg4.ecx8I2Oder5dtCRoNMj4NgNy0K1zvWQG--kPPJVQpI4g.ouNnwPbpl-Bvw69oAOMs1Cy0TDXbiHmOWtrzRzIJIx0g.JPEG/6B54F5CB-4622-49A8-9E4B-C69D8AB91911.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDdfNiAg/MDAxNzQ5MjY4NzUxMDMw.BqUieWSHtKbJEANlcZbrMwmYzmiQbB7YSDKgiIazKJog.JRhdAgWk2LVGEs8D3BR2lWzkPc-XFAb5Y_3B2mIgIsAg.JPEG/A5A48BE8-1DE2-41F6-957D-7819EB9227E0.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 25,
+        "id": "1512774162",
+        "name": "아마씨 아름엄마 씨앗밥상",
+        "x": "127.4975831",
+        "y": "34.9480226",
+        "distance": 0.143,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 909,
+        "averagePrice": 15000,
+        "address": "전라남도 순천시 조곡동 151-2",
+        "roadAddress": "전라남도 순천시 역전2길 50",
+        "abbrAddress": "조곡동 151-2",
+        "shortAddress": [
+          "전남 순천시",
+          "역전2길 50"
+        ],
+        "displayContext": [],
+        "labelTheme": "혼밥추천",
+        "microReviews": [
+          "정갈한 연잎밥으로 차린 건강한 한상"
+        ],
+        "cardDescription": "정갈한 연잎밥으로 차린 건강한 한상",
+        "description": "직접 농사지은 텃밭 재료와 제철 식재료를 사용하여 따듯하고 배부른 한상을 차립니다. 시그니처 메뉴로 연잎밥을 준비하며, 날씨 및 요일에 따라 별식메뉴도 만듭니다. 혼밥도, 모임도, 아이 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjdfMTY3/MDAxNzYxNTE1NTE1MDA4.4bJFffILYRUfcSZVYGNQfBUtOgTVjh7gHF1Li62SuxMg.tBU-lGUIeWR5bQ0ur7bbySaYQ5IWts7XxPp7Qh-xdCAg.JPEG/1000014537.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjVfNjEg/MDAxNzUwODQyMTgxNDkz.Ch5LduGCyFnRmzQWnKECuzN4_ygw6ERnkUjwkOEUlm8g.3uKBbCIKgDclj8GDGVvgzbhY80YA3GcTlofAKLME_0Mg.JPEG/1000004952.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20210701_117/1625110466611QQ0Wu_JPEG/zJnxzNlU5t3UXBj2Wf9dlAtC.jpeg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTJfMjM1/MDAxNzYwMjU1MzQ3OTg1.psUKSCl6ThiecdMl7uabCnkZYDEXaRvmiJ048xxU-3kg.5I0Ky-azUM9DZ8tJQVlb2iRQ9ByQvuc0m35FbXQZsnog.JPEG/E0E42AA1-F3FD-468B-9EC6-13BB76C6F791.jpeg",
+          "https://naverbooking-phinf.pstatic.net/20240312_222/1710239918493VLTKq_JPEG/image.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMDlfMTUy/MDAxNzYyNjUyMTA1MTQ3.Kgkuq_zHL8gHlhMAs_zIOhT4CYorqLkZ-k1voVO8UAMg.JivPZUKWl9X3j7Losk67GqleZfRgrdG1CczqBE7HH9kg.JPEG/6227AC0E-F015-4595-9D02-8586D4BEC136.jpeg",
+          "https://ldb-phinf.pstatic.net/20210203_14/1612308963547B26IH_JPEG/WFo11mgqQyhGuT2Nw0zehbID.jpeg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMThfMTI4/MDAxNzYzNDMzMTEzNzk5.Uifb8dKiXQJOVznu4zqjYII4RGW9EOXAlO8bDTxLqyog.Ga5rPhjN5Fdqx4qXoafWT7Yq28W6g8fypoO9GBz8mdEg.JPEG/20251118_110217.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTZfMTc4/MDAxNzU1MzI5Mzk2MDU2.WX209qNu3HGI8ut-DZPlkCb0svnd7bXEjxUoj_P_tZ4g.7GFwYOCT9JCb5tIVYXMpdpZlPaM6fNDaUqqyWqxH0M0g.JPEG/614B8F6F-9F8A-47FC-9F36-5B448805ECB9.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMTBfMjA3/MDAxNzYyNzY1ODA1Mzk2.4zhDM5eXBkWTs1AZfOlU1EeJ5zPYtjeVIXO11snS6EMg.WWsKbP1R5GtxvciK2jAqwMiH5wSHMWG37oVl5-zKe9wg.JPEG/20251109_115105.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.77",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "1512774162",
+            "bodySummary": "아마씨 아름엄마 씨앗밥상 월,화,수 11:30 ~20:00 토, 일 11:30 ~20:00 - 일요일 재료 소진시 마감 * 브레이크타임 15:00 ~17:00 * 라스트오더 19:",
+            "url": "https://m.blog.naver.com/rsylv9525/223296801343",
+            "nick": "소리",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMjdfMjEz/MDAxNzExNTQzMzgyNzc0.zyilrfF7oEzma2LNR0_pBl7H12O6HnTcvp9vEZpfUQQg.85_GgtIxn9HF-oCkS40qAOhcWVx30XE32CwYcws6KTkg.JPEG/profileImage.jpg"
+          },
+          {
+            "sid": "1512774162",
+            "bodySummary": "순천 한식/비건 맛집 추천 신선하고 건강한 맛 아마씨 아름엄마 씨앗밥상 리뷰 아마씨 아름엄마 씨앗밥상 주소 : 전남 순천시 역전2길 50 영업 : 토~수 11:30~20:00 (목",
+            "url": "https://m.blog.naver.com/hyunny997/223281279706",
+            "nick": "WOOAH",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTAyMTNfMjM3/MDAxNjEzMjI1NDc2MDcx.XoxdrAkdTktsh-Fgjj3yzg0-lOKPZVnp15Tb-fOJ5a4g._IKioS94Pce6fQEYTukEQ-nrJRnbMnvLhf_eHoZWK-Yg.JPEG.hyunny997/profileImage.jpg"
+          },
+          {
+            "sid": "1512774162",
+            "bodySummary": "순천 맛집 <아마씨 아름엄마 씨앗밥상> 내돈내산 - 아마씨 아름엄마 씨앗밥상 - o 주소: 전라남도 순천시 역전2길 50 o영업시간: 11:30~20:00(매주 목, 금 휴무) o",
+            "url": "https://m.blog.naver.com/sdow000/223268336932",
+            "nick": "카카오 콘",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTEyMjFfOSAg/MDAxNjQwMDg0NzM3NDU1.wpEcaa5BlNUMHcZVsxMLBm0n4ISRKxakas-czQRn078g.xmfeIHUpKalVAjgPGR9IJNTPVx3wXWMR2e26n807KnEg.PNG.sdow000/%25EC%25B9%25B4%25EC%25B9%25B4%25EC%2598%25A4%2B%25EC%25BD%2598.png"
+          },
+          {
+            "sid": "1512774162",
+            "bodySummary": "전주 여행에 이어 순천 여행했을 때 간 첫 번째 맛집이에요~! 가게 이름이 ‘아마씨 아름엄마 씨앗밥상’ 이름이 길죠~? 순천역에서 멀지 않아 도보로 이동이 가능해요^^ (도보 약 ",
+            "url": "https://m.blog.naver.com/aeryeon1223/223262941504",
+            "nick": "JJeong",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA0MTZfMTMz/MDAxNjE4NTA0MzQxNDAx.1LtQ2xhT2-QsVRdbeV3jEX4dG-Qmg-cKXA3qa6QtItYg.oykdQHrvqKBixkZrhLqiJ3q3AN5Lc37Vr0DDaGeVJUAg.PNG.aeryeon1223/profileImage.png"
+          },
+          {
+            "sid": "1512774162",
+            "bodySummary": "순천 정원박람회 가기 전, 건강한 한끼를 먹이겠다고 맛집을 찾아준 친구에게 감사를! 아마씨 아름엄마 씨앗밥상 영업시간 AM11:30-PM8:00 (break time 3:00-5:",
+            "url": "https://m.blog.naver.com/gumigumiii/223246869626",
+            "nick": "구미구미gumigumi",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA5MjRfMjEy/MDAxNjYzOTQ5MTgzMTE0.WFBTpLkpTXXst_wAOtigkI1E2yIJUlWER5cFPphUOjog.X1snUUEYhuELaYU9gyjNGxHhxxvgwAoviVgXgQBizrQg.PNG.jinigumii/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 26,
+        "id": "1661350660",
+        "name": "청춘카츠",
+        "x": "127.4987364",
+        "y": "34.9479495",
+        "distance": 0.248,
+        "categoryName": "일식",
+        "categoryPath": [
+          [
+            "220036",
+            "220038",
+            "220082",
+            "220812"
+          ]
+        ],
+        "category": [
+          "일식",
+          "돈가스"
+        ],
+        "reviewCount": 119,
+        "averagePrice": 10000,
+        "address": "전라남도 순천시 조곡동 139-3 6동 1층 7호",
+        "roadAddress": "전라남도 순천시 역전길 34",
+        "abbrAddress": "조곡동 139-3 6동 1층 7호",
+        "shortAddress": [
+          "전남 순천시",
+          "역전길 34"
+        ],
+        "displayContext": [],
+        "labelTheme": "점심특선",
+        "microReviews": [
+          "가츠동 정식 한 그릇의 든든함"
+        ],
+        "cardDescription": "가츠동 정식 한 그릇의 든든함",
+        "description": "청춘카츠는 국내산 한돈을 사용하며 모든 재료를 손질, 제조하여 돈까스부터 소스까지 직접 만들고있습니다^^ 청춘카츠는 일식돈까스입니다 기존의 용당돈까스-> 청춘카츠로 매장이전하면서  ",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20240312_215/1710215290881lM22W_JPEG/IMG_3491.jpeg",
+          "https://ldb-phinf.pstatic.net/20240330_60/1711770535195Vi5qr_JPEG/IMG_3830.jpeg",
+          "https://ldb-phinf.pstatic.net/20240330_86/1711770440424jFy2N_JPEG/IMG_3312.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220812",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 27,
+        "id": "17072989",
+        "name": "소가네 추어탕",
+        "x": "127.4957229",
+        "y": "34.946398",
+        "distance": 0.208,
+        "categoryName": "찌개,전골",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220065",
+            "220658"
+          ]
+        ],
+        "category": [
+          "한식",
+          "찌개,전골"
+        ],
+        "reviewCount": 35,
+        "averagePrice": 10000,
+        "address": "전라남도 순천시 풍덕동 1263-11",
+        "roadAddress": "전라남도 순천시 팔마로 65",
+        "abbrAddress": "풍덕동 1263-11",
+        "shortAddress": [
+          "전남 순천시",
+          "팔마로 65"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [],
+        "cardDescription": "전라남도 순천시 풍덕동 1263-11",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTJfNTIg/MDAxNzYwMjcyNjk4NDA3.DOmSnS3t8vJHpy3EsIoVnT8vC0gO92NhlssPzqZ24v4g.DjPFOA_CuR3CQ48iZPrCs-rOY91EYAtziF9ZBTFHzV8g.JPEG/IMG_20251012_105739439.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20200411_73/1586599136305ogq0e_JPEG/XhRzo61m4FZ83QZo5y351elB.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220658",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

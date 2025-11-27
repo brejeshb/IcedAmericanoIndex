@@ -1,0 +1,87 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 1,
+      "count": 1,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.97686342627625,
+          "minY": 37.5665,
+          "maxX": 126.978,
+          "maxY": 37.5674009009009
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.97743171313812;37.56695045045045",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "18688133",
+        "name": "프레스클럽",
+        "x": "126.977834",
+        "y": "37.5673683",
+        "distance": 0.058,
+        "categoryName": "양식",
+        "categoryPath": [
+          [
+            "220036",
+            "220044",
+            "220126"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "양식"
+        ],
+        "reviewCount": 44,
+        "averagePrice": 0,
+        "address": "서울특별시 중구 태평로1가 25",
+        "roadAddress": "서울특별시 중구 세종대로 124",
+        "abbrAddress": "태평로1가 25",
+        "shortAddress": [
+          "서울 중구",
+          "세종대로 124"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 태평로1가 25",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220126",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

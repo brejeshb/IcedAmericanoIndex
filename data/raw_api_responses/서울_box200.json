@@ -1,0 +1,484 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 6,
+      "count": 6,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.9666342627626,
+          "minY": 37.5665,
+          "maxX": 126.96777083648634,
+          "maxY": 37.5674009009009
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.96720254962446;37.56695045045045",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "2028788371",
+        "name": "도원",
+        "x": "126.9673413",
+        "y": "37.5669224",
+        "distance": 0.013,
+        "categoryName": "중식당",
+        "categoryPath": [
+          [
+            "220036",
+            "220039",
+            "220091",
+            "220861"
+          ]
+        ],
+        "category": [
+          "중식",
+          "중식당"
+        ],
+        "reviewCount": 647,
+        "averagePrice": 10000,
+        "address": "서울특별시 종로구 평동 164 서울적십자병원 별관 3층 도원",
+        "roadAddress": "서울특별시 종로구 새문안로 9",
+        "abbrAddress": "평동 164 서울적십자병원 별관 3층 도원",
+        "shortAddress": [
+          "서울 종로구",
+          "새문안로 9"
+        ],
+        "displayContext": [],
+        "labelTheme": "중식",
+        "microReviews": [
+          "신선한 재료로 만든 중화요리의 정석"
+        ],
+        "cardDescription": "신선한 재료로 만든 중화요리의 정석",
+        "description": "서대문 맛집 도원 중식당! 데이트, 소모임, 단체 모임에 딱!  서울 서대문역 4번 출구 바로 앞, 서울적십자병원 별관 3층에 위치한 도원 중식당은 서대문 맛집으로 입소문 난 정통 중화요리 전문 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjhfMyAg/MDAxNzUxMDkzODUxNDgx.8ZWEn0O4HYT7mGfKGZuColaU2uV7qn_KUhWWV2jKJ9og.zHcVP-LvBDCqnXeWtBK_wN6gXL7PZxRYIKWIriXHWOgg.JPEG/20250628_154501.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDJfMTU3/MDAxNzU5MzgyNzMyNTI5.a1j_-uECn6NaTswGiR0u6Vk8-JExIRJwjcQVoz-3dgsg.otpYc-lcQ6yhh7gdaWppdYFBEwMMTdo-TEOKBY4s9-4g.JPEG/3C17F1E3-0B51-427E-8A3B-B53A6FD6CBBD.jpeg",
+          "https://ldb-phinf.pstatic.net/20250508_170/17466767760467w8Fm_PNG/%B5%B5%BF%F8%B3%BB%BA%CE11.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MzBfNjQg/MDAxNzU5MjA5MjE3MjAw.rbIum_HunHyqUt7yXVKrbeoej--01wMS8qC4SK4NPjog.fJ-K_k4oRvWK4m398Ee-wtgvGhLiBFQ8gGpv0P7SSwgg.JPEG/20250930_140914.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250510_85/1746854537581K9VPR_JPEG/%C0%CF%BF%E4%C0%CF%C1%A4%BB%F3%BF%B5%BE%F7.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTFfNjYg/MDAxNzU3NTY5NDExNjE0.l_D54dcJwFsVrwp6TSdAUTrqBjnHUf-QPsHkR3EHpXIg.LUMbjP_OYgZ6seBYRQ2j7ZGJjkDCAQjxjHxCcA5manUg.JPEG/image.jpg",
+          "https://ldb-phinf.pstatic.net/20250516_165/1747370066693lca9Y_PNG/%B5%B5%BF%F8.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDlfMTAx/MDAxNzU5OTg5MDk1Mjc4.sjztV6puVoGPjBYr1Zwf82Hy6uvTh2hlijyHFBvgKtUg.Xt_MaUjTFgr8AfIQX_dVdj6oTRDLIheb0XXG5ZEa1Ykg.JPEG/20251009_144714.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjNfMjc0/MDAxNzU4NjE1MjM1Mzc0.QP4pIyTAOv8dnPpxCY8Ol8nBlqRB_gdyd9LSwFjdzpAg.njZWhA6KDiRW5GTgu96_TguEDFdATvAquBScM2g6UxQg.JPEG/1000010370.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDlfMTA5/MDAxNzU5OTkwMjIwNTEy.e70GKS7DR9Oki8Ln_7coWN5UUzGrhv3VYQf3Qo3i9Scg.1Trt_pVE4v9TVW3qCmThfE9PHHYQfQSv-9vuS8J3fVcg.JPEG/image.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220861",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "181316553",
+        "name": "봉평 옹심이 막국수",
+        "x": "126.9673144",
+        "y": "37.566902",
+        "distance": 0.011,
+        "categoryName": "국수",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220062",
+            "220628"
+          ]
+        ],
+        "category": [
+          "한식",
+          "국수"
+        ],
+        "reviewCount": 2488,
+        "averagePrice": 10000,
+        "address": "서울특별시 종로구 평동 164 2층 ( 164, 적십자 별관)",
+        "roadAddress": "서울특별시 종로구 새문안로 9",
+        "abbrAddress": "평동 164 2층 ( 164, 적십자 별관)",
+        "shortAddress": [
+          "서울 종로구",
+          "새문안로 9"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [
+          "쫄깃한 식감의 옹심이 한 그릇"
+        ],
+        "cardDescription": "쫄깃한 식감의 옹심이 한 그릇",
+        "description": "<감자 옹심이?, 이거 먹으려고 서대문 역 직장인들이 줄을 섭니다>  오전 11시 30분이 되면 서대문 역부터 종로 광화문까지, 수많은 직장인들이 몰려와 31개 테이블을 모두 채우고 대기번호는 금 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDlfMjQz/MDAxNzYwMDAzNDQ1NTQ1.UJClqgxkaMIS9sDE8Dpmq6qed0KBD1z1IbzfwZgYVX8g.VOv586cB9o5JfCzWLF85j3ozMOsRQ0AVPF5dQZqDx2og.JPEG/698E952F-F17F-496D-BACE-B3E3DBCC75E8.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDFfMjg0/MDAxNzU5MzA4ODczOTEy.cT9QAcX3MP9nVF51VqGlA1HLzyOg770_HbB280KrZjMg.5CUd75Z-Nvkc5h7NBfpE5pO1I20xQH7R87oDZA0AHX4g.JPEG/20251001_174304.jpg",
+          "https://ldb-phinf.pstatic.net/20250822_6/1755872450131zjwFJ_JPEG/KakaoTalk_20250726_114230625.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjZfMTk0/MDAxNzUzNTIwNzAwMjg4.8QX-H-5MCenUoZEsG5Uc3bYeSflU36AlTWXTsW8g6Lgg.dvAhlIu9yYt5eyTg2udTJqiOT5gtsIxy-l9uGFQfaHEg.JPEG/1000079791.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250822_265/1755872434484xJPYg_JPEG/KakaoTalk_20250726_114230625_01.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTFfMiAg/MDAxNzYwMTU3Mzk0MTIw.MERL7RTv87oKH0tNG1c0chLi_q9wodiSDf00XZyj-z8g.rIwSs4ildw6Ncxebk4itG6DldN45X91tPxrK3zYm6-sg.JPEG/4ED76906-C9C3-498F-B76A-CD81DFA58C48.jpeg",
+          "https://ldb-phinf.pstatic.net/20241118_116/1731857512299F8XJx_JPEG/%BF%C0%C7%C2%B0%F8%C1%F6_%C1%F8%C2%A5_%C3%D6%C1%BE.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTRfMTY2/MDAxNzU1MTQ0Mzc3NjAz.wwwqrVC10chwbaDBcNrrJ3P4fWMQViMsQ6IdVEVWhYkg.w161pVlpCf5MHOwRrqXfeQT_nPnye2OTicDEZM2AVQcg.JPEG/19A7C9BE-A6D0-4D6B-924D-A52E1185CACE.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDlfMTQg/MDAxNzU5OTg3NzI3NjQ3._dhkox8EFn4Gew1sEASjNDO_XapEh9XM3vVkMDnZeEIg.pb3ZJVsX44kHUQjK-qkp0wb_7yUqtaH6Gd19ulN-udYg.JPEG/20251009_141952.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjVfODkg/MDAxNzYxMzg2NDc4NzM1.8U7mUHkh8A2yHV_MikxBmawLn7vAaiUcNsJBwW1p8Q8g.itQFdByop_7zLFHIzIAnFyTQ_cMdrQV919JFdTlv-p8g.JPEG/16067704-33A3-4CD7-BBB7-A0C65D682FE7.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220628",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "181316553",
+            "bodySummary": "봉평옹심이메밀칼국수 찾아가는길 #메뉴와 주문 내역 #봉평옹심이메밀칼국수 내부 #보리밥 #메밀정식 #메밀만두 ☆ 위치: 서울 종로구 통일로 156-1 협신빌딩 ☆ 영업시간: - 월 ",
+            "url": "https://m.blog.naver.com/mo-ney/223386771027",
+            "nick": "WillB부자",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA1MDJfMTcz/MDAxNjgzMDAzNDY3MjM0.BaYIeBWZnOoYInsI6SlClxhJvlQtNV23EAODOFR9Wswg.832Vw-PikSas607Gpta6UTJbYTJUPpHWuSxHIEx3O6Yg.JPEG.thefight_l/%25EB%258B%25A4%25EC%259A%25B4%25EB%25A1%259C%25EB%2593%259C.jpg/%25EB%258B%25A4%25EC%259A%25B4%25EB%25A1%259C%25EB%2593%259C.jpg"
+          },
+          {
+            "sid": "181316553",
+            "bodySummary": "종로 봉평옹심이메밀칼국수 or 봉평옹심이메밀칼국수 종로 서대문역 근처 강북 삼성병원 맛집 봉평 옹심이 메밀칼국수집은 지하철 서대문역 4번 출구에서 도보로 4분 소요, 저랑 엄마는 ",
+            "url": "https://m.blog.naver.com/toly9010/223376605310",
+            "nick": "신도비",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA2MjBfMTUw/MDAxNjU1NzE2MTA2NDA1.UIaRpwKZIwiVH1hrqZjbVIo4jI35uK1hC_U_AJDYfDwg.FsXiKmSaBN9iGaBLXPpCUzYp-e1zpeNuJfsIDPaSZVsg.JPEG.toly9010/KakaoTalk_20220620_180759153.jpg/KakaoTalk_20220620_180759153.jpg"
+          },
+          {
+            "sid": "181316553",
+            "bodySummary": "[메뉴판] 옹심이메밀칼국수 -옹심이만/메밀칼국수만/옹심이+메칼 메밀정식(메뉴+수육) -물막국수/비빔막국수/회막국수+수육 메밀전병/메밀전/메밀만두 육개장/육칼국수/수육 [이용시간] ",
+            "url": "https://m.blog.naver.com/drawinghee/223371643107",
+            "nick": "희재",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMjlfMjYz/MDAxNzAxMTg4MTU2NDEy.hVd8jHezbk2GrKx2u3-RBehGkE60yyoEenysTNALuIAg.ifV8kSl5TJV4Huzte2-3__f_CcIh5KgD5l2peJWe_e8g.PNG.gmlwo2707/profileImage.png"
+          },
+          {
+            "sid": "181316553",
+            "bodySummary": "경희궁자이아파트 근처 맛집 찾는다면, 서대문역맛집으로 유명한 종로칼국수집이 하나 있다. [봉평옹심이메밀칼국수] 여기에서 멀지않은 곳에 연남동도 있고,, 쭈욱 내려가면 만동제과도 나",
+            "url": "https://m.blog.naver.com/minjin129/223370815488",
+            "nick": "톡톡밍차",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTAxMjhfMTc5/MDAxNjExNzk5NzY5NzI5.xDHR4_mh5JPvB9zJJZxbiNmNHjQbauHdHBowwDhADwAg.MPxtHTK28xocSFuWC3E6mhIJgRae9LCecm0ffVSChWMg.JPEG.minjin129/%25ED%2594%2584%25EB%25A1%259C%25ED%2595%2584.jpg"
+          },
+          {
+            "sid": "181316553",
+            "bodySummary": "오늘은 직장에서는 좀 멀지만 그래도 가끔 생각나고 애정하는 맛집 봉평 옹심이 메밀칼국수를 소개해드리려고 해요 이 먼 거리를 걸어서라도 가고싶은 곳! 봉평 옹심이 메밀칼국수 * 영업",
+            "url": "https://m.blog.naver.com/happinlog/223356630163",
+            "nick": "해핀",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMjZfNTcg/MDAxNzAzNTU0NjQ5MzA2.g2ruidLrgN3PzD1itfxQHegepXn9ew4xSYbI3pTBqesg.vvkDSYE3DMpg8JH3lYykqeH83Y5q2kcn6Pf4e2r2WW0g.JPEG.asdfy95/20231102_143849.jpg/20231102_143849.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "id": "1690667209",
+        "name": "막썰이회 서대문점",
+        "x": "126.9675834",
+        "y": "37.5671209",
+        "distance": 0.039,
+        "categoryName": "생선회",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220076",
+            "220792",
+            "221629"
+          ]
+        ],
+        "category": [
+          "한식",
+          "생선회"
+        ],
+        "reviewCount": 365,
+        "averagePrice": 30000,
+        "address": "서울특별시 종로구 평동 169 지하1층",
+        "roadAddress": "서울특별시 종로구 새문안로 15-1",
+        "abbrAddress": "평동 169 지하1층",
+        "shortAddress": [
+          "서울 종로구",
+          "새문안로 15-1"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [
+          "알밥정식과 우동의 완벽한 조화"
+        ],
+        "cardDescription": "알밥정식과 우동의 완벽한 조화",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTlfMjU2/MDAxNzQ3NjI2MjI5NzQy.JPhRBQHReBPYRCE0s5G6mR90jRv3DpfOvUQTlACL3ywg.7btgEwbCjg_3-hZKZ6gYf9FxvjQAjh3cqC5AV35jRJMg.JPEG/C322FDC9-12E6-4AFD-BABC-D930F9C71860.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjBfMTAz/MDAxNzU1NjYyNzY1OTA3.IoYBK-YfnAKhKzIcM6wEXf789wi3eqP_zQOgULaT0vYg.f5U7fnCwX00ECn4ToyTqKbOL7YQJ_57s6WGvtVX5dkwg.JPEG/0312E119-8E4C-4E66-A3E3-0D3580A1C4D6.jpeg",
+          "https://ldb-phinf.pstatic.net/20210630_258/1625044282537SYOkH_JPEG/8xKEKtTbYeK3t7ml7BQcRW4P.jpeg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTVfMjgz/MDAxNzQ0NzIzODQ1NTU4.bpkazKrdnA3Og_CWjebj0YOZN81T8wki6lrhrCNGgBUg.OZ1si2Teo89dJgQyE8L_DY4g8-dz56EOTejzSa4b-E4g.JPEG/9AD663D2-F03D-435C-8C95-5676AF7788F3.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MDJfMjg5/MDAxNzQzNTcyNzY3ODgw.VZNufm2bghxblA6zWdVGTyd48Xyi6iKFr6GxCRLLCmIg.poaMXHRaXMlopIW8e8lhsIHYW7zqYLE97KIxXRQ9QiYg.JPEG/7DB18968-E2A6-4277-BB6A-B00B33CDB6FC.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjNfMjYg/MDAxNzQ1MzY3ODY1ODE0.pj5lcBXVxhJaH_sPcsKfl84aPQHH-PLFjz9PbNG-9-wg.h-80JvcZ9HN8JWUkxHUp9Bhk7yZGZxESKYeIdknAEYIg.JPEG/Screenshot_20250421_231212_NAVER_Map.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221629",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1690667209",
+            "bodySummary": "서대문 회가 맛있는곳 막썰이회서대문점 서대문 룸이있는 회식하기 좋은 횟집 막썰이회서대문점 막썰이회서대문 영업시간 매주 일요일 정기휴무 월화수목금토 10:00-22:00 브레이크타임",
+            "url": "https://m.blog.naver.com/jiyoun1015/223216034464",
+            "nick": "연님",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTA3MTlfMjE0/MDAxNTYzNTM0NTQ0NTc5.YolRzLSYe-Dz0Z5txNXqqcrne7kOrGPCQxyiibJpSZog.k-eEPor7xRCaWKlKsNHIP0CH5lsr1Qd8_RyGEoZynOwg.JPEG.jiyoun1015/KakaoTalk_20190719_200833427.jpg"
+          },
+          {
+            "sid": "1690667209",
+            "bodySummary": "막썰어회 서대문 주소 : 서울시 종로구 새문안로 15-1 지하1층 영업시간 : 10~22시 (브레이크 타임 14:30~16시) 일요일 휴무 전화번호 : 02-736-0124 막썰어",
+            "url": "https://m.blog.naver.com/lusa_holic/223176077200",
+            "nick": "lusa",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjEyMTJfMjU0/MDAxNjcwODQ0MzU3ODUw.0w-LZVM_tbn7JeaG19wD7QyDPplTipFEUXjsuVt5hlog.8EaYwDjhTTDcvh7jlRDUnvFPTL7PXLKu49G27ykPMiEg.JPEG.yuich23/4-%25EC%2595%2584%25EB%259E%2591%25EC%258A%25A4%25ED%258A%259C%25EB%2594%2594%25EC%2598%25A4_DH_01454_1.jpg/4-%25EC%2595%2584%25EB%259E%2591%25EC%258A%25A4%25ED%258A%259C%25EB%2594%2594%25EC%2598%25A4%2BDH_01454_1.jpg"
+          },
+          {
+            "sid": "1690667209",
+            "bodySummary": "막썰이회 서대문 서울 종로구 새문안로 15-1 지하1층 영업시간 10:00~22:00 브레이크타임 14:30~16:00 매주 일요일 정기휴무 02-736-0124 네이버 메뉴판은 ",
+            "url": "https://m.blog.naver.com/kissms1125/223173143764",
+            "nick": "맹찌",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA2MThfMjg1/MDAxNjg3MDg5NzUzNjgx.JBnV3XYgWnl98l8uvSd_XA7rtDSxm3ugPvOJBqVfGuwg.PxahNcEOwaxmjjG4AqTB7fm8GJ9WcryAUTiTvpGcxMsg.JPEG.kissms1125/dd.JPG/dd.JPG"
+          },
+          {
+            "sid": "1690667209",
+            "bodySummary": "밑에 사진 보면 아시겠지만 정말 깔끔한 분위기의 룸횟집이라 대접하기도 좋고 우리끼리 얘기할 수 있어서 회식, 모임하기도 적절한 곳 막썰이회 서울 종로구 새문안로 15-1 지하1층 ",
+            "url": "https://m.blog.naver.com/solee1012/223044722278",
+            "nick": "im soring",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAxMTBfMjY0/MDAxNjczMzU5OTAwNTAw.p6y5JFqF24ZrYKsLvxvvzsQbnMcx-BrXZwfZdyuisu4g.-qmBUmbqmHhKkH5fi30t0O5hUkFaAW4d9QAmCZiYnVwg.PNG.solee1012/profileImage.png"
+          },
+          {
+            "sid": "1690667209",
+            "bodySummary": "얼마전 동기언니와 선배님을 한분 모시고! 다녀온 막썰이회 라는 집 후기입니당 : ) 회사근처에 막 먹고 싶을만큼 좋아보이는 횟집이 잘 없어서 근처를 찾아보다가 가게된 집인데 후기도",
+            "url": "https://m.blog.naver.com/zi_minii/222863355781",
+            "nick": "Rania",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA2MjNfMjUy/MDAxNjU1OTYxMTcwMzUw.EKvXAzyOOearC-HW3UycdUQxMG4QnBSfACc4lMv9KXgg.1apZ3yuqmgwU2Pqt26OPk9CfrP01La8J9mgqrJFyBekg.JPEG.ee5858/Resized_20210804_194914.jpeg/Resized_20210804_194914.jpeg"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "id": "1526382980",
+        "name": "스타벅스 서대문적십자점",
+        "x": "126.9673049",
+        "y": "37.5667878",
+        "distance": 0.02,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221275"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 43,
+        "averagePrice": 6000,
+        "address": "서울특별시 종로구 평동 164 서울적십자병원 별관 상가동 1층 B호",
+        "roadAddress": "서울특별시 종로구 새문안로 9",
+        "abbrAddress": "평동 164 서울적십자병원 별관 상가동 1층 B호",
+        "shortAddress": [
+          "서울 종로구",
+          "새문안로 9"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 종로구 평동 164 서울적십자병원 별관 상가동 1층 B호",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjNfMjM2/MDAxNzU4NjIxNTgzMDMx.RNq7q_SQ74l6Wvy7gG_F0ag3bHdILQmG3GENHSBtmtkg.bZWzMt_D0zNWVoYEDIuoGG3p-GK_DRdYAMRRWIQ50c0g.JPEG/C0411420-FC0E-4F1B-BF04-7ED5AF24D2C7.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDdfMjY0/MDAxNzUxODk2NjYyMzgw.gpiYRJFZW2Mv7Duv5-dfGkLck6AZXeYRMBr_zYE1vnQg.4peAPZbwjC7bXKN7OXGMBmfGUCuI99vT0BGl-vFDWEAg.JPEG/AISelect_20250707_225648_Starbucks.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20190828_93/1566953601239OT9MQ_PNG/xX7Wv642gXMoTI0DAv0hRymS.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDdfOTAg/MDAxNzU5Nzg0MzY1MzY3.q93Ngwd3RJ9oL8RdE2ti0BHrTnSu1EQiyh2pwaVGA0og.Fg1rzuBxv4AFxmWll9BEK-2Jqcug4l9vjztXLtcLQYwg.JPEG/Screenshot_20251007_055908.jpg.jpg",
+          "https://naverbooking-phinf.pstatic.net/20241226_123/1735156095477XdlJw_PNG/image.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDhfMjU0/MDAxNzQ5MzE0MTIxNTQ1.rMLGcdchlOw6Z2SLthNSvWKipcPwaXJEbziz1sgmGhog.AP3OwLPCAjpinj02aoz2B_uWD2TZ9KJOtZRuxxNO850g.JPEG/C916792C-6F91-461F-8B47-2E7A954CF914.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDhfMTIg/MDAxNzQ2NzAzMDYzMzg3.M8RNnHaV7Z3GfL3jAxBqG9eFBpdoXy_N8XRe2KAnR0Eg.LU1lnDblfSJu8MXMRurSBKrB8-958ASwke5e601YzNgg.JPEG/20250508_110853.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTBfMSAg/MDAxNzU0ODM0MjY5MzUw.qkrwQKmyaPvnejP_BFa7HyhyKxYlMQmpdzFkegzRJdkg._dZt8x6faTobVPsAsyACaJ26f2bd04Lg0Ac7RaBhe_0g.JPEG/782719D8-3900-45FE-B155-806955D645C8.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDFfNCAg/MDAxNzU0MDUyNDQ2MTky.v5Y2mOksCYrqrO9UGFbYdBDOIrqn95nczUIGFQkICNAg.vOWo6I5SapMPhcPaYqruJ0OMRcLA5KUl3iUGa72KlAAg.JPEG/9F3782AC-F311-4242-8BA9-93BEF46ED76D.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDhfMTA2/MDAxNzU3MzExNDExMTY5.heXXxRgRzQh970rGc75aEps3FTbVAkbFaQNOw5r--hog.4L1vfAwHwMNuH-ZPyZRjpGp8c-CWO2gFjnaqRhaCRSIg.JPEG/20250908_125910.heic.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221275",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 5,
+        "id": "1114588404",
+        "name": "블루포트 서울적십자병원점",
+        "x": "126.9669974",
+        "y": "37.5671805",
+        "distance": 0.031,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "1005225"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 65,
+        "averagePrice": 0,
+        "address": "서울특별시 종로구 평동 164 서울적십자병원 1층",
+        "roadAddress": "서울특별시 종로구 새문안로 9",
+        "abbrAddress": "평동 164 서울적십자병원 1층",
+        "shortAddress": [
+          "서울 종로구",
+          "새문안로 9"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "카페 블루포트 입니다. 오직 너만! 시크릿오더 어플리케이션으로 편리한 주문 하시오!",
+        "description": "카페 블루포트 입니다. 오직 너만! 시크릿오더 어플리케이션으로 편리한 주문 하시오!",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20240822_25/1724294735618F182Q_JPEG/%BA%ED%B7%E7%C6%F7%C6%AE%28%BD%C5%B1%D4_1%29_%C1%A4%BB%E7%B0%A2%C7%FC.jpg",
+          "https://ldb-phinf.pstatic.net/20241113_296/1731488480925vJIMD_PNG/%B4%F5%BA%ED%BE%F7%BB%E7%C0%CC%C1%EE__SNS%C0%CC%B9%CC%C1%F6.png",
+          "https://ldb-phinf.pstatic.net/20241105_247/1730766394864WlijI_PNG/%BE%EE%C7%C3%B8%AE%C4%C9%C0%CC%BC%C7_%B0%F8%B8%F0%C0%FC_%BE%DB%B9%E8%B3%CA_SNS.png"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1005225",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 6,
+        "id": "1535045450",
+        "name": "블루 적십자병원점",
+        "x": "126.9669974",
+        "y": "37.5671805",
+        "distance": 0.031,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 136,
+        "averagePrice": 0,
+        "address": "서울특별시 종로구 평동 164",
+        "roadAddress": "서울특별시 종로구 새문안로 9",
+        "abbrAddress": "평동 164",
+        "shortAddress": [
+          "서울 종로구",
+          "새문안로 9"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "서울특별시 종로구 평동 164",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,544 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 8,
+      "count": 8,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.98027314744748,
+          "minY": 37.561995495495495,
+          "maxX": 126.98140972117122,
+          "maxY": 37.5628963963964
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.98084143430935;37.562445945945946",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1885409242",
+        "name": "테일러커피 소공점",
+        "x": "126.9808082",
+        "y": "37.5626468",
+        "distance": 0.023,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "1002683"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 495,
+        "averagePrice": 5000,
+        "address": "서울특별시 중구 남대문로2가 111-1 1층",
+        "roadAddress": "서울특별시 중구 남대문로 55",
+        "abbrAddress": "남대문로2가 111-1 1층",
+        "shortAddress": [
+          "서울 중구",
+          "남대문로 55"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "'올바른 기준, 흔들리지 않는 마음' 'Right Standard, Steady Mind' 테일러커피는 카페문화를 선도하는 커피 도매 전문기업 입니다. 연간 100t 이상의 원두를 로스팅하여 전국의 많은 카페에 매주 공급하 ",
+        "description": "'올바른 기준, 흔들리지 않는 마음' 'Right Standard, Steady Mind' 테일러커피는 카페문화를 선도하는 커피 도매 전문기업 입니다. 연간 100t 이상의 원두를 로스팅하여 전국의 많은 카페에 매주 공급하 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MThfMjYg/MDAxNzQ3NTY3Nzc3NjEy.ICDsVPdk10vIRkkZHicM-dul-YYmH3hgVf2-LXPTrNYg.BpEogjatBgh_iKeZ4n7i4dyig3_46n8sm2xKpxLCE_0g.JPEG/C68C1AE8-9527-4B6E-AEFA-A775F6099BCD.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MzBfNjgg/MDAxNzUxMjg3NTM0ODY3._Yr-uSuHoLzKQTQuqLsuxNkzU4txPgAlrOjasGurPg0g.Ywog1mpDMolT1HEibwAHpO0fuzUkPxSMfT1llDQcE9Mg.JPEG/2461EE2A-F101-443B-818A-F8CBBB7B5E61.jpeg",
+          "https://ldb-phinf.pstatic.net/20240429_252/1714381900911AWD57_PNG/KakaoTalk_20240429_160323847.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDNfMjAy/MDAxNzQ2MjYzMTA3Mzk3.rjl7rjDhDSr1m7Shyg0hGL70kWMIsIMxUA0LwyiryE0g.BS7xGLye6Z-tUI4bMPJjME1tQzSHj8jdiIdgUydOPccg.JPEG/20250503_180015.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240429_30/1714381897276NJiOP_PNG/KakaoTalk_20240429_160329523.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MThfMjUz/MDAxNzU4MjA2MzI5NDE2.hbIoI5EeVy1grWUfAY1cl3GlIo8WIcS_BnRJvJ6jRGwg.U_j9DlV-GaDgzf993dZ5Jx08Yltt1AXmYK6TGiIYVmcg.JPEG/C970E735-1A43-46B8-B077-35D26E093EB9.jpeg",
+          "https://ldb-phinf.pstatic.net/20240516_243/1715852212598e5PcK_PNG/clip1715852050194.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTFfMTU4/MDAxNzYwMTgxNDE5Nzcw.RPzf3KPzc_aXHENgtU4WoiEcpfNt4xr6OXTqRkL3PDEg.cogR-Pcc9eoy-skWRBd8y5WKVbZfWU96gzUwTIx-6nMg.JPEG/CE1157E4-06BB-4E96-9159-E5AC57BFD716.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjBfNjYg/MDAxNzU4MzU3MzI1NzU4.ahJqMThBokYJ998etwLYuY1iBTSrH1hsG4lw-MrICbIg.RXs__9uukIDXAPw-SKq5gBmzAbfmGUdLr6zWSCsfaxIg.JPEG/42957330-5198-47C9-9803-1AAA33E53D84.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjVfMjA0/MDAxNzYxMzkzNDg1MTY1.iCzwvrBoan5Pr6f5zbwq3LCokV4G9w9kcME-iQCnu1cg.WZDoU7HlNcuLtV6t1RaIC5Gps3TWqIGYZhLhJqpLQS0g.JPEG/1000096781.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1002683",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "1132849146",
+        "name": "스타벅스 한국은행교차로점",
+        "x": "126.981169",
+        "y": "37.562263",
+        "distance": 0.035,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221275"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 41,
+        "averagePrice": 6000,
+        "address": "서울특별시 중구 남대문로2가 111-1",
+        "roadAddress": "서울특별시 중구 남대문로 55",
+        "abbrAddress": "남대문로2가 111-1",
+        "shortAddress": [
+          "서울 중구",
+          "남대문로 55"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 남대문로2가 111-1",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDRfMjA1/MDAxNzU5NTYyNzY3NDAx.pGlW__rCFuensaYU4bQnTNDegBwxYjRtdU1Zmzc9c_cg.HrPPs8_Zub9Ggml72p5KBqJvhZrnd0s7TwEAEDMxZ2Qg.JPEG/4320EAD1-6B84-4678-A233-338DF77FB71D.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjRfMjAz/MDAxNzYxMjc2ODE3NzE4.1ReH_a38Mb3ngPTwe2oREtbdXcMSYrFoU_mHxDw2HNkg.wkcJ0m4iIWZjvAAZu2AzbB-UlAZgazjkBL81VzP_3hAg.JPEG/6280FE0B-3421-43BE-9E1C-5FC9AD813949.jpeg",
+          "https://ldb-phinf.pstatic.net/20190828_93/1566953601239OT9MQ_PNG/xX7Wv642gXMoTI0DAv0hRymS.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDFfMjIw/MDAxNzU5Mjc1NTQ5NzY4.t6m-uQDRUshrer9lalTtSlasYuPkGYodCv68fKZnDFsg.GaaIBdA7TM5Qh4c6W0pr6PzddK-zH0qvdqqRR6MYDRcg.JPEG/IMG_0992.jpeg",
+          "https://naverbooking-phinf.pstatic.net/20250704_215/1751572126894RQPda_JPEG/image.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjVfMTEz/MDAxNzU2MTA1MzA3MjU2.RiNzcXfb6pQ6ZFh__ZgMSPIsIcJcCBmoguOHGOn-JG4g.atS71g7jzr8FjTgQCfvxMo8Eppgzo9NTqfqjky-hKGkg.JPEG/20250825_150015.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MzFfMTcx/MDAxNzU2NjAwNjE3MTI1.LDS61rlJtGpf96BOPQnAgiPVeRjtDBRVoX8MyOlt7j4g.c5Qd0TY_5N6zcSQyqEvU3YcDUAY_B2ziQiZUjXvro_wg.JPEG/20250831_091658.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTNfMTgz/MDAxNzU1MDcxMTU0OTEw.h8_FPVNqyulHv13vgcoY_Xvld0qnEqHBU2yu2IDa28kg.AKH46_WHKlUwkfkkm9dBePhRNq7haFgrbPeCQV70InAg.JPEG/1911D29F-76C9-4A6A-9108-AEA1BF007453.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTVfMjc0/MDAxNzUyNTUwNzcyODIw.8nXCftApR4zqoYDGD67hJyuLLETbEub8Xbleb8BcOPQg.zu8PLm6A-k7JtPqVUucXvA_a18k_Io77rY2kSFKewpog.JPEG/20250712_095854.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MThfMjAy/MDAxNzU1NDQ1NDE2OTA5._KReVAlRVol8ItBjwdmuLWcEGAk2V7FsV0STrzmBAJEg.ptBRQoGT11YFCle7v8gd2eMhK1bDUjYqPZYIrb_5kh4g.JPEG/Screenshot_20250818_003610_Samsung_Internet.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221275",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 3,
+        "id": "2040246959",
+        "name": "투썸플레이스 한국은행사옥점",
+        "x": "126.9805214",
+        "y": "37.5620607",
+        "distance": 0.051,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221238"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 5,
+        "averagePrice": 0,
+        "address": "서울특별시 중구 남대문로3가 110",
+        "roadAddress": "서울특별시 중구 남대문로 39",
+        "abbrAddress": "남대문로3가 110",
+        "shortAddress": [
+          "서울 중구",
+          "남대문로 39"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 남대문로3가 110",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTNfMTQ4/MDAxNzUyMzkzMTQ3NjMw.5BlWANj9PP4sDdcJ3QZXHIPCkP-R1CIuC_s5nXjHLeIg.L7tfOgN4BlZmZFb5e90BkwNo8eucn9lTf0L0U8wA8eQg.JPEG/20250531_155313.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDJfMTU3/MDAxNzU2ODAzMzkwMzI4.faHLMQpvMi3AeO-LyKi9_wQDCQvCyvQky3Zb0-VfWogg.z99szdT8gI84ISLUSbNHaqVEDUx3CQ-ssi7p5LfY0wQg.JPEG/20250829_125727.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDJfNzgg/MDAxNzU2ODAzNTc1Njc1.0NHWljZmOXIkAQB0_DQB4CrL559qDyjYOtecsRz7-Oog.l3VHTmj-386DN8pOJAJrF7MlQcrji4Sw-Z9pV-Qfchsg.JPEG/20250829_125746.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221238",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 4,
+        "id": "1536438771",
+        "name": "한국은행화페박물관 카페",
+        "x": "126.9805213",
+        "y": "37.5620607",
+        "distance": 0.051,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 166,
+        "averagePrice": 0,
+        "address": "서울특별시 중구 남대문로3가 110 한국은행화폐박물관",
+        "roadAddress": "서울특별시 중구 남대문로 39",
+        "abbrAddress": "남대문로3가 110 한국은행화폐박물관",
+        "shortAddress": [
+          "서울 중구",
+          "남대문로 39"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 남대문로3가 110 한국은행화폐박물관",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 5,
+        "id": "1912770822",
+        "name": "소공까페",
+        "x": "126.9805213",
+        "y": "37.5620607",
+        "distance": 0.051,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 38,
+        "averagePrice": 0,
+        "address": "서울특별시 중구 남대문로3가 110",
+        "roadAddress": "서울특별시 중구 남대문로 39",
+        "abbrAddress": "남대문로3가 110",
+        "shortAddress": [
+          "서울 중구",
+          "남대문로 39"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 남대문로3가 110",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 6,
+        "id": "1989384192",
+        "name": "바리에가타 명동",
+        "x": "126.9810557",
+        "y": "37.5624933",
+        "distance": 0.02,
+        "categoryName": "이탈리아음식",
+        "categoryPath": [
+          [
+            "220036",
+            "220044",
+            "220127",
+            "220913"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "이탈리아음식"
+        ],
+        "reviewCount": 1441,
+        "averagePrice": 40000,
+        "address": "서울특별시 중구 남대문로2가 111-1 B1층",
+        "roadAddress": "서울특별시 중구 남대문로 55",
+        "abbrAddress": "남대문로2가 111-1 B1층",
+        "shortAddress": [
+          "서울 중구",
+          "남대문로 55"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [
+          "신선한 재료로 완성된 정갈한 플레이팅"
+        ],
+        "cardDescription": "신선한 재료로 완성된 정갈한 플레이팅",
+        "description": "우연한 발견에서 오는 즐거움을 전하는 바리에가타의 두번째 시리즈  명동의 오랜 역사를 대표하는 구 한국은행 별관 지하에 바리에가타의 두번째 시리즈가 펼쳐집니다.  바리에가타 명동은  ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjZfMTQ2/MDAxNzYxNDc4ODY2NDMw.Vcv2kDekmJ0GdRCTUOwJZShF_OpQedfNiH54xD-DQZUg.7bcU1lAmm3AYmnUyazo4JOsfCb4KNLK-fV53ab2iPdgg.JPEG/4B2FD5A0-D54C-49E9-B074-B339880260CA.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTRfMTc0/MDAxNzU3ODIyNTg3MTkw.fHb_kf9zLQXt6nAEwr2X6KS8tNFBhS64_nkSu_NgigQg.IJgnQuDkipQjNew-k7DGcfRc_ANekP5jFpVz_aPJBmwg.JPEG/20250914_121928.jpg.jpg",
+          "https://naverbooking-phinf.pstatic.net/20240907_39/1725690878943DpE3n_JPEG/5I5A6610_copy.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDdfMjcz/MDAxNzU5ODA4ODU3NTk3.E4E8RpcSBnnH4PeEyc805LpGi9gDV32TQaVKWYlH46wg.xDgg7iyX4DKYMkpmy7aR4Isl-7GP7mpug5cco2k5VuAg.JPEG/9CF42943-D0B6-4DB1-B6D3-A02FA50BC477.jpeg",
+          "https://ldb-phinf.pstatic.net/20250909_77/1757420437066A6AWo_JPEG/DSC01104.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjlfMzAg/MDAxNzUzNzgyNzEzNDE5.qqyG-i-BX3t5qSSk-LgxWAQDXbfYa2pPJuVIUQfDY78g.3v5Qw_U-AXVC4RCEvxeR3eMoPa-r09hoQt2yLpI6xAMg.JPEG/6E819B7B-C294-4FB7-97AD-D05264E48BEC.jpeg",
+          "https://ldb-phinf.pstatic.net/20250909_244/1757420437162xdhIC_JPEG/DSC01061.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDRfNjAg/MDAxNzU5NTc1MjM4MDM0.shcDjyfVe3jyjCS-WG1rHfgCkaQSie5xvTKHzJBfI0Ag.sR_dc_QvNI6056TtEs4Bc4P2RnZ0hp1xepPvyBxYGfwg.JPEG/20251003_125030.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MzBfMTM2/MDAxNzUxMjc1Mjk1NDI3.oC1K8npel-FT3RyYObyp5_vtIVYC7IANixH8l_QJQxUg.eScpV1iLXklfqYr0ZpPPC3q4mC7yo70PZ48FM7nGq8Mg.JPEG/1000016699.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDlfMTM3/MDAxNzU0NzMxMjQ1MjM3.81Z2HkfqwmTuuNiJv3CPuFEA5Df1v6Uazn5tl4STCRsg.TVB6ywJvOc_Mvu9ar9EDGfFcFVU1SiJ-7gv0a67tcT4g.JPEG/8652E928-FCCD-4B31-83A0-8321933615B8.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220913",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 7,
+        "id": "1763604868",
+        "name": "오공일 명동점",
+        "x": "126.9810557",
+        "y": "37.5624933",
+        "distance": 0.02,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 755,
+        "averagePrice": 10000,
+        "address": "서울특별시 중구 남대문로2가 111-1 2층",
+        "roadAddress": "서울특별시 중구 남대문로 55",
+        "abbrAddress": "남대문로2가 111-1 2층",
+        "shortAddress": [
+          "서울 중구",
+          "남대문로 55"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [],
+        "cardDescription": "명동에서 프리미엄 갈비찜과 대창떡볶이, 한식의 모든것을 맛볼 수 있는 곳,  명동역 도보 5분 거리, 깊고 진한 특제 양념의 소갈비찜, 쫄깃한 대창과 매콤한 소스가 어우러진 대창떡볶이, 불향 ",
+        "description": "명동에서 프리미엄 갈비찜과 대창떡볶이, 한식의 모든것을 맛볼 수 있는 곳,  명동역 도보 5분 거리, 깊고 진한 특제 양념의 소갈비찜, 쫄깃한 대창과 매콤한 소스가 어우러진 대창떡볶이, 불향 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjRfMjI3/MDAxNzYxMjkzOTU3MzU0.JXwNjriGXNnmHVhA4abl8uSee9z6ytNAUTNTCAfduwkg.h55uoH6S9D0V3batD9zkICSkWEt5dXwHQ-xkJONnh7gg.JPEG/CD40AE65-8ECD-49F1-A181-286B60EC5EB1.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTFfMjgw/MDAxNzU0ODk2NzI0Mzkx.qO-KnZ_EMGQJX4jR7-lc6aeEiwQyYxL9c8iHar40NQcg.7gNt1yLI5-dANGJpiUWtu2sU86R6Q085HEvBR1oVK0wg.JPEG/20250810_130757.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250123_170/1737631784260shegj_JPEG/%B4%D9%BF%EE%B7%CE%B5%E5.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjBfMjcw/MDAxNzQ3NzQ0MTA2NTMz.bNlXdWiXBEUPMZu1QeNCWS6Thqxjfmrr1E7slbOh6N0g.ZBX2fjXAijwYoKL2Dcji3qmr3sa8BF7PjQZuejwDSsUg.JPEG/74B2DE21-3EB6-4D40-965A-2FFB89F11D49.jpeg",
+          "https://ldb-phinf.pstatic.net/20240419_174/1713519203230B38EG_JPEG/KakaoTalk_20240419_183032368_12.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjJfODAg/MDAxNzUwNTgyNDk2NTE0.K2rOSJ0PGiLe2FOeas5SoNsxBmWiB-ZnUZnTxVZbP6Ig.buqo6z8L2twM3fcTg0yKiuwYN17eQqS5lUobqeNiGIQg.JPEG/20250618_131459.jpg",
+          "https://naverbooking-phinf.pstatic.net/20240504_80/1714796575982Aj51p_JPEG/KakaoTalk_20240504_110252807.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDhfMTkx/MDAxNzUxOTM5NTg4MDE5.NFpirk1tVzrg4-n0-tsxp51xZVGe2VpZR_UpNlr-m3Ig.1VJLIFUJp4j_T3KDoiklr2sIXrZ_1oA0ITanASYkt9sg.JPEG/1000050880.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjdfMTIz/MDAxNzUzNTk3NTkxMjc3.pEZeoObuOsdqbxS_M0t-fv87czauYU_IEnyCF3mNLB4g.MTApKdVaCeyWWTlTnKQwNy8Mwo8GZOByZ4bUdseD6qog.JPEG/20250726_114404.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTNfMTEy/MDAxNzQ5ODE1NjYwMTY4.5-UKMNR31juuAhumaiuc6AlEpI9CVwJr6S52-_aDvOQg.Z-AAPSC1kK7qR_FkKE3FaUAxpvq4Z5Dh9Y7aqN8ALqYg.JPEG/6E09A747-16BA-4F3D-BDC2-44DD19CE8ED7.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 8,
+        "id": "1070553322",
+        "name": "더펄 바이 그릴도하 명동점",
+        "x": "126.9810557",
+        "y": "37.5624933",
+        "distance": 0.02,
+        "categoryName": "양식",
+        "categoryPath": [
+          [
+            "220036",
+            "220044",
+            "220126"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "양식"
+        ],
+        "reviewCount": 661,
+        "averagePrice": 40000,
+        "address": "서울특별시 중구 남대문로2가 111-1 2층 201호",
+        "roadAddress": "서울특별시 중구 남대문로 55",
+        "abbrAddress": "남대문로2가 111-1 2층 201호",
+        "shortAddress": [
+          "서울 중구",
+          "남대문로 55"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [
+          "부드러운 양갈비와 다양한 후무스 조합"
+        ],
+        "cardDescription": "부드러운 양갈비와 다양한 후무스 조합",
+        "description": "2017년 오픈한 한남동 블루리본서베이 선정 맛집 그릴도하 한남점에서 신규 오픈한 명동 매장입니다. 신세계 파사드와 소공동이 조망되는 파노라마뷰에서 즐기는 지중해식, 더욱 다채로운 그릴",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTdfMjMx/MDAxNzYwNjk3NTk1MDQ5.BiQY7kty7bFgKBdJHyUh9QeVXl5PQQjfPHR0wXSmtvUg.P_B3MsgPQPPn-g790RTbtwxWSxgbHNOFlzCBmoKHtpgg.JPEG/20251017_183247.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjBfMjM0/MDAxNzU4MzQ3NTgyODUz.S2NcOFWDHetpnrk9ymwqzqe_SzTkbkg0UpMEb53J18kg.OMzvgoOzWiMbGZB4NchiyhEvUtndTgOMeIUxOLJvzL8g.JPEG/20250920_141713.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240715_201/1721039684614ue1pL_JPEG/%BA%A3%BD%BA%C6%AE.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MzBfNzQg/MDAxNzUxMjc2NzcwMjkx.YnLo_nJAVPsqo-ppcG-wytx5WsH7a8aTH5dirrZy9Ogg.zZ-6lSyzKPHWs2lhxXsCRcxDXG518iKHMmy8RgXkVt0g.JPEG/F19F424B-EF6F-4D7E-AA8F-2EA66FE106B4.jpeg",
+          "https://ldb-phinf.pstatic.net/20240715_262/1721039667775x5VlT_JPEG/%C0%FC%B0%E61.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjFfMjg5/MDAxNzU4NDI2MDc1ODUz.gqkvInxh6XyLqNed70jP-MkRIzrTcLXmjNWvnvGd3S8g.qy5Y6gSVNgeSkKVIV26QnKFoCXHVjvcltccvN3Zj7vQg.JPEG/5CE9BD98-C2EA-4AAD-A774-A50DC96E19B3.jpeg",
+          "https://naverbooking-phinf.pstatic.net/20240715_196/1721045864122VzEcY_JPEG/DSC_2149.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjBfMjcx/MDAxNzU1NjYwOTY2MjA3.Yu7XaZ3fPlB1Q3fe2Z1thiNeTVTFrjvXTBwJxg6jzjog.I3ShKcdlN8CT4j6Q-DlbvGmAIJeN9gbSBB1Oa805YL8g.JPEG/20250820_120629.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjBfMjYz/MDAxNzU1Njc2MDU1Mzk0.ngt3ueKejJjKMPgXF1Kr5HrEPlOb5ByhEUEzfXdAjyEg.pBnAqOcYGzU6B6BEEkt5wZPYn9Rzuzr15VE2tlDXef0g.JPEG/20250802_113633.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTNfMTky/MDAxNzU1MDYxNzg5NDM0.qbQ6YK2gJxrr6zP-SBRc0-gY7QB3vauYKLbJMRb_2-Ag.PiNYLToe-H8VAdcd5a9ioW3MKXL8JfrPS38Q-q38J5gg.JPEG/4CA2FD49-0D78-4983-85A0-4B7DF3B93C2E.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220126",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

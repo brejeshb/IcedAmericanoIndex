@@ -1,0 +1,650 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 8,
+      "count": 8,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.97004398393382,
+          "minY": 37.57370720720721,
+          "maxX": 126.97118055765756,
+          "maxY": 37.57460810810811
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.9706122707957;37.57415765765766",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "31148531",
+        "name": "프레드매스",
+        "x": "126.970282",
+        "y": "37.5742396",
+        "distance": 0.031,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221212"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 192,
+        "averagePrice": 5000,
+        "address": "서울특별시 종로구 내수동 95 파크팰리스 102동 3,4라인 1층 프레드매스",
+        "roadAddress": "서울특별시 종로구 사직로8길 20",
+        "abbrAddress": "내수동 95 파크팰리스 102동 3,4라인 1층 프레드매스",
+        "shortAddress": [
+          "서울 종로구",
+          "사직로8길 20"
+        ],
+        "displayContext": [
+          "카페",
+          "로스팅",
+          "핸드드립"
+        ],
+        "labelTheme": "생방송오늘아침 방영",
+        "microReviews": [],
+        "cardDescription": "프레드매스는 스페셜티커피를 소개하고 맛있는 필터커피를 내려드려요.",
+        "description": "프레드매스는 스페셜티커피를 소개하고 맛있는 필터커피를 내려드려요.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDJfMTU1/MDAxNzU5MzkyNDQ1Mjg2.ZEUkqLBfQWyw1FjjN_5gIpx0k6Y72HaSXECDlUtc6lsg.il_JPIb6HtgyiAgz_-7Aa3BJpshz7v9sE6wkdFu9zI4g.JPEG/1000056583.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjlfMTA2/MDAxNzQ1OTEwNTA2NzQz._dahB2CcpPx1q5FWOqQwQyFtagngDJTWqGm6zAXoAb8g.Ff8fM7B-It40S436wLz-jQuXRCffZs4so9Y44qNN3Kgg.JPEG/IMG_1253.jpeg",
+          "https://ldb-phinf.pstatic.net/20250514_128/17472310981203IgUz_JPEG/IMG_8072.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjhfMTgy/MDAxNzQ4Mzk2NjMxMTA0.LPyoksxFXMVV_MkhBL3OAhPFI7qZwqzkgDdUcuTYR2Mg.8d8YpEILUtqlFRIAqUHkRItRwt72VnvbTbSosvWWdvwg.JPEG/D6F50BFC-8E4D-43AC-A066-620D794C00A8.jpeg",
+          "https://ldb-phinf.pstatic.net/20230528_27/1685245237670HlAs5_JPEG/89B24953-A447-4D48-B579-1514AEF8185A.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MDFfMTE0/MDAxNzQzNDg4NDk1NDUw.yibnuMrNdoewtomDS1rKmm-0TMUyJN-G1F-0E8QQy0wg.HLPxm12yRkJbRFvCb_GePEw2eH0usSG2g5dC2Yd8xHYg.JPEG/13AD06DC-50D8-4F89-8F85-810F5ABC290A.jpeg",
+          "https://ldb-phinf.pstatic.net/20220725_275/1658742531618h1Ra2_JPEG/167B73EB-09D7-4741-AA0E-0409ED95685D.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjdfOTMg/MDAxNzU2MjUwNTE2MDcx.PeLUM6bE_R8qQ_j1DVcbbA3P9YNGu8dlCCWhCQ-zHGsg.anlqgwRATkjM4kUhTfCQVrWOH_4RFNxUbUtzEVljeFkg.JPEG/20250827_081933.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221212",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": true,
+        "broadcastInfo": {
+          "name": "생방송오늘아침",
+          "menu": "스페셜티커피"
+        },
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "31148531",
+            "bodySummary": "파크팰리스 1층 외부 상가에 있는 곳인데 처음 가보는 곳이다. 동기가 추천해줘서 가봄! 숨겨져있던 카페... 이 근처 정말 많이 다녔지만 처음 보는 곳이었다ㅋㅋㅋ 내부는 자리가 많",
+            "url": "https://m.blog.naver.com/clzlsalskfl/223292335848",
+            "nick": "듀이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAxMDRfMjk1/MDAxNjcyNzU5MzcwNTky.lAnHPbCl5zK7Oyfc_J5oAABK6354vByxVgf0ceL8SmYg.40vRmB21gR_kvWU2QrNdkR3iQk6DWqoqUh3DRX0wNAsg.PNG.clzlsalskfl/profileImage.png"
+          },
+          {
+            "sid": "31148531",
+            "bodySummary": "원래 가면 핸드드립 위주로 먹었는데 정말 오래간만에 방문해보니 여러가지 시그니쳐 메뉴가 생겨있었다! 그래서 시그니쳐 메뉴 중 디카페인이 가능한 너티프레드를 먹음 초코 아이스크림이 ",
+            "url": "https://m.blog.naver.com/mj5235/223279215286",
+            "nick": "보로보로",
+            "profileImg": ""
+          },
+          {
+            "sid": "31148531",
+            "bodySummary": "#광화문 에서 정갈한 커피 한잔 마시고 싶을때 찾는 #프레드매스 파크팰리스 상가 한켠에 작게 숨겨져 있어 아는 사람들만이 혹은 소문듣고 찾아가는 곳 월~금(10:00 - 19:00",
+            "url": "https://m.blog.naver.com/cookie_monstar/223167543548",
+            "nick": "쿠키몬스터",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAyMjFfMjk2/MDAxNjQ1MzcyMDI2NDYw.woElVDmxzTdOdM4QbH18Tpc-aXX1mO4iEJMurVX8T3kg.lXC0RbVVtl5eboK0v1vJfHrmN54h08of9mBqRt56uwog.JPEG.eunjeesophie25/profileImage.jpg"
+          },
+          {
+            "sid": "31148531",
+            "bodySummary": "프레드매스 Fred Mass 월~목 10시-19시, 토 12시-18시, 일요일 휴무 프레드매스는 경복궁역이랑 광화문역 근처에 있어요. 주변 회사원들의 방앗간 같은 곳이에요. 파크팰",
+            "url": "https://m.blog.naver.com/caelum10/223100645803",
+            "nick": "세라",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA2MTBfMTUx/MDAxNjg2MzcyMjMwODky.zVjUkC5yxuQc7-yfUiTra1KA7LxW7qkDWgh2IiQo730g.2ytifYf4PC0bVXbfARZOjOVTPINtDWUJ5fw0TcOV7l8g.PNG.caelum10/profileImage.png"
+          },
+          {
+            "sid": "31148531",
+            "bodySummary": "보면 이런곳에 카페가있나 싶은 곳 구석에 위치한 작은 카페 프레드매스 경희궁 자이 3단지끝자락 파크팰리스가 보이면 상가가 잘 안보여도 망설이지말고 가장 구석으로 들어가면 통유리안에",
+            "url": "https://m.blog.naver.com/donggri1999/223039011097",
+            "nick": "으름이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAxMTdfMiAg/MDAxNjQyMzk0MzA4ODE5.0DMJWjrm-LV7TvAGYPlvDLQv6vnp089SXd6loSg1Ts8g.a59wae3Rickr99STlmTYWQGDO4mhZ_OwwLQFZxAo5y4g.PNG.donggri1999/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "id": "1720773435",
+        "name": "리봉케이크",
+        "x": "126.9708677",
+        "y": "37.574299",
+        "distance": 0.027,
+        "categoryName": "케이크전문",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220565",
+            "221177"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "케이크전문"
+        ],
+        "reviewCount": 14,
+        "averagePrice": 0,
+        "address": "서울특별시 종로구 내수동 95 상가1층105호",
+        "roadAddress": "서울특별시 종로구 사직로8길 20",
+        "abbrAddress": "내수동 95 상가1층105호",
+        "shortAddress": [
+          "서울 종로구",
+          "사직로8길 20"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "안녕하세요.꽃피고 떡찌는 리봉케이크 입니다. 종로구 앙금플라워떡케이크 공방 입니다. 특별한 날 특별한 분을 위한 케이크제작 및 답례품, 떡 디저트 제작합니다.",
+        "description": "안녕하세요.꽃피고 떡찌는 리봉케이크 입니다. 종로구 앙금플라워떡케이크 공방 입니다. 특별한 날 특별한 분을 위한 케이크제작 및 답례품, 떡 디저트 제작합니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDhfMTEy/MDAxNzQ2NzA0MjQ0NDYw.JVqUd4WBa6A7ulPT76B3SAu6n7cmw74wwc0WzMvmJTEg.flSnkCS5PsthxBQ9Oa2z9PVnUsDGm4wDStX7FGAs7L4g.JPEG/4426F039-DB2E-4CF7-8090-FA15E6B03666.jpeg",
+          "https://ldb-phinf.pstatic.net/20210307_236/1615126895288utn7w_JPEG/Ggs4J-xnhY--uiWd-kB6xfFt.jpg",
+          "https://ldb-phinf.pstatic.net/20210307_81/1615124625291iQjor_JPEG/_C1URn3RulidocNw4ExBKdqv.jpg",
+          "https://ldb-phinf.pstatic.net/20210307_287/1615124639638QF3JH_JPEG/ZHRt_Jqe8Pg97WWno-PQ5q4I.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221177",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 3,
+        "id": "1186572900",
+        "name": "효도치킨 광화문점",
+        "x": "126.971066",
+        "y": "37.5746043",
+        "distance": 0.064,
+        "categoryName": "치킨,닭강정",
+        "categoryPath": [
+          [
+            "220036",
+            "220049",
+            "220245"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "치킨,닭강정"
+        ],
+        "reviewCount": 1783,
+        "averagePrice": 30000,
+        "address": "서울특별시 종로구 내자동 197 1, 2층",
+        "roadAddress": "서울특별시 종로구 사직로8길 21-1",
+        "abbrAddress": "내자동 197 1, 2층",
+        "shortAddress": [
+          "서울 종로구",
+          "사직로8길 21-1"
+        ],
+        "displayContext": [],
+        "labelTheme": "THE맛있는녀석들 방영",
+        "microReviews": [
+          "레드락 생맥주와 함께하는 치킨의 완성"
+        ],
+        "cardDescription": "레드락 생맥주와 함께하는 치킨의 완성",
+        "description": "효도 꽈리멸치킨 - 짭짤한 간장 양념에 버무려진 바삭한 치킨과 꽈리고추 그리고 고소한 멸치의 맛 효도바삭치킨 - 바삭하고 고소하게 튀겨낸 맛있는 치킨 그대로~ 고마워치킨 - 맵쌀하게 열이 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjZfOTIg/MDAxNzUzNTIyNjUwMzc3.9mYJFcSExxIzTlCo1EfCicLmOn4TuZ_quWH9q9Dp_7wg.Y53Nq3jiN1ny2KbLGivgDPIHTtjCEEIrc2iWSUWI8d0g.JPEG/8C62A61B-5D9E-468F-815E-6D60A6B9AF87.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTlfMjI5/MDAxNzYwODY4OTg3OTc2.bKFQlFs1uCC1Umpz0-lO0RjUCX-rXnVaqeP0dMi0xSog.1Cv47u5YiiDt1zVTPSJ37yPEVrKfvR9RlMP1HXqvaY0g.JPEG/93F1968F-CB86-4334-B502-58128AA674D8.jpeg",
+          "https://ldb-phinf.pstatic.net/20250813_61/1755061824208LREHr_JPEG/%B7%CE%B0%ED1.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MzBfMTQ3/MDAxNzUzODc5MzA3ODQx.9fKXlxQk-Eovb8bcDmVwj48bSGEJ_2c3EHyE-EcdABIg.99Ojd2oBzmvXAoHkSCN9RMUeWn-yhIIndCiWyIqVKZ4g.JPEG/861A1C7F-6FF8-4AC4-BCE1-921C7D13C0F0.jpeg",
+          "https://ldb-phinf.pstatic.net/20210916_103/1631754488193PsYNx_JPEG/xu_Elh6xta_kzL48y2rYQMvu.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjdfMyAg/MDAxNzU4OTcyNjI3NTE3.qFG7s52Hx6KQQcsuzuQLq_zR3HBJkvktzEpq5smYrtcg.i69r1vnQp8-VuipXeADuFMalWyeqAqYXbMdkY3MwwDcg.JPEG/20250927_202411.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20210916_133/1631754492728xBMje_JPEG/ix6fDZ4sfybRbFFemy3nXJLw.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDVfOTEg/MDAxNzUxNzAyMjY2MTk0.6ZNmMCM6S5AtV3oxnIyt9Smj7AVU4sl0zSJTNDWfxygg.ZqctwgL093YyxGi594fTvNhALB3GP7Ou3CyqxpM4iiMg.JPEG/62217F2D-F338-45D9-82C7-18056FC9FFCE.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjJfMTEy/MDAxNzUzMTQxMzAwOTM0.U5xgNqqjvQDW80xoBfoTqYbJzyqK4pf7VUlropq-5mcg.66HjC3HtW2dBXl1iT548l5JYRo2IhJn3xxgvYXFBY54g.JPEG/1000017874.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTFfMjU0/MDAxNzU0ODc5MTk2Mzg3.j6CF24O6LGbZwZcVxL4G3u-n8iqbypHv9CYUj8J-V4gg.Fk5tOn5_ZcIYb9012GT-ynxVx4sVvl2cA3f_HEyNQLMg.JPEG/20250730_175430.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220245",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": true,
+        "broadcastInfo": {
+          "name": "THE맛있는녀석들",
+          "menu": "후라이드치킨/꽈리멸치치킨/고추마늘양념치킨/옛날사라다/마늘볶음밥/고소한볶음밥/계마호크"
+        },
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1186572900",
+            "bodySummary": "효자치킨인지 효도치킨인지 맨날 할미처럼 구분을 못함 암튼 상1이가 한번도 안가봣다고 해서 델고 왔다 ㄷ경복궁역에서 훨 가까운데 광화문점이라네용 6시 되기 좀 전에 왔는데 웨이팅이 ",
+            "url": "https://m.blog.naver.com/ongoing3/223390892065",
+            "nick": "이또",
+            "profileImg": ""
+          },
+          {
+            "sid": "1186572900",
+            "bodySummary": "어디를 갈까 고민하다 광화문에 있다는 꽈리고추치킨을 맛보기 위해 효도치킨에 방문했다. 가족들 퇴근시간에 맞춰서 느긋하게 노을구경을 하며 효도치킨으로 갔는데,,, 치킨집에 도착하니 ",
+            "url": "https://m.blog.naver.com/eunaa_96/223390835029",
+            "nick": "랑이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA0MjhfMzIg/MDAxNjgyNjYyODAyMTc2.st0U5DwKsC1UlQUVABoZKaYrQl8unKBwdh6PCHPmFE0g.X-AwWJPxQYfK9y-HU37aNkUsTUP1ndaPfcTi7PKGF5gg.JPEG.eunaa_96/KakaoTalk_20230428_151628411.jpg/KakaoTalk_20230428_151628411.jpg"
+          },
+          {
+            "sid": "1186572900",
+            "bodySummary": "게다가 브레이크 타임까지 없다면 더 할 나위가 없구요. 지난주 낮술 2차로 갔던, 내자동의 '효도치킨 광화문점'입니다. 1층 카운터 우측으로 화장실이 있습니다. 작고 깔끔하기는 한",
+            "url": "https://m.blog.naver.com/jeon10478/223389506598",
+            "nick": "중년아재",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA5MjVfNjcg/MDAxNjY0MDY2MzcwMTE5.Vr2UtKb9f9WsBVYFPW7DLco9GIVC0tGM3L43yD4J9jEg.F1yys8tEtkIpl7z20cngaDGP5UPqd5NpoK5baq9k2Hsg.JPEG.jeon10478/profileImage.jpg"
+          },
+          {
+            "sid": "1186572900",
+            "bodySummary": "현재 가격을 살펴보니 치킨이 모두 20,000원대더라도고요. 미리 참고하셔서 방문하시기 바랍니다. 효도치킨 광화문점 영업시간 : 오전 11시 30분 ~ 오후 11시 라스트오더 : ",
+            "url": "https://m.blog.naver.com/miltree/223387866717",
+            "nick": "피터",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMTJfMjI2/MDAxNzA1MDM4OTU0NjMx.IyokBzFfJWNiIJKsWwrMZXZW_W16wKcj_72sut54FxUg.KCUnF5Y2UuILDjlao845eCHuBaQptEqBgifzNhna-UUg.PNG.miltree/profileImage.png"
+          },
+          {
+            "sid": "1186572900",
+            "bodySummary": "오늘은 종로에서 일할 때 정말 자주 가던 치킨집을 소개할까 해요. N번째 방문한 곳 입니다. 또또간집 ㅋㅋㅋ ╭╮효도치킨 광화문점 서울 종로구 사직로8길 21-1 1, 2층 ⏰ 매",
+            "url": "https://m.blog.naver.com/77log_/223371884129",
+            "nick": "칠칠",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMDFfMTIx/MDAxNzAxNDMxNTYxNzMz.2Th67VoByrPmXwtA4_EHgsXmRgXKJS8Q2Wt9NpUQrF4g.w9mlg_DwfTx96Ebb2v88uyODHZ8TCoeBQ4K6CkpOVXUg.PNG.chajihyun95/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "id": "37683347",
+        "name": "열불나는홍초닭발",
+        "x": "126.970613",
+        "y": "37.5741895",
+        "distance": 0.004,
+        "categoryName": "닭발",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220772",
+            "221590"
+          ]
+        ],
+        "category": [
+          "한식",
+          "닭발"
+        ],
+        "reviewCount": 70,
+        "averagePrice": 30000,
+        "address": "서울특별시 종로구 내수동 95",
+        "roadAddress": "서울특별시 종로구 사직로8길 20",
+        "abbrAddress": "내수동 95",
+        "shortAddress": [
+          "서울 종로구",
+          "사직로8길 20"
+        ],
+        "displayContext": [],
+        "labelTheme": "24시간 영업",
+        "microReviews": [],
+        "cardDescription": "안녕하세요.  24시간 고객님이 주문하시면 언제든지 달려가는 배달 전문점입니다. 스트레스가 머리끝까지 차오르는 날엔 역시 알싸한 매운맛이 일품인 닭발! 신선한 식재료와 청결한 음식관리 ",
+        "description": "안녕하세요.  24시간 고객님이 주문하시면 언제든지 달려가는 배달 전문점입니다. 스트레스가 머리끝까지 차오르는 날엔 역시 알싸한 매운맛이 일품인 닭발! 신선한 식재료와 청결한 음식관리 ",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20161020_170/14769381989907MFnX_JPEG/176970536658862_0.jpeg",
+          "https://ldb-phinf.pstatic.net/20160322_253/1458610779198BlhKU_JPEG/176272506958385_0.jpeg",
+          "https://ldb-phinf.pstatic.net/20160322_52/1458610779460mMP0H_JPEG/176272506958385_2.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221590",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 5,
+        "id": "1623642276",
+        "name": "삼정모밀 사직점",
+        "x": "126.9703957",
+        "y": "37.574463",
+        "distance": 0.039,
+        "categoryName": "일식",
+        "categoryPath": [
+          [
+            "220036",
+            "220038",
+            "220086",
+            "220838"
+          ]
+        ],
+        "category": [
+          "일식",
+          "우동,소바"
+        ],
+        "reviewCount": 2,
+        "averagePrice": 10000,
+        "address": "서울특별시 종로구 내수동 95 지하1층 101호",
+        "roadAddress": "서울특별시 종로구 사직로8길 20",
+        "abbrAddress": "내수동 95 지하1층 101호",
+        "shortAddress": [
+          "서울 종로구",
+          "사직로8길 20"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [],
+        "cardDescription": "안녕하세요. 사직동에 위치한 삼정 모밀입니다. 한국식 모밀과, 카츠 그리고 김밥을 대표하는 식당입니다. 삼정 모밀을 주문해주셔서 감사합니다.  + 삼정이 사랑받는 3가지 이유 가장 대중적인",
+        "description": "안녕하세요. 사직동에 위치한 삼정 모밀입니다. 한국식 모밀과, 카츠 그리고 김밥을 대표하는 식당입니다. 삼정 모밀을 주문해주셔서 감사합니다.  + 삼정이 사랑받는 3가지 이유 가장 대중적인",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20250723_124/1753197690525UglOU_JPEG/P20250702_153323283_C22FAC07-C070-4C46-BAC8-19190CAF9B1E.jpg",
+          "https://ldb-phinf.pstatic.net/20250723_16/1753197654027ySGIw_JPEG/GJF08375.jpg",
+          "https://ldb-phinf.pstatic.net/20250723_73/1753197740708ikCv5_JPEG/P20250702_145827782_B2363631-FDD7-4751-9CEA-4B63109C991F.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220838",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 6,
+        "id": "1027731114",
+        "name": "레뚜이",
+        "x": "126.970599",
+        "y": "37.5741977",
+        "distance": 0.005,
+        "categoryName": "베이커리",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220564",
+            "221161"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "베이커리"
+        ],
+        "reviewCount": 2,
+        "averagePrice": 14000,
+        "address": "서울특별시 종로구 내수동 95 지하상가 103호",
+        "roadAddress": "서울특별시 종로구 사직로8길 20",
+        "abbrAddress": "내수동 95 지하상가 103호",
+        "shortAddress": [
+          "서울 종로구",
+          "사직로8길 20"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 종로구 내수동 95 지하상가 103호",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20181016_177/1539677212542v6nmL_JPEG/Jfp6sAhMpwqN5wzNoc0J3K1u.jpeg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221161",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 7,
+        "id": "37663705",
+        "name": "도날닭치킨",
+        "x": "126.9711208",
+        "y": "37.5739529",
+        "distance": 0.05,
+        "categoryName": "치킨,닭강정",
+        "categoryPath": [
+          [
+            "220036",
+            "220049",
+            "220245"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "치킨,닭강정"
+        ],
+        "reviewCount": 3,
+        "averagePrice": 20000,
+        "address": "서울특별시 종로구 내수동 71",
+        "roadAddress": "서울특별시 종로구 사직로8길 24",
+        "abbrAddress": "내수동 71",
+        "shortAddress": [
+          "서울 종로구",
+          "사직로8길 24"
+        ],
+        "displayContext": [],
+        "labelTheme": "24시간 영업",
+        "microReviews": [],
+        "cardDescription": "안녕하세요.  24시간 고객님이 주문하시면 언제든지 달려가는 배달 전문점입니다. 신선한 식재료와 청결한 음식관리로 고객님들께 최고의 맛을 제공하기 위해 끊임없이 노력하여 항상 맛있는  ",
+        "description": "안녕하세요.  24시간 고객님이 주문하시면 언제든지 달려가는 배달 전문점입니다. 신선한 식재료와 청결한 음식관리로 고객님들께 최고의 맛을 제공하기 위해 끊임없이 노력하여 항상 맛있는  ",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20160316_13/1458111120365hxk3M_JPEG/176266558179713_0.jpeg",
+          "https://ldb-phinf.pstatic.net/20160316_271/1458111120462gCxhH_JPEG/176266558179713_1.jpeg",
+          "https://ldb-phinf.pstatic.net/20160316_242/14581111205478tcsb_JPEG/176266558179713_2.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220245",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 8,
+        "id": "36379441",
+        "name": "쇼콜라디제이",
+        "x": "126.9706712",
+        "y": "37.5739645",
+        "distance": 0.022,
+        "categoryName": "초콜릿전문점",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220583",
+            "221404"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "초콜릿전문점"
+        ],
+        "reviewCount": 192,
+        "averagePrice": 0,
+        "address": "서울특별시 종로구 내수동 95 114호",
+        "roadAddress": "서울특별시 종로구 사직로8길 20",
+        "abbrAddress": "내수동 95 114호",
+        "shortAddress": [
+          "서울 종로구",
+          "사직로8길 20"
+        ],
+        "displayContext": [
+          "초콜릿",
+          "아이스크림",
+          "생초콜릿",
+          "발렌타인데이",
+          "재미있는"
+        ],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "리뷰 www.twitter.com/chocolatdj 사진 www.instagram.com/chocolatdj 페이지 www.facebook.com/chocolatdjchoco",
+        "description": "리뷰 www.twitter.com/chocolatdj 사진 www.instagram.com/chocolatdj 페이지 www.facebook.com/chocolatdjchoco",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDhfMjgx/MDAxNzU3Mjk0MTA4NDQz.h0z9I0NM9V8pGsoeNISScu2nEb0cZlyO1G5qZ_WOxF8g.QgnNN3dwPyxitUZWz2PoVJKOYk6bWoAX9cmrbkFCJxcg.JPEG/3DC88FDE-C9BD-4CC6-84B8-49710B636CAB.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MDlfMTQ1/MDAxNzQ0MTk4MTQxNTgx.JQ-TDhbggcC8zw4Gmhj-XDOkgoeETcvWjPi0bxGzBd0g.gMOza53aV6qy3a6WpG6zaqylCjY2FtTmFMoEWW8-UcIg.JPEG/20250409_194305.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240329_81/1711649813322VK7HO_JPEG/0BBCE101-4046-40D7-811E-0166B3310B2F.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTRfMjU4/MDAxNzUyNDU5MDI4NDk3.uD44JkHsQZbk3D5M-YT9TVYsUnns8S1RiJcYAsGBAnQg.1fq8oCWd8uoWdgNQJMuZoLYEC1dI7_hBPZm_w7H9fs8g.JPEG/1AABDD96-D49C-492F-94EC-6030F5885CAF.jpeg",
+          "https://ldb-phinf.pstatic.net/20240329_62/1711649813418clwjG_JPEG/7F82CDA3-6827-4C56-AA66-9238893524F5.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDJfMjUx/MDAxNzU2Nzg3MDYyOTc1.QOrDf5om0pN-Yp4KtxA2tEf0qlQYteVrO5zCkq9PyGUg.q-LRQ7NY3YGGb-kkpfY0atj8P19C70NN2ObycJRt03Eg.JPEG/1000021292.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240329_62/1711649614367kjo6z_JPEG/46A7F742-9B5E-49C1-81A7-2B651C5AC651.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTAzMzFfODQg/MDAxNzQzNDEzMDcyNzQ0.c1eiYZX7fLEz7Di2rCZHDUB_h8sdOfGMGbQ_7k6Fbkkg.zE0ACT8AeaxQCA6zpo_fOFRjSKYDmHraLa1SP7eE1jsg.JPEG/AD0EBA8B-1494-49B5-98A0-908F83C1073C.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221404",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.66",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "36379441",
+            "bodySummary": "테이스팅코스 시작! 처음은 차가운 아이스크림으로 시작한다. 이 날 준비된 샤베트는 산딸기와 메론인데 나는 산딸기를 골랐다. 꽝꽝 언 산딸기 샤베트에 내가 고른 술을 조합해서 넣어주",
+            "url": "https://m.blog.naver.com/outsidethebox/223351902900",
+            "nick": "제인더지니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMDhfMTMx/MDAxNzAyMDE0NjYzMDkw.i07bGr4nz9Rx4hPdgsfC_sdL7cL5Z4HwESAM0wv_-aUg.jMtuYX0VWo-6GP6NM2-Q6_5g916uE3XwrM3sM2VqDNIg.PNG.outsidethebox/profileImage.png"
+          },
+          {
+            "sid": "36379441",
+            "bodySummary": "바닐라에 술 부어먹는 건 쇼콜라디제이가 아니라도 바에 가면 흔히 먹을 수 있으니까요. 사장님이 보통 페어링해주는 Fenouil 패뉘 보틀을 보여주시곤, '드셔보셨죠?' 하며 다른 ",
+            "url": "https://m.blog.naver.com/khl418/223334577882",
+            "nick": "덤프",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA2MjJfMjQ1/MDAxNjU1ODc4ODI4NzAw.kvPADIGGKwUElaNL4o10BUnDTDScUzhKwR9SO5eTyVQg.1ZnRBL5vVAXErKvpCDLhea9KWC8_i6hsOR0Bz7Yuj-4g.JPEG.khl418/marissa-rodriguez-2mKYEVGA4jE-unsplash.jpg/marissa-rodriguez-2mKYEVGA4jE-unsplash.jpg"
+          },
+          {
+            "sid": "36379441",
+            "bodySummary": "쇼콜라디제이는 경복궁근처에 위치한 바같기도, 카페같기도, 초콜렛공방 같은 곳이다 연말선물추천 종로 쇼콜라디제이 의미있는 날이있어 자축하고있었는데 친구가 보내온 쇼콜라디제이의 쇼콜라",
+            "url": "https://m.blog.naver.com/youmyoum2/223302547027",
+            "nick": "구몽드",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEwMDdfMTEg/MDAxNjk2NjY1NzMyNzMz.vJTWYBvsKAIlekuuPy4G6zSwDl6NkNBjKHa6u8BfE88g.3xb7Dyw66Vdn1kBeRsLhWvW9oguGvIwctHJRae91YNog.PNG.youmyoum2/profileImage.png"
+          },
+          {
+            "sid": "36379441",
+            "bodySummary": "해가 뉘엇 넘어가 하늘이 노르스름해질 시각의 내수동. 골목 하나 나서면 키높은 빌딩과 차들 경적소리가 가득하지만 켜켜이 벽을 이룬 골목사이 자리한 가게들은 참 다정한 분위기에요. ",
+            "url": "https://m.blog.naver.com/editor_jung/223173017567",
+            "nick": "달밤",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA5MjhfMjM2/MDAxNjY0Mzc1NDg0ODE4.fFX6Evp6j_bwJoL1W1U1-Qbkar--3j2rUi-7HI2u0TEg.UJLFH4mmbhEGcweWg4bkpYZxpBqu-VcheFciRR79y2kg.PNG.editor_jung/profileImage.png"
+          },
+          {
+            "sid": "36379441",
+            "bodySummary": "너무 차가우면 안에 들어있는 시럽이 굳어서 맛이 덜할 수 있다고해요. 포장부터 정말 고급스러워서 선물할 맛 나는 쇼콜라디제이 위스키봉봉 가격 4pcs 24,000원 구성 왼쪽부터 ",
+            "url": "https://m.blog.naver.com/hhystyle/222649610925",
+            "nick": "아이코빈",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAxMDJfMjUw/MDAxNjQxMTI1NDA3NDMz.JxuPHtDLLY3-cTakRS7orQ-sr6H_3p-Bqt_gWjm2nF0g.RJXPt_j-hotr7Ot9SJf7rDOc2iG5mLTivC1JDhy1sDMg.PNG.hhystyle/profileImage.png"
+          }
+        ]
+      }
+    ]
+  }
+}

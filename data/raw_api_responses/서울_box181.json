@@ -1,0 +1,93 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 1,
+      "count": 1,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.96777083648634,
+          "minY": 37.5655990990991,
+          "maxX": 126.96890741021008,
+          "maxY": 37.566500000000005
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.96833912334822;37.566049549549554",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1468927375",
+        "name": "컴포즈커피 농협중앙회본점",
+        "x": "126.9685663",
+        "y": "37.5664873",
+        "distance": 0.053,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "230629"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 70,
+        "averagePrice": 1000,
+        "address": "서울특별시 중구 충정로1가 75-1 지하1층",
+        "roadAddress": "서울특별시 중구 새문안로 16",
+        "abbrAddress": "충정로1가 75-1 지하1층",
+        "shortAddress": [
+          "서울 중구",
+          "새문안로 16"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 충정로1가 75-1 지하1층",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTZfMTA2/MDAxNzQ0ODA4NDgwMzI3.L-vbJL4toii3V5whFQUHU0HfTYbC-1XTzEqUdAXEh74g.i9YGMQ74OButZv-eqzkOSN7ByduTdiIkm4pUKGdJpjcg.JPEG/0F3C75FE-FD8D-4AA5-BB54-D4506A74A81A.jpeg",
+          "https://ldb-phinf.pstatic.net/20220721_85/1658382566512PoOfE_JPEG/KakaoTalk_Moim_79DPRwwu4JjXVQsftBWQwchThHK8Ad.jpg",
+          "https://ldb-phinf.pstatic.net/20220721_212/1658382566388CMdQO_JPEG/KakaoTalk_Moim_79DPRwwu4JjXVQsftBWQwchThHQJLf.jpg",
+          "https://ldb-phinf.pstatic.net/20220721_46/165838256647478hJJ_JPEG/KakaoTalk_Moim_79DPRwwu4JjXVQsftBWQwchThHWvNr.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "230629",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

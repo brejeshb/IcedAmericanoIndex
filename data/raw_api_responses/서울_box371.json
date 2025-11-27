@@ -1,0 +1,638 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 7,
+      "count": 7,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.97913657372374,
+          "minY": 37.57370720720721,
+          "maxX": 126.98027314744748,
+          "maxY": 37.57460810810811
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.9797048605856;37.57415765765766",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1673112202",
+        "name": "커피앳웍스 이마빌딩광화문점",
+        "x": "126.9791545",
+        "y": "37.5738773",
+        "distance": 0.058,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "1003733"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 2102,
+        "averagePrice": 5000,
+        "address": "서울특별시 종로구 수송동 146-1 이마빌딩 1F",
+        "roadAddress": "서울특별시 종로구 종로1길 42",
+        "abbrAddress": "수송동 146-1 이마빌딩 1F",
+        "shortAddress": [
+          "서울 종로구",
+          "종로1길 42"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "커피앳웍스 이마빌딩광화문점입니다. 네이버 스마트주문에서 간편하게 주문하세요!",
+        "description": "커피앳웍스 이마빌딩광화문점입니다. 네이버 스마트주문에서 간편하게 주문하세요!",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTZfMTE5/MDAxNzQ3MzYwMjYzMzE0.eMnHZAyLSX5tBJa-E752vzsFWX913M4pj_vGljUq2fIg.pDBrMxUAk3-8LnLS968GwJ2DpYLNVXDKwwKYCHv8RiUg.JPEG/20250425_110323.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTFfMjU3/MDAxNzYwMTc0ODgyMTQ3.9PInO_drpGao2yjFSHuRyrtnlWBHhMYeD5kQ9KsFNQ4g.8iPat7PyxZHPOlsNZKFL3fNNDoLb24eGCFsE4tHC7Psg.JPEG/1000099604.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20210302_152/1614653857077hhKCX_PNG/RXFptqI_x3pBEstfWD6DEfKL.PNG.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTJfMjU5/MDAxNzQ0NDQ2OTg4MjI3.yTyN9A_R9ahj504Qr16MB1XBAiV1Zx3mWzVOz9Fjh00g.0PhOv0OALB8uVWG18OyG2AgqN42e8hsreO2bA9CmaWkg.JPEG/20250412_141703.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20210302_129/16146538561764iYCM_PNG/HHABJQCrH8t9dar6CvJOn8iz.PNG.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDRfMTU2/MDAxNzU0MzA4NjY3MTI2.bJGyhD2Xe495HpWvqU3D6w8hNKXrTMhta4B8wVkS4eYg.otOCU7n4y26r_CM5gymRSicoqstJFvBiWenrVwe8evAg.JPEG/IMG_9432.jpeg",
+          "https://ldb-phinf.pstatic.net/20210302_116/1614653854411fXx0w_PNG/f6TnziuWY717mlIx9QBAm1aP.PNG.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTZfMTg4/MDAxNzUwMDU1OTUzODc0.SktJM0QCp3eHpTZZExLQrsQm0tZ8mFI4cd0eGTvASrEg.jis6kekMrf8unlrGYE8gfdqH6Lc1KQ73wDRxOdguGxEg.JPEG/20250615_122409.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjdfMTg5/MDAxNzU2MjczOTQ4NTg5.64BVUhasOr-dnxvWdCoC3KdDWmL5iBqR0-m9aJbelqAg.25jlnQzcadupDBw6wdL8hwP8PUlMJneBza1t1Au_32Yg.JPEG/C7087720-A7CA-450A-844D-135F534A7ECE.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDhfMiAg/MDAxNzQ5MzY1ODc5MzY1.kzIqkg-tBsqwKggHfZ3fpXoLgmGpI8climw2QxHojv0g.4VsMovtfwfSYjYtoNbG3vEfFjv2uYdp4bKe4oJ4NaUEg.JPEG/17493658718335582574154602339715.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1003733",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1673112202",
+            "bodySummary": "광화문역 2번출구에서 321m 이마빌딩 1층 ️월~금 오전 7시 ~오후 9시 토-일 오전 8시 ~ 오후 5시 커피앳웍스 내부 커피앳웍스원두와 MD들을 진열해놨어요 키오스크에서 주문",
+            "url": "https://m.blog.naver.com/onesol9401/223388341763",
+            "nick": "SOLAE",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMDVfMTAx/MDAxNzA0NDM1MTQzODMy._Di3gc8cQjJLuTZGSGLXF76kxqCcUkxks5e53Gythu4g.2slGnTJwtgqpNxDj2ba_FR276CBWeQ7dAFW5mgQhYRgg.JPEG.onesol9401/%25EC%2586%2594%25EB%259E%2598.jpg/%25EC%2586%2594%25EB%259E%2598.jpg"
+          },
+          {
+            "sid": "1673112202",
+            "bodySummary": "Open 시간이 8시였고 + 매장 바로 앞 주차 공간 + 구입 시 1시간 주차 무료 가 가능한 곳이었다- 첫인상은 건물 로비에 만든 카페- 카페 이름처럼 직장인들이 업무를 위해 미",
+            "url": "https://m.blog.naver.com/shr0825/223343367196",
+            "nick": "SJS",
+            "profileImg": ""
+          },
+          {
+            "sid": "1673112202",
+            "bodySummary": "커피앳웍스 이마빌딩광화문점 07:00 - 21:00 커피 종류나 티/음료 종류도 꽤 다양하고, 디저트도 나쁘지 않아서 회사 근처에서 급하게 카페 찾을 때 가끔씩 가곤 했던 곳입니다",
+            "url": "https://m.blog.naver.com/bnbn2255/223319227354",
+            "nick": "고독한스",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA0MDlfMjA5/MDAxNjgxMDIzMzQ0MDc2.Zgsl2X2TW6wgB1xIpLxupSMdiFoM0PYfWYqcjsw9NQMg.l62o3--8GOjbC4jRdJP-v_n2AnZyAAc0ZhGXTNyD9rgg.JPEG.bnbn2255/KakaoTalk_Photo_2023-04-09-15-54-31.jpeg/KakaoTalk_Photo_2023-04-09-15-54-31.jpeg"
+          },
+          {
+            "sid": "1673112202",
+            "bodySummary": "커피앳웍스 이마빌딩광화문점 영업정보 서울특별시 종로구 종로1길 42, 이마빌딩 1층 매일 07:00 - 21:00 0507-1326-7766 지하철 5호선 광화문역 2번출구에서 약",
+            "url": "https://m.blog.naver.com/s0phia_lim/223253033485",
+            "nick": "앵갱",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMjhfMTIz/MDAxNzA2NDMyODkyOTY3.YCTWQYAoFKSEdVKsCIYeD4ho7pyJ0tMnUGB4JfHlFawg.LJEI0_kCnZmpIkYAcMe3RrQCGTUphkzPy14NSRlV6R0g.PNG.s0phia_lim/profileImage.png"
+          },
+          {
+            "sid": "1673112202",
+            "bodySummary": "커피앳웍스(COFFEE@WORKS)’는 SPC그룹 내 최고의 커피 전문가들이 모여 최상의 커피를 선보이는 SPC그룹의 커피 플래그십 브랜드입니다. 국내외 14개 직영 매장에서 숙련",
+            "url": "https://m.blog.naver.com/luckymessenger/223243359651",
+            "nick": "실천사업가",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA4MDVfMjgw/MDAxNjkxMTY1MTEzMTc3.ME9Rwdb6-aLWrFYbG98MZVAO90OTJJshxd1hTle-KJ8g.PetUhrtXkhgCP9vkm_53TZ25axB2wZFjvaR1foXDR-sg.JPEG.luckymessenger/%25EB%258B%25AC.jpg/%25EB%258B%25AC.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "id": "17909465",
+        "name": "정통삼계탕",
+        "x": "126.979154",
+        "y": "37.574162",
+        "distance": 0.049,
+        "categoryName": "백숙,삼계탕",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220774",
+            "221606"
+          ]
+        ],
+        "category": [
+          "한식",
+          "백숙,삼계탕"
+        ],
+        "reviewCount": 735,
+        "averagePrice": 10000,
+        "address": "서울특별시 종로구 수송동 129-1 2층 정통삼계탕",
+        "roadAddress": "서울특별시 종로구 종로5길 95",
+        "abbrAddress": "수송동 129-1 2층 정통삼계탕",
+        "shortAddress": [
+          "서울 종로구",
+          "종로5길 95"
+        ],
+        "displayContext": [
+          "삼계탕"
+        ],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [
+          "몸보신에 딱 좋은 삼계탕 한 그릇"
+        ],
+        "cardDescription": "몸보신에 딱 좋은 삼계탕 한 그릇",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTJfMTcg/MDAxNzQ3MDUxMDM0Nzcx.AtoZ2c1p6xqzmoJaeK6ZHgjgSUexRLGsPvnMwua4_w8g.OUMy2nET8XEwlC_QQoCmEplHy2VsuVFRb31w-ftQ6hYg.JPEG/CDEDDE38-C5C4-49F0-85B3-A5298B753CBC.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjRfMTg3/MDAxNzQ4MDc2OTU2NDE2.J7ndD-ls-C-N56vEr6pnDkpyB3tPS0uUzZ4CJYRylLwg.WyZHv8niuw2g-MMxFlMFnqHElFmdZsBdNzx8-ncrvu4g.JPEG/20250523_182013.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20220929_126/1664444797162VrkKe_JPEG/DDB78498-59E6-42F7-8290-9C3F3D7FD298.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjBfMjE0/MDAxNzQ1MTExMzU5MTAx.k670ik7iDKwaB0D2A-7XAiraMj7oANPI7rkVf5cTN4Ig.76N_hM2I15oamMdBsQsPWf4Uup4Q2-PAG2oPTX9pv6Yg.JPEG/Screenshot_20250420_100729_NAVER_Map.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20200514_287/1589459135633Qg1kG_JPEG/U0H8PBDOPw0JB-lPpNkPlIuY.jpeg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTVfMTU1/MDAxNzQ3MjgxMjM1Mjg2.XldFejuMMsacOdg7afUZm_RdUQLQk_tNygdFQ2tshjcg.cVzQTHrmH2X9W52LA-8YV_Zk_fI6znIg0DoasCgddXAg.JPEG/DM_250515_115714_2_0.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20220929_93/16644447863828m7DH_JPEG/B180D653-06BA-43D3-B7C5-8DB31C1000EE.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221606",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "17909465",
+            "bodySummary": "정통삼계탕 #삼계탕맛집 #광화문역 광화문 삼계탕 종로 보양식 딱이야 정통삼계탕 추운 겨울이되면 따끈한 국물요리 땡기는거 아시죠? 마침 근처에 삼계탕 맛집이 있다 그래서 언능 다녀와",
+            "url": "https://m.blog.naver.com/mimiisthecat/223285334626",
+            "nick": "미미는고양이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA4MjNfMTI0/MDAxNjkyNzY3Mzk1Njg2.RGaCkacbx4amm3PePJ6UlpBMCzj0Tix5cgc9Pkx7kNEg.qgS8dj8KwuA5YCW6-m6WsTv6_agVaz_qoHyagkZMNJUg.JPEG.alswjd9825/profileImage.jpg"
+          },
+          {
+            "sid": "17909465",
+            "bodySummary": "청와대 맛집 종로 정통 삼계탕 청와대관람을 위해 식사로 들린 곳이에요 청와대와 가까이 위치해 있어서 관람을 왔다면 식사하러오세요 제가 먹어본 삼계탕 중에 최고에요 정통삼계탕 청와대",
+            "url": "https://m.blog.naver.com/orangeline_y/223234974191",
+            "nick": "빈",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAxMjlfMjM1/MDAxNjc0OTg0MTY3Njgy.py_jdDPuBp5IUhYXagbEOQuuYUjDA22lfjzRbFP4Srcg.PQqCkejrK4a4Uu1mBWb-HeQM6f4rS4TKbFl7wMCFjjYg.PNG.orangeline_y/Profile_defaultIMG_O2x.png"
+          },
+          {
+            "sid": "17909465",
+            "bodySummary": "오늘은 종로구청 근처에 있는 삼계탕 맛집 정통 삼계탕 리뷰에요! 여기는 직장인들 점심 맛집으로 유명하고 항상 평일 점심시간에 가면 사람이 많답니다 ㅎㅎㅎ 특히 아저씨들이 많은 찐 ",
+            "url": "https://m.blog.naver.com/leetuna_/223130940485",
+            "nick": "이참치",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMjZfMjc5/MDAxNzAzNTUyNzcwNzU1.VRAxwbKXQ9PwrZf3iGhFDB6jNou43QIhFcaG7KNmZB8g.q2LDIYYVRgBPOZugyG97JYU8m0asufShYyZs0rhVjwMg.JPEG.rangseeldh/profileImage.jpg"
+          },
+          {
+            "sid": "17909465",
+            "bodySummary": "정통 삼계탕 나는 평소 보양식에 관심이 많다 다들 보양식 하면 떠오르는 게 뭔지 생각하면 대부분 삼계탕이 떠오른다 삼계탕에 인삼주는 정말 조화롭다 그리하여 점심으로 삼계탕을 알아보",
+            "url": "https://m.blog.naver.com/hazzing96/223093652661",
+            "nick": "동동정보통",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA5MDlfMTg4/MDAxNjk0MjY4NjEzODk3.KNiQPALRrlCp3nhMY6piL3pNCopWuUIf4wx4K39JXM4g.CxvprYu45cnQpf9_EJg4udE9axH-Nub2R7xO0I3f5vYg.JPEG.wlsgusgh12/profileImage.jpg"
+          },
+          {
+            "sid": "17909465",
+            "bodySummary": "근처에 대한민국역사문화박물관과 조계사도 있어 들렀다가 식사 하러 가시기에도 좋을 것 같았어요. 종각역에서도 그닥 멀지 않아 가까운 지하철 이용해서 방문하면 되겠습니다. 아무래도 오",
+            "url": "https://m.blog.naver.com/eunyeong0606/223028236079",
+            "nick": "신나리셔스",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA4MjdfODAg/MDAxNjYxNTk5MTY4MTMx.q5LPw301CqGxeB2rZ3-XFiCUpVd87W5PacJydJTDncwg.zFBrVQcEkc8v57-GJDtw5veVtpgsEiSMW0FDlwILrvog.JPEG.eunyeong0606/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "id": "1808680818",
+        "name": "좋은하루",
+        "x": "126.9791788",
+        "y": "37.5741688",
+        "distance": 0.046,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 443,
+        "averagePrice": 16000,
+        "address": "서울특별시 종로구 수송동 129-1",
+        "roadAddress": "서울특별시 종로구 종로5길 95",
+        "abbrAddress": "수송동 129-1",
+        "shortAddress": [
+          "서울 종로구",
+          "종로5길 95"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [
+          "부드러운 보쌈정식으로 든든한 한상차림"
+        ],
+        "cardDescription": "부드러운 보쌈정식으로 든든한 한상차림",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjNfNjAg/MDAxNzUwNjc1NjU0NTcz.jQpwH_fgcVZr_11K2mupoey37x-KNJbhdohw3kA9fkMg.z6eTewm6cRavCg7Vuc8txdItuA4AO4TKs3yV0qSeypsg.JPEG/4FDE8D94-9C59-4582-B4C3-00E119AEB52E.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTAzMjdfMTQg/MDAxNzQzMDc2NTcyMDg5.R4NhY3eoNuJxGePF2Yy3dvHp5BHNyP8kRFch18BF_1Ag.lMSX_OE3mhnGGvf9COwMy8lBxINohTdMfvF-rvgPxCUg.JPEG/64D75C22-633E-4A5D-B05C-1FA4C3EBDB11.jpeg",
+          "https://ldb-phinf.pstatic.net/20180523_295/15270545380191av5Y_JPEG/yhLhTzYFpudgFxUEISM3oJht.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjVfMjUx/MDAxNzU2MTAwMzE5ODg0.CRKXcNkMbPPyZEZWTYXQeXFnuR1pfSc099C3O0YNqnQg.Xz6bkhFphEjLiaxqcBhQCMAcANc3DUzMDWvG-PxkQPsg.JPEG/20250825_141451.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20180523_145/1527054542176QFT1J_JPEG/GsOaC1if6ueW1xREhqFi6jsk.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjdfNzgg/MDAxNzU4OTUyODM4MDMx.yE5XE2Wmbsze1kCBgZGb6IwjFemt_dA2f-RI4_9b2AYg.V5ceyMO9C-g86LCEBb6oYx19jRPhs4Ix8vSk65YHy9Yg.JPEG/7E368B3F-8D20-4567-99F9-C4626A61845A.jpeg",
+          "https://ldb-phinf.pstatic.net/20200726_134/1595768100582Ugksd_JPEG/G_wyFqWfwmCGkSogwDHmeUQW.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDlfMjQy/MDAxNzQ2NzQ2Mzg3NDQ2.EMju9D_DZ-lDR8w99TrCS4dSWdj8Jg3gtzk1ipQTtTEg.B-XEihDjz-VTexUgq2pV74SNx_P1mzpH0JGTvBZt8o8g.JPEG/3D157094-D48A-4398-9F94-06C4109BB0D3.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDlfMjUx/MDAxNzU5OTY4NjMzNDI4.BYfu0_BEJEJj_Kmzrmz7NPmL-bw3JtDaBsIY9UTPzPog.V9Wv6QmlBdSD6pLzYDjCiUgD1bXc-D5JDwuIql6uKsAg.JPEG/20251008_150006.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDdfNTMg/MDAxNzU5ODEyOTI2MjUx.bgImkknnpr8-y6cnBoYflqR_heG41wdnFAHMSulV5HEg.-KEzWPaDCShMq0rlIcckWpJS-HkJ4z68fKtEzWybiU8g.JPEG/20251007_125524.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 4,
+        "id": "1939417432",
+        "name": "고향맛집",
+        "x": "126.9798854",
+        "y": "37.5742207",
+        "distance": 0.017,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 120,
+        "averagePrice": 0,
+        "address": "서울특별시 종로구 수송동 104",
+        "roadAddress": "서울특별시 종로구 종로5길 86",
+        "abbrAddress": "수송동 104",
+        "shortAddress": [
+          "서울 종로구",
+          "종로5길 86"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "서울특별시 종로구 수송동 104",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjZfMTcz/MDAxNzQ1NjYwMzYzNjky.GekaMMLKdgYE6RAJw2nT46l3IQ3aUhSZ3MDGKA73qLYg.P4KceMxpc0WLJg08umeTkhRsc899QX-1m3btzOm74vEg.JPEG/20250402_115119.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjhfMjY1/MDAxNzUzNjc3Njg2MjE5.O_7CAY5ABJUBlI3bFmdiRqQC3fhtKsRCZTyKsua3Q-Mg.orfmpLwwua8DzBDIBr5oCas99zCIvJyN5p5aLeiYG7Eg.JPEG/20250728_125203.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTJfMTQy/MDAxNzQ3MDM2ODE2OTg2.yZkEzAndy3b1CfHHz6iuKWt-k0hB5KtDl7wtA8TAic4g.4ZNhqVGFafc7uupISY5EdTuquQuby4bI9C_y741soYIg.JPEG/20250512_123459.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 5,
+        "id": "1234904236",
+        "name": "서현카페",
+        "x": "126.9798854",
+        "y": "37.5742207",
+        "distance": 0.017,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 75,
+        "averagePrice": 3000,
+        "address": "서울특별시 종로구 수송동 104",
+        "roadAddress": "서울특별시 종로구 종로5길 86",
+        "abbrAddress": "수송동 104",
+        "shortAddress": [
+          "서울 종로구",
+          "종로5길 86"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 종로구 수송동 104",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDlfMjcw/MDAxNzUyMDM3MDUyNDEy.p5RlayAiPvD_SVwW9eIQKf5FNJbrE6nuaG_Gmp0QYvog.FHG4frEfnAdArJh9qE7Qb2Hlr6k82Tq_RpdOPBcHGFYg.JPEG/1000021962.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 6,
+        "id": "11592733",
+        "name": "베이징코야",
+        "x": "126.980239",
+        "y": "37.5745591",
+        "distance": 0.065,
+        "categoryName": "중식당",
+        "categoryPath": [
+          [
+            "220036",
+            "220039",
+            "220091",
+            "220861"
+          ]
+        ],
+        "category": [
+          "중식",
+          "중식당"
+        ],
+        "reviewCount": 1328,
+        "averagePrice": 30000,
+        "address": "서울특별시 종로구 수송동 110 연합뉴스 빌딩 지하 1층",
+        "roadAddress": "서울특별시 종로구 율곡로2길 25",
+        "abbrAddress": "수송동 110 연합뉴스 빌딩 지하 1층",
+        "shortAddress": [
+          "서울 종로구",
+          "율곡로2길 25"
+        ],
+        "displayContext": [
+          "북경오리",
+          "베이징덕",
+          "오리구이",
+          "코스요리",
+          "보양식"
+        ],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [
+          "가족과 함께 즐기는 특별한 오리 요리"
+        ],
+        "cardDescription": "가족과 함께 즐기는 특별한 오리 요리",
+        "description": "베이징코야의 북경오리는 참나무 장작 화덕구이 방식의 정통 요리입니다. 국내 최초로 북경 기술을 직도입하여, 현재 26년 차 경력을 자랑하는 원조 북경오리 중식당입니다.  다양한 크기의 룸 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTVfMjE5/MDAxNzU3ODk1NjgzOTQ5.uGC-EWVbBKQmj0Q_WvLqnbrTDyWsDFa9DylRB-iO02cg.zsqvwdFVHr5JufHjWYyfYcFGmqEH5BYA3hn2v0bGBG0g.JPEG/20250913_134756.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDhfNTQg/MDAxNzQ5MzkwMTY0NTcx.z4kXL59-cwmLSPwV_1PgJgwtTY5cnoQ0aTU5OoqSk3wg.rzNL5JxK4QrHlD9y2HKOaO9pojRzAEGPSy1ry9o0Jnsg.JPEG/20250608_200136.jpg",
+          "https://ldb-phinf.pstatic.net/20240423_60/1713869890879Sqd99_JPEG/%BF%C0%B8%AE1.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTZfMjA5/MDAxNzU1MzQ2NDMwODA0.Ufyv8Vtk7Rh2RcuBlLJpOt3NUtMEERdGnffAtYj4YI8g.U5s8p6Gt1oiRHpuoOoewVip8U81KMPwydSGhx_CF7h0g.JPEG/20250816_193155.jpg",
+          "https://ldb-phinf.pstatic.net/20151125_130/1448460969155MrRi6_JPEG/11592733_1.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjFfMTIy/MDAxNzUzMDI1MzY5ODQ4.e177gbbNHtaujqhAVaDvVB1TgZS3PdbLG1i8t5JlQ-0g.E2oQxdUcw1iAjIuO8M3Gl4On_ekddrysi6hwOk8LBj0g.JPEG/20250719_173320.jpg",
+          "https://ldb-phinf.pstatic.net/20151125_122/1448460969271sh7gP_JPEG/11592733_02.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTNfMjU3/MDAxNzQ5NzgxMDU1MjEy.p3YskNBvMFuwRdCksbjR1E01ALZNtcARdCZV_zF8bw4g.lqEN-Q9aJawFAWnBcrJXidGMbnk_36cehXp8_lib1hog.JPEG/38CD5B5E-C263-4C81-8DCE-5CEB8BACD3C0.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDNfMTQ4/MDAxNzU0MjA4NDczNTM3.MxgpksPZO9-DjvOpCaclW6vCPrm-scjceoc5k7BMxFsg.F5XEYqa_MGIVMV3T6FvktkOkrgyBMNXR61d_KQRBM7og.JPEG/20250802_124021.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDhfODAg/MDAxNzU3MzAwNzYxNjIz.SmbWMLHi-kWyfccvNxeyywimqQ7-UqFfEHicZ9EtjXsg.zq0u_sV04FhJjrnTl0Ec-FpgTnV-afSv_w8Rf2G4S6gg.JPEG/20240504_112856.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220861",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "11592733",
+            "bodySummary": "오늘은 설연휴에 가족모임으로 갔던 식당 간단하게 리뷰해볼게요. 안국역 6번출구 인근, 연합뉴스 빌딩 지하에 위치하고 있는 '베이징코야'입니다. 입구가 엄청 화려하네요. 건물 밖에서",
+            "url": "https://m.blog.naver.com/veronica2323/223354260761",
+            "nick": "공실이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMThfMjQ0/MDAxNzA1NTI2Nzk4MDYy.Y3MY_ACMJACwzfycoYvsEpMGOKEwP6sj0IsP4G1iikgg.fWZhl07uIRY5Kf9KaVGSFNJ0aCw0HPScrOFjOXLmPLsg.PNG.veronica2323/profileImage.png"
+          },
+          {
+            "sid": "11592733",
+            "bodySummary": "작년부터 먹어보자했던 베이징덕! 모트32 당일예약은 불가여서 압구정 베이징덕과 고민하다 베이징코야 광화문점으로 당일 예약함! 연합뉴스 건물에 위치해있어 건물 주차장에 주차 가능 (",
+            "url": "https://m.blog.naver.com/muse_mini/223326317145",
+            "nick": "쬬돗",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDA4MDhfODAg/MDAxNTk2ODkyNjM3NzIw.f24OzGaiEshvAfUyprdEMprIcMmjYPQBbVoV96iM-lYg.8XEU7VyIjJjxjqWaRv2QpSuGAUwhhK7fErfnGnPoZKMg.PNG.muse_mini/profileImage.png"
+          },
+          {
+            "sid": "11592733",
+            "bodySummary": "탕수육과 짬뽕을 후루룩 먹었는데 짬뽕은 생각보다 나쁘지 않았다 이런저런 이야기를 하면서 쓰윽 먹었다 오늘 처음 안 사실은 고추잡채밥은 당면이 없다고 한다...처음 암 오늘은 눈이 ",
+            "url": "https://m.blog.naver.com/jayden_89/223325671034",
+            "nick": "기록관",
+            "profileImg": ""
+          },
+          {
+            "sid": "11592733",
+            "bodySummary": "그래서 어느 역을 이용하든지 조금은 걸어야겠더라구요! 연합뉴스 빌딩 지하층에 있어서요! 따로 내려가는 계단을 내려가면 마주할 수 있습니다! 입구부터 뭔가 고급 중식당 느낌이더라구요",
+            "url": "https://m.blog.naver.com/hungry_dater/223322069474",
+            "nick": "ㅈㅅㅅㅈ",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA4MjdfMjQz/MDAxNjkzMTA0NzIyNzk4.7eXB8eH69BPSdPsQeCES91SNBQ8ZmzvCNJeIWDwFPe0g.NuBBXc4hexA-pr38ef3ZnwL2FcQ5-RZ5DaQ6ZwdW5n4g.JPEG.anjgodhsmf/KakaoTalk_20230827_115145913.jpg/KakaoTalk_20230827_115145913.jpg"
+          },
+          {
+            "sid": "11592733",
+            "bodySummary": "위치 연말에 광화문을 방문하면서, 가족과 함께 먹을 저녁식사 장소를 찾아보았습니다. 추운 날씨에는 기름진 음식이 당기고, 연말은 뭔가 특별한 음식을 먹고싶잖아요? 그러다가 베이징덕",
+            "url": "https://m.blog.naver.com/chido_chido/223320814000",
+            "nick": "치도치도",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMDVfMjY1/MDAxNzA0NDUxMDA3OTA4.y0Efpwpv1vD2xUgdhYLnXeidlTPmJ1BD7DaJ9_kp7_Ug.zHPIYZIeQZJixhM5Jz_9biKw-8FLd16d5hJgGci_e7Ag.JPEG.chido_chido/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "id": "1826822349",
+        "name": "스윗샐러드",
+        "x": "126.9795045",
+        "y": "37.5745788",
+        "distance": 0.05,
+        "categoryName": "다이어트,샐러드",
+        "categoryPath": [
+          [
+            "220036",
+            "220047",
+            "220170",
+            "230734"
+          ]
+        ],
+        "category": [
+          "도시락,컵밥",
+          "다이어트,샐러드"
+        ],
+        "reviewCount": 1865,
+        "averagePrice": 5000,
+        "address": "서울특별시 종로구 중학동 19 더케이트윈타워 B동 지하1층 스윗샐러드",
+        "roadAddress": "서울특별시 종로구 종로1길 50",
+        "abbrAddress": "중학동 19 더케이트윈타워 B동 지하1층 스윗샐러드",
+        "shortAddress": [
+          "서울 종로구",
+          "종로1길 50"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [
+          "빠르고 간편하게 즐기는 신선한 포션"
+        ],
+        "cardDescription": "빠르고 간편하게 즐기는 신선한 포션",
+        "description": "프리미엄 샐러드 전문점 스윗샐러드((구)스윗밸런스 광화문점)입니다. 2018년에 오픈하여 현재 8년차에 접어든 샐러드 전문점 입니다. 코로나19 유행으로 대두된 위생 이슈 관련하여 식약처 위생",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDRfODAg/MDAxNzU0MjgyNjk0MzUz.a1_x9hmNFnEWMHUJtMK-pOMZu2Zyxntl7abS4DHrmQgg.j6wEqlVe2_3Sz003bmP6n3JeHIKweUFY0VcVtyzuJSEg.JPEG/20250804_125108.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDVfMjI4/MDAxNzQ5MDk5NjY0Nzgz.CoJsLPfngAhHLYwyag2Haw1dA5_VFvcuwDWyf7Dg-jUg.RD2bnMHfj5X-ltzu13CsM4Mb8da3lauA822GH16yEmgg.JPEG/20250605_134856.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240404_210/1712239224549NEwnp_JPEG/IMG_4724.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjBfMTYz/MDAxNzUwMzkxNTQ2NTQy.91ZB-04R_q1FsBSxFXcGoXx1ILndkm93-nWBO-ZN8wUg.ygOEdruBdYpUaLtiqKp11x726iQYdQp6hW8LOz8IRuQg.JPEG/20250619_184004.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240404_188/1712239259545kJFDj_JPEG/IMG_4726.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjJfMTQ4/MDAxNzU4NTIzMTg3MDY3.xI4fQqtB0vcIlqFJd3iqZ981CQbJDisPLyG-o2cf820g.ch1XK9pwn0ifYDIan_qR4sGSlFAKi096ZmxPrCoeU4Qg.JPEG/2278CD3F-90E6-4843-8A59-DF91CF17A32D.jpeg",
+          "https://ldb-phinf.pstatic.net/20240404_113/1712239259234rBGnJ_JPEG/IMG_4725.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjFfMjIz/MDAxNzQ3ODMxMjIxMTEx.H460ab6_gpXNNE8iVvy_jmXw2Fq26AtibZhxqg9B78Mg.ymVMjpFnyCtA-WNPXR3YuqZGW3dfmQbWmr9cnq6ehnEg.JPEG/103D2D2E-A7AC-4AB7-B453-101C89142DC0.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjNfMTMz/MDAxNzQ1MzM3MDc5ODMw.TWDL_uNATL7vIk5iChFHG5v9sSrtJX7EbjWPFYG6JyYg.wS0-O_y1RPBqwqrNgK6jRpJRWMc6SaXlTnGmnxUqQu0g.JPEG/1638367F-AA78-491C-BF55-5FB4449FE42C.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTFfMTQx/MDAxNzQ2OTU5NDYzNTU2.Gdhy4tzIHUfbTFi4xQCnkApLXaCFHgs7Z_5bYKKr8Jog.lBwgdqs5gvJ72bf2yxAVvWY3K4e79iuzOKjK88CYEWQg.JPEG/DEC4C43F-A27F-462C-A0DF-C35253F3D4D0.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "230734",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.69",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "1826822349",
+            "bodySummary": "스윗샐러드 광화문점 ⏰ 영업시간 월-금 10:00-21:00 월-금 휴게시간 15:00-17:00 토, 일 휴무 #샐러드맛집 #키토김밥 #광화문샐러드 #내돈내산 [카카오맵] 스윗밸",
+            "url": "https://m.blog.naver.com/daydream_064/223309406641",
+            "nick": "글 짓는 몽상가",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA3MDVfMjcy/MDAxNjU3MDI3Nzk0NDIy.Q7VwsxhFFj5uTIr_6MCp5VEfUT1yXQwFuqB3W0Ir9Hcg.2hA2EgQZl0ZTzGVisE1M1OyUbV0oSVZuo5N9vtIM5zMg.PNG.coramdeo6493/profileImage.png"
+          },
+          {
+            "sid": "1826822349",
+            "bodySummary": "가장 중요한 시간이라 맛있게 먹고 즐겁길 바란다. 저번주에 스윗샐러드 가서 훈제오리샐러드를 먹었는데 전에 먹었을때보다 맛있어 졌다. 뭐지? 예전에는 훈제 오리가 질기고 딱딱해서 씹",
+            "url": "https://m.blog.naver.com/amande2023/223195573300",
+            "nick": "빨강머리앤",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMDhfMjg5/MDAxNzA5ODk5NTM1Mzgz.ljS0KVABmZf9xkBwqWhWf8gRyv5bDJFUloQrAy_rUigg.-v0njC41r96RUGmKYQCHDltDWuv7ftn3JAClk9HWl5Mg.PNG/profileImage.png"
+          },
+          {
+            "sid": "1826822349",
+            "bodySummary": "그 중에 회사 근처 스윗밸런스가 있어 방문해보았다. (내돈내산) 예전에 강남에서 스윗밸런스를 가봤는데 그때 맛있고 든든하게 먹었던 기억이 있어서 기대를 하고 갔다. 연합뉴스 빌딩 ",
+            "url": "https://m.blog.naver.com/seungmin57/222935939506",
+            "nick": "LUMOEL",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDEwMTlfMTk4/MDAxNjAzMTA0NTE1MTc1.2nUPpPagY7sdQCaccCst-HOe9DcqPHx6sNtYyASQRuog.PKvXtW6qFQkj_a2vasQ8wMJsU6NdIDlf7QjPMSdXSdcg.PNG.seungmin57/profileImage.png"
+          },
+          {
+            "sid": "1826822349",
+            "bodySummary": "그동안 점심시간에 다녔던 곳 중에 그래도 인상깊었던 곳, 괜찮았던 곳 추려본다 스윗밸런스 광화문점 혼밥하기 장소 괜찮고 샐러드에 양상추, 상추 등 풀떼기 너무 많은거 싫은데 적당히",
+            "url": "https://m.blog.naver.com/applemint25/222871254797",
+            "nick": "애플민트",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20091229_256/applemint25_1262051060620_AhUe6c_jpg/2042.jpg"
+          },
+          {
+            "sid": "1826822349",
+            "bodySummary": "광화문 직장인 다이어트 점심 메뉴로 샐러드만한게 없는데, 스윗밸런스는 가격도 착한편이고 양도 많은 편이라서 다른 곳보다 포만감이 오래간다 주변에 샐러드 파는곳이 다양하게 있는데 카",
+            "url": "https://m.blog.naver.com/judy9158/222857387809",
+            "nick": "ganjining",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjEyMzBfMTAw/MDAxNjcyMzg2ODk0MTM1.n-wKG_xmxFa_GKVV41Ocsccp9f45CaydQF7RDqM221Eg.asRgknMmp4Nd3BnRk7psibh3pqbb96zMjgxwqnpc-UYg.JPEG.judy9158/profileImage.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

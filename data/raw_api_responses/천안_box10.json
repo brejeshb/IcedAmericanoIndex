@@ -1,0 +1,267 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 4,
+      "count": 4,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 127.1139,
+          "minY": 36.8151,
+          "maxX": 127.11952659724913,
+          "maxY": 36.819604504504504
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "127.11671329862457;36.81735225225225",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1670423230",
+        "name": "카페이음",
+        "x": "127.1167663",
+        "y": "36.8167166",
+        "distance": 0.071,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 139,
+        "averagePrice": 4000,
+        "address": "충청남도 천안시 서북구 백석동 906 천안천성교회",
+        "roadAddress": "충청남도 천안시 서북구 시청로 172",
+        "abbrAddress": "백석동 906 천안천성교회",
+        "shortAddress": [
+          "충남 천안시 서북구",
+          "시청로 172"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "충청남도 천안시 서북구 백석동 906 천안천성교회",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjVfNDQg/MDAxNzUzNDIxMzEwNjQz.R7fXc7zyuVOH-ryhdajvcAh0v6STwOYnMZvgE7BHn1og.qvGn-CwQ7IO7pGhOGzFVpxuNdkU1_kipcAODF2BWdpEg.JPEG/20250725_131549.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjlfMTM2/MDAxNzQ1ODk2NTk4Mjk4.0CuDDCNcRNiYFiOJ2HetxyOM6dKM6p5Bu1X8ji7RlcMg.p92UZxYbVFNX_hdd07vYfPl64R1tl7g5MQb4DwlD72wg.JPEG/20250429_121251.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20201016_271/16028364359615ob5F_JPEG/YWiFlg8cASq82uuNUdIQIcEr.jpeg.jpg",
+          "https://ldb-phinf.pstatic.net/20201016_172/1602836439777F3zbC_JPEG/IP0TIS4YwwEZ1C1u8v5PNoIC.jpeg.jpg",
+          "https://ldb-phinf.pstatic.net/20240130_102/17066020598004WyVH_JPEG/1000001480.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "1651543799",
+        "name": "조카페",
+        "x": "127.1183915",
+        "y": "36.8182917",
+        "distance": 0.182,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 27,
+        "averagePrice": 5000,
+        "address": "충청남도 천안시 서북구 백석동 909 상가 1동 1층 106호",
+        "roadAddress": "충청남도 천안시 서북구 백석2길 12",
+        "abbrAddress": "백석동 909 상가 1동 1층 106호",
+        "shortAddress": [
+          "충남 천안시 서북구",
+          "백석2길 12"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "소등심불고기 폭찹 파개장 국수 우렁고추장찌개 전복죽 등 다양한 메뉴를 착한 가격으로 제공합니다",
+        "description": "소등심불고기 폭찹 파개장 국수 우렁고추장찌개 전복죽 등 다양한 메뉴를 착한 가격으로 제공합니다",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20230607_19/16861389123834jy7G_JPEG/20230602_121615.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 3,
+        "id": "1292191103",
+        "name": "윤가네김밥",
+        "x": "127.1181845",
+        "y": "36.8184442",
+        "distance": 0.179,
+        "categoryName": "종합분식",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220185"
+          ]
+        ],
+        "category": [
+          "분식",
+          "종합분식"
+        ],
+        "reviewCount": 1,
+        "averagePrice": 3000,
+        "address": "충청남도 천안시 서북구 백석동 909",
+        "roadAddress": "충청남도 천안시 서북구 백석2길 12",
+        "abbrAddress": "백석동 909",
+        "shortAddress": [
+          "충남 천안시 서북구",
+          "백석2길 12"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "충청남도 천안시 서북구 백석동 909",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20181101_174/1541049853928tnJCy_JPEG/b9xwuqby2DaS9ttQ_ny-UsRA.jpg",
+          "https://ldb-phinf.pstatic.net/20181130_138/1543539776926fUfou_JPEG/NYM9yVP1iX0fsrDgf50SW-NX.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220185",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 4,
+        "id": "1864872492",
+        "name": "그양반네",
+        "x": "127.1151481",
+        "y": "36.8188164",
+        "distance": 0.214,
+        "categoryName": "푸드트럭",
+        "categoryPath": [
+          [
+            "220036",
+            "230746"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "푸드트럭"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 5000,
+        "address": "충청남도 천안시 서북구 백석동 251",
+        "roadAddress": "충청남도 천안시 서북구 번영로 208",
+        "abbrAddress": "백석동 251",
+        "shortAddress": [
+          "충남 천안시 서북구",
+          "번영로 208"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "010.9489.9561 대표번호 입니다. 맛과 멋을 추구하는 전국구 명성의 제대로 하는 푸드트럭!! 기업 및 지자체 행사, 축제와 간식차, 커피차 등 각종 케이터링과 군부대 등 만남이 맛나는 그 곳! 언제 ",
+        "description": "010.9489.9561 대표번호 입니다. 맛과 멋을 추구하는 전국구 명성의 제대로 하는 푸드트럭!! 기업 및 지자체 행사, 축제와 간식차, 커피차 등 각종 케이터링과 군부대 등 만남이 맛나는 그 곳! 언제 ",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20240523_273/1716429048937J3ByM_JPEG/IMB_jcyXE6.jpeg",
+          "https://ldb-phinf.pstatic.net/20240523_293/1716429049895BxiDa_PNG/IMB_lfElSJ.png",
+          "https://ldb-phinf.pstatic.net/20240523_199/1716429049811sdhXI_PNG/IMB_0jW7IW.png"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "230746",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

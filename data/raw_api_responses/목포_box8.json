@@ -1,0 +1,531 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 9,
+      "count": 9,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.38102707551013,
+          "minY": 34.8128,
+          "maxX": 126.38651353775506,
+          "maxY": 34.817304504504506
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.3837703066326;34.81505225225226",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1040073357",
+        "name": "현선이네",
+        "x": "126.3815146",
+        "y": "34.8135081",
+        "distance": 0.268,
+        "categoryName": "정육식당",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "1002056",
+            "1002055"
+          ]
+        ],
+        "category": [
+          "육류,고기요리",
+          "정육식당"
+        ],
+        "reviewCount": 17,
+        "averagePrice": 0,
+        "address": "전라남도 목포시 연산동 1261-3 상가동101호(, 주공5단지 입구 상가1층)",
+        "roadAddress": "전라남도 목포시 원산중앙로 109",
+        "abbrAddress": "연산동 1261-3 상가동101호(, 주공5단지 입구 상가1층)",
+        "shortAddress": [
+          "전남 목포시",
+          "원산중앙로 109"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "전라남도 목포시 연산동 1261-3 상가동101호(, 주공5단지 입구 상가1층)",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20230825_179/16929319301822n62B_JPEG/B50BFF94-B8AB-44C5-B48B-49B141C8C487.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1002055",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "5.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "1796291778",
+        "name": "서해안장례식당",
+        "x": "126.3814872",
+        "y": "34.8163259",
+        "distance": 0.252,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 7,
+        "averagePrice": 0,
+        "address": "전라남도 목포시 연산동 758-2",
+        "roadAddress": "전라남도 목포시 고하대로 797",
+        "abbrAddress": "연산동 758-2",
+        "shortAddress": [
+          "전남 목포시",
+          "고하대로 797"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "전라남도 목포시 연산동 758-2",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjdfMTIz/MDAxNzUxMDI2MDUwOTE0.H0ojN4BlPMNINzbkhS1gni4e-tuvx2rvtyVh6r2jS38g.lKqCiA9jZBodqpbl5BSMyLiUf9xYTo5ZrvUdI48ZWdkg.JPEG/20250627_210703.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 3,
+        "id": "21413202",
+        "name": "드림카페",
+        "x": "126.3827848",
+        "y": "34.8146653",
+        "distance": 0.1,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 41,
+        "averagePrice": 3000,
+        "address": "전라남도 목포시 연산동 873-1",
+        "roadAddress": "전라남도 목포시 산정로 322-3",
+        "abbrAddress": "연산동 873-1",
+        "shortAddress": [
+          "전남 목포시",
+          "산정로 322-3"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "전라남도 목포시 연산동 873-1",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 4,
+        "id": "36801774",
+        "name": "달구덕",
+        "x": "126.3860954",
+        "y": "34.8128117",
+        "distance": 0.328,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 17,
+        "averagePrice": 0,
+        "address": "전라남도 목포시 연산동 326-22",
+        "roadAddress": "전라남도 목포시 산정로280번길 12",
+        "abbrAddress": "연산동 326-22",
+        "shortAddress": [
+          "전남 목포시",
+          "산정로280번길 12"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "전라남도 목포시 연산동 326-22",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 5,
+        "id": "1493966201",
+        "name": "유달식당",
+        "x": "126.3815906",
+        "y": "34.8134707",
+        "distance": 0.266,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 3,
+        "averagePrice": 0,
+        "address": "전라남도 목포시 연산동 1261-3",
+        "roadAddress": "전라남도 목포시 원산중앙로 109",
+        "abbrAddress": "연산동 1261-3",
+        "shortAddress": [
+          "전남 목포시",
+          "원산중앙로 109"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [],
+        "cardDescription": "전라남도 목포시 연산동 1261-3",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 6,
+        "id": "990013640",
+        "name": "면빨",
+        "x": "126.3827257",
+        "y": "34.8151458",
+        "distance": 0.096,
+        "categoryName": "중식당",
+        "categoryPath": [
+          [
+            "220036",
+            "220039",
+            "220091",
+            "220861"
+          ]
+        ],
+        "category": [
+          "중식",
+          "중식당"
+        ],
+        "reviewCount": 2,
+        "averagePrice": 5000,
+        "address": "전라남도 목포시 연산동 31",
+        "roadAddress": "",
+        "abbrAddress": null,
+        "shortAddress": null,
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "전라남도 목포시 연산동 31",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220861",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 7,
+        "id": "412691007",
+        "name": "뿅가뿅가",
+        "x": "126.3835339",
+        "y": "34.8167889",
+        "distance": 0.194,
+        "categoryName": "곱창,막창,양",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220767",
+            "221540"
+          ]
+        ],
+        "category": [
+          "한식",
+          "곱창,막창,양"
+        ],
+        "reviewCount": 2,
+        "averagePrice": 20000,
+        "address": "전라남도 목포시 연산동 29",
+        "roadAddress": "",
+        "abbrAddress": null,
+        "shortAddress": null,
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "전라남도 목포시 연산동 29",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221540",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 8,
+        "id": "16749086",
+        "name": "동성제과소",
+        "x": "126.3849749",
+        "y": "34.8131958",
+        "distance": 0.234,
+        "categoryName": "베이커리",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220564",
+            "221161"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "베이커리"
+        ],
+        "reviewCount": 5,
+        "averagePrice": 0,
+        "address": "전라남도 목포시 연산동 331",
+        "roadAddress": "전라남도 목포시 산정로 298",
+        "abbrAddress": "연산동 331",
+        "shortAddress": [
+          "전남 목포시",
+          "산정로 298"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "전라남도 목포시 연산동 331",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221161",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.5",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 9,
+        "id": "1263490004",
+        "name": "장어랑동태랑",
+        "x": "126.3841299",
+        "y": "34.8140382",
+        "distance": 0.118,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 0,
+        "address": "전라남도 목포시 연산동 2044",
+        "roadAddress": "전라남도 목포시 산정로 308",
+        "abbrAddress": "연산동 2044",
+        "shortAddress": [
+          "전남 목포시",
+          "산정로 308"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "전라남도 목포시 연산동 2044",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

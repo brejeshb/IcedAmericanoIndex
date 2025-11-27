@@ -1,0 +1,99 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 1,
+      "count": 1,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.99757599813533,
+          "minY": 37.282090990990994,
+          "maxX": 127.00323799906766,
+          "maxY": 37.2865954954955
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "127.0004069986015;37.28434324324324",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1742940633",
+        "name": "코아김밥",
+        "x": "126.9977883",
+        "y": "37.2831829",
+        "distance": 0.265,
+        "categoryName": "김밥",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220186"
+          ]
+        ],
+        "category": [
+          "분식",
+          "김밥"
+        ],
+        "reviewCount": 591,
+        "averagePrice": 5000,
+        "address": "경기도 수원시 팔달구 화서동 250-4",
+        "roadAddress": "경기도 수원시 팔달구 화양로50번길 30",
+        "abbrAddress": "화서동 250-4",
+        "shortAddress": [
+          "경기 수원시 팔달구",
+          "화양로50번길 30"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [
+          "단골이 보장하는 화서동 대표 김밥"
+        ],
+        "cardDescription": "단골이 보장하는 화서동 대표 김밥",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MThfMTEg/MDAxNzUwMjM3MzY5MTk5.l9nxscRx4nSYI7h1EUFWGDGqgmuVukUt8Ls74faeTp4g.8cUyz-D6aAQfqc5KbHwTl_pLdS22bJlDNF4wMrf-Gs0g.JPEG/20250618_175038.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjFfMjMw/MDAxNzUwNDc1MjU2MjAx.07cJkTE31MjapH0R6aUP0NA7x2JgCrTp0j3HZi2GC1Ag.pcjv6dyifioXjB_D29emFEqLJ76CAIUhX57qhXG9uaIg.JPEG/80D9742C-DF90-4E3F-956C-8715C8B70882.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjZfMTU5/MDAxNzU2MjAwMjY0MDIw.cqW-YC4GIi87cgZPmJK1Sw2E1HgybOAILGETztpFHmMg.cWJylY0jGttaUQZIsYNftRm78zP3p9z7OMaLfGJs_WQg.JPEG/20250826_182410.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDNfMTYg/MDAxNzQ4OTQ1NzY2NzY5.QMJTJi_mmFpAESfxGhU4W1k9HYw1PMRdog-envMflg0g.hNqYZKEX3KrZWn-Ja6g5uXlMhrjpj4DV_UHTT_HuHaIg.JPEG/20250603_185348.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjhfNzIg/MDAxNzUxMTAzNzY4NjAw.MyAyzqcU4U8Id9kKujekL_DDfa6ZUSWA9gGzs3KEV4sg.VRQ1NOB5R06mJ_QGzIAbSstVt9zjVS5mFXP9OXaRva4g.JPEG/20250628_181944.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjRfMTMw/MDAxNzU2MDI1NjY3NDM0.CYcqKnukYMFel2fzuj8-otFOSu8n5di5d-Ays8sejDEg.6BPOJ-k4TnY-RGgObOGhHU4IEGK5QRE6ZbucBmImr8og.JPEG/20250824_174503.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjFfMjkg/MDAxNzUwNDkwMTU1MTg5.PVunkQsM9qhazx_Wmg31R0wjJcgHr2CZocvYPyzmGnYg.FruLQD6ZPE-5VQlJjqjw4Am3XIsISICcMket3R7xYjwg.JPEG/20250621_155629.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDdfMTQ4/MDAxNzU3MjMzMTI4NTk1.WBYVKovuSzfJYcpjos4POQ5nxhA-ZgvD-l9I6_5DcF8g.Pcs9Md0b11gWULGQWgnWI5-2xIVbWC-mP4Skmk2spYgg.JPEG/20250902_113136.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMjJfMjEx/MDAxNzYzODE1ODEyNDg4.vmDH4iws4Asb_wYdiP6MbLCFkibcKOPRdxVOC1ZxO6sg.6ibQbyjJ25zR6fCGuWOzlBaKedP7Vtd4HVvO8BkOjDkg.JPEG/20250920_132306.heic.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220186",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

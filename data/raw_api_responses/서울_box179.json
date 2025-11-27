@@ -1,0 +1,710 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 9,
+      "count": 9,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.98822916351367,
+          "minY": 37.5646981981982,
+          "maxX": 126.9893657372374,
+          "maxY": 37.5655990990991
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.98879745037553;37.56514864864865",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "2032801309",
+        "name": "을지커피",
+        "x": "126.9892152",
+        "y": "37.5652165",
+        "distance": 0.038,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221212"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 6,
+        "averagePrice": 5000,
+        "address": "서울특별시 중구 저동2가 83-5 1층 을지커피",
+        "roadAddress": "서울특별시 중구 마른내로 11-12",
+        "abbrAddress": "저동2가 83-5 1층 을지커피",
+        "shortAddress": [
+          "서울 중구",
+          "마른내로 11-12"
+        ],
+        "displayContext": [],
+        "labelTheme": "최근 오픈한",
+        "microReviews": [],
+        "cardDescription": "로스팅 카페 커피 외 음료도 있습니다  외부 음식 반입 가능 ( 제외 음식 : 조리 된 음식 등 떡볶이 , 자장면 등 ) ( 가능 음식 : 빵 , 과일 , 야채 , 옥수수 , 군밤 등 )",
+        "description": "로스팅 카페 커피 외 음료도 있습니다  외부 음식 반입 가능 ( 제외 음식 : 조리 된 음식 등 떡볶이 , 자장면 등 ) ( 가능 음식 : 빵 , 과일 , 야채 , 옥수수 , 군밤 등 )",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTVfMTE5/MDAxNzU3OTA4MDk3Njg1.PG2gS5-A3a2zzNNYwJEFVoRw511g1pjuZlHYz9e6L7sg.ITlPw1noEgo3-I66KOqYsxSuGxH-T_njxLpKUWASNgog.JPEG/D402C7A8-457C-4CFC-A555-3E719DC9D811.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTdfMTIx/MDAxNzU4MDg2NzgwOTY3.4TgmwSffDi0Tb2yVe1I34G-kU2t69W0n77oB7rgToqAg.Apr7wH3D68myY0jrM-ASaR2RGrI5aX3MG7JhoIzGau8g.JPEG/0A7BB805-9C01-46EA-9115-CC84BE88E985.jpeg",
+          "https://ldb-phinf.pstatic.net/20251002_281/1759366014172xQmMa_JPEG/47.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjZfMTQ2/MDAxNzU4ODc2ODY1OTg4.0eYFW2C1GEHeqGv_Rxvg6HXdl0TriCuIniJtzRMHASYg.fTARQcVBRDENiyStPQyUxpIZGBCoe578f72aJJ8jg4og.JPEG/73C01233-4776-44D8-A2D3-DAF131B0F55C.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTVfMTE4/MDAxNzYwNTAxODY3ODM0.c-Qiu97jMY7ea4rpq06vQPC2ZeGBOcpl7QZU9E4pup4g.-UwK5llCgpRkbjehRh8gSamBB0W5SQVdgfMzJFReeNUg.JPEG/C1A30544-317F-4AC9-AAF4-183FA41644EC.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjBfMjQz/MDAxNzYwOTIwNzM2MDQx.YOyU3FKYVvzKCq1wDoW4fbqUPemzTRjj0OEsUuo5kXQg.BMZr3ByksuzhD9Apw2GLOl-YaDKX-hLHBrqENqxrqmAg.JPEG/FD25BA77-5661-4900-963F-5A2CAEED071B.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221212",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "1141658204",
+        "name": "드림카페",
+        "x": "126.9892895",
+        "y": "37.5649786",
+        "distance": 0.047,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 324,
+        "averagePrice": 3000,
+        "address": "서울특별시 중구 저동2가 84-10",
+        "roadAddress": "서울특별시 중구 마른내로 11-4",
+        "abbrAddress": "저동2가 84-10",
+        "shortAddress": [
+          "서울 중구",
+          "마른내로 11-4"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [
+          "을지로 감성 가득한 편안한 카페 공간"
+        ],
+        "cardDescription": "을지로 감성 가득한 편안한 카페 공간",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDZfNTAg/MDAxNzUxNzY2MDcwMTcy.A27lHu0pkQdce0mdob8Iw1ouNV9WMqM3qHkUjkRTWwYg.xfJMuMVyCbDrpv2IRpby8eIh0ZGLFkKBtVCsCvbXuyQg.JPEG/85144F8D-2CDA-4C93-B192-2FA5FA45AE56.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTdfMTU4/MDAxNzUwMTM5NzkxMTE1.SPcCeAQihkMXSAga250qffJiSv-I07CR2UYCZ0dwnuYg.SmFL7vsvIi-rQJ26O38bO9D81yubZul73mV7bNLDA_sg.JPEG/12F13A6F-33C0-4FE5-926A-AE16540BF4B6.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjRfMTc4/MDAxNzQ1NDUwNjMzMTM4.20M1dV-WHuHBMO0RQy5P4RQXbmBsC71-DTeOAy1JALcg.udsJI8pWi-YbEZ3LhYUKxho8TV8Li3mReQ_kx7N4qtIg.JPEG/20250424_082153.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MDJfMTI4/MDAxNzQzNTk1MDkwMDUy.cgDO9ASTgRmgaI4dCXMtw3z06q6DhQd5gJW-T7HhvSog.0eB2fO_e5mHmia6l2NP1HXWZgEbXwMbppSXBEJeZNlUg.JPEG/20250401_123517.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTRfMTgg/MDAxNzU3ODM1ODI4NzIz.QY16bsdxux4w5j1GyASmSlaavRyCBNgTMFVUxzykR-Yg.kwxUnWNLzr-s8lWWf1nJ1Q46NCZ9Rcr8JALHG1RLceYg.JPEG/20250706_121028.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDRfMTMz/MDAxNzU2OTkzMzYxNDUw.UjsmVh4aG2Cew1bebVNh1XTTaaQ6QO5Ig1F5IrEtUyog.ELpexgCPTAxQF4Qy8llBQGNJT8yl5_9-9dw56UUw4nIg.JPEG/20250706_121028.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.41",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "1141658204",
+            "bodySummary": "회사 가는 길 골목길에 있던 #드림카페 에서 따아를 테이크아웃했다. 카페에는 한국커피협회 바리스타 2급 자격증이 걸려있었다.... (나 내일 그거 시험인데...) 어쨌든 직접 로스",
+            "url": "https://m.blog.naver.com/ms89ms/222545250862",
+            "nick": "깡미",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA5MTJfMjk5/MDAxNjMxNDI0OTgzNzU2.M54ljW0A4xLoRpycCx8mEO_0V710gS48yr5z5RVApUEg._6JS3xnb4SpHlVIq3ZsRYiaDjs_YDd0941YmeYHXm6cg.JPEG.ms89ms/BENJ6539.jpg"
+          },
+          {
+            "sid": "1141658204",
+            "bodySummary": "을지로3가 카페 DREAM CAFE 로스팅, 블렌딩 직접하는 곳 정신없는 요즘 약속시간 까먹어서 멘붕 거듭 사과드리다 다음 일정은 왜 또 일찍 온거니 시간낭비하기 싫어서 공부하러 ",
+            "url": "https://m.blog.naver.com/tastyzoom/222256300334",
+            "nick": "tastyzoom",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA3MDZfMjk1/MDAxNjU3MTA5OTY5Mzky.CPMewRp_3OR6oiDc7UbvOp4aqA8m6jRqQAvjhqgD2fUg.v6YHXq2X-VfE0ddVuei631qdwOi32pYcql357gBuCDkg.PNG.analogbus/profileImage.png"
+          },
+          {
+            "sid": "1141658204",
+            "bodySummary": "을지로3가카페 드림카페 안녕하세요 오늘은 을지로3가카페 DREAM CAFE를 다녀왔습니다~ 카페가 줄지어 있는 곳에서도 독보적으로 깔끔한 인테리어에 홀린듯 들어갔다 왔어요 지나가다",
+            "url": "https://m.blog.naver.com/june1239/222148825172",
+            "nick": "토닥톡",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDA5MjRfNTMg/MDAxNjAwOTM5MzU4Mjc5.OsJyX2IJxzPo3AqnrvYxa2emsv2uzCjgH7x1Q-HeZ8kg.imb7rc6MLsXVV23SDqH9d41TDjJcTMfjtlLYm9jo9hYg.JPEG.june1239/cb54b3f727b286471ab47daf542790fd.jpg"
+          },
+          {
+            "sid": "1141658204",
+            "bodySummary": "정말 믿을 수가 없었어여..ㅎㅎ 그리고 아이스 아메리카노만이 아니라 을지로 카페 별표친 메뉴들 중에서도 자유롭게 선택할 수 있더라고요. 미리 지불하면 먹을 수 있는 메뉴가 빨갛게 ",
+            "url": "https://m.blog.naver.com/lovonly4u/222141641841",
+            "nick": "낙태수술 병원 토닥톡",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMjBfMjI4/MDAxNzAwNDY3MjEzMzky.VD_VfAypUeK48o_a13ULjGd5V6Rvi8MBQR4m78DeRQIg.08m8vGDDQ5Zkaoq_PH0dI_umhm48Lpr3Ncu40Il_O6gg.JPEG.lovonly4u/Screenshot_1.jpg/Screenshot_1.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "id": "1086475789",
+        "name": "한식당 풍류 백병원점",
+        "x": "126.9892618",
+        "y": "37.5650806",
+        "distance": 0.042,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 209,
+        "averagePrice": 5000,
+        "address": "서울특별시 중구 저동2가 84-7",
+        "roadAddress": "서울특별시 중구 마른내로 11-8",
+        "abbrAddress": "저동2가 84-7",
+        "shortAddress": [
+          "서울 중구",
+          "마른내로 11-8"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [
+          "불고기전골로 밥 한 공기 뚝딱"
+        ],
+        "cardDescription": "불고기전골로 밥 한 공기 뚝딱",
+        "description": "한식당 풍류는 어릴적부터 어머니께서 해주시던 집밥스타일을 추구합니다.모든 메뉴가 테이블에서 바로 끓여드시기 때문에 건강한 식재료의 풍미를 즐기실수 있습니다.그리고 매일 다른반찬 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MDhfMzgg/MDAxNzQ0MDkxODk5NDk5.nA3r8NOccMPRSZT0GX6HyG0oNQ7EuLhRdp-5V5Xg4twg.vtoqd7Fe5Q6JdM8EmnqJ2x2d90PzdbuTO9Pz9Y9saEcg.JPEG/IMG_20250408_112207.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20230725_136/1690276021499nWL4B_JPEG/%C7%D1%BD%C4%B4%E7_%C7%B3%B7%F9_%B9%E9%BA%B4%BF%F8%C1%A1.jpg",
+          "https://ldb-phinf.pstatic.net/20220602_296/1654159285986ATcBQ_JPEG/20220602_172900.jpg",
+          "https://ldb-phinf.pstatic.net/20220602_226/1654159308228btNJ9_JPEG/20220602_173110.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "1086475789",
+            "bodySummary": "카페도 있고 음식점도 있습니다. 병원에는 더이상 의사도 환자도 없지만, 골목에는 점심시간 직장인들로 가득합니다. 궂은 날씨에 한식을 찾아 떠나보았습니다! 점심시간 식사류 메뉴만 찍",
+            "url": "https://m.blog.naver.com/yamoojin0/223345046461",
+            "nick": "야무진영",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMjVfMjEz/MDAxNzExMzc4NDY3MDk1.brbSPSVx-Z1vLyt5cW1BNhj17jWbI4viMtgE0mHnIaYg.uC9mJ2284Ay7lX6YW-kNYClEbREqaDWWXkek4K-QrT4g.JPEG/profileImage.jpg"
+          },
+          {
+            "sid": "1086475789",
+            "bodySummary": "을지로3가맛집 을지로3가 백병원 바로옆에 위치해 있어서 병원 관계자분들이나 근처 밥집으로 가기좋아보였어요 한식당풍류 백병원점 영업시간 매일 9:00~22:00 방문일 : 8/13(",
+            "url": "https://m.blog.naver.com/qda9413/222855804050",
+            "nick": "baebae",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAxMjdfMjIz/MDAxNjc0NzU0ODMwODI3.9e_vDmBqVSb94NOnJIul1mowC__wL8DUObAWZ791JlUg.xNKNFGntsE8HT3g051f011tpuL8T_ZGqcZHAR_4F0HMg.PNG.qda9413/profileImage.png"
+          },
+          {
+            "sid": "1086475789",
+            "bodySummary": "청경채 맛이 너무 강해지는 것 같아서 청경채를 좀 빼고서 더 끓였더니 좀 더 내 입맛에 맞아졌다 후후. 불고기랑 버섯, 당면이 푸짐해서 둘이서 충분히 먹을 수 있는 양이었던 한식당",
+            "url": "https://m.blog.naver.com/date_course/222806678631",
+            "nick": "구구",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxODA3MTdfMjEg/MDAxNTMxNzk0MTc1Njky.jGwa9R-MmC-2wQRwDBkkoqUu3-Xs1E9q-1MMISS6eCIg.SA50BBsAsOX2rbwiqMidm4HNjxauhB2JbrqE4X4dpeIg.PNG.date_course/%BD%BA%C5%A9%B8%B0%BC%A6+2018-07-17+%BF%C0%C0%FC+11.22.38.png"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "id": "37812699",
+        "name": "수커피볶는집 을지로점",
+        "x": "126.989253",
+        "y": "37.5651509",
+        "distance": 0.04,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221212"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 580,
+        "averagePrice": 4000,
+        "address": "서울특별시 중구 저동2가 84-11",
+        "roadAddress": "서울특별시 중구 마른내로 11-10",
+        "abbrAddress": "저동2가 84-11",
+        "shortAddress": [
+          "서울 중구",
+          "마른내로 11-10"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [
+          "2500원 가성비 아메리카노의 만족감"
+        ],
+        "cardDescription": "2500원 가성비 아메리카노의 만족감",
+        "description": "맛있는 딸기라떼, 귀여운 보틀에 담긴 딸기우유 판매합니다 ^^",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjlfMjg0/MDAxNzUzNzg0ODkzMTIz.PbcSM75LpQzM46vGwYKr15Tn-zBM_f4ac7GH5begjaQg.kNn1hXNAn-uMruH8VztCy0CRiWq9_ZYkP9hyoyxj4Fog.JPEG/4709AB0E-F758-46A5-8EFF-878A4F6AA39F.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjJfMjcg/MDAxNzQ1Mjk3MjA4MTIy.0g71SaOhFGj5_xhs9ww8t3lJSx8kruU2E10CHqHsbQkg.7eMx39j48m3T9-tAHThPAHwNvgU-4qs2C02Hz6Dt7-kg.JPEG/EDA4D80B-260F-4460-9BF1-CEFFB534F45B.jpeg",
+          "https://ldb-phinf.pstatic.net/20220602_295/1654152975305NlluE_JPEG/983D62C3-1BAC-4FFF-B148-88F444F0A6CC.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221212",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 5,
+        "id": "12882397",
+        "name": "태평옥",
+        "x": "126.9893575",
+        "y": "37.5648861",
+        "distance": 0.057,
+        "categoryName": "돼지고기구이",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220765",
+            "221458"
+          ]
+        ],
+        "category": [
+          "한식",
+          "돼지고기구이"
+        ],
+        "reviewCount": 424,
+        "averagePrice": 21000,
+        "address": "서울특별시 중구 저동2가 84-4",
+        "roadAddress": "서울특별시 중구 마른내로 13",
+        "abbrAddress": "저동2가 84-4",
+        "shortAddress": [
+          "서울 중구",
+          "마른내로 13"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [
+          "신선한 재료로 만든 김치찌개 강추"
+        ],
+        "cardDescription": "신선한 재료로 만든 김치찌개 강추",
+        "description": "안녕하세요, 저희 태평옥은 일반 음식점에서 느낄 수 없는 깊은 맛을 자랑하며 특별한 맛으로 손님 여러분을 모시고 있습니다. 외지에서도 손님이 많이 찾아오고 있으며 오시는 분들께 맛있는 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTBfODYg/MDAxNzQ0MjcwMDE0NjEx.W3bP3o2N8h8k0loPh2xUOt4aAUINCwRFFosUaplSqXgg.NUDpIOfiPJLQoLCtHuArjUbeQYLjGhlzkh6UxJCa9OIg.JPEG/20250409_194926.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTNfMTcx/MDAxNzQ5ODE3MTkxNDg3.gk6YX7ZtoC0TFpoyysxGzKKBuJ3I4kUN8AS5cmTD33kg.Z-iXAR0vAla917LvmxkwyX0Lev9Zg8gCIonAN40Pim0g.JPEG/1E538954-CF12-4AC8-BB14-D390F4548808.jpeg",
+          "https://ldb-phinf.pstatic.net/20190418_27/1555575024017pV9DJ_JPEG/uQQ3wMzAeDcr3GbkpGXiyoCY.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDFfODUg/MDAxNzU0MDE5NTI4Nzkw.mAdzJKnAvamCclmjs_1bAn_KlNzvbEdWVZE9YVWJArUg.qUWMV-frfTcDDAaW6qEAxsc75lGvWaiHb7Z6XV-CWQMg.JPEG/20250801_123749.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221458",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "12882397",
+            "bodySummary": "삼겹살 하나 목살 하나 그러면 이렇게 두부랑 양파, 쉰김치가 올라간 돌판을 바로 올려주신다 크으으으 침고인다 그 다음 나온 밑반찬들 일단 기름장 나오는 고깃집은 무조건 인정이다 거",
+            "url": "https://m.blog.naver.com/sunju_s2/223324029787",
+            "nick": "SUNJOO",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMTZfMjQ5/MDAxNzA1Mzc4OTk1MTY3.jo8c_fAh38JiI2AGFJnTxtSBjUvl6q60onuEjLmIcbYg._8wP6hr7zuXa9hey1q0L2ORFv27QfZz7RVihTcj7N0sg.PNG.dlatjswn1918/profileImage.png"
+          },
+          {
+            "sid": "12882397",
+            "bodySummary": "'물론 힙지로 거리는 또 힙지로의 현대적 느낌이 섞여있기는 하지만..' 오늘의 내가 가본곳은 '태평옥'이라는 삼겹살 및 찌개집을 소개해 보려고 한다. 태평옥 정문 간판부터 정말 옛",
+            "url": "https://m.blog.naver.com/dydvkdnj11/223295730196",
+            "nick": "롸니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMjdfNiAg/MDAxNzAxMDEzMTMxMTEy.hutFCoK36D92vdMrYEN2S0zYMcr0ww2Heqa5gXHgTzsg.ojbtfE7s2Zxt7oAismq5JpM5YbEo9ixf2CyYd94bs6og.PNG.dydvkdnj11/profileImage.png"
+          },
+          {
+            "sid": "12882397",
+            "bodySummary": "을지로3가역 근처, 인제대학교 백병원 옆에 위치한 태평옥입니다. 사장 아주머니 엄청 친절하십니다. 맛있게 안먹으면 혼납니다. 반찬 기본적으로 먹을만한거 4개 이상 나오고, 여기 쌈",
+            "url": "https://m.blog.naver.com/powerelite/223175877758",
+            "nick": "야외수업",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxODAyMTdfMTM4/MDAxNTE4ODY3MzQ2Nzc0.dtL6CXahe6wEwSBRikxe-f8O0k_EoZyEYDS5Flwj-XEg.IyfQ0gR5jhVBgYp1QbnVOTJjAdF3ATCwzwEg4XShE-4g.JPEG.powerelite/KakaoTalk_20180217_203326995.jpg"
+          },
+          {
+            "sid": "12882397",
+            "bodySummary": "방문한 소곱창집 후기에요 바로 을지로3가로 갑니데이~ 그럼, 태평옥 외관 태평옥 외관이에요 구 백병원 바로 옆에 붙어 있고 을지로3가 2호선이랑 가까워요 한우돌곱창우기 생삼겹살 간",
+            "url": "https://m.blog.naver.com/us7040/223174109040",
+            "nick": "마늘c",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20220630_120/us7040_1656535896860pGtay_PNG/image.png"
+          },
+          {
+            "sid": "12882397",
+            "bodySummary": "6월에 두 번 방문한 곳 첨엔 소곱창이 너무 맛있다고 해서 방문 소곱2인분 3인 방문 먼저 온 두 명이 2인분 주문 근데 이 맛이 아니었다며 의아해함 추가 주문한 건 맛있다고 함 ",
+            "url": "https://m.blog.naver.com/andyet1/223149319268",
+            "nick": "맵찔냠",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAyMjBfNyAg/MDAxNjc2ODU4NDQ4NzQy.PxIoj_BWdO5W-Tr8grm6a8iloEwnkwJLKdQDDqVIH6gg.F-_WrQ_1erC2BdloJVKMWPGtnK7UwQ51EyhBgtZ_i0sg.JPEG.andyet1/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "id": "1048434032",
+        "name": "창강한식",
+        "x": "126.9892782",
+        "y": "37.5650324",
+        "distance": 0.044,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 154,
+        "averagePrice": 9000,
+        "address": "서울특별시 중구 저동2가 84-3",
+        "roadAddress": "서울특별시 중구 마른내로 11-6",
+        "abbrAddress": "저동2가 84-3",
+        "shortAddress": [
+          "서울 중구",
+          "마른내로 11-6"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 저동2가 84-3",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MThfMjc4/MDAxNzQ0OTA0OTk0ODc3.VFqlHvWvBWq_13r7D_EoxQfPCr-Pz7OlqvM8GKJ-9tIg.8063SI4LBTzfKb9IdCkJxVenBXS44dIh07KIxU5HPhog.JPEG/51D84725-32E2-41FF-98AF-14F0B3C95CD4.jpeg",
+          "https://ldb-phinf.pstatic.net/20190418_132/1555575110744C5BKO_JPEG/UzIj214VgrUWyx55I-DuH1ft.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1048434032",
+            "bodySummary": "최근 방문한 창강한식은 거대한 고기덩어리가 통째로 들어있었는데 소개해드리도록 하겠습니다! 맛은 어때요? 엄마표 집밥이 그리울 때! 이 곳 식당은 백반 기반의 여러 음식들을 판매중인",
+            "url": "https://m.blog.naver.com/hdsghkd/223186379737",
+            "nick": "소비요정 현동",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA2MDRfMjI0/MDAxNjg1ODg5NjgzMjY3.ZfiM3cxgvDB_lR-fJKcXnQECa_7dkKlMnei4BfH66uAg.kZlvUJwzPG45SGlxAwARaRpFab0jsb3IoohYYr7Aurwg.JPEG.hdsghkd/IMG_3987.JPG/IMG_3987.JPG"
+          },
+          {
+            "sid": "1048434032",
+            "bodySummary": "늦첵. 고객사 방문전 점심으로 직원과 오삼불고기 백반 완식. 오징어는 통통하고 식감이 좋았는데 삼겹살은 퍽퍽해서 아쉬웠음. 무난한 백반집. 재방문은... #창강한식 #백반",
+            "url": "https://m.blog.naver.com/jaewon725/223150692057",
+            "nick": "켄타꼼돌이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxODA4MTBfOTgg/MDAxNTMzOTAyNzUxNzI4.mymFUBmdMz7IGhXjVqEt0LKF92XYylPpZmEu0wxxxyIg.bd5Hy7VgJM36ViK9H7jJ7miM136taCLiOPPXaIz-2GUg.GIF.jaewon725/profileImage.gif"
+          },
+          {
+            "sid": "1048434032",
+            "bodySummary": "삼겹살 간단한 김치 간단한 파김치 간단한 상차림에 그냥 있는 메뉴 거의 다시켰다 삼겹살은 완전 냉동이어서 사실 조금 별로였음 다만 정이 있어서 좋았다~ 닭도리탕 이거는 찐이었다 닭",
+            "url": "https://m.blog.naver.com/fineastko/223034894109",
+            "nick": "EastKo",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxNzA3MDdfMzcg/MDAxNDk5NDA2MDY1NzUw.xf88PDvWOFhargxDPqD-_g9ymOdb2n6y785JRCeb2NAg.Ooc3E1EIOr29FjeG1FSe3s9d-XX3BBkjk_8dR2HJCPkg.JPEG.fineastko/1234.JPG"
+          },
+          {
+            "sid": "1048434032",
+            "bodySummary": "을지로 3가역 주변에 김치찌개 먹을 수 있는 식당들이 꽤? 많은데요. 여긴 진짜 외관도 그렇고 딱히 막 끌리지는 않았는데 ㅋㅋㅋ 그냥 지나다니면서 궁금했었꺼든요. 블로그 찾아보니 ",
+            "url": "https://m.blog.naver.com/rena1001/222861603478",
+            "nick": "레나",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20110203_123/rena1001_1296740358802_Bj7bo5_JPG/IMG_8172.JPG"
+          },
+          {
+            "sid": "1048434032",
+            "bodySummary": "불고기도 맛잇게 나오긴하던데 그래도 김치찌개가 먹고싶어서 김치찌개로 요즘 미친물가에 가격도 넘 만족만족! 갑작스럽게 쓸생각을 해서 내부사진은 미처 찍지 못햇다 먹다보니 사람도 많아",
+            "url": "https://m.blog.naver.com/apple_4828/222840139104",
+            "nick": "쎄씨",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA3MDRfMTUy/MDAxNjI1MzUwOTk2NDUw.x_VlDd-aFhF-cFmuPQLUmP6IBbUEWvkd8ZII_oV6g54g.sWFEXDm9smLOe1R7p7Fwyqt6KYqikPRsEMc-UJfSHggg.PNG.apple_4828/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "id": "1193565753",
+        "name": "리코리스커피",
+        "x": "126.989268",
+        "y": "37.5650846",
+        "distance": 0.042,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221212"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 81,
+        "averagePrice": 4000,
+        "address": "서울특별시 중구 저동2가 84-7",
+        "roadAddress": "서울특별시 중구 마른내로 11-8",
+        "abbrAddress": "저동2가 84-7",
+        "shortAddress": [
+          "서울 중구",
+          "마른내로 11-8"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 저동2가 84-7",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221212",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 8,
+        "id": "1549460088",
+        "name": "북천 을지로",
+        "x": "126.9892464",
+        "y": "37.5651478",
+        "distance": 0.04,
+        "categoryName": "일식",
+        "categoryPath": [
+          [
+            "220036",
+            "220038",
+            "220082",
+            "220812"
+          ]
+        ],
+        "category": [
+          "일식",
+          "돈가스"
+        ],
+        "reviewCount": 78,
+        "averagePrice": 15000,
+        "address": "서울특별시 중구 저동2가 84-11 2층",
+        "roadAddress": "서울특별시 중구 마른내로 11-10",
+        "abbrAddress": "저동2가 84-11 2층",
+        "shortAddress": [
+          "서울 중구",
+          "마른내로 11-10"
+        ],
+        "displayContext": [],
+        "labelTheme": "일식",
+        "microReviews": [
+          "매콤한 브라운 소스의 완벽한 조화"
+        ],
+        "cardDescription": "매콤한 브라운 소스의 완벽한 조화",
+        "description": "주방장 겸 주인장님이 엄선한 두툼한 국내산 돼지고기! 직접 갈아 만든 빵가루를 입혀 튀겨 고소함은 두배!  주인장님의 특제 브라운 소스가 곁들여진 브라운돈가스 정말 맛있습니다!  용산에 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjlfMTg1/MDAxNzUzNzg0NzY5MDIz.TnH2uewl-EkurbiwdgWfJfluU29E6to224LlC9otkwYg.o11G1IAkgA1uiIp-rltjRqEvhBQQkdj2wEtW8jylknQg.JPEG/6363EE8A-9401-49DA-91F4-774F4F094AB0.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjVfNjYg/MDAxNzYxMzc3ODQ5MDk5.JIkNZaVyQ5nmxqTMjjkl5dK4-pOU_iFN-Mf9WCGzKjAg.Fxc6aSe4zXWs-7nkERQwp9j0xsx_eEYXIVpYjfZdMysg.JPEG/179890B1-A8DD-4E12-9FA5-1E8F49840255.jpeg",
+          "https://ldb-phinf.pstatic.net/20240611_192/1718097095198XE79H_JPEG/%BA%CF%C3%B51.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTNfMTgy/MDAxNzQ3MTA5MzYxNDEw.n_5-gj097Vr7BgPFaYEmUblsLm-XmCVcMxltjgHzeeYg.yBRh6vd519Q7k3xpey9I0d7zbntiEciied5smiAI2KUg.JPEG/59DFF8C3-6A81-4A3A-991A-ED1F11E97A36.jpeg",
+          "https://ldb-phinf.pstatic.net/20240611_62/1718097082390AVu1v_JPEG/%BA%CF%C3%B52.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTRfODMg/MDAxNzYwNDMzNTA5NTYw.06xkHoCYsidwLnMawyFTNUgIn7zkD0HrI4waez-tVNEg.m6tp5y1AgfvFewTUfiik3CfAHzdQ3Z3cj1hFc8Xik74g.JPEG/2ABB6CF2-B882-45B6-88AA-A5709445AD61.jpeg",
+          "https://ldb-phinf.pstatic.net/20240611_279/1718097149939vrRiC_JPEG/%BA%CF%C3%B5.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjVfMjIx/MDAxNzU2MTA2ODgxNzk4.d8DxRcs8nsgSqXDOpWaCNkQQ9tywJZN0W975kQmQ_rMg.EZHEE-qb3DJ3tPCnKfpJRi2u6oq2yTeCAc3qPP-10Gkg.JPEG/977814A2-533A-44A5-AEFA-FD9B8CF0ABF7.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjFfMjUz/MDAxNzQ3ODAyMTY5ODA2.cUDEwpGAng7OmoN5VJSdmSivl4-aoutvk88SdjxqkaUg.IgZykOFbpzCyP2a-HM_P0XMUjUrijfX9q3jES7TNRYAg.JPEG/20250521_124457.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MThfMjE0/MDAxNzU1NDkwNzA2ODA0.-nr8q4v1CF5hDBxKYncaHouXxixWkwcWG8G7slGLVxsg.TMjAJx1Z1wWg9JWm4RJansBxNUF2fvSue8TVLfaJAoMg.JPEG/2FF35259-43F3-4D3C-B83D-E0A2BDCDE5E2.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220812",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 9,
+        "id": "2087355899",
+        "name": "한식공간 소반",
+        "x": "126.9893575",
+        "y": "37.5648861",
+        "distance": 0.057,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 20000,
+        "address": "서울특별시 중구 저동2가 84-4 2층",
+        "roadAddress": "서울특별시 중구 마른내로 13",
+        "abbrAddress": "저동2가 84-4 2층",
+        "shortAddress": [
+          "서울 중구",
+          "마른내로 13"
+        ],
+        "displayContext": [],
+        "labelTheme": "최근 오픈한",
+        "microReviews": [],
+        "cardDescription": "궁중과 반가 음식의 정신을 연구해온 조희숙 셰프와, 그 뜻을 이어 현대적으로 풀어내는 이민재 셰프.  모자(母子) 두 셰프가 함께 빚어내는 한 상의 식경(食境), 계절의 미감과 한식의 품격을  ",
+        "description": "궁중과 반가 음식의 정신을 연구해온 조희숙 셰프와, 그 뜻을 이어 현대적으로 풀어내는 이민재 셰프.  모자(母子) 두 셰프가 함께 빚어내는 한 상의 식경(食境), 계절의 미감과 한식의 품격을  ",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20251010_21/1760069085076hG7cF_JPEG/%C7%D1%BD%C4%B0%F8%B0%A3%B7%CE%B0%ED.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

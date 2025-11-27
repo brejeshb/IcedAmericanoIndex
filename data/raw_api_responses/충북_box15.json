@@ -1,0 +1,205 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 3,
+      "count": 3,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 127.49461395691675,
+          "minY": 36.64690450450451,
+          "maxX": 127.5002279138335,
+          "maxY": 36.651409009009015
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "127.49742093537512;36.64915675675677",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1428108750",
+        "name": "헤븐리커피",
+        "x": "127.4950898",
+        "y": "36.6497889",
+        "distance": 0.22,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 29,
+        "averagePrice": 5000,
+        "address": "충청북도 청주시 청원구 우암동 32-14 2층",
+        "roadAddress": "충청북도 청주시 청원구 수암로66번길 48",
+        "abbrAddress": "우암동 32-14 2층",
+        "shortAddress": [
+          "충북 청주시 청원구",
+          "수암로66번길 48"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "청주대학교 비즈니스 스쿨로 들어가는 골목에 있어요 ㅋ",
+        "description": "청주대학교 비즈니스 스쿨로 들어가는 골목에 있어요 ㅋ",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20240322_257/17110971866082GVSB_JPEG/IMG_0792.jpeg",
+          "https://ldb-phinf.pstatic.net/20240322_220/1711097187397YaoyP_JPEG/IMG_0793.jpeg",
+          "https://ldb-phinf.pstatic.net/20240322_175/1711097187088nTmq8_JPEG/IMG_0794.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "410816133",
+        "name": "비트윈어스",
+        "x": "127.4952031",
+        "y": "36.6499029",
+        "distance": 0.215,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221212"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 3,
+        "averagePrice": 0,
+        "address": "충청북도 청주시 청원구 우암동 5-10",
+        "roadAddress": "충청북도 청주시 청원구 수암로66번길 48-1",
+        "abbrAddress": "우암동 5-10",
+        "shortAddress": [
+          "충북 청주시 청원구",
+          "수암로66번길 48-1"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "충청북도 청주시 청원구 우암동 5-10",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221212",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 3,
+        "id": "17331894",
+        "name": "커피컴",
+        "x": "127.4953566",
+        "y": "36.6507482",
+        "distance": 0.256,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221212"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 0,
+        "address": "충청북도 청주시 청원구 내덕2동 36",
+        "roadAddress": "충청북도 청주시 청원구 대성로 298",
+        "abbrAddress": "내덕2동 36",
+        "shortAddress": [
+          "충북 청주시 청원구",
+          "대성로 298"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "충청북도 청주시 청원구 내덕2동 36",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221212",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

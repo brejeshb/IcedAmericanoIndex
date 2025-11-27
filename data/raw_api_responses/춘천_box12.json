@@ -1,0 +1,196 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 2,
+      "count": 2,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 127.71838585382834,
+          "minY": 37.88580450450451,
+          "maxX": 127.72409292691417,
+          "maxY": 37.890309009009016
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "127.72123939037125;37.88805675675677",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1929354462",
+        "name": "아사도",
+        "x": "127.7185567",
+        "y": "37.8894168",
+        "distance": 0.28,
+        "categoryName": "닭갈비",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220771",
+            "221575"
+          ]
+        ],
+        "category": [
+          "한식",
+          "닭갈비"
+        ],
+        "reviewCount": 609,
+        "averagePrice": 20000,
+        "address": "강원특별자치도 춘천시 근화동 788-8 2층",
+        "roadAddress": "강원특별자치도 춘천시 영서로 2600",
+        "abbrAddress": "근화동 788-8 2층",
+        "shortAddress": [
+          "강원 춘천시",
+          "영서로 2600"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [
+          "아이도 좋아하는 소금구이의 담백함"
+        ],
+        "cardDescription": "아이도 좋아하는 소금구이의 담백함",
+        "description": "안녕하세요 ! 강원도 춘천 근화동에 위치한 숯불 닭갈비 맛집 ASADO(아사도) 입니다!  저희 ASADO(아사도)는 아르헨티나 등 남아메리카 남부 지역의 전통 바비큐로 참나무 숯을 이용하고, 풍미 있는",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDNfMjkw/MDAxNzU5NDYyNzc1OTE4.p_skWce62pWfohV9xPIm5fvn3XjJEzwu_6yAc2DaJlYg.WTFF9E0-DhbJbrVYk3WfMIw-YSKDQ_vW-G8fXwuXFx4g.JPEG/20251003_115735.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjFfMTQ2/MDAxNzU4NDQ5MTU2MTA0.VGO-z_4VICEPsX6_JHv5y3MIC2ncCtmDzaK1G4knB1Ug.N-ieWGleY7Q3fHa5YmSRvc_fUwXSLSWkprsziMWxOf8g.JPEG/20250921_185737.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20230707_257/16887153320893jcJr_JPEG/KakaoTalk_20230707_101541130_05.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTAzMzBfNzAg/MDAxNzQzMzE3MDgwODUw.fMfPVqf-DJyipnLNMm9Of_QeK6Nau_5ySy-2y4TiP_8g.fQwn8V5KwjuXeKyYziodgVtzwLI7ZOCDDqNS5KaVQ-Ag.JPEG/391405B3-7C5F-49CA-8535-1845426033B1.jpeg",
+          "https://ldb-phinf.pstatic.net/20230707_203/1688715334208hBWxb_JPEG/KakaoTalk_20230707_101541130_10.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTJfMTgw/MDAxNzU3NjUzMTQ0NTc5.IYpfWmKGI3bF-4TbOQknuDXmuHHwh-6ZbHR2cojIrQMg.sjzph2BPXnRRYE03gYPACVwD7mOnnm7eOcL_qArxQLAg.JPEG/1000031568.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20230707_92/1688715334138SlD6q_JPEG/KakaoTalk_20230707_101541130_09.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTFfNzYg/MDAxNzYwMTU1MzYyMjc5.xfEc2zZRjTCf_zg28xEyqKQknb2cITJA4kcpBhY1Dd0g.deD_EYl2mGHfnJE92CjH_VCQWb0HtPoNQsRHljOE11Eg.JPEG/20251011_124049.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjZfODMg/MDAxNzU4ODUzNTU2Mzc4.pHXBzii_F6uakY2fjSH5bVqx1KpcuxRZu98UaRdFBB8g.Aw6uhpFSjflU_ZJDjDM-UstPDH2TayM8Ox5nzsYRxcYg.JPEG/IMG_1118.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTJfMTk3/MDAxNzU3NjQ5MzAwNjQ4.nPQKhtA5mfxEMtAs1l-Siw4qQe2E9bqD8H4DM6ZRqBEg.OKKl8Pe2lMU6JnZHTkBbjZcHYYs0dLed8sfwxxVpO7Yg.JPEG/B3CC81F7-758D-4B54-A3DE-2189218018D4.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221575",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "1929354462",
+            "bodySummary": "주소 강원도 춘천시 영서로 2600 2층 영업시간 매달 1,3번째 수요일 정기휴무 10:00 ~ 21:00 주차 1층 주차장 이요(협소) 주변 골목 주차 가능 제가 춘천을 가는 이",
+            "url": "https://m.blog.naver.com/j_honey1026/223376549598",
+            "nick": "Jhoney",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMjRfMTA2/MDAxNzA2MDIzMzQzNzM3.pbHMAMxR_OnpmlLUsKYRDTOdaUWI2sPKH5is3C2W2_cg.vy-e4TazYcRqarsx7CwYLvZuQlUtGfRXoFd0oeOuDb4g.JPEG.zepice0321/profileImage.jpg"
+          },
+          {
+            "sid": "1929354462",
+            "bodySummary": "춘천의 맛집 장작숯불닭갈비 아사도는 아르헨티나 원주민의 요리방법으로 정말 맛있어요 소금, 양념, 간장 3가지 맛의 숯불닭갈비 깨끗하고 넓은 실내 깔끔하고 고급스러운 분위기 막국수,",
+            "url": "https://m.blog.naver.com/many02/223350758730",
+            "nick": "아라리가족성상담소",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA4MTRfMTU3/MDAxNjYwNDQ2NzQ0MDkw.gzzRBbg-_fEnRQ6e8qR4df87h1AQI4_nYJCqw7KKvpEg.ugQc0jyGq0PHQKJwMWafa_fcWCBZNLdVc4vxj3yvBdQg.JPEG.many02/KakaoTalk_20220814_120354081.jpg/KakaoTalk_20220814_120354081.jpg"
+          },
+          {
+            "sid": "1929354462",
+            "bodySummary": "춘천대교가 보이는 숯불닭갈비 맛집 직접만든 재료들로만 요리하는 장작에 굽워주는 숯불닭갈비 아사도 진짜 너무너무 맛있게 먹어서 심혈을 기울여서 리뷰할 예정인 춘천역 맛집 아사도 ! ",
+            "url": "https://m.blog.naver.com/bkr0908/223331493254",
+            "nick": "변로즈",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAzMjJfMTA0/MDAxNjc5NDY3OTA5MDQ1.J3OeRPS7uN5qz_HFBviysP_sH6kx7PS8-2XJ-Im3bvkg.zpU3nEkTFW_2yy2drM1vpQoyA7YT-rczZh5Eu7CcJIAg.JPEG.bkr0908/profileImage.jpg"
+          },
+          {
+            "sid": "1929354462",
+            "bodySummary": "춘천역을 방문하거나 특히 레고랜드를 즐기고 돌아올 때 춘천의 명물 닭갈비를 깔끔하게 즐기시고 싶으신 분들께 아사도 장작 숯불 닭갈비 추천드려요! 초벌하여 먹기 좋은 숯불닭갈비 아사",
+            "url": "https://m.blog.naver.com/like_bins/223306108459",
+            "nick": "라이크빈스",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA3MDhfMTgg/MDAxNjg4NzkwNjMxMDIw.h5KMH3Z7dkMmztz9JCy1KQmlt9GUFYmgEAei0ulvMecg.TnvxdSBwukauINpZBZViAdQKPH6HD7Ajfg-g9uFmiUMg.JPEG.like_gabe/profileImage.jpg"
+          },
+          {
+            "sid": "1929354462",
+            "bodySummary": "문의하고 방문) 아사도 강원 춘천시 영서로 2600 2층 10:00~21:00 (라스트오더 20:00) 매월 1, 3번째 수요일 휴무 주차 가능, 엘리베이터 없음 아기의자, 아기식",
+            "url": "https://m.blog.naver.com/soramjae/223225691424",
+            "nick": "쇼엘",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMDlfMjk4/MDAxNzA5OTc0NjIxNjE2.1GoegjVIBIA1zcLL7kl3fLXaanZuNIZXh3bgbWvJOMgg.93H6wrhoS04Mpd_OFeKPoinTpEYGXaU8UxIMBcEorgEg.PNG/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "id": "1558318667",
+        "name": "맛깔손만두앤김밥",
+        "x": "127.7238023",
+        "y": "37.8890917",
+        "distance": 0.253,
+        "categoryName": "종합분식",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220185"
+          ]
+        ],
+        "category": [
+          "분식",
+          "종합분식"
+        ],
+        "reviewCount": 5,
+        "averagePrice": 6000,
+        "address": "강원특별자치도 춘천시 소양로2가 177-28",
+        "roadAddress": "강원특별자치도 춘천시 소양로163번길 26",
+        "abbrAddress": "소양로2가 177-28",
+        "shortAddress": [
+          "강원 춘천시",
+          "소양로163번길 26"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "강원특별자치도 춘천시 소양로2가 177-28",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220185",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

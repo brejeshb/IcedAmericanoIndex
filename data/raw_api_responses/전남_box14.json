@@ -1,0 +1,89 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 1,
+      "count": 1,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.7157,
+          "minY": 34.99620450450451,
+          "maxX": 126.721198426966,
+          "maxY": 35.000709009009014
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.718449213483;34.99845675675677",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "17155582",
+        "name": "석산오리",
+        "x": "126.7197141",
+        "y": "34.9973999",
+        "distance": 0.165,
+        "categoryName": "오리요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220769",
+            "221553"
+          ]
+        ],
+        "category": [
+          "한식",
+          "오리요리"
+        ],
+        "reviewCount": 33,
+        "averagePrice": 62000,
+        "address": "전라남도 나주시 용산동 319",
+        "roadAddress": "전라남도 나주시 석산길 19",
+        "abbrAddress": "용산동 319",
+        "shortAddress": [
+          "전남 나주시",
+          "석산길 19"
+        ],
+        "displayContext": [],
+        "labelTheme": "고급 정찬",
+        "microReviews": [],
+        "cardDescription": "전라남도 나주시 용산동 319",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221553",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

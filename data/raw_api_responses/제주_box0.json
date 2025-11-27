@@ -1,0 +1,525 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 7,
+      "count": 7,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.5203964017832,
+          "minY": 33.490590990990995,
+          "maxX": 126.5257982008916,
+          "maxY": 33.4950954954955
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.5230973013374;33.49284324324324",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1743996595",
+        "name": "코너웍 도남 본점",
+        "x": "126.5233546",
+        "y": "33.4940339",
+        "distance": 0.135,
+        "categoryName": "베이커리",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220564",
+            "221161"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "베이커리"
+        ],
+        "reviewCount": 625,
+        "averagePrice": 5000,
+        "address": "제주특별자치도 제주시 도남동 49-2 1층",
+        "roadAddress": "제주특별자치도 제주시 신성로4길 27",
+        "abbrAddress": "도남동 49-2 1층",
+        "shortAddress": [
+          "제주 제주시",
+          "신성로4길 27"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [
+          "다양한 맛으로 즐기는 소금빵 천국"
+        ],
+        "cardDescription": "다양한 맛으로 즐기는 소금빵 천국",
+        "description": "제주 소금빵의 기준, 코너웍입니다. Since 2022. 제주 최초 소금빵 전문 브랜드  혹시 소금빵을 드시고 짜다거나, 느끼하다고 느끼신 적 있나요? 아마 '진.짜. 소.금.빵'을 못 드셔 보셔서 그럴 수 있",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDNfMTI4/MDAxNzU0MjA5ODUxNzYx.hDq13oljosNOcnbb66bCUGbgdszIM0VDXinekicYmYsg.JfyDAJ313cRmcl_UTMBbEpsmBDeaqmmiLB2_aPou44og.JPEG/CD7A287C-2A9D-4186-AFEC-415BFE53D967.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDlfMTg3/MDAxNzU5OTg5ODA0MzUy.uiSA0qXKHiFqS69PxiAJbAvj1gHmFnigji5LOmbED8Yg.Wa15hnLwDmXhKn89b_8aVLUu3c5q3_pnfzSvlxEuvAEg.JPEG/8ABFFD23-1B6F-48EF-B989-78ED4ECDD702.jpeg",
+          "https://ldb-phinf.pstatic.net/20240806_1/1722917915118bss0E_JPEG/IMG_2859.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTlfMjIw/MDAxNzUyOTE0MDkxNDY2.Fo76tImPCwM_CriCUQPdvfrat7izNV7N-K9ULuKO5iMg.dY4mQfLlj9pky3DpinNp332GykYuAkMQZZH3zNxqq4wg.JPEG/969A8684-3A45-4D84-A78C-9EFF5920BF76.jpeg",
+          "https://naverbooking-phinf.pstatic.net/20240730_230/1722297406082257ic_JPEG/IMG_2905.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTBfMjU0/MDAxNzU3NDg2NDYxODY2.OzE5mh_crRdplTVK-9tS-aWlce_T_zVsid-j-4DFMlEg.oXaJVC1VB_jI4PRHwF0O0e5Q7HWyJlo8JUAA713t57wg.JPEG/6C4BEBC6-9C0D-4AC8-A998-52EBFE587E41.jpeg",
+          "https://naverbooking-phinf.pstatic.net/20240730_227/1722297405415rqjOw_JPEG/20240321%A3%DF154216.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjhfMTc1/MDAxNzU2MzU1MTc0NDIx.YJVMdwWd2E6fAMw6kacqtY-hEL0mxlcX-3XT5STS2H4g.HYbZNdj5POEz4HtL6NMKIvHA457TNeE0_9xDb9ErD1gg.JPEG/0FE04439-12EF-4F96-8F04-30E33F35F12C.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjhfMjMx/MDAxNzU5MDMxODI5Njkx.qwarHQlNGRQvNqpU_IHlGCqhgfL4uNdvFpX0nD3g9SMg.wOHagvIHnJER76WwsIia4G7XoUOPXwVH8zDI8TEfkZsg.JPEG/20250928_125459.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTlfMTY2/MDAxNzYwODU4NzcxNTA5.dE9BUtF_-ZyAERxrezeWsWJIratBk9aw8dqxvZXfDgog.IteprDobuyXhVqL_Rn12KOVzK_RPlFO-4PpRQfd895sg.JPEG/3FCB2C9D-DA86-439B-A5BE-E21ECCBB65E3.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221161",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "1743996595",
+            "bodySummary": "테이크아웃 전문 매장이라 안에서 먹는 테이블은 없음. 딱 소금빵 진열대만 있어요 제주 지니 선정 소금빵 맛집 여기 몰랐는데 유명하더라구요!? 벌써 외도에 2호점이 생겼답니당 단체주",
+            "url": "https://m.blog.naver.com/shhhh12/223396919552",
+            "nick": "소햐",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMTVfMjk3/MDAxNzAwMDEzMzY0ODgx.e_oS038LW5a04UUAyuGR_EJQqCy5bIxq1aAqVuBU_bkg._Yemb-HvE_EXT2rwCk_ZeoKIZdSPNCBSWHO5__yeUikg.JPEG.shhhh12/profileImage.jpg"
+          },
+          {
+            "sid": "1743996595",
+            "bodySummary": "여기는 도남동에 코너웍입니당 여기는 소금빵으로 알만한 사람들은 다 안다는 그집 매장이 작고 귀엽습니당 외부만큼이나 내부도 아주 귀염뽀짝합니다요 사장님이 아기자기한걸 좋아하시나봐요 ",
+            "url": "https://m.blog.naver.com/dkfhd0701/223389694074",
+            "nick": "아롱님",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDA1MTlfMTA4/MDAxNTg5ODcyMDc2NDUy.D9P87R2PhkmK_pyXsfINnA-2CX1sDXoJF0oG1FSj378g.ynRsflv5X4FxG_TaLNQFb6J99YZAn0xhehUTHVEbCUsg.JPEG.dkfhd0701/profileImage.jpg"
+          },
+          {
+            "sid": "1743996595",
+            "bodySummary": "코너웍 도남점 제주 제주시 신성로4길 27 1층 영업시간 월 정기휴무 (매주 월요일) 화 11:00 - 19:00 수 11:00 - 19:00 목 11:00 - 19:00 금 11",
+            "url": "https://m.blog.naver.com/skykazya/223386789742",
+            "nick": "김필자",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA1MjFfMjE2/MDAxNjg0NjcyMTE3NzYz.tzl19-DpUspX5Zf_0fahHodq88wvjHuAfaZ74OMFwMMg.1VEvkJAlh2JHMncduM6foRHagB3Ow_YcJyIgs8DozFgg.JPEG.skykazya/%25EC%2595%2584%25EA%25B0%2580.jpg/%25EC%2595%2584%25EA%25B0%2580.jpg"
+          },
+          {
+            "sid": "1743996595",
+            "bodySummary": "제주소금빵맛집 #제주시소금빵추천 #도남동소금빵 화요일! 어김없이 출근이다ㅎㅎ 이 곳은 내가 예에에전부터 가 보고 싶었던 소금빵집이다. 전 근무지 인근에 있던 곳이었는데 갈 기회가 ",
+            "url": "https://m.blog.naver.com/thdtnwls135/223364697789",
+            "nick": "수진",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAyMTJfODcg/MDAxNzA3Njk5NjYzMjA4.Ii9dieFaoQQ7bZY2JoEHGSnbdCTkVDk33VV31KLOfowg.nPdvMX7uOVy1QiPrwHgueqlylOIY-MlLKC0dp7G5hzYg.JPEG.thdtnwls135/profileImage.jpg"
+          },
+          {
+            "sid": "1743996595",
+            "bodySummary": "제주빵집 #제주소금빵 #제주시가볼곳 #제주공항맛집 #제주공항빵집 #제주현지맛집 #제주소금빵맛집 [코너윅] 주소: 제주 제주시 신성로 4길 운영시간: 오전 11시- 오후 7시 휴무:",
+            "url": "https://m.blog.naver.com/bibibi1031/223357631373",
+            "nick": "냠냠이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDAxMjRfMjkw/MDAxNTc5ODQ3OTE4NTI2.rfylBqMmNFGoFnedlTmBBa0RBG0365arUIyOcVPHBbkg.SnmGnkRvdgpy0MIY9eVD73vKh_cpNoY2MtsIjNgWE6Ug.JPEG.bibibi1031/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "id": "1162563603",
+        "name": "나우커피 제주도남점",
+        "x": "126.5243462",
+        "y": "33.4947102",
+        "distance": 0.238,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 17,
+        "averagePrice": 2000,
+        "address": "제주특별자치도 제주시 도남동 811 상가 6호",
+        "roadAddress": "제주특별자치도 제주시 도남서길 14",
+        "abbrAddress": "도남동 811 상가 6호",
+        "shortAddress": [
+          "제주 제주시",
+          "도남서길 14"
+        ],
+        "displayContext": [],
+        "labelTheme": "24시간 영업",
+        "microReviews": [],
+        "cardDescription": "24시 무인카페이므로 비대면으로 커피 & 음료를 주문 가능하며 스타벅스 & UCC 프리미엄 원두를 합리적인 가격으로 만나실 수 있습니다.",
+        "description": "24시 무인카페이므로 비대면으로 커피 & 음료를 주문 가능하며 스타벅스 & UCC 프리미엄 원두를 합리적인 가격으로 만나실 수 있습니다.",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20201030_201/1604026559835imTjP_JPEG/xSB96bNW_wymnWc980xo-2FB.jpg",
+          "https://ldb-phinf.pstatic.net/20201030_11/1604026559873SJdbB_JPEG/Zj3iMogNy6jRxqHKt-kTnO_T.jpg",
+          "https://ldb-phinf.pstatic.net/20201030_240/1604026559874v12iL_JPEG/1YYtAH69OthhIBCKp9-ZOk7E.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 3,
+        "id": "1035400462",
+        "name": "오늘쉐프 제주도남점",
+        "x": "126.5248757",
+        "y": "33.4928042",
+        "distance": 0.165,
+        "categoryName": "밀키트",
+        "categoryPath": [
+          [
+            "220036",
+            "1004976",
+            "1005328"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "밀키트"
+        ],
+        "reviewCount": 18,
+        "averagePrice": 0,
+        "address": "제주특별자치도 제주시 도남동 60",
+        "roadAddress": "제주특별자치도 제주시 신성로6길 31",
+        "abbrAddress": "도남동 60",
+        "shortAddress": [
+          "제주 제주시",
+          "신성로6길 31"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "제주특별자치도 제주시 도남동 60",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1005328",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 4,
+        "id": "1415013033",
+        "name": "아워홈 제주지방합동청사점",
+        "x": "126.5254159",
+        "y": "33.4912524",
+        "distance": 0.279,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 250,
+        "averagePrice": 0,
+        "address": "제주특별자치도 제주시 도남동 662",
+        "roadAddress": "제주특별자치도 제주시 청사로 59",
+        "abbrAddress": "도남동 662",
+        "shortAddress": [
+          "제주 제주시",
+          "청사로 59"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "제주특별자치도 제주시 도남동 662",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 5,
+        "id": "1541285601",
+        "name": "정부제주지방합동청사 까페테리아",
+        "x": "126.5254367",
+        "y": "33.4913514",
+        "distance": 0.273,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 1,
+        "averagePrice": 0,
+        "address": "제주특별자치도 제주시 도남동 662 바당동1층",
+        "roadAddress": "제주특별자치도 제주시 청사로 59",
+        "abbrAddress": "도남동 662 바당동1층",
+        "shortAddress": [
+          "제주 제주시",
+          "청사로 59"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "제주특별자치도 제주시 도남동 662 바당동1층",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20240228_183/1709097642172084n5_JPEG/1000012215.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 6,
+        "id": "1081534938",
+        "name": "짐박스",
+        "x": "126.5239522",
+        "y": "33.4927871",
+        "distance": 0.08,
+        "categoryName": "다이어트,샐러드",
+        "categoryPath": [
+          [
+            "220036",
+            "220047",
+            "220170",
+            "230734"
+          ]
+        ],
+        "category": [
+          "도시락,컵밥",
+          "다이어트,샐러드"
+        ],
+        "reviewCount": 313,
+        "averagePrice": 10000,
+        "address": "제주특별자치도 제주시 도남동 832-4 1층",
+        "roadAddress": "제주특별자치도 제주시 도남서길 13",
+        "abbrAddress": "도남동 832-4 1층",
+        "shortAddress": [
+          "제주 제주시",
+          "도남서길 13"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [
+          "다양한 메뉴로 매일 새롭게 즐기는 맛"
+        ],
+        "cardDescription": "다양한 메뉴로 매일 새롭게 즐기는 맛",
+        "description": "저희 '짐박스' 는 당일손질, 당일판매를 원칙으로합니다  48시간 숙성,염지를 거친 육류를 수비드 공법을 이용하여 부드럽고 맛있는 식사을 제공합니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTNfNjgg/MDAxNzYwMzI1NzYzNjY4.agkYM81vne71-GNP5WKdenhCSi6fFCug_xkJCvhNBdgg.P1QGqIKxHurY_iLM79CVQy9cF1OTJg0gw3u4fngs5CUg.JPEG/07458942-6D9C-4193-B3FE-70EE237099D8.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDVfMTQg/MDAxNzQ5MTA5ODM1Mjk0.ByX4IEn2PNvKEWF75dDnxPG8Q41-k9FmXSvMc3NAAl0g.AiOsV83RgI7DBmTuaQm6V71JJfSytzAfOrRwCsB1mWgg.JPEG/1CF59E13-0EBD-44F2-8121-E38A7DF1128D.jpeg",
+          "https://ldb-phinf.pstatic.net/20221216_297/16711656310759BOmS_JPEG/KakaoTalk_20221216_133954859_04.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTNfMjQ3/MDAxNzU1MDU0NTgyMzY4.ljfES2ldeY4qNzfYly0j_0Gq1O9sY7-5Y8dxQRlILL0g.5c5Giw-sWeIUw00qqZX9wpNEXyMsXPbZmjcpEgcmN38g.JPEG/8D06CB03-785A-4B50-942E-E39CD043B8C0.jpeg",
+          "https://ldb-phinf.pstatic.net/20221216_106/1671163895396FdtRn_JPEG/%BC%BE%C5%CD%BB%E7%C1%F8.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTAzMjJfNyAg/MDAxNzQyNjE1MDI5MzM1.wq_opFG1FDo4DbLAPtDw0Pk_34Ol6r45FZf7uq-2L0Mg.eMGo4zAxLnV26fxJKJmnDXnRJzih4AcPVxlUSsedP68g.JPEG/1000018515.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20221216_213/1671163853448aMr4j_JPEG/%C1%FC%B9%DA%BD%BA6.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTNfNTAg/MDAxNzYwMzI2OTk3ODQy.5Ih416DRHBZMUHirWe7ehmED2NpcT0PmbGFIqnExrXAg.-kdlUlkG2Q2PZtNtB4omxXfgy7W6-NKw1kmYt0-gZT0g.JPEG/20251013_123725.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDdfNjIg/MDAxNzU0NTM1MjkzNTQ5.fzyAD3Nj5jjK6ZyNRz9mC0eduo7nz5DHvazgHomS16cg.SaGcAiJ9lNmB2463j71-cdXdGtd5x1ToXxOToje42GYg.JPEG/20250807_114249.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDZfMTUg/MDAxNzU3MTMwOTY4NTgx.totXBhqzfCRCP7eGAz0pX4VwP3oR1sd4kA051RUSuYwg.E_Q9kR6r3PgYmiXlcaqb7lQduuwbSvBpsANA0zF7pKIg.JPEG/20250906_125547.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "230734",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "1081534938",
+            "bodySummary": "차량으로 방문하는 사람들의 1순위 궁금증은 역시 주차공간. 짐박스는 헬스장 아래에 있는데 주차공간이 작게나마 있어서 테이크아웃 하기에도 썩 나쁘지 않은 곳이다. 처음에는 식단 하시",
+            "url": "https://m.blog.naver.com/fromdk87/223396373686",
+            "nick": "fromDK",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20150121_65/fromdk87_1421845307758Xn0kq_JPEG/2014.11.14-crop.jpg"
+          },
+          {
+            "sid": "1081534938",
+            "bodySummary": "오늘은 제주시 도남동에 위치한 제주 샐러드 맛집 ' 짐박스 ' 에 다녀왔어요~ 제주 다이어트 도시락 ' 짐박스 ' 는 1층은 짐박스 2층은 라이프타임 피트니스로 헬스장을 이용하시는",
+            "url": "https://m.blog.naver.com/hyepick/223394400383",
+            "nick": "혜픽 HYEPICK",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA1MjdfMjQ3/MDAxNjUzNjMzNTc3MjY3.05d62XTOhEkXQ1p2l5Rcpx4HYDYeIrSAPB-iWkJFqRwg.hzqD7JyMFUHT1v7Bzcqqq3uowbwHIdOc3ppzPuW4i1Eg.JPEG.hyepick/HYEPICK_LOGO5.jpg/HYEPICK%2BLOGO5.jpg"
+          },
+          {
+            "sid": "1081534938",
+            "bodySummary": "짐박스 제주 제주시 도남서길 13 영업시간 수 11:00 - 21:00 15:00 - 17:00 브레이크타임 20:30 라스트오더 목 11:00 - 21:00 15:00 - 17:",
+            "url": "https://m.blog.naver.com/skykazya/223258930354",
+            "nick": "김필자",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA1MjFfMjE2/MDAxNjg0NjcyMTE3NzYz.tzl19-DpUspX5Zf_0fahHodq88wvjHuAfaZ74OMFwMMg.1VEvkJAlh2JHMncduM6foRHagB3Ow_YcJyIgs8DozFgg.JPEG.skykazya/%25EC%2595%2584%25EA%25B0%2580.jpg/%25EC%2595%2584%25EA%25B0%2580.jpg"
+          },
+          {
+            "sid": "1081534938",
+            "bodySummary": "제주샐러드맛집 '짐박스'는 도남동에 위치한 해모로 아파트 바로 옆에 위치해있고,2층은 피트니스센터,1층에 위치해있었어요. 2층에서 운동을하고 1층에서 바로 식단을 챙길 수 있는 구",
+            "url": "https://m.blog.naver.com/313130/223256938495",
+            "nick": "짱지로드",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMDhfMzgg/MDAxNzAyMDE5NTg0NjQ3.at8_GnYq6JMqFdlQ3ZbTY_0P9zBJIWR54kcByj97DI8g.3HGVD6pYJqt673om2cPpMmmfVhuDMCOiZSCc3KYwuJkg.JPEG.313130/profileImage.jpg"
+          },
+          {
+            "sid": "1081534938",
+            "bodySummary": "실내에서 먹을 수 있게 테이블도 비치해두고 있어 우리는 먹고 가기로~ 주문하고 기다리는 동안 계속되는 배달의 민족 주문~ 벨 소리에 인기 많은듯한 제주샐러드맛집 짐박스 반 오픈 키",
+            "url": "https://m.blog.naver.com/jadore_yoon/223251940061",
+            "nick": "안나",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAyMjBfMjQx/MDAxNzA4MzY5NTU4Nzky.KNaQR0n95xCy8V_DqLkxoZG1sW4Sab07uqEuxtUVnxQg.tlU0OocPEg5b7yilE4lCT7-_9CeqXMj4aevVs4JHzZ8g.JPEG/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "id": "1584315965",
+        "name": "gs25치킨",
+        "x": "126.5238571",
+        "y": "33.4932272",
+        "distance": 0.082,
+        "categoryName": "치킨,닭강정",
+        "categoryPath": [
+          [
+            "220036",
+            "220049",
+            "220245"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "치킨,닭강정"
+        ],
+        "reviewCount": 1,
+        "averagePrice": 0,
+        "address": "제주특별자치도 제주시 도남동 811 리치힐 단지내상가 1층 4호,5호",
+        "roadAddress": "제주특별자치도 제주시 도남서길 14",
+        "abbrAddress": "도남동 811 리치힐 단지내상가 1층 4호,5호",
+        "shortAddress": [
+          "제주 제주시",
+          "도남서길 14"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "제주특별자치도 제주시 도남동 811 리치힐 단지내상가 1층 4호,5호",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220245",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

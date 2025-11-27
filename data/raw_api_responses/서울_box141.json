@@ -1,0 +1,424 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 4,
+      "count": 4,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.96777083648634,
+          "minY": 37.5637972972973,
+          "maxX": 126.96890741021008,
+          "maxY": 37.5646981981982
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.96833912334822;37.56424774774775",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "18112848",
+        "name": "평창우선생",
+        "x": "126.9686138",
+        "y": "37.5642754",
+        "distance": 0.024,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 1724,
+        "averagePrice": 10000,
+        "address": "서울특별시 중구 의주로1가 32-2 바비엥1",
+        "roadAddress": "서울특별시 중구 통일로 102",
+        "abbrAddress": "의주로1가 32-2 바비엥1",
+        "shortAddress": [
+          "서울 중구",
+          "통일로 102"
+        ],
+        "displayContext": [
+          "한우",
+          "육회"
+        ],
+        "labelTheme": "한식",
+        "microReviews": [
+          "육회비빔밥으로 든든한 한끼"
+        ],
+        "cardDescription": "육회비빔밥으로 든든한 한끼",
+        "description": "육즙이 살아있는 한우 고기 전문점, 평창우선생",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjdfNjAg/MDAxNzU2MjgyOTI3ODk0.xZdPDALfqFNj4Y61L2sXg6x86Kg7-UL9QOTkhP2NQH8g.bP5S7tY8XYxgs0xtfFByHj7fHpaK8hiSgSWvjWXDvdMg.JPEG/IMG_4382.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDdfMjM3/MDAxNzQ2NjIxMDM2Mjg4.gOpbejTZywpYJmD629tskL9aoUaNQGhL-cX112ESzZsg.1BK2e1LDg_8-nyK49h0ujQs1Lr7N1zRiNBvI6Iy_mEgg.JPEG/20250507_191507.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250522_280/17479167044010j7LV_JPEG/IMG_8759.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDNfMTk0/MDAxNzQ2MjcyNDYwNDQ2.A3Di0IE5URYlXAPLIENzG9kLxdfjmhuUubMvPqwbChUg.fu2QlOx1auuveuJj_aCmWK49B0UPKOxfGZguqfpjeX8g.JPEG/20250503_185726.jpg",
+          "https://ldb-phinf.pstatic.net/20250523_158/1747973441419JPRfW_JPEG/IMG_8769.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjdfNTcg/MDAxNzU4OTgzODgzMzU5.fzHrP3OuqB3urhJTcxfpBbfvyrAyWoTKIzodHa2TlB4g.UVOR92vEhYozYpXjXrLMWWSnTV39oq2PJZ58eF1g0Gog.JPEG/20250927_200511.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250522_107/1747916705136B8V5S_JPEG/IMG_8760.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDVfMTMw/MDAxNzQ5MTI0ODg1NDgx.pg7NSPltQs77-uJZ_4TBi2NxFOcpApe4VD815VCeoEIg.MblG6SP4uSDoM5ckwBq-Qoxi62b6NUKY4Jz5NxfrPhMg.JPEG/5C78CA24-37E6-476B-8A3F-7F98893FFE5B.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDlfMTUx/MDAxNzYwMDA0NDg5NDI5.zAGHbEzhHAh8olKTCPhI2owz4jBc0jjFFj8ThaxKZHgg.BovaK9PdTROH9CRkfGzn8FzsjZOy4nfMHVG9gxA5bGog.JPEG/4614FCF1-0EA7-4182-9B61-3808CAD788E7.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTlfMTAy/MDAxNzUyOTIxNDc0NzE1.696aFgnzHbR2LV-lOqtCQTcucvR8YxmVLu-W9JlHJb8g.8_4kU9Q5_ycbapSYXWqA0Px3ncsGw-olv3JaHekF1-Ig.JPEG/A166A8D7-7074-47C0-B457-C6EA42988EBF.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.45",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "18112848",
+            "bodySummary": "오늘은 시청 점심 맛집 평창 우선생을 소개하려고 합니다 :) 평창우선생 일~ 토 10:30 ~ 22:00 (평일 브레이크타임 15:00 ~ 17:00) 바비엥 건물에 주차하시고 식",
+            "url": "https://m.blog.naver.com/bboknara/223313250130",
+            "nick": "복복이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMjNfMzUg/MDAxNzAwNjY2MDM2ODQ3.tTUb9UDoU-jUm-Z5QOI41v60rFvGt3vTsDnfDUKmkz0g.5CppvJWXEx8vdjxAW4VBl2sMjanTkJTX5N7sSTXqsz8g.PNG.bokbokjin/profileImage.png"
+          },
+          {
+            "sid": "18112848",
+            "bodySummary": "오늘은 자작자작하게 소불고기가 당겨 서대문 평창우선생을 방문했다. 평창 우선생 서대문 매일 10:30-22:00 *평일 브레이크타임 15-17시 0507-1315-8819 단체석 ",
+            "url": "https://m.blog.naver.com/myulily/223312248352",
+            "nick": "뮤릴리",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAzMjFfMjkz/MDAxNjQ3ODQ2OTE1MjM1.j6Jov573gnQzFBPKXXiELstYwek5xM2yum7f-mQt2v8g.MBCKya3vjG1bOuKi2-LK0-jWGvedo6BICk0iMkVQLuIg.JPEG.brightgreen__/2.jpg/2.jpg"
+          },
+          {
+            "sid": "18112848",
+            "bodySummary": "시청역, 서대문역 주변에 있어서 직장인 분들께서 자주 방문하시더라구영 심지어 벽면에 연예인 싸인도 가득했는데, 특히 슈퍼주니어 김희철님 사진이 많아서 여쭤보니 사장님께서 e스포츠 ",
+            "url": "https://m.blog.naver.com/buzzyaa/223299898343",
+            "nick": "부쨔",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA5MjVfMjgw/MDAxNjk1NTk5NzY0NDc2.8dOBETygGykx_dtAUpipA7nVxgu4TR1EUmque4nTsXcg.41bCWrRjpuaD6blFC3PeFa2S1t36O4Y6rg17rJx0GI0g.JPEG.13___sj/common.jpeg/common.jpeg"
+          },
+          {
+            "sid": "18112848",
+            "bodySummary": "목요일 부부 Mythursday 오늘 포스팅은 서대문 , 시청역에 위치한 평창우선생 방문기록 사진 출처 목요일부부 Mythursday / 무단도용복제금지 평창우선생은 서울특별시 서",
+            "url": "https://m.blog.naver.com/mythursday2018/223270993575",
+            "nick": "목요일부부",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTA2MDFfMzUg/MDAxNTU5MzU2MjE4MzA3.7kSn8HbvqhTN9YjUI3fadM4zO2owSlApe6VPKNNhr1Eg.iG11Q2DAVKKMaa0qEV-aTNpwk69CYufT3Eh0NEpCL0Qg.JPEG.mandy831/KakaoTalk_20190601_112947463.jpg"
+          },
+          {
+            "sid": "18112848",
+            "bodySummary": "서대문역 매운 한우 불고기 점심 메뉴 추천 평창 우선생 서울 중구 통일로 102 바비엥1 영업시간 : 10:30 - 22:00 브레이크타임 : 15:00 - 17:00 일요일 휴무",
+            "url": "https://m.blog.naver.com/tonyjh1009/223224115187",
+            "nick": "러블리쏜",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20160101_122/tonyjh1009_1451588672954pA40R_PNG/%C8%DE%B4%EB%C6%F9+4875.png"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "id": "1731088557",
+        "name": "뚜레쥬르 카페서대문역점",
+        "x": "126.9683156",
+        "y": "37.5644287",
+        "distance": 0.02,
+        "categoryName": "베이커리",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220564",
+            "221172"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "베이커리"
+        ],
+        "reviewCount": 2402,
+        "averagePrice": 3000,
+        "address": "서울특별시 중구 의주로1가 32-2",
+        "roadAddress": "서울특별시 중구 통일로 102",
+        "abbrAddress": "의주로1가 32-2",
+        "shortAddress": [
+          "서울 중구",
+          "통일로 102"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "신선함이 가득한 베이커리 뚜레쥬르를 만나보세요.",
+        "description": "신선함이 가득한 베이커리 뚜레쥬르를 만나보세요.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MThfNzIg/MDAxNzU4MTUxNTQ4NDEy.tjW0O6ahRYYH1boDW3WYGQX7t_gKOTQ4sIpUgQzgKtAg.ZDaYRDjEZnzWIHy92SV1-SQ02I7Euy-rqZHoxStDM7Qg.JPEG/EF56D504-7EEA-4B26-933C-74376072B651.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MThfOTEg/MDAxNzQ0OTQ5NDg0MjM1.DwtueLlIhebEjx3guZ2mIvoSEt-r0jxzpOt2RcSc--kg.XzxUW5Khdj41talEAJGXgWZRZkIST0WMXhFDqkPuKr4g.JPEG/20250418_123541.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250813_266/17550484266608gyBG_JPEG/%B6%D1%B7%B9%C1%EA%B8%A3_%B7%CE%B0%ED_%B3%D7%C0%CC%B9%F6.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjdfMjAw/MDAxNzU2MjgwOTQ0NDQ0.tzGIiJ6gLwPX7egtiAx5w61AbDPBYZaDP-9PBqsF3OIg.ZMXkaQ8SMV5Ta3Z1fJmdKffXhUi5WvklkgbEpF-pJpIg.JPEG/20250827_164848.heic.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDJfMjMz/MDAxNzUxMzk2NjIzODky.ZG5dH3V8T5RmfRCwxM0I6akP2Zz2dn3JaH1SdsxWx-Ig.FyrWD7JcWz9wQtAMpmnVFeF0gayQ8mZ74NVDhwNnzFAg.JPEG/1000054303.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjJfNDQg/MDAxNzU4NTQ2MjA5Mzgz.bQk-KEUS7K1gjUY6ZbVTqc097FV1zCVapquXdp89DQ8g.7S-GvbS5AtMUWbBO8fGADwhjVZOu77c5ibKstOZcsmkg.JPEG/20250922_213810.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MThfNjMg/MDAxNzU4MTk2NzY1MTI3.xuQQUT1Q8sltkUlWHdsIAPHmZP9D5GzQZ5q8H7GhL4kg.nA0tqVqkjc20Nz-q7k_vJyZPGryv6GQRF2WjhqQwxIog.JPEG/4ECCD3F9-F788-4B46-AA34-4F28C2AA64F8.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTdfNDkg/MDAxNzUwMTU3Mzg3NDk2.d6BuHbAaFVD-n-jIQCgrXnnXwf3Ljimk17ufb-jGm4cg.NpIELosv8WaEp8_-hQd6yoSCTxhTrz4Ql4zu7eFqUTYg.JPEG/5752F5F4-0AA7-43F6-A927-7DD49FE7C70D.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDJfMTQw/MDAxNzU5Mzc4Mjg4ODU4.bxgRkTKoYpZUl1nqar1cGrs8QxHGjtOzrZOrEGkEpj8g.0kOypRUKJA8T9opRrWOIhEE4jCcGzAvCXb1KIV_rN1kg.JPEG/20240917_211259.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTRfMTQ4/MDAxNzYwNDMxODUxNjI5.iTkhhr2JeA9oxQWotyrWFfljjHwnYgjwZtZKB--q5dIg.Kgr0QCUvj1QZ98O3XvG2cNnQuLsv4ZUB6_M1VhIywgEg.JPEG/CC44CDD6-F5E0-41F3-B0CA-1B9AEB99E207.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221172",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.41",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "1731088557",
+            "bodySummary": "뚜레쥬르 카페 서대문역점 테이블도 여러개구, 생각보다 빵종류도 많고 넘 친절해서 앞으로 자주 가기루 뺑스랑 약속했다, 아 나두 저번에 딸기쥬스 먹을걸,, 낼 점심에 가봐야징 _(≥",
+            "url": "https://m.blog.naver.com/lieberud/223330511105",
+            "nick": "미치갱",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20150520_263/lieberud_1432112807826nNmQl_JPEG/profileImage.jpg"
+          },
+          {
+            "sid": "1731088557",
+            "bodySummary": "이제까지 과일 샐러드 중 최고 8,800원 뚜레쥬르 과일 뚜레쥬르 과일 샐러드 8,800원 나는 샤인 머스켓 파인애플 오렌지 구성 양도 충분하고 무엇보다 구성이 너무 좋다 #과일추",
+            "url": "https://m.blog.naver.com/rn1004-/223201872367",
+            "nick": "오지랖 간호사",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMjdfMjEy/MDAxNzAzNjczNDUwMDc1.gpevW-b6H8waIbLwmoDE2Cpbst8MszRkEuBOj0Esh0og.H166s7vaOUH1iOuT4i8K48Wy4yEfOMS-cUTx5R2WoeAg.PNG.isky4483/profileImage.png"
+          },
+          {
+            "sid": "1731088557",
+            "bodySummary": "근처 회사가 많아서 그런걸까 좋아하는 BELT 샌드위치 샀다 BELT 약자는 베이컨 에그 레터스 토마토의 약자 샌드위치를 사면 커피를 천원에 살 수 있다고!! 카드 발급 받아서 받",
+            "url": "https://m.blog.naver.com/carpe_diem____/223142827000",
+            "nick": "April",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAyMDFfMTg4/MDAxNjQzNzAyNDgzNTI2.-7aypLsZAwukb4MlhDygIiRfT8q-c__E2EsGmToRncgg.le3iD8qXCTJy1sdO-09tTDVsK6KsI_vGOD6zN8UciuYg.PNG.beautisky3/profileImage.png"
+          },
+          {
+            "sid": "1731088557",
+            "bodySummary": "별 개 2022년11월17일 목요일. 에이닷 가입후 SKT멤버쉽 적용하면 최대 8,000원 할인이고 11/14~18까지 1회 할인 가능. 그래서 오늘 점심은 뚜레쥬르 샌드위치로! ",
+            "url": "https://m.blog.naver.com/yenaworld0329/222931144557",
+            "nick": "예나",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAzMTZfMjg3/MDAxNjQ3NDM5OTExNDc0.BmXPGF6MSmwfQZckQ8L1pH_9StEGNu3m2KZ11a9K23wg.iV23X753YtAL_xbgwjb6Btqfm3MF1hfo1qfpg81sRt8g.PNG.yenaworld0329/profileImage.png"
+          },
+          {
+            "sid": "1731088557",
+            "bodySummary": "내부 깔끔하게 정돈된 내부. 그리고 뚜레쥬르도 요새 파리바게트처럼 내부에 앉아서 먹을 수 있도록 카페처럼 좌석이 배치되어 있으니 가볍게 이야기할 공간이 필요하거나 커피보다 가성비 ",
+            "url": "https://m.blog.naver.com/tira_uhp/222874438843",
+            "nick": "더현",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA0MTNfMjQg/MDAxNjgxMzg3MzI2MDI2.B12hliMIkRH4JT0ImagbC0MAO03Xx1FOY1cglTIrbxkg.65QPd_qHh-1qzyGsdQvNhD_9WPrYhnTdp0A40e0HAxMg.PNG.tira_uhp/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "id": "1051628222",
+        "name": "도누각 서대문역점",
+        "x": "126.9684198",
+        "y": "37.5644747",
+        "distance": 0.026,
+        "categoryName": "육류,고기요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220733"
+          ]
+        ],
+        "category": [
+          "한식",
+          "육류,고기요리"
+        ],
+        "reviewCount": 165,
+        "averagePrice": 40000,
+        "address": "서울특별시 중구 의주로1가 32-2 2층 도누각",
+        "roadAddress": "서울특별시 중구 통일로 102",
+        "abbrAddress": "의주로1가 32-2 2층 도누각",
+        "shortAddress": [
+          "서울 중구",
+          "통일로 102"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [
+          "한우 꽃등심으로 만나는 진한 육즙"
+        ],
+        "cardDescription": "한우 꽃등심으로 만나는 진한 육즙",
+        "description": "돼지(豚)와 소(牛)를 먹으며 즐길 수 있는 누각. 도누각입니다.  누각이라는 이름에 걸맞게 2층에 시야가 시원한 통창으로 되어있으며 테이블 간격을 멀게하여 식사하시는 모든 분들이 즐겁게  ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDRfMTMg/MDAxNzUxNjMwNzYwMTMx.EV5Oa6SbxgIOeG8mTZog3X-9S4h8fH9RwdYIanDo9Ykg.3uHINNLnsviz47Lob1w6ttHdMwaHJPnnJ_sTlyuG1d4g.JPEG/1000010607.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDZfNzUg/MDAxNzQ5MjEyOTI1MDE4.poBykHJCeNWDsI_61SMPxsB4Sj_IEdVbDI-IxfHIOfsg.bf8E2yidZ-vTspm30blrwe55zii6fOWjwUaEPgtP8SMg.JPEG/1001230669.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240426_244/1714125518927Q3Xd5_JPEG/IMG_4093.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjBfMjY4/MDAxNzYwOTMwNTg1OTU5.DS2eBVCIYTrxAjJPdDsRki9jfLLjpX_Ku2VYTabDCw4g.7BEhKEAQolRYdgeCHV9gbYpvbdzNxQsx5sgMUJfdjoAg.JPEG/558F0BB6-E105-41D7-9CFC-AAA3C510F78A.jpeg",
+          "https://ldb-phinf.pstatic.net/20240426_189/1714125521484p23zk_JPEG/IMG_4090.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDhfMTMx/MDAxNzU3MjkyMDU5MjQ4.WkkovClzLneAXxvXvPyqoTUDxD6yuOGVtUByKLaMMrsg.oAMTRDLa4AWphNDOxOkG_5K9g7QSBSzeHoNXbaXbzNYg.JPEG/1000117403.png.jpg",
+          "https://ldb-phinf.pstatic.net/20240513_109/1715584656211MNete_JPEG/IMG_4274.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTFfMjk0/MDAxNzU0ODgxNzc2MjI2.e4yI1Z9fWC-xxskhPSNLOpP4tWDO-MLERFEF0prTkDAg.lXRbFsDHkYnf-ZowGDgQfuMp0XBuhlz53H0RrrF12s8g.JPEG/20250811_120801.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220733",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 4,
+        "id": "1089076890",
+        "name": "서대문식당",
+        "x": "126.9688538",
+        "y": "37.5644615",
+        "distance": 0.051,
+        "categoryName": "돼지고기구이",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220765",
+            "221458"
+          ]
+        ],
+        "category": [
+          "한식",
+          "돼지고기구이"
+        ],
+        "reviewCount": 685,
+        "averagePrice": 10000,
+        "address": "서울특별시 중구 순화동 1-4 1층 서대문식당",
+        "roadAddress": "서울특별시 중구 통일로4길 22",
+        "abbrAddress": "순화동 1-4 1층 서대문식당",
+        "shortAddress": [
+          "서울 중구",
+          "통일로4길 22"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [
+          "입에서 살살 녹는 생삼겹살의 맛"
+        ],
+        "cardDescription": "입에서 살살 녹는 생삼겹살의 맛",
+        "description": "저온숙성 최상급 국내산 한돈 특상급암돼지 숮불구이를 갓김치(갓김치소모시 대파김치) 도토리묵무침과 함께 즐겨주세요 런치메뉴는 수제손만두전골과 김치돼지불백이 대표메뉴입니다 매일 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjZfMTkg/MDAxNzQ4MjQxNjQwMDk0.NnEgYgqlKACwpzQwcUb73SIwWKW_9X1Qqr9bNrQ_FZUg.iw8H9ylW9UIlnjPb54fIJxWC8VtJX0YyYNuieyUsvicg.JPEG/1748241303557.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjZfMTkz/MDAxNzQ4MjQxMzc2Nzc0.78qLEMIr9xeysh7cizcJu1BREUyvYUOc41ltlLdjRfMg.6LksCv_d1QS7_2qkhKz-BbC9MtPyrMibDiuMCyupUxYg.JPEG/1748240886170.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250519_289/17476315015616wNV4_JPEG/1000076021.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjZfMTUx/MDAxNzQ4MjQ4ODUxMDMx.v35IsQPs02cbbXHOlSSIEyX4IOLiY0WIp7yRw0524qgg.jHytkmilRZSkH4Nx6tGrShonIeGX1WGPqDpijLnxiJ8g.JPEG/1748248410660.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250519_177/1747631501023GNIB0_JPEG/1000076022.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjdfMjkw/MDAxNzQ4MzI5Nzk0ODkz.KM1pPxn35XlNavEkJS_JVlo4OTOvJd3gTCJMgBV71AEg.EpbbSBxlx2OYWIY1GgSMUlSas34xbLbptdLjJPMb6Ocg.JPEG/1748241590884.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250519_227/17476315024272U2mq_JPEG/1000073932.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjZfMjQ3/MDAxNzQ4MjQxMjQ3MTQz.ucmTSNPH82yAvxZWR-bwDNTuvyxAktUEJjriKOdKDm8g.lVcz1Z9CTMJInTSgU0bkMADOBkN1s_udFD0SGstFt1og.JPEG/1748241052114.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjdfMjYw/MDAxNzQ4MzE5OTI3MTI3.gmdo1SExuMK2gMbU3JCwOznSGKNb5y7oqu1PoUqoU14g.yuWV0VacSJjtfLRaNLyAmeOKEsw-wdvXIDJPk9jBb5Mg.JPEG/1747109009566.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjhfMjY1/MDAxNzQ4NDAzODE2ODcy.Vg-TaeR6Fvv6FsCMCFZTaMR601ZZzkkpVHrZisAcHJQg.lgj6rOtzLDgN5Ga_tkOt4TqBCKDRFneMWor2V3RbkS8g.JPEG/4ED0EA04-016A-4329-B6CC-9407A8F178B5.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221458",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "1089076890",
+            "bodySummary": "서대문식당 메뉴판 서대문식당 점심특선 수제만두전골 ₩12,000 + 칼국수사리 ₩1,000 돼지불백세트 (불백 + 김치찌개) 14,000원 돼지불백 12,000원 점심치고 가격이 ",
+            "url": "https://m.blog.naver.com/sweetsalchow/223276924191",
+            "nick": "명탐정호숭씨",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMjhfMTYy/MDAxNzAxMTQyNzg3MTgw.-yNo96WEeNFxtv4Cn1dsVSwvIb43F5eI9dAU6fiC-swg.Oy-_MKVGUF60swj0Jts-mTA5qActpKGRP4lhSHQ8sugg.JPEG.sweetsalchow/profileImage.jpg"
+          },
+          {
+            "sid": "1089076890",
+            "bodySummary": "영업시간 ㅣ 11:30 - 21:00 14:00 - 17:30 브레이크타임 20:30 라스트오더 ☎전화번호 ㅣ 0507-1346-9786 ☞포장, 배달, 예약, 무선 인터넷, 단체",
+            "url": "https://m.blog.naver.com/heney1981/223274692920",
+            "nick": "happy",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAxMjFfMTEx/MDAxNjQyNzY3NzE5MjE1.t13f3Yo6ZuuIiUidzw1NvGj9e2j5NGZf0jSaPUHyq0Ug.Z_Jbku-AUoBGlBmbW3rNDZx2VfXwsyxjCcNnebQydN0g.JPEG.heney1981/profileImage.jpg"
+          },
+          {
+            "sid": "1089076890",
+            "bodySummary": "위치는 회사랑 무지무지 가까움 ㅋㅋㅋㅋ 처음 가보는 곳은 아니였다 예전에 회식하러 한 번 다녀왔었는데 고깃집임에도 불구하고 밑반찬들이 맛있었어서 기억에 남았던 곳 직접만든 밑반찬이",
+            "url": "https://m.blog.naver.com/victoriabae/223137224747",
+            "nick": "쥰",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAxMzFfMjYx/MDAxNjc1MTczNDYwODk0.G4N-hRYax-04dN-X4WMqJzh1mH-N7R-4vJjwmC7amdAg.xOID3ZvhFsRmKT7bmJNxuh2ObLXvM5-BBoWEeY18r8og.JPEG.victoriabae/profileImage.jpg"
+          },
+          {
+            "sid": "1089076890",
+            "bodySummary": "내부가 넓고 쾌적해서 회식하기에 좋아보였는데 역시나 몇 테이블이 회식중이시더라구요 여럿이서 방문하기 딱 좋아보였어요. 단체회식장소 찾으시면 여기로 하셔도 좋을듯합니다! 저희는 2명",
+            "url": "https://m.blog.naver.com/o_p33/223135050025",
+            "nick": "샨샨",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA1MTdfMjI4/MDAxNjg0MzAxNjk5MDQ5.gAjF2oIPWyuvkLkx3ROHnp9fHyYkddlt9tluvp9T5Hkg.E9ttNIn_XmdCP3ervLj91LRV6kTMf6PuYE2qPDGp2ukg.PNG.o_p33/profileImage.png"
+          },
+          {
+            "sid": "1089076890",
+            "bodySummary": "서대문 근처 맛집 소개해드릴게요! 서대문역 6번출구로 나와서 이화외고 옆에 있는 서대문식당 입니다 건물 위에 기왓장이 있어서 외관 상 찾기 쉬웠어요! 근처 놀러와서 친구들이랑 모임",
+            "url": "https://m.blog.naver.com/tjtnwjd1116/223133479006",
+            "nick": "뚜동",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMjBfNzQg/MDAxNzEwOTIyNDAwNzIz.SsRVa4DJ5o8kMUJkihHTm-Y6TJw6ccx64N35Q3p62PYg._-m7O7h42X5Lt43Zcq3aaILuqVTHu_rOOIEO7ndL7Vkg.PNG/profileImage.png"
+          }
+        ]
+      }
+    ]
+  }
+}

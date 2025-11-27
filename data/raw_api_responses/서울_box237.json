@@ -1,0 +1,125 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 1,
+      "count": 1,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.98595601606618,
+          "minY": 37.5674009009009,
+          "maxX": 126.98709258978992,
+          "maxY": 37.5683018018018
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.98652430292805;37.56785135135135",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1962216707",
+        "name": "매머드커피 장교빌딩점",
+        "x": "126.9870668",
+        "y": "37.5674353",
+        "distance": 0.067,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "230847"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 819,
+        "averagePrice": 4000,
+        "address": "서울특별시 중구 장교동 1 1층 매머드커피",
+        "roadAddress": "서울특별시 중구 삼일대로 363",
+        "abbrAddress": "장교동 1 1층 매머드커피",
+        "shortAddress": [
+          "서울 중구",
+          "삼일대로 363"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "한화 본사 내부에 위치한 저렴하지만 고급원두및 재료들을 사용하는 매머드커피입니다.",
+        "description": "한화 본사 내부에 위치한 저렴하지만 고급원두및 재료들을 사용하는 매머드커피입니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTBfMTg2/MDAxNzU3NDY1NjYwNTA5.7hKBqug3O_THmf8vkOhxnDhXJi87p4ibyjG3nzjVK54g.oBtgsHLi0ZMYdQVI1fkzeZoFiGBrs-nJxbdRSKqj5FYg.JPEG/C47E7D1D-A78A-4F03-B323-8D9C798037C7.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjdfNTMg/MDAxNzU2MjU1MzMxMTg1.zpbVsCLAVX8hNzFGdwrpmgU72DdzD6Q-BuZOq8kneLEg.YautqrNp8gAUyNmzZ-QM1PV0mAOuai0xNhdJ0IUKSVMg.JPEG/20573B92-BCA6-4B2E-B10E-FA143E5D2FC4.jpeg",
+          "https://ldb-phinf.pstatic.net/20220109_195/1641704872334TM5Be_JPEG/55.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjJfMjgz/MDAxNzUzMTgyNDk4NjUx.4vAKXlMMwpHORa2FYBX6gTPmm0m4RvMPVVZunw_gtVog.QdnBnWmRcK60w5GIyPf62oJB4A_cfPb_S_PBw2ITPzUg.JPEG/20250722_095508.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20220109_51/1641704869258CfDBc_JPEG/66.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTVfNjEg/MDAxNzQ3Mjc2Njc2OTQ0.Zu4u7auJnC0l30HmFEqSXMl9ZY2wjpz6qIYWsjc-rVcg.jSvqQF389T_g3jWUt2h8cThE0dByUk1XHnnf9HMq7kgg.JPEG/20250515_093735.jpg",
+          "https://ldb-phinf.pstatic.net/20220109_65/1641704839532ICcWf_JPEG/321.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTZfMjc5/MDAxNzQ0NzUyMzcwODA0.9jZww5Wmiy2CLS_h9ntm4EOTaBXg-hNIuRIxXJKhlcAg.lMtAQYRXB7JSfUYUZaMQAym7Elkm10uM0NO7R75fYbcg.JPEG/Screenshot_20250416_062410_Chrome.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MDJfNDcg/MDAxNzQzNTUyNjc4ODI0.6YX1UChJf59yYDlcIkL-5ejcVpmzr_zDHTYRHeVaH0Qg.KKboz_f_jm0NIdE_y_Gof-adix4YWP0V0Hzcbzpzj-gg.JPEG/4E0D9679-244B-476A-8AE4-02A45C014C99.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjBfMTMx/MDAxNzU1NjcwNTMzOTg5.piw8le5ynKeNuk6R6PxDO5ZcKu1pUv_0qkODPXvvyscg.zY1uMpQ8lVpAeJ78G0yQ7a6OCrEO12JH2zAXBya400Ig.JPEG/20250820_151358.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "230847",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.33",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "1962216707",
+            "bodySummary": "을지로 카페 추천 매머드커피 장교빌딩점 주소 : 서울 중구 삼일대로 363 1층 매머드커피 ⏰영업 시간 : 07:00~17:00 *매주 토요일, 일요일 정기 휴무 점심 먹고 카페 ",
+            "url": "https://m.blog.naver.com/lee11338/223097216696",
+            "nick": "갱스타",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMDJfNzkg/MDAxNzA0MTkyNTUwMDk0.EBMEe4tL06_4WY3AzR08cyfTLNHey7ryekBuCzkrI0gg.wVpR2ujzvdFzN5FAi9M0gKuAFewT2WJ6ykOy1zHYzlQg.PNG.lee11338/profileImage.png"
+          },
+          {
+            "sid": "1962216707",
+            "bodySummary": "그곳은 바로 '매머드커피 장교빌딩점' 매머드커피 장교빌딩 영업시간 : 평일 07:00 - 17:00 / 주말 정기휴무 ❌ 위치 : 서울 중구 삼일대로 363 1층 매머드커피 * 대",
+            "url": "https://m.blog.naver.com/zzu_di_/223096283072",
+            "nick": "쭈디",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTAzMjdfMTc5/MDAxNjE2ODIyODY5MDEy.qkrzHDKYVkzKq64v-_1df61gUU6-h_asss3MdPT926cg.Cx74FByhHZEcV3jlvSIVW-8pBXZGxxTtMrUUcaR8d8kg.PNG.jurison8062/profileImage.png"
+          },
+          {
+            "sid": "1962216707",
+            "bodySummary": "오늘의 한바퀴 : 매머드커피 장교빌딩점 MAMMOTH COFFEE ※광고아님, 맘모쓰랑 아무관계 없음 서울 중구 삼일대로 363 1층 매머드커피 0507-1307-4096 지금까지",
+            "url": "https://m.blog.naver.com/koreanpsh/222354317531",
+            "nick": "명탐정v콘환v",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA0MTdfMTkg/MDAxNjE4NjcwNDIzOTQ2.6fcY7h6n2FBCMzYwgvuHfC6CCgKU4HfrfikS841x8mYg.HWClLq_wfRSTKRmCmPI0bc29oau8ONF8uopwydXhfNQg.PNG.koreanpsh/profileImage.png"
+          }
+        ]
+      }
+    ]
+  }
+}

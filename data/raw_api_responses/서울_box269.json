@@ -1,0 +1,210 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 2,
+      "count": 2,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.97686342627625,
+          "minY": 37.569202702702704,
+          "maxX": 126.978,
+          "maxY": 37.570103603603606
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.97743171313812;37.569653153153155",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "11678597",
+        "name": "카페이마",
+        "x": "126.9776958",
+        "y": "37.5698359",
+        "distance": 0.031,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221212"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 5028,
+        "averagePrice": 20000,
+        "address": "서울특별시 종로구 세종로 139-8 일민미술관 1층",
+        "roadAddress": "서울특별시 종로구 세종대로 152",
+        "abbrAddress": "세종로 139-8 일민미술관 1층",
+        "shortAddress": [
+          "서울 종로구",
+          "세종대로 152"
+        ],
+        "displayContext": [
+          "와플",
+          "함박스테이크",
+          "미술관",
+          "데이트",
+          "나들이"
+        ],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [
+          "아이와 함께 즐기는 수제 수프와 함박"
+        ],
+        "cardDescription": "아이와 함께 즐기는 수제 수프와 함박",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjlfMjkw/MDAxNzU2NDcwNDc3MTI3.k00DHJ_Q6ZphrzwSVaTHGRQl3cfucP1xjY93uUCcRl0g.4kR5J2_rKKQYtORU7Fb1D_haNs2cCtJHGO23ZZWTiOgg.JPEG/2388B4BA-4EC3-4E2F-8120-061545E690F4.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjlfMTI5/MDAxNzUxMTcwMDU0ODQy.huKZo8sMd77-zvmn3ScX05F2pE8ThQxbLNmheZCeyl0g.BN9_1KV4fNFbhU-18lN5hYp_qPK9cBmBjSHxrI0HF80g.JPEG/45796BE0-5A1C-4A50-BC8A-3E13F250692D.jpeg",
+          "https://ldb-phinf.pstatic.net/20220531_269/1653980732163MXlog_JPEG/waffle.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTVfMTY3/MDAxNzU3OTEyNDg3MDY2.Nm9m8iKLGYHHWgOBe3M5h5U1U6KJz_b9M60RA0s9uA8g.z_OdR6KdEFafSsyco0gbahHbq4zaZyd-6o34Ls12UaIg.JPEG/20250909_110755.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20220531_150/1653980728130dBeQe_JPEG/classic_hamburg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjNfMjk4/MDAxNzU1OTYwNzU3NTgy.KXIhshRUqnIXr_wfr9ZZZy0CW63NCIkCyBRW6HjcOfUg.czVyc_CiXCPHDMZrSef_uVHGNHZY2voavV2KgevpMYUg.JPEG/0739C0DB-A60A-4C45-B389-EDA3D45DECAB.jpeg",
+          "https://ldb-phinf.pstatic.net/20220531_268/1653980919054RFc9r_JPEG/soup.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTdfMjgg/MDAxNzU4MTIwNDA0NTU2.KhQo6UOnWoRk3q504_gTycfb1BNsDY-78jF2-xLDFL0g.NXHQfYo7ss1OTbtokdZ24fZ8Ok_v4sa43Hnh9n-EAgYg.JPEG/298F2648-D39E-474A-824E-CBAE86066F31.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjVfMjkz/MDAxNzUzNDA2NDcyMDg3.tHy1nlbJQg3Ec7fnBTq5eq-AdI2PGEvroiiNZdHTDvMg.mceufHiPR3xKqDyQ_3CjweuLKG9pOqEp_BW-Rd2lfhYg.JPEG/10E1E8BC-B3A8-4127-932C-7F837CDA5D46.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDhfMTE0/MDAxNzQ5Mzg3Nzc1Njk0.BX-HfFjaCS7V8VTtWB7kgRN2z1QJmG_o0inM9uuDnmAg.RBtCgaajiP48wumaNrlUazh6xJGMh88AaPxES2Jg0ikg.JPEG/20250608_153931.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221212",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "11678597",
+            "bodySummary": "*주소 : 서울 종로구 세종대로 152 일민미술관 1층 ①운영시간 11:00 ~ 18:30(월요일 ~ 금요일) 12:00 ~ 18:30(토요일 ~ 일요일) ②전화번호 : 02-20",
+            "url": "https://m.blog.naver.com/hot_dragon5/223395800445",
+            "nick": "용용이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMjFfMTM5/MDAxNzAwNTMwNjkwMjE0.ntplNLjt83zI8LCxW0elFvaIsY9LHraYcdVW6SVuCkUg.XGba7J8INI5_wSOHYx1pkCaDiX69SRbKQQWWpaO1S60g.PNG.yongsook5555/Profile_defaultIMG_H2x.png"
+          },
+          {
+            "sid": "11678597",
+            "bodySummary": "5호선 광화문 역 5번 출구 코앞인 카페 이마. 일민미술관 1층에 있다. 가끔 가는 곳이다. 이름은 카페지만, 함박스테이크가 메인인 곳. 휴일에 방문하게 된다면, 한가롭고 여유로운",
+            "url": "https://m.blog.naver.com/yeonmij/223350411842",
+            "nick": "비키",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMDlfMTE0/MDAxNzA0ODA0MjExNDI0.qnhV8cBTHn0kBivajjZ5nM4d-CKMWOfE6fRFS2npVQ4g.QPggC7GWO79zEQL_kTVQiCic3JXmahAR4FqNvqe_4_8g.JPEG.yeonmij/profileImage.jpg"
+          },
+          {
+            "sid": "11678597",
+            "bodySummary": "안녕하세요, 블로거 째유니입니다 광화문 직장러인 제가 넘 애정 하는 곳 소개해 볼게요 일민미술관 1층에 위치한 카페 이마 함박스테이크 or 아이스크림 와플 맛집으로 광화문 출근러들",
+            "url": "https://m.blog.naver.com/jjaeyoonii/223342678301",
+            "nick": "째유니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMTlfMTI1/MDAxNzA1NjIyMDExMDg4.Syc6qDNp6S0fUqdunDWxW0YzvTUn89-q5X6RIMlxoxkg.9LNDrisWZcN55sby5v-3JQjhtseIQCr5jVM7guRowikg.PNG.jaeyoon0207/profileImage.png"
+          },
+          {
+            "sid": "11678597",
+            "bodySummary": "광화문 가면 항상 생각나는 카페 이마 역시나 인기 있네요 15분 웨이팅하고 착석했어요 ㅎ사실 카페이마에는 와플 먹으러 오는거죠 ㅎㅎ 카푸치노 쌀쌀해서 주문했는데 잘 시켰네요 ㅎ아메",
+            "url": "https://m.blog.naver.com/chloe_lol_/223325683711",
+            "nick": "lovelyCW",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMjJfMjQ2/MDAxNzAwNjE0MzM2MjYz.vppQ4jkz2j9EVgLHELoAr9RjDIBEo4bEMfMAZi_7L-Yg.xtHih-QhBiL51bDbRkMNORcuSW62U041ZJ-RtkzhQ6wg.JPEG.bp0245bp/IMG_20230815_215828_7001.jpg/IMG_20230815_215828_700%255B1%255D.jpg"
+          },
+          {
+            "sid": "11678597",
+            "bodySummary": "입구가 굉장히 엔틱스러움 가득이에요 카페 이마는 일민미술관에서 운영하는 카페 이구요 건물이 엄청 오래되어 보이는데 1926년에 지은 동아일보 사옥을 리모델링해서 사용하고 있어서 옛",
+            "url": "https://m.blog.naver.com/sskh86/223321985394",
+            "nick": "따뜻한달봄",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA4MTdfMTg5/MDAxNjYwNzIzMDk0MjM0.tQC-_D8_8u4bPuP4fiX09YRyo8vsxiHPryAAV3B2Lpkg.jOtL_sxS-aKW14vzSOUuWTTdCugL-lwcL4RXPB8Po8Qg.JPEG.sskh86/9a8de2e4ce63eb5287d99d8447d039c99533e8c9.jpeg/9a8de2e4ce63eb5287d99d8447d039c99533e8c9.jpeg"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "id": "1194362198",
+        "name": "수래연",
+        "x": "126.9776958",
+        "y": "37.569836",
+        "distance": 0.031,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 830,
+        "averagePrice": 0,
+        "address": "서울특별시 종로구 세종로 139-8",
+        "roadAddress": "서울특별시 종로구 세종대로 152",
+        "abbrAddress": "세종로 139-8",
+        "shortAddress": [
+          "서울 종로구",
+          "세종대로 152"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [
+          "가족과 함께 즐기기 좋은 한 끼 식사"
+        ],
+        "cardDescription": "가족과 함께 즐기기 좋은 한 끼 식사",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDFfMjEy/MDAxNzUxMzczMzE0ODAw.iXLqkYqy-utxLq_k_lEnfPt_APhOZ66aXVLBqvpnkgsg.Cs2vjLnvIlZ1FSVIdn8o1q-0gP8faG9GS31ZWa5GB2wg.JPEG/20250701_124651.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDZfMTg2/MDAxNzUxNzU3NDI0OTk5.Z8u7XDr3OV069cjw3gn0zBjpJrxhSVMc4mPezPEJ27kg.MMbKLCwa11sywBTfcsHycOe-0tXuBZH5zpMZtLhxHecg.JPEG/1751757409239.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDZfMzYg/MDAxNzUxNzYyMzQ4NDg4.LXWqFBBk3TiBJG-jZEqKgXccNazrfmTZ2hctGkepN9sg.Vu9emSUkICD5PVfLrbj41XqgKGtEJpdIqCvNyFuRypcg.JPEG/20250705_141118.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjZfNDIg/MDAxNzQ4MjUwMDE4ODg2.nUyM0ojsgCg_p0Gc-byfbNMDAPFSMUSEkf2CWHEKK8Ug.59f0YXLuPoeOhNJsjLUrIJ7MCKvzzvxIdWe7igeceqwg.JPEG/20250526_144016.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTRfMTMw/MDAxNzQ0NjQxMzM4MDY1.i53pQ1ayod4OTuQlkDIbRj1rz8HrxuASwO5M48wJ010g.IBAPJcBJTH9cmN9Wkhz8kscD_o5F_thKgJmH5II27pYg.JPEG/260C0FBC-158A-4FEC-B37A-9CD017465D11.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjlfMTQ0/MDAxNzQ4NTEyODk1Mzc3._gkbGX976tXN7nPdIOJEHJu21hDi2ikCXocQig3Vyf8g.rTNsX9KWy3gyH9_PMp0I2P-wObaLJqD4N8lfr8hOwqIg.JPEG/00686DC4-C3D6-43B4-A3D0-EA30A8D0D023.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MThfMTQx/MDAxNzQ0OTY0NjM0MTAz.28oE6LYhpan5K_p88DrRbrkDalSA8Vu-gKfQOMIc2XAg.n2eVW5oMPEAWI3YxbE9KPFqzbnddagEDnyqfdgSxJQ0g.JPEG/20250418_172249.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDNfMjE4/MDAxNzUxNTMzNzQ2NzY2.ssackJg4X1KtyzpUIYqVBsy-SfWxz0TOKsg-Un7SJW0g.5WfT53q6aAOJ9JnWCUf5_TKZ4P02k0aGxpWbPhk1gfMg.JPEG/20250616_140330.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTFfMjY2/MDAxNzU0ODk3MzU0NjIx.07pzT6IoSHo0oeAoRoBzyeVMbSfg2UDCFxCgrGKMRVEg.6RReDxDB5J7ff_xK_PJnhS5tDbdCSDoP6iiCDQ0mkGMg.JPEG/20250809_123518.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTBfMjgg/MDAxNzQ5NDk5NTY3OTcx.5JxNmXt1iWSsBhLsEqeQnJRTVGicHYhimLb3uUW2FqMg.b5r8XVukDf2zhyvoe5QoaOIUfF_YIEAEN6-cYzDzWT4g.JPEG/20250515_140934.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

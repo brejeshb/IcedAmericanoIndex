@@ -1,0 +1,425 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 5,
+      "count": 5,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.97459027882879,
+          "minY": 37.5637972972973,
+          "maxX": 126.97572685255253,
+          "maxY": 37.5646981981982
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.97515856569066;37.56424774774775",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "479911735",
+        "name": "카페다락",
+        "x": "126.9755468",
+        "y": "37.564427",
+        "distance": 0.04,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221212"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 926,
+        "averagePrice": 5000,
+        "address": "서울특별시 중구 서소문동 37",
+        "roadAddress": "서울특별시 중구 덕수궁길 15",
+        "abbrAddress": "서소문동 37",
+        "shortAddress": [
+          "서울 중구",
+          "덕수궁길 15"
+        ],
+        "displayContext": [
+          "스콘",
+          "전망대",
+          "카페",
+          "데이트"
+        ],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [
+          "덕수궁 한눈에 담는 커피 한잔의 여유"
+        ],
+        "cardDescription": "덕수궁 한눈에 담는 커피 한잔의 여유",
+        "description": "일시적 미운영 (기간 : 3월 20일~5월 초)",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTFfMjY1/MDAxNzU0ODM4NjQ4ODQx.9Dh1p-Wo-39slJeNpRoTdyuFzyqhhtHvu2N4qVcfyoUg.MsHAHaJDLYp1cyh9jAhmyIY8Js6T_GZDa9M2YI0B_b0g.JPEG/20250810_141644.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTdfMTg3/MDAxNzU1MzcwMjUzMjM1.Gt2AHi9wONg_IVegdMSX_-IsFXqbPpGVKbAale8s71Eg.JjsjEiDoaOljoGz5EiE8FtReEAGDtn5DUCdoNhSP8vYg.JPEG/1000230830.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjhfNDIg/MDAxNzUzNzAxMTE2MzU0.wjPLkfBQAUwzPGOO5kXvQuZTpUZYtSE5usHdFAz3nZgg.q14hlKsD4__iosYh7D8YrHcuRF1n2ts_5k_kwkCyVMgg.JPEG/90DBE298-1BB1-41CC-88C4-32DBADF1C149.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjRfODgg/MDAxNzU4NjcwNjgxMjE0.GTwNDlX3cxRFO29exyZQxYWlDlTKX5nmDWeeP4wUMFkg.ZGaD0K6vJQNaulHx_tR1MgKf_t60wSzfW7ZZSoWAmUwg.JPEG/4D12172C-E124-47F0-ABC0-24ACEB6E6CDE.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTFfMjcy/MDAxNzU0ODkzNjAzNDc0.cwJZQT0zmUFA9-0X_H4SmOkointY1s4aZjiMdsDAGIgg.UXQdX7uQtPccM71G6pGKaygyIzDeHUlhk_EFcZfrv5Qg.JPEG/1754885167643.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjdfMTU2/MDAxNzU4OTAyMDk3MjY4.r2PDRL-sPDmmUOsGJ8ivWHEHDTNgE8FuEHQRKlDuofkg.GxqV_8BDLJJjKFKg4e_mhXB4RMRYcvyyAvmYOh1AmzIg.JPEG/20250925_165131.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTdfMjMz/MDAxNzU4MDM3MzIyNTYx.WhUF1mUD_Oh6oMZFV_iAzIEHXkDOLqjMMKwDsQ1Xngwg.KfANjA4oTrNDYjNW_l_5eIznU52uA2Jl2Qaq6sKb0eQg.JPEG/DA4882A8-E722-421C-A22E-B9982CBDEF80.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDNfMjk0/MDAxNzUxNDY5NTE3ODk1.FljmYoKwLrj8da7qQQr_CejYgTRg3Q5CP3VgIYjszMQg.svfXTX61I5H8w3H-lrOOQPyHeeaDXSxPJeKnrF_fzu4g.JPEG/20250701_172357.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDFfMTcx/MDAxNzQ4NzYwNDg1MzYx.zLy4sslbuayLXz0O6xXgew9slkcMxvhcAJnd8lCyFWAg.Q4gHn_30grZs5IKfZSuL4DyQxFRU7QfvJ_psqEULm4sg.JPEG/20250524_103819.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDdfMTg2/MDAxNzU3MjMzMTYyMTU2._kGllzNIY7usdjYIbCAaFcBrbZW-17tF5RRzbpVCdkgg.h0srkDJZG41kETDigLkK54p1JyhhAESsJngN51eaklEg.JPEG/32643DB7-3BE8-4E4E-B87A-01832692E45A.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221212",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.35",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "479911735",
+            "bodySummary": "지난번 커피 멋이 별로라 오미자에이드로 주문. 탄산이 세지 않아서 맘에 들었음. 그리고 몰랐는데 시청 직원은 할인도 해줌!!! 시청직원에게 이 공간은 최고의 복지가 아닐까.. 혹시",
+            "url": "https://m.blog.naver.com/jina_conejita/223254853450",
+            "nick": "현토끼",
+            "profileImg": ""
+          },
+          {
+            "sid": "479911735",
+            "bodySummary": "위에 입구로 들어가는 것이 아니라 오른쪽으로 조금 더 가면 정동전망대로 올라갈 수 있는 입구가 있다. 정동전망대 및 카페 다락의 이용방법 및 이용시간은 2023년 6월 3일부터는 ",
+            "url": "https://m.blog.naver.com/dailyplusplus/223246036274",
+            "nick": "뭉이날자",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA5MjlfNzkg/MDAxNjMyODcxMDgxODky.3XWVTFXeC5zONhBjrD4qvIuu8ssAWQjg_cXjWKkq7qAg.Kkg66uAeChOSbh2dG8pKPrL_IYYgX5H9Bt9uocASJYEg.JPEG.dailyplusplus/KakaoTalk_20210929_081115784.jpg"
+          },
+          {
+            "sid": "479911735",
+            "bodySummary": "덕수궁 전망이 아름다운 서울시청 카페 카페 다락 & 정동 전망대 운영시간 - 토, 일 09:00~17:30 (입장마감 17:00) 주 소 - 서울 중구 덕수궁길 15 서울시청 서소",
+            "url": "https://m.blog.naver.com/llpiyall/223180723046",
+            "nick": "프로작심삼일러",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA4MTdfMTk1/MDAxNjkyMjYxNzM2MTYy.j21V0mC2Aqpb51an9x-jMT8dc4I1mHZ1eMxApUQB3oQg._tTWTFO8_xV-c_4BJTXam0UngVNS9mxMQAd_rA4Vubwg.JPEG.llpiyall/KakaoTalk_20230420_134350292.jpg/KakaoTalk_20230420_134350292.jpg"
+          },
+          {
+            "sid": "479911735",
+            "bodySummary": "시청역 카페 덕수궁 전망좋은 다락카페 (+정동전망대) 안녕하세요! 시청역에 덕수궁 뷰가 한 눈에 보이는, 전망좋은 카페가 있다는 것 아시나요? 복잡한 서울 시내 한 복판에서 고즈넉",
+            "url": "https://m.blog.naver.com/zemamelody/221683363463",
+            "nick": "제마",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTAzMDFfODEg/MDAxNTUxNDAyMTU5OTI0.sOM_wPiHm-NDz24fQO7-wUqROllOoEJbSaoDP8eyO0sg.VtBHIQUAwuNECxvF5Cgf9v__x7UXpqJl2d1CyxtLN-Eg.JPEG.zemamelody/%25C7%25C1%25B7%25CE%25C7%25CA.jpg"
+          },
+          {
+            "sid": "479911735",
+            "bodySummary": "아침 일찍 탄 지하철은 꽤나 낯설었다 오늘 날씨도 최강으로 좋은편이라 정동전망대 가기 아주 딱 알맞는 날이었다 하늘이 아주 푸르딩딩 했다 +.+ 정동전망대 카페 다락은 시청역에서 ",
+            "url": "https://m.blog.naver.com/dlgnswn89/221623197171",
+            "nick": "쿵츄",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxNzA5MjZfMTYw/MDAxNTA2MzgyNzg4MzU2.b_6jsc2SAprFiba3xUtpGJRhiRiotPn9hBuv8y2xmf0g.3z6G3fd6LQWRDT4_iPD5IVWfOc9JQK_j7lPQQLhO4ngg.JPEG.dlgnswn89/KakaoTalk_20170201_143822372.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "id": "1189682238",
+        "name": "미자네닭전문점",
+        "x": "126.9752212",
+        "y": "37.5639674",
+        "distance": 0.032,
+        "categoryName": "닭볶음탕",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220773",
+            "221605"
+          ]
+        ],
+        "category": [
+          "한식",
+          "닭볶음탕"
+        ],
+        "reviewCount": 558,
+        "averagePrice": 27000,
+        "address": "서울특별시 중구 서소문동 31",
+        "roadAddress": "서울특별시 중구 서소문로 129-1",
+        "abbrAddress": "서소문동 31",
+        "shortAddress": [
+          "서울 중구",
+          "서소문로 129-1"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [
+          "다양한 메뉴로 만나는 닭 요리의 정석"
+        ],
+        "cardDescription": "다양한 메뉴로 만나는 닭 요리의 정석",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTRfMTkx/MDAxNzQ5ODkzODk1NDIz.UN098jeLfY5ZW5BwDpgcU_31UplVqohFq2cvEkRskCYg.ge5jvI2ASV9yi54MW1y5z41fstEz7KRzY6fSb3QdMH0g.JPEG/20250614_183453.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjNfMTIw/MDAxNzYxMjI4Njc0MTcy.XirzrLMN7UvuzUF50cLyXw5WKWzPTYMdbP0RitG2gVkg.uXxRopFYWYgqNLSEJ0wX9xMnht1r5R-YnGM-swcdFJMg.JPEG/BAAE520F-CBD3-418C-9066-3FEE466F8F39.jpeg",
+          "https://ldb-phinf.pstatic.net/20181109_80/1541739594098poyLC_PNG/jBlVjyqnquYLExhXoGqUcCe9.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjRfMjg3/MDAxNzYxMjg2MDg4NDQ3.Lfts_j0U2PIfYBRFzbcN2N86CwztZn97MfyoFE7QtzMg.n5g02ZLObK0Nq041kv_tMx0V6d6wUBg0wqiCfTxDuTEg.JPEG/29358B41-F692-46AE-BF47-C07E5225C686.jpeg",
+          "https://ldb-phinf.pstatic.net/20181109_158/1541739592419M617u_PNG/OMBXQ3c57RtIZ_X4rpPNfgNo.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjFfNTcg/MDAxNzUwNTAwMjQ3MjE5.QmF11QZiTZQRYeoGqQn7lM41hfe9kO_eiV26q5q3nBUg.bsbOfMIv_fAQshmHAD8UCCM3SMAO7-zQdAb1jZjCqgsg.JPEG/B35FD5D7-5FAC-4EFE-9C9E-5DC534AFAC8D.jpeg",
+          "https://ldb-phinf.pstatic.net/20200219_96/1582118334639xCDPp_JPEG/nk2OP-IhC3TrsnSP9q2kAB9I.jpeg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTlfMjYy/MDAxNzUyODk4MDU4Mzg4.ZNRkrVvWB5r07OuqqON4EZ5BbVVuNgAsyLVIzk9o2NEg.YHt_zwjJh8AdyLBhvvagKEG3OGsO3QQiMTDeBLRf9Jcg.JPEG/4E2D6246-7072-4A53-AEB5-7DD638F14BCE.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTlfMTA1/MDAxNzUyOTAwMzU4MzA4.Ce2ysdb3Ozh0OPhq8U7e0_xeRvqBqbkwosETVSpzFZsg.KRJ_t5ShfztmQzkPHiguaqHQw5o7VL7PhdGInPq57hQg.JPEG/3594671F-31BD-4723-A464-CAB8C8BC6293.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTAzMzFfMjM1/MDAxNzQzMzkyNjAwNzU1.VA7EiC9VPUFBLjrDXE8qPJJ8D9iha0ck1kDEhwBrh8og.I87uz2p_4M0f1XKGmILYJP4aKomaKMjwXJLmPuf2N6Mg.JPEG/9E4C975B-3181-4E0C-BCFF-1CD1A78A630F.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221605",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1189682238",
+            "bodySummary": "사진을 몇장을 찍은거지?! 그래도 행복한 점심이었다 (점심은 볶음밥 안됨 주의!) 이 날은 저녁에 짱님들이랑 갔는데, 저녁에 단체 손님이 많았다 우리는 좀 이른 시간에 가서 단체 ",
+            "url": "https://m.blog.naver.com/kimohlee/223371535571",
+            "nick": "윤지수",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA4MzBfMjU4/MDAxNjYxODUyNTMzODI0.7Jo5-mHxaDi-24uBzKbEIUpHdgvAb2hXfQ715o2wK5cg.KoLMJF7wLMK9U7gk-r6hDFrnLx-YK9ht1wLjMGFsu_Yg.PNG.kimohlee/profileImage.png"
+          },
+          {
+            "sid": "1189682238",
+            "bodySummary": "미자네 닭도리탕 시청 시청광장에서 하는 행사에 참여하기위해 런닝메이트 언니와 오랜만에 저녁약속을 잡았다. 언니가 닭볶음탕이나 닭한마리를 먹고싶다고 해서 찾아봤는데 마침 시청 근처에",
+            "url": "https://m.blog.naver.com/youwillstay/223331945934",
+            "nick": "쏘피셜Sophiecial",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTEwMTRfMTY3/MDAxNTcxMDMwODMxNTU4.6xh8NTcpo19-guwR9Il3ezOnMS_ygL8EwVA2Csh32Wsg.K1YqGi6UxH6tQN7avZMR4yYbpsM0vyJvxjkh38VTk7Ig.JPEG.youwillstay/profileImage.jpg"
+          },
+          {
+            "sid": "1189682238",
+            "bodySummary": "시청역 11번출구 부근에 위치한 미자네 닭전문점은 골목 안에 있어서 조금 찾기 힘드실 수 있어요 골목 안으로 들어가시면 주차장도 있고 미자네 닭전문점이 보인답니다 미자네는 마늘 닭",
+            "url": "https://m.blog.naver.com/gyomzzang/223307390345",
+            "nick": "겸쨩",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA4MTNfMTg3/MDAxNjkxOTA2MjYyNjEw.ECo7i9dMF7gnVYaVuPwueymcOvipIxGZxJbsZRB7ChYg.VrugsF8xHpHLzk7BOOVH_yggYD43C6xDGRFZSSVjLOQg.PNG.neem2/profileImage.png"
+          },
+          {
+            "sid": "1189682238",
+            "bodySummary": "역시나 오랜만에 왔더니 가격이 올랐다. 닭도리탕 48,000원. 일행까지 모두 4명이어서 대자로 주문했다. 라면사리도 하나 주문했다. 요즘 어딜가도 라면사리가 빠지는곳이 없다 .양",
+            "url": "https://m.blog.naver.com/otwo2002/223297617945",
+            "nick": "으샤으샤",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20100320_98/otwo2002_1269091947638_5ZsFuR_jpg/P090310002.jpg"
+          },
+          {
+            "sid": "1189682238",
+            "bodySummary": "그 이후로 반해서 엄청 생각나는 맛..❤️ 미자네닭전문점 위치는 시청역 11번 출구에서 가까워요 ! 덕수궁 돌담길로 해서 갈 수도 있음. 맛있는 거 먹으려면 이 더위 정도는.. 충",
+            "url": "https://m.blog.naver.com/gusalsqpf/223175331446",
+            "nick": "미니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMDVfOTYg/MDAxNjk5MTUyMTE1ODg1.5QM7pFM-DU2jPWyDctxXoGgGz47xzMjq4P77BMZo1M4g.ukUncghILPSphFx6ukMT4pQ30pw6hdXlTXiHy1qJBwkg.PNG.gusalsqpf/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "id": "1829534558",
+        "name": "서소문청사 구내식당",
+        "x": "126.9747069",
+        "y": "37.5645985",
+        "distance": 0.056,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 842,
+        "averagePrice": 0,
+        "address": "서울특별시 중구 서소문동 37",
+        "roadAddress": "서울특별시 중구 서소문동 덕수궁길 15",
+        "abbrAddress": null,
+        "shortAddress": [],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [
+          "친절함으로 다가오는 가성비 맛집"
+        ],
+        "cardDescription": "친절함으로 다가오는 가성비 맛집",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MThfMjA0/MDAxNzUwMjEzMzEyMTQ3.ou0sPDVY-dqhpiftG6gM23k47-bBHoKXdeor9dGUmKog.CEjxoEWn7GB9oXyG_ql4ggNYRkbw3GEMLIB05wIbNowg.JPEG/20250618_104748.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDlfMjkx/MDAxNzU3Mzg1MTc0MDQ3.qD6FJPlfeBOVSYYSyi1hmCYl7f4x6JX7zOtvUpygRJog.XRbE2VDHZCMO838AoLJSOma1fSQ2Oz3avNuEotjjU9wg.JPEG/1757384518754.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTBfMjk0/MDAxNzU0Nzk1MTU1NTI1.WLTYSIF4zwTBxzV2aVdT7F4wJ9j4vAquLqLCGQCmV-Mg.XE0HFp_JZHkoIbPweUXTDZPV0XKE920rFZqB9szcK7Eg.JPEG/20250804_120430.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTBfMTg5/MDAxNzU0Nzk0OTk2NTI3.DwveNIY_PZ3dQ5B3CmSGREtrn1dP06xQskK-CXJwFq8g.arVskkiHcjDSbaQAExuKyNEtNgvTaNWoGhCMv9p8hz0g.JPEG/20250804_120430.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjVfOTYg/MDAxNzUwODExMDQ0MjM3.WCm5CaZ4aAx95A4anKMsIHM7cBt5Vmn8QqN9oD2PeIMg.mwkK2u9LEp14pMHoQCniUuYz_R6bLX7uOa2cKUVBg7Ug.JPEG/20250625_091228.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjNfMjc5/MDAxNzQ3OTUzMzIxODc2.eD8OVUq-9THE7r3YV6Ah2bNON7IKgaYN5y5_p08w5X8g.F0qJXHlpR7xDJlAQA4F-OSTVAlmrvcEV7LiHQM6FKlsg.JPEG/20250523_072947.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 4,
+        "id": "1373220350",
+        "name": "디얼루어",
+        "x": "126.9755468",
+        "y": "37.564427",
+        "distance": 0.04,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 46,
+        "averagePrice": 0,
+        "address": "서울특별시 중구 서소문동 37",
+        "roadAddress": "서울특별시 중구 덕수궁길 15",
+        "abbrAddress": "서소문동 37",
+        "shortAddress": [
+          "서울 중구",
+          "덕수궁길 15"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 서소문동 37",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 5,
+        "id": "2040792759",
+        "name": "파스쿠찌 서울시의회별관점",
+        "x": "126.9747069",
+        "y": "37.5645985",
+        "distance": 0.056,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221342"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 2,
+        "averagePrice": 5000,
+        "address": "서울특별시 중구 서소문동 37 별관 1층",
+        "roadAddress": "서울특별시 중구 덕수궁길 15",
+        "abbrAddress": "서소문동 37 별관 1층",
+        "shortAddress": [
+          "서울 중구",
+          "덕수궁길 15"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 서소문동 37 별관 1층",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjRfMzcg/MDAxNzYxMjgyMTk5Njg4.4jds_8Hx5fpA8rA68JjI8E6nZT32iXS9eqwCTwikZWcg.eKNHE5L13BJRGbnONEpIE6Kt0cF2jOs9srhG7fIyKeIg.JPEG/20251024_140152.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20251018_213/1760775782878fohSo_JPEG/1000030258.jpg",
+          "https://ldb-phinf.pstatic.net/20251018_116/1760775783072athag_JPEG/1000030259.jpg",
+          "https://ldb-phinf.pstatic.net/20251018_55/1760775783102lCpNV_JPEG/1000030260.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221342",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

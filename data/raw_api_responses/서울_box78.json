@@ -1,0 +1,464 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 5,
+      "count": 5,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.98709258978992,
+          "minY": 37.5601936936937,
+          "maxX": 126.98822916351367,
+          "maxY": 37.5610945945946
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.9876608766518;37.56064414414415",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "2032569287",
+        "name": "라라소프트",
+        "x": "126.9878679",
+        "y": "37.5602562",
+        "distance": 0.047,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 25,
+        "averagePrice": 5000,
+        "address": "서울특별시 중구 남산동3가 31-13 1층 부스",
+        "roadAddress": "서울특별시 중구 퇴계로24길 13-18",
+        "abbrAddress": "남산동3가 31-13 1층 부스",
+        "shortAddress": [
+          "서울 중구",
+          "퇴계로24길 13-18"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "명동역 1번출구에 위치한 테이크아웃 노상 카페 입니다 :)",
+        "description": "명동역 1번출구에 위치한 테이크아웃 노상 카페 입니다 :)",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTJfODcg/MDAxNzU3NjU2MjU2OTY4.Gry8LO1soyJ17FN0TL7j06XX-OUiIiPbVR9s9JRGuTgg.MVpUmuqA0zQ3JGhUMThnpDP7OXdb5QG_3Ux-pS-4gV8g.JPEG/1757655946840.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjJfMjM3/MDAxNzU1ODQwMTc5MDY4.QGXNftT-jybmfCkLZFfbis100W364KsKb8olZrqLcKIg.6nv0mYVDNlXknq_ij1s2lIqhLdFiPk7OWzlijSmNCoAg.JPEG/1755673049633.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250924_70/1758690981697hiiKM_JPEG/IMG_7957.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDRfMjky/MDAxNzUxNjIwNDQ0NDY0.-d3zlsHMfM95nSqR2Vt7n7OoqDkeeof03UGF2CPgTnsg.2yv1RMYw-GpiXcLVEyldZ-Pd6AjoA3YroL4dKinJjpgg.JPEG/779B6AD1-4EF0-4DE9-A26C-BA068DA9CE98.jpeg",
+          "https://ldb-phinf.pstatic.net/20250924_194/1758690981810bQVn4_JPEG/IMG_7943.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjdfMjc0/MDAxNzU2MjY1Mjg0MDY4.to7a_k-atk0SlmKKYyCqktv-fpPH5w2_u4SUSE_c-xAg.iFJwxzXThVcSWdBZ4KIJAAoeUAPD_XTy8XlIjnBANcog.JPEG/20250827_122516.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250924_147/1758690982087Lb9vW_JPEG/IMG_7911.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjZfNzYg/MDAxNzYxNDMzMzAwNTc5.QZP4-EPQQrlILAmRht0Hfb-bgnaC-ox34HX5GAxKVqsg.NfHWqot1j3IhJOrjCyiUfmHGP5nlZGrcTA0v3K2ErLQg.JPEG/A86DCFE9-589F-428F-A35A-A10EE185FC63.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjdfNzcg/MDAxNzU2MjY5MDczMzQy.tcSKtPzKWN58u2jSI7bqlyQfJVTTz5vkvFLHc5oN6WAg.Myh0iDlIInxHs593i85iLW7g-kHOMBT4qzHeqP39jlkg.JPEG/8AEF78AD-0986-47B3-996B-3BC40589D10A.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTJfNzUg/MDAxNzU0OTczNzk1MzMw.T8P0x8mcO5a5ZugOecxn7DCH3iatzzFAyQ7RNI9EKmgg.hiSMWWfJqZ3fRhm8sPCU-kQR_tjOqByTjGf35HlR8dQg.JPEG/1000111225.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "1001285250",
+        "name": "남산가든",
+        "x": "126.9876791",
+        "y": "37.5603989",
+        "distance": 0.027,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 8,
+        "averagePrice": 10000,
+        "address": "서울특별시 중구 남산동3가 31-1 2층, 3층",
+        "roadAddress": "서울특별시 중구 퇴계로24길 13-8",
+        "abbrAddress": "남산동3가 31-1 2층, 3층",
+        "shortAddress": [
+          "서울 중구",
+          "퇴계로24길 13-8"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "안녕하세요. 특별한날 고급스러움을 즐기는 남산가든입니다.  크고 작은 각종 모임과 생일, 데이트, 소개팅 어떤 날이든, 특별한 시간을 신선하고 완벽한 식사와 함께 하세요.  남산가든은 멋진",
+        "description": "안녕하세요. 특별한날 고급스러움을 즐기는 남산가든입니다.  크고 작은 각종 모임과 생일, 데이트, 소개팅 어떤 날이든, 특별한 시간을 신선하고 완벽한 식사와 함께 하세요.  남산가든은 멋진",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjdfMjIg/MDAxNzU2MjM5MTk5MzE0.OLRUBwybnE7DvGBTH8pkhTJc5M4EfQihkwUS0rLqtpgg.7QifPcG0K__vf7zVk5XweF12KBrW5nehxOCQTld9Yt0g.JPEG/8D02B25A-8DF9-4E3E-940A-CE69D98CCE5E.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDZfMjg2/MDAxNzUxODAzMzI3MjAw.5tkaDPslvgtpwvtv48Gu9wdN-s8Egyq2Vf-PUz3men8g.du0mNSU0S9wsVlrn3tlxggBRkF0I7YV_EgEsmaynva4g.JPEG/A1367F4E-E1F4-45E1-8979-0C7FBAC46A62.jpeg",
+          "https://ldb-phinf.pstatic.net/20250621_79/1750515077682ItiNf_JPEG/1000014456.jpg",
+          "https://ldb-phinf.pstatic.net/20250621_134/1750515077455ksgdw_JPEG/1000014459.jpg",
+          "https://ldb-phinf.pstatic.net/20250621_126/17505150774432y9Qv_JPEG/1000014457.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 3,
+        "id": "18694488",
+        "name": "일미정",
+        "x": "126.987163",
+        "y": "37.560492",
+        "distance": 0.047,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 99,
+        "averagePrice": 0,
+        "address": "서울특별시 중구 남산동3가 19-1",
+        "roadAddress": "서울특별시 중구 퇴계로24길 10",
+        "abbrAddress": "남산동3가 19-1",
+        "shortAddress": [
+          "서울 중구",
+          "퇴계로24길 10"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 남산동3가 19-1",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDFfMjUz/MDAxNzQ4NzQ5MzQ0ODcx.AYub3ENB95JOMoQ4RVMeD9saAaXU_5mX5vDBqc4UBYEg.epRYtLAzTVZkr7kq6iXpLvXORu0PgZZHea534engJCog.JPEG/AD974B3C-18BA-4436-9E8D-644AEEF55824.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MThfMTUy/MDAxNzQ3NTY3Nzg3NDMx.mBGQe9K70LzqsTf6Uc4lyhZe4NeECedmejKII6l2QCEg.rIcHyfp2BzyxDEJr0GSBM_-24Y3FkHtUmBP74bdhdV8g.JPEG/D541CB9C-9A7C-46FD-BF8B-0B1AB493CF7D.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTVfMTE3/MDAxNzQ5OTczOTk2NDQx.fHvqBchMYO2TmHGtxv58IbGE602G5x0wfhn7iWidx5Ug.JEqyF7zvGl49VNWQHSFf65jE7hbG8vvI07M6bnc502Ug.JPEG/B8AD995B-C737-43F8-A743-73B02729271B.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "18694488",
+            "bodySummary": "회사 분들이 점심에 자주 가시는 식당인데 점심 먹으러 따라 갔다 옴 찌개랑 이런 것 있고 명동 물가치고는 가격도 착한 편이라 점심식사 하기 괜찮은 곳임 가게는 1층, 2층으로 되어",
+            "url": "https://m.blog.naver.com/redrabbit_/223129355100",
+            "nick": "최다",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20150227_78/redrabbit__1425021976253la1gn_JPEG/CYMERA_20141112_133727.jpg"
+          },
+          {
+            "sid": "18694488",
+            "bodySummary": "김치찌개는 나오자마자 먹을 수 있다 제육볶음 2인분 - 18,000원 제육볶음이 진짜 맛도리였다 제육볶음도 식당마다 유형이 많이 다른데 ^^ 돼지고기 부위에 기름도 좀 있어야 하고",
+            "url": "https://m.blog.naver.com/ming____a/222975692368",
+            "nick": "밍고재비",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAxMThfOTEg/MDAxNjc0MDM5MDI1MzU1.WGtPqSgE20sMdML2SRLvO9dt_kzx8ZLU81l6hLoQ7E8g.898hO_kT-beD6GVQcKTFaO-yjGdmzHjNIivqBI4b3RIg.PNG.ming____zzzz/profileImage.png"
+          },
+          {
+            "sid": "18694488",
+            "bodySummary": "서울 명동역 남산동 삼겹살 일미정, 명동 가성비 한식백반 맛집 명동 건너편 남산동에 있습니다. 명동 건너편이 남산동인 줄은 주소 검색을 하고서야 알았네요. 서울 중구 남산동 일미정",
+            "url": "https://m.blog.naver.com/mismatch55/222865583000",
+            "nick": "마하맨",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAzMjNfODYg/MDAxNjc5NDk5MzQwNTU2.LsPLVYed20GST8WENB0VpAHinhjWvJE4OD54az9y2Owg.mz4htcssKNxQ1epnPFkOs6q94E4pphi8D7W1WBztkQcg.JPEG.mismatch55/profileImage.jpg"
+          },
+          {
+            "sid": "18694488",
+            "bodySummary": "명동역 일미정 위치 위치: 서울 중구 퇴계로 24길 10 명동역 1번 출구에서 78m 전화번호: 02-757-6589 연회석 완비 2/3층 구비! 여기는 장점이 2층이 있어서 저희",
+            "url": "https://m.blog.naver.com/wjdgus2635/222158014015",
+            "nick": "정둥이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA0MTFfMTk4/MDAxNjgxMjE2ODQxNDA2.9TGO9Pg7IQoho_vri01zM0Si48acDb0pAZgR8r110lAg.DLVcCoiLRH7ntns5tmGq0-5lrhBAuPIpL-BZcb4atfog.PNG.wjdgus2635/profileImage.png"
+          },
+          {
+            "sid": "18694488",
+            "bodySummary": "그리고 메뉴. 2인 이상부터 주문 가능한 메뉴도 있으니 참고하세요. 동국대 학생들도 와서 많이 드시더라구요. 저는 학교 다닐땐 몰랐는데. 신기 밑반찬도 다양. 집밥 그리우면 한번 ",
+            "url": "https://m.blog.naver.com/munss92/221545130914",
+            "nick": "뒨둥이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxNzA0MDNfNjYg/MDAxNDkxMjI1MTk3Mjg2.oLrFDMcUslwd_p2GLOB5yWEGrthEuwZe9Kpv2L7nyqMg.6T0o5i7MpD91Bxsa7DLGG7v_uFeRiWvCJvTfYYEjYVwg.JPEG.munss92/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "id": "1372461658",
+        "name": "명동아구찜",
+        "x": "126.9876674",
+        "y": "37.5603725",
+        "distance": 0.03,
+        "categoryName": "아귀찜,해물찜",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220076",
+            "220793",
+            "221633"
+          ]
+        ],
+        "category": [
+          "한식",
+          "아귀찜,해물찜"
+        ],
+        "reviewCount": 123,
+        "averagePrice": 20000,
+        "address": "서울특별시 중구 남산동3가 31-1",
+        "roadAddress": "서울특별시 중구 퇴계로24길 13-8",
+        "abbrAddress": "남산동3가 31-1",
+        "shortAddress": [
+          "서울 중구",
+          "퇴계로24길 13-8"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [],
+        "cardDescription": "안녕하세요 남산맛집 명동맛집 푸짐하고 맛있는 아구찜을 제공하는 명동아꾸찜입니다.  명동역 1번 출구에서 도보 2분 거리에 있습니다",
+        "description": "안녕하세요 남산맛집 명동맛집 푸짐하고 맛있는 아구찜을 제공하는 명동아꾸찜입니다.  명동역 1번 출구에서 도보 2분 거리에 있습니다",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20240622_60/1719029384024gxKE4_JPEG/Screenshot_2024-06-22_at_12.42.33.JPG",
+          "https://naverbooking-phinf.pstatic.net/20231215_68/1702638419067ShzBr_JPEG/Screenshot_20221213_150536_Messages.jpg",
+          "https://ldb-phinf.pstatic.net/20240622_278/1719029384059UxUlu_JPEG/Screenshot_2024-06-22_at_12.44.49.JPG"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221633",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "1372461658",
+            "bodySummary": "남편맨 회식후기로 해물누룽지탕도 인기가 많았대요 ✨ 주문한 메뉴 명동아구찜 소 40,000 맥주 5,000 볶음밥 3,000*2 #명동맛집 #회현맛집 #회현역맛집 #남대문맛집 #명",
+            "url": "https://m.blog.naver.com/rmsahd/223350297464",
+            "nick": "순몽",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTAxMjRfMTAy/MDAxNTQ4MzM1OTIxOTQx.BkE8m-AWG0tGTEm5vtNfijfWC6xjuW9ArtsXL0pAzHsg.HsV9A4gvmanU-6CqZKi9_GxvRT56na8WgK6JqV24ma4g.JPEG.rmsahd/profileImage.jpg"
+          },
+          {
+            "sid": "1372461658",
+            "bodySummary": "자질구레한거 1도 없다. 우리는 해물누룽지탕 2인을 시켰다. 난 맵찔이라 아구찜 먹으면 입에 불나요. 친구가 점심때 회사 동료와 여기에서 해물누룽지탕을 자주 먹었는데 너무 좋았다고",
+            "url": "https://m.blog.naver.com/breadand_/223158730388",
+            "nick": "먼지",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA2MjNfMTI1/MDAxNjU1OTYxNzUyNDcx.Pf8MRbuVpRjkFJCWWjTsNsmMclDhvRqNRkAeK9ho9B0g.LyVBdhlXJOmqKy44MYUGDaz692Rvheky96X6Ao7KutIg.JPEG.lawbread/profileImage.jpg"
+          },
+          {
+            "sid": "1372461658",
+            "bodySummary": "안녕하세유 봉순입니다 전시회보다가 친구가 아구찜을 먹고싶다해서 찾은 맛집 친구랑 아구찜은 처음인지라,, 매우 인상깊었던 날 #명동아구찜 명동아구찜 서울 중구 퇴계로24길 13-8 ",
+            "url": "https://m.blog.naver.com/kimna721/223143568214",
+            "nick": "봉순",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA3MzBfMjc3/MDAxNjU5MTkwODM1NDgy.r27JUJ-HM1_nsemkYW7v9Kx3lInQD4qX9Z2FpQy3NMkg.lyULy8A7AvHW7mvw_i9YFZBhBdMjhk7TEnAzVfJ7S78g.PNG.kimna721/profileImage.png"
+          },
+          {
+            "sid": "1372461658",
+            "bodySummary": "어린이보호구역에 자리하고 있음. 뭔가 머릿속에 쉬이 생각나는 아구찜집과는 외관 분위기부터 좀 달랐다. -뭔가 되게 모던하다랄까. 나는 아구찜은 먹지 않지만, 해물은 좋아하지. 누룽",
+            "url": "https://m.blog.naver.com/domin_ique/223084739679",
+            "nick": "호이호이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAzMjNfMTYx/MDAxNjQ4MDAyNjg4MzA5.rSrxzDsqtgdgJSvVMLXFsVkBzC0kf0ariYAUTgfUG_Ig.CtlahUNzy7Ge6ZSSvaVeKu3mf9z1DJnsVmFaMIdc7lcg.JPEG.kmin8300/KakaoTalk_20200415_180605026_11.jpg/KakaoTalk_20200415_180605026_11.jpg"
+          },
+          {
+            "sid": "1372461658",
+            "bodySummary": "점심시간에 회사 형님 추천으로 같이 간 #누룽지탕 #누룽지탕맛집 #명동맛집 #명동아구찜 점심시간에 사람이 엄청 많아서 15분정도 대기함 (입구) 종업원분이 외국분이라 커뮤니케이션이",
+            "url": "https://m.blog.naver.com/kyuncherin/223073815921",
+            "nick": "큔슐랭",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjEwMTVfMTYz/MDAxNjY1ODQwOTMxNjA2.S5YtD4Mmmv9b4kRRUExz2gWsMI26e4IvgK6n5RDvnqsg.Oo-OWgNEHQf9AzI9gKCKMZutmobUxOztS1QeXWN28K0g.PNG.rivaldoda/profile_438a_42d3_1665840928128.png"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "id": "65140851",
+        "name": "케이코쇼텐",
+        "x": "126.9872562",
+        "y": "37.560391",
+        "distance": 0.045,
+        "categoryName": "일식",
+        "categoryPath": [
+          [
+            "220036",
+            "220038",
+            "220090",
+            "220856"
+          ]
+        ],
+        "category": [
+          "일식",
+          "카레"
+        ],
+        "reviewCount": 712,
+        "averagePrice": 11000,
+        "address": "서울특별시 중구 남산동3가 18-1",
+        "roadAddress": "서울특별시 중구 퇴계로24길 12-1",
+        "abbrAddress": "남산동3가 18-1",
+        "shortAddress": [
+          "서울 중구",
+          "퇴계로24길 12-1"
+        ],
+        "displayContext": [],
+        "labelTheme": "일식",
+        "microReviews": [
+          "스마일 카레의 행복한 맛"
+        ],
+        "cardDescription": "스마일 카레의 행복한 맛",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MzBfMjc5/MDAxNzUzODQ1ODMzNjgx.j4HRaHJKj9iHvVIsgnL6wXGQsS32hN1yb5G4-3y5UFQg.4-2_QQMYPnd4EPhLfmirkTEWgPjchiqVexB7QNNUpMAg.JPEG/79791CC8-598C-4D0C-96D1-1F70F2E4AD5B.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjhfMjYw/MDAxNzU2MzcyMjUxOTIx.5GgBH7eJLFXJNRQYWjADaBDg9LNHc-T9BpqS7Ke5Dlsg.AY7z5xiNBV9TBwuSJnyhTBWbkcGrkL07aj1OnOvurYQg.JPEG/9DF16AAB-8C11-47FB-905C-2BCF84C6FAAA.jpeg",
+          "https://ldb-phinf.pstatic.net/20250905_144/1757074238851QFxqg_JPEG/IMG_7165.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDlfMTEy/MDAxNzUyMDM5ODIyMjMw.Y_TKcvU8SXCFw1DHj6sBWddk7sTr07dPqpjPNQyW8Rgg.eOWnrjNk_CSae4WbajYStLoWaz5ROHda6mhcETy2jEQg.JPEG/0891EC3A-1F1C-4DFB-A75E-FAF5DA75E550.jpeg",
+          "https://ldb-phinf.pstatic.net/20231121_207/1700571430169zCwrp_JPEG/IMG_8531.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjZfMTAz/MDAxNzU4ODU1MDY5Njg4.BLGxq4US663jK6IlYMoLH2TtW-gTXXsTWhZG71qud_Ig.LLTX-qhDeuvDq2avyHqs1Fr_5TW93JuWWm_wLPivdIgg.JPEG/C6533766-5B9F-405F-B538-666A8B0B7049.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTFfMjY4/MDAxNzU3NTc4ODYyNzc3.OqSxJ2ttglnccAgmn22-pnL5dTdibMPFydFvY1GNICIg.iBNzahRBRJafyK_R-C78oqkkbL5YwUd3f9CbMu2XJs8g.JPEG/IMG_0796.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTJfMjc2/MDAxNzQ5NzA0MDkwNDc4.wjKdTF6cvv9fvvJWGyJEj7MIGtNiaJjchlVXEQbptEwg.UoRSx4iJhJcPV7kFSr7w5x8inI0CvnJyiJZCFTpukbwg.JPEG/20250612_122941.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDFfMjY3/MDAxNzUxMzM5Mjk4NTMz.xx6ZDsC1K4aPAjPBTZfJt3XywpVD2mlpn5BsrZRghGIg.bogX6G5HmgPeGV767-NHBJMGgAwYAWdVln5jPDQfBR0g.JPEG/1000019023.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjdfMTE4/MDAxNzU4OTY0NDU3OTE2.j7PtaGDvcZkbEl1t_ZpnEHRtjPkvrvXlW4J5od7HHV0g.ZdHwystHMNmeGEF67FbhQqYYTakpA1WoqhVpTXQNQpYg.JPEG/C6376E0B-F96C-4CED-BCA6-B50D7C739CEB.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220856",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.42",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "65140851",
+            "bodySummary": "[명동/을지로 카페] 케이코쇼텐 부부가 운영하는 명동 빈티지 카페 케 이 코 쇼 텐 , 이곳에 오면 마치 동화책에 나오는 유럽 상점에 온듯한 기분이다. 참고로 케이코는 사장님 부부",
+            "url": "https://m.blog.naver.com/sun8a/222587648356",
+            "nick": "리틀트래블러",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTEyMDNfMjMg/MDAxNjM4NTQzMzAyODQ2.LfO8fcbsbG8BeMdr56v6iNMRsps4Hbnio1XjYU6AvGcg.PokRk9fhK_ppGpQG4ttBrrrp3LkyO44xTAb5-lRAZ5Yg.PNG.sun8a/profileImage.png"
+          },
+          {
+            "sid": "65140851",
+            "bodySummary": "어느 불금, 이대론 집에 가기 아쉬워서 어디갈지 고민하다가 명동 ㄱ 2호선, 4호선이 나눠져잇는 사당 편하게 4호선 타고 도착 케이코쇼텐 가게 느낌 진짜 열라 힙하고 빈티지스럽다 ",
+            "url": "https://m.blog.naver.com/jhbwwg1122/222447047064",
+            "nick": "혭삐",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20220830_282/jhbwwg1122_1661848699726OiHfn_JPEG/image.jpg"
+          },
+          {
+            "sid": "65140851",
+            "bodySummary": "케이코쇼텐 #명동카페 여기에요? 맞아요? ㅋㅋㅋ 서울시민 리더에게 재차확인ㅋ 빈티지한매력이 건물을 뚫고 나옵니다. 아 이곳의 시그니처메뉴는 바로 스마일이 그려진 카레라이스랍니다, ",
+            "url": "https://m.blog.naver.com/sudalsasun/222231862815",
+            "nick": "워킹맘 김과장",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20220525_17/sudalsasun_1653454549421coh98_JPEG/profileImage.jpg"
+          },
+          {
+            "sid": "65140851",
+            "bodySummary": "엄청 큰 야자수 어떻게 저렇게 키우셨죠.. 부럽... 의자도 포스터도 다 너무 예쁩니다 이런거 다 어디서 구하셨어요 공작새?모양의 냅킨도 너무 예쁨 예쁜 잔에 내어주신 커피. 오래",
+            "url": "https://m.blog.naver.com/nhk0303/221920691915",
+            "nick": "로히",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA0MDJfMTQ0/MDAxNjQ4ODM0Njc2NzQz.pziAp2WqFVY98fBXBB-LDS3tp2m90sOYc4Wf2VnQ__sg.Sel47B3O9ylr1ot2MqGfZmFFGEd_AhWzrzu5Y1FjfoAg.PNG.nhk0303/profileImage.png"
+          },
+          {
+            "sid": "65140851",
+            "bodySummary": "따라서 음료는 2층에서 마셔야 한다. 음료 뿐만 아니라 식사도 가능 한 곳이다. 빈티지 카페이기때문에 소품을 구경하는 재미도 쏠쏠하다. 하이틴영화나 다양한 외국영화에서 볼 수 있을",
+            "url": "https://m.blog.naver.com/1xxoo/221849598999",
+            "nick": "또로눈나",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDAxMjFfNDgg/MDAxNTc5NTg0MzY5NjUx.LSzDDAWi581Lj3pe7-URbTy50sSZch4mJiwt94cM1FEg.a7v-MNPZ_OX1wEIWNEPVGQYfwZcWaqc-tIgXBcxXsGQg.PNG.1xxoo/profileImage.png"
+          }
+        ]
+      }
+    ]
+  }
+}

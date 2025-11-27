@@ -1,0 +1,93 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 1,
+      "count": 1,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.97118055765756,
+          "minY": 37.57460810810811,
+          "maxX": 126.9723171313813,
+          "maxY": 37.57550900900901
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.97174884451942;37.57505855855856",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "598292543",
+        "name": "서경북카페",
+        "x": "126.9720385",
+        "y": "37.5749118",
+        "distance": 0.03,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221212"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 594,
+        "averagePrice": 0,
+        "address": "서울특별시 종로구 내자동 201-11 서울지방경찰청",
+        "roadAddress": "서울특별시 종로구 사직로8길 31",
+        "abbrAddress": "내자동 201-11 서울지방경찰청",
+        "shortAddress": [
+          "서울 종로구",
+          "사직로8길 31"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 종로구 내자동 201-11 서울지방경찰청",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTNfMjI4/MDAxNzU1MDQ0MzM3MDM3.e2Z-VYXoARf_4GVVx-76h-0o08OySTok3Yig6ywBeeEg.-G1a8odzaTjh--A0hIguQVLlxC1iB2_JZlMWp23JRe0g.JPEG/1000049254.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjhfMTA2/MDAxNzUzNjYxNjg0MjM2.vKnGNZryTquJf9zQ406RsymrH_x9DskHg0O0pGLVwkwg.GlPBVylSGiUMSXtPP-yc7SFAKlF4r7vUGD_QIoAtMiQg.JPEG/1000048518.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDRfMTEw/MDAxNzUxNjAyMDc2NDUx.giMI9wcA-HaL9D0qWOp6aZUn2ib0oxqnpVNx4x7xPgIg.iIoNMbqj5udSP4495wysWb9YYOkIjRQDkXOwfu5JZLog.JPEG/20250703_102246.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MDlfMjA1/MDAxNzQ0MTc5ODg5NTMz.f5xYJzV8YYGS2Bc1g8m64Gq2p4znbVmYLv8GeI26kA4g.acQ50-IMkqdwxvn50QSwl8yoXil6QeU9bzCYRGwfYiIg.JPEG/20250409_152325.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221212",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

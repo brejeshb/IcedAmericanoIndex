@@ -1,0 +1,524 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 6,
+      "count": 6,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.97345370510504,
+          "minY": 37.559292792792796,
+          "maxX": 126.97459027882879,
+          "maxY": 37.5601936936937
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.97402199196691;37.55974324324325",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "13432245",
+        "name": "리나스 숭례문점",
+        "x": "126.9740713",
+        "y": "37.5596228",
+        "distance": 0.014,
+        "categoryName": "샌드위치",
+        "categoryPath": [
+          [
+            "220036",
+            "220044",
+            "220137",
+            "231021"
+          ]
+        ],
+        "category": [
+          "양식",
+          "샌드위치"
+        ],
+        "reviewCount": 1164,
+        "averagePrice": 10000,
+        "address": "서울특별시 중구 봉래동1가 4-2 우남빌딩 1층",
+        "roadAddress": "서울특별시 중구 칠패로 46",
+        "abbrAddress": "봉래동1가 4-2 우남빌딩 1층",
+        "shortAddress": [
+          "서울 중구",
+          "칠패로 46"
+        ],
+        "displayContext": [
+          "샌드위치",
+          "치킨"
+        ],
+        "labelTheme": "양식",
+        "microReviews": [],
+        "cardDescription": "리나스 숭례문점입니다. 네이버 스마트주문에서 간편하게 주문하세요!",
+        "description": "리나스 숭례문점입니다. 네이버 스마트주문에서 간편하게 주문하세요!",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDVfMTE3/MDAxNzU3MDQ0MjY2Mjg3.FA7S0i61sNq95Qh20BkU_DbtaVOE6lXVQ5P3QcQF3G4g.i-b11N-C2X-rmu6xbAXJJJSIasPreCL72bBzR_HwCkog.JPEG/1000073871.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTJfMjk5/MDAxNzU0OTY5MTAyODM1.Iirp795jNBJlEgQZl_IOqE0oC3QlOpMtIImuXRkHguog.8LDdPVFJmHK5_JreT65zqD8kfYZT3rWPV5lPfKwEKlQg.JPEG/20250812_114042.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20221013_19/16656449930280I0IT_JPEG/CD9472D1-BF73-4EEB-AEA0-052021A6286B.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MDNfMTEy/MDAxNzQzNjUxMDM0Mjk3.PCaDmiTAb2a4piIiTDCGc9flg7rSqmPKPt6RCgmD0U0g.ys6TeP1wtjt5dQAYrZ_eodDlOho7zCBRqf5qNJWvvMcg.JPEG/A9FFE12A-ABFB-4172-858B-2011A09E0803.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTVfMTQ1/MDAxNzU1MjQxODA2OTQw.1ywDUCaHWCzEuMhhYP-CAq6Oei85mWLN5sJ8HZrKWe0g.1jE1zNX5TXQ297pGyhLGAJkgojY5CI6ljEYrKdOX7XMg.JPEG/7C195EA1-24CA-44C2-8580-1B4A4AFC7DD5.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTJfMjQ3/MDAxNzU0OTkxNzAwNzMx.ntE1hFl0VjyrXg8ZVdmwUKxZPibEkmX6JiUcVaeUiq4g.UMIQl_E_vkv9FYSFtMzMaNgVoOmUju3uB-m7fItB_Bgg.JPEG/6119466D-A15C-40D7-B355-FBDCC885B172.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjVfMjQx/MDAxNzU4Nzk5MTI4OTc0.6WrdJ4DeWznqytOtibpJpB3G0AsxYTOi_5_X6xWuV2Ig.IXzU-hWG_ZpMifobJGo_n_-u3_8S9-H7bmzwT449FLUg.JPEG/A02A9091-A701-4B52-B34A-67F5A30BEEF5.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjZfMjk4/MDAxNzYxNDc5NDkzNzI3.rZqV_In_k_zswSMe96k7Hgc5Kts4NZibiJGkbKbqytwg.7HfdmsO5xP-qE_ajEz3o53KkImSKOKnwvZItk2eQvRAg.JPEG/1000142712.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjFfMTU0/MDAxNzU4NDI0NjkxODc1._br2MRqolVFeLSiyBriFUIfZQJV8s6TB3heTqDtmNWog.N8CZFaW3pvJVf5ZEuYvwgAY4C0BCEizxehRcAh2dz1sg.JPEG/2271AEF4-9D2B-4110-B682-FA084727190F.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTVfMjY4/MDAxNzUyNTU0MTc0MzAw.pB837HDqqNY-DrWsLyfhtHzmX4wHZquwRme1I12POXMg.Rnqnen34K4ZXJun7Wmu2Mui2b4PD3ijjIAca3zV1REIg.JPEG/20250715_133438.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "231021",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "13432245",
+            "bodySummary": "직장인의 대표메뉴인 만큼 평일에만 오픈 영업시간 7:00-20:00 늦은 저녁에 먹을 수 없어서 조금 슬퍼요 샌드위치 메뉴는 에그베이컨/클럽/치킨 아몬드 까망베르 파스트라미 파니니",
+            "url": "https://m.blog.naver.com/lepake/223327158594",
+            "nick": "레파케",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA4MDJfMTQz/MDAxNjU5NDQ3MDc1NjE5.JUGSu4-VDMGpXecxOxpK66xqS_JTuUPa9_9N1xOg8DEg.LBTvoT5NsOClwpaR3efnV8Fxao0ZTO4KX_FdWykG0oYg.PNG.sue9240/profileImage.png"
+          },
+          {
+            "sid": "13432245",
+            "bodySummary": "리나스 숭례문점 깔끔한 샌드위치가 먹고 싶을 때 운영시간 월 ~ 금 : 오전 7시 ~ 오후 8시 매주 주말 휴무!! 직장인들이 많이 다니는 곳이라 그런지 평일에만 영업하네요. 전부",
+            "url": "https://m.blog.naver.com/ohkim2928/223288520642",
+            "nick": "고프니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMDlfMjU5/MDAxNzA0ODA4MTY4OTA3.PhkyRF06I6I8NjWRvIss_c3P2g1bVbOgsztEPBPH0nog.D-R4N3HzjQGotVbJJFY3r2hUy4GABPAQpzb3_d4QBD0g.JPEG.ohkim2928/profileImage.jpg"
+          },
+          {
+            "sid": "13432245",
+            "bodySummary": "상공회의소, 남대문 쪽에 출장, 근무하시는 분들 점심으로 좋은 선택이 될 것 같아요!ㅎ리나스 숭례문 점 위치: 상공회의소 맞은편 숭례문 5거리?에 있다. 영업시간: 아침 7시 ~ ",
+            "url": "https://m.blog.naver.com/lgh_loveis/223217256450",
+            "nick": "HisVision",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20110612_115/lgh_loveis_1307813254112_k1UQoc_JPG/IMG_0575.JPG"
+          },
+          {
+            "sid": "13432245",
+            "bodySummary": "안녕하세요 오늘은 저희가 점심으로도, 간식으로도 자주 먹는 리나스 샌드위치를 소개해드릴게요 저희는 리사스 숭례문점을 이용합니다. 회사 바로 옆 건물! * 영업시간 월-토 07:00",
+            "url": "https://m.blog.naver.com/kimsoooo508/223214199732",
+            "nick": "수영",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA1MzBfMjcw/MDAxNjg1NDQ1NzU4Nzc4.AC9f8EBLkaiw07cklHRAxO0HXPyIqfDMTHeIwbKOduMg.LTQskqbiUndid4d5T6C8V2a57R63PUZMojO4J6CuOQkg.PNG.kimsoooo508/profileImage.png"
+          },
+          {
+            "sid": "13432245",
+            "bodySummary": "리나스 샌드위치 숭례문점 주말 휴무 07:00 ~ 20:00 서울역 샌드위치 전문점 리나스 숭례문점은 숭례문 바로 옆에 있어요! 건강해 보이는 외관?을 가진 리나스! 리나스에는 샌",
+            "url": "https://m.blog.naver.com/slmty/223146998627",
+            "nick": "뜨링",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA1MThfMTIx/MDAxNjUyODMyMTY2Njkz.vuU-VzN0o2KBfRs3qz0R8Kb7UbO9HmIN63CetJF64bog.HyXX2mm6lwMiR9raICg9MT-ictlNQH6-Dio3cf9RQUkg.PNG.slmty/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "id": "1976043724",
+        "name": "아침햇참",
+        "x": "126.973625",
+        "y": "37.5593029",
+        "distance": 0.06,
+        "categoryName": "종합분식",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220185"
+          ]
+        ],
+        "category": [
+          "분식",
+          "종합분식"
+        ],
+        "reviewCount": 17,
+        "averagePrice": 0,
+        "address": "서울특별시 중구 봉래동1가 5-36",
+        "roadAddress": "서울특별시 중구 칠패로 42",
+        "abbrAddress": "봉래동1가 5-36",
+        "shortAddress": [
+          "서울 중구",
+          "칠패로 42"
+        ],
+        "displayContext": [],
+        "labelTheme": "분식",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 봉래동1가 5-36",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDJfMTk3/MDAxNzUxNDQ5NzAzMzU4.MUVM2vT69lDcXJNduWJXsm_5FQenPrwE81q0LJSQrBAg.uBBaog_qIBIe1pSWF8S_73pBNR7yzip4HPyuFPl0CoMg.JPEG/20250619_114450.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDhfMjMz/MDAxNzU3MzIxNTA1NDQ1.zq8FOGmxcjyLSh1lvGts_xx0SezCSr_WpJGcdT-8NjEg.g9w62ju6rvK0oB4nFOYXLh4WOIaQ3s4UJjE1Pvd6Zz4g.JPEG/20250818_122933.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220185",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 3,
+        "id": "1310283593",
+        "name": "나주곰탕 남대문점",
+        "x": "126.9735442",
+        "y": "37.5595033",
+        "distance": 0.05,
+        "categoryName": "곰탕,설렁탕",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220069",
+            "220696"
+          ]
+        ],
+        "category": [
+          "한식",
+          "곰탕,설렁탕"
+        ],
+        "reviewCount": 310,
+        "averagePrice": 20000,
+        "address": "서울특별시 중구 봉래동1가 5-36 우리빌딩 1층",
+        "roadAddress": "서울특별시 중구 칠패로 42",
+        "abbrAddress": "봉래동1가 5-36 우리빌딩 1층",
+        "shortAddress": [
+          "서울 중구",
+          "칠패로 42"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 봉래동1가 5-36 우리빌딩 1층",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MThfMTkw/MDAxNzU1NDg4NTI1ODMz.8nHCHa_j7VHprtLvW0mG3mjAqXL4x1aFFy5Jpz2hZlAg.TTRDR_fq4GgjzRguKnYCwyPD2joI5SkiXYPeWzurWvwg.JPEG/20250818_115330.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20230216_207/16765405612794QTiC_JPEG/936386C3-801E-478A-8342-35B7644E3101.jpeg",
+          "https://ldb-phinf.pstatic.net/20210917_193/1631865137674Jzslf_JPEG/vNW5iXfP2hx3FPXV4cz87geQ.jpeg.jpg",
+          "https://ldb-phinf.pstatic.net/20210917_156/1631865143471N720w_JPEG/-pCP6hj-72nrSipceoHvlBSP.jpeg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220696",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1310283593",
+            "bodySummary": "사장님~!!!! #김영자나주곰탕 #남대문점 히히 여긴 11시 50분? 정도부터 사람이 북적여지니 그 전에 오세용 이 날도 55분 정도 되니 사진 속 자리들이 다 차더라구요! #메뉴",
+            "url": "https://m.blog.naver.com/dailycollect/223278174078",
+            "nick": "일상수집가",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA5MDhfMTQ0/MDAxNjk0MTgyOTI2MTYz.SXzcVKGLJ2DTj-mC0r8aYGVvp2AsYu74cJFK308awZ4g.zhFJn2GZ704QHySAnxqQfOgwr8Q84agFRD0gYS_9oUkg.JPEG.dailycollect/profileImage.jpg"
+          },
+          {
+            "sid": "1310283593",
+            "bodySummary": "김영자 나주곰탕 남대문에서 바로 길 건너면 있는 우리빌딩 1층에 있습니다. 저는 첫 방문인데 이미 많은 직장인들이 점심 식사를 하고 있었습니다. 식당 내부는 상당히 넓고 테이블도 ",
+            "url": "https://m.blog.naver.com/hjoooni/223120442479",
+            "nick": "럼뿌",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMzFfMTcg/MDAxNzA2NzA2MzI2NzM4.ks5uiV4CgFj6csH8elOpslidtQr8lSX7hTBTZQ9Pyhog.feDF1jqlL-HoCVzwX6WTFDsAgfoI8e9tjb3WXqKR91kg.JPEG.hjoooni/profileImage.jpg"
+          },
+          {
+            "sid": "1310283593",
+            "bodySummary": "상세 주소는 서울 중구 칠패로 42 우리빌딩 1층 요기예요! 회사 근처였는데 숨어있어서 그런지 여기 있는지 이번에 처음 알았어요! 주차 및 영업시간 건물자체에 주차장이 있어서 주차",
+            "url": "https://m.blog.naver.com/psk100004/223020286970",
+            "nick": "볼탱이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjExMjFfOCAg/MDAxNjY5MDMxMjM3Njg5.OeuvRtEMcU8NVngFXgVeIR7iij89TbdRjElVoKJaXeIg.b322zEpb0XyMDLdxzBG871p9xUyyDOWUA_793XtcdOog.JPEG.pmi8088/profileImage.jpg"
+          },
+          {
+            "sid": "1310283593",
+            "bodySummary": "그런데 오늘은 나주곰탕만두국으로 시켜봅니다 만두5알 들었네요 배불렀어요 소올직히 다음엔 일반 나주곰탕으로 먹으려고요 아시죠 노량진댁 고기파인거 만두만 들고 고기없어서 서운 어쩜이렇",
+            "url": "https://m.blog.naver.com/lljj0926/223003724748",
+            "nick": "노량진댁",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA2MTBfMTE3/MDAxNjU0ODQ0OTk0MDky.UXbr2hRywU9NaNBnxypoKuqMexiHgFeDUFfBZpjz-lUg.zTCwVp5y3EehmarpbH0bzklUklAMgzLDzbqLbz8KXpYg.JPEG.lljj0926/KakaoTalk_20220526_150648601.jpg/KakaoTalk_20220526_150648601.jpg"
+          },
+          {
+            "sid": "1310283593",
+            "bodySummary": "#시청역맛집 #시청역 #시청역점심 #시청역저녁 #시청역혼밥 #시청역곰탕 #김영자원조나주곰탕 #시청역김영자원조나주곰탕 오늘도 1일 1포스팅하는 나 칭찬해~~ 일해야하지만 뭐 그건 제",
+            "url": "https://m.blog.naver.com/haunmin94/222526097208",
+            "nick": "콩민",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA2MTZfOTEg/MDAxNjU1MzkwMjcyNTU0.tNxoNYzYnZHNSu4A2f4qYMt2W2cWy25uMTqd8mopz98g.tJ19nv1v7EjQXFZYC9bdUsz-WuXAaxVngqH8_VF-1z0g.JPEG.haunmin94/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "id": "18026006",
+        "name": "동경",
+        "x": "126.9739203",
+        "y": "37.5596257",
+        "distance": 0.016,
+        "categoryName": "일식",
+        "categoryPath": [
+          [
+            "220036",
+            "220038",
+            "220081",
+            "220804"
+          ]
+        ],
+        "category": [
+          "일식",
+          "일식당"
+        ],
+        "reviewCount": 136,
+        "averagePrice": 30000,
+        "address": "서울특별시 중구 봉래동1가 4-2",
+        "roadAddress": "서울특별시 중구 칠패로 46",
+        "abbrAddress": "봉래동1가 4-2",
+        "shortAddress": [
+          "서울 중구",
+          "칠패로 46"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 봉래동1가 4-2",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjBfMjg4/MDAxNzU4MzczMTE3OTQy.xPklNvQ16hNaBpeR8WcyMbBtVyb31YltyAZSZu-fM30g.qAFGPIR52X3W2XS8_LQTIAOwmp7TDXXdUU3RsJozT5Yg.JPEG/Screenshot_20250920_215637_Samsung_Internet.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20190530_222/1559204095274egxmc_JPEG/UUxSxqLNU6vsp5mulQmyfHjz.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220804",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "18026006",
+            "bodySummary": "서울 광화문 동경우동전문점 올해1월1일 서울투어버스 중 광화문에서 내려서 잠깐 점심 먹었던 동경우동전문점 웨이팅이 살짝 있지만! 회전율이 좋아서 금방 자리에 앉았어요 ^^ 뜨끈한 ",
+            "url": "https://m.blog.naver.com/cconstance/223285768760",
+            "nick": "달코미",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTA1MTFfMTY2/MDAxNTU3NTM2MzAyMTg0.PS8YJU98-OiDhUoPDs57ssXO1Og3vQZOzC4FGEiO2hUg.o_u1BeOW51QddjDRMiDuDhaXHzV3N1GZFtDGDEc5TBwg.PNG.cconstance/profileImage.png"
+          },
+          {
+            "sid": "18026006",
+            "bodySummary": "동경 광화문점 070-7812-6521 서울 종로구 새문안로5길 31 광화문역 1번 출구에서 118m 매장이 꽤 크지만 전혀 부담스럽지 않아서 광화문역 혼밥하기 좋은 식당 찾아도 ",
+            "url": "https://m.blog.naver.com/be_creative4/222711265678",
+            "nick": "리글리",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA3MTNfMTQ0/MDAxNjg5MTc5MDM2NTg3.G1jMIw9k9yXMC1fuHIBhdGhrVKnnUmRLNu-OhoD8IpAg.PBEUjkaDCYtVf3OtlZwpj1MdT1Kax_PuzwJDt28mTwog.PNG.be_creative4/profileImage.png"
+          },
+          {
+            "sid": "18026006",
+            "bodySummary": "피치못하게 만나려면 방이 있는 곳을 찾는다. 서울역 대한상공회의소 맞은편 지하에 일식 동경이 있다. 꼭 만나야 할 분이라 여기서 만났다. 내부에 방이 많다. 프라이빗하게 만날 수 ",
+            "url": "https://m.blog.naver.com/wizardkci/222536951321",
+            "nick": "슈퍼맨",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20210217_145/wizardkci_1613491643987NDmRg_JPEG/Mars.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "id": "1269886684",
+        "name": "커피엔",
+        "x": "126.9735861",
+        "y": "37.5594488",
+        "distance": 0.051,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 422,
+        "averagePrice": 3000,
+        "address": "서울특별시 중구 봉래동1가 5-36 우리빌딩 1층",
+        "roadAddress": "서울특별시 중구 칠패로 42",
+        "abbrAddress": "봉래동1가 5-36 우리빌딩 1층",
+        "shortAddress": [
+          "서울 중구",
+          "칠패로 42"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 봉래동1가 5-36 우리빌딩 1층",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 6,
+        "id": "1617920207",
+        "name": "써니즉석떡볶이 숭례문점",
+        "x": "126.9740911",
+        "y": "37.5593008",
+        "distance": 0.05,
+        "categoryName": "떡볶이",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220187"
+          ]
+        ],
+        "category": [
+          "분식",
+          "떡볶이"
+        ],
+        "reviewCount": 490,
+        "averagePrice": 5000,
+        "address": "서울특별시 중구 봉래동1가 104-1",
+        "roadAddress": "서울특별시 중구 세종대로 27",
+        "abbrAddress": "봉래동1가 104-1",
+        "shortAddress": [
+          "서울 중구",
+          "세종대로 27"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 봉래동1가 104-1",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTVfMjIz/MDAxNzU1MjU2Mjk4NzM3.9b0sHhZz4LQQ82KoMYJQBsCL55iUiv6oKinTk6QCnJ4g._RoIOmRwfl0pBCw9FPrQGQtrkClKpGa1Qbw-T8VOWnAg.JPEG/20250812_184813.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjNfMTg0/MDAxNzUzMjM3NjY5Nzg4.hDAGyUiHNWn0ZQA35VarMe5JfmraOkqnHB4pKD-briYg.sQH3VWkmWrdT2AoFCBRRCT0oeIPa6-_P6vJBZm0srEAg.JPEG/IMG_4262.jpeg",
+          "https://ldb-phinf.pstatic.net/20190131_171/1548926885711yr4hm_JPEG/89O7m6E4il9l8dooKj_ODz6q.jpeg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MzFfMjkg/MDAxNzUzOTEyMjk4ODgx._E2JLSaBbDvmUnviLE71HdMGhcRxZUODftmGSAxhbh4g.zxdrx2PC7aoKHR9ne45Ztrp4HoFKsyX2erqQh1o6B8og.JPEG/1000019666.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20200608_248/1591603309748UkOYi_JPEG/bgeuBj1gB8cYCTNglq3gA-lh.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjZfMjAz/MDAxNzUwOTA2NjkxNzIx.wj8pIB4GqlFMuJtItL0gmkQOayd5D_aMl5Kd53RYnlsg.fISE-W_4DL9JfBWGCw0okQyd1IXic77AvpTHhw3al7Ag.JPEG/20250626_115539.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20200608_204/15916033230094LHpx_JPEG/_E6yidYhaa0GfAWemU_eos71.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDZfNjcg/MDAxNzU0NDYyNDA4MTU4.eeFx2PKiN7V_sxxdYyAHfEF3Bn0l5jn1dwf6Hb8RtBAg.0LguiwXaVgArPrq6mQKu4I9AvmPNvV35aHairQp8nJ8g.JPEG/01E94890-9D3B-4D9C-B128-499094FB9742.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220187",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1617920207",
+            "bodySummary": "서울역 맛집 '써니즉석떡볶이 숭례문점' 서울역 3번 출구에서 5분 정도 걸으면, '써니즉석떡볶이 숭례문점'이 나온다. 회사에서 스트레스 많이 받는 날이면, 보글보글 즉석 떡볶이가 ",
+            "url": "https://m.blog.naver.com/review_christina/223349783049",
+            "nick": "래빗덕",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA3MjJfMTcx/MDAxNjkwMDM3NTQ0Nzg2.sLa2XcD7TAhHQTP6Y68ocRM2oAsiIh04ykh5gbUmm_8g.0BOW-nHT64uzw_7rWLWk291jJ0nsJTKOLm-7ediu7k4g.PNG.gmldus3018/%25EB%258B%25A4%25EC%259A%25B4%25EB%25A1%259C%25EB%2593%259C.png/%25EB%258B%25A4%25EC%259A%25B4%25EB%25A1%259C%25EB%2593%259C.png"
+          },
+          {
+            "sid": "1617920207",
+            "bodySummary": "집가서 필요 서류 당장 보내야지! 메뉴 4명이서 가서 A세트로 2개 주문했다 ㅎㅎ 내부인테리어 안에 자리가 은근히 많은데 사람도 많아서 웨이팅이 있었다. 12시 30분정도 되면 이",
+            "url": "https://m.blog.naver.com/dogguthird/223273555650",
+            "nick": "덕구링",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjExMTlfMTcw/MDAxNjY4ODY1OTgyMTQ0.dcEjzwrCX6lrnGTi4Kj5DHSTX30mxQ7bVK6eKRM4C4sg.dDK-aeNwNyhLSeX67AefquXqbBuwhDgDtNgH5nF4uu0g.PNG.dogguthird/profileImage.png"
+          },
+          {
+            "sid": "1617920207",
+            "bodySummary": "• 오시는길 : 서울역 3번 출구 도보 10분 이내 • 영업시간 : 매일 10:00 ~ 21:00 - 네이버 안내에 당분간 저녁시간대는 영업을 안 한다고 하시니 확인 후 방문하시기",
+            "url": "https://m.blog.naver.com/dailycollect/223255069192",
+            "nick": "일상수집가",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA5MDhfMTQ0/MDAxNjk0MTgyOTI2MTYz.SXzcVKGLJ2DTj-mC0r8aYGVvp2AsYu74cJFK308awZ4g.zhFJn2GZ704QHySAnxqQfOgwr8Q84agFRD0gYS_9oUkg.JPEG.dailycollect/profileImage.jpg"
+          },
+          {
+            "sid": "1617920207",
+            "bodySummary": "서울역 3 번 출구에서 도보 6-7 분 걸으면 보이는 써니즉석떡볶이 숭례문점을 방문했던 후기를 써본다. 걸어가는길에 보았던 숭례문 하이~ 가게에 먼저 도착해서 들어가려 하는데 일행",
+            "url": "https://m.blog.naver.com/kelly920430/223197405832",
+            "nick": "찰떡0430",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA3MjRfMTM1/MDAxNjkwMTU0MzgxNTAx.9kEKZ7d1qViiNzdpf2sORJoV5Cbjey4eLJy7wIfPG3cg.TP9uuZhKohTI3HP1TMCZMuzAVKGmHiiGGhO6qauNyWwg.PNG.kelly920430/profileImage.png"
+          },
+          {
+            "sid": "1617920207",
+            "bodySummary": "위치 : 서울시 중구 세종대로 27 2층 시간 : 매일 10:00 - 21:00 번호 : 02-318-7228 기타 : 제로페이 가능, 건물 뒤 공영주차장 이용 남대문 근처에 자리",
+            "url": "https://m.blog.naver.com/minjilala_/223154834631",
+            "nick": "미토키",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMjhfMTc0/MDAxNzExNjI4MjY5OTQx.Q7bhbiccPe_0aCiSAgIFogQ_ll0aucCS1NEGlHAZK8Qg.wb8tRatIy8GVAMof1Ss51wtN5i7PbVtLO3xyAopXElgg.PNG/profileImage.png"
+          }
+        ]
+      }
+    ]
+  }
+}

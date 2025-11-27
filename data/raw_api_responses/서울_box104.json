@@ -1,0 +1,395 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 4,
+      "count": 4,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.97118055765756,
+          "minY": 37.561995495495495,
+          "maxX": 126.9723171313813,
+          "maxY": 37.5628963963964
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.97174884451942;37.562445945945946",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "2061220282",
+        "name": "육전국밥 서소문점",
+        "x": "126.9721899",
+        "y": "37.5628899",
+        "distance": 0.063,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220061",
+            "1005468"
+          ]
+        ],
+        "category": [
+          "한식",
+          "국밥"
+        ],
+        "reviewCount": 193,
+        "averagePrice": 10000,
+        "address": "서울특별시 중구 서소문동 57-9 1층 101호",
+        "roadAddress": "서울특별시 중구 서소문로 99",
+        "abbrAddress": "서소문동 57-9 1층 101호",
+        "shortAddress": [
+          "서울 중구",
+          "서소문로 99"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "육전국밥은 매일 매장에서 직접 끓여 신선하고 맛있으며 즉석에서 바로 부쳐내는 소고기육전과 특제 과일소스와 국산메밀을 사용한 육전막국수는 일품입니다.",
+        "description": "육전국밥은 매일 매장에서 직접 끓여 신선하고 맛있으며 즉석에서 바로 부쳐내는 소고기육전과 특제 과일소스와 국산메밀을 사용한 육전막국수는 일품입니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDlfMjIw/MDAxNzU3MzkyNjU2NDk0.ux-7lBfAAC7KLLABu26M7Lx39dUToRCtLu15gvMhpsgg.xDv00Zo4fO_ZdhGLF7qRYChop4K8cJzw2coSxiU1fL0g.JPEG/60719349-06E7-4214-A673-85A3D34BD9D2.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjJfMTU1/MDAxNzU4NTM1MDIxOTgz.LmE0c2QSlu2y7VU1beGa5YZCYLYPz1RQ0Vd3xrzQDXgg.WyO-cC7SfTN-YfvO83CT7y5VFa1otfxoYk4pVozbeG4g.JPEG/83867.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250527_142/1748310188262JYIDS_JPEG/1000018222.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDdfODcg/MDAxNzU5ODIyNzg3NDUy.QxOnjqtd3AMy9gDJL_FmnVstQJlxgF3Vs3DeTrJ2DuMg.OgIAltUn7NJMu8i3R3RoeBhDxBkJ6TcN3-m6Ekc0ZDAg.JPEG/20251007_163542.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjZfMjA4/MDAxNzU2MjAwNDUwMTQw.GKGC4fgaaGAYjvlgf4WcNQ57qr6D-2qeNer-QoxNQFgg.mOBN_AvjVbP9MtZEpA14pFY05mZgFdG6QOX3mjOYL_gg.JPEG/IMG_5775.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDFfMTcy/MDAxNzU0MDE3OTk3MDQ0.fAvpW3WJBdMuI3b14mF6RRyM8Rsa_h0LnWqBwojbTTUg.uPQpDqI1U6g8xc7vFQaKkNvTS8KK4GYq6nHx03sVAtcg.JPEG/20250801_121128.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjhfMTAx/MDAxNzUzNjcyMzQ0ODk2.NJDNoVGRHvhENMLGQfHo8uyYwUz56p3qUo3yOu--r7sg.8ruZaCdAibA2pHFeood54aWIFFobWMEX8Z2xjDkuqngg.JPEG/20250728_120543.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjJfMjk1/MDAxNzU1ODMxNjQ2OTQ5.GdDGc3hI018m4DwUs0-Sn-o6CksOnyLaoFGgUW463y8g.OskCsT-p4BHL-UfC9Zf47m9Yjtz6CLL_iQVSq-GUfNcg.JPEG/20250822_115950.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTdfMTk3/MDAxNzYwNjcwODMxNDY4.HdN7U5FOpLsncWEEIAvpnOTWOIcvFS_8bwstvf3eEbAg.zSVS2Qgmd0DpDK-p-ArW9lk6o_HNgmVaPXJ4xrsTLawg.JPEG/3C38DA45-FCBE-4AD3-A81C-080F18B5399C.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTNfMzEg/MDAxNzU3NzM3OTY4MTY2.ir5ghJ072g6fZzY54rvxc1h_ksSWUqdutqE23jLkxi0g.b_S_zF--ASAKXHjRETbFfjrp6kygHN__iSyCN1wgngQg.JPEG/20250913_132504.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1005468",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "1767244103",
+        "name": "해우리 서울시청점",
+        "x": "126.9719935",
+        "y": "37.5628584",
+        "distance": 0.051,
+        "categoryName": "한정식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220056",
+            "220603"
+          ]
+        ],
+        "category": [
+          "한식",
+          "한정식"
+        ],
+        "reviewCount": 629,
+        "averagePrice": 40000,
+        "address": "서울특별시 중구 서소문동 57-10 정안빌딩 지하1층",
+        "roadAddress": "서울특별시 중구 서소문로 95",
+        "abbrAddress": "서소문동 57-10 정안빌딩 지하1층",
+        "shortAddress": [
+          "서울 중구",
+          "서소문로 95"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [],
+        "cardDescription": "예약 시 메뉴를 미리 말씀해 주시면 더욱 신속한 준비 가능합니다^^  ※10인이상은 전화 예약 부탁드립니다.  남도 특유의 정갈한 반찬과 함께 고급 코스요리 형태의 해초를 이용해 생선회와 구 ",
+        "description": "예약 시 메뉴를 미리 말씀해 주시면 더욱 신속한 준비 가능합니다^^  ※10인이상은 전화 예약 부탁드립니다.  남도 특유의 정갈한 반찬과 함께 고급 코스요리 형태의 해초를 이용해 생선회와 구 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTVfMjE4/MDAxNzQ0Njk0MTkzOTM5.B4xsJZ-sR--3vYhBNfXIo4aETFK_xSIsz-eelSf_S7kg.VObVbUEFEv5vVyjYLQh2kuWheLLj6LyD2D4qzvy-E6gg.JPEG/20250414_125047.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTJfMTkg/MDAxNzU1MDAwMTY5NTUz.vxrTs__jvaSqqGLFRd1SlJXSKBMz28Qy7uGkMLt1Jvwg.f-Mwijk3CyK-AiBuP8Px8t2hy2EFZdHb9tT5Pl7LmyYg.JPEG/20250812_181414.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20210714_163/1626223911894c6Xbf_JPEG/wQ3P6p3BHSRccFbQ8ldJR1ov.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDhfMzEg/MDAxNzUxOTQ5ODY2MjI0.EbtJsat-jvh7Q6hFDcAD354_Z5pvdGFkFab1V7Li1kUg.pTT2LhwOQ7dIJCcRxQAa8FJycrS-4tuz-IyssoE747sg.JPEG/20250708_124339.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20210714_79/1626223933172rCHE7_JPEG/eyUSBx34JGspXN4yu-JneccE.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDFfMTU3/MDAxNzQ2MDcwNTE2Mzg0.nPt7Yip5zoQrgqDuR6VAlmwxEhgIlzoP4LePYencCSog.OS2pkcVHuSBqVjivsSprlvJ7HsrKj4ZWlSiDGKzz9hkg.JPEG/0FC9B2DF-CD8F-429E-AA07-D94398906A0F.jpeg",
+          "https://ldb-phinf.pstatic.net/20210714_235/1626223938308Afmdt_JPEG/uoyGYGhclU6KvQludJxa0zPk.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjJfMTk5/MDAxNzU4NDk3Nzk5NTU2.19X6CDK9FafpIsDLFeC7SRScY2fE2bgfFIFMPgaLiL4g.xFKz43tMyWsWA-mcFeE9kzm7Nv_H2bdvjQK4xeaMlR4g.JPEG/20250922_083338.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220603",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1767244103",
+            "bodySummary": "해우리 서울시청점 #보리굴비정석 #해초고등어한상 #묵은지고등어조림 #해우리시청점 #해우리점심 #해우리특정식 #해우리저녁한상 #해우리전복뚝배기 #해우리 #해우리시청점 #해우리주방장특",
+            "url": "https://m.blog.naver.com/itellyousomething/223194464549",
+            "nick": "뭐랄까",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjEyMjdfMjc5/MDAxNjcyMTI4ODgyOTU5.EnJrHRiE23I4YXPeBrjMBT-fDlXASGmLOG6-NaFWLA0g.5mhOy2fe9MTlYFpP_K6aEldwt8Tbur5J4OX3MRLyEwcg.JPEG.lpha7eta3luto1/woman-7599977__340.jpg/woman-7599977__340.jpg"
+          },
+          {
+            "sid": "1767244103",
+            "bodySummary": "참나물 해산물전채요리 초밥 해초쌈 한접시 깻잎 쌈장 와사비 까지 해우리 해초한쌈 건강상식 쇠미역은 고지혈증예방에 좋아요 톳은 빈혈예방 노화방지 요즘 필수템 노화방지 동맥경화 예방에",
+            "url": "https://m.blog.naver.com/daisy08/223191586323",
+            "nick": "까페라떼",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTAxMDFfMTY0/MDAxNTQ2Mjc3Njk0MjM5.ieKoZEL50byGskKegWSbpxCgNEpGEzLII-biXRu6adEg.g0CQ8DFV_3GO97IJ3naM2JjwX6qVhr3dj8ecBmY5fwUg.PNG.daisy08/profileImage.png"
+          },
+          {
+            "sid": "1767244103",
+            "bodySummary": "서울시청역에서 서소문쪽으로 올라가다 보면 있는 해우리 서울시청점 시청역 10번출구 나와서 직진하면 바로 나와요 덕수궁맛집으로도 입소문이 자자한 해우리에요 서울시청 룸식당 손님접대 ",
+            "url": "https://m.blog.naver.com/sultaboks/223188037193",
+            "nick": "술타복스",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAyMDJfMjcw/MDAxNjc1MzI2MTAxNDI2.GtKYhpmu5dIusGXTXH1YiiOZeUgBoSRIKLAV3oojkfIg.wzoFNcDE_G95Fh_NFTLW6wG-FDzoEMgTY06FrlPsaoAg.PNG.kkbhh/profileImage.png"
+          },
+          {
+            "sid": "1767244103",
+            "bodySummary": "해우리 서울시청점 덕수궁맛집 02-318-4977 평일 11:00-22:00 브레이크타임 14:30-17:00 주말 11:00-21:00 2호선 시청역 10번 출구에서 도보 5분 ",
+            "url": "https://m.blog.naver.com/mam0515/223182514889",
+            "nick": "고졀맨",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20110916_258/mam0515_1316170649270_YKHXCY_jpg/201102mexico.jpg"
+          },
+          {
+            "sid": "1767244103",
+            "bodySummary": "안녕하세요~ 저희 할무니,할부지가 서울로 나들이를 오셨답니다! 그래서 조용한 분위기와 합리적인 금액대의 식당을 찾고있었는데요! 서울 시청역 인근에 해우리를 소개해드릴게요:) 해우리",
+            "url": "https://m.blog.naver.com/dumpling_mandoo/223167527139",
+            "nick": "mandoovely",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA4MDlfMTU4/MDAxNjkxNTY5MDUyNjk0.bimzNOoG1bpsdmUZ-26Ceo4QJCc9f8w-Rd430b4HItwg.9H_VKzR0hjVsOn0R-MyyeyTGbyC7-LzVsq8-xC3J1bIg.JPEG.scw3216/KakaoTalk_20230809_171633817.jpg/KakaoTalk_20230809_171633817.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "id": "1131878938",
+        "name": "쇼부라멘 서소문점",
+        "x": "126.9719832",
+        "y": "37.5628113",
+        "distance": 0.046,
+        "categoryName": "일식",
+        "categoryPath": [
+          [
+            "220036",
+            "220038",
+            "220087",
+            "220844"
+          ]
+        ],
+        "category": [
+          "일식",
+          "일본식라면"
+        ],
+        "reviewCount": 502,
+        "averagePrice": 5000,
+        "address": "서울특별시 중구 서소문동 57-10",
+        "roadAddress": "서울특별시 중구 서소문로 95",
+        "abbrAddress": "서소문동 57-10",
+        "shortAddress": [
+          "서울 중구",
+          "서소문로 95"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [
+          "합리적인 가격에 즐기는 서대문 점심"
+        ],
+        "cardDescription": "합리적인 가격에 즐기는 서대문 점심",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjhfMTcy/MDAxNzU2Mzc2ODc0NjEw.NsVLoYRJpo_XhpGyO9mXSNtkpn-3dLKvNNaLWL_QJfgg.GUWNEnKceQaCrDEWZlINDHulJj9tfC_egabpN7Kwh68g.JPEG/1000032966.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjFfMjIw/MDAxNzYxMDA0OTYwNTU4.qNeq__FTpUvf9sEAqL22TxEjdxqjYeuQjHX4qylNR5Ig.vE-6pFLIrNobUlcy0Y9TwPegPHx6re43UFM6vVFCcJkg.JPEG/C7C09153-852E-46A9-8C23-047980392605.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDlfMTE2/MDAxNzU3NDEwMzkwODI0.P73EfXJR4ndvg4k80jZoJAXyt5vxU4aYJffzrKQt698g.T7w4AwX9_oD7EGxS1GFtDzhfX4u9yIUIfd9yadOqHEwg.JPEG/1000015293.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDRfMjE0/MDAxNzU2OTU3OTgxODgz.QikdEchY_XZFXEx57I95SmysOgR1yaefySbVl42HvLMg.sVlzvPmhlWxh4QMxw64H7Vm89ekLgXrK0tgm9krC3HAg.JPEG/1000015179.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjdfNTQg/MDAxNzU2MjY0OTkxMzM4.xfHrhOTMXGYa91-aYDlgkQT3cOd2oeaP48lfoGmWkDIg.gDiFX046gZXW6o43GdXKFm1IZzo0Q1BQp9IDiwpcfdAg.JPEG/20250827_122242.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTZfNzQg/MDAxNzU3OTkyNzcyMzU4.is6BuQ-KcVUhSX0uGUXvifyWCNqYUz09ObvqKBkCt6wg.nRA4epuIBIZjpoBYNuTWuQ0DWjmIj6vHydLlTi6LT1gg.JPEG/1000015503.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTdfMjg4/MDAxNzUyNzIzNDMwMTgy.ikWm48FrUGvsZv882y4oM6Tt4h_QSl93-wnaI-Nd0FUg.sEkDh0MaM-5mEM86FNtW6YKFMRn-clbBt_hADt0heh0g.JPEG/20250715_115656.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MThfNzgg/MDAxNzUyODA4NDY3Mzg1.xOzOYx8a9hPkBBUL4Nqp-jZJvh5zUCEDeMwC3B0ahzIg.f8eWO6jXV8Kqu5XGiiPiK8yc02cRpUZ1S7Z-n5MpQ7Qg.JPEG/1000013498.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MDhfNDEg/MDAxNzQ0MTA1NDUzODU3.I5b1Ldn_xvFPQw3Xgjgruyhh_QzSqVpNTxrBSL4hFZsg.-pSdamKGJjSig-hZ157zhxynoDES3gR_rNQLp68yXtIg.JPEG/E0355540-C07D-43C3-AF1B-06F12D79EA2C.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDhfMjQ0/MDAxNzU3MjkyMTQyMTU2.HtVp3uJNia4JWv_w34w7Gv_OX4g5IWKgtMoCuggSiYYg.H884dUeqwaZIaGMIAHn3nyWjt_IbApFnuRWYzJ7X2QMg.JPEG/1000117406.png.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220844",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1131878938",
+            "bodySummary": "시청역 점심 맛집으로 유명하대서 너무 기대중! 쇼부라멘 메뉴입니다. 저는 세트 메뉴로 탄탄멘 매운맛과 돈까스 세트를 시켰어요! 주문은 문 앞에 있는 키오스크를 이용하면 되고, 음식",
+            "url": "https://m.blog.naver.com/it116/223395572885",
+            "nick": "트래블지니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEwMjlfNjYg/MDAxNjk4NTg1MTc3OTQx.7TpCvhzn2ks696lh8S_QSvLzVbdYBi6vE3V7CgGefwYg.Qxwhmb4a8YzEF1Q-qM5PdYUp3hfH3_pGWp8jkZboMGIg.PNG.it116/profileImage.png"
+          },
+          {
+            "sid": "1131878938",
+            "bodySummary": "시청역에서 충정로 가는 방향이면 가면서 못볼 수 없게끔 만들어두셨더라구요. 이날 딱 보니 춥기도 하고 뜨끈한 국물도 땡기고, 오랜만에 탄탄멘이 먹고싶어서 저거나 먹어야겠군..하고 ",
+            "url": "https://m.blog.naver.com/qwerty_q/223344139825",
+            "nick": "루니님",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxNjEyMTNfMjgg/MDAxNDgxNTY0OTY4MjYz.ySYiKKMzuOxHLoJjAnvKU2ZFcDX5ktuYh5jcXlHg1SMg.BIJTrE1n4awjEs9TTDx4LrXfTHnViA8ygFD6iIhSY6Ig.PNG.qwerty_q/836FCrr7.png"
+          },
+          {
+            "sid": "1131878938",
+            "bodySummary": "( 지하에 위치하고 있는 쇼부라멘 서소문점 혼밥하기 좋은 시청역 밥집 음식주문은 출입문 밖에 있는 키오스크로 하고 매장에서 자리를 잡으면 된다 매장은 12시 전에 와서 그런지 살짝",
+            "url": "https://m.blog.naver.com/jej5535/223215437631",
+            "nick": "굴림체로굴림굴림",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAyMTdfMzAw/MDAxNzA4MTAyMTY4Mzcw.8xDMJFDijpJkhWe5NtOQnFJjwhQXZk0IbWMagKTNuZgg.sPwjtGP8wF_NKDYmjxKXujsmSNPUWDm-eJgUf84hzWsg.PNG.jej5535/profileImage.png"
+          },
+          {
+            "sid": "1131878938",
+            "bodySummary": "여기도 키오스크로 주문하고, 음식 나오면 번호 확인하고 받으러 가고, 다시 가져다놓는 시스템이다. 쇼부라멘 서소문점 02-772-9477 평일 09:00-21:00 매주 주말 휴무",
+            "url": "https://m.blog.naver.com/mam0515/223182526198",
+            "nick": "고졀맨",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20110916_258/mam0515_1316170649270_YKHXCY_jpg/201102mexico.jpg"
+          },
+          {
+            "sid": "1131878938",
+            "bodySummary": "오늘도 준비한 서울시청 직장인 점심 혼밥 맛집 맨날 가는 라멘집 말고 오늘은 새로운 라멘 맛집 쇼부라멘 서소문점 입니다. 주소 : 서울시 중구 서수문로 95 지하1층 영업시간 : ",
+            "url": "https://m.blog.naver.com/1004jeh1004/223166505994",
+            "nick": "Anna",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMTlfMTQ3/MDAxNzAwNDA0ODAyNTYw.L8A6seVUvF8NALVFENDXI-oXVy5LUTipUTXPQG35DGIg.jUzlw4EXEv2C09JdtD2wE2lZR0DKamktg9Qmfu1IkvYg.JPEG.1004jeh1004/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "id": "1783112439",
+        "name": "토방네순대국",
+        "x": "126.9720394",
+        "y": "37.5628133",
+        "distance": 0.048,
+        "categoryName": "순대,순댓국",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220768",
+            "221546"
+          ]
+        ],
+        "category": [
+          "한식",
+          "순대,순댓국"
+        ],
+        "reviewCount": 142,
+        "averagePrice": 10000,
+        "address": "서울특별시 중구 서소문동 57-10",
+        "roadAddress": "서울특별시 중구 서소문로 95",
+        "abbrAddress": "서소문동 57-10",
+        "shortAddress": [
+          "서울 중구",
+          "서소문로 95"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 서소문동 57-10",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221546",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1783112439",
+            "bodySummary": "새벽부터 숙취로 인해 고생고생하다 점심은 무조건 순댓국을 먹어야겠다!! 다짐하고 방문한 토방네순대국 ㅋㅋ 사실 숙취로 인해 너무 힘들어서 멀리 가거나 대기할 수 없다는 생각에 회사",
+            "url": "https://m.blog.naver.com/aocl1222/223305670384",
+            "nick": "루미",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA5MTJfMjQy/MDAxNjk0NDk4MTE5MTU3.SlWUH70dqVPX5oVNmI_AvO9512H28lFlDd6x_bDupQgg.3eUKATsuYk2OhG4iEXdoUjrh1MekrgGBS5EY7gV3jLYg.JPEG.quddl0197/KakaoTalk_20230912_145447390.jpg/KakaoTalk_20230912_145447390.jpg"
+          },
+          {
+            "sid": "1783112439",
+            "bodySummary": "영업시간 월~금 : 09:00 - 21:00 브레이크타임 : 15:00 - 17:00 라스트오더 : 20:00 휴무 : 토,일 시청 토방네순대국 시청역 10번 출구에서 도보 3분 ",
+            "url": "https://m.blog.naver.com/wnsals212/223247695226",
+            "nick": "이동일상",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA5MDdfMTk3/MDAxNjYyNTYxMDQ2ODI0.8CEskTKtArAio-NRHF4pqVz5yhKrqE1smK4dpNkk5EEg.NsYZaGJV8qUidy42N_MFSo4kcrgbKc8WKfyS040zl0Ug.PNG.wnsals212/profileImage.png"
+          },
+          {
+            "sid": "1783112439",
+            "bodySummary": "토방네도 깔끔하고 맛있는 순대국이었다! 주소 : 서울 중구 서소문로 95 영업시간 : 월화수목금 : 09:00-21:00 브레이크타임 : 15:00-17:00 라스트오더 : 20:",
+            "url": "https://m.blog.naver.com/ordinarydayswithyou/223192329980",
+            "nick": "Mahana 마하나",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjEyMjVfMTQ1/MDAxNjcxOTU2NTIxOTQ4.jNz9pt7aEZBeUcSZL9tpQmz9J6QyZWZEGzLPEOsiNrwg.UAIv09BaXnSP69FX2qy09P1GUI8Md8XCrex8fzgTj-Ug.JPEG.snowtree25/KakaoTalk_20220924_191556238_05.jpg/KakaoTalk_20220924_191556238_05.jpg"
+          },
+          {
+            "sid": "1783112439",
+            "bodySummary": "1인석 토방네순대국 실내 밑반찬은 무김치, 부추, 쌈장, 청량고추, 양파 새우젓 이었구요 청량고추는 한입만 먹었는데 화끈하게 매운 맛이었어요 공기밥은 밥을 담다가 말은 듯한 모양세",
+            "url": "https://m.blog.naver.com/dbtjdcjsrnr/223165469571",
+            "nick": "한국맛집",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjEyMTRfMTM0/MDAxNjcwOTgzNTU1OTY4.Ax0LrXcpnmWIExbHp-Uq5Q8wnsO-_6WQMBUiqcJaeE4g.Eu9Zt8D_iqYFgMYU47aQ7ddHMpV5AwEPvA1jxlc62aYg.PNG.dbtjdcjsrnr/%25EC%25A0%259C%25EB%25AA%25A9%25EC%259D%2584_%25EC%259E%2585%25EB%25A0%25A5%25ED%2595%25B4%25EC%25A3%25BC%25EC%2584%25B8%25EC%259A%2594__%25EB%25B3%25B5%25EC%2582%25AC%25EB%25B3%25B8-001.png/%25EC%25A0%259C%25EB%25AA%25A9%25EC%259D%2584%2B%25EC%259E%2585%25EB%25A0%25A5%25ED%2595%25B4%25EC%25A3%25BC%25EC%2584%25B8%25EC%259A%2594__%25EB%25B3%25B5%25EC%2582%25AC%25EB%25B3%25B8-001.png"
+          },
+          {
+            "sid": "1783112439",
+            "bodySummary": "11시 50분에 도착해서 그런가 손님이 아주 많진 않았는데 조용해서 혼밥하기도 좋아보여요 토방네 순대국밥 내부 분위기 4인 테이블 12개 정도? 바 형식의 자리도 있어서 혼밥하기 ",
+            "url": "https://m.blog.naver.com/sweetsalchow/223026719304",
+            "nick": "명탐정호숭씨",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMjhfMTYy/MDAxNzAxMTQyNzg3MTgw.-yNo96WEeNFxtv4Cn1dsVSwvIb43F5eI9dAU6fiC-swg.Oy-_MKVGUF60swj0Jts-mTA5qActpKGRP4lhSHQ8sugg.JPEG.sweetsalchow/profileImage.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

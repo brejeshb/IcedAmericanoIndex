@@ -1,0 +1,965 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 14,
+      "count": 14,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 127.72409292691417,
+          "minY": 37.88580450450451,
+          "maxX": 127.7298,
+          "maxY": 37.890309009009016
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "127.72694646345708;37.88805675675677",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1217480458",
+        "name": "아빠가떡뽑는집",
+        "x": "127.7258419",
+        "y": "37.8890768",
+        "distance": 0.149,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 22,
+        "averagePrice": 5000,
+        "address": "강원특별자치도 춘천시 소양로2가 1-64 1층",
+        "roadAddress": "강원특별자치도 춘천시 모수물길 64-2",
+        "abbrAddress": "소양로2가 1-64 1층",
+        "shortAddress": [
+          "강원 춘천시",
+          "모수물길 64-2"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [
+          "쫄깃한 쌀떡볶이의 매콤한 유혹"
+        ],
+        "cardDescription": "쫄깃한 쌀떡볶이의 매콤한 유혹",
+        "description": "<아빠가 운영하는 방앗간에서 뽑아서 만드는 떡볶이!> 국내산 새청무쌀 100%",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDlfMjE5/MDAxNzQ5NDQwMDE0NzQw.PbRFcQtk6v8V3Cmy6DcJM6wOxv9zIBQFxYN8gnhZCZcg.sMKk2x79cGgjffuOSLM5AOJmceQQybvHEqRsvay4Q7Mg.JPEG/1000050591.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjNfMTg2/MDAxNzQ3OTgwNDI2NjU3.0H0HLJtABYDtnSJ5IRbojdK5l1wpEzEFMFYmbQeRHhYg.FZS_kPYr3QfL4CdODgWzPHEOxv-FHw0Z1Th1uxktSFgg.JPEG/20250521_140544.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240409_63/17126414013857r9XO_JPEG/IMG_9245.jpeg",
+          "https://ldb-phinf.pstatic.net/20240716_257/1721112709232hesTn_JPEG/F4C364C4-3103-4E64-B9AA-3122CD232723.jpeg",
+          "https://ldb-phinf.pstatic.net/20240409_196/1712641420384Aw9RW_JPEG/IMG_9112.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "1839299748",
+        "name": "달쿠",
+        "x": "127.7261763",
+        "y": "37.8889029",
+        "distance": 0.116,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 184,
+        "averagePrice": 5000,
+        "address": "강원특별자치도 춘천시 소양로2가 1 상가 1층 DALLCOO",
+        "roadAddress": "강원특별자치도 춘천시 모수물길 60",
+        "abbrAddress": "소양로2가 1 상가 1층 DALLCOO",
+        "shortAddress": [
+          "강원 춘천시",
+          "모수물길 60"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "춘천 소양동 현대아파트 상가에 위치한 카페에요!! ^^  수제 베이커리와 달콤한 커피, 편안한 공간을 드리고 있는 카페입니다.  달쿠는 달콤한 쿠키, 달달한 쿠키, 달님쿠키, 자꾸라는 뜻으로 지 ",
+        "description": "춘천 소양동 현대아파트 상가에 위치한 카페에요!! ^^  수제 베이커리와 달콤한 커피, 편안한 공간을 드리고 있는 카페입니다.  달쿠는 달콤한 쿠키, 달달한 쿠키, 달님쿠키, 자꾸라는 뜻으로 지 ",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20250622_98/1750589122669IQiin_JPEG/1000045145.jpg",
+          "https://ldb-phinf.pstatic.net/20250622_16/1750589324190WU8cN_JPEG/1000044354.jpg",
+          "https://ldb-phinf.pstatic.net/20250622_224/1750589324486e1mMK_JPEG/1000044352.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1839299748",
+            "bodySummary": "다쿠아즈도 다양하게 있더라고요!! 커피가격이 착하고 가성비좋은 카페네요^^이색 머랭쿠키꽃다발이 있답니다♡ 저는 간단하게 간식겸 한송이씩 샀어요~ 가격이 착해서 좋아요!! 한송이도 ",
+            "url": "https://m.blog.naver.com/yunmi8787/223374199132",
+            "nick": "럽투유",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjEyMTBfMTYg/MDAxNjcwNjAzOTEwMzcz.F6WoagXc6U9fLjGEe6HOaE8XIJNN0GogKcOq46Cla4Ag.FpdcVdXHM96BEyC-PLbzAXdgDp_92vZhI0cuqjTJM88g.JPEG.yunmi8787/profileImage.jpg"
+          },
+          {
+            "sid": "1839299748",
+            "bodySummary": "춘천 달쿠 소양로 카페 에서 토끼 다쿠아즈 케이크, 피카츄 다쿠아즈 케이크 아이들 쿠키 만들기 체험하고 왔습니당~!! 저희 아이들이 정말 좋아하는 카페를 소개합니다. 집 앞이라 종",
+            "url": "https://m.blog.naver.com/jihey119/222841057180",
+            "nick": "지혜별",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA0MjZfMTQg/MDAxNjgyNTIwNzYxODY1.fFItIGzgWQs7aTWvwGduTfVaXd0Y--ySEuUfVqGH1qkg.uvrjFBmK7B1JzrSiJajT1LgYjSyC53jebBcSQklFcIcg.JPEG.jihey119/profileImage.jpg"
+          },
+          {
+            "sid": "1839299748",
+            "bodySummary": "테이크아웃 전문점이지만 얼마전 확장공사를 해서 앉을 자리가 있당 쇼케이스에 진열된 춘천 소양로 카페 달쿠 DALLCOO 디저트 달쿠 음료 메뉴판 메뉴외ㅣ 가격 참고하세요^^ 머랭쿠",
+            "url": "https://m.blog.naver.com/dkdldkdl2222/221983633093",
+            "nick": "사랑해 혜림아",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjEwMTRfMTQz/MDAxNjY1Njc0MTE0OTM3.k8B-X-v1JkJklFU8DqeJXMrBq_cfYY_RmqhP9YyRZLIg.XUtzmpAOpZEUrFUhGHcFXttT8mvGwKnHom4QFwFNfOEg.JPEG.dkdldkdl2222/profileImage.jpg"
+          },
+          {
+            "sid": "1839299748",
+            "bodySummary": "가끔 집에 있다가 커피마시고 싶을 때 동네 산책 겸 슬렁슬렁 걸어가서 시원하게 한 잔 마시면서 집으로 오는 길이 참 행복해요.♡ 배민에 등록도 되있어서 진짜 꼼짝도 하기 싫은 날 ",
+            "url": "https://m.blog.naver.com/mimiu8/221974820123",
+            "nick": "미미유",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDA1MjBfMzQg/MDAxNTg5OTY0NjI2MjUx.-dMfELYSbgVQNy5AW3tHsgWYZWUz6egWh4kd1aJYxI0g.x3WaDl0DeXqQ5zp9w2istPeWgs1lSLpuQh0A5Gdni28g.PNG.mimiu8/KakaoTalk_20200520_174130102.png"
+          },
+          {
+            "sid": "1839299748",
+            "bodySummary": "봄이 오고 날씨가 따뜻해서 그런지 자주 돌아다니게 되고 그러다 보니 카페에도 자주 들리게 되는 거 같다. 카페 달쿠 소양로 현대아파트 앞에 위치한 카페 달쿠 뭔가 달달한 쿠키가 자",
+            "url": "https://m.blog.naver.com/warm5435/221505848950",
+            "nick": "춘천 스마트퀵",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20190209_299/warm5435_1549713660103cz4Ax_JPEG/KakaoTalk_20181228_002840665.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "id": "15056703",
+        "name": "현대반점",
+        "x": "127.7267735",
+        "y": "37.8885368",
+        "distance": 0.056,
+        "categoryName": "중식당",
+        "categoryPath": [
+          [
+            "220036",
+            "220039",
+            "220091",
+            "220861"
+          ]
+        ],
+        "category": [
+          "중식",
+          "중식당"
+        ],
+        "reviewCount": 95,
+        "averagePrice": 0,
+        "address": "강원특별자치도 춘천시 소양로2가 1",
+        "roadAddress": "강원특별자치도 춘천시 모수물길 54",
+        "abbrAddress": "소양로2가 1",
+        "shortAddress": [
+          "강원 춘천시",
+          "모수물길 54"
+        ],
+        "displayContext": [],
+        "labelTheme": "중식",
+        "microReviews": [],
+        "cardDescription": "강원특별자치도 춘천시 소양로2가 1",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20200102_153/1577946984319O8IND_JPEG/PsvVywNAKHXrawVVwN1-ovl1.JPG.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220861",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 4,
+        "id": "32592582",
+        "name": "짱구네숯불닭발 소양로본점",
+        "x": "127.725281",
+        "y": "37.8895391",
+        "distance": 0.22,
+        "categoryName": "닭발",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220772",
+            "221590"
+          ]
+        ],
+        "category": [
+          "한식",
+          "닭발"
+        ],
+        "reviewCount": 63,
+        "averagePrice": 9000,
+        "address": "강원특별자치도 춘천시 소양로1가 95-4",
+        "roadAddress": "강원특별자치도 춘천시 소양로 184",
+        "abbrAddress": "소양로1가 95-4",
+        "shortAddress": [
+          "강원 춘천시",
+          "소양로 184"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "강원특별자치도 춘천시 소양로1가 95-4",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20181022_88/1540195271637fE3jK_JPEG/sAxX1vWw_EAR4htsWgZmDI7O.jpg",
+          "https://ldb-phinf.pstatic.net/20190120_44/1547977941512uWXYr_JPEG/_zwczA-v9rle5uVkoD7J8xaj.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221590",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 5,
+        "id": "36511772",
+        "name": "요거프레소 춘천소양로점",
+        "x": "127.727981",
+        "y": "37.8875816",
+        "distance": 0.105,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221287"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 191,
+        "averagePrice": 11000,
+        "address": "강원특별자치도 춘천시 소양로2가 80-4",
+        "roadAddress": "강원특별자치도 춘천시 모수물길 40",
+        "abbrAddress": "소양로2가 80-4",
+        "shortAddress": [
+          "강원 춘천시",
+          "모수물길 40"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "강원특별자치도 춘천시 소양로2가 80-4",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjVfMjA5/MDAxNzQ1NTgzNDcxNjU4.ByqtHmK4h3P_9cWQo0u7X2txH0bxCviN7ivKdiHnKqsg.QjS2zhXViVSnbisls92nJoSSYNQetLKrrX_N5g1z7mgg.JPEG/20250423_121258.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTVfMjc2/MDAxNzQ0Njk1MTQ1Nzkx.-2NxpqdZLdNTKU93CV3gpVLKcnC_JWUmrOQy9DSsGxUg.L2t7oztXehGxXmCBF66CPpQ1n-AIh0CAp4ns0igvqZQg.JPEG/20250415_143127.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20200102_184/1577946837135Yntix_JPEG/PlR8cNeLEFjCiCi4xGZpRrDq.JPG.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjZfNSAg/MDAxNzUwOTE2Mjc3MjA5.aSYfZiLlOCJFE4Iyk_gHFEi9mAGQDlnWX9uCVX7LJeMg.PDt5_ckOUlb1tzMEITbIxEwZ6jOPq44DaxPLZy9u2mog.JPEG/1000011207.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221287",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.5",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "36511772",
+            "bodySummary": "요거프레소 깔라만시 Tea 3,800원 초코라테 3,500원 에스프레소 2,200원 코코넛 비스킷 2,000원",
+            "url": "https://m.blog.naver.com/gucci2727/222716914266",
+            "nick": "오렌지스타",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAyMTlfMjM3/MDAxNjQ1MjAyNzI0ODM2.tMIHPqMobjXdj4GdOdeKEKc99mMLpIFhZvGVbOfoPrwg.-jAsB7FrJlk_XHzKDmSxdgzr4Xj6QqcsJDWesnY2A5og.JPEG.gucci2727/%25EC%25BD%25A9%25EC%25BD%25A9.jpg/%25EC%25BD%25A9%25EC%25BD%25A9.jpg"
+          },
+          {
+            "sid": "36511772",
+            "bodySummary": "강원상품권 가맹점 춘천사랑상품권 제로페이 다 사용가능! 요즘은 이런 거 안 되는 데가 더 이상할 정도쥬~ 메뉴판! 넹 저희는 밥을 먹었지만 아직 후식 배가 남은 관계로 허니브레드와",
+            "url": "https://m.blog.naver.com/khseo918/222532703779",
+            "nick": "빛글",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA5MDFfMTg2/MDAxNjMwNDc0NTQyNjEx.tcl27aVTFw5cZiUPrB-CPaLn_nRDO4M_c1riAq8HOs4g.FTE34SqWfn3xV13G_Qo7ygn2qdKQGY9JBc1wRfbPQkYg.PNG.khseo918/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "id": "1855974838",
+        "name": "기영이 숯불두마리치킨 춘천소양점",
+        "x": "127.7255794",
+        "y": "37.8900683",
+        "distance": 0.254,
+        "categoryName": "치킨,닭강정",
+        "categoryPath": [
+          [
+            "220036",
+            "220049",
+            "1005680"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "치킨,닭강정"
+        ],
+        "reviewCount": 11,
+        "averagePrice": 10000,
+        "address": "강원특별자치도 춘천시 소양로1가 94-6 1층 111호",
+        "roadAddress": "강원특별자치도 춘천시 소양로 190",
+        "abbrAddress": "소양로1가 94-6 1층 111호",
+        "shortAddress": [
+          "강원 춘천시",
+          "소양로 190"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "치킨 업계 15년차 외길 인생... 치킨마스터가 공들여 준비한 '기영이 숯불두마리치킨' 입니다.  제 치킨인생을 걸고 아래와 같이 선언합니다.  [1] 항상 주방의 청결함 유지하겠습니다. [2] 당일 공",
+        "description": "치킨 업계 15년차 외길 인생... 치킨마스터가 공들여 준비한 '기영이 숯불두마리치킨' 입니다.  제 치킨인생을 걸고 아래와 같이 선언합니다.  [1] 항상 주방의 청결함 유지하겠습니다. [2] 당일 공",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTNfMTM2/MDAxNzU3NzYzNjEwMDg4.lQ-A0-v4jer76ZN9VSty_RsqMC7ImWWW_Qsrfcqinuwg.XiVC5H-ToZ7DTo2-v03WZ7-HRqDlkKMKOUUbLx5x7Ksg.JPEG/079DAFEB-CE4E-4597-9C71-29F2F540FBC8.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDlfMjY3/MDAxNzUyMDI1ODAzNTEx.cBMZPgwJrvhO08eOYH0R3pHL4mLBPrpLIq0d5th5_5Eg.Pr9Dy_Rq-DAcENR_C3ZMxD4z1Xq47Vsw8TOsYpWEM2wg.JPEG/2AC861C7-7A9B-46B9-9BDB-4AF5E5491538.jpeg",
+          "https://ldb-phinf.pstatic.net/20240105_91/1704417571618EQ5TY_JPEG/%B1%E2%BF%B5%C0%CC%BD%A1%BA%D2%B5%CE%B8%B6%B8%AE%C4%A1%C5%B2_%B7%CE%B0%ED.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTRfMTIy/MDAxNzQ0NjE4MTcwMzA5.HTSMP5Ow9LZigkv4CPFIn-iDoYDLV-vCnDptqXDt0cEg.KeLOjsP1_R2UDJYyU4rRxCf25ndjtkkJMx0kPMb-ZB8g.JPEG/20250413_183708.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240105_4/1704445815210H4VnB_JPEG/%C0%E7%C1%D6%B9%AE1%C0%A7%BC%F8%BB%EC_%B9%DD%B9%DD_BBQ%C4%A1%C5%B2%28%BC%D2%B1%DD%BE%E7%B3%E4%29.jpg",
+          "https://ldb-phinf.pstatic.net/20240105_39/1704445815186WBxN6_JPEG/%DA%B8%C4%A3%C7%D1%BB%F3%C2%F7%B8%B2%BC%F8%BB%EC_%B9%DD%B9%DD_BBQ%BC%BC%C6%AE.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1005680",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 7,
+        "id": "1591386028",
+        "name": "처갓집양념치킨 소양점",
+        "x": "127.7253654",
+        "y": "37.8897355",
+        "distance": 0.233,
+        "categoryName": "치킨,닭강정",
+        "categoryPath": [
+          [
+            "220036",
+            "220049",
+            "220464"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "치킨,닭강정"
+        ],
+        "reviewCount": 87,
+        "averagePrice": 20000,
+        "address": "강원특별자치도 춘천시 소양로1가 95-12 1층",
+        "roadAddress": "강원특별자치도 춘천시 소양로 186",
+        "abbrAddress": "소양로1가 95-12 1층",
+        "shortAddress": [
+          "강원 춘천시",
+          "소양로 186"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "처갓집양념치킨 멤버십앱 출시! 다운로드하시고, 지금 바로 다양한 할인 혜택을 누리세요!",
+        "description": "처갓집양념치킨 멤버십앱 출시! 다운로드하시고, 지금 바로 다양한 할인 혜택을 누리세요!",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDhfMTY2/MDAxNzU3MjU4OTM0NzQx._hs_ZcdOsPrq5IYRIit13sQRKTJ9pVjUC2pGoUWdyI4g._sjvWzlxfzKdJaZW1Rmj7amM59D_Ho-X8TRhnBWKT5Yg.JPEG/20250907_192328.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20200120_298/1579504110347tJgty_JPEG/C_lo6OmP2LbyOHVZh-W2FOtu.jpg",
+          "https://ldb-phinf.pstatic.net/20250320_127/1742430588209wxFk3_JPEG/%B2%BF%B2%BF%B9%F0_%C6%F7%BD%BA%C5%CD.jpg",
+          "https://ldb-phinf.pstatic.net/20230517_20/1684279022232yzdj0_JPEG/InkedKakaoTalk_20230510_123930222.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220464",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 8,
+        "id": "1719508157",
+        "name": "모수물 카페",
+        "x": "127.7256792",
+        "y": "37.8891876",
+        "distance": 0.168,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 0,
+        "address": "강원특별자치도 춘천시 소양로2가 12-1",
+        "roadAddress": "강원특별자치도 춘천시 모수물길 66",
+        "abbrAddress": "소양로2가 12-1",
+        "shortAddress": [
+          "강원 춘천시",
+          "모수물길 66"
+        ],
+        "displayContext": [],
+        "labelTheme": "24시간 영업",
+        "microReviews": [],
+        "cardDescription": "강원특별자치도 춘천시 소양로2가 12-1",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20241107_161/1730949365056X1FtL_JPEG/KakaoTalk_20241107_120245311.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 9,
+        "id": "1075367556",
+        "name": "윤식당",
+        "x": "127.7250799",
+        "y": "37.8863869",
+        "distance": 0.248,
+        "categoryName": "한식뷔페",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "229847",
+            "229848"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식뷔페"
+        ],
+        "reviewCount": 3,
+        "averagePrice": 0,
+        "address": "강원특별자치도 춘천시 소양로2가 96-3",
+        "roadAddress": "강원특별자치도 춘천시 기와집길 8",
+        "abbrAddress": "소양로2가 96-3",
+        "shortAddress": [
+          "강원 춘천시",
+          "기와집길 8"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "강원특별자치도 춘천시 소양로2가 96-3",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "229848",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 10,
+        "id": "1295882903",
+        "name": "자옥이네",
+        "x": "127.725374",
+        "y": "37.889595",
+        "distance": 0.22,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 10000,
+        "address": "강원특별자치도 춘천시 소양로1가 95-10",
+        "roadAddress": "강원특별자치도 춘천시 소양로 184-1",
+        "abbrAddress": "소양로1가 95-10",
+        "shortAddress": [
+          "강원 춘천시",
+          "소양로 184-1"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "강원특별자치도 춘천시 소양로1가 95-10",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20241201_33/1733059439855GNXhu_JPEG/1000027608.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 11,
+        "id": "1576675827",
+        "name": "벗이랑분식",
+        "x": "127.7261564",
+        "y": "37.8890045",
+        "distance": 0.126,
+        "categoryName": "종합분식",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220185"
+          ]
+        ],
+        "category": [
+          "분식",
+          "종합분식"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 0,
+        "address": "강원특별자치도 춘천시 소양로2가 1",
+        "roadAddress": "강원특별자치도 춘천시 모수물길 60",
+        "abbrAddress": "소양로2가 1",
+        "shortAddress": [
+          "강원 춘천시",
+          "모수물길 60"
+        ],
+        "displayContext": [],
+        "labelTheme": "분식",
+        "microReviews": [],
+        "cardDescription": "강원특별자치도 춘천시 소양로2가 1",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220185",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 12,
+        "id": "15057329",
+        "name": "왕릉숯불갈비",
+        "x": "127.724279",
+        "y": "37.889922",
+        "distance": 0.313,
+        "categoryName": "육류,고기요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220733"
+          ]
+        ],
+        "category": [
+          "한식",
+          "육류,고기요리"
+        ],
+        "reviewCount": 211,
+        "averagePrice": 13000,
+        "address": "강원특별자치도 춘천시 소양로2가 176-1",
+        "roadAddress": "강원특별자치도 춘천시 소양로163번길 36",
+        "abbrAddress": "소양로2가 176-1",
+        "shortAddress": [
+          "강원 춘천시",
+          "소양로163번길 36"
+        ],
+        "displayContext": [
+          "갈매기살",
+          "돼지갈비",
+          "삼겹살",
+          "갈비집"
+        ],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "강원특별자치도 춘천시 소양로2가 176-1",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTRfMjAg/MDAxNzQ3MjA0OTU4NjQ0.oOp3hZdiiXOJkU-ITFPM-WGKwc_pj2iMDHL3C_77k9Yg.hAbfW7v8bkjNIHYZwku-9P2YKXfxwUcIW0L-gLAOMPAg.JPEG/20250510_190113.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220733",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "15057329",
+            "bodySummary": "눈 내리는 3월 어느날 노포 느낌 제대로 풍기는 왕릉숯불갈비 방문기 세월의 흔적이 묻어나는 간판과 외관 노포 맛집스럽다 왕릉숯불갈비 강원 춘천시 소양로163번길 36 택시 이용 시",
+            "url": "https://m.blog.naver.com/haeeunwoo/223387682439",
+            "nick": "혜은우",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAyMDJfMjM5/MDAxNzA2ODY4MzQyOTk1.EQSnwet9wqJptX2IP8g3hjD2dYTO_xB1xSJjxxPOL0Ug.Ia67UzEQmVH-_7r8NLsWmVw3K8ROq9G-A7SrSoYXX9Ig.JPEG.wlgp2828/%25E3%2585%258D%25E3%2584%25B9%25E3%2585%258D.jpg/%25E3%2585%258D%25E3%2584%25B9%25E3%2585%258D.jpg"
+          },
+          {
+            "sid": "15057329",
+            "bodySummary": "#춘천숨은맛집 #춘천로컬맛집 #춘천양념갈비 #춘천왕릉숯불갈비 #춘천고기집 춘천 숨은 로컬맛집 갈매기살 고기집 왕릉숯불갈비 영업시간은 별도로 써있지는 않은데 일요일을 보통 쉬시는 것",
+            "url": "https://m.blog.naver.com/desdeluego/223328169010",
+            "nick": "LYNN",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMTdfMTEg/MDAxNzA1NDcyMzAxODU5.wMmK3XYouQiZMlH_GN5oBeBn9MZdhHeQPZSBX3EjDG0g.fvSYgSUQFSVhkEqCgCw8Q5yYxN_v-tRgxYcchjd3AJMg.JPEG.desdeluego/profileImage.jpg"
+          },
+          {
+            "sid": "15057329",
+            "bodySummary": "근화 초등학교 근처에 위치한 '왕릉숯불갈비' 입니다 -! 왕릉숯불갈비 영업시간 13:00 - 22:00 , 일요일 휴무 노부부 사장님께서 가게에 나와계시긴 하지만 브레이크 타임이 ",
+            "url": "https://m.blog.naver.com/chessss-/223271158688",
+            "nick": "sori",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA0MTZfMjU3/MDAxNjgxNjEyNTc1Njky.2SCKP0wkZlp6GiuWueCJMDI2G5Kzlsm7QTxh4m9v5Jgg.8Jjt-jTyxj_LzB2MgrtmwEQy3fTldpcuNOHuYBUsv6Yg.PNG.sol7998/profileImage.png"
+          },
+          {
+            "sid": "15057329",
+            "bodySummary": "<춘천왕릉숯불갈비> 강원 춘천시 소양로163번길 36 / 소양로2가 176-1 매일 13:00~22:00 (일 휴무) 033-251-5019 1993년도에 오픈한 30년 업력의 노",
+            "url": "https://m.blog.naver.com/tastylog/223258919767",
+            "nick": "Tastylog",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjEyMjFfMjc5/MDAxNjcxNjEzOTIxODc1.3ykuxyGgOz9YXnPdS06F07QP5fpKgOuA-0zmQ43qYGgg.q9R5FZfLcVUU1aWkSLxGssEuiqg-D2rz8IXTxjXwZ-sg.JPEG.tastylog/profileImage.jpg"
+          },
+          {
+            "sid": "15057329",
+            "bodySummary": "믿음이 가네요.. 기본 찬이 나왔습니다. 쌈과 물김치, 파절이, 소금, 참기름 반찬도 심플하네요. 너무 좋은 점은 쪽파를 주더라고요. 쌈 싸 먹으면 향긋한 포인트잖아요!! 뒤이어 ",
+            "url": "https://m.blog.naver.com/micakkaebi/223106970549",
+            "nick": "미냐깨비",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAzMTRfMTY5/MDAxNjc4NzYxMjg2NTkz.mAoN4wViLyTZS6Kxrax8u5smEcaja1_H3fvJfnubBcMg.ZBYIzWO3kvZ04jWi4Nkd7H7NCN-aPKHm3JLT5roT6P8g.PNG.mica815/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 13,
+        "id": "1968544188",
+        "name": "어구어",
+        "x": "127.7247615",
+        "y": "37.889575",
+        "distance": 0.256,
+        "categoryName": "생선구이",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220076",
+            "220791",
+            "221625"
+          ]
+        ],
+        "category": [
+          "한식",
+          "생선구이"
+        ],
+        "reviewCount": 512,
+        "averagePrice": 20000,
+        "address": "강원특별자치도 춘천시 소양로2가 176-5 어구어 1층",
+        "roadAddress": "강원특별자치도 춘천시 소양로183번길 1",
+        "abbrAddress": "소양로2가 176-5 어구어 1층",
+        "shortAddress": [
+          "강원 춘천시",
+          "소양로183번길 1"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [
+          "다양한 생선으로 즐기는 구이의 참맛"
+        ],
+        "cardDescription": "다양한 생선으로 즐기는 구이의 참맛",
+        "description": "- 춘천 더샵 소양스타리버 앞 최고의 로컬맛집  - 춘천 여행 필수 코스 춘천 맛집 어구어  - 쾌적하고 넓은 식사 공간, 가족/연인과 함께하기 좋은 분위기  - 사장님이 직접 선별한 최상급 신선도 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjhfMTkw/MDAxNzU2MzExNzYzODU1.PWPJBnfHZPVtiCRDhbrdFcw4ftNaG9ZdS3iFNTyLf1wg.9QZ3oUENkpuqX-zoFIH6ehMVxDbyu5KjPYFYhK5M1oEg.JPEG/E922AF0D-5947-4E29-8F95-2126865B3660.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDhfODkg/MDAxNzU3MzI3ODI4MjM0.zeqG5RWhCVQgRqXFXkda5B_Iv4j-v8l-5jDAeIx7qy0g.hS5JMrpa152BHJOocZZVafxrOZuTkUlYlzW8BjdY8U0g.JPEG/20250906_132106.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240714_182/1720929558182dcTEU_JPEG/IMG_0674.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjdfMjQw/MDAxNzU4OTQ5MTM2NTc3.VF4ThZgC0v0LvoGr_C8cMSZW3A-GukmZCZRcROPIZ8kg.XOllsVDdRVdGnn8vx37lhvbZfL0y2gRJwpeffJNpq3sg.JPEG/20250927_123625.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250217_71/1739766055693bivz7_JPEG/IMG_1451.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjhfMjg3/MDAxNzU2MzQ5MTk3Njgz.w8bZ4Oj7rR6YkaOLuAhGr9jHAEre6Pvt3jCd-Gd1-acg.c5aUXrNjfiYibLOvhH_7hZGdWRLmbB70bHtvh-35BSog.JPEG/17563491829461799363241622655333.jpg",
+          "https://ldb-phinf.pstatic.net/20250217_57/1739766104326vSkY0_JPEG/IMG_1859.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MzFfMTk5/MDAxNzU2NjE3OTQwOTEy.keV5K8T3J3iOFX0WFLbGupsbaip0xsF05Tr1YA8cdO0g.lRWyH9Hu_tgJ5hO-u5mK7FfFmIJJVzw0ZILz4TWmaC4g.JPEG/20250831_132406.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDlfMTE0/MDAxNzU0NzE5MjM2NTYw.whk6gynl_jEy7-nJy7B5IPDLGK_caxHYqR8lNpKy5hQg.tZ_hYpN2anU2flvmMQPILri3UjrPJqYsAs7P9c5dMpAg.JPEG/20250809_134137.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjNfMTcz/MDAxNzQ3OTYzOTkwNDYx.iTNIbcjAnM5HzU_lyXwEsMretvMXY4AGtI0DdL_3L_Yg.Uwr7quDOzPYCoZmBfXHIe0xpEvlGdoEVIih5zLawdgog.JPEG/EC401813-FACF-4623-A1AC-18A8D58C0C56.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221625",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 14,
+        "id": "1659689592",
+        "name": "이모네식당",
+        "x": "127.7244908",
+        "y": "37.8889682",
+        "distance": 0.238,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 16,
+        "averagePrice": 5000,
+        "address": "강원특별자치도 춘천시 소양로2가 177-18",
+        "roadAddress": "강원특별자치도 춘천시 소양로171번길 6-6",
+        "abbrAddress": "소양로2가 177-18",
+        "shortAddress": [
+          "강원 춘천시",
+          "소양로171번길 6-6"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "강원특별자치도 춘천시 소양로2가 177-18",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1659689592",
+            "bodySummary": "집밥이 땡기면 찾는 회사 근처의 #춘천한식뷔페 이모네식당~ 앞에 있는 농작물의 소유는 누구의 것인가 급 궁금?! 진짜 소소한 가게입니다! 외부도 일반 가정집처럼 생겼고 내부도 그냥",
+            "url": "https://m.blog.naver.com/dobang2001/223242589947",
+            "nick": "낭만꽃돼지",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20120616_70/dobang2001_1339825005970_gdcoZt_gif/%BF%EF%8E%FA%B6%F3.gif"
+          },
+          {
+            "sid": "1659689592",
+            "bodySummary": "이모네식당 11:30~14:30(점심) 033-255-0585 강원도 춘천시 소양로171번길 6-6 일요일휴무 주차가능 춘천은 음식도 맛있고 관광지도 많고 해서 물가가 꽤 비싼편이",
+            "url": "https://m.blog.naver.com/hwsmsk/222523967247",
+            "nick": "까멜리아",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAzMDVfMTk3/MDAxNjc3OTczMjAxMTA3.ouMEZL66abHRMDwGaFppzT9g1So6Fgrl9Qr-d2eLIKkg.YqS-5J5M44Xh9BiGWQEVIkBPi8LkAbFAYw_KI0fRVf4g.JPEG.hwsmsk/profileImage.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

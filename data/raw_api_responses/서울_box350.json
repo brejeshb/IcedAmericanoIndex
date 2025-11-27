@@ -1,0 +1,99 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 1,
+      "count": 1,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.978,
+          "minY": 37.572806306306305,
+          "maxX": 126.97913657372374,
+          "maxY": 37.57370720720721
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.97856828686187;37.573256756756756",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "31824377",
+        "name": "플러스카페 1호점",
+        "x": "126.9790062",
+        "y": "37.5735101",
+        "distance": 0.048,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221212"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 203,
+        "averagePrice": 5000,
+        "address": "서울특별시 종로구 수송동 146-12",
+        "roadAddress": "서울특별시 종로구 종로1길 36",
+        "abbrAddress": "수송동 146-12",
+        "shortAddress": [
+          "서울 종로구",
+          "종로1길 36"
+        ],
+        "displayContext": [
+          "카페"
+        ],
+        "labelTheme": "카페",
+        "microReviews": [
+          "진한 아메리카노와 바닐라라떼의 조화"
+        ],
+        "cardDescription": "진한 아메리카노와 바닐라라떼의 조화",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTZfMTQ2/MDAxNzQ0Nzc4MzgwNDIy.uXMH57Lq7YiLvTxd6e4ZPnq2Cz3w5P4O12iqhcoPAF8g.xn02uOH-slwolXpuHDksMS-Cu03--XB3mu3oLYLlCOQg.JPEG/20250416_131940.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjVfNDEg/MDAxNzQ1NTU5OTEwNjcx.XyhvnfKSzTsdJnUo31GMLhL1tCkMRKGtO4eo_fBvfa4g.RXEdCAfcV7xPaxzT2w6j-GVITyQl10hDr4xV_XINAA0g.JPEG/20250425_142609.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240522_240/1716368604761V2L9C_PNG/%C7%C3%C4%AB%B7%CE%B0%ED.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjVfMTkz/MDAxNzQ1NTYwNTA1NjM0.wa0HVJ34Lfbw3sZEeOiTM_S8fasiYSCWsCFiyZJ3io0g.P3UnWA9ab8oHh82XcbZE_5_IkgVZROJhhUZu9e7lIc4g.JPEG/22D54B3E-BC05-4139-998C-809280D5AF1F.jpeg",
+          "https://ldb-phinf.pstatic.net/20241204_85/1733306896279cpzV9_JPEG/KakaoTalk_20241204_190352458_03.jpg",
+          "https://ldb-phinf.pstatic.net/20241004_37/1728014533682LBeoQ_JPEG/KakaoTalk_20241003_222437290.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221212",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

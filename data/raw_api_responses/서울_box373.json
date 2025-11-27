@@ -1,0 +1,96 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 1,
+      "count": 1,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.98140972117122,
+          "minY": 37.57370720720721,
+          "maxX": 126.98254629489496,
+          "maxY": 37.57460810810811
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.98197800803308;37.57415765765766",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1518368144",
+        "name": "나무카페",
+        "x": "126.9816166",
+        "y": "37.5742525",
+        "distance": 0.034,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 334,
+        "averagePrice": 6000,
+        "address": "서울특별시 종로구 견지동 46-1",
+        "roadAddress": "서울특별시 종로구 우정국로 55",
+        "abbrAddress": "견지동 46-1",
+        "shortAddress": [
+          "서울 종로구",
+          "우정국로 55"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [
+          "쌍화차의 깊은 풍미 속으로 빠져들다"
+        ],
+        "cardDescription": "쌍화차의 깊은 풍미 속으로 빠져들다",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjlfMTcz/MDAxNzQ1OTIyODI5NjQ2.r40z7M-QE_MTFFRCQOnZ6mbGOY9r--BEH_sTe7sA8NMg.m44twqomHcns6x2evnSKkUEI8InfqbwVCeJaQq7Fdcog.JPEG/20250429_135647.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MzBfMjUg/MDAxNzQ4NTgyODcwMzUx.QPPOgb_FLK8mlpKq5ex5C4x0JIjBzVJzmYVwAsPGEVQg.LLQCO1zZhnQoifdFPLZRJoK6Dp04rVsVNd-qgYBPbbEg.JPEG/4EAA9D8E-83FE-44D5-A1D8-E8EF62F7716A.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjNfMjAx/MDAxNzQ1MzM3MTc3OTU3.hIUVGh1fmMukUxJl8Ly2jS07HZvklsXZfLKcDJLJBnAg.yzYhQnA7zPgW8XGkgJ_0Djy4AFHe_DEUAj4PWIFF2Ywg.JPEG/23742214-A04E-4990-8C8D-40356563A25B.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDFfMjA2/MDAxNzQ2MDk0NTc3MDU4.hvlI9Ik3bGaEcnNW_D7vDLP0650CWTZbRXkWcjKyo1gg.diAUReciRMAAPYL_m26hWv7_RwwseKBJc3Hb_x_Kq7sg.JPEG/3CAE8387-C80D-4A8E-AB86-90EED08CFF56.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTJfMTE2/MDAxNzQ3MDU0NTIzMjI5.0ie1XkFjO5yABCtXClxcicKEsxBeAGAcN5ehIRJ_xmIg.YdfSKTx2d7ws26sxvJveeJRqn7-37UnnNnwVW95kxRQg.JPEG/20250512_122046.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MDFfNDQg/MDAxNzQzNDc5MTY1MjI3.bAv_uPrsRjjRWoF2k7UVcOiqKn1oyB4gQaMQZv_8HXkg.58lSBAfn4u49KyaFpaXED-CGvh4lECSi42kH-3R1O8Eg.JPEG/20250401_124528.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

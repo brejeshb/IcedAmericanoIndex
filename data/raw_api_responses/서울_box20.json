@@ -1,0 +1,93 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 1,
+      "count": 1,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.9666342627626,
+          "minY": 37.558391891891894,
+          "maxX": 126.96777083648634,
+          "maxY": 37.559292792792796
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.96720254962446;37.558842342342345",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "13112871",
+        "name": "가나의잔치",
+        "x": "126.9673774",
+        "y": "37.5589384",
+        "distance": 0.019,
+        "categoryName": "뷔페",
+        "categoryPath": [
+          [
+            "220036",
+            "220046",
+            "220164"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "뷔페"
+        ],
+        "reviewCount": 2,
+        "averagePrice": 0,
+        "address": "서울특별시 중구 중림동 149-2 가톨릭출판사 신관 2층",
+        "roadAddress": "서울특별시 중구 중림로 27",
+        "abbrAddress": "중림동 149-2 가톨릭출판사 신관 2층",
+        "shortAddress": [
+          "서울 중구",
+          "중림로 27"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "혼배미사 피로연, 돌잔치 및 회갑, 칠순연, 단독 홀 사용, 호텔식 출장뷔페, 기업체 각종행사 성격에 맞춤 연회 출장.",
+        "description": "혼배미사 피로연, 돌잔치 및 회갑, 칠순연, 단독 홀 사용, 호텔식 출장뷔페, 기업체 각종행사 성격에 맞춤 연회 출장.",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20150831_282/1440988176117qNjkD_JPEG/106479553641190_0.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220164",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,629 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 8,
+      "count": 8,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.98027314744748,
+          "minY": 37.5655990990991,
+          "maxX": 126.98140972117122,
+          "maxY": 37.566500000000005
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.98084143430935;37.566049549549554",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1250997417",
+        "name": "적당",
+        "x": "126.9810422",
+        "y": "37.566491",
+        "distance": 0.052,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 5221,
+        "averagePrice": 5000,
+        "address": "서울특별시 중구 을지로1가 87 1층 후문",
+        "roadAddress": "서울특별시 중구 을지로 29",
+        "abbrAddress": "을지로1가 87 1층 후문",
+        "shortAddress": [
+          "서울 중구",
+          "을지로 29"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [
+          "바삭한 모나카와 함께하는 휴식"
+        ],
+        "cardDescription": "바삭한 모나카와 함께하는 휴식",
+        "description": "팥을 전문으로하는 을지로 대표 양갱카페",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDNfMTcy/MDAxNzU5NDY5NTc3MjA0.695ea6USLPURrUQtjWaVWHICDLqMWSnSla_wJaJj9wQg.8jMdtCAhe9iUFogqSpjv6FxejQT44c9qf2SkHYYJl1cg.JPEG/20251003_120638.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTAzMjlfMTgw/MDAxNzQzMjUwODE3ODM2.rD_JJuuDtbDjy8uZnOumhXDgvwwirGySnDB9wNuFQOAg.kCWjDIU64DEk9CdQ24qRiaEIElKAZIUuHfBEuZwQblAg.JPEG/8BDD7855-0AE6-430A-9424-F2446D074C4F.jpeg",
+          "https://ldb-phinf.pstatic.net/20240719_261/1721392840421nOfjN_JPEG/EF8D8D6B-51EA-42E4-AABB-D580F12B86C4.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDNfMjYx/MDAxNzQ4OTM3NDU1MDQy.u9BLDlqgXxpfWnjJDkk_3nmanezZWYD8GuuWyVB_BHEg.5GdqSHj3YvBnfHrf9y8hRmnNVVMY0xtVPh2CJDIXancg.JPEG/1000079293.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240720_114/17214599718289uvtz_JPEG/97D866B3-BFC0-43BE-A53D-3767EEEE2DBB.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjVfMjYy/MDAxNzUwODYwMzU5NDkw.KZseBjnvszHU0O3_t0LrtwMxMnBOwsH3lVoxhHybHUsg.WoZqtb_AsW4uNLusdkvjpgBAEWpiSUpwL9Nv3NwE2HAg.JPEG/IMG_4212.jpeg",
+          "https://ldb-phinf.pstatic.net/20240719_190/1721392845284tGntj_JPEG/EE4918BB-A144-4CB5-9481-AC864FB8FCD5.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjZfMjk2/MDAxNzU4ODQ2ODYxNjE1.TNtW7ktk_c23Zqzk_JQhsOQa9rYrGBwdIO0McLyuG_Eg.ytZ91sKjiJz7K9WwA8DugGj-DyiMe8kcalyxjzXvDwMg.JPEG/20250907_201146.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MThfMTc2/MDAxNzUyODIzMjMyMDYx.ZDNR_NUMiMYyTNUMYEbAryMJMUDP459c8r7QQ7tmVCsg.SrTXeqLhTI8jNHVXKAy1DeJorS3dma6QUzHjgfN_JL4g.JPEG/20250718_152827.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDRfMjA1/MDAxNzU0Mjc2NTczNjc0.omzS9NBPmNV4G_LC_2OdADmCqL3JJ__VcW_T08RSjpog.wD3W8Iq2Xq7mD1ALFfCNIQ48YWYHItKMenTaegqBj08g.JPEG/5504E441-3A9A-4C6C-AFA9-2824A37D1627.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1250997417",
+            "bodySummary": "✧ 서울 중구 을지로 29 1층 후문 ✧ 매일 10:00 ~ 21:30 (라스트오더 21:00) ✧ 0507-1312-8928 ✧ 단체 이용 가능, 주차, 포장, 남/녀 화장실 구",
+            "url": "https://m.blog.naver.com/on-your-side/223400628472",
+            "nick": "M a y",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20151213_190/onyourside8_1450012033776uIiAF_JPEG/2.jpg"
+          },
+          {
+            "sid": "1250997417",
+            "bodySummary": "지난번 을지로입구에 갔다가 우연히 방문했던 카페인데 분위기도 인테리어도 넘 예뻐서 공유하려구요 ㅎ 적당 카페 정보 주소: 서울 중구 을지로29 1층 후문 영업시간: 매일 10:00",
+            "url": "https://m.blog.naver.com/eunbong_ha/223398123386",
+            "nick": "하루하네",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxODEwMDRfMjg5/MDAxNTM4NjE0NTY1MzYz.ieXDNZin8YnuAHJiVu-c5CFZUNGf_Evh5Zj2t69ZdRQg.9Lq8pB4V_b2dr13mk1kQdcN2nhjfdbqZ2rAQTKjevpIg.PNG.eunbong_ha/profileImage.png"
+          },
+          {
+            "sid": "1250997417",
+            "bodySummary": "이것저것 시키니 테이블이 꽉 찼네영 ㅋㅋㅋ 팥차가 시원하니 꼬숩할거 같아서 주문했는데, 양갱이랑 너무 잘 어울리는 음료였어요~ 아메리카노 많이먹어서 더 이상 안 먹고싶을때 깔끔하게",
+            "url": "https://m.blog.naver.com/go895uik1/223391652302",
+            "nick": "엥딘",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAyMDFfMTYy/MDAxNzA2NzU0MzAyNTYz.tlUP6C4e1nHv1q-76N3GvTV45aNeH2kjNVssC680WgEg.oEdnm8a4qviHA2BVzNKuuXylirnhqfjRBeys3iYeRzIg.JPEG.go895uik1/profileImage.jpg"
+          },
+          {
+            "sid": "1250997417",
+            "bodySummary": "적당 영업시간 : 매일 10:00~21:00 주소 : 서울 중구 을지로 29 1층 후문 연락처 : 0507-1312-8928 SNS : /jeokdang_ 단체 이용 가능, 주차,",
+            "url": "https://m.blog.naver.com/pseharu125/223389528891",
+            "nick": "하루",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEwMjVfMTEw/MDAxNjk4MTYyMTI5MTQ5.jGqxMJAf_Tpl3BCJWxBasrHRrqAQNnN9_ryIzb6Rt0Eg.bgfX7b2daxFnTHL9yAli8nA85CtXeCSsnt4URkr8LZsg.PNG.pseharu125/profileImage.png"
+          },
+          {
+            "sid": "1250997417",
+            "bodySummary": "#을지로카페 #힙지로카페 #분위기좋은카페 #양갱 #적당 오늘 퇴사한 동기를 만나 저녁을 먹고 카페에 갔어요! 되게 예쁜 카페라길래 기대를 하고 갔답니다ㅎㅎ 카페 이름은 적당 양갱을",
+            "url": "https://m.blog.naver.com/hyain36/223387549566",
+            "nick": "금융인슐랭",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMDNfMjE3/MDAxNzA5NDc0ODk3MjYx.s6ZqEPMxKNEfre4VSFEJO7-n6Er55YAqStcZhp4Iij0g.KuYhLTODD-Bt8hCP2cfgkEaysl21Pj4FTmkPRal9GT0g.JPEG/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "id": "1679772546",
+        "name": "스시고킨",
+        "x": "126.9810422",
+        "y": "37.566491",
+        "distance": 0.052,
+        "categoryName": "일식",
+        "categoryPath": [
+          [
+            "220036",
+            "220038",
+            "220081",
+            "220804"
+          ]
+        ],
+        "category": [
+          "일식",
+          "일식당"
+        ],
+        "reviewCount": 44,
+        "averagePrice": 50000,
+        "address": "서울특별시 중구 을지로1가 87 더존을지타워 지하1층",
+        "roadAddress": "서울특별시 중구 을지로 29",
+        "abbrAddress": "을지로1가 87 더존을지타워 지하1층",
+        "shortAddress": [
+          "서울 중구",
+          "을지로 29"
+        ],
+        "displayContext": [],
+        "labelTheme": "고급 정찬",
+        "microReviews": [],
+        "cardDescription": "2019년부터 6년 동안 꾸준히 미쉐린가이드에 등재 되었던 유오균 쉐프의 새로운 업장 오균 五均(고킨) 한자 뜻 그대로 고객의 五味(오미)와 五感(오감)을 만족시키는 均衡(균형)잡힌 맛과 서비스 ",
+        "description": "2019년부터 6년 동안 꾸준히 미쉐린가이드에 등재 되었던 유오균 쉐프의 새로운 업장 오균 五均(고킨) 한자 뜻 그대로 고객의 五味(오미)와 五感(오감)을 만족시키는 均衡(균형)잡힌 맛과 서비스 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTZfNTYg/MDAxNzU4MDE3Nzc5MzE0.8g9pQkuhLUiDPggZAYlMK7ll3P7FnvN3FLkVTglUAKAg.Wdo7c3wGLE3uG7VOYoHsINW0-Nbz6Tc_GK_Y42W-URcg.JPEG/Screenshot_20250916_191307_NAVER.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240708_35/1720403343757bBAlL_JPEG/IMG_4302.jpeg",
+          "https://ldb-phinf.pstatic.net/20240708_95/1720403343817W9xi2_JPEG/IMG_4231.jpeg",
+          "https://ldb-phinf.pstatic.net/20240708_215/1720403343970tFUee_JPEG/IMG_4301.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220804",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 3,
+        "id": "1129310105",
+        "name": "디스트릭트C 에맥",
+        "x": "126.9810422",
+        "y": "37.566491",
+        "distance": 0.052,
+        "categoryName": "아이스크림",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220578",
+            "221361"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "아이스크림"
+        ],
+        "reviewCount": 408,
+        "averagePrice": 0,
+        "address": "서울특별시 중구 을지로1가 87",
+        "roadAddress": "서울특별시 중구 을지로 29",
+        "abbrAddress": "을지로1가 87",
+        "shortAddress": [
+          "서울 중구",
+          "을지로 29"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 을지로1가 87",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjJfMTAz/MDAxNzQ3OTExMDEzMTY3.WHIxMIlNM4nuM5JoMoqWTWtj4OfNBNSOuJnDAcu3pYgg.lYfHVIq9_tb89Mxt-YsCovfcYiM-tifPZlBBb1v6AQIg.JPEG/20250522_194916.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MDRfNjMg/MDAxNzQzNzY2MDUwMTA4.xYciFnSJCwRJaHrFf7dnjqgaaVwS4yguEFsPSD8Lmukg.8Y67Xcr2czINWlWhEau6mp5yaNXpqV2VFNPk2Y-f3egg.JPEG/20250404_202721.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MThfMTI3/MDAxNzU1NDg1MTQ5Mjkx.iqDgIjrR5_cyZH16otrJfDLkEOF5rM2ZKEA8Zp1SMsYg.ALWI7pNhYE2E8603JP0P7zBlR0ga4UCsETSVkiKtgqMg.JPEG/6AFEB079-6085-4AD6-82C6-0C35CDA25FD1.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221361",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 4,
+        "id": "1172579367",
+        "name": "디스트릭스C 에맥",
+        "x": "126.9810422",
+        "y": "37.566491",
+        "distance": 0.052,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 524,
+        "averagePrice": 0,
+        "address": "서울특별시 중구 을지로1가 87 지상1층",
+        "roadAddress": "서울특별시 중구 을지로 29",
+        "abbrAddress": "을지로1가 87 지상1층",
+        "shortAddress": [
+          "서울 중구",
+          "을지로 29"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 을지로1가 87 지상1층",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTZfMTMy/MDAxNzQ0Nzg1MjI0Njg3.aAaZRD4AeDKB3IQqSwfnFRN2MvSed3MJwkKEST4KegIg.YD6qMadR0oY8lpB7-BUlNS_y3-6NGBh8ms8qKTpU42Yg.JPEG/Screenshot_20250416_153216_NAVER.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDlfMjU4/MDAxNzQ5NDgwOTkzNDAy.7M3PC1G-pWhfjw_OTNHISDkAePobvJkN3GO0lcGMK_Ug.HjXsKt_I_0Nr_IS5eU5K2FGXGFoE5m4MLw7q2pIJ_8sg.JPEG/20250609_195711.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTdfMTYz/MDAxNzUwMTMwNDg0MTQy.MrCstKIdJc48oxsDzqyJu7wGxMR6JWN6NSMvv2HEtn4g.CUaGiOuEDz9SO0TXeLCNo6DCKfOJvSo5Kn94HBlw3qUg.JPEG/20250617_122001.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 5,
+        "id": "1606297122",
+        "name": "카페옆분식(미리내 가게 서울 시청 3호점)",
+        "x": "126.980412",
+        "y": "37.5662721",
+        "distance": 0.045,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 7,
+        "averagePrice": 0,
+        "address": "서울특별시 중구 을지로1가 63",
+        "roadAddress": "서울특별시 중구 을지로 23",
+        "abbrAddress": "을지로1가 63",
+        "shortAddress": [
+          "서울 중구",
+          "을지로 23"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 을지로1가 63",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 6,
+        "id": "1251550930",
+        "name": "규반",
+        "x": "126.9810422",
+        "y": "37.566491",
+        "distance": 0.052,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 116,
+        "averagePrice": 50000,
+        "address": "서울특별시 중구 을지로1가 87 1F 규반",
+        "roadAddress": "서울특별시 중구 을지로 29",
+        "abbrAddress": "을지로1가 87 1F 규반",
+        "shortAddress": [
+          "서울 중구",
+          "을지로 29"
+        ],
+        "displayContext": [],
+        "labelTheme": "한국인의밥상 방영",
+        "microReviews": [],
+        "cardDescription": "GYUBAN HANSIK LOUNGE  예약문의(reservation) - 02 541 1555  규반은 선주문을 원칙으로 하고 있습니다. 예약일 2일 전 까지 메뉴 결정하셔서 연락 부탁드립니다.",
+        "description": "GYUBAN HANSIK LOUNGE  예약문의(reservation) - 02 541 1555  규반은 선주문을 원칙으로 하고 있습니다. 예약일 2일 전 까지 메뉴 결정하셔서 연락 부탁드립니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDNfMTg5/MDAxNzQ2MjM1MDE5Nzg0.Ry9x3URegq7ScUdCccN0eDUHsZaZgfbQcjEMn5e57Xcg.92VQNA5UY80D08TgutjogfFlockefj99_lC5ieYxU_Mg.JPEG/1745654764098-3.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20220722_83/1658494634584D9fW7_JPEG/211021-0042.jpg",
+          "https://ldb-phinf.pstatic.net/20181023_68/15402941056857u9hz_JPEG/wpyhi2uO6onEWK3Ov290Nbft.jpg",
+          "https://ldb-phinf.pstatic.net/20211012_7/1634009755745Vxz6m_JPEG/3wclyJl6GDqbzVNySUUX0dgo.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": true,
+        "broadcastInfo": {
+          "name": "한국인의밥상",
+          "menu": "분탕/녹두나화/탕평채"
+        },
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1251550930",
+            "bodySummary": "상견례 장소로 제격인 조용한 한식 파인다이닝 '규반' 서울 중구 을지로 29 1F 규반 월~토 11:30 - 22:00 브레이크타임 15:00-18:00 일 정기휴무 점심에 총 4",
+            "url": "https://m.blog.naver.com/olbye/223359548259",
+            "nick": "gyuna",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDA4MjhfMTgy/MDAxNTk4NTc3OTQ4NzM1.j5vgd7YJjgetPjYMDF3db6_ZPQpATxBH0ndEGl5GoUgg.S2GZnCTrgjGZo-l8kaWbhxRPwgCsa1zvzQHqemE1M84g.PNG.olbye/profileImage.png"
+          },
+          {
+            "sid": "1251550930",
+            "bodySummary": "'변씨만두' 닭고기를 주재료로 하는 만둣국인데 밀가루를 깁체에 쳐서 반죽해서 얇게 비치게 밀어 만드는 만드는 귀한 요리다 닭고기로 만든 소라 그런지 아주 단백한 맛이었고 만둣국이라",
+            "url": "https://m.blog.naver.com/you91831/223220279027",
+            "nick": "라온헤윰",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDEwMjRfMjU1/MDAxNjAzNTM3ODIzMTUx.KO87Jjvg_qVRWUjvRSyPVfQifmutecPFt_uGBGojryEg.0jX8G1s9JWBEJrpgzsNmj4aVYNTOuW_DqlSq_UrEQVYg.JPEG.you91831/profileImage.jpg"
+          },
+          {
+            "sid": "1251550930",
+            "bodySummary": "임금님 수라상에 오른 오겹살 저육찜 @전통 한식 파인 다이닝, 규반 주소 : 서울시 중구 을지로 29, 더존 을지타워 1층 전화번호 : 02-541-1555 영업시간 : 월-토 1",
+            "url": "https://m.blog.naver.com/beandoll2/222605885167",
+            "nick": "mini",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDA1MTJfMTg3/MDAxNTg5MjY5NzQ4NzM4.s99uSIexdEsXcMCi4QAnvDcCYOkXPGJCKm-kiY-BtyMg.Gk24MUk_uFvqoAwFhrDOYX1SdkKiu2CSrr28f3mcjHMg.JPEG.beandoll2/KakaoTalk_20200512_164831944.jpg"
+          },
+          {
+            "sid": "1251550930",
+            "bodySummary": "동생이 마싯는 거 사줬음^~^ 거마워 가게 인테리어는 뭔가 이런 분위기랄까 빤질 단아...여기는 한식 코스요리집인데 잘 어울렸다 분위기가 마음에 들어서 많이 찍었다 헤헤 룸으로 되",
+            "url": "https://m.blog.naver.com/itchy264/222548850469",
+            "nick": "룬ivi",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA1MDhfMTc5/MDAxNjIwNDcyMjMzNjMx.a_dws3veg6_SbDQTV8aWNaorTTRs1x7H_MgAvdDNZAQg.fkbIN4mn8Gt1jQ2k1VC8enTmweOFazfiL9jyxpMpEawg.JPEG.itchy264/profileImage.jpg"
+          },
+          {
+            "sid": "1251550930",
+            "bodySummary": "옛 어른들 사이 에선 ‘재배한 나물은 참기름, 산에서 캔 나물은 들기름을 써라’라는 통념이 전해지는데, 이에 따라 오니취의산 내음을 살리기 위해 들기름으로 콩전을 부쳤다. 그리고 ",
+            "url": "https://m.blog.naver.com/barndining_/222276334908",
+            "nick": "바앤다이닝",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMDRfMjE0/MDAxNzA5NTQ4MDgxMDMw.PvAOaJbEdp6ui72eLYBwtJtFe_Z470gM3hv8PrEWvPAg.2ppy_VDmMzARwYTI-4Ep_PzjeM1z0z8L2TAHYHon-mQg.JPEG/243%25ED%2598%25B8-%25EB%25B8%2594%25EB%25A1%259C%25EA%25B7%25B8-%25EB%25AA%25A8%25EB%25B0%2594%25EC%259D%25BC-%25EB%25B0%25B0%25EA%25B2%25BD.jpg/243%25ED%2598%25B8-%25EB%25B8%2594%25EB%25A1%259C%25EA%25B7%25B8-%25EB%25AA%25A8%25EB%25B0%2594%25EC%259D%25BC-%25EB%25B0%25B0%25EA%25B2%25BD.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "id": "1764932609",
+        "name": "VERTICE",
+        "x": "126.9810422",
+        "y": "37.566491",
+        "distance": 0.052,
+        "categoryName": "이탈리아음식",
+        "categoryPath": [
+          [
+            "220036",
+            "220044",
+            "220127",
+            "220913"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "이탈리아음식"
+        ],
+        "reviewCount": 6,
+        "averagePrice": 50000,
+        "address": "서울특별시 중구 을지로1가 87 지하1층",
+        "roadAddress": "서울특별시 중구 을지로 29",
+        "abbrAddress": "을지로1가 87 지하1층",
+        "shortAddress": [
+          "서울 중구",
+          "을지로 29"
+        ],
+        "displayContext": [],
+        "labelTheme": "고급 정찬",
+        "microReviews": [],
+        "cardDescription": "셰프들의 창의적 요리와 최고의 서비스를 선보이는 지배인과 전문 소믈리에가 있는 파인다이닝",
+        "description": "셰프들의 창의적 요리와 최고의 서비스를 선보이는 지배인과 전문 소믈리에가 있는 파인다이닝",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20241217_193/1734410955907GnAcY_JPEG/%C5%A9%B1%E2%BA%AF%C8%AFIMG_0284-HDR.jpg",
+          "https://ldb-phinf.pstatic.net/20241217_269/1734410955933CwegL_JPEG/%C5%A9%B1%E2%BA%AF%C8%AFIMG_0275.jpg",
+          "https://ldb-phinf.pstatic.net/20241217_125/1734410955852q1yEr_JPEG/%C5%A9%B1%E2%BA%AF%C8%AFIMG_0242.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220913",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 8,
+        "id": "1724563569",
+        "name": "온점 을지로점",
+        "x": "126.9810422",
+        "y": "37.566491",
+        "distance": 0.052,
+        "categoryName": "육류,고기요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220733"
+          ]
+        ],
+        "category": [
+          "한식",
+          "육류,고기요리"
+        ],
+        "reviewCount": 2908,
+        "averagePrice": 40000,
+        "address": "서울특별시 중구 을지로1가 87 지1층",
+        "roadAddress": "서울특별시 중구 을지로 29",
+        "abbrAddress": "을지로1가 87 지1층",
+        "shortAddress": [
+          "서울 중구",
+          "을지로 29"
+        ],
+        "displayContext": [],
+        "labelTheme": "프라이빗",
+        "microReviews": [
+          "프라이빗한 룸에서 즐기는 특별한 식사"
+        ],
+        "cardDescription": "프라이빗한 룸에서 즐기는 특별한 식사",
+        "description": "따뜻함이 모이는 공간, '온점'  - 다이닝스러운 고급 인테리어의 숯불구이 전문점 - 13개의 프라이빗 단독룸, 50인까지 수용하는 단체룸 - 양념갈비와 한돈, 한우를 모두 즐길 수 있는 고기집 (고 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MzBfMjAg/MDAxNzQ4NjA2MTk3Mzcy.k60d4jKvzoicHtJ2lTzMig71CO3l-onqzh25ba6VF4Mg.Jhyj6Bsg7u3aScy4yjhRvjBGFfqxmw91ixTM2umh6V4g.JPEG/IMG_2474.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDhfMjAw/MDAxNzUxOTcwOTYzNzcx.fBn3sAMw8GG8RFsG9BNpjaZheue-5BePw16W5DzoxQ4g.mBHYyeZYVwWAInfAm9R6NUEDd2siS6AlZmfch8HpA1Ug.JPEG/IMG_8281.jpeg",
+          "https://ldb-phinf.pstatic.net/20240406_155/1712389633460QYMGI_JPEG/JS2_0798.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTlfMjA1/MDAxNzUyODk4NjM0MTg5.dQZEs_An5qLphjrX9_v4N3SzNDLzdRNcq5GnKOs3xTUg.tXZtB5FhBpprWPjJSN6r72-Mj5YVRdAxYeKV1aLPc4Ig.JPEG/20250719_130035.jpg",
+          "https://ldb-phinf.pstatic.net/20240323_283/1711191681604wn4gR_JPEG/JS2_0447.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjRfMTg2/MDAxNzQ4MDgzMDkyNzAx.JyBMXmuxnum5ub7BnoBJ7aYsAzH-HoqqqkyGNJ75TLIg.dZYUwv2BQ5LCCQEy7DA-Zf1NZ-fWrRp6JR2g1jTy5tEg.JPEG/F8D816BC-F562-4CFA-BC26-7DD1A0A2A692.jpeg",
+          "https://ldb-phinf.pstatic.net/20240323_81/1711191680972CVtqm_JPEG/JS2_0383.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjVfOTYg/MDAxNzUwODE5MzIxODU4.Q9b2OSgb2Som4iLkUW5VNgoSB80UkeSkANbpAUfuA6Yg.ghz4TXnnIg5dM0hnR3B2Bu0NoobbDwdpG4NyyPSe6dIg.JPEG/IMG_8886.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTZfODQg/MDAxNzU4MDE1NzMzNzk1.KQGVikt_IEN-WZj4Xe8h9SpL34fR0nmtqDaWvJuHvzUg.mJIWXF8_3ESI8zKM9FMbEGEZzpAK4KD8td32eE8KzdYg.JPEG/222EEE81-17B3-4C92-A03D-682ECC3CC180.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjRfMTk2/MDAxNzU4Njg2NTkzNTMz.4yStzLw8gml_hQDOOGp3hc-sQ3FA9r6r_GAeanHYcCcg.tE5B_sZIa1uwNfvzLXL2SrQjQWZZdvJjfZTeFNxzyhIg.JPEG/Screenshot_20250924_130114_Instagram.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220733",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "1724563569",
+            "bodySummary": "맨날 삼겹살만 먹다가 종목을 살짝 바꿔서 을지로 고기집 중에 갈비가 맛있다는 온점에 다녀왔어요! 인테리어도 너무 고급지고 새로 생겨서 엄청 깔끔한 신상 집이에요 을지로 고기집 온점",
+            "url": "https://m.blog.naver.com/shine_2me/223397073172",
+            "nick": "니나밍",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA0MTJfMTEz/MDAxNjQ5NzQ5NzE3NjE4.yNn1-TnXYNxMfH1LmmczXUDizqSoIuiwDTvnTdHMTWsg.z0VUq5uVCgc5SIYXMq2ZuSaggxnII9NNnhOePEq88_0g.JPEG.shine_2me/KakaoTalk_20220412_164750659.jpg/KakaoTalk_20220412_164750659.jpg"
+          },
+          {
+            "sid": "1724563569",
+            "bodySummary": "온점 을지로점 을지로 근처 회식하기 좋은 분위기&맛 완벽한 고깃집 위치 : 서울 중구 을지로 29 지1층 운영 시간 : 11시 ~ 22시 * 매주 일요일 휴무 들어가자마자 작은 사",
+            "url": "https://m.blog.naver.com/oh324love/223393776370",
+            "nick": "임땅스",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTExMjJfMTg2/MDAxNTc0NDMzNTA1NjU5.4vn6jnvfeShMhOpjAvLCTIEKn59FPwZpYocbSQ7kFywg.gy7S4_RYdaGsxhYUDmnX1aP2XFXuHUxg4b3ipBo-sucg.JPEG.oh324love/profileImage.jpg"
+          },
+          {
+            "sid": "1724563569",
+            "bodySummary": "을지로입구역에서 정말 가까운 온점 을지로점에서 숯불에 구운 맛있는 소갈비를 먹고 왔어요. 온점 을지로점은 을지로입구역 1-1번 출구에서 나오자마자 위치해서 접근성이 정말 좋았습니다",
+            "url": "https://m.blog.naver.com/pharmkim-/223393308928",
+            "nick": "봄봄",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMTZfMjIx/MDAxNzAyNzAyODg4Njgz.28B25SM6o9cnY0PWs-c_PqvfI4BUEt9cAfEV5TwUIgkg.KUSXAWfIpmWL5uIPRWPxa0YnmttTRtyVnQiUN5JAutMg.PNG.rladb1991/profileImage.png"
+          },
+          {
+            "sid": "1724563569",
+            "bodySummary": "예약 가능(유선, 캐치테이블 가능) 주소 : 서울 중구 을지로 29 더존 빌딩 지하1층 ☎️ 전화 : 02-3789-8826 온점을 을지로입구1-1번 출구에서 이어지는 더존 빌딩에",
+            "url": "https://m.blog.naver.com/goyj1001/223368252606",
+            "nick": "고둥이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEwMTBfNzEg/MDAxNjk2OTE2NDY3MDgx.l6m535nS2m0YgHzLhOrJEniPR1mLtC6Fv9g8CgtX_PAg.1NTz-MavMHBbQV4ensg_bwVSVSsN8xBMhNDe2uxMjowg.PNG.goyj1001/profileImage.png"
+          }
+        ]
+      }
+    ]
+  }
+}

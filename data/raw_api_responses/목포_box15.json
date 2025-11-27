@@ -1,0 +1,990 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 15,
+      "count": 15,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.39748646224493,
+          "minY": 34.81730450450451,
+          "maxX": 126.40297292448986,
+          "maxY": 34.821809009009016
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.4002296933674;34.81955675675677",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "2000670770",
+        "name": "포미김밥천국",
+        "x": "126.3975089",
+        "y": "34.8178669",
+        "distance": 0.312,
+        "categoryName": "종합분식",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220185"
+          ]
+        ],
+        "category": [
+          "분식",
+          "종합분식"
+        ],
+        "reviewCount": 13,
+        "averagePrice": 5000,
+        "address": "전라남도 목포시 용해동 973 1층 106호",
+        "roadAddress": "전라남도 목포시 포미로 19",
+        "abbrAddress": "용해동 973 1층 106호",
+        "shortAddress": [
+          "전남 목포시",
+          "포미로 19"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [
+          "다양한 김밥으로 채우는 든든한 한 끼"
+        ],
+        "cardDescription": "다양한 김밥으로 채우는 든든한 한 끼",
+        "description": "맛있는 제육김밥과 맛있는 한 끼",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTlfMTA3/MDAxNzU4Mjc4NjA4NjQ3.oQZxVQW4yG8yBcGQeXUFqnZvMo_DqEMV4gdnezjz6wYg.JrMGwYgD--liqAmh2k3F_tXbr1WZ1RpXtLyxvLgsciIg.JPEG/0F89AFE0-6BFF-4D65-8E15-2D8824E47EE1.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjVfMzAw/MDAxNzU4Nzk0NzA0OTA0.yXEj0Ry0F9a51aUPdOawo8b9i6jECFhqe-OzUwJTsxgg.JwwuZ0FTbRi0r43DWBp1WhWEuIwkAVCDskEthy3VXBQg.JPEG/1758794499710.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250706_60/17517823188130jqoW_JPEG/KakaoTalk_20250706_151128800.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMTJfNjkg/MDAxNzYyOTIwNzcyODU0.VCupJfNqufVtpYI89onX2kjkGYki2sdTNieng6fzsdgg.-qWG1-pwdPh6Sc06iV_t56WnKK_dHeFzk9BTGgO_Iosg.JPEG/B71E2886-BE1E-43F5-B186-FB252C4A8990.jpeg",
+          "https://ldb-phinf.pstatic.net/20250706_284/1751782312446Dvmvd_JPEG/KakaoTalk_20250706_151118839_01.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDFfOTEg/MDAxNzU5MzA4MzYxMTM2.SoIQ6kG9SN5s0XMdQdvvaGGLzpxO_F9P38VWCQBt0Y8g.CgH4779feiYX-1WYY8nCIzwnh-jLu8pD3SWY67ZZMP0g.JPEG/A4914EB9-FAE4-4762-B1D4-A5677C53E19F.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjdfMTQy/MDAxNzYxNTI0NDY3NjU2.1adZ1U43kZBPflMxzMW_xGGGh4ByrPKY3ls5elqFA2gg.xdKy-EDNTBQCZl4V8IxUuAFZjZMHaNNQXQExqcqbRiwg.JPEG/20251027_092009.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDFfMjEw/MDAxNzU5MzA4NDI3OTc2.YXJ9Ubf1ipxIhF0V23IXmmsdQ_aUKygzNTpXExNGsIUg.XRq8mKQniKxP10IaPOR1CAiLsOgoIAg81Ndr6Tf0mHAg.JPEG/IMG_6673.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMTRfODQg/MDAxNzYzMDkxOTQ4OTIz.DzuJetfFXbNUFreC7keewpkhQIT0rjVrcBh29sR8rjkg.SVXi29CdImbTF5d9wI5PYGtF7SzrqDlG138dQFxNuNMg.JPEG/F6B8C2AE-A412-4B92-9DF6-27ACC4E798F6.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMDVfMTgg/MDAxNzYyMzMzMjc2NTQ0.XtIjvmtHSqJnN0BbspLNYjS2n74D_FR7X_aKkGHMf9Ug.bKq8d8EzoVcvSAYJ-w57BR8Oshc6QS8-WMpjZ3z670gg.JPEG/B2E38865-55ED-4395-9557-9183F7AA30FA.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220185",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "798307610",
+        "name": "믿음한우",
+        "x": "126.398277",
+        "y": "34.817354",
+        "distance": 0.303,
+        "categoryName": "소고기구이",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220764",
+            "221440"
+          ]
+        ],
+        "category": [
+          "한식",
+          "소고기구이"
+        ],
+        "reviewCount": 1051,
+        "averagePrice": 0,
+        "address": "전라남도 목포시 용해동 977",
+        "roadAddress": "전라남도 목포시 용해지구로 8",
+        "abbrAddress": "용해동 977",
+        "shortAddress": [
+          "전남 목포시",
+          "용해지구로 8"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "전라남도 목포시 용해동 977",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMTNfMTQw/MDAxNzYzMDE1NDY3Mzgw.Ixd-XbyC3SzyzQ5ju7_DpHY_qlUSSwbpy8CWIv587vUg.kejkWQXDEGKt0WhNpoHvqTLMrHvVgS848Ggpau_LkWsg.JPEG/20251113_153031.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjFfODAg/MDAxNzU4NDYzMDgwODYy.zN5JhXQDnoRfS9k7T_dcheWcxNbd19-AsD4OMRsgwjAg.YBXXuwqPeDq7FYTNYzTyYQGztZIdwjrV1PlMj6m6eZ4g.JPEG/20250921_225745.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjNfMTU0/MDAxNzYxMTk3ODY1Njk2.vwTzaEUVJklws57bttAvDxUX4DXW2TNQlNvq2uKHs9kg.Z0ERu_ZG25XLMTBLX3zEbf8CD5PQZU7Npo3lCbmCU3sg.JPEG/20251023_143043.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMTBfODMg/MDAxNzYyNzMzMTQ2MTQ0.IFOo1gJOfLYXp5gpq1nwiRuycQC7UUML24ATAJga5Wcg.TpWgjv2WeChP40htKXixl_YZw4BZyG9-KQi4pV1IcC4g.JPEG/20251029_174110.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMDdfNTEg/MDAxNzYyNTAxNjc5MjUx.dWNWehqT2s-frQawjBiTRJPJkh3J8DeT3LJl2HO-VYgg.on4UacwUlILmJ5ygfmlmCU_qG-pQhbsf8O9BmfNSR74g.JPEG/20251107_164657.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjhfMTcz/MDAxNzYxNjYzMjM2Njcw.87HpptT8Vf9QE-18YBAguwTjqu3IVE4jg6kAGS48Lmcg.TTxtqv59s-sA4R1Wk0BOkujJ4o4u0JdOsxjXJoSV2jcg.JPEG/6C36208B-D8A8-4391-8925-643A5B151002.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTlfMjgw/MDAxNzYwODgxODI1NDY0.WWdm5ALc0_lmhQhKzoUaDjv9bcJ1o3l4cE9uLhq89Cgg.TKpg2L-35K_Ev_LdVSYL5o0HdbX89HiFQ8KSf5efXc8g.JPEG/20251019_225010.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDZfMTA5/MDAxNzQ5MjE5ODc2MzEy.pfjaao5s3H7QmHuCL1O11liejuQV3dct-ek2S0s2S4Mg.QJSByhFbsEsfO2fWcokOqcbHvgcerGNozDQlc3Nb54Mg.JPEG/5BA407CA-825A-46DE-8C31-0F2C88E901AB.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMDlfMjA3/MDAxNzYyNjg3MDAxOTA0.t0DDE0OpAYo7hI2tYYsIsvYCT0tCrA9vT7r4L6xnBbQg.e1VNOfS9an526nVTooXiZvlEnEwP39AXrBWLWxHfKsYg.JPEG/20251109_201626.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjlfMjAx/MDAxNzYxNjY0MTI4Nzk3.53fJSWEdlwI-s7zwH03sqMqn4lNHSu5yeV8CtyH2K0wg.0YttdPTlSV7Jc6zOlifD-pwsRu53-R6ae4oM60Ik89kg.JPEG/58D89303-05AA-4255-B116-22606BD8F29D.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221440",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 3,
+        "id": "1950657814",
+        "name": "컴포즈커피 목포용해점",
+        "x": "126.397895",
+        "y": "34.8174286",
+        "distance": 0.319,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "230629"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 16,
+        "averagePrice": 1000,
+        "address": "전라남도 목포시 용해동 976-1 1층",
+        "roadAddress": "전라남도 목포시 포미로 16",
+        "abbrAddress": "용해동 976-1 1층",
+        "shortAddress": [
+          "전남 목포시",
+          "포미로 16"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "전라남도 목포시 용해동 976-1 1층",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTlfMzMg/MDAxNzQ3NjQwMDc5Mjc1.Y1IZEufMalAdMTuJQDvhjYRz7UOoKWyzHsceC-MLrEQg.i2rXRW3_-Vw1Mfz20FECr_jF3SMDI7LWdJ3otZq5fjkg.JPEG/9664A736-70F6-4119-A35F-65DF82AC41CD.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjhfMTU4/MDAxNzUzNjk3OTMzNTA0.fV1niq5R-XjGirhc_FYmeIzuhacUwqW9g0J7GsvaDUcg.kegbo2zmaQot9KPLe7DXaet3jvAdks0_QVTHByFdYsIg.JPEG/1000051324.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250113_34/1736735504242761as_JPEG/KakaoTalk_20250113_113041703.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjFfMjUz/MDAxNzU4NDYyMzg1NTI4.216vRBj3XijDliaA02-WczHzB9_e9R28CmhFSi1f00kg.X_wVssicma-CwBN-_rciTVEMDcZvuNfLCu26d5SSh1cg.JPEG/1757753184194.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250113_276/1736735504171diK2c_JPEG/KakaoTalk_20250113_113041703_%281%29.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjBfMjc4/MDAxNzUzMDE1MTA2NDE0._rJAwHBNEDa-0SMfqx7gorUaOxU_3bgZAcDrwJYDVU4g.5a-6rC3pLZ0k4KhwvaYMMUBgEq_XAoA_5LBt6NF80IQg.JPEG/20250712_170929.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250113_20/1736735504124hQXyl_JPEG/KakaoTalk_20250113_113041703_%282%29.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMDNfMTQ2/MDAxNzYyMTQ2ODUyNTc2.Gw9r7s1izvrODdlz-NAZtp6slNsGmy3b9n8AazVkH0Qg.IQzx57pBR7W_xPmiAEHf_da4iyR2-4H1beee2bBKFPgg.JPEG/37E70889-2387-44E9-8FC7-C7F58771DF7C.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjlfMTE3/MDAxNzQ4NDg0NDc2MDY3.J5koBayPrBjLeQ92BXOitd1vsKcpE2aPcS75zotxOAog.Pmuq0TkL_JeZNY83ZDL-QzzW7Bvc20icv7MkeFh0umwg.JPEG/20250529_110738.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTFfNDYg/MDAxNzU3NTIzOTYxNjI3.rCMyem70YvxbkpHMG0dsSlOoJUqDNELYCutg5peSGNkg.2nVzFO9QiAxNxoIkG1yWD7LBBDZYB83g0hkmw7XOgDIg.JPEG/20250523_103331.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "230629",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 4,
+        "id": "17276061",
+        "name": "파리바게뜨 목포용해점",
+        "x": "126.3991277",
+        "y": "34.8173928",
+        "distance": 0.261,
+        "categoryName": "베이커리",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220564",
+            "221176"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "베이커리"
+        ],
+        "reviewCount": 1433,
+        "averagePrice": 0,
+        "address": "전라남도 목포시 용해동 978-3",
+        "roadAddress": "전라남도 목포시 용해지구로 2",
+        "abbrAddress": "용해동 978-3",
+        "shortAddress": [
+          "전남 목포시",
+          "용해지구로 2"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "파리바게뜨 목포용해점입니다. 네이버 스마트주문에서 간편하게 주문하세요!",
+        "description": "파리바게뜨 목포용해점입니다. 네이버 스마트주문에서 간편하게 주문하세요!",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMDNfMTAz/MDAxNzYyMTUwNTQ0MjA2.W0wZ7lYJEbGGtp_urGYNtJfZ9AMGKFYHetkGA3Bbwpgg.pbVSZQvlCoLrMWE1tG2lZruZ0rlW0bkalu7QaV--t70g.JPEG/22217.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjBfMTM1/MDAxNzUzMDE1MjYyNDc1.IGd0cdlfTZtZdgEV1lVF_Hr24iBW_9XHhaDoSKF9G8Mg.HBD75EftpgXGGhEgatnKSryTGSU6PkySGSMcDn5Jd5Mg.JPEG/20250715_185123.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20220413_207/1649837238984MibQA_PNG/image.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDdfMzkg/MDAxNzU5ODMxNTQ1NTM2.OqBcgxvQe3jOUcA9KCpEUDmNHRgwfjELh9PpC33MbtEg.18d3ArIiyQY_UTDPljy9C9usCDmfRN0kXvQkpc_luJ8g.JPEG/D36232EF-52DF-4D98-95C4-29F3993E53DD.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjNfMzMg/MDAxNzU1ODc1MDI3ODk0.QKhI1UYj5VF_LkIcUu1qH2ZIa5KZ1n60yJ1U0KYIBB8g.FuAINft1WeCsEw6bjpldX5yJ1v90Ebh9BbwPDc9unZEg.JPEG/20250823_000332.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MzBfMTI5/MDAxNzQ4NTgyNDM3MTkz.T0NHnqUROOIVX2FGRF-z66J8Tk9OQAN9CZkG4_cSieAg.W9fkQVUZu1LJ5MkA6DUTGac0gO53p1tlSQ7Y7If3-G0g.JPEG/20250530_142020.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMDlfMTAw/MDAxNzYyNjg0OTAzNjcz.ENyY1Cq7tnharG-Y-kh1bDnvnVj62mk6yNU1PE158skg.man5HPXPuORH1gsxLPwdXVmN1KDN7KaWVmQv6xrNT1cg.JPEG/20251024_135441.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTZfNDEg/MDAxNzU1MzQ0OTkwNDgz.HDHCSjmJ5LduA1bmUtz2HPQO2cVFs63AIoHtDPfIa1Ig.LYOsG3ZKRBPTBv8qREU1Minlx1X08L6LYp-NYxQ8Fpcg.JPEG/20250816_204926.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMDhfMTg5/MDAxNzYyNTQ5MjgzMzk5.Tabp2lTsrvNUGFzhDSaqJP2KPprYah5TqtK2iLLe5OYg.aj41EkxUhjiTND9cMgzO_OhkfAc1mOyZgYSRoE_GCxUg.JPEG/1730070624424.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDlfMTk0/MDAxNzU0NjcxODUzNjEz.NhYke4todO0CXB8mAk2d2EGqY3cjGXEYWAsbEct6q_Mg._CXxvpHmrBvI6riFxbCY1hNKpBv-eChWRciOeEbH1gEg.JPEG/20250630_184224.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221176",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.41",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 5,
+        "id": "38570042",
+        "name": "맘스터치 포미점",
+        "x": "126.3990912",
+        "y": "34.8174003",
+        "distance": 0.262,
+        "categoryName": "햄버거",
+        "categoryPath": [
+          [
+            "220036",
+            "220044",
+            "220138",
+            "220341"
+          ]
+        ],
+        "category": [
+          "양식",
+          "햄버거"
+        ],
+        "reviewCount": 467,
+        "averagePrice": 9000,
+        "address": "전라남도 목포시 용해동 978-3 2층",
+        "roadAddress": "전라남도 목포시 용해지구로 2",
+        "abbrAddress": "용해동 978-3 2층",
+        "shortAddress": [
+          "전남 목포시",
+          "용해지구로 2"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "전라남도 목포시 용해동 978-3 2층",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjhfMTIy/MDAxNzU2MzcwOTA3MTcx.HN-QiyNWy5IzHMtH-MlFn81sXCMvbstLf6_0QuFSIZwg.hDKPmF0S9lWyEKTj5p3R0X5qFURcQMAURdOgSM_uQygg.JPEG/1000125034.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTlfMTE3/MDAxNzQ3NjQwMTk5MTA0.miE-MNlwKzd07gp8LvCmIgHig6ENp_1J5nMp_YHhuewg.jbgR6v1yofkwPQm0g9y0IXzUOThlpeqQkYId9oYv1pwg.JPEG/4AB3F040-9534-41B3-9793-6C2464D3597D.jpeg",
+          "https://ldb-phinf.pstatic.net/20230829_137/1693282401170BAq7o_PNG/%B7%CE%B0%ED_%C1%A4%B9%E6%C7%FC.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMDZfMTE5/MDAxNzYyNDM1NjcwMzI0.l-F-4MYGOM0Yahxx85SzjVZMUg-OpWqBLS0xM_huUmwg.cIx9StXmC2iE7tfjCV8JogkXBfm3skqBkq43f81aYOsg.JPEG/Screenshot_20251106_222650_NAVER_Map.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDlfMjAx/MDAxNzUyMDQ0MTY2MjIz.ZqgaLQIV04drLs0IiChIeDvpFIzNsecaKyZhMgH9uGEg.NCzyCnzIQNyzqSdZlX-msDra8UIPclSamszoijyDeM4g.JPEG/E876B7DF-5E92-4FF6-9693-3DBB4500A8CB.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDdfODcg/MDAxNzU0NTY1OTUwMzQz.1UGnjdT5AlwNQxaO6EWvtW6qCT52oxeee2Djeh9Ts5sg.m5olM5HTlgQVM5v6jQA-rG272q_9H0TAqwho7ZJe2VYg.JPEG/20250807_191654.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDRfMTgx/MDAxNzQ2MzY5Mjk4OTA5.bjELvVehdVkaqCb1R7GJWAuwTvmjWdAKlY88yrPqv4Mg.98FklYOF-s3jLrkmTiBfSkdk1Si9n9YvJGhc59L9pAog.JPEG/20250502_205315.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220341",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "38570042",
+            "bodySummary": "저번에 점심시간에 사무실에서 싱글로 시켜먹어봤었는데 너무너무너무너무 맛있어서 깜놀 최소금액이 롯데리아보다 높고 배달료도 천원이 있지만 그리고 거리도 훨씬 멀지만! 맘스터치가 먹고 ",
+            "url": "https://m.blog.naver.com/tangtangeeee/221687482889",
+            "nick": "촵촵촵",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA4MThfODUg/MDAxNjkyMzY0NTE3Mzgx.-1VS04txDBnzm80LrAJ542taIbOhyBTeYcJnjp9jAHUg.UbFIT7L4Y8lTX2LgTq5Km3Pv3jHDdhzdNS85dZYT-X0g.PNG.tangtangeeee/profileImage.png"
+          },
+          {
+            "sid": "38570042",
+            "bodySummary": "용해동 맘스터치 맘스터치는 버거도 맛있지만 감자튀김이 너무 맛있어요 ㅠㅠ 바삭바삭하고 통통한 감튀 ! 맘스터치 생맥주 생맥주 2잔을 주문하고 요즘 대세 게임 브롤스타즈를 하면서 햄",
+            "url": "https://m.blog.naver.com/mylib79/221521359329",
+            "nick": "마리브",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA1MTFfMjA2/MDAxNjgzNzg4MzQ1MTA5.VnRgsSdIhGcu0q9IRyJnGT6lOk0FT2-X3VpgeETEZbIg.7MJyi2q7RB6Ud8HqBz1D13wmQfC_PtmDzXOKAlS2PXUg.JPEG.chocofac42/MYLIB-LOGO.jpg/MYLIB-LOGO.jpg"
+          },
+          {
+            "sid": "38570042",
+            "bodySummary": "싸이버거 먹은지 일주일도 안됐는데. '' '' 요번에는 남악점이 아니라 포미점에서 테이크아웃. 메뉴는 역시 내가 고르지 않고 여니가 선택해서 주문해옴. 과연 어떤 햄버거가 들었을것",
+            "url": "https://m.blog.naver.com/qlcsk1129/221347192552",
+            "nick": "마더꽉",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDEwMTNfMjM2/MDAxNjAyNTg1ODQxNDYz.BHSFQ8MjsrmPKjdACphY6nZoXI8p3KcHD-iTD3zi5wQg.jQgxymGmanvlNL4bsPPrzex3-1uIg3PNdsJ1rJFDCaAg.PNG.qlcsk1129/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "id": "478418690",
+        "name": "난타5000피자 목포포미점",
+        "x": "126.399012",
+        "y": "34.8173698",
+        "distance": 0.268,
+        "categoryName": "피자",
+        "categoryPath": [
+          [
+            "220036",
+            "220044",
+            "220136",
+            "220948"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "피자"
+        ],
+        "reviewCount": 127,
+        "averagePrice": 6000,
+        "address": "전라남도 목포시 용해동 978-3",
+        "roadAddress": "전라남도 목포시 용해지구로 2",
+        "abbrAddress": "용해동 978-3",
+        "shortAddress": [
+          "전남 목포시",
+          "용해지구로 2"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "전라남도 목포시 용해동 978-3",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20170817_178/150297174236066VXA_JPEG/s1FG3t0lxcEmj-nxY6-TqgJg.jpg",
+          "https://ldb-phinf.pstatic.net/20170817_292/1502971752618i1vUX_JPEG/FkKT7nWkAMgccBFSwKolOvK-.jpg",
+          "https://ldb-phinf.pstatic.net/20170817_240/1502971761288XzHY4_JPEG/iTYetNLiEHBqw7aTaofamSsd.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220948",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "478418690",
+            "bodySummary": "예전에는 저렴하고 맛있는 가성비 피자였는데, 오랜만에 먹어보니 치즈도 도우도 너무 얇고 다른 피자 브랜드에서 행사하는 가격을 비교했을 때 가격적으로도 큰 장점이 없는 듯 하다고 느",
+            "url": "https://m.blog.naver.com/smar57/223227420378",
+            "nick": "쭈꾸",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA5MTVfMTAy/MDAxNjk0NzQ4MjAxMjE1.8rsllNFkKhur3GX-x8u63CpWkJTzeJ9hNC5BMvErA-Mg.GNoK4DqU0LYyvpIRMtbBHGydh0BzpJ_kitKeJ4JHhv4g.JPEG.smar57/Tulips.jpg/Tulips.jpg"
+          },
+          {
+            "sid": "478418690",
+            "bodySummary": "난타5000 포미점 ➡주소 : 전남 목포시 용해지구로 2 지번 - 용해동 978-3 ➡예약, 문의 : 061-278-5551 ➡영업시간 : 10:00~23:00 안녕하세요:-D 홍",
+            "url": "https://m.blog.naver.com/yhy910819/222113448071",
+            "nick": "홍당무",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTAyMDJfMjUw/MDAxNTQ5MDg5MzAyOTcy.0oDYoPUtHAZ5mfOvBrBmc5jnRRTUV1EULOXR3j5IW-cg.ssrPrd2Q_KB6Hm7uFq-oqrEUiQeKo7Pd5plrhtZHU_kg.JPEG.yhy910819/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "id": "37263092",
+        "name": "일이삼먹방치킨 포미점",
+        "x": "126.3984672",
+        "y": "34.8173697",
+        "distance": 0.292,
+        "categoryName": "치킨,닭강정",
+        "categoryPath": [
+          [
+            "220036",
+            "220049",
+            "220245"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "치킨,닭강정"
+        ],
+        "reviewCount": 115,
+        "averagePrice": 0,
+        "address": "전라남도 목포시 용해동 977",
+        "roadAddress": "전라남도 목포시 용해지구로 8",
+        "abbrAddress": "용해동 977",
+        "shortAddress": [
+          "전남 목포시",
+          "용해지구로 8"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "전라남도 목포시 용해동 977",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220245",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 8,
+        "id": "1390508503",
+        "name": "프라임",
+        "x": "126.3998343",
+        "y": "34.8173552",
+        "distance": 0.248,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 10,
+        "averagePrice": 0,
+        "address": "전라남도 목포시 용해동 407-1",
+        "roadAddress": "전라남도 목포시 용당로 344",
+        "abbrAddress": "용해동 407-1",
+        "shortAddress": [
+          "전남 목포시",
+          "용당로 344"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "전라남도 목포시 용해동 407-1",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 9,
+        "id": "1658663291",
+        "name": "첼로",
+        "x": "126.3985944",
+        "y": "34.8209017",
+        "distance": 0.211,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221212"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 2,
+        "averagePrice": 0,
+        "address": "전라남도 목포시 용해동 625-2",
+        "roadAddress": "전라남도 목포시 용당로384번길 2",
+        "abbrAddress": "용해동 625-2",
+        "shortAddress": [
+          "전남 목포시",
+          "용당로384번길 2"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "전라남도 목포시 용해동 625-2",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221212",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 10,
+        "id": "1316264882",
+        "name": "매일빈",
+        "x": "126.4001231",
+        "y": "34.8197202",
+        "distance": 0.021,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 0,
+        "address": "전라남도 목포시 용해동 1032",
+        "roadAddress": "전라남도 목포시 관해로5번길 27",
+        "abbrAddress": "용해동 1032",
+        "shortAddress": [
+          "전남 목포시",
+          "관해로5번길 27"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "전라남도 목포시 용해동 1032",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20230305_192/1677986279813jbGDD_JPEG/Screenshot_20230305_121734_KakaoMap.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 11,
+        "id": "1760042325",
+        "name": "빈커피",
+        "x": "126.3975422",
+        "y": "34.817813",
+        "distance": 0.313,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221212"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 0,
+        "address": "전라남도 목포시 용해동 973",
+        "roadAddress": "전라남도 목포시 포미로 19",
+        "abbrAddress": "용해동 973",
+        "shortAddress": [
+          "전남 목포시",
+          "포미로 19"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "전라남도 목포시 용해동 973",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221212",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 12,
+        "id": "1348850830",
+        "name": "뽀미분식",
+        "x": "126.398342",
+        "y": "34.8174854",
+        "distance": 0.288,
+        "categoryName": "종합분식",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220185"
+          ]
+        ],
+        "category": [
+          "분식",
+          "종합분식"
+        ],
+        "reviewCount": 2,
+        "averagePrice": 0,
+        "address": "전라남도 목포시 용해동 977",
+        "roadAddress": "전라남도 목포시 용해지구로 8",
+        "abbrAddress": "용해동 977",
+        "shortAddress": [
+          "전남 목포시",
+          "용해지구로 8"
+        ],
+        "displayContext": [],
+        "labelTheme": "분식",
+        "microReviews": [],
+        "cardDescription": "전라남도 목포시 용해동 977",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220185",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 13,
+        "id": "36778567",
+        "name": "목포촌닭황칠나라",
+        "x": "126.4008255",
+        "y": "34.8178499",
+        "distance": 0.198,
+        "categoryName": "백숙,삼계탕",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220774",
+            "221606"
+          ]
+        ],
+        "category": [
+          "한식",
+          "백숙,삼계탕"
+        ],
+        "reviewCount": 96,
+        "averagePrice": 61000,
+        "address": "전라남도 목포시 용해동 421 목포촌닭황칠나라",
+        "roadAddress": "전라남도 목포시 관해로 12-1",
+        "abbrAddress": "용해동 421 목포촌닭황칠나라",
+        "shortAddress": [
+          "전남 목포시",
+          "관해로 12-1"
+        ],
+        "displayContext": [],
+        "labelTheme": "고급 정찬",
+        "microReviews": [],
+        "cardDescription": "목포 황칠오리/닭전문 목포촌닭 황칠나라입니다. 신비의 불로초 산삼나무라 불리우는 황칠나무를 첨가한 오리백숙, 닭백숙을 개발하였습니다. 또한 계절마다 달라지는 직접 만든 반찬을 맛 보",
+        "description": "목포 황칠오리/닭전문 목포촌닭 황칠나라입니다. 신비의 불로초 산삼나무라 불리우는 황칠나무를 첨가한 오리백숙, 닭백숙을 개발하였습니다. 또한 계절마다 달라지는 직접 만든 반찬을 맛 보",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTNfMTI1/MDAxNzUyMzg5MDE3MzY2.9AnHnplAjjMscb1iEZiNjOzi2gwei1cfUBJ3opyg-i4g.374xz4k0ddLyTskjCbOjb-aAyPpdl3NrHmt9GdTGwHAg.JPEG/20250713_123219.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20230205_224/1675583572764PA7Tb_JPEG/KakaoTalk_20230205_165147806.jpg",
+          "https://ldb-phinf.pstatic.net/20251004_252/17595805143425wL4z_PNG/KakaoTalk_20251004_211655536.png",
+          "https://ldb-phinf.pstatic.net/20230205_7/1675583593631raME8_JPEG/KakaoTalk_20230205_163705691_05.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221606",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "36778567",
+            "bodySummary": "전복도 야들야들 부드럽고 싸우지 말라고 버섯도 전복도 4개 들어있네요ㅋ 생각보다 오리백숙 제스타일이었어요 퍽퍽할것같았는데 살이 너무 부드러워서 아이들도 닭보다는 오리를 더 잘먹었네",
+            "url": "https://m.blog.naver.com/overcome1015/223149280952",
+            "nick": "양을산 날다람쥐",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA1MjNfMjI0/MDAxNjg0NzkyNjg4MTY3.LQOTLTtnwW70YXNQS88aYZ0IqCassMsK6AHslfEibi4g.NHpaumgHBVYlzktuCz5UDNXkq9bka4bEJRJBn7_vNYkg.PNG.overcome1015/profileImage.png"
+          },
+          {
+            "sid": "36778567",
+            "bodySummary": "저는 사실 닭보다는 이 황칠 국물을 먹으러 온 겁니다!! 황칠 육수도 어느 정도 줄어들면 말하지 않아도 리필해 주셔서 몇 그릇 먹어보았어요... 국물은 슴슴하게 끓여 나오므로 소금",
+            "url": "https://m.blog.naver.com/romantic-mokpo/223122581650",
+            "nick": "낭만목포",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20221212_228/mogpo333_1670832060026L8ToD_JPEG/615-mogpo33.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 14,
+        "id": "1166080709",
+        "name": "포미바베큐통닭",
+        "x": "126.3975449",
+        "y": "34.8177918",
+        "distance": 0.314,
+        "categoryName": "치킨,닭강정",
+        "categoryPath": [
+          [
+            "220036",
+            "220049",
+            "220245"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "치킨,닭강정"
+        ],
+        "reviewCount": 7,
+        "averagePrice": 10000,
+        "address": "전라남도 목포시 용해동 973 상가동 108호",
+        "roadAddress": "전라남도 목포시 포미로 19",
+        "abbrAddress": "용해동 973 상가동 108호",
+        "shortAddress": [
+          "전남 목포시",
+          "포미로 19"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "착한가격 최고의 맛 목포 유일무이 포미바베큐 통닭&호프 100% 국내산 하림 닭 사용 기름기 쫙 뺀 전기구이 통닭 맛과 영양까지 모두 잡았습니다!!!",
+        "description": "착한가격 최고의 맛 목포 유일무이 포미바베큐 통닭&호프 100% 국내산 하림 닭 사용 기름기 쫙 뺀 전기구이 통닭 맛과 영양까지 모두 잡았습니다!!!",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTJfMTk0/MDAxNzUyMzI1Nzk0OTg1._f_dM78xJSHiG53min8YvXio7YHM5x2JbBPh1UGJEp0g.3UUW8kQIT_rbaItgmBYaKHkJ1I66gZZTAsKi8-QMGJIg.JPEG/1000025372.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDhfMSAg/MDAxNzQ2Njk2NjA5MDc1.Z5Wv-ikdHpriKpDVWoMI3b8r4zdyzOXR6WrwKsmdWxcg.ob-2MZRwF0WPhCsbYms6vGS0wzT8vkgdcQ6xpyjniJcg.JPEG/20250508_170725.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20230829_233/1693291223581b6Kqe_JPEG/20230827_163146.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTJfMjAx/MDAxNzUyMzI5MDYzNDA3.9eAGvGEv5e1lRvHu9CqFqbcdac5ZCCwMGDrXQOsC9_og.JQqISLqQZAKcrQB9wF4ySNJw9fLTcKcNZuEjlD9p2n4g.JPEG/785660F2-5057-40F6-ABD9-08341A62FC6F.jpeg",
+          "https://ldb-phinf.pstatic.net/20230829_45/1693291209770uyHWt_JPEG/1693290950490.jpg",
+          "https://ldb-phinf.pstatic.net/20230829_117/16932911994589OHKP_JPEG/Resized_20230807_105809.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220245",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 15,
+        "id": "522252634",
+        "name": "임실애피자",
+        "x": "126.3996123",
+        "y": "34.8177925",
+        "distance": 0.204,
+        "categoryName": "피자",
+        "categoryPath": [
+          [
+            "220036",
+            "220044",
+            "220136",
+            "220944"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "피자"
+        ],
+        "reviewCount": 10,
+        "averagePrice": 10000,
+        "address": "전라남도 목포시 용해동 426-1",
+        "roadAddress": "전라남도 목포시 관해로 2",
+        "abbrAddress": "용해동 426-1",
+        "shortAddress": [
+          "전남 목포시",
+          "관해로 2"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "전라남도 목포시 용해동 426-1",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220944",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,1701 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 21,
+      "count": 21,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 127.29460216850569,
+          "minY": 36.48,
+          "maxX": 127.30020433701138,
+          "maxY": 36.4845045045045
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "127.29740325275853;36.48225225225225",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "2025328279",
+        "name": "브레드마마 소담점",
+        "x": "127.2991555",
+        "y": "36.4844894",
+        "distance": 0.294,
+        "categoryName": "베이커리",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220564",
+            "221161"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "베이커리"
+        ],
+        "reviewCount": 14,
+        "averagePrice": 0,
+        "address": "세종특별자치시 소담동 544 1층 113, 114호",
+        "roadAddress": "세종특별자치시 한누리대로 2022",
+        "abbrAddress": "소담동 544 1층 113, 114호",
+        "shortAddress": [
+          "세종 ",
+          "한누리대로 2022"
+        ],
+        "displayContext": [],
+        "labelTheme": "최근 오픈한",
+        "microReviews": [],
+        "cardDescription": "세종특별자치시 소담동 544 1층 113, 114호",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTVfMjQx/MDAxNzYwNDU5NTgxNzQ1.aKETDP12N7ByaGiKpLamA30TK5_yRJSHklxwqjbXJmYg.cNZ8CMfNw6o69UmQedBUp83atPCkDelM_sCR5f5BkIgg.JPEG/67B4EF6C-F611-46FF-B91E-8F9791020155.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjlfMjc2/MDAxNzU2NDMyMTc1MDI5.w1Qwqqz6m8JHrsdokwHqgd1OwCDxHyCVX_QoboiqgBcg.XKHQD9cFj6lX_1x5Sc0TGRM2SKxEzcKngeN_ceMUrm8g.JPEG/419E86FE-4846-4F17-A613-AA35D48A2884.jpeg",
+          "https://ldb-phinf.pstatic.net/20250815_258/1755226862410TAzy1_JPEG/IMG_7335.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjlfMTUw/MDAxNzU2NDMxODcwOTk3.p1d5aTAncY9EI3-_y-xlWugmYmm0dd8EtDzWOHfz5cwg.9K-ZUKk4_HrGrDKpIKWkxUsYbD67nCiZkGe2Q6iod04g.JPEG/0EE68D40-0270-477B-AE23-FDE4490FB1C9.jpeg",
+          "https://ldb-phinf.pstatic.net/20250816_33/17553480997879bxWh_JPEG/IMG_7567.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjVfMjQ5/MDAxNzU4NzgwNzA1NjEz.8PYrZwK_8KZnoGek2mCXkeabF-McJibc-w6oPXLD6MIg.mrR1zFL5bwvlWj4wDeSgXu6n5uCDUam6gPLjPAWI90sg.JPEG/F824DE2F-619D-4366-ADBE-E2BA68D29911.jpeg",
+          "https://ldb-phinf.pstatic.net/20250825_244/1756099164997pqDzY_JPEG/IMG_8289.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MThfMjA4/MDAxNzU1NTA3MjY3OTI5.dXJ6ULy7zM-pxFd4Uv-Fqek9Dy2OVUs5M6IGE6Pcopgg.ve6_zGw2vVC-O5q5xKpD9K5LAyJ5jXEK7GKtYwqtr7Mg.JPEG/16D102AA-48E1-4DE9-BA15-BAEC25BBC1F2.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTFfMTIz/MDAxNzU3NTkyMzkyNTAz.a1bPENy2RLfl_pTM3L-RgFBCvk__g36ZDocVTzGZdi8g.JL8MGrCgFMMDfzrBzNO4LUVIuraSMqu5z_Si4ZuLnl8g.JPEG/AD0837DB-D7EA-440C-A34D-60A7F3F599FA.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTBfMzUg/MDAxNzU3NDg2MjUxMjc4.sJeMETEjfdyHfJPGdJB4289ky9b4E52hPPnrbMdVCGgg.sK_07qbPcfoE-flXuEteJRlX6goCcOYe4DZmMoMlG8wg.JPEG/1757486155242.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221161",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "1726062225",
+        "name": "대전사라다 소담점",
+        "x": "127.2983485",
+        "y": "36.4834884",
+        "distance": 0.161,
+        "categoryName": "베이커리",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220564",
+            "221161"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "베이커리"
+        ],
+        "reviewCount": 547,
+        "averagePrice": 4000,
+        "address": "세종특별자치시 소담동 550 C상가동 1층 140호",
+        "roadAddress": "세종특별자치시 시청대로 236",
+        "abbrAddress": "소담동 550 C상가동 1층 140호",
+        "shortAddress": [
+          "세종 ",
+          "시청대로 236"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [
+          "추억을 자극하는 사라다빵의 풍미"
+        ],
+        "cardDescription": "추억을 자극하는 사라다빵의 풍미",
+        "description": "사라다빵 No. 1 대 전 사 라 다! 오늘 반죽, 오늘 튀겨, 오늘만 판매합니다. 아삭아삭야채, 새콤달콤, 육즙가득소세지의 3중창을 느껴보세요. healthy, delicious and affordable! 대전사라다의 마음입니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTdfODIg/MDAxNzYwNjcyODQ3MDA1.6RUrip4b7lTrhICgLj43bOqSxMvCSfXGMBBfiCfXCnwg.yBw_HJ7ufuMLTVTcFXoicIM_jsyRGjoZGJxY4Kjs5wUg.JPEG/EE150BE2-F996-41D7-826A-D39025888B29.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTdfNSAg/MDAxNzU4MTAzMDQxNzAy.E-2DD-Xba7M3AWrET45TBNdwh5t-au4sCYis01T2YGYg.x6Qij5VnvOT7IX4QScWrU1LhgJJFePOUPyUow-PJ-gAg.JPEG/1000107087.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250226_296/1740558762865l0Ooc_JPEG/1000059294.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDJfMTg0/MDAxNzU0MDg3NDQyNjk1.0K0CZerC1xsfrgmF-PbKHrcta6tolrXGiu7fga-tBAog.EiCwrlOfD__gA-SfhY5wAuKlZEXNwpmtrmiUW2TVoxog.JPEG/696CACC1-BFEB-482F-A7C9-C127F2330C71.jpeg",
+          "https://ldb-phinf.pstatic.net/20230202_195/1675336499242btRBY_JPEG/20230202_172106.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjVfMjk1/MDAxNzUwODE3NTc0MDg4.i7ytPrgWLiJnmhXfS9Vm2tKYTOdyv-hj9KuqVAbdWUgg.JAouFkYmhpaNmM30ZEFrpiltoFLOktnGx-i9Z23a5xYg.JPEG/20250625_111125.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MDRfNjkg/MDAxNzQzNzYxNTEzNjkw.DcklJrhOvCOFd26Q6_r_Ds_6sutxHy_XYWXnNySnnIog.dyKnKUTN4m9uO1gP6464HOFhEyWElrylxgyqhjLojKsg.JPEG/20250404_191034.heic.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjFfMjI1/MDAxNzU4NDI4NzMxOTYx.l2AE-EItlfVVJqwS5g-wZEnYbRE8_T44Xll1e8z36gcg.PxhLFKBJnpIF8uhS4ZHDb9-bMj24u_I70doI-a74ZyUg.JPEG/80C6A6A0-8329-47B6-BF34-1EE0F00343A2.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjFfMTkx/MDAxNzQ3ODE0NTg1MDA2.nFL7r4xe5omZd7UNKqAnEXCAo7-Ni3Dgay9mVsoW9AMg.gcOE4_VimwyZEHolW-aEDHPbe1PK1JVkzPS9JDkpT-Yg.JPEG/20250521_170125.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTFfMzYg/MDAxNzQ0MzI5MTQ5OTU4.7jeh-tvfA1UWp7nc_3YqFMbC-yH_wBnwDfAKRsI-nd8g.po63MKbgcGm7QEUTB5bhf6m7nt7V-6XTHAFpy_S_-Bog.JPEG/20250411_085207.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221161",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "1726062225",
+            "bodySummary": "빵 나오는 시간이 다르더라고요. 8:00 ~8:30 소세지빵, 사라다빵 8:30~9:00 고로케, 단팥, 꽈배기, 도넛 11:00~11:30 소세지빵, 사라다빵 11:30~12:0",
+            "url": "https://m.blog.naver.com/dododud/223344872295",
+            "nick": "엄소일",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAxMTRfMTI5/MDAxNjczNjUzOTM5MjEx.Y2I_PZVKhYclZzs-VkfAvrMl7ZRmtXK1u6vwtW7Cie0g.MNzZ_oH7cFmqKJ34sr6UbulkGVFVqmFwI2Z3U9EJyzQg.JPEG.dododud/KakaoTalk_20230114_084952005.jpg/KakaoTalk_20230114_084952005.jpg"
+          },
+          {
+            "sid": "1726062225",
+            "bodySummary": "정감 가는 검은봉다리 엄청 특별할 것도 없는 우리가 아는 그 흔한 케쳡맛이건만… 요즘은 흔하게 어디서든 접할 수 없는 추억의 빵이라 꼭 한 번씩 찾아서 사 먹게 되는 그런 마성의 ",
+            "url": "https://m.blog.naver.com/minvelyg/223210873497",
+            "nick": "민쵸씨",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAxMDZfMTU0/MDAxNjcyOTg0OTQzOTg3.NIyJK2pvnVaQa0tpeT3fEMOPzWT0K0uygF3Tf0DU4_og.ekgazLfafuOYzGPiMtfLUj3WwfBChzjIjKHhvZQdBBIg.PNG.minvelyg/profileImage.png/profileImage.png"
+          },
+          {
+            "sid": "1726062225",
+            "bodySummary": "또 사먹을 의향100% 청소하고 지칠 때 쯤 먹어서 더 맛있었다. 역시 시장이 반찬. 뭐든 배고플 때 먹어야 더 맛있는 법. 그리고 이어서 또청소 오후 3-4시 부터 밤까지 대청소",
+            "url": "https://m.blog.naver.com/laylaisme/223174829420",
+            "nick": "layla",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEwMzFfMyAg/MDAxNjk4Njg3OTM2OTY1.qcfdZW-OrxPcXE_SyxNaZlXBFme0kmbS1zucNpEGc2Yg.xHc5FvGjWtR_079uS5G2Q8C_mvOwKRnr2D9KvaxGM6Qg.PNG.gprud0211/profileImage.png"
+          },
+          {
+            "sid": "1726062225",
+            "bodySummary": "앞에는 여러종류에 도넛과 고로케도 있었다 울오빠가 너무도 좋아하는 찹쌀도넛도 사고 사라다빵은 샘플로 만들어져 있어서 원하는걸 말하면 바로 만들어서 주신다. 소세지 들어있는 사라다도",
+            "url": "https://m.blog.naver.com/youjin8608/223142099915",
+            "nick": "뒹글이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxNzA5MjlfMTYg/MDAxNTA2NjU0ODc4ODkx.xxPyzNaZlATqIpxgbqTHmiF0VaexQoQFgOY30QTu_dgg.j53zPu6-7jwbFm-3Zu6yLHaTUSwpqtjR0-Cba0Q8_asg.JPEG.youjin8608/KakaoTalk_20170929_121321239.jpg"
+          },
+          {
+            "sid": "1726062225",
+            "bodySummary": "그래서 주말은 보통 브런치로 빵을 사오거나 배달해 먹는다. 한동안 베이커리만 먹어 다른 종류를 먹고싶어 색다른 메뉴를 찾다 눈에 들어온 '대전사라다 소담점' 배민으로 배달이 가능해",
+            "url": "https://m.blog.naver.com/ggomi-life/223113875392",
+            "nick": "꼬미의 일상",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMjBfMjEx/MDAxNzEwOTEzNDIyMTMy.u2C20tp-ueYHRYHPNC9Xgn-LwrA5dzKbGqFKdtvHLzog.ldhc6wmz3puzfMED8h0dCtTlGMBaj6YuHN8xiaT-4Pcg.JPEG/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "id": "1664260830",
+        "name": "도스마스 세종소담점",
+        "x": "127.2988615",
+        "y": "36.4841575",
+        "distance": 0.249,
+        "categoryName": "멕시코,남미음식",
+        "categoryPath": [
+          [
+            "220036",
+            "220044",
+            "220132",
+            "230957"
+          ]
+        ],
+        "category": [
+          "양식",
+          "멕시코,남미음식"
+        ],
+        "reviewCount": 146,
+        "averagePrice": 5000,
+        "address": "세종특별자치시 소담동 550",
+        "roadAddress": "세종특별자치시 시청대로 236",
+        "abbrAddress": "소담동 550",
+        "shortAddress": [
+          "세종 ",
+          "시청대로 236"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "멕시칸 그릴 부리또 / 멕시코 음식인 부리또를 한국인 입맛에 맞게 요리하여 제공합니다.",
+        "description": "멕시칸 그릴 부리또 / 멕시코 음식인 부리또를 한국인 입맛에 맞게 요리하여 제공합니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDNfMjUz/MDAxNzQ4OTQ0OTY2ODUz.ybe0iI0qQkGwXKIvz_crw0_hO_SM-f80cCD6R8XTOkEg.A2HRkureW5FmK-7E6junqQ38h8W8LM97BcI3Lgsv4VEg.JPEG/BB97BD49-955F-4361-B5B0-79061797F458.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTdfMTg5/MDAxNzU1NDExMDcwMjAy.OPRWgzgV0fMQWU-fSt7tdEmFB7WSxwWEMfbTCk_TLpog._y3qUIRugcwjUxmQmUFjSzQRXc-nGOnIrUiCGvgiQ-Yg.JPEG/1000008303.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20231012_166/1697096331647DxppJ_JPEG/IMG_0130.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTlfMjcz/MDAxNzU1NTc5MTE4MTc2.d3-gA6Q1BOBLaavx01Swi1qWqsr85P7AqSYlX9H5Iyog.cMmepYh27WSFZW1tHGNWArtm_DzXSZlRoz3SDzjNCA8g.JPEG/2A113260-3883-4BDE-9187-A2BC0BF90A69.jpeg",
+          "https://ldb-phinf.pstatic.net/20231012_212/1697096359596rPegJ_JPEG/IMG_0131.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDFfMTM5/MDAxNzQ4NzUxMzQwMTk1.Xzt2SWUgFeSBoPIdY5DzBcoW7EWhCPg20KR7rq0EbyMg.hZ7azisdXii8X56y1M1CR-YPzC7KeDWjEjnTY5kGXt0g.JPEG/20250601_130336.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTJfMTEy/MDAxNzU3NjQ2MTA0NzU0.0tcv3FuYT478RllbCuJh34h2gal2bhBBVhUEVQcZcfsg.uXideR1h8F8jKGrtZauiHc1o2-n_lIIvgnqvnQE11X0g.JPEG/4BB42E61-4136-4DD3-9643-5C1C22B0B780.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "230957",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1664260830",
+            "bodySummary": "도스마스 세종 시청대로 236 영업시간 10:30 ~ 21:00 마지막 주문 시간 20:40 주차 새샘마을 3단지 후문 주차장 이용 전부터 궁금했던 도스마스 부리또 ! 엄마랑 작은",
+            "url": "https://m.blog.naver.com/j2222hye/223370696550",
+            "nick": "졧",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAxMjJfMTQw/MDAxNjc0Mzk3NzUzNjQy.ihMo2ZjGsQ0_BhLoSsPy_Mc4TJ2z1G04-0tqUctk-sAg.pxwOmRLLkAyNb88Kr2XdM54YEA9wdMarlFQSxtQZUXsg.PNG.j2222hye/profileImage.png"
+          },
+          {
+            "sid": "1664260830",
+            "bodySummary": "어른들도 맥주와 함께 먹으면 꿀맛이에요 한끼 식사로, 때론 간식으로 추천하는 가족들과 먹기좋은 메뉴 멕시코 남미 음식 부리또 맛집 도스마스 세종소담점 메뉴 치킨부리또 5,500 비",
+            "url": "https://m.blog.naver.com/sheisje1004/223350613705",
+            "nick": "이제니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA1MjdfODYg/MDAxNjg1MTk5Mzc2MzM1.5b6ah-uvOLmDmrBcqaDHybZ5UZQgDGrHXHAoXBAEFyog.sFPW5EHVXPMnXlc55n6OhPAyECh0TTv87x6niaBr9zog.GIF.sheisje1004/profileImage.gif"
+          },
+          {
+            "sid": "1664260830",
+            "bodySummary": "세종 브리또 맛집 소개합니당~ 소담동 새샘마을 3단지랑 4단지 사이에 위치해있어요! 대전에서 자주 먹었었는데 세종에도 생겨서 넘 좋아유 영업시간은 매일 10:30~21:00 입니당",
+            "url": "https://m.blog.naver.com/borinulyul/223345866862",
+            "nick": "냠냠",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAyMTRfMjMz/MDAxNzA3ODg2MDU4NjQw.o3_0Jf_rVm7oUexoBnmNtbBIdP50I-M1Bjy_yvzEBwMg.zkhgI2sttKGElnkrJq4wCe_QrB3eNbN_t2m50QdW9kEg.PNG.nuriyuri2001/profileImage.png"
+          },
+          {
+            "sid": "1664260830",
+            "bodySummary": "안녕하세요:) 대학생들이 좋아하는, 주로 대학가 앞에 있는 부리또집 추억의 도스마스 ㅎㅎ 가 세종에 생겼답니다! 맛이 기억이 안 날 정도로 오랜만에 먹어보는 도스마스 부리또! 소담",
+            "url": "https://m.blog.naver.com/rare67/223286668670",
+            "nick": "달",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTEyMDZfODQg/MDAxNTc1NTk2OTAzODQ2.dhO1V9KXW3uhBcM_rFpv9XNuS-9v7ywe0DJQFIQIpt4g.tEULmoiCL9oL8dlN2JuSfn-r7vp18ImFYaILPmqxI0cg.PNG.rare67/profileImage.png"
+          },
+          {
+            "sid": "1664260830",
+            "bodySummary": "믹스부리또는 치킨과 비프가 믹스된 부리또! 치킨부리또와 비프부리또 중 고민이라면 믹스부리또가 딱이다 치킨 부리또 5,500원 믹스 부리또 5,500원 치킨 부리또 5,500원 믹스",
+            "url": "https://m.blog.naver.com/ksu_b/223273346042",
+            "nick": "안녕오리",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMTNfMTE2/MDAxNzEwMzI3NjkyOTcy.dxc1ctM5ipnIJp-tg02A-o_t90uMFzn-4_ZQ4BcH95Mg.YFI2uqNniOcachnixrUSXzMvqHRnEoM9SXghvYt0KhUg.JPEG/20240313_200043.jpg/20240313_200043.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "id": "1331674122",
+        "name": "비뉴 와인샵 & 바",
+        "x": "127.2988013",
+        "y": "36.4838527",
+        "distance": 0.218,
+        "categoryName": "양식",
+        "categoryPath": [
+          [
+            "220036",
+            "220044",
+            "220126"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "양식"
+        ],
+        "reviewCount": 93,
+        "averagePrice": 20000,
+        "address": "세종특별자치시 소담동 550 새샘마을3단지 B상가동 1층 B-114호",
+        "roadAddress": "세종특별자치시 시청대로 236",
+        "abbrAddress": "소담동 550 새샘마을3단지 B상가동 1층 B-114호",
+        "shortAddress": [
+          "세종 ",
+          "시청대로 236"
+        ],
+        "displayContext": [],
+        "labelTheme": "양식",
+        "microReviews": [],
+        "cardDescription": "홀에서는 와인만 이용가능합니다!! (와인샵 가격으로 드실 수 있어요) *외부음식 반입은 안되며 저녁 시간때는 와인 필수 주문입니다.",
+        "description": "홀에서는 와인만 이용가능합니다!! (와인샵 가격으로 드실 수 있어요) *외부음식 반입은 안되며 저녁 시간때는 와인 필수 주문입니다.",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20221122_65/1669096296275M2QOA_JPEG/%B7%CE%B0%ED.jpg",
+          "https://ldb-phinf.pstatic.net/20231102_52/16989198930925cPPs_JPEG/KakaoTalk_20231102_190902166.jpg",
+          "https://ldb-phinf.pstatic.net/20231102_262/1698919893126PmIHL_JPEG/KakaoTalk_20231102_190902727.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220126",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 5,
+        "id": "1336572506",
+        "name": "김반장",
+        "x": "127.2988363",
+        "y": "36.4839283",
+        "distance": 0.226,
+        "categoryName": "김밥",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220186"
+          ]
+        ],
+        "category": [
+          "분식",
+          "김밥"
+        ],
+        "reviewCount": 510,
+        "averagePrice": 5000,
+        "address": "세종특별자치시 소담동 550 B상가동 b116호",
+        "roadAddress": "세종특별자치시 시청대로 236",
+        "abbrAddress": "소담동 550 B상가동 b116호",
+        "shortAddress": [
+          "세종 ",
+          "시청대로 236"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "김밥반찬장인-김반장은 매장에서 매일 신선한 재료로 직접 만듭니다!",
+        "description": "김밥반찬장인-김반장은 매장에서 매일 신선한 재료로 직접 만듭니다!",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDhfNDIg/MDAxNzQ5MzQ4MzY5NTk2.ZErcIe94RhOvToapZdOQsesb4u8AoqTP7w8g_OPpwD8g.pSLUiEmL0EqR4f33Glk33C8unBGpvpP4A60JenZkgBsg.JPEG/1749348245932.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTVfMTUy/MDAxNzU3OTI5NTYxMjQy.mTFyg8LDW-DuNmDb3xVF6L-TrVmicwM65CxFQl9dAfog.qsYhszYoIs2G1EZu0m_kwjF7mDC6KqYyxfIUo--uWdQg.JPEG/20250915_184510.jpg",
+          "https://ldb-phinf.pstatic.net/20240522_211/1716367959016XRJFy_JPEG/IMG_2101.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDVfOTMg/MDAxNzU3MDY0MDIxNDg5.2MUwbybtuk0AFggKwy1e4jm0eK1wIO5wpxceAtad9XYg.BpxF33sf2W28bPHoUt0w2tNTi_PVFxHeHta2Ft3o-Rog.JPEG/20250905_181628.jpg",
+          "https://ldb-phinf.pstatic.net/20240522_236/1716367789686wrgLv_JPEG/image.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTJfMTA2/MDAxNzU0OTgwMDAyNzMz.BYR7ZDj6uTgyTBCqwoPzrAr5LzdNRjYvEYQyl1gM_5Ug.Qc2m8xoXsOPQFty6JRQIy7PLan26Y1pbONAxtpJcdZog.JPEG/20250812_133624.jpg",
+          "https://ldb-phinf.pstatic.net/20240522_125/17163686060195Xu5q_JPEG/IMG_2112.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDdfMjAx/MDAxNzU5ODMxNTI5ODgx.xakQ023M1-yUZ9-knZT9MLSWoBjoYihsn44ZLRWMqIsg.VDAqrjlZUA5-PtJxCTAFKRvQfhdoHajJqFDRJ0Bqbb8g.JPEG/20251007_190238.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MzFfMjcg/MDAxNzU2NjQzNTkzNzU4.JciB-PFCVSBQGlI7_xjAHAxvR7nrM_O-U65Em0_pUAog.eUWslHjev6NCA7XPRAcIpraF-AQwE21TvUo_WesX96Mg.JPEG/20250822_125118.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTdfMjcg/MDAxNzQ3NDc3MDI4MTU0.zsjPmjupfdHJ6mdGBEDNY0GERt9X9vGFZ1cOjaUm3dQg.hLOsNBInwQVIrwNUk7vBf5_VQtTm0n1ATKFw3X2i86Ug.JPEG/20250517_191548.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220186",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 6,
+        "id": "1598466646",
+        "name": "본 죽&비빔밥 세종소담점",
+        "x": "127.2989227",
+        "y": "36.4841025",
+        "distance": 0.247,
+        "categoryName": "죽",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220060",
+            "232122",
+            "1000602"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "죽"
+        ],
+        "reviewCount": 317,
+        "averagePrice": 15000,
+        "address": "세종특별자치시 소담동 550 B상가 119호",
+        "roadAddress": "세종특별자치시 시청대로 236",
+        "abbrAddress": "소담동 550 B상가 119호",
+        "shortAddress": [
+          "세종 ",
+          "시청대로 236"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "본죽&비빔밥도 네이버 주문에서 만나보세요.",
+        "description": "본죽&비빔밥도 네이버 주문에서 만나보세요.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTRfMTk5/MDAxNzYwNDEyOTA1OTA1.NkahWCYysl4Ct22iHG4fPn4QRtho4drWjI7zv33cWGAg.A0njCd2yr-NnmzKOM2u_VOJx370QObImVREZILHh0Hkg.JPEG/20251014_123423.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MDVfMjY3/MDAxNzQzODIxNjYzODQ2.iKILGcPITLvls9KgS84wuXf7-opAXwYluSz-e4mTEqgg.i7BnnSWi_ExVQAQskiHbyA1BwNwiNjrG9YPR9TVGVrQg.JPEG/20250405_115049.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250917_144/1758115922758VfxON_JPEG/2509_%BA%F1%BA%F6%B9%E4%B8%AE%B4%BA%BE%F3__%B3%D7%C0%CC%B9%F6%BD%BA%B8%B6%C6%AE_%C7%C3%B7%B9%C0%CC%BD%BA_%B3%AB%B1%E8%B3%AB%BA%F6.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTVfMTEy/MDAxNzU1MjY1MzU4NDk5.YDcIpBRnagzhlWb3t2UVdJOtT8Fr7g1SPOjJKKXfKdcg.pJicRPAK9YEXfggv0VgbFygclVny4thJcyOmTWSxhDMg.JPEG/20250814_200617.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250725_65/1753404998617wEzrb_PNG/do-messenger_screenshot.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTNfMTky/MDAxNzU1MDgxODMwODY5.1nQrv-ubFJuger3DfBOOV254A4MkWFBr2MVvIyPMr8cg.W7L6Etsi1riMSaTqddAOh2H6tEkA588LSNfGL6xWeVMg.JPEG/20250813_194320.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250917_159/1758115922743HJqpA_JPEG/2509_%BA%F1%BA%F6%B9%E4%B8%AE%B4%BA%BE%F3__%B3%D7%C0%CC%B9%F6%BD%BA%B8%B6%C6%AE_%C7%C3%B7%B9%C0%CC%BD%BA_%BA%BB%C1%D7%C0%E5%C1%B6%B8%B2%B9%F6%C5%CD%BA%F1%BA%F6%B9%E4%28%BC%F6%C1%A4%29.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTVfNDUg/MDAxNzQ3MzAxNjgzNDc2.NygxUWtPgXzhxZ98VrMP_f9KdNsVzNf5V1hloMF6KQAg.FVSz--1mI-mvFtvX45ViYTC16BGerLglRnCMEdX9CY0g.JPEG/20250515_183109.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MDNfNTEg/MDAxNzQzNjc0MjIzNDQ2.crakKnWHO13fuSyavcIEJn51IqqNUgLu3QpEK9Swjk4g.06PPY2nz437l_Q8_3k859ZHX8K6hjisjM2Nw_cOhnBEg.JPEG/20250402_113348.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1000602",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 7,
+        "id": "1499090558",
+        "name": "셀독24스터디카페 세종소담점",
+        "x": "127.2991555",
+        "y": "36.4844894",
+        "distance": 0.294,
+        "categoryName": "스터디카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220587",
+            "1003616",
+            "1003617"
+          ]
+        ],
+        "category": [
+          "스터디카페"
+        ],
+        "reviewCount": 39,
+        "averagePrice": 52000,
+        "address": "세종특별자치시 소담동 544 아이콤스타타워 5층, 506호~508호",
+        "roadAddress": "세종특별자치시 한누리대로 2022",
+        "abbrAddress": "소담동 544 아이콤스타타워 5층, 506호~508호",
+        "shortAddress": [
+          "세종 ",
+          "한누리대로 2022"
+        ],
+        "displayContext": [],
+        "labelTheme": "24시간 영업",
+        "microReviews": [
+          "집중력 높이는 쾌적한 스터디 공간"
+        ],
+        "cardDescription": "집중력 높이는 쾌적한 스터디 공간",
+        "description": "2021년 11월 17일 오픈   24시 연중무휴 스터디 카페, 셀독입니다.   Study Zone과 Cafe Zone이 분리되어 있습니다.  Study Zone에는 백색 소음기가 설치되어 있는 조용한 공간으로 집중을 위한 장소입니다.  ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDZfMTk3/MDAxNzQ2NTE1MDkwNjYw.4vYWiKVwDvnRfi5pXy27tyP4W7ofaMQYGafAEnUoHTkg.RmrSl6NGKWsFLbonfj4Oerb2bAwc92rK21Aan5dS230g.JPEG/20250419_081424.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDdfMTA5/MDAxNzQ5MjgxMzMxMzQy.XFBkvwYlB1HdVPkwBWmNusYcDUDEPj5zNW_8hN2sM8sg.wK5tIIxgKRQdgZrfxVN92aqeq6BokYbbuBM1rHjZ2F4g.JPEG/F6BC2F02-4C1D-4932-9676-3E059C964893.jpeg",
+          "https://ldb-phinf.pstatic.net/20211117_209/1637126814921KFHeO_JPEG/KakaoTalk_20211117_111041530_26_%2B_%BC%F6%C1%A4.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTNfMjE4/MDAxNzQ0NTExOTg0ODI1.CCaynBzdoTvUCX8uGs7YGObJnWxcwOAQ_QLLcuTHZEQg.O9u9FX7bgpQ454i24SYzFtOMVVD0aJcJ1dqyiYnl6HEg.JPEG/19575143-5A8E-46BC-ABCA-100B5A5A4C83.jpeg",
+          "https://ldb-phinf.pstatic.net/20211117_165/1637126937841iwEnA_JPEG/KakaoTalk_20211117_111102479_21_%2B_%BC%F6%C1%A4.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTlfMTUw/MDAxNzQ0OTk1MjA4MDk1.HjTbh5YgNWTglY-R5b5bzQ51URAMFtSBrqad4wXhzkEg.TUR1r3F3gBWIb3VMt5DJc0nY_2KokGfd-r9xO2OVlrAg.JPEG/20250419_013303.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20211117_188/1637126834556Nbi5E_JPEG/KakaoTalk_20211117_111055764_06_%2B_%BC%F6%C1%A4.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTdfMjA0/MDAxNzU1Mzk4MTY0OTMw.WLKsbbX6yX5H5z1Fhxaihwdkxku478pUjqreRTZZSEog.eaumIccs4vOtxoWtAJFfvQ2a_HhbWaBPfNsNAOzy4tgg.JPEG/1000046592.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjZfMjA0/MDAxNzU2MTk1MTMzNjQ3.RYHblcC9RfyzfK02RnS0MB0O3pF64Eta7pZM4jlLerUg.Cg__VVHO3RUrFCn2ayY0CJuACWvAxaMZWbotCtWdgQYg.JPEG/5CE25FDC-FA08-4103-A29F-E882893897B3.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1003617",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 8,
+        "id": "1957407988",
+        "name": "이백장돈가스 세종보람점",
+        "x": "127.2961249",
+        "y": "36.4814481",
+        "distance": 0.145,
+        "categoryName": "일식",
+        "categoryPath": [
+          [
+            "220036",
+            "220038",
+            "220082",
+            "1004843"
+          ]
+        ],
+        "category": [
+          "일식",
+          "돈가스"
+        ],
+        "reviewCount": 20,
+        "averagePrice": 11000,
+        "address": "세종특별자치시 보람동 774",
+        "roadAddress": "세종특별자치시 남세종로 384",
+        "abbrAddress": "보람동 774",
+        "shortAddress": [
+          "세종 ",
+          "남세종로 384"
+        ],
+        "displayContext": [],
+        "labelTheme": "일식",
+        "microReviews": [],
+        "cardDescription": "안녕하세요! 이백장돈가스입니다.  당일 생산, 당일 판매를 원칙으로 엄격하게 지키고 있으며 이는 고객님들께 항상 최상의 맛과 신선한 재료를 제공할 수 있는 비결입니다.  이백장돈가스는 10",
+        "description": "안녕하세요! 이백장돈가스입니다.  당일 생산, 당일 판매를 원칙으로 엄격하게 지키고 있으며 이는 고객님들께 항상 최상의 맛과 신선한 재료를 제공할 수 있는 비결입니다.  이백장돈가스는 10",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDhfMjg4/MDAxNzUxOTczNjEzNjY4.cFAxQKCRcdTDJF9m2sCkaO8HorWM-qi44Cf_yfJArnUg.fKT_cevkI7l3wO-hcLUbcxzy0M2YEhOgQ6TIjCfm6s8g.JPEG/20250708_184019.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MzFfOTMg/MDAxNzU2NjQyMzY4ODgx.NljHkOqT0iC-y_8PA6FLvDZwKxQNgu1mG0LpabpDc4kg.Gw4x1l4f9lOB-DY7YJ_hgTkGcenlJ3nrGTnFgXfTJfYg.JPEG/C9211755-8D7C-4DE2-A46E-E2FBAD101698.jpeg",
+          "https://ldb-phinf.pstatic.net/20221220_281/1671512359786wWy52_JPEG/01_%BD%BA%B8%B6%C6%AE%C7%C3%B7%B9%C0%CC%BD%BA%BF%EB-%B7%CE%B0%ED%28%B4%EB%C7%A5%BB%E7%C1%F8%29.jpg",
+          "https://ldb-phinf.pstatic.net/20230831_300/1693459799357CCf39_JPEG/KakaoTalk_20230720_092234140_01.jpg",
+          "https://ldb-phinf.pstatic.net/20230831_255/169345979934223BfV_JPEG/KakaoTalk_20230720_092234140.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1004843",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 9,
+        "id": "38514612",
+        "name": "파리바게뜨 세종소담점",
+        "x": "127.2974537",
+        "y": "36.4828794",
+        "distance": 0.07,
+        "categoryName": "베이커리",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220564",
+            "221176"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "베이커리"
+        ],
+        "reviewCount": 1932,
+        "averagePrice": 5000,
+        "address": "세종특별자치시 소담동 550 새샘마을3단지 상가D동 1층",
+        "roadAddress": "세종특별자치시 시청대로 236",
+        "abbrAddress": "소담동 550 새샘마을3단지 상가D동 1층",
+        "shortAddress": [
+          "세종 ",
+          "시청대로 236"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "파리바게뜨 세종소담점입니다. 네이버 스마트주문에서 간편하게 주문하세요!",
+        "description": "파리바게뜨 세종소담점입니다. 네이버 스마트주문에서 간편하게 주문하세요!",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDlfNzAg/MDAxNzU5OTc5NzY0MTYw.t3rZgcVL16gGVyXWfBnc3aCFe4NVbYIsym7Te6gZQOog.F1F7Xv9oTCxnVcqOa4_QYliIwplfDYOOHsH7Fbhx4Bsg.JPEG/20251008_195551.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjBfMjQw/MDAxNzUyOTk1MzYyMjI5.PpF1a3wAW4QpcQidWM50078DjSV6U9ekwyhHooOWB0Ig.dQBx12_kquHpdlldQhQQWZifJBXRApFI4ipazKyMj4sg.JPEG/20250720_160258.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20220413_19/1649838688776g2gp1_PNG/image.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDZfMTUg/MDAxNzU5NzU4MTIwMDAz.xoUbxaiV6pLasb1j11A4hT55q-j5ASPQVPKEkXhF5rkg.OpHUr_NG-NHrql4LRME3n3X8eEBcnZxmGll7-MnTE20g.JPEG/1759757621996.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjNfMjky/MDAxNzQ3OTY4MTQ4OTYw.y4kontoCbHpP05otXOId7leiUmPzHmN_OGR4KyQFMLkg.Et5OZr4EHx6Dij-Cnh32e2qQVTNBj8ZCirIjorhhVNcg.JPEG/20250523_114055.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjZfMTQz/MDAxNzUzNTM1NzYzNDY3.AK-3alswbHC42dbTYHNOX8HYdbKa6apcKMd44ePw844g.EJ_wHj4zU81ADhRRa_tqlVYDtmlilGTKucGL-ZyhWGQg.JPEG/20250726_135234.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTZfMTYw/MDAxNzQ0ODAyODg2NjE4.xtZkdD65Mqdd9B3xDgsuK1dOxMryJ4vuRNJCXcfFDlwg.f5UKiMNULISy1qIxpEv-PSU4YhFCpto8MStrEO-GFeQg.JPEG/289EBE59-D3CB-4143-A04B-D0B9A1A07550.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTJfOTYg/MDAxNzU0OTczNTg0ODg2.0Ay7ZizAQXoV0KFePI_H1VfIks9cZ1YGZLK7lgTdlD8g.ftdH9yFiHI0p5yNvPCbIY-sNQn5AH8pnrLGPP9NPbyIg.JPEG/791394EB-AA3E-410F-94D8-ECEC1EC0750E.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTRfMTU4/MDAxNzU1MTM0NzYzNTY4.aCKlUpV-lzFAxfBtEh1HQTEqEWI1hyfehMvhPFJcHCIg.ZMxEvjRVq3rmPSqpjz5vSSWNTHnyVuxfIBNa5HFAJTog.JPEG/6366C85B-D180-47DF-87F0-DD7D9AA276D8.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTFfNTYg/MDAxNzUyMjM5NTIzOTQw.l0LSJRmfBxibHgGsF8azy6sNOLl4_in7k3RsUzcv_34g.vFeULCcVn7lfXwqKJhcaoq-sFQDXdSjlzYlZZCGqz-cg.JPEG/20250711_212700.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221176",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.41",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 10,
+        "id": "1408607179",
+        "name": "프랭크버거 세종소담점",
+        "x": "127.2993028",
+        "y": "36.4843994",
+        "distance": 0.293,
+        "categoryName": "햄버거",
+        "categoryPath": [
+          [
+            "220036",
+            "220044",
+            "220138",
+            "1004480"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "햄버거"
+        ],
+        "reviewCount": 771,
+        "averagePrice": 10000,
+        "address": "세종특별자치시 소담동 544 1층 104호",
+        "roadAddress": "세종특별자치시 한누리대로 2022",
+        "abbrAddress": "소담동 544 1층 104호",
+        "shortAddress": [
+          "세종 ",
+          "한누리대로 2022"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "FRANK BURGER 정통 미국식 프리미엄 수제치즈버거 정통 아메리칸 스타일의 거친 패티의 맛과 풍미! 100% 순살 소고기 수제패티!!",
+        "description": "FRANK BURGER 정통 미국식 프리미엄 수제치즈버거 정통 아메리칸 스타일의 거친 패티의 맛과 풍미! 100% 순살 소고기 수제패티!!",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDFfMTg1/MDAxNzU2NzI5MTc1MjM5.j_mUcQbMFLCvKUFZOY30L6IiDYkYCQftxs7LD5r9FxYg.XFLo375vRMhiH88SQH1KgKHlnz2dfUQaMW4XS10KarYg.JPEG/FACE60BC-66D4-462A-9CB5-533B0B1E7008.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDFfMTI4/MDAxNzU5Mjk3NDU0Mzc0.WgHDtbyBtmK8BR4Bbj2dnyA_YreKnEyx0FDxBOzJA4kg.ZA2xjGAlzpMFQtWA5kq6pGSL-Xyt3mTmL6jaX3AGjtEg.JPEG/20251001_134745.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250904_79/1756949291585O5FHk_JPEG/KakaoTalk_20250904_102623979.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDFfMjY1/MDAxNzU0MDU4Nzc5MzY3.TZAXlu-DMuggVs74lMFpl1mQ6kEzIltvkR4fSfchJ2Ug.Dz4qsv-klWTPOSRCibMHyZqtYdOlGar3GV0JEHUvpgMg.JPEG/IMG_4908.jpeg",
+          "https://ldb-phinf.pstatic.net/20250908_28/1757323030830AwbJW_JPEG/1.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTZfMTc5/MDAxNzYwNjA4ODEyMjA2.0OItrZcLjtROpNBHZCRxciEYikQUSK6RroX-GzaP5RIg.BFJx-j8De5_0f2fFS914PQlpm-hp4RZ4FOxVB0ASGG8g.JPEG/20EAD22D-AD15-4A6D-A7A4-6BD2933A7CCB.jpeg",
+          "https://ldb-phinf.pstatic.net/20250908_187/17573230376149joUd_JPEG/2.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjVfMTcy/MDAxNzQ4MTcyNjY4NDY4.bIfc1VxfGFJD40j5Eryj43ZK1UDyoBzilvsJRaQf_Ygg.jCR9UKAAwUvKsmDkE6EMrkKDr95gQHm270QDUwh3IwIg.JPEG/20250525_201654%280%29.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjJfMzQg/MDAxNzQ3ODgyMTk3ODEw.DIiMzXE8N8usk4gFNRQwcBRcYwZVOs9I5R2oxUim9nAg.huDYIvjKmSLI_ftAKBjdZ9Uc521Sr9sjer6ujNzqrgYg.JPEG/F9B7F4F8-32F8-41A8-889F-C18C197C457D.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjFfNzMg/MDAxNzQ1MjAwOTY4NzEy.bTLfT_WrSA7IUECd53s-WaO-7Jaz37obS6hjGFC6yGEg.Za_90pSj4WlzFlfv1FWCiewanaCGzScwEL4mFpA6ORwg.JPEG/20250420_140337.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1004480",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1408607179",
+            "bodySummary": "프렝크버거 세종소담점 위치 세종 한누리대로 2022 1층 104호 영업시간 10:00 - 20:30 20:25 라스트오더 전화번호 044-867-3477 매장은 크지 않고, 테이블",
+            "url": "https://m.blog.naver.com/hijminee/223364950097",
+            "nick": "밍기적",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMDNfMTQ5/MDAxNzA5NDc3MTc2NTM1.NGViu8Je8PdpdnXb7VHgQvYLZMmS1tJTLBEgDajhHSgg.zufxfn0oLzZDD5PVhO-2Sa2Tt8n21aBzikMWH1c8cfwg.PNG/profileImage.png"
+          },
+          {
+            "sid": "1408607179",
+            "bodySummary": "버거 설명을 잠깐 하자면, 프랭크 버거는 육즙 가득한 수제 패티와 신선한 야채가 잘 어우러져 기본에 충실한 미국 동부식 오리지널 버거 슈림프 버거는 탱탱한 새우가 들어간 새우 패티",
+            "url": "https://m.blog.naver.com/amiroa_/223302700528",
+            "nick": "반짝이는 알밍이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA0MDVfMTY2/MDAxNjQ5MTY1NTQyNDQy.iiAFdH5j6f1c3T5TUt4tQc-DttIPoRtfpGYy0wQ9rQUg.-iCa9QwJvEAWroPbvPqisRQRIt10vWOmCkChnPuKpM4g.PNG.qhaqha09/profileImage.png"
+          },
+          {
+            "sid": "1408607179",
+            "bodySummary": "프랭크 버거 메뉴 탐구 매장에서 제시하는 인기 메뉴는 프랭크버거네요~!! 치즈버거세트와 JG버거도 인기 메뉴입니다. 프렌치프라이는 인기 메뉴가 아니더라도 저는 주문을 합니다~ㅎㅎ ",
+            "url": "https://m.blog.naver.com/godtlgkqrur/223286570675",
+            "nick": "딩굴",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxNzA0MjZfMTQ1/MDAxNDkzMjExMTAzNzQ1.Md9RUlL-3GxIAYZ7M1sybW-fAOgG7xRF6vpwR79MAZEg.H_uDQTytMUgfxF8L0W7Mdp3jskbYAOzDBr00t2sbcY0g.JPEG.godtlgkqrur/IMG_20170411_155641.jpg"
+          },
+          {
+            "sid": "1408607179",
+            "bodySummary": "오늘은 프랭크버거의 신메뉴를 먹어봤어요ㅎㅎㅎ 평소에 치즈를 꽤나 좋아하는 편이라서 이 메뉴가 꼭 먹어보고 싶었어요!! 오늘은 SG크림치즈에 대해서만 다뤘습니당! 혹시 프랭크버거세종",
+            "url": "https://m.blog.naver.com/rrrrrami/223135693701",
+            "nick": "라미",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAzMTlfMTQ5/MDAxNjc5MjA0MzQxNjQz.wD9Gq7qKLWoLp5Y4FO2bJns08FciJODnTrOzCeMrdNgg.PJBJ3A08II8oYqBu00hCHg3vh2fvLVAr8sqEbHq7r4Ig.PNG.winbang21lexy/profileImage.png"
+          },
+          {
+            "sid": "1408607179",
+            "bodySummary": "프랭크 버거에 신메뉴 나왔다길래 저번부터 궁금해하다가 이번에 시간이 맞길래 먹어봄! 매장 내부엔 테이블 몇 개 있고 키오스크랑 셀프 퇴식대 있었숑~ 나는 오빠랑 가볍게 나눠먹으려고",
+            "url": "https://m.blog.naver.com/lullulallamylife/223129280581",
+            "nick": "콩",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA2MTZfMTE3/MDAxNjU1MzY1Nzc2NDUy.eaxr3IB6sCRtGqfyLlyWbzHFpqLFl248vPurK-JSAMAg.5NMGhK0F6Y5O06klbRGQ1FD20uGYEnno77zxC4lYqecg.JPEG.eosis0418/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 11,
+        "id": "1495554035",
+        "name": "커피에반하다 세종소담점",
+        "x": "127.2988112",
+        "y": "36.4838829",
+        "distance": 0.221,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221356"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 123,
+        "averagePrice": 5000,
+        "address": "세종특별자치시 소담동 550 B상가동 b115호",
+        "roadAddress": "세종특별자치시 시청대로 236",
+        "abbrAddress": "소담동 550 B상가동 b115호",
+        "shortAddress": [
+          "세종 ",
+          "시청대로 236"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "붕어빵 출시!!! 민생회복 소비쿠폰 온누리상품권 (지류만 가능) 사용가능 매장입니다 합리적인 가격으로 커피문화의 대중화를 선도하고 있는 프랜차이즈 커피전문점 커피에반하다 OG 가맹점 입",
+        "description": "붕어빵 출시!!! 민생회복 소비쿠폰 온누리상품권 (지류만 가능) 사용가능 매장입니다 합리적인 가격으로 커피문화의 대중화를 선도하고 있는 프랜차이즈 커피전문점 커피에반하다 OG 가맹점 입",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20240405_13/1712279694672J2Hip_JPEG/vanada_%B7%CE%B0%ED_%B3%D7%C0%CC%B9%F6-%BE%F7%B7%CE%B5%E5%BF%EB.jpg",
+          "https://ldb-phinf.pstatic.net/20230627_94/1687853715359CAgkv_JPEG/COFFEE_VANADA_500px.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221356",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.5",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "1495554035",
+            "bodySummary": "#커피에반하다 #체인점 #커피에반하다소담점 #나는_오늘이_제일_예쁘다 일하러가기전에 잠시 쉬는타임!! 자전가타고 가야하닌깐 숨좀 고르기!! 그럴때는 역시 카페가 최고야",
+            "url": "https://m.blog.naver.com/eunhwakim86-/223223107203",
+            "nick": "으나",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEwMzBfODIg/MDAxNjk4NjIxMzc4OTA5.LZJcOkg7Vnd8qj5JjEm4EsmOtBibaxJb0Do_ZQ1jc5Qg.h0jiO5wkrXWpwfJydJ2nIF6DEpqgFbZmz4WXc8ZONWIg.PNG.kim376998/profileImage.png"
+          },
+          {
+            "sid": "1495554035",
+            "bodySummary": "집 주변에 있는 조용한 커피숍 '커피에 반하다' 산책하다가 갈증날때나 카페인이 필요할 때 가끔 들르는 곳~ 주로 테이크아웃 손님이 많아 자리는 적지만 잠깐 쉬기위해 머물다 가기 적",
+            "url": "https://m.blog.naver.com/0571026/223144681357",
+            "nick": "해리안경",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA1MTJfMTU5/MDAxNjgzODUwOTEzMDgz.b-HtxTQQjX1fU12Oj65kF6ocdyBFfv_vIiusMrN8Uh0g.U6F5nZF0D56eYJWJWd2qLZ_SoxcgzIs72crAc-QE6Vkg.JPEG.gyvan/profileImage.jpg"
+          },
+          {
+            "sid": "1495554035",
+            "bodySummary": "내 커피만 사러가도 꼭 끼어드는 아이들이라 아이들과 산책하면서 종종가는 곳 ㅎㅎ 커피모양의 에어간판? 벤티사이즈 3500원 마카롱 4+1 1000원 착한가격ㅎㅎ 조아여 버블티 자꾸",
+            "url": "https://m.blog.naver.com/shinchan25/222133096299",
+            "nick": "쑤우",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDA5MTRfMTE3/MDAxNjAwMDg1NjM3NDE2.zmWMWP95SpyvgKN6kpOP3qhby8U24eLGgLkCaWQCV-cg.4EU4riuNPUGaIzQRpSN8hj6nXwk3cmlVC43hOnZOyAsg.JPEG.shinchan25/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 12,
+        "id": "1631241197",
+        "name": "배스킨라빈스 세종소담점",
+        "x": "127.2989492",
+        "y": "36.4840879",
+        "distance": 0.247,
+        "categoryName": "아이스크림",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220578",
+            "221374"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "아이스크림"
+        ],
+        "reviewCount": 1648,
+        "averagePrice": 5000,
+        "address": "세종특별자치시 소담동 550",
+        "roadAddress": "세종특별자치시 시청대로 236",
+        "abbrAddress": "소담동 550",
+        "shortAddress": [
+          "세종 ",
+          "시청대로 236"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "달콤한 아이스크림 세상에서 행복을 느낄수 있는 공간입니다.",
+        "description": "달콤한 아이스크림 세상에서 행복을 느낄수 있는 공간입니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTAzMzFfMTU2/MDAxNzQzMzk3NTE4ODc2.aVPE1vqNPrXkp4MVs5Ya7xuEbGf_LADByB8soZEQ1ngg.rug0fkC5Pm45ZN6OGt9yGg6hi-kVmQqDZcN6waBaEeUg.JPEG/13947E13-78D6-4373-B4C7-DA3D3BAC9C5A.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDRfMzkg/MDAxNzUxNjI5NTk3MjEy.e99UCWb-5ACEfbbSqoXoFDbTK-dx34LdNV2xNU-qW0Qg.eldpCY9Rtorhw37XpWQggeShq3d-nyIk-3_zZf3zRUAg.JPEG/658F2078-BB43-4358-8AAE-93045CDE85D1.jpeg",
+          "https://ldb-phinf.pstatic.net/20250724_5/17533180775798X8cB_JPEG/%B3%D7%C0%CC%B9%F6_%B9%E8%BD%BA%C5%B2%B6%F3%BA%F3%BD%BA_%B7%CE%B0%ED.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDdfMjIw/MDAxNzU3MjMzMzgzMjIy.Ae-c8JKvE7nso6MiHQNMIxtS4YRqycFeXiwq_-IzmgUg.1R7O2ldGbzfmQVD3_ROziMhVZacsGP4nbfdioKSl21wg.JPEG/809DD5CB-4B75-45AC-8FFA-A9D990A8FBBA.jpeg",
+          "https://ldb-phinf.pstatic.net/20250724_75/1753330377879u4NSk_JPEG/%B9%CE%BB%FD%BC%D2%BA%F1%C4%ED%C6%F9_%BB%E7%BF%EB%C3%B3.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MzBfMjU1/MDAxNzUzODMwMjM1NjIy.IZRoR3Gkfkh6Vb7EGW1_xAssTrDm3f-p8KgT8vindYkg.S3l7wv0TRKBZf4yduclXrNKP8q6VaOQvqfRE38ufkx8g.JPEG/1965E048-BC20-42BA-B03B-A12A8A02A17B.jpeg",
+          "https://ldb-phinf.pstatic.net/20250723_142/1753262062697vuWtQ_JPEG/%B7%B9%BD%BD%B8%AE_%B1%B9%C0%FC.JPG",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTFfODQg/MDAxNzU0ODcyODA4OTUy.MfOGOKJPtS3x-iRJ1m-khf8wVYsCWvZ_O727rIoC-Gsg.vyk6y0KYv3ETd0h7OFQtzdl5F1Kwk08uZx_Gb2UPieEg.JPEG/FD0B0B47-C712-4513-8158-E13CD56D137B.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTBfMjMz/MDAxNzU0ODI0MjA1NTAz._GlJ5No3KfX_4MHy_xBomYaQcRyhPYQbrsyZqN7rCNUg.6DZ2RMAPXgUVXwHKL74P_DS4eIwfsW3iNA-MY7mGTuog.JPEG/Screenshot_20250810_200906_Naver_Blog.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTJfMTAz/MDAxNzQ0NDUwMDc2ODI1.SqtY82TL9dbIpaI62DfuqpOeN2CdKapfOGm7ujQr9YUg._azcB1JX8VoYJgjkIWdt_XZ5Gnp_5R-X2MNPzQ2xLlUg.JPEG/17444500621372410373609296423779.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221374",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1631241197",
+            "bodySummary": "먼저 케이크 부터 보여드릴게요 베스킨라빈스 케이크 사전예약 쫜 너무 예쁘죠 저희가 구매한 반전매력루돌프 에요 구매위치는 위치 실물 사진이에요 베스킨라빈스 아이스크림케이크예약 (1)",
+            "url": "https://m.blog.naver.com/yun940095/223303916053",
+            "nick": "윤윤",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMjFfMTg4/MDAxNzAzMTM3Nzc2MDcx.hVTuqm7hAzCshslZGJb7hMwM0qeZnfEq8Ss8ODmUSuAg.ADoTLhuLUdg9yCtIknpM8pgsw1TO2oQb08I5ZYaVBT8g.JPEG.yun940095/profileImage.jpg"
+          },
+          {
+            "sid": "1631241197",
+            "bodySummary": "베스킨라빈스31 아이스크림 케이크 리얼 27 큐브 소담동 베스킨라빈스에서 28,000원에 구입 TEL: 0507-1315-3031 매일 10:00 - 23:00 소담동 주민센터 맞",
+            "url": "https://m.blog.naver.com/szzz007/222604458077",
+            "nick": "토끼부부",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTEyMjhfMTAz/MDAxNjQwNjIwMzYxNDE5.8SFBpKxnabo6HiemxDCW_xfy1odRU9IwgQ7imXWnmm8g._VFty8C6sZix3_q31bSP7RB2Xcy4Sw1zBOfBt8-HBrog.PNG.szzz007/%25ED%2586%25A0%25EB%2581%25BC%25EB%25B6%2580%25EB%25B6%2580-%25EB%25A7%2588%25EC%25A7%2580%25EB%25A7%2589.png"
+          },
+          {
+            "sid": "1631241197",
+            "bodySummary": "#베스킨라빈스 #배스킨라빈스 #베라 #배라 #모찌 #아이스모찌 #초코바닐라 얼마 전 노트북 바탕화면 바꿨다는 글을 올렸었죠! 저 얘기를 보고 친구인 당츠비가 이렇게 귀여운 선물을 ",
+            "url": "https://m.blog.naver.com/jiung1479/222400904669",
+            "nick": "차분씨",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA1MDNfMjQ0/MDAxNjE5OTc0ODAxNjAw.DEcaW-YdA8SorMGC5YGWS1ZGxyjl0MHRQVwx4TX1Zjgg.KGLIC03QIPR2Gm_BChHVbFECPpwk_Ltg49Q3VHyJv04g.JPEG.jiung1479/%25EB%25B8%2594%25EB%25A1%259C%25EA%25B7%25B8%2B%25EB%25B0%25B0%25EA%25B2%25BD.jpg"
+          },
+          {
+            "sid": "1631241197",
+            "bodySummary": "며칠전 베스킨라빈스에서 아이스크림케이크를 사면 폴딩카트(M)를 6,900원에 구매가능한 걸 알았어요 마침 아이스크림케이크 기프티콘이 있어서 바로 살까했는데 알아보니 L사이즈는 오늘",
+            "url": "https://m.blog.naver.com/eunjin_0922/222180528018",
+            "nick": "EJ",
+            "profileImg": ""
+          },
+          {
+            "sid": "1631241197",
+            "bodySummary": "11월2일부터 11월 15일까지! #배스킨라빈스11월 #아이스호떡 #라이언호떡해 #아이스호떡모찌 쿼터로. 11월신상? #아이스호떡 #엄마는외계인 #아몬도봉봉봉 10월 신상이었던 #",
+            "url": "https://m.blog.naver.com/shinchan25/222139323010",
+            "nick": "쑤우",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDA5MTRfMTE3/MDAxNjAwMDg1NjM3NDE2.zmWMWP95SpyvgKN6kpOP3qhby8U24eLGgLkCaWQCV-cg.4EU4riuNPUGaIzQRpSN8hj6nXwk3cmlVC43hOnZOyAsg.JPEG.shinchan25/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 13,
+        "id": "1895218635",
+        "name": "가마치통닭 세종소담점",
+        "x": "127.2975008",
+        "y": "36.4821812",
+        "distance": 0.012,
+        "categoryName": "치킨,닭강정",
+        "categoryPath": [
+          [
+            "220036",
+            "220049",
+            "1000132"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "치킨,닭강정"
+        ],
+        "reviewCount": 278,
+        "averagePrice": 5000,
+        "address": "세종특별자치시 소담동 594 상가동 114호",
+        "roadAddress": "세종특별자치시 남세종로 358",
+        "abbrAddress": "소담동 594 상가동 114호",
+        "shortAddress": [
+          "세종 ",
+          "남세종로 358"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "통닭의 검증을 마치다! 가마치통닭 입니다.",
+        "description": "통닭의 검증을 마치다! 가마치통닭 입니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MDFfMjk4/MDAxNzQzNTEzNjY1ODk1.YbGSbNvFdNQmxmaYyAj7BlLBEcOG7VV2lWO3DiIu_hkg.pnOb8mPha4_ou59XNkX4AEm8T7uZZREhzfNZ6qmPGHYg.JPEG/1743513191088-2.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MDFfMjUw/MDAxNzQzNTA4MTc1NTU0.gLCR_qy_teaiO7u4Aa0Y4Ao68_V1ni4Bl03kn5WQVRQg.aL82YMw1ksyU2Uor1Odny-4vS4hD_UDy9FvnqcKNfMcg.JPEG/20250331_184903.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250516_266/1747360375435OTMfF_PNG/%B1%F1%C7%B3%C4%A1%C5%B2_%C8%AB%BA%B8_%C0%CC%B9%CC%C1%F6.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDFfMTk4/MDAxNzUxMzQ3NTc5MDQx.CWuJG6yKPTXMFtPq5XTAOE8ogDSomJRYKWO_CjC-oFAg.aVrojEOGouCRjik7qa9Wdj2Qjcw0HdX7llopJVjVQ8gg.JPEG/1751347538835.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjlfMTQg/MDAxNzUzNzk0MDkzMjA0.cx9-lKsH3tYFpH8RwFz3VNl1uDMdRpZItLRXhzDuivwg.jT8k1WiXxOX6bXnsIw3RqmZ45ScCkVAB67um5Fb4r1Qg.JPEG/1753793995771.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1000132",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1895218635",
+            "bodySummary": "세종시 소담동 새샘마을 2단지에 위치한 가마치통닭 세종소담점은 프랜차이즈이긴 하지만, 동네맛집으로 통한다. 가격대도 적당해서 2마리 통닭(17,000원)이면 4인 가족이 먹어도 모",
+            "url": "https://m.blog.naver.com/havnpark/223267796542",
+            "nick": "시작과끝",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAyMTlfMjEy/MDAxNzA4MjcxMTA3NDUy.pNUvKKhksUDeYIDQcOIV0kYNY4SpRc5pmjMpDY92Wx4g.qSxIA_81NO1A7tUcSeE0NiLdnrBy6CNvAEP9yqPWddAg.JPEG.havnpark/profileImage.jpg"
+          },
+          {
+            "sid": "1895218635",
+            "bodySummary": "월드컵 이날은 월드컵 경기가 있는 날 + 언니가 야식 먹고 싶다 해서 어쩌다 보니 야식으로 통닭이랑 치즈볼에 맥주를 곁들인 치맥을 하게 됐다. 이때 시간 밤 11시가 넘은 거의 1",
+            "url": "https://m.blog.naver.com/lsyeon2038/223185532429",
+            "nick": "연",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA2MTRfMjk2/MDAxNjg2NjcyOTE3NTgy.q3U58AZ1rnCs3IZP9VsC3Z6tKFw1Wb3LHl--97c6zZog.VSrRJwLUrouLMflZyEvEzA3EVzFcR5elteg-5_JBrtkg.JPEG.lsyeon2038/profileImage.jpg"
+          },
+          {
+            "sid": "1895218635",
+            "bodySummary": "어제 저녁부터 옛날통닭 생각이나서 내일 퇴근할때 사와야지해서 사온 소담동 가마치통닭 ㅎㅎ 두마리를 15000원에 팔아서 가성비 있고 맛도 좋은 통닭집~ 가게안에 테이블이 있긴한데 ",
+            "url": "https://m.blog.naver.com/dolpaq71745/222968803284",
+            "nick": "Action",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTEwMzFfODMg/MDAxNjM1NjgxOTY4Mzk1.64fg-fqQ3SlYQUL-lwEASmyuoVXfLMB6Yw28lcHGeM0g.JJjMbJ6bEKy_R4Y6lzZ4GPUYTVRVQ_2w0f2-boPtq8cg.JPEG.dolpaq71745/profileImage.jpg"
+          },
+          {
+            "sid": "1895218635",
+            "bodySummary": "포장 종종하는데 10분 15분전쯤 전화하면 기다리지 않고 바로 받기 가능ㅎ 치킨이 저렴하다보니 양념 치킨 무우는 별도이다 물가폭등으로 조금씩 가격이 오르는 중...미리 초벌튀김되어",
+            "url": "https://m.blog.naver.com/shinchan25/222859375490",
+            "nick": "쑤우",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDA5MTRfMTE3/MDAxNjAwMDg1NjM3NDE2.zmWMWP95SpyvgKN6kpOP3qhby8U24eLGgLkCaWQCV-cg.4EU4riuNPUGaIzQRpSN8hj6nXwk3cmlVC43hOnZOyAsg.JPEG.shinchan25/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 14,
+        "id": "70101488",
+        "name": "피자마루 세종보람점",
+        "x": "127.2972392",
+        "y": "36.4820514",
+        "distance": 0.027,
+        "categoryName": "피자",
+        "categoryPath": [
+          [
+            "220036",
+            "220044",
+            "220136",
+            "220975"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "피자"
+        ],
+        "reviewCount": 546,
+        "averagePrice": 14000,
+        "address": "세종특별자치시 소담동 594",
+        "roadAddress": "세종특별자치시 남세종로 358",
+        "abbrAddress": "소담동 594",
+        "shortAddress": [
+          "세종 ",
+          "남세종로 358"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "내가 바라던 피자, 피자마루!  우리 동네 피자맛집 '피자마루'입니다 :)  <피자마루 피자추천> 1. 페퍼로니 치즈폭탄 피자 2. 몬스터 콤비네이션 피자 3. 바이트 포테이토 피자  피자마루의 '그린티",
+        "description": "내가 바라던 피자, 피자마루!  우리 동네 피자맛집 '피자마루'입니다 :)  <피자마루 피자추천> 1. 페퍼로니 치즈폭탄 피자 2. 몬스터 콤비네이션 피자 3. 바이트 포테이토 피자  피자마루의 '그린티",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTNfNjYg/MDAxNzYwMzQ3OTU1MTky.3yK0WDgQjNRmGm4q6mHhgpUJlta747oNakGcaDgbs9sg.SESWx7me5FANtT4NeUHG7XQn8lg8OGWFx8MXN2zekdsg.JPEG/20251009_202547.heic.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjRfMjI1/MDAxNzU2MDE3NzA1OTAx.va1uoQOvqhCaqkH6n368cNeZwoTEQKr1Qvz29sTtSvsg.cuZXGsh0eMMO1eox13mzIxfOw-Y47tlbi_b40K1rlaEg.JPEG/4DBF2998-B324-4D9F-AAF7-E7707EF468A3.jpeg",
+          "https://ldb-phinf.pstatic.net/20250508_275/1746665072186bRCxJ_JPEG/1.jpg",
+          "https://ldb-phinf.pstatic.net/20250508_119/1746665072149JVAiK_JPEG/2.jpg",
+          "https://ldb-phinf.pstatic.net/20250508_275/1746665072194SsOWT_JPEG/3.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220975",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.47",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "70101488",
+            "bodySummary": "소담동 피자 맛집 피자마루 소담동인데 피자마루 보람점이다 세종 피자마루 토핑도 도우도 다 선택가능한데 기본도 너무 맛있다 세종소담동피자마루 메뉴판 피자마루 사이드메뉴는 안 먹어봤는",
+            "url": "https://m.blog.naver.com/yookjihye/223075444958",
+            "nick": "꼬마새댁",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA1MTBfMjYz/MDAxNjUyMTk0MjAwMDQ4.nBqfeqvzbRzd-6jsP9DyXStMUxS5YN2KhzzANMagnOsg.LbbaFwZaneGPcliom6NOous_zcICXe5DbQ6e1-DTzMcg.PNG.yookjihye/profileImage.png"
+          },
+          {
+            "sid": "70101488",
+            "bodySummary": "언젠가 먹방에서 보았던가... 2차 치즈 폭탄 1킬로. 딸이 꼭 먹어보고 싶다더니 엊그제 주문하면서 물어봐요. 아무리 그래도 치즈 1킬로는 아니지 싶어 500으로 주문했어요. 살짝",
+            "url": "https://m.blog.naver.com/ejh0524/222218001785",
+            "nick": "얌전한 고양이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20171101_63/ejh0524_15095163009571KEag_PNG/--1.png"
+          },
+          {
+            "sid": "70101488",
+            "bodySummary": "소담동 피자마루 영업시간은 11시 ~ 23시 15분 전 전화주문하면 바로 가져올 수 있었다. 소담동 피자마루 메뉴판이다 이 날은 기본 포테이토 피자를 주문했다. 가격이 정말 착하다",
+            "url": "https://m.blog.naver.com/6ixzzang/222070143674",
+            "nick": "슈퍼문",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDA1MjhfNjQg/MDAxNTkwNjE5MTY3OTgz.ktjb0g7KCpTRmFfN5HAmnAGIdgctepOCfWTUK8bdrqQg.QuNFQVjwfsBPK4NzyjwZGVkT60_y21WwX0eEiTJnl4kg.PNG.6ixzzang/profileImage.png"
+          },
+          {
+            "sid": "70101488",
+            "bodySummary": "보통 15분전에 피자마루 세종보람점에 전화를 하고 픽업하러 갑니다. 원래 동생몬을 시키려고했는데 블로그 쓰려고 제가 영하의 추위를 뚫고 다녀왔습니다요. 피자마루처럼 거품이 쫘악 빠",
+            "url": "https://m.blog.naver.com/ziyoolo/221463136183",
+            "nick": "율찌",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTAxMjZfMjkw/MDAxNTQ4NDgzMzg0NzUx.XE1rr0LfdDbZDJ1g2qYRtK4os967WVy8FtxbX1TvkvUg.P6-h6ZZHek3z0znzO_TQX3Y8csdCRnQNQBK-qPOeA7Qg.JPEG.ziyoolo/profile.jpg"
+          },
+          {
+            "sid": "70101488",
+            "bodySummary": "피자는 역시 피자마루!! 집앞에 있어서 가깝기도 하고 가성비가 워낙에 좋아서 제가 자주 이용하는 가게입니다. 피자마루의 위치는 소담동 와이즈시티 단지내상가에 있어요~ 피자마루는 배",
+            "url": "https://m.blog.naver.com/nsgogo3/221393633229",
+            "nick": "남부자",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxODA2MTZfNzMg/MDAxNTI5MTM0MTY1MjAw.08E0Vc_xpHLGKhePlL6ZMSi5C8T3mrZVlvhcasoEbpkg.y8cWzNcVx2pSIiy89uu4Wqq80FCl88IxyX5wa3KfDAsg.JPEG.nsgogo3/20180616_125129.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 15,
+        "id": "1141072588",
+        "name": "닭장수후라이드 소담점",
+        "x": "127.2993582",
+        "y": "36.4844904",
+        "distance": 0.304,
+        "categoryName": "닭장수후라이드",
+        "categoryPath": [
+          [
+            "220036",
+            "220049",
+            "1001758"
+          ]
+        ],
+        "category": [
+          "치킨,닭강정",
+          "닭장수후라이드"
+        ],
+        "reviewCount": 163,
+        "averagePrice": 10000,
+        "address": "세종특별자치시 소담동 544 1층 101호",
+        "roadAddress": "세종특별자치시 한누리대로 2022",
+        "abbrAddress": "소담동 544 1층 101호",
+        "shortAddress": [
+          "세종 ",
+          "한누리대로 2022"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "닭장수후라이드 소담점 입니다 모든 메뉴에는 감자가 서비스로 들어갑니다!  노릇하게 2번 튀겨 더욱 바삭하고 특유의 염지법과 신선한 식재료 관리 덕에 한입만 드셔도 왜 많은 분들께서 좋아",
+        "description": "닭장수후라이드 소담점 입니다 모든 메뉴에는 감자가 서비스로 들어갑니다!  노릇하게 2번 튀겨 더욱 바삭하고 특유의 염지법과 신선한 식재료 관리 덕에 한입만 드셔도 왜 많은 분들께서 좋아",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20230728_164/1690507026984OLnvR_PNG/%BC%D2%B4%E3%C1%A1.png",
+          "https://ldb-phinf.pstatic.net/20230728_90/1690507406240MDInM_PNG/3.png",
+          "https://ldb-phinf.pstatic.net/20230728_267/1690507406390UM9bE_PNG/4.png"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1001758",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1141072588",
+            "bodySummary": "집 근처에 닭장수 후라이드가 생긴걸 발견했습니다. 그래서 오랜만에 닭장수 후라이드에서 포장 주문 했습니다. 후라이드 한마리반, 닭똥집 주문 했습니다. 내부는 깔끔하고 사장님도 친절",
+            "url": "https://m.blog.naver.com/hiptravler/223236935679",
+            "nick": "빵이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA5MjRfMTky/MDAxNjk1NTU3MzkwODU1.MCB63JzSouAlFEjqbNrznFno_tT9lm5YrBmAv-GJNLQg.AVOPN8rd_RZNHLyK94U_jhy22rt1IeXa5OD9V27yp5Ig.JPEG.pyd1012/profileImage.jpg"
+          },
+          {
+            "sid": "1141072588",
+            "bodySummary": "닭장수후라이드 소담점 위치 : 세종 한누리대로 2022 1층 101호 영업 : 12:00 - 24:00 전화 : 0507-1370-2632 메뉴 : 후라이드치킨 한마리 11,000",
+            "url": "https://m.blog.naver.com/sfgdghgdhf/223233707861",
+            "nick": "먹으면 돼지",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA5MjJfMjkw/MDAxNjk1MzcwNTI0NjM1.T5t5HD8qWJT78-llrQJg0Z_gmCak1Ftxmh4s_PzKVbAg.mWOrpG790nk1AutUN_m6qSxNM22B2wJ_BvP3s3ZwYWog.PNG.84t829n9/2023-09-19_16%253B51%253B08.PNG/2023-09-19%2B16%253B51%253B08.PNG"
+          },
+          {
+            "sid": "1141072588",
+            "bodySummary": "닭장수 후라이드 소담점 세종 한누리대로 2022 1층 101호 12:00-24:00 0507-1370-2632 건물 내 주차가능, 매장 취식 가능 모든 메뉴에 감자튀김 서비스 건물",
+            "url": "https://m.blog.naver.com/tyler_kaithy/223232235172",
+            "nick": "킴케이띄",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMDFfMTgz/MDAxNzA5MzA1MDA5Mjcx.k4cd98UIl1JkPaGP2MA2Y_Z5JFt34Ks2AM7bPX_XexEg.n_Sn77FK6rszTH22u15El0uF_wMYMW3Z-1SjVdGnY6Eg.PNG/profileImage.png"
+          },
+          {
+            "sid": "1141072588",
+            "bodySummary": "닭장수후라이드 소담점 전화 0507-1370-0632 주소 세종 한누리대로 2022 1층 101호 운영시간 매일 12:00~24:00 후라이드가 만천원이라구? 요즘 같은 물가에 가",
+            "url": "https://m.blog.naver.com/tjsrj1212/223224054374",
+            "nick": "홍로그",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAzMDhfMTY0/MDAxNjQ2NjY1NjkyNjcz.ISC_oOAYsPAeYC5E7YmcXbUs50YEx0EsLg2s2hORmFEg.wROmXTMVo3HeRmKokhX4l-54JBckjwt9U_pxHQ_sNdMg.JPEG.tjsrj1212/profileImage.jpg"
+          },
+          {
+            "sid": "1141072588",
+            "bodySummary": "이런날은 바로 남이 해주는 음식이 최고 ෆ 근데 매일 외식을 사치이기에 우리는 가성비 가심비 매장을 즐겨가게되는데 그중 우리가 즐겨가는 가성비 가심비 맛집인 닭장수 후라이드 소담점",
+            "url": "https://m.blog.naver.com/8810020/223220187475",
+            "nick": "10020",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA3MTJfMzIg/MDAxNjU3NjA3NzY5Mzk5.zsWgCe0omatvsYi4e2Tu6AVHLANA3eBMfr3dPMY0FAYg.oLM1XO4FKfI35zFxeDVF5Vf3BLBBDHnnVfm28jQ8lz8g.PNG.8810020/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 16,
+        "id": "1277384674",
+        "name": "야곱야곱",
+        "x": "127.2981928",
+        "y": "36.4834079",
+        "distance": 0.147,
+        "categoryName": "야식",
+        "categoryPath": [
+          [
+            "220036",
+            "220050"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "야식"
+        ],
+        "reviewCount": 3,
+        "averagePrice": 0,
+        "address": "세종특별자치시 소담동 550",
+        "roadAddress": "세종특별자치시 시청대로 236",
+        "abbrAddress": "소담동 550",
+        "shortAddress": [
+          "세종 ",
+          "시청대로 236"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "세종특별자치시 소담동 550",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220050",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 17,
+        "id": "2146511456",
+        "name": "스무디고 세종소담점",
+        "x": "127.2970142",
+        "y": "36.4819382",
+        "distance": 0.049,
+        "categoryName": "과일,주스전문점",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220584",
+            "221407"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "과일,주스전문점"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 0,
+        "address": "세종특별자치시 소담동 594",
+        "roadAddress": "세종특별자치시 남세종로 358",
+        "abbrAddress": "소담동 594",
+        "shortAddress": [
+          "세종 ",
+          "남세종로 358"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "세종특별자치시 소담동 594",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221407",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 18,
+        "id": "1668085303",
+        "name": "레드립 매운갈비찜",
+        "x": "127.2966056",
+        "y": "36.4838626",
+        "distance": 0.193,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 0,
+        "address": "세종특별자치시 소담동 550",
+        "roadAddress": "세종특별자치시 시청대로 236",
+        "abbrAddress": "소담동 550",
+        "shortAddress": [
+          "세종 ",
+          "시청대로 236"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "세종특별자치시 소담동 550",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 19,
+        "id": "1394169949",
+        "name": "1984그수육집칼국수 세종 보람점",
+        "x": "127.294608",
+        "y": "36.4807957",
+        "distance": 0.298,
+        "categoryName": "칼국수,만두",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220073",
+            "1006496"
+          ]
+        ],
+        "category": [
+          "한식",
+          "칼국수,만두"
+        ],
+        "reviewCount": 398,
+        "averagePrice": 5000,
+        "address": "세종특별자치시 보람동 774 호려울마을 9단지 상가 912동 1층",
+        "roadAddress": "세종특별자치시 남세종로 384",
+        "abbrAddress": "보람동 774 호려울마을 9단지 상가 912동 1층",
+        "shortAddress": [
+          "세종 ",
+          "남세종로 384"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "1984 그 수육집 칼국수 보람점은 손님이 만족 하실 수 있도록 일신 일신 우일신 하는 마음으로 노력을 하고 있습니다. 매일 새롭게 만드는 음식은 우리 가족이 드신다는 생각으로 정성스럽게 만 ",
+        "description": "1984 그 수육집 칼국수 보람점은 손님이 만족 하실 수 있도록 일신 일신 우일신 하는 마음으로 노력을 하고 있습니다. 매일 새롭게 만드는 음식은 우리 가족이 드신다는 생각으로 정성스럽게 만 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjBfMTc3/MDAxNzU4MzQ3Mjc1MDIy.7uZ14dv-pO8Xig27fFVCSSzvNSB4bunM8aQ0x8PxBw8g.NkG8cX9Ir2z4CnnaUlEHPh5aTKfUERtOf9BDAsXd2Msg.JPEG/20250920_144643.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDFfMTcx/MDAxNzU2NzIyOTU0MjA5.WZ9hAYwmgIVkjOJXPaFUn_LcEKzbNPG_pDnoYNp0QQsg.u1JLK6seGGkOE1Wr2AnsVUqzMl0ikpz238a14agDv9Ug.JPEG/1000036978.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240513_155/1715608288904r4kMI_JPEG/1984_%B3%D7%C0%CC%B9%F6_%B4%EB%B9%AE%BB%E7%C1%F8.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTBfMjE3/MDAxNzQ5NTQ5NjU4NDg1.85-DmT9r8FYK6hjAHS9Gb_LyX6nPwT_3dx4xknrhWM0g.vF3tpkpAGDZjORi2Uk-sbURyMKzBT2_t7RvCLNtMcDwg.JPEG/20250610_185207.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240820_239/17241503331101rRdV_JPEG/1_bgeUd018svcvgtn3vegu9sf_i38pui.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDdfMTU3/MDAxNzQ5MjYzNzUzNzEw.Plu5TCYvtqCHc5Ro7VZPwkModOYQlMNF_G_kT3ZqoqEg.dqE1EcQqkLWBUKUunbb89jEwhMtQC0CPozUhZ-tGsTgg.JPEG/IMG_6474.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTVfMTU2/MDAxNzQ0NzE4MDcwMTI3.6urU_l41oEahz8AcUXX71HEbXJN10Wmr7svCeByf7cUg.o229DNkY657bmHtWHvgDuss3TKrRoxrFAx87wrS557cg.JPEG/592F9B21-60C3-4B2D-99E1-CA1E205F9F0B.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTBfNTkg/MDAxNzUyMTQwNjYzNDI3.LQy_LWXQwhG-AgbJg27Au3PbxpHGhgHhDxxKmLsqolUg.12Us4eM2C6T4nsiXYg-HK_dCG0_SX8VP9FGduLov434g.JPEG/1E853FFE-DAD0-4B08-89C7-604163948C94.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDhfMjY4/MDAxNzU3MzI5MDg2MjIy.of3mkYOCzPHhTfg2fRu-w6fQYbrnjs_PWuvKNf5BcV0g.Mqyubi8x3I85LmtRFxst9ZEjy8ZkJku1sbBQ1Bz6Oy0g.JPEG/20250908_195750.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDdfNjIg/MDAxNzUxODc2Mjg1ODY3.XLjHex7oTCdjkInl7aU_mQVgeojDq7jMJcomz8GjDi0g.yakrKu8N2j3hfy18gCZreX7XOgi3Oeb3Cwzh8FcGI-wg.JPEG/IMG_4238.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1006496",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "1394169949",
+            "bodySummary": "주소&전화번호 세종 남세종로 384 1층 보람동 774 044-863-1984 영업시간 월 - 토요일 11:30 - 21:00 │ 브레이크 타임 15:00 - 17:00 라스트 오",
+            "url": "https://m.blog.naver.com/wakewakewake/223397685685",
+            "nick": "소요",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA5MjRfMTk4/MDAxNjk1NDg4NTcxODA3.RglgqgN0C3A0CdgBLX3PsMPUqPmD5d373CpxUbWvJsMg.5RSf_cstTH7WkQYnQezNtUA4gzOA2iKvRKqVPfEcx80g.JPEG.wakewakewake/SOYO.jpg/SOYO.jpg"
+          },
+          {
+            "sid": "1394169949",
+            "bodySummary": "1984 그수육집칼국수 세종보람점 주소 : 세종 남세종로 384 1층 영업시간 : 월~토 11:30~21:00(매주일요일 정기휴무) 15:00~17:00브레이크타임 20:30 라스",
+            "url": "https://m.blog.naver.com/whitepapi/223375415858",
+            "nick": "찐",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20110708_190/whitepapi_1310106041324_7796ow_jpg/Untitled-1.jpg"
+          },
+          {
+            "sid": "1394169949",
+            "bodySummary": "다들 대전사람들ㅎㅎㅎ 달콤하고 산뜻하면서도 진한 무게감의 알밤막걸리♡ 금방 보리새우부추전도 나왔어요! 보리새우가 바삭바삭 소리와 고소한 맛으로 딱 막걸리와 찰떡이었어요!! 수육은 ",
+            "url": "https://m.blog.naver.com/oribab/223361128341",
+            "nick": "헤이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA2MDRfNDAg/MDAxNjg1ODg3NTEzNTMw.bqA8EMw_5B6mSZoxoZCWuGCpwGsZQjKapLGH76ZqBS4g.USTD0QvWors5BKBDMl5w8NAeLy8d0V4pRqY_oxG27F8g.JPEG.oribab/profileImage.jpg"
+          },
+          {
+            "sid": "1394169949",
+            "bodySummary": "1984 그 수육집 칼국수 인기메뉴인 그집 칼국수와 보리새우부추전 그리고 비빔국수로 주문했다 !! 계절메뉴인 콩국수와 열무국수도 있고 ..! 점심특선메뉴(평일2시까지) 세트로 가성",
+            "url": "https://m.blog.naver.com/d6644838/223358816890",
+            "nick": "soyun",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA0MjZfMjQ3/MDAxNjgyNTEwNDI4NDcy.M7q3EamAihjH-16V3tN4r-QfObtJZz9IBrwxXQXvQrsg.GiAtsd1JXK3alPnOn0prntzcC_wpzu0dzZDVU_azDuIg.PNG.d6644838/profileImage.png"
+          },
+          {
+            "sid": "1394169949",
+            "bodySummary": "약간 전주의 배테랑칼국수랑 흡사한 느낌 프렌차이즈인듯한데 날계란에 고명으로 들어있었고 순한맛보다는 자극적인 맛 들깨도 있다보니 여러가지 맛이 섞인 자극적인 맛이다 서브메뉴로 시킨 ",
+            "url": "https://m.blog.naver.com/1018seungfairy/223283694563",
+            "nick": "승아리",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA4MTBfMTQ4/MDAxNjkxNjU2ODA5Nzcw.3IA73v1eu-N7Km7oSDEa3V4teZYZ6M9QQzFpYcUJdXgg.jgDTA4iaGXtM22NAZ3Ww8QZ9F2-qlU5lOi9d3fsTni0g.PNG.suyeon3431/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 20,
+        "id": "1474308518",
+        "name": "형제막창",
+        "x": "127.2990612",
+        "y": "36.4844232",
+        "distance": 0.284,
+        "categoryName": "곱창,막창,양",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220767",
+            "221540"
+          ]
+        ],
+        "category": [
+          "한식",
+          "곱창,막창,양"
+        ],
+        "reviewCount": 92,
+        "averagePrice": 20000,
+        "address": "세종특별자치시 소담동 544",
+        "roadAddress": "세종특별자치시 한누리대로 2022",
+        "abbrAddress": "소담동 544",
+        "shortAddress": [
+          "세종 ",
+          "한누리대로 2022"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "가장 맛있는 돼지막창과소막창,엄선된 국내산생삼겹살,국내산생뒷고기살만을 취급합니다.찾아주시는 고객님들께 맛과 친절함으로 실망시켜드리지 않겠습니다..형제막창만의 차돌된장과 특 ",
+        "description": "가장 맛있는 돼지막창과소막창,엄선된 국내산생삼겹살,국내산생뒷고기살만을 취급합니다.찾아주시는 고객님들께 맛과 친절함으로 실망시켜드리지 않겠습니다..형제막창만의 차돌된장과 특 ",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20191206_258/15756264980028PGk2_JPEG/dv3jeDIdqbnlQ9-y1HwBvJpM.jpg",
+          "https://ldb-phinf.pstatic.net/20201119_205/1605751804220u4nkC_JPEG/iOH3Yn5jWTwo-hYvQHyWgpZm.jpg",
+          "https://ldb-phinf.pstatic.net/20201119_268/1605751818748iBo6Q_JPEG/cnOp7dwQ8nRnPP1q3xzak5k3.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221540",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1474308518",
+            "bodySummary": "쌈장에 고추 쫑쫑 막창이랑 같이 먹으면 굿.. 이 날도 혼자 두병 순삭한 남편 라면 추가 나는 꼬들한 면이랑 야채가 많아서 넘 맛잇었고 남편은 퍼진 면에 국물이 맛있었다구 한다 ㅎ",
+            "url": "https://m.blog.naver.com/1ill1ill/223326263405",
+            "nick": "개구리대장",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA1MjhfMjg5/MDAxNjg1MjU2NTU2NTI3._0hOdlYwefq1QZ7IdtJe0OxaNT5wy99ShWeFJlgt-BUg.0HZCfOz7hc0WO_NRRB7k4_04u-ugiYtl84Mt6IQd7kgg.PNG.ww041333/profileImage.png"
+          },
+          {
+            "sid": "1474308518",
+            "bodySummary": "도담동에서 소담동까지 굳이 먹으러 가야하나 싶기도 한데 멀어도 이왕먹는거 맛있는거 먹어야 기부니 좋으니깡 차막히기전에 퇴근하고 소담동 고고 소담동주민센터 건너편 건물에 있는 소담동",
+            "url": "https://m.blog.naver.com/9heezzang/223325582855",
+            "nick": "히히",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMThfMjMg/MDAxNzEwNzY3ODk1MDAz.WIepUmVA0I8FSn_fvdyW9_AnnpX5uifBOXCWQfz2kuUg.kMPr7cad01c1GlzQ8lBu9cpyC8Dx7jLEGyKMxRvWnrEg.JPEG/6dc71e74e42f102d4c361f570eaec985.jpg/6dc71e74e42f102d4c361f570eaec985.jpg"
+          },
+          {
+            "sid": "1474308518",
+            "bodySummary": "#세종시막창맛집 #세종시돼지막창막집 #세종시돼지곱창맛집 #세종시막창맛집형제막창 #세종시형제막창 #세종시소담동맛집 #소담동막창맛집 세종시 소담동에 위치한 돼지 막창 맛집인 형제막창에",
+            "url": "https://m.blog.naver.com/hshyboy3/223147513643",
+            "nick": "중심잡기",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA3MjdfNzkg/MDAxNjU4OTI1MzYwODc2.DxuhqI163svzWZJxZ11HL6t7G2bdOb827iWdCl_rDjAg.RZVSSiRPBvpuBT2_MP-PodslBumGnj1ml_mwRQ3ctSog.JPEG.hshyboy3/%25EB%2582%2598%25EC%259D%2598_%25EA%25B7%25B8%25EB%25A6%25BC%25EC%259D%25B4%25EC%259A%2594.jpg/%25EB%2582%2598%25EC%259D%2598%2B%25EA%25B7%25B8%25EB%25A6%25BC%25EC%259D%25B4%25EC%259A%2594.jpg"
+          },
+          {
+            "sid": "1474308518",
+            "bodySummary": "얼마 전 다녀 온 소담동 막창맛집 소개합니다 형제막창 위치: 세종 한누리대로 2022 연락처: 044-863-1712 운영시간: 매일 16:30~22:00,23:00 세탁소에 수선",
+            "url": "https://m.blog.naver.com/yeonylog-/223110489149",
+            "nick": "여니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAyMjdfMjg2/MDAxNjc3NDcyNDUzNjEw.HdeBn1aPpYL5imTxEVuk-O-SDVaVDbHb0CQLZznEa20g.OC5kAiIJrp0xobyqlpueP2qMJenebBJrI3o2NJUPnTIg.PNG.syk9802/profileImage.png"
+          },
+          {
+            "sid": "1474308518",
+            "bodySummary": "막창외에도 삼겹살, 뒷고기도 팔고있어서 내장 못드시는 분들이나 애기들은 고기 시켜서 같이 드시면 돼요 ㅎㅎ 그리고 된장찌개, 누룽지, 우동, 라면, 달걀찜 사이드도 많이 팔고있어요",
+            "url": "https://m.blog.naver.com/cuteyhl/223039381414",
+            "nick": "혤리",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA1MzBfMjMz/MDAxNjIyMzU1OTU4NTcw.ahWjBQBpXfHThUJ4X5LYrmWwh2bO8Bwn3siNWkFpc7Ig.IaO715EXcZhRa1qpxLHGhd84fxJy5ivfPpQBZ7Cm3skg.JPEG.cuteyhl/KakaoTalk_20210530_152230742_02.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 21,
+        "id": "1142094193",
+        "name": "공룡닭발",
+        "x": "127.2981406",
+        "y": "36.4833542",
+        "distance": 0.139,
+        "categoryName": "닭발",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220772",
+            "221590"
+          ]
+        ],
+        "category": [
+          "한식",
+          "닭발"
+        ],
+        "reviewCount": 222,
+        "averagePrice": 15000,
+        "address": "세종특별자치시 소담동 550 새샘마을3단지 상가 1층 C동 136호",
+        "roadAddress": "세종특별자치시 시청대로 236",
+        "abbrAddress": "소담동 550 새샘마을3단지 상가 1층 C동 136호",
+        "shortAddress": [
+          "세종 ",
+          "시청대로 236"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "세종특별자치시 소담동 550 새샘마을3단지 상가 1층 C동 136호",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDZfMTQz/MDAxNzU5NzU3ODgwODQ3.lrE-5Nx5t9rGiKB4bMbNtTmWhbpPNGevC7fSG99XM-og.pxqTfFlpxHB-zqTDPymdvD0__bFRMkIewC-oj0YczGIg.JPEG/1759757621059.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDVfMjQ5/MDAxNzU5NjQwMDg2OTUz.0Mwnj-GHWh1Yc1M7KURloBZGKhRYgz0lmbhKKkcF9Uog.yyRnzfdrFP8E18IoLuYxU3dL1-k7EeCxWSSP5VBcA_Mg.JPEG/20251003_214935.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20191207_201/1575658962904zrM61_JPEG/T8u0K5UZ5wAz8oCvOQHM5825.jpeg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDhfNDYg/MDAxNzU3Mjg5NzYxNTk1.6n0EHlJwUhK_CD02xMrTtbTL1GdyKSIq6DdKHUCATdQg.3Lh8guVmBXxPqxCKCXpOAvaH4o4UU90FR5KeEU3mpWwg.JPEG/47D54404-C80C-4346-B279-01D48E736EDB.jpeg",
+          "https://ldb-phinf.pstatic.net/20191207_28/1575658981686jq4CB_JPEG/zTzE-Pp9F4ar6zT48QN1QNC8.jpeg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjRfODIg/MDAxNzU2MDM3MDM2Mzkz.PWydfWclffY0U4nkNs71afc9C8FXSarFzvjGTRrKYtog.ajDH1HIxIoNW0_19kK2fm-zet5Sz26x0XwGJGIp7MGUg.JPEG/20250824_204548.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20191207_160/1575658995248K4XNs_JPEG/quPmXJtSBBy7Jt43zcZANp-1.jpeg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221590",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

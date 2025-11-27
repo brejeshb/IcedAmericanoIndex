@@ -1,0 +1,450 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 5,
+      "count": 5,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.97459027882879,
+          "minY": 37.5683018018018,
+          "maxX": 126.97572685255253,
+          "maxY": 37.569202702702704
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.97515856569066;37.56875225225225",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1797491784",
+        "name": "카페이스턴 열매점",
+        "x": "126.9753893",
+        "y": "37.5684953",
+        "distance": 0.035,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 55,
+        "averagePrice": 3000,
+        "address": "서울특별시 중구 정동 1-17 1층",
+        "roadAddress": "서울특별시 중구 세종대로21길 39",
+        "abbrAddress": "정동 1-17 1층",
+        "shortAddress": [
+          "서울 중구",
+          "세종대로21길 39"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [
+          "맛있는 아메리카노의 깊은 풍미"
+        ],
+        "cardDescription": "맛있는 아메리카노의 깊은 풍미",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTVfMTQz/MDAxNzU3OTM5NDgzMDYw.vULiV_CIO1mENcAWJX_PKfcBx-Ogp1noR_jghX0qqGAg.SP81omRgtNIGjKH-OL1QqceAjnUU72tI7KSA4k9D42gg.JPEG/78E9C0EE-8BCC-49DA-8973-11103A4689C9.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTdfMTEy/MDAxNzYwNjY3NDY2NDY2.Jry1xU7_sa731qPMSkN2Fa08Y0nJYqIx7ZWHhIA1chMg.txevj8YT3h-cUZIkOZvJScQi91fmxnpVKPFIXAPHSP0g.JPEG/20250206_093743.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20231122_295/1700613454337IWi0G_JPEG/B4D0DEFC-B2EB-4AE2-9544-AA27E8E5BA65.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDVfMTAg/MDAxNzU3MDM2NTgyNjAx.5_ygRr1sR1GdhcbKy0QjZWW5pSll-cEpCiuCMIUCKtYg.Z-3WnvLU9pwYRenFJEnavVriIz5bF7_GQg7YFzk-5f4g.JPEG/5336CCA1-4ACD-4D5B-8E92-A7722022B84F.jpeg",
+          "https://ldb-phinf.pstatic.net/20231122_287/1700613353759wnkpv_JPEG/F68D2F0A-02EE-497B-90F9-548FCDBF15A3.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDVfMjEg/MDAxNzU3MDQ3MjY5MTc5.vaEDEbymMs9EcMUMMskk3IIN2bvkCyPuR9JhIth4VZsg.2_dB6zgfECjkr01mEOTepbmXywXZKdw8V2rEMZKKUYgg.JPEG/20250903_092847.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjNfNjIg/MDAxNzQ3OTYxODQ5NDU3.3sTL5biObRx3Z_hxlvmQ0OYscH9dWH-F0FW94EtIDugg.bjIJTcoFI9DwlinJrH5LL3-qRXUtau1zQ3ftHa6feFkg.JPEG/20250523_095619.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTNfMTYw/MDAxNzYwMzEyODE4MjA3.2CvpQLztJPMwaDltG6EwfSCE4DcmxyVCl0zdKHHWDoog.h4cSoyrJPKkKLPS4XmsZY47aBQGvHVRZ_bak0fpMNH4g.JPEG/20251010_082733.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDVfNDEg/MDAxNzQ5MDgwMDY4ODI5.jaE3zn2Ay6t9DOhG3dEsF59-46iGpIfZdT1SkEYD6hYg.yAFE41CiWu56vALfNs1TUjYV5xfGpUZClw7W1O9MBhYg.JPEG/20250605_083221.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjBfMTc0/MDAxNzQ3NzExNzQ4MDc1.lKap7l5RRSdNWHQCE38h_erHI8Ab6u-0u-zlXaV6aQcg._P65V4iYA5L1QgPsJ_8m4Z4uiYsIuCAbs2B17hqvjI4g.JPEG/20250520_083845.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "846830329",
+        "name": "토프레소 태평로점",
+        "x": "126.9757172",
+        "y": "37.5687084",
+        "distance": 0.05,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221341"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 424,
+        "averagePrice": 4000,
+        "address": "서울특별시 중구 태평로1가 76-3",
+        "roadAddress": "서울특별시 중구 세종대로21길 49",
+        "abbrAddress": "태평로1가 76-3",
+        "shortAddress": [
+          "서울 중구",
+          "세종대로21길 49"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 태평로1가 76-3",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDZfMTYw/MDAxNzU0NDU0ODUzNjYy.xDXTqfxRS1i74tbUoQ3BeMFIDxfPY6Yvl0iZW1iSB-kg.sMxp70IvERsp4WH2bXmdEMZdsvjH5aIqqFAroQCYZhsg.JPEG/20250806_131132.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTRfMjUy/MDAxNzQ0NTg3NDgxMDA0.d-xi-r7BJ0enI5l5F4bn_4fPsJAiQeQuAvPOvWnOozEg.ULCir0EYEQnbNMoUDM98JuVfnlXnnKYWkavSbE3m95Ag.JPEG/20250414_083645.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20190709_239/15626602664280fCuW_JPEG/2esqFS1lBorhoMLtbAeXTAoG.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDVfNzMg/MDAxNzQ2NDIzOTE1NTMy.cgxMT8kaDDfSysDppCONdXcmRocivJ3Re3EXhfOd6t0g.PEvBXvemzgXGkjNEeViscbwTONDre6JTdnbBJXaJz6cg.JPEG/20250429_084231.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20190709_168/1562660275691ep2WN_JPEG/jnNbQCBrJCJ2-ChR1hxjxszZ.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjlfOCAg/MDAxNzQ1ODgzODE5MTM3.dSN4VJKkMErYwLev4KG-zGafuWBmEEjAcBFw57vRLNsg.G_5deExg5g9Vlu8nA75gQCw1dNpNejqn6ffyIKAOmHQg.JPEG/20250429_084231.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjhfNDAg/MDAxNzQ1ODEwOTUyOTI2.JPAGvTLtmKswdbH8a-yb5nh7QI51gvLgqAXd-rwtv9gg.df_U0BzllvATIsV0KTDN5n49OacKB75ZBzBSaJL2dEYg.JPEG/20250428_122812.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221341",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 3,
+        "id": "1282155880",
+        "name": "카페더헤아림 서울사회복지공동모금회점",
+        "x": "126.9753893",
+        "y": "37.5684953",
+        "distance": 0.035,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 71,
+        "averagePrice": 0,
+        "address": "서울특별시 중구 정동 1-17",
+        "roadAddress": "서울특별시 중구 세종대로21길 39",
+        "abbrAddress": "정동 1-17",
+        "shortAddress": [
+          "서울 중구",
+          "세종대로21길 39"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 정동 1-17",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 4,
+        "id": "781105443",
+        "name": "광화문국밥",
+        "x": "126.9754124",
+        "y": "37.5689749",
+        "distance": 0.033,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 4547,
+        "averagePrice": 24000,
+        "address": "서울특별시 중구 정동 1-48",
+        "roadAddress": "서울특별시 중구 세종대로21길 53",
+        "abbrAddress": "정동 1-48",
+        "shortAddress": [
+          "서울 중구",
+          "세종대로21길 53"
+        ],
+        "displayContext": [
+          "돼지국밥",
+          "냉면",
+          "곰탕",
+          "친절한",
+          "소박한"
+        ],
+        "labelTheme": "미쉐린가이드 선정",
+        "microReviews": [
+          "혼자서도 편안히 즐기는 국밥 한 그릇"
+        ],
+        "cardDescription": "혼자서도 편안히 즐기는 국밥 한 그릇",
+        "description": "영업시간이 유동적이오니 방문전에 꼭 매장에 확인해주시기 바랍니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTBfMjA3/MDAxNzU0ODM0MjI0NTIx.GDaz2QSR0IUbaANKWWkM7bgKJbCbBCaiD3IcUSn1oG8g.9LHNQFc6FGqWMk_X0W07ooS9B-JQ3DQD5r9_t-x9yi0g.JPEG/20250730_124313.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjRfMTcy/MDAxNzU2MDEwMjY2NzE0.UMwO08uVa_U21pfxsJBY4FW0bOSbI9eGp-TodzcYjEkg.EZmLeengTVtPiINXqFoNmurUkmbz8aQQv5yijl4CJbgg.JPEG/AE32D9B3-8A91-419E-AAE0-144DE10EDBFD.jpeg",
+          "https://ldb-phinf.pstatic.net/20170330_63/14908550112942XD4l_JPEG/186280555351.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjFfNjcg/MDAxNzQ3ODM3NDAyMzQ5.VjjlJarVA70zFbCLq4B2YFDUr7gRxQ7qfBwXHgDY5Osg.L6ILq9Y0I0c80K2bYgP3OjbTYWhXdC0UdhvKa1ST4lcg.JPEG/20250514_173241.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20190517_251/15580456868545V7aH_JPEG/gWsUaX1QeCJ-TxmysYsUfi42.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjBfMTEx/MDAxNzU1NjIzODM4Njg2.MrEz0JzSik1qVdyvq1zxqj996qJ9zG5nZpZO0SJlU9Yg.I875eeBlAdIAkcvhoTTkLS9UllkBfH7yAs_LUSX1e-4g.JPEG/1000023129.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20200313_142/1584093294239ohq8J_JPEG/BYjYrfHId54D91nRMXGhbgsC.jpeg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDFfMTA5/MDAxNzU2NzIzMjM0Mzg0.BvjivpWiROOQeKstcWHkeIeagW9hmFZQDqBWwu41iaYg.jOq24ihHnRL_A_9dzWE1XM7ph6rLfvNE0MzQC2_R3Nsg.JPEG/20250819_111048.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjVfMTI1/MDAxNzUwODMwODUzMTE2.lil3HqnNp4SygXB06bAji_sYhQzfNhOrF6qHJEHtd-Yg.4C5IWGG2XSc_ukt0_Qv5OTybi_dmzuY6jxos6NpoiJsg.JPEG/20250625_111755.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDlfODAg/MDAxNzU0NzExNDM0NjU0.xT_R0zBDHpE2CmplAATFQp5j5Ryjrn0HTBO5YZG1xssg.uXkE3cmQS4zh2MMl1UEBFRTaCjZiuOTmYJFnbbhgpykg.JPEG/20250809_121936.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": {
+          "year": "2025",
+          "type": "bib",
+          "starCount": 0
+        },
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.44",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "781105443",
+            "bodySummary": "광화문 근처에서 근무를 했던 지인의 추천으로 가게되었다. 직장인 추천, 택시기사님 추천은 무조건 가야한다. 위치상 골목이 많은 곳에 있고 우리가 갔던 쪽이 주차장 입구같은 느낌이라",
+            "url": "https://m.blog.naver.com/soominnp/223400598573",
+            "nick": "히희숨",
+            "profileImg": ""
+          },
+          {
+            "sid": "781105443",
+            "bodySummary": "광화문 근처 광화문 국밥. 결론부터 말하자면 ★★★★ (4 / 5) 미슐랭 빕구르망에 여러 차례 선정된 국밥집. 광화문 국밥은 박찬일 셰프가 운영하는 돼지국밥 전문점으로, 흰색 간",
+            "url": "https://m.blog.naver.com/mukchar/223400333464",
+            "nick": "묵찰",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMjdfNjEg/MDAxNzAzNjc4NDU1NzY5.6V1EzaTqXX_FW3H55psCu99DNiG1AQYrchuDIm4XPCYg.Mt8DQbJwO8OuuKubTVs0f1RksL99xbVQiPZFBuFly2wg.JPEG.mukchar/1.jpg/1.jpg"
+          },
+          {
+            "sid": "781105443",
+            "bodySummary": "광화문국밥 대문 국밥집의 빛 광화문 국밥 위치가 조금 찾기 어려웠지만 주차장도 넓고 광화문국밥 주차장 나름 운치도 있고 안정감 있는 위치 따스한 빛이 나온다. 광화문 맛집답게 공유",
+            "url": "https://m.blog.naver.com/vloblo/223397772836",
+            "nick": "먹고보고",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAyMTFfMTA1/MDAxNzA3NTg0NzMyNzIw.YiJSzmG5lARnB6fv6Z4el35YeQGeAeKir66d9kEGGVcg.EMA1e2ilrT4njM60KKF1uDj-rg4GBORj5WMF5lb53fIg.PNG.wind9409/%25EB%25B8%2594%25EB%25A1%259C%25EA%25B7%25B8_%25EC%25BA%2590%25EB%25A6%25AD%25ED%2584%25B0.png/%25EB%25B8%2594%25EB%25A1%259C%25EA%25B7%25B8%2B%25EC%25BA%2590%25EB%25A6%25AD%25ED%2584%25B0.png"
+          },
+          {
+            "sid": "781105443",
+            "bodySummary": "저는 수원역에서 기차를 타고 서울역 갔어요! 서울역에서 전철 타고 시청역에서 걸어갔어요~~ 걷고싶기도 하고, 친구가 또 길을 굉장히 잘알거든요!!! 사실 지도보고 갔는데 지나쳤어요",
+            "url": "https://m.blog.naver.com/cjstkdmsejr/223397293669",
+            "nick": "덕짱",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjEwMTZfMjQ0/MDAxNjY1OTE2NDk5ODU5.BE1ihE-uK6Vsi3fNQWI98x_MHAfzxazaPLPQYxFQI7Eg.xzaQazQPgd9CqlbuIOIfVZT4QSqChBKPh0IGedRv_eog.PNG.cjstkdmsejr/profileImage.png"
+          },
+          {
+            "sid": "781105443",
+            "bodySummary": "그래서 장사 안하나 싶어 들어갔더니 웬걸요! 사람들이 꽉찬 테이블 시끌벅쩍! 아마 평일 저녁엔 광화문 일대 오피스 손님이 꽤나 많을거 같은 예감이 들었어요. 그래서인지 매주 일요일",
+            "url": "https://m.blog.naver.com/ahtp99/223395286950",
+            "nick": "garden EL",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA2MjNfNTUg/MDAxNjU1OTEzNzU0NjQx.8ZikZM-ir2q0SAwHeaq6WEcUHvN-qRMKENt-3vzfZhsg.gLHl1hImPTOs5K96gDpEgRrGLzoTSD_w14BwYGgSlJIg.PNG.ahtp99/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "id": "34217178",
+        "name": "오양식관",
+        "x": "126.9756446",
+        "y": "37.568726",
+        "distance": 0.043,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 1201,
+        "averagePrice": 10000,
+        "address": "서울특별시 중구 태평로1가 76-3 오양수산빌딩",
+        "roadAddress": "서울특별시 중구 세종대로21길 49",
+        "abbrAddress": "태평로1가 76-3 오양수산빌딩",
+        "shortAddress": [
+          "서울 중구",
+          "세종대로21길 49"
+        ],
+        "displayContext": [
+          "김치찌개",
+          "삼겹살",
+          "두루치기",
+          "불고기",
+          "막걸리"
+        ],
+        "labelTheme": "전현무계획 방영",
+        "microReviews": [
+          "제육볶음과 계란말이의 환상 조합"
+        ],
+        "cardDescription": "제육볶음과 계란말이의 환상 조합",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjBfMjM5/MDAxNzYwOTQ1Mjc5MzEz.w-CwgSZL1PgU-D5POvRvkjFCqttKu_4fGvdUyoFjDV0g.wXFh0prRLI2x7Ix4JVV9qmx8qgk-83MtN1Q90W4uqAIg.JPEG/20251020_113105.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjJfNDYg/MDAxNzU1ODI2NjIzNDcx.ImpsV-YhLMSayTgUnqNPiA7WUO-FWHrsqncSs8Hpp8Qg.ArTW-A5liJp49uILs6jFVaVxrVqSmgtpMtCT5taZkyUg.JPEG/057F8DE5-5634-4ACC-BDF4-D15843EB8397.jpeg",
+          "https://ldb-phinf.pstatic.net/20191118_83/1574051848972i8N7I_JPEG/o0_DlQJ6KuklW7ya2Gwt8ukB.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDJfMTk0/MDAxNzUxNDU5NTQxNDU1.aHCYxNJJn_jMOLbvNc-AbUeZA7bScF9Yn0TjLoCNntsg.TRUATwqe3Tp4AkeH8-YLA_Z-2TWFTAK4FIVZ_LiCCY8g.JPEG/9E2CD206-47C5-4BBC-92FA-3C88BE874C51.jpeg",
+          "https://ldb-phinf.pstatic.net/20191118_83/1574051861652kAKEb_JPEG/cDQTbUlJqGGBm5SyqFQHdHl4.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjVfMjMx/MDAxNzUwODM1NzkyMDg3.zOoNApELguqvfHEAGcQEmVebJT_HHxD3j3aaJDsTrqkg.fGnosDob3OxTIXPuPTNHV5-wJMSUuATsTeZJET_uDl4g.JPEG/20250623_111248.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDZfMjMx/MDAxNzU3MTY1MDI2MzAz.7m4peXQItQL3Vo3ruIirHB523Yka5YCYYCmXJ9aJKB0g.b9owcqOOvaD1SdNaNqEg0R14AyvmyKb_KKxyU7NSJHgg.JPEG/93B7DABF-7C1A-47D6-B89A-F1EE0E21E154.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDZfMjg0/MDAxNzQ2NTA2NTUyMTAw.Jd9nZxG_PdEFYEWq9O_P3iW0Ghd9nvKEQTv3AirjBlsg.jyEm5Ul6ne9RkzD9d9XHoi6cwkpm35PbUMuvXQPSh3sg.JPEG/20250506_124131.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDVfMjE1/MDAxNzUxNzExMjI3MDM2.j8HZMgDV1t_AZH-RXPUtmKE2b1qhqgJP-Gdvs2653cUg.Cp13GbKvqHFvI6OamnSC4yeGHTai1BVHxk7LZPzpDf8g.JPEG/20250623_133049.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjNfODkg/MDAxNzU4NjI3MzQ3MzM4.HiJImgoIEPiFitb4WopRPxhWcA_N0pet32VqvS4J8zIg.YIA4rUq2WPvA28bQ4aVsvz1RW66KtyKTm1EHm5Jq9JIg.JPEG/1000019127.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": true,
+        "broadcastInfo": {
+          "name": "전현무계획",
+          "menu": "제육볶음/달걀말이/통돼지김치두루찌개"
+        },
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.25",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "34217178",
+            "bodySummary": "사촌형 추천 맛집 김치찌개 오양식관 (서울특별시 중구 정동) - 제육볶음 + 달걀말이 + 통돼지 김치 두루찌개 성시경이 인증한 화ㅇ순대 종로점 [간식] 유명한 광장시장말고 종로5가",
+            "url": "https://m.blog.naver.com/mknamoo/223400301748",
+            "nick": "자락",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMjhfMjU3/MDAxNzA2NDIyOTMwODc4.hFpRIazvnJsiG1BoYtYunLBVt8CNDR6oFU8JiWU5xaAg.Zb-LXdwgLb1_VbAfL-TIRa5hQxnx6o0IjxPLzJLMtsUg.PNG.mknamoo/profileImage.png"
+          },
+          {
+            "sid": "34217178",
+            "bodySummary": "이후 쭈꾸미집에서 두사람을 기다린 송해나를 만났고 다음 장소에서 두 사람을 기다리고 있던 전효성과 나물 한정식을 이어갔다. #전현무계획 #전현무 #전현무7일다닌회사조선일보사건 #폭",
+            "url": "https://m.blog.naver.com/hhwjh/223399736046",
+            "nick": "잭",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA1MjdfMTU0/MDAxNjUzNjUxMDUyNjIy.qWacazpvWnDW60zWkfq_FjMfbokM-7BaPnDE5JxXLaEg.3LpZdsA-eSFovxiG3B2I545ARDPBNXpafDsXSAPzhpkg.PNG.hhwjh/profileImage.png"
+          },
+          {
+            "sid": "34217178",
+            "bodySummary": "광화문 김치찌개맛집 오양식관 서울 중구 세종대로21길 49 오양수산빌딩 5광화문역 6번 출구에서 204m미터 영업시간 영업 중22:00에 영업 종료22시 0분에 영업 종료 전화번호",
+            "url": "https://m.blog.naver.com/eueuy/223399566335",
+            "nick": "이랑이랑",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxNzEwMTVfMjU5/MDAxNTA3OTk2MTE1ODE5.uk46Ku3qqMGn4mSqa4USCgxAbIL2rnQUDu09Ec78C6kg.oHMxLlZggWIpoVHmmaX2HUC-_Uv1FS2HtXeBMUehQlYg.JPEG.eueuy/20171013_231946.jpg"
+          },
+          {
+            "sid": "34217178",
+            "bodySummary": "가성비 좋고, 맛도 좋고, 양도 많은 김치찌개 맛집 '오양식관' <주소> 서울 중구 세종대로21길 49 오양수산빌딩 <연락처> 02-732-8088 <영업시간> 매일 10시~22시",
+            "url": "https://m.blog.naver.com/yuhun1124/223376506181",
+            "nick": "리치 유",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA3MjdfMjYy/MDAxNjU4ODgwNzc4MjQ1.khVwsZRsAvLcRyt8f6vBB8D0iHujL7sSGlXxc3k44Aog.dnj58u6Zofj3qG-mFiA-DTkRf3ZWb_y88ZVtzfHKTYUg.PNG.yuhun1124/profileImage.png"
+          },
+          {
+            "sid": "34217178",
+            "bodySummary": "#내돈내산 #오양식관 #광화문오양식관 #통돼지두루찌개 #광화문김치찌개맛집 #광화문한식 칼칼한 통돼지 김치두찌개 전문점 오향식관 영업시간 10:00 ~ 22:00 정기휴일 매주 일요",
+            "url": "https://m.blog.naver.com/oppuu/223272712148",
+            "nick": "얌얌이",
+            "profileImg": ""
+          }
+        ]
+      }
+    ]
+  }
+}

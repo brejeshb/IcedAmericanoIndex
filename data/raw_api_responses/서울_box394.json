@@ -1,0 +1,661 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 6,
+      "count": 6,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.98254629489496,
+          "minY": 37.57460810810811,
+          "maxX": 126.9836828686187,
+          "maxY": 37.57550900900901
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.98311458175684;37.57505855855856",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "37895743",
+        "name": "카페 꽃이피움",
+        "x": "126.9832372",
+        "y": "37.5750611",
+        "distance": 0.011,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 1457,
+        "averagePrice": 5000,
+        "address": "서울특별시 종로구 관훈동 151-4 동덕빌딩 1층 카페 꽃이피움",
+        "roadAddress": "서울특별시 종로구 우정국로 68",
+        "abbrAddress": "관훈동 151-4 동덕빌딩 1층 카페 꽃이피움",
+        "shortAddress": [
+          "서울 종로구",
+          "우정국로 68"
+        ],
+        "displayContext": [
+          "카페",
+          "케이크",
+          "전통차",
+          "분위기좋은",
+          "포근한"
+        ],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [
+          "친절한 직원들이 맞이하는 편안한 카페"
+        ],
+        "cardDescription": "친절한 직원들이 맞이하는 편안한 카페",
+        "description": "탁트인 전망에 넓고 쾌적한 커피숍으로 맛있는 전통차와 커피를 만나볼 수 있습니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MzFfMjYx/MDAxNzQ4Njg1NTI3NDAy.nLiPWZIuW12x_yl7MpDRr3YOI2TIgbgpc7FsJwstrdwg.H9IMvOSVJ3EX9sV8dcCYAbsDSysF2pPndyY8ypT4Hp4g.JPEG/IMG_4383.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTRfMTIx/MDAxNzQ3MjI3MDMzODAw.MfJUqpY8sNhAhwhMnhQynqtvfbgR3WqELlZagPFOURIg.bYYUOwGEu6XxY8LQA7sYSkYIij2tHLYPgxX-qhyYKLog.JPEG/20250514_142541.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20220329_27/1648550443777C1pC4_JPEG/image.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTZfNTkg/MDAxNzQ0NzU5NTMyMTY5.lUCCDTeWnQec83ETLyQoIkl05TBoHaLoGnkffoF1ZSMg.MdqnyB-80OFPUYT8doZ-BNm6pTc36r4e7t27Tl-O1yQg.JPEG/20250416_082254.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTBfMjA5/MDAxNzYwMDk2MDA3ODc5.qOW-alyYr8nkqdgZi9Ae9AEUgHBMI9L7wXwQHjwQ-LIg.IDyzGRHgU3CDb29LUQHyrxowcsoFowcEnX93DF-3L6Ag.JPEG/1760095776475.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MThfMjgw/MDAxNzQ3NTI2NTU3ODg4.jLc5GDshE9RqbjMU9Re-QuMiaSE4jJmFseU5uqX9i4sg.-JOh1yxC-2QDM6GyoNiqjumhB3JO9ZHt5CKzapRZIzAg.JPEG/20250517_142754.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTVfMjYz/MDAxNzYwNTAzNjY3NTMz.kWB0udvPA2h4Uc16Erikq4n6E3FcNNolcmaXR6v_aB8g.6qYNPbvbpdAw-4aU3d0noEQzqxkq6kcUoWDpyVFg5CQg.JPEG/20250928_145055.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjZfMjg1/MDAxNzQ1NjU0MTgyNDQ1.ENgXhOEORM1phhJ_xKltqav2y9_kk63QowPeU_ETBCQg.3jqil-TJddiR7Cr_zNlhDaBWY9Bj6xLj9fKh0G3zgpEg.JPEG/20250426_141715.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjNfMTc4/MDAxNzU4NjExNzI2Mjgx.g6wn7JUj-0kR4uF-QWFRtuXgjr2UsKCxcNTb1GvfNbcg.Uf6Iuhw9L6UqetUw_xn1f6Xe1R9upW_6uP8cCyYKLCgg.JPEG/20250923_130647.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDdfMjM2/MDAxNzQ5MjIyNTYyNDk3.nvtzRhvhdPVX_rdBIHixkez-IqR0LgVmq2reGpw3xnsg.jm-A0U7qS2ZG0z23O0MN6dDmuDypsskmeJRZO6JBKs4g.JPEG/1000178194.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "37895743",
+            "bodySummary": "카페 꽃이피움 소파석, 테이블석 단체모임 하기 좋은 종로카페 안국역 6번출구 도보 5분이내 맛있는 바닐라라떼, 넓은 매장 영업시간: 평일 8시 ~ 20시 (19시 40분 라스트오더",
+            "url": "https://m.blog.naver.com/csj6805/223200361937",
+            "nick": "뚜띠",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMjNfMjc3/MDAxNzExMTU1ODMyODEx.xSQt2vfpnVU44cfpoGS4appXxY7PbXKSQXSyzq1_5Zkg.u8QljYXyND4KSYd0XfxPaRal742QHRjYuvItkDPwvPsg.JPEG/profileImage.jpg"
+          },
+          {
+            "sid": "37895743",
+            "bodySummary": "안국동 사거리에 위치한 카페 꽃이 피움. 창문에 비치는 것처럼 안국빌딩 맞은편에 있다. 꽃이 피움을 영어로도 한글 발음 그대로 gossypium으로 표시했다. 역시 인사동 들어가는",
+            "url": "https://m.blog.naver.com/smile_hey/223139513711",
+            "nick": "미니무민",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA1MjhfNjcg/MDAxNjg1Mjg0MDgwNTE2.u33mQiqupDpxq-MCJ3CeTdLiS35Jtrh-g4o5tosPBGkg.1NSr6G5PwlCiB7rIm-z7qTzDZiWvp7mxcpJuRyJKev0g.PNG.smile_hey/profileImage.png"
+          },
+          {
+            "sid": "37895743",
+            "bodySummary": "넓고 깔끔한 내부 큰 창에서 들어오는 햇살이 나른하고 한적하게 느껴졌어요 꽃이피움 메뉴 메뉴판에 시그니처 메뉴 표시는 없었는데 수제 도라지청 차와 마론슈페너가 따로 있는거보니 이게",
+            "url": "https://m.blog.naver.com/favor-ite/223034001961",
+            "nick": "미니민",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjEyMzFfODQg/MDAxNjcyNDc4NzU3NzAw.IMNiXqJvM3IN7EESnCHiz4Y1EFT_pBSvNyDig2p7_lQg.y4Oo3qjbILCR_5WoRqKpmw9ozADrpYmkbvYij0A9qzEg.JPEG.npresent_/profileImage.jpg"
+          },
+          {
+            "sid": "37895743",
+            "bodySummary": "#안국꽃이피움영업시간 무려 쉬는날 없이 운영하는 이곳..! 사실 포스팅용으로는 그냥 그랬지만.. 이 또한 내 미래의 참고자료(?)로 쓰일 수 있기에 메뉴와 가격정도는 올려본다 찾아",
+            "url": "https://m.blog.naver.com/hy10047979/222948996754",
+            "nick": "목도리",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAxMjdfMjQ3/MDAxNjQzMjU4MDE4Mzgx.CrjtyM_HBSe39Y5hlsg1mDhyTZd-3vZXxD_8MEh9uLog.l34NVveEfhGW_45o8csCTHkWIdyc6uHw6T-1Upsyw2og.PNG.hy10047979/profileImage.png"
+          },
+          {
+            "sid": "37895743",
+            "bodySummary": "쿠키 50% 할인하길래 집어봤죠 납품받아온 쿠키 같은데 딱히 특별한 맛은 없고 그냥 초코쿠키였네요 카페 꽃이피움 그래도 안국역 주변의 비싼 물가 대비 가성비 좋은 카페를 찾는다면 ",
+            "url": "https://m.blog.naver.com/tastyzoom/222875207889",
+            "nick": "tastyzoom",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA3MDZfMjk1/MDAxNjU3MTA5OTY5Mzky.CPMewRp_3OR6oiDc7UbvOp4aqA8m6jRqQAvjhqgD2fUg.v6YHXq2X-VfE0ddVuei631qdwOi32pYcql357gBuCDkg.PNG.analogbus/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "id": "1208565156",
+        "name": "오가다 인사동점",
+        "x": "126.983663",
+        "y": "37.5752836",
+        "distance": 0.054,
+        "categoryName": "차",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220580",
+            "221400"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "차"
+        ],
+        "reviewCount": 923,
+        "averagePrice": 5000,
+        "address": "서울특별시 종로구 관훈동 123-4 크라운빌딩 2층",
+        "roadAddress": "서울특별시 종로구 인사동길 60",
+        "abbrAddress": "관훈동 123-4 크라운빌딩 2층",
+        "shortAddress": [
+          "서울 종로구",
+          "인사동길 60"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "한 잔, 한 잔 좋은 원재료에 정성을 듬뿍 담기에 카페 오가다의 여정엔 시간과 정성이 많이 들어갑니다. 생활 속의 조화로움을 통한 건강한 삶을 추구하는 오가다의 철학이 가득한 공간에서 엄 ",
+        "description": "한 잔, 한 잔 좋은 원재료에 정성을 듬뿍 담기에 카페 오가다의 여정엔 시간과 정성이 많이 들어갑니다. 생활 속의 조화로움을 통한 건강한 삶을 추구하는 오가다의 철학이 가득한 공간에서 엄 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjNfMzYg/MDAxNzU1OTIyMDgxMjIx.g0kp7Nry6Zxc4jYfnTR30axPwhBcO73kuBJpDSNlR6cg.lRzT2sCE-05rSgyLsXI2O3Rv1OKLoxa7Oa0d7QHUeQsg.JPEG/20250822_164916.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MThfMjYx/MDAxNzUwMjM5MzMyOTkx.Mawpkf4CzajlgKqg4ND_bqV9vFGwuYEtR4cKGt04mTEg.CJUdtPxwF8sCpNvE6vNOtmUOJwLqli6uqLbz36MCmeEg.JPEG/D469237F-2212-457F-8317-CA3A1D163B64.jpeg",
+          "https://ldb-phinf.pstatic.net/20250924_151/1758673336129UKnAb_PNG/%B3%D7%C0%CC%B9%F6_%B4%EB%C7%A5%C0%CC%B9%CC%C1%F62.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDFfMTQ5/MDAxNzU5MzA3Mzk5Mzc5.Tw8NQLhq3Y-S2Oy9TK9w1dv7my4P039rU2NIdP8sbUQg.cUVEzZ8gLz4frkCgHmAz6r9bQk5TUqAh9Pul1pDL5Bsg.JPEG/20251001_130720.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250924_169/1758673336044UJfnn_JPEG/%C8%AB%C2%F7_%B3%D7%C0%CC%B9%F6.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDdfNDMg/MDAxNzUxODcwNzk3NzI2.Ide_t5b5Pfu6IGOhP__aO7tbA_r2a9Ex0i-gD9ZgVtsg.6dbT4sP4dJNeVfC2Bj6TDzrHykyaoq1a_Xvw1IaY9Xog.JPEG/207CDC80-175E-45DB-AA2B-08BB38B29A9D.jpeg",
+          "https://ldb-phinf.pstatic.net/20250924_105/1758673336161Wbzlo_JPEG/%BD%E6%B8%D3_%B3%D7%C0%CC%B9%F6.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MzBfMTYx/MDAxNzUxMjg1MDAzMjQ2.9m2c1fPZLdD0pflvEjLPybeqsqP6hHI2zkLD01H5vx0g.LS5ZBfPldHNByy9fcryBDwxGyxsPkpsd5PzBXOKfF4Qg.JPEG/20250628_172354.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTNfMjk5/MDAxNzU1MDg2OTIzMTY5.OrIg1RjgN16dCY8JaC4VqjRRthwnr9T6Pnx_wKY3vYgg.EjM-hyHoUbUbtTWn8fGyCteLmZrJ1w83xTfZTK38r9Yg.JPEG/20250813_142258.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDhfMTg3/MDAxNzQ5MzkyMDg2Njgz.iXtiAYqbhOr1-6adsefWMJiqDBO4qc8k29ObFX1Af68g.pYdSGZl1LoHb_p3XzX_TrxDWIKFd8p69FtqJnShq2nYg.JPEG/A6C55BC9-E3E0-48B7-9340-7D48CEE99C42.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221400",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.46",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "1208565156",
+            "bodySummary": "특이한 음료들도 보인다. 우리가 주문한건 청도 홍시 스무디 2개, 아이스아메리카노, 까망베르 치즈 케이크다. 청도 홍시 스무디 5500원 아이스아메리카노 4000원 까망베르 치즈 ",
+            "url": "https://m.blog.naver.com/ohy718/223244037758",
+            "nick": "요이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA5MDNfNzEg/MDAxNjYyMjA4NTU0MDQz.3HptZWWrtgPBY-_qWC6whdRYcrK1gn1YFBSB97teGe8g.d2sowQiMTdey15qdEN1acXJt5peybdSRNrXFnTql4m8g.JPEG.ohy718/profileImage.jpg"
+          },
+          {
+            "sid": "1208565156",
+            "bodySummary": "오가다 인사동점 총점 : (맛 상) 전경. 인사동에 오가다가 2군데가 있는데 안국역이랑 가까운 곳을 갔다. 매장은 넓고 조용해서 좋다. 빙수 메뉴들. 메뉴판과 가격. 쇼케이스 안에",
+            "url": "https://m.blog.naver.com/lovebird_kor/223238828212",
+            "nick": "러브벌드",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA1MjRfMzAg/MDAxNjUzNDAzOTczNDY3.PTS7itENd_nzMOLu_23WsnNSfU5eNi7_O7NiGa0gxjcg.Om0XV-HXSKd98lx2f07cRE49Nc4atWd7y4fBziEGgX0g.JPEG.lovebird193/%25EB%259F%25AC%25EB%25B8%258C%25EB%25B2%258C%25EB%2593%259Cjpg.jpg/%25EB%259F%25AC%25EB%25B8%258C%25EB%25B2%258C%25EB%2593%259Cjpg.jpg"
+          },
+          {
+            "sid": "1208565156",
+            "bodySummary": "덜덜 어쩜 이렇게 날씨가 급변하는건지_ 오늘의 포스팅은, 지난 연휴 서울나들이 하면서 마지막 코스였던 #인사동나들이 하다가 가본 #카페오가다 #서울아이랑가볼만한곳 #용산전쟁기념관어",
+            "url": "https://m.blog.naver.com/myjoo_91/223232401800",
+            "nick": "마이쭈v",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMjlfMjQx/MDAxNzA2NDkzOTM1NzQz.0iR0FZzg8hs2ub-POxQHrVbIzazGx53VTPV5OxMxTfIg.6c4oYb9VOhbQN60ifT4aU9sO1yUVFpj7U9h_wQZDA-Ug.JPEG.myjoo_91/profileImage.jpg"
+          },
+          {
+            "sid": "1208565156",
+            "bodySummary": "시루입니다! 얼마전에 인사동에 놀러갔는데 인사동점 오가다 음료들이 맛있고 카페도 넓어서 좋더라구요 인사동 오가다는 안국역 6번출구 쌈지길쪽에 있어요 인사동 오가다 메뉴 및 가격 라",
+            "url": "https://m.blog.naver.com/lilyluvs/223227257266",
+            "nick": "시루",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAyMTdfMzEg/MDAxNzA4MTY5MTUxNDk5._MTqVBLA8YJjUgC4siBilZMXtRoDz5APRLePSllyfEAg.H-3lPPAsKxaoYJPdJpTtvJaqqKU2sw4nXpSxAjSOUPEg.PNG.lilyluvs/profileImage.png"
+          },
+          {
+            "sid": "1208565156",
+            "bodySummary": "저는 이날, 커피를 직전에 먹고 가서 애플망고 빙수 밀크초코롤 케이크 주문했는데 ✔️ 빙수 1개는 음료 2잔으로 봐주신다고 하네요! ➰️그리고 매장 내, 스터디 / 노트북 사용은 ",
+            "url": "https://m.blog.naver.com/dustn9240/223207321821",
+            "nick": "욘뚜비",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMTJfMTc1/MDAxNzAyMzQxMjgyODU1.e3MXugjSoiIBmY6n0dWZToY0JN58-Abhpj7ouBaNpmkg.qP48cby77Zl983YTj8yF1zZ0zLqHZWEl0qH-DVwpGBwg.JPEG.dustn9240/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "id": "1515139432",
+        "name": "즐거운 찻집",
+        "x": "126.9835805",
+        "y": "37.5749531",
+        "distance": 0.043,
+        "categoryName": "차",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220580",
+            "221395"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "차"
+        ],
+        "reviewCount": 462,
+        "averagePrice": 5000,
+        "address": "서울특별시 종로구 관훈동 146-2 2층",
+        "roadAddress": "서울특별시 종로구 인사동길 55-2",
+        "abbrAddress": "관훈동 146-2 2층",
+        "shortAddress": [
+          "서울 종로구",
+          "인사동길 55-2"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [
+          "젊은 감성까지 품은 고소한 쌍화차"
+        ],
+        "cardDescription": "젊은 감성까지 품은 고소한 쌍화차",
+        "description": "직접 달인 수제전통차와 아기자기한 다가구가 있는 즐거운 찻집입니다. 수제전통차부터 다양한 잎차와 국내산 팥으로 만든 매력적인 옛날 팥빙수 디저트까지! 즐거운 찻집에서 편안한 시간 되",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjVfMTg4/MDAxNzU4Nzg4ODM0MTY4.99wioHQG0lXvT30KT-y9C1aSE-LzQoZLW-Vd8hDHhIAg.RgSzbhQtw41K6RCNDCVM4BsdwKKa2WRRCPKfC2FQx9og.JPEG/627F160D-6BEA-4D38-8F5F-10FBA4BA8596.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDVfNjEg/MDAxNzU0Mzg4NDQ4MjI0.nWgmpYfjvWjXzd25M8FW_Xs1KbSsTQfr5dQnpQMGKfQg.oZ3hK28456yr4e8nn5gIN4K271grXIGSa9VJkJGbCakg.JPEG/1000001636.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20200512_285/1589265297324QnWfi_JPEG/AzYstYWiuFnABFahubzJM9xw.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MzBfMjc5/MDAxNzQ4NjA1MDY0MTQx.Wc4eLCE_4axwEkhCt9nFyV27HWd3IVD-HE-rNNg-sBAg.GNUN9EqarlpeMTk6E1cc8dbl1mcJX4YsRqLvZNY5CjUg.JPEG/DF80E775-444C-46BA-A029-782DDC8AF162.jpeg",
+          "https://ldb-phinf.pstatic.net/20200512_296/1589265297313Ej1GU_JPEG/TvGdK_aVv2Wy9U4ccrd67QfD.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDVfODkg/MDAxNzUxNzAyNjc2MDYw.yygQrKcqbmP60Q7GxjCmmcC4f-075vpN9ITEjD_FM44g.saq_sRaiyhodjxk40RrAqY4wyX5eL0Lt8zh8t3-3OZIg.JPEG/20250705_164418.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20200512_37/1589265297429odtwB_JPEG/bWQ9cNk_snv3AfNqQ1x9PvPc.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDJfMjkw/MDAxNzUxNDUxNzcxNDg1.B2H1lBbmfHAwMybI6RYfUl7Q6T6y1PnaSfK-WYmkqj0g.US125ZIQuzQ8T0jLHn4nWrFanmQunxNhJVcfDYz5bP8g.JPEG/1000006674.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221395",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1515139432",
+            "bodySummary": "100% 내돈내산 후기입니다 안녕하세요, 오늘은 인사동에 위치한 즐거운 찻집 방문 후기에 대해 올려보겠습니다 가게 운영정보 ✔️가게위치 : 서울 종로구 인사동길 55-2 2층 ✔️",
+            "url": "https://m.blog.naver.com/bw10711/223354840512",
+            "nick": "심심이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAyMDVfMjAz/MDAxNjc1NjAzNzg5NzEw.EKao6Xa7sLOIOuKn4z6bFC5Bv5NqGduj-MeLcVDqtSYg.xQIQdIEfV7UCEGXd5MNdhNkVAX2TkAxtxLBGd2vFI9Ig.PNG.bw10711/profileImage.png"
+          },
+          {
+            "sid": "1515139432",
+            "bodySummary": "#인사동미팅장소 #인사동찻집 #전통차 #쌍화차 #대추차 #우리강산잎차",
+            "url": "https://m.blog.naver.com/yuleum80/223203921315",
+            "nick": "열음",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDA5MDRfOTIg/MDAxNTk5MjA0MTI3NDk5.ZrFvXJIlymJk2I3lqOaIN51BGIYKofYsoZ2YShFZFjwg.FKMvHmo-gnQih4kTuze1YHEMb4uIaxtMpnKfbAcVJkcg.JPEG.kwjet/20200430_110917.jpg"
+          },
+          {
+            "sid": "1515139432",
+            "bodySummary": "앞 간판에 직접 국내산 팥을 활용하셨다고 써 있길래 냅다 들어가 봤ㅅ브니다~ 가게내부 문을 열고 들어가자마자 한의원 냄새(한약달이는 냄새)가 나서 전 너무 좋았어요..한의원 최고 ",
+            "url": "https://m.blog.naver.com/jam_life42/223182728552",
+            "nick": "잼있는삶",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA1MTFfNzgg/MDAxNjgzNzg4MTAwNzg5.BPOrIeKlnjKfWbAwTlGab-imns8lxgBO0FHeOijAAMQg.5p9uaYd411usxRhs1lIUA3uokQavrVjvxMbg1y9cWHQg.PNG.jam_life42/Profile_defaultIMG_J2x.png"
+          },
+          {
+            "sid": "1515139432",
+            "bodySummary": "전화번호: 070-4178-6887 네이버 안국역에서도 가깝고 광화문쪽에서도 금방이라 접근성이 넘 좋아요! 약속이 있어서 터덜터덜 걷다가 너무 덥고 낡고 지쳐서 그냥 눈앞에 보이는",
+            "url": "https://m.blog.naver.com/enjoy_food_life/223171589767",
+            "nick": "념념",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA5MDVfMTM5/MDAxNjkzOTAyMjQ4MTgy.73Um52s33lXr7nH8ou0vuFwT5tRmiqAfJ5Ja2NTkTqEg.2qn952_kExGWGNB_MFVKfQ8s7DkE-ZuBw7dpdqy6e7Mg.PNG.klia1014/profileImage.png"
+          },
+          {
+            "sid": "1515139432",
+            "bodySummary": "조용히 앉아 차를 마시다보니 브로콜리너마저의 노래 가사가 생각났다 두근두근 대는 나의 맘을 나도 알 수가 없네 한마디 말 못하고 벌써 붉어지는 나를 어떡해 시간 있으시면 커피나 하",
+            "url": "https://m.blog.naver.com/kkaryunnie/223124281100",
+            "nick": "꺄려니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMDZfMjYz/MDAxNjk5MjU5NDk3NDM2.Ijz8cNebx3pCTE9W8Q3RmDEuTZpb1AYbSAw6RmDB9e4g.xXGrea08dOv-hyBk39SUUJcWO5BmL9t1NPlHPA7KPa0g.JPEG.rkfusl/logo.jpg/logo.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "id": "32333078",
+        "name": "농가 해물누룽지탕",
+        "x": "126.9833512",
+        "y": "37.5751613",
+        "distance": 0.024,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 1669,
+        "averagePrice": 15000,
+        "address": "서울특별시 종로구 관훈동 144 지층",
+        "roadAddress": "서울특별시 종로구 인사동길 59",
+        "abbrAddress": "관훈동 144 지층",
+        "shortAddress": [
+          "서울 종로구",
+          "인사동길 59"
+        ],
+        "displayContext": [
+          "한정식",
+          "돼지불고기",
+          "떡갈비정식",
+          "데이트"
+        ],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [
+          "친절한 서비스와 함께하는 행복한 식사"
+        ],
+        "cardDescription": "친절한 서비스와 함께하는 행복한 식사",
+        "description": "인사동에 위치한 농가 해물누룽지탕 입니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDhfMjk3/MDAxNzU5OTEzNzgyNzQx.W-x5qHao1N0QMenFTMsBiCnLc2WNFkBazQMV-OEr62wg.obbXs3j0gkjnn_0K25GZB3HrAqUF_ALjzITcjZC4U3Ug.JPEG/20251008_124822.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDFfMjgx/MDAxNzU5MzEwNjEzNDgw.39glP-Z5pLqxTvOXaue9aVCao1R5wQX4Sre4Lgn9t2Qg.d3BGXIpftZkoV1Gkmo2ysnWfj1lQHWGUy9W4hmm2Dm0g.JPEG/FD798FB4-93DC-4AED-AC6F-F8652EC3E94C.jpeg",
+          "https://ldb-phinf.pstatic.net/20250907_265/17572347604638BKvt_JPEG/%B3%F3%B0%A1%C7%D8%B9%B0%B4%A9%B7%EE%C1%F6%C5%C1-%C0%D4%B1%B8%B4%DC%B5%B62-40.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDlfOTEg/MDAxNzUyMDE4NTM5NTE0.SkBUxDVUlWv_E5m7G0aqJRfv7a6pazBq2yxTdEdlFKUg.vEnPx-u42BZqTt5z4UZbOrRsQO3WQpbq_zMcR_01JPYg.JPEG/20250708_120409.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250907_250/1757234749484TuPRz_JPEG/%B3%F3%B0%A1%C7%D8%B9%B0%B4%A9%B7%EE%C1%F6%B4%E7-%C0%D4%B1%B8%B4%DC%B5%B61-40.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTRfMTAg/MDAxNzQ3MjI2NzI5NDky.GWx3tP-NSZBlb0JmOE0vBivYW4caGFVhTCRqMsBcx0Ig.Df6QQpY_5nSFuzz9lK975X6xHvSSzdqpIelju7yb06og.JPEG/20250514_141318.heic.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTRfMjI3/MDAxNzQ5ODc2MTY1NTI5.NeBMFbiDdze9wHoyqmBcd-YrVBFepshU7z6Ygabwxacg.djx0k60_0VVXD0WuTCl_hIuK0AzMbldF95vrti4UM-Ag.JPEG/5565B721-3A7B-48C2-9EC2-E38591BD3BCC.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTBfMTU0/MDAxNzU3NDkyODc4ODk0.eY1kvhC_lTdWjpGMeUz8dQTTGFqShfbZ-6S9dIjJxNgg.3wRKTGWTg6cgU1iztWz1rgpMo3EyKb2snj-BFKcHAlwg.JPEG/0508BBB9-7B79-4D0E-B0F1-8468BBEDAF83.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjNfMTU3/MDAxNzQ3OTk2MTczMjM3.SajCGpy2JfNw0YJQo_QmOB2jG9u6DfXOyUaeKUWPYakg.dNUEph-7E9MRexYIUvrY0rkuGKkYTjUHyjEHVELMIu4g.JPEG/20250523_113017.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MzFfMjY4/MDAxNzU2NjI5MzQyNzAy.ukBTl2RvpqHuq-ae48NT_xwYYe6Pg6gxDloByN6j5-Qg.j4yJjnBWQ7TbvM7mObRU35H73GlvOfgXPs40AAAjc04g.JPEG/36561D2C-E265-4E1B-9468-59BE6AE889BF.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "32333078",
+            "bodySummary": "인사동 좀 다닌다고 하는 분들에게 한가네 점심 정식은 꽤나 유명한 스팟이에요 매일매일 메인 메뉴가 바뀌는 한정식이라 인기가 좋아서 매번 줄 서서 먹는답니다 그렇지만 저는 저녁에 가",
+            "url": "https://m.blog.naver.com/blossomboy_/223179769490",
+            "nick": "순심",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA0MDFfMTAx/MDAxNjQ4NzkzNDU1NjYw.xWyBDL_fifyS4lieXi9bMi9oQUDDyeWdOCu9rnTwtJgg.CHdEtiHL0zIZaX8W1Qa8fbXzZ2fR1VhqFd5N7YVcOtUg.PNG.blossomboy_/profileImage.png"
+          },
+          {
+            "sid": "32333078",
+            "bodySummary": "오늘 메인 반찬은 수육, 돼지고기김치찌게, 고구마튀김,두부부침 등등 입니다~ 뭐하나 대충 차려진 음식이 없고 뭐든 반찬이 맛있어요~다이어트만 아니면 공기밥 두그릇도 뚝딱할 기세이지",
+            "url": "https://m.blog.naver.com/pyojung1002/223083438042",
+            "nick": "레고맘",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA2MDVfMjU3/MDAxNjg1OTMwNzc4Mzc5.Isa3AmPr_oBYZRM58blfv8A2mokWjuwRbqwpzJvjROsg.mTn3YzQ3KJepwAf06D2LJSBZOyFc6GjJH7HOb4cFK-Ag.JPEG.pyojung1002/profileImage.jpg"
+          },
+          {
+            "sid": "32333078",
+            "bodySummary": "얼마전 북촌 감고당길에서 인사동으로 가다가 신호 대기중 발견한 식당이 있어요 유난히 많은 사람들이 드나들어서 다가가보니 세상에나~~ 지하로 내려가는 계단에 젊은 직장인들이 줄을 서",
+            "url": "https://m.blog.naver.com/gomymom/223022420432",
+            "nick": "지구별 여행자",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA5MThfNjYg/MDAxNjMxOTE3NTg3MjA2.xu1il1wmslFXDTEWnzoWEE6-b8vY3AcEwEbbQfT2mCAg.4JAn84FKH9q2ls6DVbtGKc5I42LhRmSv6Ld9Ars8eFIg.JPEG.gomymom/profileImage.jpg"
+          },
+          {
+            "sid": "32333078",
+            "bodySummary": "상호는 '한가네불고기'이다. 저녁에는 술집으로 운영되는지 간판에 '주막'이라는 단어도 있다. 점심 때 늘 줄이 있는 걸 보니 맛집으로 소문이 난 곳인가 보다. 지하에 있다. 내부는",
+            "url": "https://m.blog.naver.com/wjdwltmd8703/221146776575",
+            "nick": "꿀꿀아빠",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxODA2MjZfMzkg/MDAxNTMwMDE1Njk4NjU4.3cAuThXQI86SH2I2rd5p4AsxIyGqfWh4YGaJgUWKlQIg.NrnwP1MWkKffq_FUmD_mHUFRbA7Z4mlXuUXBZm1mSPQg.JPEG.wjdwltmd8703/profileImage.jpg"
+          },
+          {
+            "sid": "32333078",
+            "bodySummary": "[한가네불고기주막-서울/인사동맛집] 인사동 스러운 가성비 좋은 '한가네 불고기 주막' 을 소개합니다. 불고기, 떡갈비, 돼지불고기, 양념게장, 한.... 이 공통점은 정식이라는점~",
+            "url": "https://m.blog.naver.com/youthhopefoundation/220677178609",
+            "nick": "청년재단",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAzMThfMjkz/MDAxNjQ3NTY2OTc2MzE2.nObAoXo0ej7O2PcRJLAeLCythgJH5_-X7ZF6IabZ7Usg.7CwdMrtwcpvXrgHaNPquJH8cDLqTK5jEZwz1Kub1SGUg.PNG.youthhopefoundation/%25EC%259C%25A0%25ED%258A%259C%25EB%25B8%258C_%25EC%25B1%2584%25EB%2584%2590_%25EB%25A1%259C%25EA%25B3%25A0.png/%25EC%259C%25A0%25ED%258A%259C%25EB%25B8%258C%2B%25EC%25B1%2584%25EB%2584%2590%2B%25EB%25A1%259C%25EA%25B3%25A0.png"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "id": "1287729333",
+        "name": "산들바람 : 소요카제",
+        "x": "126.9834025",
+        "y": "37.5751516",
+        "distance": 0.027,
+        "categoryName": "일식",
+        "categoryPath": [
+          [
+            "220036",
+            "220038",
+            "220081",
+            "220804"
+          ]
+        ],
+        "category": [
+          "일식",
+          "일식당"
+        ],
+        "reviewCount": 174,
+        "averagePrice": 10000,
+        "address": "서울특별시 종로구 관훈동 144 2층 소요카제",
+        "roadAddress": "서울특별시 종로구 인사동길 59",
+        "abbrAddress": "관훈동 144 2층 소요카제",
+        "shortAddress": [
+          "서울 종로구",
+          "인사동길 59"
+        ],
+        "displayContext": [],
+        "labelTheme": "일식",
+        "microReviews": [
+          "저녁엔 사케로 완성하는 특별한 시간"
+        ],
+        "cardDescription": "저녁엔 사케로 완성하는 특별한 시간",
+        "description": "다양한 주류를 맛 보고 구매할 수 있는 [보틀샵/사케바] 맛있는 작은 요리들도 있어 편하고 가볍게 마시기 좋은 공간",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDlfMTMy/MDAxNzUyMDM3ODg4MDM2.D5TRg5fMgbDYL-uXMBhHuCvjxKLZ-2TfC1bnxpPxJ9Ug.cS123NLfXrzq0fNzyf3NCAzH8A4lHMEDt5Qun5uqIaMg.JPEG/1000109987.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTBfNDgg/MDAxNzUyMTQzOTI3NTIy.KuaNBb07W3-B_DwqvQEj3MtLfCGpa--6zjkd4zk2ygog.6HAJawFZ-jINsLzj66k3IBKKogxnM5uNcE_XuyI-Zvkg.JPEG/D3305CDE-F6BA-4992-81D2-F772DF04B14A.jpeg",
+          "https://ldb-phinf.pstatic.net/20221208_142/1670508911613RqSfe_JPEG/26CD8C03-6008-44FC-A25F-42BAE540CD0B.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDRfMjI4/MDAxNzU0MjcxMDQ3MzIw.SO2VCq-eaPjrCJq8wdXSQAcwGSZZiADKtZM53cNan-sg.IHywsFLPq-PA-3lgOVvYobCGAMbv489M87nqULKmudQg.JPEG/60DDC942-689A-4AB7-9F8A-68529024E584.jpeg",
+          "https://ldb-phinf.pstatic.net/20221208_186/1670508911474giYLe_JPEG/13BA7047-EDEF-4542-95DE-819A0E9D0039.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTFfMjEg/MDAxNzQ5NjM0MjU3Mjg5.aMZka-9AKTfCax-WoB-9ZUws6jbI8QbDUM3tgr93MFQg.tS9vkXZsQcvUcoHrkyrH1qSj9q4buQ5gzPHXBvhp-_Ug.JPEG/5FD7052F-64E1-448E-A1CC-4EE925426CEF.jpeg",
+          "https://ldb-phinf.pstatic.net/20221208_289/1670508910663IoyBO_JPEG/727CE91F-E270-43DD-B521-52A79EA5FD1B.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTdfMjk2/MDAxNzQ0ODcyNzc5NjAy.QUONflRALCDrmx6iC4H9SpMLaMGIc2895Em0SkB1A1cg.f5hGG-Z6jBHxwNa2YgbLc2E_WQIcxxCZVb016lJjfN0g.JPEG/56C61562-6437-4264-9F8F-B3F39FFAD17B.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTlfMTgw/MDAxNzU1NTk3Njg0NDYz.AHA2v3HE3Za9QRSeo3jyyN4M9o5DoYPlOwm9NnEyRskg.yNBlj2StnhDP8XiMRpjx_Icd04QmfoHUbuBAJXOwLEUg.JPEG/20250819_180148.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTJfMTI5/MDAxNzQ2OTc5MjE4MjQ1.y6sIZFzPkNxdWvmLk-W-mJ1mCmn5Kj1aEtFhuRS0ha0g.fktLp4xl6MIZCNKTbM-y7kCHm7HTZiJFcnZ7p6DY774g.JPEG/49D28BEB-DA7F-48F0-AC0F-2FFFC5839A8E.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220804",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1287729333",
+            "bodySummary": "내가 주문한 #야키소바 원래는 다른 블로그에서 돈코츠라멘을 먹는 걸 보고 간 건데 라멘은 없어지고 야키소바가 생겼다 야키소바 오랜 옛날 일본에서 먹어 보고 오랜만인데 정말 맛있었다",
+            "url": "https://m.blog.naver.com/hyunjinone/223391851868",
+            "nick": "디니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTEwMjZfMTEz/MDAxNjM1MjI0OTE5OTU0.pk_XQ2pbxweFYiJU30gpe0k07o_D6MbXufE_dobonGUg.Ik2ZzsHn0akg_T5TZ9H6-gTTbgYT5KxdU593KwWXDgUg.JPEG.hyunjinone/profileImage.jpg"
+          },
+          {
+            "sid": "1287729333",
+            "bodySummary": "기린이는 안국역에서 일해서 점심도 주변에서 보통해결하는데 가끔 돈좀 쓰고 싶은 날에 간다는 일식당이 있어서 가보기로 했다. 하지만 사람일은 계획대로 되는법이 없어서 나의 볼일이 늦",
+            "url": "https://m.blog.naver.com/ma0ng_/223225335059",
+            "nick": "말로만",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTAzMjhfMTE5/MDAxNjE2OTQyNjI0MjUy.7670Dmu40ghanFlsU01-1mv6ULEU0r8b9TtJ8Awr714g.LvnEk_PZpulUG8LURImbAPFovTwrCuQQSKd04gFJ5Rkg.PNG.ma0ng_/profileImage.png"
+          },
+          {
+            "sid": "1287729333",
+            "bodySummary": "산들바람 : 소요카제 #인사동산들바람 #인사동소요카제 #인사동일식 영업시간 오전 11시부터 오후 9시30분까지 (마지막 주문은 9시까지) 정기휴무 월요일 독특한 점은 반려동물이랑 ",
+            "url": "https://m.blog.naver.com/pipetofree/223124487900",
+            "nick": "하루",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAyMDVfMTAx/MDAxNjQ0MDY5NjkzNTEw.9Lo3vK0AUvtY0G36PfxDukvM9eiRTuPFBcHk_ljYQ8Ig.cS7J36aqyOF7GLA3mRKgIwh3LHSpxStWOZK5ahVu-isg.JPEG.pipetofree/1546772772799.jpeg/1546772772799.jpeg"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "id": "11623515",
+        "name": "조금",
+        "x": "126.9836494",
+        "y": "37.5753395",
+        "distance": 0.057,
+        "categoryName": "일식",
+        "categoryPath": [
+          [
+            "220036",
+            "220038",
+            "220081",
+            "220804"
+          ]
+        ],
+        "category": [
+          "일식",
+          "일식당"
+        ],
+        "reviewCount": 2366,
+        "averagePrice": 30000,
+        "address": "서울특별시 종로구 관훈동 123-4 크라운빌딩 1층 조금식당",
+        "roadAddress": "서울특별시 종로구 인사동길 60",
+        "abbrAddress": "관훈동 123-4 크라운빌딩 1층 조금식당",
+        "shortAddress": [
+          "서울 종로구",
+          "인사동길 60"
+        ],
+        "displayContext": [
+          "전복",
+          "일식",
+          "돌솥밥",
+          "데이트",
+          "나들이"
+        ],
+        "labelTheme": "생활의달인 방영",
+        "microReviews": [
+          "양송이 풍미가 가득한 솥밥의 정석"
+        ],
+        "cardDescription": "양송이 풍미가 가득한 솥밥의 정석",
+        "description": "연중 추석 설날 ,전날과 당일 이틀휴무입니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDhfMTg1/MDAxNzU0NjU3Njg3ODYz.yBXzZOIQYO-Caj6YG74DfosYIojtqF8Mx-6961g4iwAg.oWso4BcPF5B3v-CAKe-OxY-wpmhj0hXjh7Vm6CT7WdIg.JPEG/20250808_182000.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDVfMjIy/MDAxNzU0MzkzMzk2MjQ0.jsbhT52wwJXxdt11y3BvqlE9cu2fh3e2_5qiOPSgUJkg.2ffI0WUX-kzh_m0G9G4IJclypqYNsSxNAApWk0mqbWEg.JPEG/20250714_180124.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20150831_156/14410074180610w1lD_JPEG/11623515_0.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjJfMTY5/MDAxNzQ3ODY0NDkzNDcz.rT9yJQLVaG8f1yifoxq67EbNumU_S1_VHfhKqBNPToog.9Uby1RUiqIK_9HJRy74b8D_DBkV-Of4PLpvPya8d1aAg.JPEG/20250519_185801.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20150831_218/1441007418223Vq9WK_JPEG/11623515_1.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTRfNDIg/MDAxNzU1MTIwNjE3OTE5.MU1dUJYMBNII0sV0r-FYv6Li5_1U6M8xWaKZDiu1c_cg.bYZSskvCIFiu2EJMWNAn-ZsgP7tFEfOe2mTFibmGWLQg.JPEG/20250810_112943.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTRfMjQ3/MDAxNzQ0NjMxMjg3MTE5.iyqC50pgk-SXlHq-ba65c9Q62eyPUwvuAYMftCaeltMg.RxY0K9vQktsZFRj0rQReLKCpqfwb2Q_PyR_srjFxOx4g.JPEG/20250414_115954.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjlfMTEg/MDAxNzU2NDU4NzA2OTg1.8m9-JSTVE4sDqx-Y7tfPc1CjHqxR6Exw3HhRI6zLx_Ig.12i_IkBSpK2eETUIA1AohdD7GibIdzaiVMH7bEji_kkg.JPEG/75218202-6AA5-494F-934D-0212366B1900.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjRfMTU1/MDAxNzQ4MDUyMjYyMzEz.57IrwplDXDMWTyx3nMcJr3vxcGayHGFMv8jsduN4pDYg.WZsT5Gk58GI3vp1nrpbaoKiMjEGwUCzlll4wwQcNBWcg.JPEG/8BC630C1-FB02-4798-AA2B-5552D3740FF6.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTFfMjUy/MDAxNzU0OTIwMzQyNjA5.OfpPcIFBw5MI2ws28Auei5lcvhLgmoWwaSxngS3Vxicg.3pcl-KATZOrqsmKiSf-kZL6qzLmn3JibrOXazTvCraQg.JPEG/E38478F9-D9F0-4ECE-B52C-B73015788428.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220804",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": true,
+        "broadcastInfo": {
+          "name": "생활의달인",
+          "menu": "솥밥"
+        },
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "11623515",
+            "bodySummary": "송현동과 안국동을 잇는 전통문화 거리인 인사동은 개인적으로도 추억이 많이 담긴 정감 있는 곳이다.맛있는 솥밥을 사 주겠다는 친구를 따라 저녁을 먹으러 들어간 일식당인데 외관은 허름",
+            "url": "https://m.blog.naver.com/clrarakjy/223378156784",
+            "nick": "구름정원",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA2MDhfMjQ5/MDAxNjIzMTM4MTk4MjY1.5ukNT2Ui2wVHMpNlPrrg4_w36p-eQc-l6LX3mpwxZHIg.5teG74y88z9w0AKPyizb7iRMljbmQlumzKfhfc9p4kcg.JPEG.clrarakjy/20191224_100545.jpg"
+          },
+          {
+            "sid": "11623515",
+            "bodySummary": "한결같은 맛이 좋은 노포 맛집입니다. 鳥金(조금) 02-734-0783 서울 종로구 인사동길 60 크라운빌딩 1층 조금식당 매일 10:30 - 20:20 15:00 - 17:00 ",
+            "url": "https://m.blog.naver.com/tkaeo215/223368367836",
+            "nick": "척척석사",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAyMjhfNDcg/MDAxNzA5MTMwNTc5MDE3.MkGK7WKpihMOWFHRk30idD5mV_i-EtdPir-V1TYkm4gg.3he3UxWIF1sx4TY0itFYLER95HzyENhXU_GUMdMm0pYg.JPEG/profileImage.jpg"
+          },
+          {
+            "sid": "11623515",
+            "bodySummary": "서울 종로구 인사동길 60 크라운빌딩 1층 02-734-0783 10:30~20:20 브레이크타임 15:00~17:00 라스트오더 19:30 다다미?라고 하나 여튼 방으로 되어있는",
+            "url": "https://m.blog.naver.com/rimii_/223363567108",
+            "nick": "RIMI",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDA4MTRfMTk0/MDAxNTk3MzkyNDc5NTk5.i6MQceQ-9wW8ptzeLmltX7Ubxxvf5v3-4broJY1ZfPAg.Gcz8q-ZknA9o8E7vDeYvJcDCvHTnf4RkXUyUptTpg18g.PNG.rimii_/profileImage.png"
+          },
+          {
+            "sid": "11623515",
+            "bodySummary": "종로 인사동 가마솥밥 가마메시 솥밥 맛집 인사동 맛집 안국역 맛집 조금 인사동 오래된 일식당 솥밥 맛집으로 꽤 유명한 안국역 바로 앞 맛집 조금 일본식당 느낌 인사동 노포식당 19",
+            "url": "https://m.blog.naver.com/lsoyoung1015/223362629604",
+            "nick": "이태원단발여사",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEwMjRfNzAg/MDAxNjk4MTI4NTM5MDQ3.5nXTZWOorj52rfo3qovx31GfNQqsOeQ0d5Q_ikCWD-gg.l8tJx6O86uvWcsYVqaErrO5Mc8Y2DhKRcrnqQJqkcX0g.JPEG.lsoyoung1015/profileImage.jpg"
+          },
+          {
+            "sid": "11623515",
+            "bodySummary": "그냥 걸어본다 밥이나 먹고 들어가자고 하고 여기저기 기웃대다가 솥밥전문조금 심상치 않은 곳 발견 느낌이 온다 '솥밥이라네 들어가자' 외부에서 부터 느낄수 있는 역사 있는 솥밥집이다",
+            "url": "https://m.blog.naver.com/geotoland/223338096710",
+            "nick": "거토",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMTFfMjcy/MDAxNzEwMTI2MjExODE5.oOgN8Xm6cRMnrFW4QoSWv3S66UVE0y8I_V8UO0EEfJkg.pb0jgTc_tSR1mzHUiA896pBSLkLeRBGyzG-_yCB9wSQg.JPEG/IMG_6939.jpg/IMG_6939.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

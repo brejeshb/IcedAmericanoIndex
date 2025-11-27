@@ -1,0 +1,95 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 1,
+      "count": 1,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.97459027882879,
+          "minY": 37.5665,
+          "maxX": 126.97572685255253,
+          "maxY": 37.5674009009009
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.97515856569066;37.56695045045045",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1989834063",
+        "name": "탈북여성지원지에프에스 우물가",
+        "x": "126.9755037",
+        "y": "37.5669881",
+        "distance": 0.031,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 809,
+        "averagePrice": 0,
+        "address": "서울특별시 중구 정동 3",
+        "roadAddress": "서울특별시 중구 세종대로21길 15",
+        "abbrAddress": "정동 3",
+        "shortAddress": [
+          "서울 중구",
+          "세종대로21길 15"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [
+          "비 오는 날 고구마라떼 한 잔의 행복"
+        ],
+        "cardDescription": "비 오는 날 고구마라떼 한 잔의 행복",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MDFfMTc5/MDAxNzQzNDY0ODIwNDEw.ZmdmtlWUtmc1ouC9w-E_MKJSnLu_DGd6DG1n_Vaz8aEg.LhEq_dgLfpOhJ6Dbm6PwAaigqjKwl6R25jt0c1JfKVkg.JPEG/20250328_114852.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDdfMTMx/MDAxNzQ2NjI5NjI1NTky.QCiHoRPhIqE-DGyyQ4zOzmBNVQznrAKLqeUwuTMGCh4g.G4B3jzzYUlAKqrVMHNuTThcBX6oYdJLc5f1KH82UDqQg.JPEG/20250507_121500.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTAzMjhfMzMg/MDAxNzQzMTU5NTg4NDY2.NRcb2eJ_pM5VgNFVEhcC7hM-dYLUP8_eOySnsL5eQR4g.NkR1zH1Nm9KGWTJIUNp8P7NS7BkBk_KTxHwPOJ9p8Dwg.JPEG/1743156842523-2.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjBfMTA4/MDAxNzQ1MTYwMDE4MTQx.hPpoiCRfrk2AgyPXQIl98ISOrruLShdV7-Fj6Wj0W1cg.7p4am6ZJ6Ozp3TwNruxzW76TmiKd5EpxVo-NZIRR1-gg.JPEG/6002CFCD-A8B2-4040-82F4-555A7354C799.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTJfMTA3/MDAxNzYwMjQ2MTc5MDMw.7NlpUUE3n1u4gnCpqIG3d3pvIoUEsLJVr4d3z_FDe6gg.hJsq3-rzCkEiNsOvo6eY8O-xGyz8spJP8JZhKzhFQ0Ug.JPEG/20250725_121109.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

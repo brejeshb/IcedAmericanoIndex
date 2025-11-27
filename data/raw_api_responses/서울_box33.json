@@ -1,0 +1,151 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 2,
+      "count": 2,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.98140972117122,
+          "minY": 37.558391891891894,
+          "maxX": 126.98254629489496,
+          "maxY": 37.559292792792796
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.98197800803308;37.558842342342345",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1651989748",
+        "name": "나떼조아",
+        "x": "126.9814211",
+        "y": "37.558629",
+        "distance": 0.055,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221212"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 142,
+        "averagePrice": 5000,
+        "address": "서울특별시 중구 회현동1가 64-2 1층",
+        "roadAddress": "서울특별시 중구 퇴계로12길 23",
+        "abbrAddress": "회현동1가 64-2 1층",
+        "shortAddress": [
+          "서울 중구",
+          "퇴계로12길 23"
+        ],
+        "displayContext": [],
+        "labelTheme": "드립 커피",
+        "microReviews": [],
+        "cardDescription": "*매주 콩을 볶는 로스터리 카페 나떼조아*  바리스타인 사장님이 직접 로스팅한 커피를 맛볼 수 있는 나떼조아입니다. 신선한 원두를 사용하여 로스팅한 나떼조아의 커피는 인근 커피점중에서 ",
+        "description": "*매주 콩을 볶는 로스터리 카페 나떼조아*  바리스타인 사장님이 직접 로스팅한 커피를 맛볼 수 있는 나떼조아입니다. 신선한 원두를 사용하여 로스팅한 나떼조아의 커피는 인근 커피점중에서 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDFfMTI5/MDAxNzU2NzIyMjE2NjEy.vupkWVYyufq4u1aFRVan8fYPZBPtQht0XvFF_G6Q3lAg.yCM3aawCy3vvOopS9IEJyqo7gJAojkIoXQxmVB2qrdIg.JPEG/20250716_120221.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240409_221/17126210727501Bfyv_JPEG/20240409_090321.jpg",
+          "https://ldb-phinf.pstatic.net/20240409_131/1712621072636hzcHM_JPEG/20240409_090332.jpg",
+          "https://ldb-phinf.pstatic.net/20231114_182/16998907142530uJq9_JPEG/IMG_6805.JPG"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221212",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "1023656727",
+        "name": "홀빈",
+        "x": "126.9818267",
+        "y": "37.5584218",
+        "distance": 0.049,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 262,
+        "averagePrice": 0,
+        "address": "서울특별시 중구 회현동1가 208",
+        "roadAddress": "서울특별시 중구 소공로 35",
+        "abbrAddress": "회현동1가 208",
+        "shortAddress": [
+          "서울 중구",
+          "소공로 35"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 회현동1가 208",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

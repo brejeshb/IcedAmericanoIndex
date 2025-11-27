@@ -1,0 +1,728 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 8,
+      "count": 8,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 128.87837114523157,
+          "minY": 35.21949099099099,
+          "maxX": 128.88388557261578,
+          "maxY": 35.223995495495494
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "128.88112835892366;35.22174324324324",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1351037903",
+        "name": "키린느",
+        "x": "128.8784832",
+        "y": "35.2233822",
+        "distance": 0.302,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 678,
+        "averagePrice": 5000,
+        "address": "경상남도 김해시 봉황동 980 1층",
+        "roadAddress": "경상남도 김해시 김해대로2272번안길 31",
+        "abbrAddress": "봉황동 980 1층",
+        "shortAddress": [
+          "경남 김해시",
+          "김해대로2272번안길 31"
+        ],
+        "displayContext": [],
+        "labelTheme": "데이트 맛집",
+        "microReviews": [
+          "트러플 소금빵과 함께하는 행복한 시간"
+        ],
+        "cardDescription": "트러플 소금빵과 함께하는 행복한 시간",
+        "description": "맛있는 빵과 다양한 크림치즈, 맛있는 커피와 음료 여유로운 분위기.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDNfMjY2/MDAxNzU0MTg0ODE3Mzc5.NuiJ5Tpq0nzzgrT2OW699mITFhNcOtb14iPkiYCvEfog.hwNt3u1IdImAQuUArGvUtFkLdRcaK5cBLmfXIyxmUJAg.JPEG/B50B61D3-DCF0-41D1-9435-14FD93A370E9.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjVfMTg4/MDAxNzUzNDEzMTgyMjk4.DcbZNexaPsovjIDgF-sVupE5SyqV4Kjf0itciMrNBUgg.HDBzw2-X9QrKumVZ0QIH3XqBVR0QcDBVdHaI-F4Vt4kg.JPEG/1000051303.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240117_17/1705493530587wxIAX_JPEG/KakaoTalk_20240117_211150674.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTZfMTMg/MDAxNzU4MDMyMDYxNjI1.kzVv2rliXL96kx9_dA85aNknO1c9D3mZXOMby505NoEg.ApzMsdNkiUr_eXZSOFFRPfYuU0aXcV9ed1FL5CpnGfog.JPEG/20250916_131621.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240206_94/1707210520697FRJ88_JPEG/%C5%B0%B8%B0%B4%C0197.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjBfMTcg/MDAxNzUyOTg5MDIzNDMy.p2S_CaujWKO84pyTds3FVsvUTAlNlBIGw68R8MdfxrIg.9lVRFVOAErlJJBgPZXycVZSVeaQ48utxJsdmUOj42fwg.JPEG/1752988906667.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240206_52/17072105205792jnw4_JPEG/%C5%B0%B8%B0%B4%C0179.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTlfMTIy/MDAxNzU4MjU0ODc4NTQ4.j1LvDUuzEwdP-l4JjS-hk-r6uryzDXZxvjBw8j2uvnEg.S2L8QSL3S1VSVVGf6m2Jj9oIIRHsskHZCUxejUXAGOkg.JPEG/F60575DB-DA75-4C8B-833A-069E02899647.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMDhfNjMg/MDAxNzYyNTI4NTg0MTA1.ovOK1lEIYvXIV63K-jaeQ_y0UOW--NnDDJhS8TEqky8g.a8IH-wakpPfaC6n9gYvSa123SlNaPUK4HNfE3IVrjZsg.JPEG/1000203887.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjRfOTAg/MDAxNzU2MDExNTE3NDU2.x-CpN7dOvSk3u2VnjMSnYIFU2zRlhgLHxQqYF5BsoEcg.EG96rcAKLY2L3zkJ80fpt_n46To1Sld1Ph3DnqFNZHAg.JPEG/20250824_134800.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1351037903",
+            "bodySummary": "김해 봉황동 대형카페 키린느 place information 경남 김해시 김해대로2272번안길 31 1층 매일 10:00 - 22:00 0507-1386-2075 ■ 키린느 안녕하",
+            "url": "https://m.blog.naver.com/lyh04280/223391520430",
+            "nick": "수상한 그녀",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA0MzBfMjI1/MDAxNjgyODU1MTY3MTY5.NtFC9U0PF3qUwjms2fjbmztqnuyD6vQDiES-8sfc1ZYg.Hi07H8TTA-lwICL4vtECMnzYZauVl7vCMuF_hJUgzMMg.JPEG.lyh04280/profileImage.jpg"
+          },
+          {
+            "sid": "1351037903",
+            "bodySummary": "새로오픈한 키린느 완전 장식품같은 비주얼 빵인데 맛도 짱! 다른 빵 먹어보러 꼭 갈 곳임댜 주차 편하고 빵 맛 좋고 자리 넓어서 추천",
+            "url": "https://m.blog.naver.com/yoolim0302/223391211899",
+            "nick": "Urim",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA4MjdfMTgz/MDAxNjkzMTA1NzY5OTk1.zQ751KyQBm6RteDdIYIJdt443nsxV94gF2qIXngOjVgg.UC0Lqh3BGYtoEJQUJDqJCwQRMiiC5hcqwIQvwwoqLpsg.PNG.yoolim0302/profileImage.png"
+          },
+          {
+            "sid": "1351037903",
+            "bodySummary": "키린느 위치 : 경남 김해시 김해대로2272번안길 31 1층 영업시간 : 10:00-22:00 연락처 : 0507-1386-2075 안녕하세요 오늘은 김해 봉황동 신상 대형 카페 ",
+            "url": "https://m.blog.naver.com/holabear_/223380059149",
+            "nick": "Hola bear",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA2MTBfNjgg/MDAxNjg2MzYyNjE4NTQ0.oC_qsIf-3hFF8iBRxNkSStQBVKUzSOcff6M-OAAzJBwg.gtB5Yq46kgkIbQ4pBcxfd3ut9rDv3exlT0lCp0GW_8gg.PNG.goflal1202/profileImage.png"
+          },
+          {
+            "sid": "1351037903",
+            "bodySummary": "경남 김해시 김해대로 2272번안길 31 1층 연중무휴 10:00-22:00 주차장 넓음,아기의자 있음 3층 건물이고 키린느는 1층에 위치하고 있어요. 2층은 물회,장어구이 3층에",
+            "url": "https://m.blog.naver.com/sadd4444/223379469071",
+            "nick": "mino",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA5MTdfNDEg/MDAxNjk0OTIzMDE0MjA2.xTHlFClAEl-TqEZJrTvhfqp9ahcPQ3hpijwBtgZ3jrUg.tYR0mSXhq2OFuIVpxQRkYtCoARQad_D8bd1i8Ff5EBQg.JPEG.sadd4444/profileImage.jpg"
+          },
+          {
+            "sid": "1351037903",
+            "bodySummary": "생각보다 카페가 좋았다능~~ 봉황동 대형카페 키린느' 코끼리 카페 : 주차 및 메뉴 빵 종류 생긴지 얼마 되지 않았지만 이 코끼리 동상으로 유명해지고 있는 카페입니다. 위치는 요기",
+            "url": "https://m.blog.naver.com/jh050689/223377318072",
+            "nick": "자혜야",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAyMThfMjU3/MDAxNzA4MTkwNTQ5NjE3.q7OXTLYTTFHo8Q76YGV0yl9mMl68NqoHPXCUuuMcUaYg.pqegKLYnjYicTca7Y0HCM_v7tmvdvtmFxHRtNeoMv8Ug.PNG.jh050689/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "id": "1297551346",
+        "name": "Patio6747",
+        "x": "128.8799649",
+        "y": "35.2238528",
+        "distance": 0.258,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 1513,
+        "averagePrice": 5000,
+        "address": "경상남도 김해시 봉황동 994 파티오6747",
+        "roadAddress": "경상남도 김해시 김해대로2324번길 33-13",
+        "abbrAddress": "봉황동 994 파티오6747",
+        "shortAddress": [
+          "경남 김해시",
+          "김해대로2324번길 33-13"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [
+          "자연 속 카페 같은 편안한 분위기"
+        ],
+        "cardDescription": "자연 속 카페 같은 편안한 분위기",
+        "description": "저희 파티오6747은 편안한 휴식을 추구합니다.  높은 층고로 탁 트인 공간 속 대형 식물이 어우러져 있으며, 2인 테이블부터 20인 이상 단체석까지 편안하게 이용 가능합니다. 파티오 전용 넓은  ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjNfODEg/MDAxNzU4NTk4NTU0Nzk4.55BwUMJd-ozqCYNTtDmq4YSMbvQmIoL78XgqSqRfcgwg.iR__fCOboGhAoKecD7aTjG15jJFGj-Wl5NqMbk-BIVMg.JPEG/20250923_123141.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTdfMjE3/MDAxNzU1MzkyMjExMDY3.-wU-z7Mgj6ancrHAkd2YR34oMhacY3258bHfBBOcgTkg.FJSQJP9BGbYH1QxHbu3KiHy4cZr72HiultlRSv-Kneog.JPEG/20250816_222249.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240706_6/1720227830186ftBvl_JPEG/1000003191.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDNfMTQ3/MDAxNzQ4OTE2Mzg3MjEw.oKHxUG_NwjTN9O3C--4p-_tT7DUeBUf1bZlQek3jjmwg.GSYxUHUvqdXbCy7qIJn4m4S6xjoRsrS3QVpgcE-gwjcg.JPEG/20250603_103256.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240706_300/1720227830166kP8mI_JPEG/1000003189.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjlfMjAw/MDAxNzU2NDM5OTEyNDU1.SzvGipS4KHfA7TE7vYhrpASPjpIAQNENkp5FU2Z7VLQg.kFtw0mOK6wkU1Cex4K1KzbTRxfqy5RANskqjMCpyu1Eg.JPEG/20250818_115026.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20210427_287/1619503687191WXdkb_JPEG/c_OWAAiMbZZyYTnAloQpFPJV.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTBfMjUw/MDAxNzU3NDkzMjcwMTA4.I7WzRRS9qzYQUpG5DwsPxVDN4n5gTKO468T53cxC-EIg.tbQsIfSEMnmhY8H2AbWcSydlPy1GtnemTFRAzLAlDKog.JPEG/20250910_135033.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MThfMTE2/MDAxNzUwMjIwNjU3OTc5.RyxYzOOjLs9Qxdqs-BLruCWoEhrrViX_6QBav0AQD2Ig.HWukKtVu4YQ-1m6Sh-XdUWC_dafYbj3FAOfyVU3yDMwg.JPEG/96E805F2-572F-4469-AC05-21E739D031E5.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjZfMTE2/MDAxNzYxNDcxOTA5ODE5.VeED4AdbZn29fKb8rhmdUG9C2etA6dKxicNMjtSFGowg.XyYi8ycxBHoJI8LAntGD5MPRGFQlffMM7Zp6K4MHKL4g.JPEG/20251026_134330.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1297551346",
+            "bodySummary": "전용 주차장입니다 엄청 넓어요~~ 초보 운전자도 충분히 가능!! 김해대형카페답죠??!! 입구에 들어서면 초록 초록 식물이 맞이해주고 있습니다 (매장 내 모든 꽃나무는 판매중입니다~",
+            "url": "https://m.blog.naver.com/zerosilver1013/223374787806",
+            "nick": "Zero Silver",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMjlfMjYw/MDAxNzAzODE4MzU2NzQ4.t5pzAABrj-Ymh7oH58zXhtU5ZGtqx-kGDtDibP-386sg.Vt4GFmeHKLNZGp-WDXbkTJ7Gfb2fgzHM4NGkJ5glhDYg.JPEG.dbsduddms54/profile_01.jpg/profile_01.jpg"
+          },
+          {
+            "sid": "1297551346",
+            "bodySummary": "시즌 메뉴로 초코 바나나가 있길래 아이 주려고 이것도 시켜봤어요. 아이용으로 시킬 거면 얼음 빼고 주문하면 덜 차가워서 좋습니다. 아아, 바닐라라테, 토마토주스, 어른들이 좋아했던",
+            "url": "https://m.blog.naver.com/kmh880503/223356862825",
+            "nick": "리니히니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTEwMDZfMTQ1/MDAxNjMzNDQ3Njk0MjY4.NOWWoPBwIxNc4zo3VGVrJZe7vI24fB9zfMTv8MqKN3Ig.g0gaBKRyuhbAyt4iokGJ013-cpV82xH-Rd8IPfAMGPUg.JPEG.kmh880503/KakaoTalk_20210930_003653159_14.jpg"
+          },
+          {
+            "sid": "1297551346",
+            "bodySummary": "몽블랑 , 크로와상 , 맘모스빵 , 앙버터소보루 등등 어쩜 이리 취향저격하는 베이커리만 가득한건지 밥 먹고 간거 아니였으면 빵 다 털고올뻔 했지 뭐에요 베이커리뿐만 아니라 커피와 ",
+            "url": "https://m.blog.naver.com/gusalsv3v/223354805551",
+            "nick": "미니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMjFfMjc4/MDAxNzAwNTIwNzQ1OTEx.44zVsof3VZ3IbMPQ5TdC0A2pAY01HlR2Tv_tlh1j5P0g._VTP5eFG4kvSheSCsM3j9S9gmNK7XqgePe9_Vlf7EGQg.PNG.gusalsv3v/profileImage.png"
+          },
+          {
+            "sid": "1297551346",
+            "bodySummary": "영업시간 평일 10:00 - 01:00 주말(금, 토) 10:00 - 02:00 * 주차 가능 * 매장 상황에 따라 마감시간 유동적 오랜만에 모이는 동네 친구 조합으로 오래 얘기할",
+            "url": "https://m.blog.naver.com/j1993hm/223352387327",
+            "nick": "뻐거",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMDhfMjEy/MDAxNzA0NjgwMDUyMTU1.b2gcetGYl9m7bocAZkbPfrenBGSs6dEsDHRD11ws1O4g.so_2zTnEgcGqwhw_jsMjhcK0wAcghsQUK22rKYwGKBIg.JPEG.commender93/profileImage.jpg"
+          },
+          {
+            "sid": "1297551346",
+            "bodySummary": "Patio6747 김해 봉황동 카페 안녕하세요. 에그미니입니다 ︎︎❤︎봉황동 지나가다가 통창으로 되어 있어서 호기심이 갔던 카페, 파티오6747 드디어 다녀왔습니다, 소개해 드릴게",
+            "url": "https://m.blog.naver.com/mixnni/223340632676",
+            "nick": "에그미니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA5MDZfMjI0/MDAxNjk0MDExNDQ5MzMz.YRzpdNPXg0jOz-4XuOQcKuV1LZuKvfGThGHv9OkHUgwg.L7b2HEbVPDBAjfxKfrxI5OSakFvmbLkn0Rg3OeUNTPog.PNG.puta56/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "id": "1057198623",
+        "name": "도시별장",
+        "x": "128.8792575",
+        "y": "35.2238947",
+        "distance": 0.294,
+        "categoryName": "육류,고기요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220733"
+          ]
+        ],
+        "category": [
+          "한식",
+          "육류,고기요리"
+        ],
+        "reviewCount": 7433,
+        "averagePrice": 10000,
+        "address": "경상남도 김해시 봉황동 977 도시별장",
+        "roadAddress": "경상남도 김해시 김해대로2324번길 37",
+        "abbrAddress": "봉황동 977 도시별장",
+        "shortAddress": [
+          "경남 김해시",
+          "김해대로2324번길 37"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [
+          "도심 속 캠핑의 특별한 경험"
+        ],
+        "cardDescription": "도심 속 캠핑의 특별한 경험",
+        "description": "도심 속 진정한 휴식, 프리미엄 바베큐장(고기집) [도시별장] 입니다. 다양한 그라스와 대나무 조경으로 꾸며진 환상적인 분위기, 불멍하며 구워먹는 달콤한 마시멜로우까지! 김해 대표 글램핑 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTNfMTY2/MDAxNzU1MDgxOTMyNjI1.ITbhreivfx3YGl-VA88NoV4VGxlJhDZnHscZ0HJJQR4g.p2-9-qfmio-DhdmDhEJ7MSxmKQYjX0XqpDYiLAG_lCog.JPEG/20250813_182902.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTJfMjc5/MDAxNzU3NjUxMzM4NDE0.2KRLLGYnh_X5iuK4n-QWJONB7eW65Wrb4Px5E-eNwdwg.sW6akYyPC1GyOXR0wLVEJpcJfhFuAy4o52ud0CUQQYwg.JPEG/1000118334.jpg",
+          "https://ldb-phinf.pstatic.net/20240913_268/1726218573181klHKY_JPEG/IMG_4477.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjdfMjY4/MDAxNzUzNTg3NjMwMzUz.mh3JOh0mzG9p2zjdfnoHgoWV0o_yfFum6a0igly9FNEg.WxMX4yx1wXuD-VUfoib_pjw9w3CVkX5HrDHJGO7CCoYg.JPEG/1000049791.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240722_195/1721611082596yaWNS_PNG/%B5%B5%BD%C3%BA%B0%C0%E51.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMDZfMjUx/MDAxNzYyNDE5NTMyOTk3.VMB2fXun2zE5BtzRuUuCpPQFjOw9Tkhvhap7xpjcvWEg.2a3ETG0Yd2SNXfmIOTS__cGlWc94QS8Q9RrRU8bED7Mg.JPEG/D8D4DB56-BFB4-4D2D-A4ED-69CBA5CAFF28.jpeg",
+          "https://ldb-phinf.pstatic.net/20241123_265/1732363365823VcgHI_JPEG/KakaoTalk_20241123_210235393.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjdfMjE4/MDAxNzUxMDE1MDQzOTk3.KxKq5KvrogEaqX9suIG4YjFUlrEoJnK_IT8w0CPaCNog.Q6JUeHsRjBC9PgLPdYRaZ5bL7XveBWcDNh-HI6A_epsg.JPEG/20250627_175724.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMTFfMjQz/MDAxNzYyODMyOTE2ODMx.Gg7flLRfzvgvlEXlzk4auXYmPKkeQIQGq5oOwwkLZIgg.KPLrvTmzxASSGIfSzvqJt9FIWbZLZRXelXe2jWTs5tQg.JPEG/20251111_121805.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDRfNzEg/MDAxNzU0MjgyNzE4NTYx.XY3AmiR2TaJ25vqG8x4r5ZsFNDvbY4BzK0IFWAUX60gg.n5mCHb9emuKciF_2hDpYY0yG3m_BJAg0GzScqRHFFdwg.JPEG/1000050067.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220733",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "1057198623",
+            "bodySummary": "이 음식점을 방문해볼 것을 추천합니다 #부원역맛집 #봉황동맛집 #봉황동고기집 #김해찐맛집 #부산캠핑바베큐 #부산바베큐맛집 #부원동고기집 #김해캠핑고기집 상위 추천글은 업체로부터 합",
+            "url": "https://m.blog.naver.com/latiff92/223388761826",
+            "nick": "latiff92",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAyMDNfMjQ4/MDAxNzA2ODkyMjk1NzQx.7nxRaQEf207A0FC6n73OuS6QWItnQT1rpKgQG9ETKlAg.ZUtMNFLz8Px_pvElKkJ_8sPkcmS7MKIpJOCvUmOn83gg.PNG.latiff92/Profile_defaultIMG_L2x.png"
+          },
+          {
+            "sid": "1057198623",
+            "bodySummary": "캠핑 가고 싶을 때 방문하기 좋은 도시 별장 #부산근교 #캠핑 #김해고기집 글 순서 위치 식당 소개 이용 정보 (예약 및 방문 전 알아두면 좋은 것 등) 방문 후기 (이용 가격 및",
+            "url": "https://m.blog.naver.com/1jarang/223370579068",
+            "nick": "잽잽",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxODA3MjZfMjM5/MDAxNTMyNjEzNzYyNTA0.f-1u-B34MMVZW7Lwszx9NETn6-wdIZr_9VLSg3m0ungg.G5tQs9nZxi1-F0lkYZ0g9asA0DdcOQxOuB2kp9J5PSAg.JPEG.1wkfkd/profileImage.jpg"
+          },
+          {
+            "sid": "1057198623",
+            "bodySummary": "여러분의 소중한 시간을 함께할 맛있는 공간을 소개합니다. 함께 특별한 순간을 만들어 보아요! 이 곳은 특별한 음식과 함께하는 즐거운 분위기로 여러분을 기다리고 있답니다. 도시별장은",
+            "url": "https://m.blog.naver.com/leelee0617/223363355518",
+            "nick": "러블리 쑥",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAyMTBfMTYw/MDAxNzA3NTQ5NjIzOTE0._398pjU2AJo0uRGIId31SeslyTNss81RlgQvj96sqx0g.Mz3e8NmmltO_bJPa-KqIv7cdQsqimzmZmOn2rJUad_sg.JPEG.leelee0617/KakaoTalk_20240210_160321168.jpg/KakaoTalk_20240210_160321168.jpg"
+          },
+          {
+            "sid": "1057198623",
+            "bodySummary": "상시 불멍이 있어서 캠핑 분위기가 정말 최고더라구요. 야간 입구 조명이 너무 이쁘구요, 다양한 그라스와 대나무 조경이 이쁜 곳이랍니다. 나만의 공간에서 친구, 동료들과 회식하기 정",
+            "url": "https://m.blog.naver.com/jaebin06_/223361752620",
+            "nick": "재빈콩2멍6냥육아일기",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA5MThfMjUy/MDAxNjk1MDIyMTcwMTgx.1KTTYQbXW7ATc8wRzubFOeWcHemEiAfBCYrBfOBMwbMg.Vr02jNEBbC5uuOB6f95qfUsivLQ4RBprxb3GvChDLrcg.JPEG.zzdhwnsqkd/KakaoTalk_20230918_162859683.jpg/KakaoTalk_20230918_162859683.jpg"
+          },
+          {
+            "sid": "1057198623",
+            "bodySummary": "단체로 예약해서 술 한 짝씩 싸 들고 와서 놀러 오기 너무 좋을 것 같다 외진 곳에 있긴 한데 시외버스터미널에서 멀지 않고 주차장도 잘 되어있어서 운전해서 오면 어렵지 않게 올 수",
+            "url": "https://m.blog.naver.com/pear_m/223361474784",
+            "nick": "림둥",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMzBfNTcg/MDAxNzA2NTk5MDQyODc3.1zwU8-iSS72Q4cDHZlpxGHvcIKVZDiUO03P01W4hN30g.uWQdDjzyl9vgQhe4T4iiurNvSfJLx6n6X9G-oxTIHewg.PNG.pear_m/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "id": "1532626290",
+        "name": "소담오리 김해본점",
+        "x": "128.8789706",
+        "y": "35.2239125",
+        "distance": 0.311,
+        "categoryName": "오리요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220769",
+            "221553"
+          ]
+        ],
+        "category": [
+          "한식",
+          "오리요리"
+        ],
+        "reviewCount": 1843,
+        "averagePrice": 20000,
+        "address": "경상남도 김해시 봉황동 976 소담오리 김해본점",
+        "roadAddress": "경상남도 김해시 김해대로2324번길 39",
+        "abbrAddress": "봉황동 976 소담오리 김해본점",
+        "shortAddress": [
+          "경남 김해시",
+          "김해대로2324번길 39"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [
+          "특제 들깨로 깊은 맛을 더한 오리탕"
+        ],
+        "cardDescription": "특제 들깨로 깊은 맛을 더한 오리탕",
+        "description": "소중하게 담은 한 끼 식사. 소담오리 김해본점입니다.  농가에서 선별한 최고의 오리와 신선한 야채, 특제 소스가 어우러진 오리불고기 & 오리탕을 즐겨보세요.  새롭고 건강한 자연의 맛을 선 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTNfOTkg/MDAxNzU3NzQ2NzYzMTkx.ELi6Ri3RHGmo46DrnAUoqDtUomBH8Wmcl_gGo3RE6M0g.D0QiecBbY2rMjYcLqL4_feLVa7DNGmiY0nkDxtu31EMg.JPEG/20250913_155630.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMTdfMjkx/MDAxNzYzMzUzNjIwMjAx._8gd2b5MkO0uTl7R_57D1JUob0VdFbjh1-dJdDa9quYg.yK9CHo1lZsuQlTQHOjfuC06beYoejlhbfAOFqhY3G34g.JPEG/20251113_121805.jpg",
+          "https://ldb-phinf.pstatic.net/20250918_168/17581712137628Fin2_JPEG/KakaoTalk_20240313_144230205.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDdfMjAz/MDAxNzU0NTQ0NTI1OTQx.ZfyqRssVLcqfD-MiH8nABww8DEzW2Hr8uiBIL60roPEg.61J6_rFP2nklXJZEpp2aCFkLMz8WBnUoT6jG5ULEfRMg.JPEG/1000091791.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250918_143/17581700016780K3hl_GIF/%BF%C0%B8%AE%B5%A5%C0%CC_%BF%B5%BB%F3.gif",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDFfMjU2/MDAxNzQ4NzU1MzAyOTMx.OECNhL4_G_8BeK_cbI_CEb30xWQxqTdlDl38EMpefkwg.xB-Y9TeYQRSlITZ7I5q6Fc6JRFl6RQ4oZjdkqtBdx0Yg.JPEG/17487552883477145815616211842665.jpg",
+          "https://ldb-phinf.pstatic.net/20250411_16/1744383419518MfXXF_JPEG/%B4%DC%C3%BC%B7%EB%C5%B0%C1%EE%B7%EB.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDZfNzgg/MDAxNzU5NzE4OTU0NjAx.wjg07kvRVSxsjp9kV0rPK_L9KSo-MXlyzg0MCyFcsV4g.M3zMI73GOzDxxLtSI7DfUwoYmmNngOy0AzxKjInJ4Sgg.JPEG/05FBC059-E28B-4508-B2EA-0EDC9D3FF246.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MzBfMTg3/MDAxNzU5MjEzMzgzMTI5.WPojYQNyASDfR9X_02saAVOYiAy3uDf5aQV-ps_qzZsg.VLwqjgWhEQhO74EmaxobyIzTNwRVU7cL64y7EUXsyHog.JPEG/E0A0BD89-58B9-4F57-89B6-67067779A0B4.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjhfMjcg/MDAxNzU5MDU3NTY5MjQ1.NgMFmmq3j8LEfOkA8DKwy5TJRh_toSW5iJxchB_kMqwg.FhCKY_0TDZoW7-8NBri2aAFeTwxXbxgUjqZW1glv2nIg.JPEG/49C7F3E9-DD6D-4746-A01C-B0DC1CFE608F.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221553",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 5,
+        "id": "1202382641",
+        "name": "캔드마인",
+        "x": "128.8792086",
+        "y": "35.2237359",
+        "distance": 0.282,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 27,
+        "averagePrice": 5000,
+        "address": "경상남도 김해시 봉황동 978",
+        "roadAddress": "경상남도 김해시 김해대로2272번안길 37",
+        "abbrAddress": "봉황동 978",
+        "shortAddress": [
+          "경남 김해시",
+          "김해대로2272번안길 37"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "생일파티, 각종 모임 작은행사 작은 갤러리로 활용 가능",
+        "description": "생일파티, 각종 모임 작은행사 작은 갤러리로 활용 가능",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20220930_151/1664511909029fjYve_JPEG/D4DFEFB7-5B28-4FCB-9501-59A632ED4E22.jpeg",
+          "https://ldb-phinf.pstatic.net/20221017_71/1665970209152sSIuQ_JPEG/IMG_7922.JPG",
+          "https://ldb-phinf.pstatic.net/20220930_79/1664511909130nqhe7_JPEG/1BE4A02F-015D-435D-9AB8-E474689145AD.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 6,
+        "id": "2091587951",
+        "name": "가야담",
+        "x": "128.8825037",
+        "y": "35.2238493",
+        "distance": 0.266,
+        "categoryName": "한정식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220056",
+            "220594"
+          ]
+        ],
+        "category": [
+          "한식",
+          "한정식"
+        ],
+        "reviewCount": 10,
+        "averagePrice": 20000,
+        "address": "경상남도 김해시 부원동 971-8 1층",
+        "roadAddress": "경상남도 김해시 김해대로2272번안길 68",
+        "abbrAddress": "부원동 971-8 1층",
+        "shortAddress": [
+          "경남 김해시",
+          "김해대로2272번안길 68"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [],
+        "cardDescription": "가야의 맛을 담다, 한정식 전문점 가야담입니다.",
+        "description": "가야의 맛을 담다, 한정식 전문점 가야담입니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjZfMTMx/MDAxNzU4ODc4NTExODU3.lzoxvsfqi1rF8qbUsnruaJrmMRShIu4-jk44pf6H5akg.doLUBMVfcySlfaZaghR7fhNjx0XepCXYIRniV6g28M0g.JPEG/20250925_122529.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjZfMTg5/MDAxNzU4ODc4MDcwMTAw.JuZsLYltwd0PWFhNyRmUu7t3vMsYIfmzPnwmRAN1Gywg.zQ1fqNktAZgFhKeL8BAuxF9_jXrZwSdQ4vLZlh2lWWAg.JPEG/20250925_122529.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250917_78/1758082925075WGKMy_JPEG/image.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjRfMTYz/MDAxNzU4Njk3MTE3NzIy.5S_bPBGQQZlkF0M7fhUY7-Gyt4stkEyY4pvRZn9vXsYg.kbhMLMU5YJELJAFt_TUddQFWhSLsmTbGCrdBjw-KriUg.JPEG/20250924_123646.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20251118_200/1763433648239XVcXG_JPEG/IMG_1811.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDJfNzkg/MDAxNzU5NDAwNjI2NTI4.9tDmWEGmqcs7o6GJx3PNytwrKVKVg03E3QLLuAT86qgg.YbtfFkWy_bU_NQmbrxpx717fIG1mgMbiKFyrYBLbsIMg.JPEG/20251002_182845.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220594",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 7,
+        "id": "1756204942",
+        "name": "명품물회 김해점",
+        "x": "128.8784507",
+        "y": "35.2235036",
+        "distance": 0.312,
+        "categoryName": "해물,생선요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220076",
+            "220777"
+          ]
+        ],
+        "category": [
+          "한식",
+          "해물,생선요리"
+        ],
+        "reviewCount": 461,
+        "averagePrice": 20000,
+        "address": "경상남도 김해시 봉황동 980 2층",
+        "roadAddress": "경상남도 김해시 김해대로2272번안길 31",
+        "abbrAddress": "봉황동 980 2층",
+        "shortAddress": [
+          "경남 김해시",
+          "김해대로2272번안길 31"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [
+          "신선한 해산물로 만든 명품 물회"
+        ],
+        "cardDescription": "신선한 해산물로 만든 명품 물회",
+        "description": "2009년 송정본점으로 부터 시작해 송도점,동래점,김해점으로 이어진 대한민국 대표물회 명품물회&숯불장어구이 입니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTZfMTY1/MDAxNzU1MzE3NTAxMzc3.G0Nuxf09uxhI4TA1QF46hmrTmV3P0gQFrpSNPMInMFgg.MgBRaBZicAsU1bxiPvczjdLrQBc9XtgZ1e-tc5zlwJQg.JPEG/20250816_130523.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTJfMTQz/MDAxNzU3NjUwODUzMDYw.8W3iMqdt71UFMnkRycX9uvxr6rBYLEObvPGVWX-LuSAg.fJ3F3FcBAsKNSMVGZwifxpsq7m6EkL-mb4Hy5qpsn_Yg.JPEG/1757387957302.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240208_181/1707383025904nakiD_JPEG/a%B8%ED%C7%B0%B9%B0%C8%B8%B9%E4.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTRfMjkg/MDAxNzU3ODIyMDU3Mzk2.N1bLoEsVHNkqGFUTm9GHaHjK8ctBKeS5DwtMIXb3--Eg.PDodi8kKyQgFIEE6ax1WlfN9-GnIwdsjyxg49VqRSJYg.JPEG/20250914_124326.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240208_157/1707383034067Nxvgj_JPEG/a%C0%E5%BE%EE%C1%A4%BD%C4.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMDlfMzAw/MDAxNzYyNjgwNjA4Mzg5.G_qp64GrcC2cnpAeLSBNtkQb0tI2bVBOTqJhLB3C-64g.SgJPvIpJKyq2Fg8tfn2ZLTaHaBYRWZ6VUAquKWICq5og.JPEG/20251109_182342.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240208_5/1707383039096iha7r_JPEG/a%C0%E5%BE%EE%B1%B8%C0%CC.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDlfNCAg/MDAxNzU0NzE0MDQ1MzM5.L1qDvzVj9XmMUqlZ5vcyMAo4ReRO6DFMdUHaF_BfKC4g.mwT4zQMcklpJXFEvJ7RLvQorBv62DHsfgmpIGAUlDcMg.JPEG/20250809_133059.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDVfMjAw/MDAxNzU3MDQzMzc5MDU2.fW1QwWiN4Uzn0RYyAf8hlIOrLqcQC9__YTw-WLbnC9wg.oAkiPyMui84rxdLOWZZgV-eess4IC3ysuuogMszYDvYg.JPEG/20250905_123437.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTdfMjgw/MDAxNzUwMTM0NjE1MDUy.3eY9VFJW5HwV34mbfTO4C4F8p5nv47AA5dlqrdVqrRMg.pjZfzP9SfUw_7i2hGACLBloigrJkqy4uYZwxPJ7397Ug.JPEG/727B8D5A-1642-4630-A34C-6C404BCB9B65.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220777",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1756204942",
+            "bodySummary": "장거리 여행떠나기 전 장어먹자는 오빠랑 최근에 오픈한 명품물회에 장어팔길래 먹으러 갔다! 영업시간 10:00~22:00 키오스크로 주문하고 바로 결제시스템! 물회하나 구이하나 먹으",
+            "url": "https://m.blog.naver.com/khss6001/223364826199",
+            "nick": "배수",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA2MTlfMjU3/MDAxNjg3MTAyNTA1MzU5.Aw3h9GpvLBDNCqFbJbuv57YtuEV2a_Bf39nF7d49t6og.z3uhaWvWAuKh8x_3v9on_zUJvu5MB1HorEjJBZH1L6Ug.JPEG.khss6001/profileImage.jpg"
+          },
+          {
+            "sid": "1756204942",
+            "bodySummary": "김해봉황동밥집 명품물회 전화번호 055-333-2266 영업시간 10:00~22:00 (L/O 21:30) <B/T 15:00~17:00> <전용 주차장 있음> 최근 봉황동에 뭐가",
+            "url": "https://m.blog.naver.com/jy4564/223339954113",
+            "nick": "코달씨",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDAxMjlfMjM4/MDAxNTgwMzA1MjExMjU4.nrAS7w67toH5GZKswaZPE3w47dBIenaYbo8ucF2Zcvcg.Q9Qncij1YjTZmHHwz468TiADXxIOPV-N-ivia9rShiQg.JPEG.jy4564/profileImage.jpg"
+          },
+          {
+            "sid": "1756204942",
+            "bodySummary": "주말 이른 저녁으로 새로 오픈 한 명품 물회 먹으로 고고씽!!! 3층 건물에 1층은 베이커리 카페 2층은 물회 숯불장어구이 3층은 카카오 프렌즈 스크린 지은 지 얼마 되지 않아 건",
+            "url": "https://m.blog.naver.com/sookceo/223335773059",
+            "nick": "쑤기",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMjFfOTAg/MDAxNzExMDI3MjQyNTM5.JcrmVPuDQHb2LxJg-6YdIjrw-ulJIMYEXR-RRXH49e8g.NQKcKfSbvauIW10FkQ2B89GYseiLGR7gsEw0YCcbI0gg.JPEG/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "id": "1498065764",
+        "name": "샤브20 김해봉황점",
+        "x": "128.8793293",
+        "y": "35.2237633",
+        "distance": 0.278,
+        "categoryName": "일식",
+        "categoryPath": [
+          [
+            "220036",
+            "220038",
+            "220083",
+            "1005431"
+          ]
+        ],
+        "category": [
+          "일식",
+          "샤브샤브"
+        ],
+        "reviewCount": 4699,
+        "averagePrice": 30000,
+        "address": "경상남도 김해시 봉황동 978 샤브20 김해봉황점",
+        "roadAddress": "경상남도 김해시 김해대로2272번안길 37",
+        "abbrAddress": "봉황동 978 샤브20 김해봉황점",
+        "shortAddress": [
+          "경남 김해시",
+          "김해대로2272번안길 37"
+        ],
+        "displayContext": [],
+        "labelTheme": "일식",
+        "microReviews": [],
+        "cardDescription": "김해에서의 최고의 김해맛집! 점심,저녁 무한리필로 양질의 소고기, 돼지고기와 수십여가지의 신선한 야채를 뷔페로 느끼실 수 있습니다.",
+        "description": "김해에서의 최고의 김해맛집! 점심,저녁 무한리필로 양질의 소고기, 돼지고기와 수십여가지의 신선한 야채를 뷔페로 느끼실 수 있습니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjBfNDgg/MDAxNzU4MzM3NzE1MjA0.TfK9mlfUByQCBSrBIpog_1hfyDfO3EWXk288qX9hvFQg.9vuAFloFLU3Da78RkDKRIzE9ksaR6IGYI9xTbQKu-bcg.JPEG/1000088916.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjhfMjQx/MDAxNzUzNjY2NjE2NDkz.Ju_3GFLe8gjPjtE_oFMUqF5z7570y789rmmpbd_IwuMg.JTkKRl3I0eTk1ywRi0pbla41rqUIYF4m9ypo9QKkJmYg.JPEG/20250726_145619.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20251014_236/17604036422390KE7y_JPEG/%C3%D6%C1%BE_%283%29.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMTJfMTg1/MDAxNzYyOTExODU3NTU3.OJslG1bavD_xNuQ80vcz-daSMr9IjxS62HOKT7PLzokg.38KVh8ONUxX2ba2Dz8IK6L5PiQivSVNSGj5Srum5QJAg.JPEG/Screenshot_20251112_104213_NAVER.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250519_33/1747626284725wgNnS_JPEG/1.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjlfMzEg/MDAxNzU5MTE2ODg0ODk0.zVtUzCfGLIdHnCUCb6b5kcEfzNzYrk24TTO8fnRWn6Mg.j6YX-l9C0UvmOX450etDwIFTlOKOvoeINJFzd91ndvwg.JPEG/20250929_113616.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250519_91/174762628467536H6e_JPEG/2.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMTBfMjM3/MDAxNzYyNzcwNzY0NDg5.jEjx3j4hb_D9HFpVOU46mtXghsJHXYYfzd2BGoy6vPgg.uEjYuN1unaR14Oabci6k5JJUXS5sebzrkbbddCtaHsEg.JPEG/93B99BB6-B350-43E4-AF17-99722909002B.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjhfMjI3/MDAxNzU5MDM4MTExNTQ5.-3a2h1MCa4t0wz-fsgIJZY2g0nKOXdnvs8S0C4MvEJsg.uRj7m-f5FhWxBR1mpkUfntzJEgMG8AdErtBApVOScwUg.JPEG/20250928_142618.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMTZfMTQy/MDAxNzYzMjY3NDgwMTgz.sKEzS8ZkKc4ynK4N8RABDpuFfAvp8sefGd0LUcr9YOkg.4Pac6AGDmIRVszmfP-RHpVBFR4UG9qG7pGlg876oTCAg.JPEG/IMG_5042.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1005431",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1498065764",
+            "bodySummary": "이 곳의 주차장은 넓어서 주차에 불편함을 느끼지 않았어요. 셀프바에는 각종 신선한 채소가 가득해서 내가 원하는 만큼 가져와 먹을 수 있어서 너무 좋아요~ 양고기 뿐만 아니라 육수 ",
+            "url": "https://m.blog.naver.com/woans385/223364235901",
+            "nick": "알록이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMTdfNTQg/MDAxNzA1NDE3NjMwMjg2.MHBqxBrSEYIoD3-LtBo7vWjHFVV-BPI6sQrcSC2y6vYg.uU7aWVI9ZpB15dh7J_-LBpR2MSUqPR-P4jAB2nBFGw4g.PNG.woans42/Profile_defaultIMG_W2x.png"
+          },
+          {
+            "sid": "1498065764",
+            "bodySummary": "이번에 제가 소개 해 드리려고 하는 곳은 가성비 완전 좋은 봉황동샤브샤브 맛집 <샤브20 김해봉황점>입니다. 각종 채소들과 주스를 원하는대로 먹을 수 있도록 셀프바가 마련되어 있어",
+            "url": "https://m.blog.naver.com/cej4739/223364044913",
+            "nick": "콩",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA1MTFfMjQx/MDAxNjIwNjkzMjcxMTA0.SdJsjtjPmT7t3prlDeneMTnuvBZv3AH8l8Bt_McXwHUg.6VP5U575tCrKMuk9TUIpLTTYOu3GRTrCh-U_NgiXE4Qg.JPEG.cej4739/67974439-0234-41B1-9E42-95E7E5C96B17.jpeg"
+          },
+          {
+            "sid": "1498065764",
+            "bodySummary": "잇님들, 안녕하세요~ 이번에 제가 소개 해 드리려고 하는 곳은 푸짐한 식사하기 딱 좋은 김해샤브샤브맛집 <샤브20 김해봉황점>입니다. 매장이 깔끔하고 널찍해서 온 가족 외식하기에는",
+            "url": "https://m.blog.naver.com/cej8202/223364044790",
+            "nick": "까꿍",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20130712_115/cej8202_1373621626715PV7ua_JPEG/%A4%A1%A4%A1%A4%A1%A4%A1%A4%A1.JPG"
+          },
+          {
+            "sid": "1498065764",
+            "bodySummary": "#샤브20 #김해샤브20 #샤브20봉황점 #샤브20김해 #김해샤브샤브 #김해봉황동맛집 경남 김해시 김해대로2272번안길 37 샤브20 김해봉황점 봉황동 978 0507-1379-1",
+            "url": "https://m.blog.naver.com/l1519l/223362506901",
+            "nick": "애정",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA5MjJfMzMg/MDAxNjYzODUyOTAxODgx.zEL4Ko-Tx0P2uPzbxaGxBhbj5Fe-rKSuyIcG_OsPJ9Yg.NAkZJUIait0T5TzLUKDZxnngEg3vaMFBhgWhZQId6egg.PNG.l1519l/profileImage.png"
+          },
+          {
+            "sid": "1498065764",
+            "bodySummary": "영업시간 매일 11:00~21:50 브레이크타임 평일만 15:00~17:00 라스트오더 20:50 단체, 예약, 주차 가능 런치코스 80분 20,900원 / 디너코스 100분 24",
+            "url": "https://m.blog.naver.com/sia_1020/223362369029",
+            "nick": "카인",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMDJfMzQg/MDAxNzA5MzEyMDYxNjAz.fFvNcdmqjK4OHEzD8aH7AwgBdB0SaFTmn06jUesvHOcg.X4YqWgHHl0NpqOX79mSmv6Vya3EbfXk6ikMNqjP_xZ4g.JPEG/profileImage.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

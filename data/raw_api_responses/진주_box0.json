@@ -1,0 +1,452 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 7,
+      "count": 7,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 128.0965777435152,
+          "minY": 35.170890990991,
+          "maxX": 128.10208887175762,
+          "maxY": 35.1753954954955
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "128.0993333076364;35.173143243243246",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1986943006",
+        "name": "달달올리",
+        "x": "128.1013204",
+        "y": "35.1748111",
+        "distance": 0.259,
+        "categoryName": "다이어트,샐러드",
+        "categoryPath": [
+          [
+            "220036",
+            "220047",
+            "220170",
+            "230734"
+          ]
+        ],
+        "category": [
+          "도시락,컵밥",
+          "다이어트,샐러드"
+        ],
+        "reviewCount": 21,
+        "averagePrice": 10000,
+        "address": "경상남도 진주시 상평동 277-5 103호",
+        "roadAddress": "경상남도 진주시 공단로 14",
+        "abbrAddress": "상평동 277-5 103호",
+        "shortAddress": [
+          "경남 진주시",
+          "공단로 14"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [
+          "신선함으로 채운 한 끼 샐러드"
+        ],
+        "cardDescription": "신선함으로 채운 한 끼 샐러드",
+        "description": "안녕하세요 달달올리입니다 저희 가게는 샐러드 그릭요거트 커피전문점입니다",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20230613_209/16866576805829tul8_JPEG/KakaoTalk_20230504_101059364.jpg",
+          "https://ldb-phinf.pstatic.net/20230613_188/1686657692877j4KYy_JPEG/KakaoTalk_20230526_160136611.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "230734",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "1641600354",
+        "name": "이명희김밥인",
+        "x": "128.101563",
+        "y": "35.1750643",
+        "distance": 0.295,
+        "categoryName": "김밥",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220186"
+          ]
+        ],
+        "category": [
+          "분식",
+          "김밥"
+        ],
+        "reviewCount": 23,
+        "averagePrice": 5000,
+        "address": "경상남도 진주시 상평동 274-31 1층",
+        "roadAddress": "경상남도 진주시 공단로 15",
+        "abbrAddress": "상평동 274-31 1층",
+        "shortAddress": [
+          "경남 진주시",
+          "공단로 15"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "한식 45년 외길을 걸어온 전문인이 정성을 다해 만드는 김밥 전문 식당입니다.",
+        "description": "한식 45년 외길을 걸어온 전문인이 정성을 다해 만드는 김밥 전문 식당입니다.",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20230301_282/16776740728866C1g3_JPEG/1677673248814.jpg",
+          "https://ldb-phinf.pstatic.net/20230301_247/16776740832431OoEI_JPEG/1677673268316.jpg",
+          "https://ldb-phinf.pstatic.net/20230301_108/1677674083233KQ69N_JPEG/1677673347080.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220186",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 3,
+        "id": "1278315733",
+        "name": "춘매씨 고기집하네",
+        "x": "128.1011508",
+        "y": "35.1747826",
+        "distance": 0.246,
+        "categoryName": "육류,고기요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220733"
+          ]
+        ],
+        "category": [
+          "한식",
+          "육류,고기요리"
+        ],
+        "reviewCount": 1,
+        "averagePrice": 0,
+        "address": "경상남도 진주시 상평동 277-39",
+        "roadAddress": "경상남도 진주시 공단로 12",
+        "abbrAddress": "상평동 277-39",
+        "shortAddress": [
+          "경남 진주시",
+          "공단로 12"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경상남도 진주시 상평동 277-39",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20240522_198/1716378956686gH2db_JPEG/IMG_0910.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220733",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 4,
+        "id": "1046676325",
+        "name": "유어사이드",
+        "x": "128.1004059",
+        "y": "35.1734487",
+        "distance": 0.103,
+        "categoryName": "테이크아웃커피",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220577",
+            "221358"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "테이크아웃커피"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 5000,
+        "address": "경상남도 진주시 상평동 278-24 101호",
+        "roadAddress": "경상남도 진주시 남강로 965-7",
+        "abbrAddress": "상평동 278-24 101호",
+        "shortAddress": [
+          "경남 진주시",
+          "남강로 965-7"
+        ],
+        "displayContext": [],
+        "labelTheme": "24시간 영업",
+        "microReviews": [],
+        "cardDescription": "커피/그릭요거트/파니니 등의 메뉴를 판매중입니다.  홀이 없는 배달 영업점입니다.",
+        "description": "커피/그릭요거트/파니니 등의 메뉴를 판매중입니다.  홀이 없는 배달 영업점입니다.",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20231125_29/17008851995631T32D_PNG/%BD%C3%B0%A3%BF%DC%B1%D9%B9%AB%28%C0%AF%BE%EE%BB%E7%C0%CC%B5%E5%29_%B7%CE%B0%ED.png"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221358",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 5,
+        "id": "1067453428",
+        "name": "얌얌",
+        "x": "128.1013944",
+        "y": "35.1748126",
+        "distance": 0.264,
+        "categoryName": "양식",
+        "categoryPath": [
+          [
+            "220036",
+            "220044",
+            "220126"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "양식"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 10000,
+        "address": "경상남도 진주시 상평동 277-5 . 1층 101호",
+        "roadAddress": "경상남도 진주시 공단로 14",
+        "abbrAddress": "상평동 277-5 . 1층 101호",
+        "shortAddress": [
+          "경남 진주시",
+          "공단로 14"
+        ],
+        "displayContext": [],
+        "labelTheme": "양식",
+        "microReviews": [],
+        "cardDescription": "경상남도 진주시 상평동 277-5 . 1층 101호",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20240616_221/171852004558868nE9_JPEG/1000000134.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220126",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 6,
+        "id": "1525928487",
+        "name": "스시moon달",
+        "x": "128.1017009",
+        "y": "35.1750836",
+        "distance": 0.305,
+        "categoryName": "일식",
+        "categoryPath": [
+          [
+            "220036",
+            "220038",
+            "220081",
+            "220804"
+          ]
+        ],
+        "category": [
+          "일식",
+          "일식당"
+        ],
+        "reviewCount": 35,
+        "averagePrice": 0,
+        "address": "경상남도 진주시 상평동 274-28 가람빌 1층",
+        "roadAddress": "경상남도 진주시 공단로 17",
+        "abbrAddress": "상평동 274-28 가람빌 1층",
+        "shortAddress": [
+          "경남 진주시",
+          "공단로 17"
+        ],
+        "displayContext": [],
+        "labelTheme": "일식",
+        "microReviews": [],
+        "cardDescription": "경상남도 진주시 상평동 274-28 가람빌 1층",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjRfMTYx/MDAxNzUzMzU3MjYzNzY1.JMYIl8zsYW1GiLu_8DeHwZvg8RZ95mzC26khi7t3bIog.9XGxolV6mm0em51DOuhoyoeZAea2JzW47F3yPeI6Gf4g.JPEG/D13BFC91-3DC2-43C5-AD45-08978516841C.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220804",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1525928487",
+            "bodySummary": "이름도 이쁜 진주 스시 moon 달 저녁에 갔는데 간판이 이쁘게 빛나고 있었다. 스시 moon:달 스시 문으로 읽어야 할지 스시 달로 읽어야 할지 스시문 달로 읽어야 할지 잘 모르",
+            "url": "https://m.blog.naver.com/ggg3545/222983629624",
+            "nick": "퐆퐆",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAxMDhfMTI2/MDAxNjczMTc3NzMyNjQw.dxn8kNEusH25CCshvKIu6Y4TFWEauaoyjWZjpl2yo74g.xLXrDepKHJi8WaKhfT77zSwUL2JErJP9MgPEfhhRupMg.PNG.ggg3545/profileImage.png"
+          },
+          {
+            "sid": "1525928487",
+            "bodySummary": "우리도 다음에 꼭 가보자 했는데 마침 오늘 다녀왔네요~ 제가 생각하는 이곳의 스폐셜한 메뉴는 1인사시미 (12pcs) 아직 먹어보지는 못했지만 사시미를 초밥처럼 가볍게 먹을수 있어",
+            "url": "https://m.blog.naver.com/soulxmate/222892822611",
+            "nick": "정온시원맘",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMjlfMTcx/MDAxNzA2NTA2NDA5MTM2.Fr7um2Jp3zehm_O5v0S9LuQBC1EGUkuKlgblFRAPI9Ug.28lIY6w7f5LhBegjAhuy6N_a3BQsvhWKogMacCJwtCog.JPEG.soulxmate/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "id": "1447314424",
+        "name": "정가네맛집",
+        "x": "128.1020508",
+        "y": "35.1750842",
+        "distance": 0.328,
+        "categoryName": "백반,가정식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220055",
+            "230043"
+          ]
+        ],
+        "category": [
+          "한식",
+          "백반,가정식"
+        ],
+        "reviewCount": 35,
+        "averagePrice": 0,
+        "address": "경상남도 진주시 상평동 275-89 정가네 맛집",
+        "roadAddress": "경상남도 진주시 공단로 19",
+        "abbrAddress": "상평동 275-89 정가네 맛집",
+        "shortAddress": [
+          "경남 진주시",
+          "공단로 19"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "<여름 한정메뉴> - 8월까지 국수(7,000), 비빔국수(8,000) 판매합니다.(부침개 같이 제공됩니다.)  - 장어국만 포장 가능합니다. (반찬 미포함 - 대신 장어국 양을 더 드립니다^^)",
+        "description": "<여름 한정메뉴> - 8월까지 국수(7,000), 비빔국수(8,000) 판매합니다.(부침개 같이 제공됩니다.)  - 장어국만 포장 가능합니다. (반찬 미포함 - 대신 장어국 양을 더 드립니다^^)",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20251001_82/1759324005686T1m42_JPEG/1000007571.jpg",
+          "https://ldb-phinf.pstatic.net/20250711_277/175224026848223QHu_JPEG/1000007059.jpg",
+          "https://ldb-phinf.pstatic.net/20250526_296/1748259928670d9VYk_JPEG/1000002445.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "230043",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

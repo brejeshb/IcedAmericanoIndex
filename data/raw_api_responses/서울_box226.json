@@ -1,0 +1,100 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 1,
+      "count": 1,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.97345370510504,
+          "minY": 37.5674009009009,
+          "maxX": 126.97459027882879,
+          "maxY": 37.5683018018018
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.97402199196691;37.56785135135135",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1216353164",
+        "name": "카페 소포라",
+        "x": "126.9740129",
+        "y": "37.5676181",
+        "distance": 0.026,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 119,
+        "averagePrice": 5000,
+        "address": "서울특별시 중구 정동 1-54",
+        "roadAddress": "서울특별시 중구 덕수궁길 114",
+        "abbrAddress": "정동 1-54",
+        "shortAddress": [
+          "서울 중구",
+          "덕수궁길 114"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [
+          "돌담길 산책 후 만나는 편안한 쉼터"
+        ],
+        "cardDescription": "돌담길 산책 후 만나는 편안한 쉼터",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDNfMTMx/MDAxNzQ2MjgwNTI2NjUy.6Mx3K3EiYWMs_FmnJqESKz8bBa2092lkB1_fW526mOMg.xwoWjXC4Vl4Ddn0fU4TT8-ALT-OnuE0p87yIbWJk6MEg.JPEG/20250502_151135.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTlfOCAg/MDAxNzUwMzE0MTEwNDM4.gGelUQQTNBWHgXXwKSlJRFkyeY5yuZBCZn2LehjzQbwg.yn4KGFBtDU453zZhv7EJ7QzQKUcmppKsa2a-8eaJH7Ag.JPEG/20250521_130011.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250805_228/1754358423569IqXkp_JPEG/IMG_9964.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTFfNjIg/MDAxNzQ5NjMxNjg1MzE3.JrqSvj5g10Kp-O7GMo46H4oCDiC-ed4j0485tNUTiuog.YTvl0BCrP0lejUZA-eXvz9eH73FyVz0HBw4Ft3ZHvC4g.JPEG/1000020593.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250805_194/1754358437725VNBgf_JPEG/IMG_9963.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MzBfMjk0/MDAxNzQ2MDIxOTgyMTA0.FP5BsfM8AE3YKTxfl4RZc8Zlbo0Y3L9-qVhgn9erjAUg.VGp6OPpiChQNU_xbJZSfA0sMCEB33D7sUK-765145Osg.JPEG/FB48CF11-3B9C-4698-8B7D-EFB5324B2E70.jpeg",
+          "https://ldb-phinf.pstatic.net/20250805_57/1754358446400e0MRr_JPEG/IMG_9961.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTNfMTY5/MDAxNzU3NzQ0NjY3ODc1.lgRGzitIm5v9hNDTae0sW_XiPJJnpk-i0iTa_qTDfY4g.5N_pRCj8jaoIeiH84yEwXSo3disC75Sxa72MNNHua6Qg.JPEG/C2EAB9AB-6CB5-4AFC-9296-D082F872CC0A.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTBfMTcy/MDAxNzUyMTQ2MTczMzUx.HjGxHZLX43iqqgfPVcXEKD9_WxEajvZ0ThKXPahATcYg.1fiFNFlenEKIgOIujqBn-i4ZkoqqDCbxhzNq9msFSP8g.JPEG/695B79AC-1DB6-479B-A594-C6657A663925.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MzBfNDAg/MDAxNzQ4NTc5MzczMTY3.bB-PY7kTHGJ2YDMg7iMIoEBUT0YLCoEX7QZ4tWGNTKsg.sxJKvex47_AgUHeVJUGJs0aUZ2lDPAiN5Xn2i8HbSl0g.JPEG/FAFE3A77-7B59-471F-BC69-E916A525D6AB.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

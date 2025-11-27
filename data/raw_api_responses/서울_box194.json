@@ -1,0 +1,503 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 6,
+      "count": 6,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.98254629489496,
+          "minY": 37.5655990990991,
+          "maxX": 126.9836828686187,
+          "maxY": 37.566500000000005
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.98311458175684;37.566049549549554",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1491227245",
+        "name": "커뮤트",
+        "x": "126.9836818",
+        "y": "37.5664929",
+        "distance": 0.07,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 354,
+        "averagePrice": 5000,
+        "address": "서울특별시 중구 을지로2가 6 교원내외빌딩 지하1층",
+        "roadAddress": "서울특별시 중구 을지로 51",
+        "abbrAddress": "을지로2가 6 교원내외빌딩 지하1층",
+        "shortAddress": [
+          "서울 중구",
+          "을지로 51"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [
+          "따뜻한 인테리어와 함께하는 커피 한잔"
+        ],
+        "cardDescription": "따뜻한 인테리어와 함께하는 커피 한잔",
+        "description": "support your happy day 행복한 하루를 돕기 위해 좋은 커피를 제공합니다.  을지로에서 가장 사랑받는 아인슈페너, 을지로슈페너를 시그니처로 직장인들에게 매일 마시는 커피를 통해 행복을 전하고",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjFfNDEg/MDAxNzYxMDUxNjIzNDM4.Hv1AcL9TV0A6ev_18TnnXneNfsZEg4BqQTULWM9q_cAg.oryJVwaxRPeCoTuDCofuOjzzJkJ38h7DRZKBTXOxRc0g.JPEG/20251010_134702.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTdfNjUg/MDAxNzYwNjYyMTc3NTc3.VTCFp84GEuDJ6dznP2JMeXIap6SZfaShfH68bfV4K48g.No7RtBn7BpKPfFSCCibBgBZLkzFYzX12GaDI1vnTMLIg.JPEG/20251014_143644.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20230822_282/1692631359943Udeej_JPEG/CE5CF6B2-ABFA-4504-9E4A-48BCEC5BDF2E.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDlfODUg/MDAxNzU5OTg1Njg3Mjg3.AtGLXV51G0Fbd3XeTxt7UZLc52LtmrtwkGwTGaJGsowg.JXi067tYxCIA9lNNHQn76zh68yeLtm3UQPHcvZi6DJAg.JPEG/A3127FDF-2EF5-4CFC-B58E-4C31929FC1C2.jpeg",
+          "https://ldb-phinf.pstatic.net/20241101_237/1730419534618sj4Ok_JPEG/IMG_2004.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDlfMTM4/MDAxNzU5OTg1NjkxMTcy.92KCSapR2IovNq2SHywcHOgr3IpWohWDAkqa2dWRKRcg.iv4ThpyaAane4hVTUMLfSdEiQ6GH2Pponuuplyu20BAg.JPEG/0CBF21CE-B349-431D-B338-30CB2308A012.jpeg",
+          "https://ldb-phinf.pstatic.net/20241031_54/1730343237136TbLg5_JPEG/IMG_1095_2.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjBfMjU0/MDAxNzYwOTUxMDY4Mjc0.w058853zBwFWTngsUQS5dJQ-Pcq2DLoSg84ljBrR8-Ag.4bjHm8sggG_yhXDTQ3DmOUJPfPC7wmi8yzBgT_XgIiog.JPEG/ED5F6988-99CB-4805-B58F-3D97B9E2A522.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDlfMTIw/MDAxNzU5OTcxNzY4OTg1.B_XSjgxyzOrCTHjFT1LNM98d1CK69LwYAtSxbvAB2x0g.2m0fz8ZHlIc7BySrcMXicqCfuEz-Db94M3G9SHnXftwg.JPEG/4CBAF732-0515-4DC4-A674-3AA4B06724F4.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjlfMTky/MDAxNzQ1ODkyNDI2MzU5.iNaccZvPaTK0uIzURzl2xB2IvZR4GAy49zzomWhfQZsg.aNsx51A2YEwS10l4bA3zIfhkB1csoeBxCGoRdPwos-Ag.JPEG/C7106F36-3609-40AE-922F-23C66A8675BE.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1491227245",
+            "bodySummary": "달달하고 부드러운 맛이라 완전 순삭!! 당충전 필요할때 강추... 말차 초코 휘낭시에 역시 꾸덕보단 촉촉한 휘낭시에 오후에 가서 금방 만드신 건 아닐 텐데 휘낭시에 안이 정말 촉촉",
+            "url": "https://m.blog.naver.com/shajung1999/223366974900",
+            "nick": "하나린",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxNzEyMThfMTMg/MDAxNTEzNTgxMDU3Nzcx.BxCJYSh7JZp9U6_ikoJiAHVERX8gD1r3qOkAyR-l5RMg.3xlYsQL-tMY70DuxOpTMG3rD4n7cg6EO8tLoI5_WWM0g.JPEG.shajung1999/xIsiRLngSRWN02yA2BbK_submission-photo-7.jpg"
+          },
+          {
+            "sid": "1491227245",
+            "bodySummary": "어떤 귀여운 아기 강아쥐 귀염둥이 아가가 세상에 태어났는데요 ?진짜 미치고 팔짝 뛸 노릇입니다..입덕부정기라는 것은 없어 그저 사랑에 빠져분것이여 단이 이모가 사랑해 그건 그렇고 ",
+            "url": "https://m.blog.naver.com/yhg3004/223358254129",
+            "nick": "핸지",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjExMDlfNTMg/MDAxNjY3OTc3MjAxOTgy.7oR_3BQf11HWehoZkafZyupBlhXBlm-UzeHWJ1AL9WIg.x_jvFZ9IVa3CVjXOeic5SeqTw_EW3IJLwXc1HymBVxEg.PNG.yhg3004/profileImage.png"
+          },
+          {
+            "sid": "1491227245",
+            "bodySummary": "사실 카페인이 아니라 감성을 주입하고 온걸지도..? 되게 추운날이었어서 멀리가긴 싫길래 그나마 가까운 감성 카페로 찾아감 ! 을지로입구역 바로 앞의 교원건물 지하에 위치한 카페였다",
+            "url": "https://m.blog.naver.com/dbwjd16244/223347461438",
+            "nick": "유자",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMTFfMTM0/MDAxNzEwMTY2NDU5MDU3.UhuMnl8GiAFKIK0XnSDUSfVEll0HlOMcmeR766TiQUcg.YXuE24ZpzvKQ__8rNdAuD9MGzOpL5HHjRbsyFTYpFv4g.PNG/profileImage.png"
+          },
+          {
+            "sid": "1491227245",
+            "bodySummary": "외부 커뮤트 영업시간 월-금 07:30-17:30 토-일 휴무 위치 서울 중구 을지로 51 교원내외빌딩 지하1층 을지로입구역 4번 출구 쪽에 위치한 카페 커뮤트 지하철을 타고 을지",
+            "url": "https://m.blog.naver.com/dbdb819/223318662080",
+            "nick": "김운더",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMTBfMjM0/MDAxNzAyMTM5MTg4ODcx.I_UEBnQKkYuu7KMXamgu1YgBfIIMLJS1IBRNfbgrVe0g.CoMY9jZoeSIJ-C_t2Nb0NO9Wb0AvpR3YiYqlLSKPIkcg.JPEG.dbdb819/profileImage.jpg"
+          },
+          {
+            "sid": "1491227245",
+            "bodySummary": "지하철 을지로입구역 4번출구 방향 지하통로와 연결되어있는 교원빌딩 지하 1층에 입점해있습니다. 이 날 마침 날씨가 무척 추웠는데 찬바람 한 번 안 맞고 무사히 을지로입구역카페 커뮤",
+            "url": "https://m.blog.naver.com/joanna124/223318374332",
+            "nick": "ANNA",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMDhfMTcg/MDAxNzA0NjUxNzE4MDAx.tsgc330accenAPmcQ5GkB6N_S4DoEZG8eWxi85A1T7Mg.V8FNf9Pf7RBsUJObtoIBzF9KmJ46SvOvNut4_eL7WWgg.PNG.joanna124/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "id": "1497292856",
+        "name": "무한리필몽블리 명동2호점",
+        "x": "126.9836391",
+        "y": "37.5656336",
+        "distance": 0.065,
+        "categoryName": "소고기구이",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220764",
+            "221440"
+          ]
+        ],
+        "category": [
+          "한식",
+          "소고기구이"
+        ],
+        "reviewCount": 543,
+        "averagePrice": 30000,
+        "address": "서울특별시 중구 을지로2가 199-22 2층",
+        "roadAddress": "서울특별시 중구 명동3길 44",
+        "abbrAddress": "을지로2가 199-22 2층",
+        "shortAddress": [
+          "서울 중구",
+          "명동3길 44"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [
+          "을지로입구역 근처 가성비 고깃집 추천"
+        ],
+        "cardDescription": "을지로입구역 근처 가성비 고깃집 추천",
+        "description": "힙지로무한리필!! 을지로입구역고기집!!  안녕하세요. 을지로입구역 5번 출구 바로 앞 신선한 돼지/소고기로 가성비있게 즐기기 좋은 무한리필 몽블리 명동2호점 인사드립니다.  저희 매장은 맛",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjdfODYg/MDAxNzU4OTQ4MzczNTIy.SqR8owV0vM8sGv5rX7w5nzGNgxSunhx-TRKUdyCBQH8g.r530ZQ0-Zsa7oDuQfzYpjw7PER77IiIrFOQJjtJUnsog.JPEG/20250927_123724.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjVfNDMg/MDAxNzYxMzk4NTIwODk1.5LteuFaQKXDUj8NXV3so_VSXS8e4-rBl6eNsYmFLdOQg.8NikN2pkXpFIF0LfjwjL4WG5S_RL6bmie0CdO0VJ8Msg.JPEG/364CB5B5-B5F6-4074-9B4C-CB79B4771672.jpeg",
+          "https://ldb-phinf.pstatic.net/20241101_286/1730448166185UvEsz_JPEG/20190902_033006_IMG_2373.JPG",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDdfMjc0/MDAxNzU5ODQ0MzU4NjAy.KyZ3IV-5fIARtAKdcJ-ozmDUR3WmtTLKQmBrlZrFti0g.7iV87eY3d0lXkaGuosLZSUkMc76OOkp8CVOIDfTo5wYg.JPEG/20251005_223140.jpg",
+          "https://ldb-phinf.pstatic.net/20241101_238/1730448330096zt9j2_JPEG/1000047181.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDdfNDAg/MDAxNzU5ODM4MDk0NDgw.RL1CLa7GdIagUvzE9hFPh1av_W35Z_i0m3VLDh4HLh4g.cwdeEvkGmzT2WjNuxVtpF3-Mr_BNVZsG4LdyOzL_Ah0g.JPEG/20251005_214149.jpg",
+          "https://ldb-phinf.pstatic.net/20241101_14/1730448335609wh5lE_JPEG/1000047162.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjBfMTUy/MDAxNzU1NjkwNjM1MTA4.x5svGZ-HnQp3YRL_XkuN7hpXO0C3qSUJA50fyE4PKWAg.o7trUfJsjQQZlF3auS5zaoDsXJ7MwqmsDGh6LUn4lskg.JPEG/2AD95660-00B9-4DA5-836D-C36229EC25CB.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjJfMzMg/MDAxNzYxMTMwMTcxMDU2.oIeGwIP-5E-2p9nb0pq-dgENgcKrs3eH4wjyQvWhHUIg.TVPr1frgnTbkzCQjSChXB0_nsdDPY_s_n6IErEOd7G8g.JPEG/20251022_191612.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjRfNDcg/MDAxNzU4NzIyMjkwMDU1.EyauHsMbY4ccFMGSJRbDGdNh7InqX80xMr6oqGJF2qsg.nN6hfP2FAS7w8gz4xh50QgxUWloI6Jp2urWqCMYZ0lUg.JPEG/BA71835F-23DE-4D96-9637-223F61E5F6FB.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221440",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 3,
+        "id": "1870196085",
+        "name": "강남 돼지상회 무한리필 명동직영점",
+        "x": "126.9836364",
+        "y": "37.5656305",
+        "distance": 0.066,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 587,
+        "averagePrice": 20000,
+        "address": "서울특별시 중구 을지로2가 199-22 3층",
+        "roadAddress": "서울특별시 중구 명동3길 44",
+        "abbrAddress": "을지로2가 199-22 3층",
+        "shortAddress": [
+          "서울 중구",
+          "명동3길 44"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [
+          "잡내 없는 신선한 냉동 고기의 매력"
+        ],
+        "cardDescription": "잡내 없는 신선한 냉동 고기의 매력",
+        "description": "명동삼겹살!! 을지로입구무한리필!!  안녕하세요. 을지로입구역과 명동역 사이 맛있는 돼지고기 무한리필을 즐길 수 있는 강남 돼지상회 무한리필 명동직영점 인사드립니다.  내 월급 빼고 모 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTZfMjIy/MDAxNzYwNjIwNDQwNTc2.WrebTh0XWY8X6j5o3rrF8sIHjevbJ3kD9B4ObqVdalIg.hqh1tsHT9GlqPMddPJ1uxy0XGwuWL-bktEnhOvFyrbYg.JPEG/2D31F006-F9ED-4B78-8D57-E08BB6103B8B.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDFfMjIy/MDAxNzU2NjgzOTE2NTAz.pXcCQhAi02C4eaNvUWCiUgGHjV5vUvlzEdTN_Km8CIIg.tFQ3cXKJXqJJpes-MziGyYtEFoxQaKU_JhRyq0fhqs4g.JPEG/D45AA658-C689-47B6-B97F-01C703B14FD4.jpeg",
+          "https://ldb-phinf.pstatic.net/20240822_201/1724312060900tNfqo_JPEG/1000047182.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTZfMjc5/MDAxNzYwNjIzMTYwNDUx.7u_zD0L5LuAv0TNPsXnL0NE5NjHpKvD-539PZM_HEqEg.Azy8uR2LdQZdhv3XaKJRbrhuPgHmicNH6nbVPw_nxXgg.JPEG/A13C304C-BD7D-4C70-A211-A5FDDF10FA54.jpeg",
+          "https://ldb-phinf.pstatic.net/20240822_40/17243118731207Ib8k_JPEG/1000046863.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDJfNjUg/MDAxNzU2ODA5MTExMTMx.b2NoVmmggT4tWHc7NZziGU5hsAE_s3BnHa0Bmf1OEKog.vbqd37DDQifIJWvuQvjEeV9yHZzdSNUmezMvDAhhfCog.JPEG/597A5583-7FE6-4952-8686-F343FB79C422.jpeg",
+          "https://ldb-phinf.pstatic.net/20240822_8/1724311873096wyMU0_JPEG/1000047106.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjZfMTEg/MDAxNzYxNDA1NTAzMDI0.IvXmZmxJ_TMtcCfO-N_0vPOhz5DPGiJcaDlevOO5LSgg.ydzlSIDX1qZtZqLulCtkeycqwKKrXaLDQGNNRcqqDCsg.JPEG/66D91896-8C83-45CD-835B-E3AFABD989EC.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjhfMTgz/MDAxNzU5MDM3MzAzOTE2.45_3HnXNQszf46_qn8wcJH05o4WiH7d7XMkErFNZzTcg.K4PUB7xICJ4Ukv-peihv-eAO45HiqiKbjvLvPHxjfFwg.JPEG/573AE682-BF75-4A6B-B6C8-66F665686BC2.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTAzMjhfMTA5/MDAxNzQzMTQzNjI5MTE3.Y1ow5t3aFgfU50gnkpVlM1cEPFlPMPvnbWAzoy1ypNcg.o2wm93Lqu9z1VJEihwMvYpNNWiwjgPhFgcXStkQORHgg.JPEG/DA7F998B-69E1-4962-B405-EBF6AFD75AE5.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 4,
+        "id": "2053206934",
+        "name": "싸다김밥 을지로입구역점",
+        "x": "126.9836405",
+        "y": "37.5656326",
+        "distance": 0.066,
+        "categoryName": "분식",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "1005234"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "분식"
+        ],
+        "reviewCount": 216,
+        "averagePrice": 5000,
+        "address": "서울특별시 중구 을지로2가 199-22 지하1층",
+        "roadAddress": "서울특별시 중구 명동3길 44",
+        "abbrAddress": "을지로2가 199-22 지하1층",
+        "shortAddress": [
+          "서울 중구",
+          "명동3길 44"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "싸다김밥 을지로입구역점  바쁜 하루, 잠시 쉬어가고 싶을 때, 작지만 든든한 위로 한 줄, 싸다김밥.  을지로 한복판, 사람들로 북적이는 거리 한켠에서 갓 만들어진 따뜻한 김밥 한 줄이 당신을",
+        "description": "싸다김밥 을지로입구역점  바쁜 하루, 잠시 쉬어가고 싶을 때, 작지만 든든한 위로 한 줄, 싸다김밥.  을지로 한복판, 사람들로 북적이는 거리 한켠에서 갓 만들어진 따뜻한 김밥 한 줄이 당신을",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTFfMjU2/MDAxNzYwMTczMDk5MjQx.IOmfhcpkW1krWfGFYolMxBYGLGMlB_SGVv4ksJB9yFQg.r6edSFwsndrBRqihaNWDc9xP3HFtF8dPrz7XL-B66GUg.JPEG/C96DBF72-1F44-4F32-8023-F3B6B494106D.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTFfODQg/MDAxNzQ5NjExOTQ2NTE2.91gKoDqMyImEJfuXoH5svL43p8MNOVAqdqx5uUM-2aog.dt6EddnjpiTA5ozn28I-ln4T25B9E8HKgvNDWW9Koa8g.JPEG/E1924F80-C859-4AFB-8D93-D74CB4524AC8.jpeg",
+          "https://ldb-phinf.pstatic.net/20250909_126/17573769466769fQ0l_PNG/naverlogo.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjRfMjAy/MDAxNzUwNzQwNzU5NTQ5.8G92PJ1cna9oOiqYt0gVstvuXVXTGVY301-7o7s_evgg.xPngp8k0oawDhU7YbZ2foVOdrjKHzo4WOW6NP65U4iEg.JPEG/DE7F7242-8946-4E36-B079-0A047A82D73B.jpeg",
+          "https://ldb-phinf.pstatic.net/20250508_241/17466960463804lycr_JPEG/1000019295.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDhfNjgg/MDAxNzU3MzA0NjQ3MjYx.1bK7p0-gB7hrmwBXuewoQ4AknbkPCBXKdQoUJvxkBY4g.g7OljaKY9HMMJBmIY90Emay5pP0IuGtlhZbue5ep5oQg.JPEG/ECA38C53-0677-44B1-A0DE-DEC9E1372484.jpeg",
+          "https://ldb-phinf.pstatic.net/20250519_201/1747613863113XjkJl_JPEG/1000024479.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTNfMTU1/MDAxNzU3NzM5OTY4NDIy.QvlpcuCZoERQMnI790qj6SIvKcMR06g5rgp36AJe1QUg.4T6bKZNgNPYlHWuOr8CsBvctI4KH1Y2BXmTKXIFtuJMg.JPEG/1C7374FF-1707-40A4-B28D-FD198B616589.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTlfMjE2/MDAxNzQ3NjUyMjkyMzYy.A7D_JM04hzrqdDy2oF0I--lp21wPnnohKPP1eOnQgsMg.iSLJROCw65iAIeBYn8o0RBrMsQQFcijfAoN7h_VMnBgg.JPEG/3ECD05A9-CD7F-455E-B317-3A938F8F7E8C.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTVfMjA5/MDAxNzQ5OTYzMTUwMTY2.J7D88EXsa30_HaqmapY2Tfmpmrt3p-D927sipRkvhhwg.UyMyDoiy6-3ZCVVMicXgVAhW5p-YRoh0zILph71DS_Eg.JPEG/20250615_135123.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1005234",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 5,
+        "id": "20669049",
+        "name": "스타벅스 을지로한국빌딩점",
+        "x": "126.98329",
+        "y": "37.565722",
+        "distance": 0.04,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221275"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 5970,
+        "averagePrice": 6000,
+        "address": "서울특별시 중구 을지로2가 198 1층 (을지로 2가)",
+        "roadAddress": "서울특별시 중구 을지로 50",
+        "abbrAddress": "을지로2가 198 1층 (을지로 2가)",
+        "shortAddress": [
+          "서울 중구",
+          "을지로 50"
+        ],
+        "displayContext": [
+          "카페",
+          "케이크"
+        ],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 을지로2가 198 1층 (을지로 2가)",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjdfMjYx/MDAxNzU2MjgzOTYwMzY2._t2MqVJBaAj_CyqgKxRuTAJ8qzWCL1h6pQd7rZ8ZuCcg.o6vZXGBUfmusagIyqdJzJUMGq4yvnM-zwFGK7vWB-IIg.JPEG/D6FD4423-68ED-4D37-9B07-457FAC827045.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTJfMTkg/MDAxNzU0OTk3ODUyMTgx.HZULSp_TEsyW_fE1q9bTgalv_6L-GRo6JgSUB8hypoQg.AlySMMONvsfPJCLUjS0s6LM8XdO9V0ZJeUCrua0cEF8g.JPEG/20250812_125307.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20190828_93/1566953601239OT9MQ_PNG/xX7Wv642gXMoTI0DAv0hRymS.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDFfOTMg/MDAxNzU0MDIxNDU2NTk1.7taXDiiUO17ojWuBoGaGDTABP1UFcPgZqbvZGE0qtjMg.xi84GNoL2y9oR65smFt6h2Edk5ZuVWCFF0-u34vOy3Eg.JPEG/D89FB396-61D3-445C-A90F-D90A307509F9.jpeg",
+          "https://naverbooking-phinf.pstatic.net/20240830_167/1724960933826BB4mx_JPEG/image.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDJfNTgg/MDAxNzUxNDMxNTczMDA0.b7UUYf07QURo5b-izIlUByEhP0YwkXJoxzZucy3g07Ug.A6zZ7nfMlnDREkss-xE9X89HFB0593zMqTDErPePsKsg.JPEG/1BE645E7-A82E-49BF-BA23-C50D6C1B305B.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTFfMzEg/MDAxNzUyMjI5NjMwNjUw.q4NHDLLfRiaQLJYm6wMgrEvgPx1JfpGnMq5kiUGQGlQg.UcQZ-cYCY8Ytoi3qwQCKWdSyHaKFHB8pHPyHlFz-Mjwg.JPEG/20250711_162440.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTZfNDQg/MDAxNzUyNjI3NDc0OTE4.C8zYEs1loViGq_g4QNLyx50zk7q89hJdC02bI53fxQ0g.SkCxS2TIXwCTyj1DT1uoVqC4Rr2t2u_FrkGdp9QpCy8g.JPEG/D27989FA-B54E-46E6-B97A-91F2653E8C5E.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDVfMjM3/MDAxNzUxNzE4MDQxNDQ5.-j2-GiGqvsWKk2xTU9JP27oKD1IMqflu_M5RLKmlLz8g.DmhbtSdRxFZZwcMsxDPxVIuSb-D3EfgQsJatuSUbSz4g.JPEG/51D5D8BE-0861-4654-AE67-AECCEB4CE96C.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTRfNTEg/MDAxNzYwNDE1NDg1MDc3.0ggQz2qcCUqLjdu3MbzxAkE-pb1WOmL57FaCaZvnwt8g.tuY8VbRDCNW4KKJCD6uK69qCMbarNes4StlrmjkHwsog.JPEG/20251009_152852.heic.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221275",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.51",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "20669049",
+            "bodySummary": "을지로입구역스타벅스 는 을지로입구역 5번 출구 바로 앞에 위치해 있는데요~ㅎㅎㅎ 2023년의 마지막 날, 듀리님과 명동성당에서 미사를 드린 후 점심을 먹고 #을지로입구역스타벅스 에",
+            "url": "https://m.blog.naver.com/lhls0314/223315031275",
+            "nick": "파파부부",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA4MjlfMjAz/MDAxNjMwMTg1OTU2OTU2.XJm0U5CME8uspuzKpMA7PB-6nMQMdPnjx0OKHyrIg5Qg.1PwuQ7mlEgRPJ0phEgPGoiO7et47rBaXx4enizHBKU0g.PNG.lhls0314/profileImage.png"
+          },
+          {
+            "sid": "20669049",
+            "bodySummary": "그렇게 힘들게 집에 갖고 온 2024년 캘린더 ~!ㅎㅎ 너무 우드 타입으로 예뻤네요 ~~ 첫 장에는 24년도 전체 캘린더 나오고요 캘린더 일러스트 활용법이 설명되어 있어요 :)1월",
+            "url": "https://m.blog.naver.com/mkkhboy/223301929926",
+            "nick": "먹팔계",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjExMDVfMjg1/MDAxNjY3NjE5NzA5MzY0.MuKUsOELJRHUon65qu4p79bnUfqXQHVKPDUO8vKr_q8g.RYAhIFO4wG1K9rgMTKnqKSN5jeQVxdeZcOOijGR5j_Eg.JPEG.mkkhboy/profileImage.jpg"
+          },
+          {
+            "sid": "20669049",
+            "bodySummary": "스타벅스 다회용컵 보증금 무인기 반납 재활용 방법 #스타벅스다회용컵 #재활용 @ 을지로 워킹맘의 소비기록장 작년부터 스타벅스에서는 환경에 대한 집중도가 높아지면서 일부 매장에서는 ",
+            "url": "https://m.blog.naver.com/kkokkoming22/223294015807",
+            "nick": "꾸꾸밍",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMDVfMiAg/MDAxNzAxNzc4ODMyODQ5.qUzL2IbRgWixHjY92n2gBZwVdVVK50nstjcMGndEJEog.raBeBw7IIyRr7GsEuDLCmWJtOKkicB6LMHQzvW8Dd6og.JPEG.jaydaaa05/profileImage.jpg"
+          },
+          {
+            "sid": "20669049",
+            "bodySummary": "위치 및 정보 위치 : 서울시 중구 을지로 50 명동과 을지로입구역 주변에 스타벅스가 정말 많이 있네요. 제가 들렀던 곳은 을지로 한국빌딩점이에요. 크리스마스 원두 스타벅스 크리스",
+            "url": "https://m.blog.naver.com/dreamgirl_yum/223275260601",
+            "nick": "드림걸유나",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA2MjVfMjgg/MDAxNjI0NjExODM1MTcy.3cjIbTd68hz9aI5aOMKgAZRkcjP96L32UE65HPFcnAgg.DGJZw1M-Zg4K2_cBCQxa33SfSl6UWbJG62lRO7In2Nwg.JPEG.dreamgirl_yum/%25EB%25B8%2594%25EB%25A1%259C%25EA%25B7%25B8%2B%25EB%25A9%2594%25EC%259D%25B8%25EC%2582%25AC%25EC%25A7%2584.jpg"
+          },
+          {
+            "sid": "20669049",
+            "bodySummary": "명동 놀러갔다가 커피 마시고 쉬려고 갔어요. 내부는 넓지는 않습니다. 역시 서울에 있는 스타벅스는 항상 자리가 없네요. 대신 회전률이 괜찮아서 창가쪽 자리에 앉았습니다. 맛있는 디",
+            "url": "https://m.blog.naver.com/dbstprnjsrnt/223236042525",
+            "nick": "Y story",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTA3MzFfMTQ1/MDAxNTY0NTc1OTExOTgy.3eAv7lbW8h7jv_AxNkyI3VI6BZrl5h5x8yYkjT2MCY8g.7g81uug1s27eCxlahry-fU1qqCGPolX7xNcEAg8cqbIg.PNG.dbstprnjsrnt/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "id": "37232470",
+        "name": "민샌드위치",
+        "x": "126.9836492",
+        "y": "37.5660553",
+        "distance": 0.047,
+        "categoryName": "샌드위치",
+        "categoryPath": [
+          [
+            "220036",
+            "220044",
+            "220137",
+            "220994"
+          ]
+        ],
+        "category": [
+          "양식",
+          "샌드위치"
+        ],
+        "reviewCount": 206,
+        "averagePrice": 5000,
+        "address": "서울특별시 중구 을지로2가 9-7 103호",
+        "roadAddress": "서울특별시 중구 을지로 58",
+        "abbrAddress": "을지로2가 9-7 103호",
+        "shortAddress": [
+          "서울 중구",
+          "을지로 58"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 을지로2가 9-7 103호",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20200401_17/1585713741841k3w0S_JPEG/_ndKBSWDwvzZNOGOcho6m3Fg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220994",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

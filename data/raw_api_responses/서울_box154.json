@@ -1,0 +1,1560 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 18,
+      "count": 18,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.98254629489496,
+          "minY": 37.5637972972973,
+          "maxX": 126.9836828686187,
+          "maxY": 37.5646981981982
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.98311458175684;37.56424774774775",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1401476830",
+        "name": "어펜드커피로스터스",
+        "x": "126.9834312",
+        "y": "37.5645736",
+        "distance": 0.046,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 2373,
+        "averagePrice": 5000,
+        "address": "서울특별시 중구 을지로2가 199-46 충일빌딩 2층",
+        "roadAddress": "서울특별시 중구 명동3길 17",
+        "abbrAddress": "을지로2가 199-46 충일빌딩 2층",
+        "shortAddress": [
+          "서울 중구",
+          "명동3길 17"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [
+          "시그니처 커피와 함께하는 달콤한 시간"
+        ],
+        "cardDescription": "시그니처 커피와 함께하는 달콤한 시간",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTRfMjYg/MDAxNzYwNDM5NTc1ODUy.sqPL1PpedUITbegwXsTDCZn_F5xghOlK5geuVDbhyZ4g.OeR3St4An-s-lOVeTP4Y_a1cn_onBVXpGsGX6N78A2sg.JPEG/1000127353.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjdfMjgx/MDAxNzQ1NjgyNjA2MTYz.vlMCpcDLTrMS_zuv5INule_PWIQS_bXn8imEpHNXGzMg._N5GnM2BXzAQK5fiHhXduqsuyGd1LgSbIRwIswqi3dwg.JPEG/20250423_194154.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20220322_213/1647906215223abt63_JPEG/E20B3C06-F45D-4532-B6F4-65C2593ED0E8.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTNfNDcg/MDAxNzU3Njk4NDExNjI1.YZLWkAmC5k4i0R-nXI-Kp_IlIZZ6hUJiAero7SlUKM4g._Cfvx2ElhOM_omz5qGVaI67LRJ2sA1SdKmB7N69gmogg.JPEG/20250911_162421.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20220322_289/1647906214101jVleE_JPEG/6A425D99-BD7D-4EBF-BEF2-5D4DEB00B5FB.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjFfMTcw/MDAxNzU1NzQ1ODY2NTIy.i1qldCv-5X0rReTlOexuadOgFFlKT8CLdPUBEbOFkSog.egmKmoe2gHPh7e5zuJFNGDhmlrvb3KfeQ5eAVdMkxWwg.JPEG/39A01A40-B7E2-43BD-AC64-F6DD05D21E8B.jpeg",
+          "https://ldb-phinf.pstatic.net/20220322_152/16479062510154SpqE_JPEG/2E43635A-5098-4395-9712-A34B23B246C3.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjBfMjg5/MDAxNzUyOTgyODUwOTQ5.NoMLrOXUMWyyrQDvKRB67ENFHwLDTe5lXznic3iFcKIg.LCWTJtfWaWnf06sq37TkbZhogiI5etXKmYQt083lsvwg.JPEG/D3E456C5-CBA2-4ABE-850D-661E59F372C2.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDlfNDUg/MDAxNzQ2NzM2MTczOTYw.MT1jtrd8fEi5cZGXJBN90124HRhB8ZBYi4StAnCtSzcg.koOH-r82FjZ7lUVihBdttYDj0VWsRrKL70NCZed0i6Qg.JPEG/20250505_165239.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjRfMTc0/MDAxNzQ1NDY5MDQxNDU5.1F2l1J8_TAoUtFkv8z4Sd_kfXBenjHP6yHaHy0c8mogg.GRPy7w0FPrAkLYyFWLg5wHGlHY7RFFycKXPC0BLcSWcg.JPEG/C9EB9511-56CF-4ACE-B1D9-02C10472AEA0.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "1401476830",
+            "bodySummary": "그리고 필터커피로 더 다양한 커피를 즐길 수 있다 :) 500원 추가하면, 우유대신 귀리로 변경 가능! 그외에도 논커피 메뉴도 있고 포장 주문할 수 있는 콜드브루도 있다. 원두도 ",
+            "url": "https://m.blog.naver.com/ddu2ver/223352680630",
+            "nick": "DD",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAzMjBfMzUg/MDAxNjc5MzIzODgxNjE4.EEMKGb03uQF0gADPHs7ZXM0VZYo57v2o7zrFGShs-esg.9gAZzAlNH4IWZHBfH8i8yy65XFy_PcdKCfTpEvY2aQkg.JPEG.ddu2ver/profileImage.jpg"
+          },
+          {
+            "sid": "1401476830",
+            "bodySummary": "전날에 술 마셔서 카페인 금한다는 옆분은 밀크티(ㅋㅋ) 그리고 이곳은..단연코 휘낭시에 맛집ㅠㅠ 내 최애 디저트인 휘낭시에까지 맛있는 카페라니,, 단골이 되기에 충분한 이유,, 스",
+            "url": "https://m.blog.naver.com/felizmente79/223343857968",
+            "nick": "여니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMDdfMjQ5/MDAxNzA0NjE1NDE1MjA1.6p8PFoMWWU79Eb17XmhuZKAzK9YzjsB6o6R-aS1JOIog.zvq_xaqymqX7H11yHu1qT-9CeTHR_VF0YbedOa8MCC8g.JPEG.myyouk98/profileImage.jpg"
+          },
+          {
+            "sid": "1401476830",
+            "bodySummary": "커피 원두도 구매 가능한 곳이었다. 내부 인테리어가 깔끔하고 심플하다. 플레인 스콘은 버터 향이 가득한 스콘이었다. 냄새가 너무 좋았다~ 소금이 올라가 있어서 짭쪼름ㅎㅎ 라떼는 커",
+            "url": "https://m.blog.naver.com/yhywith/223313596916",
+            "nick": "야옹냐옹냥냥냥",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA4MTZfMTQ3/MDAxNjkyMTg5MDI0NTE1.HV83E2yXeSgWw9eBofAaYCPPfa0HcGfjQzX2qwujICAg.ZQTyxpBnEyewy4Qn2hGCIoPAl0mkPifl4ojXXMzlxOAg.JPEG.yhywith/profileImage.jpg"
+          },
+          {
+            "sid": "1401476830",
+            "bodySummary": "연말에 분위기를 느껴보려고 간만에 찾은 명동! 명동에서 늘 먹는 칼국수를 흡입하고 카페를 찾다가 원래 가려던 곳이 만석이라 다른 곳을 찾았다 결론은 성공쓰 ~ 명동인데도 붐비지 않",
+            "url": "https://m.blog.naver.com/j_imdang/223310136642",
+            "nick": "제이임당",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxNzA2MjhfMTc0/MDAxNDk4NjE3MDA3MDEz.N1HmlN44DwRHSTEakS_w9M08YotVYg3sQbrbDdsNOPYg.NE0A3rRkmVuN0URP7T-uNYZHzU7pfeSbo6agAuQIk2kg.JPEG.j_imdang/profileImage.jpg"
+          },
+          {
+            "sid": "1401476830",
+            "bodySummary": "어펜드커피 로스터스 주소 : 서울 중구 명동3길 17 충일빌딩 2층 주차 : 불가 전화번호 : 0507-1353-5167 영업시간 :평일 9:40-22:00 / 주말 10:00-2",
+            "url": "https://m.blog.naver.com/dlalswl1268/223309905807",
+            "nick": "밍띠",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA0MThfMTMz/MDAxNjUwMjE0MjAyMDI4.Fl5-ZeVxD6GwhDB9rAI2_M2aAgdUPaPtBqGTB8IWgN8g.ZRGEtj8AXRvEuDmwiH_2UBrOxK8tVcpUAlUqUpu68Ycg.PNG.dlalswl1268/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "id": "1054209629",
+        "name": "효담칼국수 닭한마리 명동본점",
+        "x": "126.983632",
+        "y": "37.5642444",
+        "distance": 0.046,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 7107,
+        "averagePrice": 17000,
+        "address": "서울특별시 중구 명동1가 59-25 B1층",
+        "roadAddress": "서울특별시 중구 명동3길 12",
+        "abbrAddress": "명동1가 59-25 B1층",
+        "shortAddress": [
+          "서울 중구",
+          "명동3길 12"
+        ],
+        "displayContext": [],
+        "labelTheme": "혼밥추천",
+        "microReviews": [
+          "깔끔하고 친절한 명동 닭한마리 맛집"
+        ],
+        "cardDescription": "깔끔하고 친절한 명동 닭한마리 맛집",
+        "description": "[ 효담칼국수 닭한마리 명동본점 ]  바쁜 일상 속에서 따뜻한 한 끼가 그리워진 적 있으신가요? 그렇다면 효담칼국수 닭한마리로 오세요. 저희 가게는 바로 그런 분들을 위해 문을 열었습니다.  ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMThfMTE3/MDAxNzYwNzg4NTAzOTU2.6d1vz3vzqVNvmTO1eGanP9Dt8iSDvF28e6DrDoU_g4Ig.FbMRF7f6klBxjmcSyXuLSDwxOc0P1cZiP2NupH-jMmQg.JPEG/561FAD5A-C3FD-48CC-8E15-A0E98AAAC5B6.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDhfMjQx/MDAxNzQ5Mzc2NTc2NTM2.2lKRfHcwnMRkVWxGAJlWti_81QhLodJZKasmT87W3VIg.bLyO_U0wH3LLkcc7Bzjbmx65lHTqMdYf_6TqextmmE0g.JPEG/1749376467548.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250701_24/17513537920484LGK5_JPEG/IMG_2421.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTNfMTgz/MDAxNzQ0NTMyOTI5MjE4.wFWgmCdHvCF-vZk9y_C6vSwhINQPCdsViUd4BF5oVoEg.j3RgIuSA3XUdUeT25sM0EC0wzoG-R7aQRV9ePffyLFEg.JPEG/20250413_171755.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250701_101/17513538293358ONeX_JPEG/IMG_2535.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjFfMTc4/MDAxNzU4NDI5NDU1NDQx.whQHO9jX996w2ZUcdSWYZ5tewkuuO_lhrIcEEBOeysAg.-1F-sDbhImuutJozJ-Nfo-9aUEdNLV3Suy0zxB0FJRQg.JPEG/C2ABA9B6-8FA8-4062-883E-B43E5E634748.jpeg",
+          "https://ldb-phinf.pstatic.net/20250701_209/1751353832866xHABA_JPEG/IMG_3607.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjRfMTQx/MDAxNzYxMzAxNzMzNDc2.5Caxm0LrGUTGmdcccOyr_OS8_Gov96Ux6wGYORV2GRYg.dlqNUW7reMj-j4RbEAMyMekHyvJd1-eD03er3wJjkW4g.JPEG/D467BD73-6428-40F4-934F-DF5E70DFC48A.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTVfODgg/MDAxNzYwNTExNDYyMTY4.SUmGjlTtI3lWxy1WpdgbYtjnDH0eJ5TteFlXbpH5te4g.o-8jsoa1wFKJ_OXa0GBjg0KBB1FEuEYLD0j7t1k_alUg.JPEG/20251008_191501.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MzBfMjQz/MDAxNzQ4NjE0NTU5NDA1.672ZMPerf9tVcVDlvQMs6awlaGhe1wnB90QB6ZX00mMg.UHlWwpt3R7Lc9uxkTJgoappbkKaaYhOCisneMvNGsYMg.JPEG/9AFF04E4-9B55-4D34-A298-D0E83FD5CB64.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 3,
+        "id": "2023444382",
+        "name": "원당감자탕 명동1호점",
+        "x": "126.9831513",
+        "y": "37.5645803",
+        "distance": 0.037,
+        "categoryName": "감자탕",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220067",
+            "230979"
+          ]
+        ],
+        "category": [
+          "한식",
+          "감자탕"
+        ],
+        "reviewCount": 37,
+        "averagePrice": 10000,
+        "address": "서울특별시 중구 을지로2가 199-50 1층, 2층",
+        "roadAddress": "서울특별시 중구 명동7가길 22",
+        "abbrAddress": "을지로2가 199-50 1층, 2층",
+        "shortAddress": [
+          "서울 중구",
+          "명동7가길 22"
+        ],
+        "displayContext": [],
+        "labelTheme": "24시간 영업",
+        "microReviews": [],
+        "cardDescription": "맛으로 승부하는 원당감자탕 명동1호점 재오픈 합니다. 장소는 변경되었습니다.",
+        "description": "맛으로 승부하는 원당감자탕 명동1호점 재오픈 합니다. 장소는 변경되었습니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDhfMjA3/MDAxNzU3MzAwNDczNzMy.QxZ9v8qd218hQ4TgI9DhjJBCV8R_mBNl84kS7VRHzbAg.odzL_xlURf91MPne6cRtP7KpBXP8NXP3bjTOGl17XBkg.JPEG/20250908_115955.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjRfMjMz/MDAxNzUzMzM2MDQ1NjMw.pgykI2-6kPJdNuGwInW1mJ5KquSuY72c4Aiv2ecfwacg.PYGuvzMttXXis-vliHjaonvANlwgub2n3wnjf4y90EIg.JPEG/IMG_3577.jpeg",
+          "https://ldb-phinf.pstatic.net/20250723_164/1753259607853xIzeT_JPEG/KakaoTalk_20250723_173226687.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjdfMTY4/MDAxNzUzNjEzODA0NDcz.yV6GHZFRUXZiYNA_N__LZDXl3StKrDOJOhL0kEuswYMg.ntWlwyNYh5vbypA3GcyNCuLzHmOgndQZF3Q1q60HD4Ig.JPEG/1753612356939.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250723_184/1753259607738uV1g5_JPEG/KakaoTalk_20250723_173237569.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjBfMjkx/MDAxNzU4MzQ0MjA0MTA4.amOtYacIKewh3UCLOdR6HyQO3Ri164mixvXKXN8OGz4g.taEjuJG9UmdFMbhEmlkxwnp1ITuIUqeEqlGjhS9tg4Eg.JPEG/20250920_132527.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250719_154/1752898761834g38di_JPEG/1000023467.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjNfMTYg/MDAxNzU1OTM5NzIyNjEz.4OfJSfoRjFOIXjLyZctQ16MYr4FVN_FQGjBJFTz3cqMg.kaVLcERKXITMIE5I0LcCRDUS5-hq665f1Q0t3Q6ccpwg.JPEG/CE53C41F-3F80-49B1-8818-C073CD94D54C.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTRfMTE0/MDAxNzYwNDEwODQ4MTY3.ALu88AuhU85SgmFIbWNyeLUAjxZIToC-4k16f4y_4x0g.qsMTf3rukwq631BEbDNiZnq6wFWs0xyKMwz2aH72b5Mg.JPEG/1000013776.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTRfMTI5/MDAxNzYwNDM1MDE5MTIy.c9Ba_YftUWCdGDzhkIZqKVo056Zm5RLQBU1LMKClTAgg.eNpdHeUelP2qSy43ZhgsR-Mbb6qg36ZjPVH_vHxdZ70g.JPEG/1000039674.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "230979",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 4,
+        "id": "1057587691",
+        "name": "종로수제비 명동본점",
+        "x": "126.9836685",
+        "y": "37.5646444",
+        "distance": 0.066,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 451,
+        "averagePrice": 5000,
+        "address": "서울특별시 중구 을지로2가 199-40 아르누보센텀 1층",
+        "roadAddress": "서울특별시 중구 명동7길 21",
+        "abbrAddress": "을지로2가 199-40 아르누보센텀 1층",
+        "shortAddress": [
+          "서울 중구",
+          "명동7길 21"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [
+          "명동의 대표 한식 맛집 종로수제비"
+        ],
+        "cardDescription": "명동의 대표 한식 맛집 종로수제비",
+        "description": "매일아침 직접만든 육수와,김치 손으로 직접만든 밀가루로 빚은 정통 손수제비입니다 각종전과 다양한안주로 명동에서 보기드문 넓은매장에서 쾌적하게 이용하실수 있습니다",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDlfMjAy/MDAxNzU5OTg4MTA4MzY5.HyeQS5PCDE2scWIhzCCjyQFoMAIKOI7cZbPrw-0nFukg.__1GKMcoHZe3aD0I_PXQLojggjVz-qaChQGw4169fucg.JPEG/20251007_174816.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDZfOCAg/MDAxNzU5NzQ4OTE0Mzk1.6QSjlHUtr9dzKz6Gbtp7hLoQ2Cc-qrthgP3LvXUUC_kg.AwdHMn7PiV6uGS0MgZHLHPcS8De3luaRLuxJx7neRHkg.JPEG/20250930_205656.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20230823_191/1692743398329hzLeT_JPEG/IMG_4536.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDlfMjc3/MDAxNzU0NzE3OTk0ODYx.sxkELTxXFZ03sDjnJHUNxJ8zFfYGDlyZ-BFzQSEq7I8g.cVgCQQp2Xui0WvFJxZqAsupwye5RJylVEDC4o6HwGI8g.JPEG/B119F620-ED83-4802-867D-BC97BDF2F632.jpeg",
+          "https://ldb-phinf.pstatic.net/20230826_27/1693028645051JgxFI_JPEG/1693028631421.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDhfMjMx/MDAxNzU0NjE1NjAwMjE5.k3ibxUqBI4vpqF55_Wrz-VsBE24kM-OJ7r5owYsWxKkg.oOFUDXpC0XW1uTrYP3ewC-DvygcwqfA12vZ9HWOzy04g.JPEG/20250807_172719.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDdfNzcg/MDAxNzU3MjUwMjU4MTg3.ub-9k6Fb_2xEbQ_mVi53pz7ECmarG4wzCS7K8CMonVcg.5uCMrx1wMllxyc1Zxng5IvaE59KYw704zPpVEjvuREAg.JPEG/D4A7CC49-986C-4C1F-8173-53DC26C6BE74.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjlfMjc3/MDAxNzUzNzQ4NzI0OTEw.fOD4UkzVbhABZ4Gc1rqVE1x1iIWyFj-0mitlPxej7-0g.yjgmfg_dsn62qFA-UFEpPvJB90EeWjL-oKq8-xcMuJMg.JPEG/20250726_183146.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDlfMTIg/MDAxNzYwMDEzMjQ3MDYy.9zpmCQC_WOTJhRHgO14rjt5ypQgLvtTxCQHY6KyqUJcg.nqRqZ8VlgScwtucwfeiSgqL8eKIafIm-mCNy8ucEHawg.JPEG/20251008_132436.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTRfMjUw/MDAxNzQ3MTg0ODM4NTgy.tNn9IyPpBXYjfZ7YbDuElcpQGuXLEV6p2ceJ9VY9N80g.R3lbQeuNRGlT5Lf9ex7j3wgRu_ctv98r4lPfCbCzm50g.JPEG/DCE01C19-6F84-4E34-BD49-15F7D714C446.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "1057587691",
+            "bodySummary": "한동안… 푸욱 빠져 살았던 종로 수제비 간판은 요롷고요..!! 들어가면 옛날 잘사는집 같은 느낌 ㅎㅎㅎㅎ 난 이것만 먹어서 다른 가격은 없다.. 국물이… 맑은 조개 국물… 수제비는",
+            "url": "https://m.blog.naver.com/womy170/223376172897",
+            "nick": "HYO",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDExMjJfMzYg/MDAxNjA1OTgyMjI0NjY4.zy0fCxiXGQCdFWoka--6ovA2NulGcg_2wQx3_8q6uxgg.ujnh8pHTSzMT-FUS0z0ApJLmEdzVVkjSAdj5s7SaSB8g.PNG.womy170/profileImage.png"
+          },
+          {
+            "sid": "1057587691",
+            "bodySummary": "이사가기전 할머니집이 저렇게 나무 벽이었는데… 메뉴주문은 티오더로 회전율 꽤 빨라요 직장인분들 점심 식사 장소로 추천 얼큰수제비 9,000원 손님 90% 이상 수제비 먹어서 그런가",
+            "url": "https://m.blog.naver.com/dolcevita71/223370913449",
+            "nick": "인정",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxODA3MDlfMTI2/MDAxNTMxMDY3ODkxNzMy.ecGSgFZeS-4XMKFva_pRsCI3BvQSObqtTLVgvFcnI9Mg.JRfXtoLWQv-0kmloaG6W2e2r9LkZWehoSYhzgW41lwgg.JPEG.dolcevita71/profileImage.jpg"
+          },
+          {
+            "sid": "1057587691",
+            "bodySummary": "아무래도 명동은 외국인 관광객들이 많은 편이라서, 한자, 영어, 사진으로 메뉴가 잘 설명되어있었다. 그렇지만 가게 내부는 전부 한국인들뿐이었다ㅎㅎㅎ 2층은 안올라가봐서 잘 모르겠지",
+            "url": "https://m.blog.naver.com/minin7988/223361537511",
+            "nick": "또니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxODAxMTFfNjUg/MDAxNTE1NjUyMDg1MDMw.-jNKuC-ZhdA7WQjoefSQHd_Wiv95AKoDseGM75FWmnMg.UkxEJkMOGeEODgU6PoQCTvhtvpm0I6gFyb0N8nYJ4Bog.JPEG.minin7988/profileImage.jpg"
+          },
+          {
+            "sid": "1057587691",
+            "bodySummary": "#명동 맛집 #을지로 맛집 #직장인 맛집 #종로 수제비 안녕하세요^^ 오늘은 오랜만에 외식을 해보았습니다. 구내식당이 있어서 좋긴 한데 내키지 않는 메뉴 나올 때 가기 싫어 지잖아",
+            "url": "https://m.blog.naver.com/ssongda12/223360267646",
+            "nick": "효옹",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMjVfMTc1/MDAxNzAzNDk3MDgyMzA3.7m7JpcXYVyFJ0P9mJJGncueGPXWe558vHbZLtz1qGTkg.Ou4REoBnRGGwxmj8nORWgk__P72aFTMjngoTCdX6kDUg.JPEG.ssongda12/profileImage.jpg"
+          },
+          {
+            "sid": "1057587691",
+            "bodySummary": "종로수제비 명동본점 감자전이 좀 특이해서 함께 시켜봤어요. 수제비 양도 엄청 많고 감자채로 붙인 전도 과자처럼 바삭했습니다. 명동은 외국인들이 한국인보다 더 많았어요. 그래서 대부",
+            "url": "https://m.blog.naver.com/thespeech2017/223357471875",
+            "nick": "심리학박사 강지연",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDAyMDZfMjk5/MDAxNTgwOTkyNzE0ODAw.k6EEFLwDL_CFI95Cd_b8KDuxGUwvilD0rH4QDnpSvGMg.0gwsUmagNE1LjnKe6WoEdFRj77Jq1fJgbLFOOzYh6jcg.JPEG.thespeech2017/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "id": "11679455",
+        "name": "명동돈가스",
+        "x": "126.983542",
+        "y": "37.5640479",
+        "distance": 0.044,
+        "categoryName": "일식",
+        "categoryPath": [
+          [
+            "220036",
+            "220038",
+            "220082",
+            "220812"
+          ]
+        ],
+        "category": [
+          "일식",
+          "돈가스"
+        ],
+        "reviewCount": 7100,
+        "averagePrice": 10000,
+        "address": "서울특별시 중구 명동1가 59-13",
+        "roadAddress": "서울특별시 중구 명동3길 8",
+        "abbrAddress": "명동1가 59-13",
+        "shortAddress": [
+          "서울 중구",
+          "명동3길 8"
+        ],
+        "displayContext": [
+          "돈가스",
+          "오므라이스",
+          "경양식",
+          "데이트",
+          "오픈키친"
+        ],
+        "labelTheme": "수요미식회 방영",
+        "microReviews": [
+          "기린 생맥주와 함께하는 여유"
+        ],
+        "cardDescription": "기린 생맥주와 함께하는 여유",
+        "description": "명동돈가스는 많은 일본 돈가스 명점중 한곳인 동키라는 곳에서 돈가스를 배워와 1983년에 창업한 식당입니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMThfNTYg/MDAxNzYwNzYxMjU2NTU5.A9W-s9SygCF7kCsx4lprOtxKctmRpSrSXkq4p9alHpMg.d37ZeTW74scolWaNzbMDj8yXjGszbvVJ5Qq50UAYM3Mg.JPEG/9C6FC164-896D-43DA-8D77-FEA9326789C7.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDhfNCAg/MDAxNzU3MzIzOTA4Mjc2.wk56Dde0KMvs9hKa3kdBbUpCwnNvbBJRAsx3adXrKRsg.X1q5Xe82vUUACPWLhTtHEmckRIO4Am4rurp8pquxqMgg.JPEG/20250908_163203.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20201008_179/1602138896833r1CJh_JPEG/pn4PItNMK0Wqo5LX_iga7QJ3.jpeg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjVfMTA0/MDAxNzYxMzUyMDgwNDk3.RhdaqHsGhACKwkAo3t4YlVfkVoBiC87Sp0r0ieEHeT0g.koZG3xrYyw4UTstqewOTjCg7dDx5vUa8AzEnbnDYxasg.JPEG/E5882F88-5479-4D06-94F1-02487DC04720.jpeg",
+          "https://ldb-phinf.pstatic.net/20201008_93/1602138906244UW3pR_JPEG/CkAm9dvBpPLSQFp2xzXRiar4.jpeg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDdfMjY4/MDAxNzU3MjQ5MTgwMzkz.WnCsXnCuPGXzBICHDW5r69O-mtk9il4NpHW6-VVCQ3sg.cdStoNBDlXD1cc1m26BFbEX_f5wmcHgR1qClY0i9Nfwg.JPEG/20250905_140117.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20201008_167/1602138916864r44mO_JPEG/xrAL_8_kjycirvIhMmwIChMC.jpeg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTVfMjA1/MDAxNzYwNTQwMzg4MDY2.ZE5fOdR6dxa507w2lqjmnaZWj01H4h_Zy9hNLPU7ezAg.a_AC_NzhGlTSJ4TL8mln_kkx_qzsFZViFVBzyLL1Ejsg.JPEG/473024EC-5ED3-42E6-A438-B63AF0D17F35.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTJfMTg2/MDAxNzYwMjY3NTc2MjA1.ur5Fw28AR4lqR84NFWw8bMyRtk-QSYKta2TM6BY9Hg4g.RKq37UOO8AaX3M4pF0aBowz3a8WTKsF137SbMB9ib6Yg.JPEG/75A5F336-313A-4ED0-9481-2F844326DE65.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjNfMTg1/MDAxNzU1OTAyNDY4MTg4.0DmJ7p_71_f8-P6VoTuTGU10OAkGrupQrqmJsatyOPAg.007NBtk9HMMt4do7sSdN9Bn9V1PB8ialoADyqgu393gg.JPEG/3373DEB9-F0D1-47D7-BC1E-25A22D5A77B2.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220812",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": true,
+        "broadcastInfo": {
+          "name": "수요미식회",
+          "menu": "히레가스"
+        },
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "11679455",
+            "bodySummary": "명동돈가스 예약문의 02-775-5300 ⏰영업시간 11:00 ~ 21:00 브레이크타임 15:00 ~ 17:00 (주말 및 공휴일만) 주차 불가 을지로입구역 4분, 명동역에서 6",
+            "url": "https://m.blog.naver.com/hohohaha8888/223384852778",
+            "nick": "율리",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMTBfNDQg/MDAxNzA0ODk4MzYxMTgx.iUNyLGzYGscCoQ7pwq4C83V144NSEf9NulCcdpx0CG0g.0RcBQ9rlDKT878V5rrNECkXEs9SJtU3gTKtdAlrb78cg.PNG.hohohaha8888/profileImage.png"
+          },
+          {
+            "sid": "11679455",
+            "bodySummary": "걸어오시면 1층에 명동돈가스가 보여요! 건너편에 아비쥬 명동점과 올리브영이 있어서 찾기는 쉬울 것 같아요 ㅎㅎ위치 정보 및 외관 모습 아침부터 와서 제모했더니 너무 배가 고팠어요 ",
+            "url": "https://m.blog.naver.com/parkjm2024/223383312194",
+            "nick": "꿀딴지",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMDhfMTAg/MDAxNzA0NjgzODEyNzcw.Y2Nl7v2kKQyOouE1aii1LJCLO1KGFNx_0aRcTyd3_HIg.82IPNaAurOlB9JaRmSXvn9YGvGN9gKlANoUsWLmtWv4g.JPEG.parkjm2024/image.jpg"
+          },
+          {
+            "sid": "11679455",
+            "bodySummary": "주소_ 서울 중구 명동3길 8 전화번호_ 02-775-5300 영업시간_ 11:00~21:00 2호선 을지로 입구역 5번 출구에서 251m에 위치해 있어요. 밖에서도 볼 수 있게 ",
+            "url": "https://m.blog.naver.com/dhm325/223381651364",
+            "nick": "연유",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjEyMDJfMTc2/MDAxNjY5OTEzMjQ4NjUy.d_kzpdBcHBrE82MoWFmC6yA1Z-LmFyYlGaH0JVROtikg.EcvG1NgRYiW_Plh_P45g93gt7gcpJiDRCZeVc9a75EQg.PNG.dhm325/profileImage.png"
+          },
+          {
+            "sid": "11679455",
+            "bodySummary": "그래서 혼밥 하기도 편했고, 뭔가 일본 여행 온 거 같았던 매장 분위기...? 2층은 테이블 좌석이라 일행이 있을 시에는 2층으로 안내해 주시는 거 같았어요 돈가스는 사실 엄청 투",
+            "url": "https://m.blog.naver.com/hello_yeaji/223376767679",
+            "nick": "Shu",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA2MzBfOCAg/MDAxNjg4MTI4NTYxMjcy.oLc8uol0nLaIfm5rcWXNXpkjuUMLGEwxjxoOWSVZ65Eg.Dt59LUmL5LouhIMRVmd3BvvfZkjreY9hYVMR_GIn4xog.PNG.hello_yeaji/profileImage.png"
+          },
+          {
+            "sid": "11679455",
+            "bodySummary": "명동돈가스 영업시간 : 매일 11:00-21:00 명동돈가스 메뉴판 간판 보자마자 돈까스가 먹고 싶어 검색도 안 해보고 호로롭 들어간 곳. 관광지라 그런가 꽤 비싸서 좀 놀랬다 베",
+            "url": "https://m.blog.naver.com/happy_7-/223374780413",
+            "nick": "토리의 일상",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA2MDJfODUg/MDAxNjg1NjkxNzgwODcx.jGRy49yGrJniDErW8GeYmxvQ-TRRdxARBdiHJLYkT9Mg.-UCsIql9pJuMe8qdRaVTpfSkctIw4VmMftmzrskPK08g.PNG.sol8026/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "id": "988697159",
+        "name": "신룽푸마라탕",
+        "x": "126.98333",
+        "y": "37.5644942",
+        "distance": 0.033,
+        "categoryName": "마라탕",
+        "categoryPath": [
+          [
+            "220036",
+            "220039",
+            "1006063",
+            "1001757"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "마라탕"
+        ],
+        "reviewCount": 2622,
+        "averagePrice": 10000,
+        "address": "서울특별시 중구 을지로2가 199-58 2층 신룽푸마라탕",
+        "roadAddress": "서울특별시 중구 명동7가길 20",
+        "abbrAddress": "을지로2가 199-58 2층 신룽푸마라탕",
+        "shortAddress": [
+          "서울 중구",
+          "명동7가길 20"
+        ],
+        "displayContext": [
+          "마라탕",
+          "중국집",
+          "양고기",
+          "데이트",
+          "신선한"
+        ],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 을지로2가 199-58 2층 신룽푸마라탕",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjdfMTAz/MDAxNzU4OTU0MjM3NzUz.QDKEVha9VZjPQ5dlXce1Ni6pBb7akPhCmfuZmaLwDbIg.qrG_1OCWaATMSoU5x0spvjkAK45MPCXgIDmMcDyMn1cg.JPEG/20250927_152328.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjBfMjE3/MDAxNzYwOTQxMjYxNzg4.wdDZ4UBUEKzsRgG6__Aq8sLPCBxvZyiD2fSxaR2sGFgg.X6nu649VKKMtwdaTGWt1N67li-nMLvWEvJyZCCn1Ogcg.JPEG/D9E81471-C651-4A00-ABC7-A0D6F4CCF351.jpeg",
+          "https://ldb-phinf.pstatic.net/20251021_235/1761008787233Ai9BI_JPEG/%BD%C5%B7%EE%C7%AA%B8%B6%B6%F3%C5%C1_%B3%D7%C0%CC%B9%F6.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDlfMjE0/MDAxNzU3Mzg2MjQyNTU2.hQYTTG5xYtqdNgsOBZmo95tR0RV8p10By7Me3kqajrAg.D-cbdlIqxrTtF1_JmFb5cj1vlQJop1Li1Y57dUES6DAg.JPEG/76DFC558-DBAF-473B-A890-EBB6ED9A45DE.jpeg",
+          "https://ldb-phinf.pstatic.net/20251021_106/17610087895608i2rN_JPEG/Image_20251019145312_413_8.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTBfMjUg/MDAxNzU3NDgzMzc4NTU3.HDpEVYnY5g0Y3qiekSwt1yhPW50U05gyeid9-JrKiV0g.qjqh0WJVz3eJhAG2YKJHu4qUMB-hduYcO0fel9Pvkzog.JPEG/BE2C1F7E-D9B0-4357-8C94-8D12728B7C6C.jpeg",
+          "https://ldb-phinf.pstatic.net/20251021_150/1761008789643uwnHu_JPEG/Image_20251019145316_414_8.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjRfMjUx/MDAxNzU4Njg1MTIzNzMz.N2eJVg1vlvHiSHdi24aRG3gdI4P39jTBD4hJ8FlTUJMg.xE6UhJ4t4bywcBhtwWZp-0NdkJH-8zOgulsi6NBg-Zsg.JPEG/20250924_121617.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTNfMjk1/MDAxNzU3NzU2MjQyMjE1.vMRmxcxH3sQel7pCD2FtgP7E7nSlMeeYyQeBM1YjLAsg.qOmQirN9VknEwM80NFcaGUiIUx5A7Jp_Y1dRNoSQyVEg.JPEG/91AAD2A8-C35A-405C-BEC0-9669C89E0FC4.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDhfNjgg/MDAxNzU3MzA2MTY4Mjk0.qpLkQSxttsUacJcXHah3T0u7T0-TvHhyLoBdQ6r2eggg.zvpa8tRiBtYoHBHMCVaiQp9qLlKY32HYVeBaw55Xq7Mg.JPEG/IMG_3967.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1001757",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "988697159",
+            "bodySummary": "매일 11:00 - 22:00 02-319-3808 주차불가, 인근 공영주차장 이용 마라탕 집이 좋은 점이 뭔지 아세요 여러분? 늦게까지 문을 연다는 거예요! 9시 넘어서 명동 배",
+            "url": "https://m.blog.naver.com/bonasera88/223379612662",
+            "nick": "보나세라",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMjdfMTU2/MDAxNzAxMDc0NDA0MDE3.vXEDZyqGMzsvA8Fbl3YcMAFkF8gc65xNaDmubZIK09gg.SpLbiFi_lyYSlETQnVid-H_S93ArxkyA-Mc_dZD8GOIg.JPEG.downu88/%25EB%25B3%25B4%25EB%2582%2598%25EC%2584%25B8%25EB%259D%25BC%25ED%2594%2584%25EB%25A1%259C%25ED%2595%25841.jpg/%25EB%25B3%25B4%25EB%2582%2598%25EC%2584%25B8%25EB%259D%25BC%25ED%2594%2584%25EB%25A1%259C%25ED%2595%25841.jpg"
+          },
+          {
+            "sid": "988697159",
+            "bodySummary": "근데 야채나 버섯이 한뭉탱이로 있어섯 하나만 담아도 아주 많다는 점 참고. 꼬치 종류는 새우도 있고, 쭈꾸미, 양이 있어요. 다 고르고 계산하면 되는데 사장님이 소고기?양고기~? ",
+            "url": "https://m.blog.naver.com/yedool25/223283487555",
+            "nick": "쮸개",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA4MjhfNjgg/MDAxNjYxNjg2NzU0MjEx.EJXTERn1PMFd3nu0gRdRY35EFGBFdccRBRUxi2oNOhwg.W0api1Ft_hWQglfjP54LdksUKONYpXx-a2RRWTkSQhIg.JPEG.yedool25/%25EC%25AE%25B8%25EA%25B0%259C2.jpg/%25EC%25AE%25B8%25EA%25B0%259C2.jpg"
+          },
+          {
+            "sid": "988697159",
+            "bodySummary": "가입하면 1,000포인트나 주네요?? 이걸 블로그 글 쓰면서 발견했어요ㅎㅎ 근처가 직장이시면 어플은 무조건 까셔야겠는데요!? 재료도 신선하게 유지되고 있었어요 가끔 마라탕집에 초파",
+            "url": "https://m.blog.naver.com/jhiwoli/223267394745",
+            "nick": "먹캔디",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEwMTNfMTc5/MDAxNjk3MTgwMzY1MDU0.HvfRyjk70eTvpv3RMYqwNgC8t1BCA6Ttn4x1R7mIEtcg.hZ1Ng-SWB7n1bIl6Ra3AL7PUcDX7vgFJWH3EiIekuQIg.PNG.jhiwoli/profileImage.png"
+          },
+          {
+            "sid": "988697159",
+            "bodySummary": "서울 명동 마라탕 맛집 신룽푸마라탕 위치: 서울 중구 명동7가길 20 2층 신룽푸마라탕 영업시간: 매일 11:00-22:00 오늘은 뭘 먹을까 하다가 마라탕 먹으러 고고 내 기준 ",
+            "url": "https://m.blog.naver.com/jekim2138/223257833519",
+            "nick": "잰",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA3MjFfNjYg/MDAxNjU4MzMwMzk4MjQ0.utZOT88JsYWetInNNCv6IvEANF1EGkHlwJXbuuRejT0g.1rbhAEd6BduudVpoYe9by1qInZJCQ431GKdRvSV5mFYg.PNG.jekim2138/profileImage.png"
+          },
+          {
+            "sid": "988697159",
+            "bodySummary": "되게 희한하게 찍혔지만 그냥 사용하기로 함 먹고 싶은 야채와 각종 재료들을 담아 계산하면 조리해주는 여느 마라탕 가게와 동일함. 신룽푸의 장점은 직장인 할인인 것 같은데... 하필",
+            "url": "https://m.blog.naver.com/wkdrma2ek/223228017638",
+            "nick": "하엘푸",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAxMTFfMjg0/MDAxNjQxOTA4NzkwNzE2.0xdEMLATgGXIsBWx8G67Ayrpc62f1wehOO6827Blz7sg.OsdDzEOefNU4zZPw7E1GZ3xUxvG-RBfK_ppow_JcWo0g.JPEG.wkdrma2ek/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "id": "1719688355",
+        "name": "천하제일솥뚜껑 명동점",
+        "x": "126.9834389",
+        "y": "37.5646677",
+        "distance": 0.055,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 292,
+        "averagePrice": 15000,
+        "address": "서울특별시 중구 을지로2가 199-45 3층",
+        "roadAddress": "서울특별시 중구 명동3길 21",
+        "abbrAddress": "을지로2가 199-45 3층",
+        "shortAddress": [
+          "서울 중구",
+          "명동3길 21"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [
+          "푸짐한 재료로 든든하게 채우는 한 끼"
+        ],
+        "cardDescription": "푸짐한 재료로 든든하게 채우는 한 끼",
+        "description": "돼지고기의 기준 솥뚜껑을 돌아오다.  서민음식인 삼겹살. 가격과 맛을 갖추며 편하게 드실 수 있는 곳으로 만들어가고 있습니다. 성수본점, 명동점에 있습니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDJfNTEg/MDAxNzUxMzkxMzY3MzE3.q9cgaxiEunODNPZJx7PX6qWEClnTUh6LqcMx7-n-x08g.SIpvmjak84M0YGFm7jZZ4q0ZhWq0ooLAGFyRU3PLtvAg.JPEG/B3B3BCA1-9AFA-4060-AFDD-33F266872990.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MzBfMjc3/MDAxNzQ4NTgwOTM1ODk5.tTU4l2kdZpzvnV2l5ujUsSIdZaTgAXqJ-5S2NVioIhUg.3tcIgFoh6h-N7XoEpRK2TkTDwiIDVmtRTP_9QrnPypIg.JPEG/F2B3C62F-BCA8-4438-BDE0-1D0D06764CBC.jpeg",
+          "https://ldb-phinf.pstatic.net/20230104_279/16728217086214Lvy2_JPEG/%C3%B5%C7%CF%C1%A6%C0%CF%BC%DC%B6%D1%B2%B19.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjFfMjk4/MDAxNzU1NzM5MTAzNTQ1.tRStR0z9Z-y7mwVCR00i0z00L-_sW4Buyex_XCEExPsg.T3vAaQQWZ00SGKxDS5N7XDwi6LH18ixEhpNeRaYuGA0g.JPEG/1755735701388.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250722_121/1753165261546GWf0m_JPEG/KakaoTalk_20250722_131503150.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDFfMTE0/MDAxNzUxMzYyMzc4OTE1.IUAuxYkG-ZK19kgJ5sPPCTABFY3V_5_7k1KJCTg6jksg.PY1UlKF6Jlok1o7sw4bEolFebQY7fMT4-3UWwLRp6WQg.JPEG/8F628CF2-2AA6-484F-9736-C43F5F4C6081.jpeg",
+          "https://ldb-phinf.pstatic.net/20250722_273/17531652615422Ij2S_JPEG/KakaoTalk_20250722_131503150_01.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDVfNjkg/MDAxNzU0MzMwNTcwMTU1.yKCjR6vB5po2Co-S4Gs-ZDTXBtlgbJrevjdblDkmLhkg.dOPLaXrkg-3aOBqGWk6Po5_gUjifV-FngXNk4Jl4aLAg.JPEG/IMG_3885.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDFfMjUz/MDAxNzQ4NzcxMTM0OTky.ESPAohp139muY_j71kj1kjhbf2uwXIK-Ce28X-SSQZQg.j2v5dH-CflcPAuj4A0KqvRu4JbSDH-cUm4IC_-Ds7bcg.JPEG/347E3C47-05AA-4D79-B8E3-8DEDB2312330.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDdfOTgg/MDAxNzUxODg2MzI2MDUx.peMAHJEfwPR4Lq4HSLMQTYQ7s1WnNCSIPm77XRLIM00g.swsD-SqIaGB7rAnayJ7r6JpeaN3gqoBQymV3islj-uUg.JPEG/20250702_124445.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1719688355",
+            "bodySummary": "아래에서 자세한 후기 시작해볼게요 [서울 명동 고기집] 솥뚜껑에 구워먹는 고소한 삼겹살 천하제일솥뚜껑 명동점 위치는 위의 지도를 참고해주세요 ✔️ 을지로입구역에서 가깝습니다 ✔️ ",
+            "url": "https://m.blog.naver.com/love_holic_kc/223359833013",
+            "nick": "독버섯 먹는 쿼카",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMDNfMjc2/MDAxNzA5NDcxODIzOTI4.GLpnt0cbx4Ips0VkR_pwwIGWQrE_4S_6PH9IULY4vKMg.EOkhFuANhJ77N4MHVBpLMhG3xFJudvGIq_W59NpXxjUg.PNG/profileImage.png"
+          },
+          {
+            "sid": "1719688355",
+            "bodySummary": "안녕하세요 챙이입니다 오늘은 녹차가루를 뿌린 명동 고기집에 다녀왔는데 정말 독특하면서도 맛있는 곳이였어요 같이 가보시죠 ~ 명동역에서도 도보 가능하고 을지로입구에서는 3분컷이에요 ",
+            "url": "https://m.blog.naver.com/dhsco12/223351907239",
+            "nick": "먹깨비",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAyMjJfMzIg/MDAxNzA4NjA2OTAyNjI0.QkomRM1KP7RqoEg0DE8yOIW6cL1qw5lqHuUZGgfllLYg.7M78V93iIeOiV21UUT3OEJJfaZW2ACR9vWhu9AebwFog.PNG/profileImage.png"
+          },
+          {
+            "sid": "1719688355",
+            "bodySummary": "구워먹으면 뭔들~ 신기하게 생긴 꽃 항정살도 구워서 냠냠 좀 더 부드러운 느낌~ 다시 삼겹살 한 판 더 구워주고요 배부르지만 껍데기도 열심히 구워준다 좀 잘 구운듯? 도톰해서 식감",
+            "url": "https://m.blog.naver.com/shainsisra/223331628282",
+            "nick": "김다소",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA0MzBfMTIx/MDAxNjUxMjk2MjgyMjQy.akngqbVhqQJTCGh_WwU8ccNsGONK4-THRSUNCJ6kZd0g.G-ODuhEDmmdykH0g2DGXOsT91DVg5e3KUpLXICC-2hgg.PNG.shainsisra/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "id": "2001905795",
+        "name": "명동집감자탕K-bbq",
+        "x": "126.9834389",
+        "y": "37.5646677",
+        "distance": 0.055,
+        "categoryName": "감자탕",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220067",
+            "220681"
+          ]
+        ],
+        "category": [
+          "한식",
+          "감자탕"
+        ],
+        "reviewCount": 8,
+        "averagePrice": 0,
+        "address": "서울특별시 중구 을지로2가 199-45 2층",
+        "roadAddress": "서울특별시 중구 명동3길 21",
+        "abbrAddress": "을지로2가 199-45 2층",
+        "shortAddress": [
+          "서울 중구",
+          "명동3길 21"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "명동집 감자탕과 고기, 족발을 한자리에서 즐길 수 있는 명동 맛집입니다. 진한 국물에 직접 만든 고소한 비지를 올린 감자탕이 대표 메뉴입니다. 삼겹살, 항정살, 갈비살은 물론 직접 삶은 족 ",
+        "description": "명동집 감자탕과 고기, 족발을 한자리에서 즐길 수 있는 명동 맛집입니다. 진한 국물에 직접 만든 고소한 비지를 올린 감자탕이 대표 메뉴입니다. 삼겹살, 항정살, 갈비살은 물론 직접 삶은 족 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTNfNTcg/MDAxNzU3NzQ3ODA2NTIw.XTszfz_Q10PglRsPoKPY5_HFzThlu0_Tq7iXVHwZtNIg.a_BhAmJw7Ut-jcJOQIQYFZdUuIush4oSIHQIjur1FUAg.JPEG/4EC755AC-2C9D-4A6C-8155-7EDD534E3641.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTNfMjgz/MDAxNzU1MDc0MTk3OTc3.Bg9cFXYC-YMFAYFhnlBBEU1lV8LoY4Xjro1v2ixjsqQg.vUiklW71tD4IqR8_q4olMydQImwLosUSJdxYQ1_n4Nsg.JPEG/A64DB908-F722-4A29-8770-6374C45B882A.jpeg",
+          "https://ldb-phinf.pstatic.net/20250702_186/1751391381660u1Mji_PNG/%C4%E1%B0%A8%C0%DA%C5%C1_%B8%AE%BB%E7%C0%CC%C2%A1.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjJfMTYy/MDAxNzU4NTQzMjgwNzU3.3wliCESuJVEELVpGZno6jcRUlJApKeU6lDBFnl3RSugg.DqPPJeBq9FeI1UqiuNgH1RmBqU-p5fc0rQ2DfsIu7log.JPEG/53E35EF2-FDEA-461F-ABF7-2C52F2B1CB76.jpeg",
+          "https://ldb-phinf.pstatic.net/20250702_169/175139138867582IsE_JPEG/%B9%CC%B3%AA%B8%AE_%B0%A8%C0%DA%C5%C1.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDFfMzcg/MDAxNzU0MDM1MTE5OTEx.RLeV2AezU149UtjoutB0PtfrWtcHYI8eqEfMsFHvXVsg.wrqP3ttNBsEfpZijUFxhO9q4gbqg050gjD42nl1ntVUg.JPEG/1000013408.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250702_49/1751391386067TCOdi_PNG/%B8%ED%B5%BF%C1%FD_%BC%BC%C6%AE.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjBfMjQ5/MDAxNzYwOTY5MjM4MzUz.GwzYLQlZFGMHyJ3nmruVSLBccfZdmjXSglHfGbtfNQcg.hpn92KC97swy1Nz6GRvCyIYBGvmYIfr574dYjCcpjQwg.JPEG/3CA1720F-378E-4464-B32D-5D9608A315E0.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220681",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 9,
+        "id": "33028446",
+        "name": "딘타이펑 명동점",
+        "x": "126.9835899",
+        "y": "37.5643367",
+        "distance": 0.043,
+        "categoryName": "중식당",
+        "categoryPath": [
+          [
+            "220036",
+            "220039",
+            "220091",
+            "220870"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "중식당"
+        ],
+        "reviewCount": 7966,
+        "averagePrice": 30000,
+        "address": "서울특별시 중구 명동1가 59-1 호텔28 2층",
+        "roadAddress": "서울특별시 중구 명동7길 13",
+        "abbrAddress": "명동1가 59-1 호텔28 2층",
+        "shortAddress": [
+          "서울 중구",
+          "명동7길 13"
+        ],
+        "displayContext": [
+          "딤섬",
+          "완탕",
+          "칠리새우",
+          "연말모임",
+          "데이트"
+        ],
+        "labelTheme": "생방송오늘저녁 방영",
+        "microReviews": [],
+        "cardDescription": "딘타이펑은 '크고 풍요로운 솥'이라는 뜻으로 딤섬 전문 장인들이 정성을 담아 푸짐하고 맛있게 대접하고자 하는 딘타이펑의 마음을 담았습니다.  *네이버 예약은 당일예약 어렵습니다. 예약시",
+        "description": "딘타이펑은 '크고 풍요로운 솥'이라는 뜻으로 딤섬 전문 장인들이 정성을 담아 푸짐하고 맛있게 대접하고자 하는 딘타이펑의 마음을 담았습니다.  *네이버 예약은 당일예약 어렵습니다. 예약시",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDJfMTMw/MDAxNzU0MTIwMTM5NjAx.jhQ69cNDQIQLAl-0DsDxfet3XSeMdrKhDsw8QMbJfBEg.1f7-xM4msmLdFxKmeubl0hAVzZjqxvhMcsVIauMmg_kg.JPEG/DF703611-36A5-4E1F-A5B4-ECC5EDBA8998.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MThfMjI5/MDAxNzQ0OTU1Nzg2MzU3.Bd2ib7bG_b4iLNbWqTa8oWrQKSsticeGA2ZOAV443v8g.a6WR5xLbY1eKcadp08kKo7l_C1hVqdZkurYj59-cCSEg.JPEG/47B18C55-3C2B-405A-8F8A-261BDB398D86.jpeg",
+          "https://ldb-phinf.pstatic.net/20150901_231/1441045748418xgShl_JPEG/166755615367366_5.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjVfMjc1/MDAxNzU4NzMwNzc2NzA0.xr_zcDuLpDNP-v1Sa7myojGn_jsL5KsjH98QQ3JuUKkg.daZ3sWt-3eHA760EqqCjgM5ktnUvq2ncJ1M0x4M0KwEg.JPEG/BDCA12FB-F260-4203-B4D7-DB46435EC0EA.jpeg",
+          "https://ldb-phinf.pstatic.net/20241119_1/1731991886778H65ex_JPEG/1.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDFfMjQ3/MDAxNzU2NzIwNTE1ODE1.Dy-E3-4rYarPAIX3mR96dBbZK3PQdR8I4Wsisa1-R5sg.rB8HabO1C1jz29PigXk34vwvkvdXdDq25s6H3NSA7_Ig.JPEG/78B31F17-4113-4951-96B7-228E18C6C46E.jpeg",
+          "https://ldb-phinf.pstatic.net/20241119_259/1731991886755U90he_JPEG/6.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjdfMjQ4/MDAxNzU4OTUzOTY1OTg5.-2k9z3bzY68MkuqLKGa4cZzxcWHBLm0sqw4l65cwWXkg.4rpg3aQGUEEOJd03SangQGQD7JXVy4XaJfqKhCL3qxcg.JPEG/8AE524C5-F356-4A85-A05D-C59D521DCFCD.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDJfMjM0/MDAxNzU5MzgxMTU3MTI4.FTJNHDDue9JwdUGUVQ1RRK6R4JEDO_Uyie0bfRBBk8kg.iWVhMDqAigAiS33Ux2BQpTNuNY2UOce2U__wvytK7Fgg.JPEG/20250927_112759.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDhfMTk1/MDAxNzUxOTM0ODk3MjM5.eX0iFwFpzgsEXkHxiqZRiVO5uR247sTzyWNDQIX8-Lwg.qAwMNqOHcfwqS8_baG6AqNvemkJYufyW59zMX3dyDjog.JPEG/20250707_181039.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220870",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": true,
+        "broadcastInfo": {
+          "name": "생방송오늘저녁",
+          "menu": "딤섬"
+        },
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.43",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "33028446",
+            "bodySummary": "안녕하세요. 반주 메이트입니다. 오늘은 설명이 필요 없는 가게 바로 명동에 있는 딘타이펑입니다. 이곳은 세계 10대 레스토랑으로 선정될 만큼 유명한 곳인데요. 딤섬 맛집으로 샤오롱",
+            "url": "https://m.blog.naver.com/skylike1000/223389440742",
+            "nick": "반주메이트",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMDhfMzQg/MDAxNzA5ODcxMTQyMjc5.wwFcb-4pa8Xk9Kju07RHDl6Ep4Z5KSCDlsPC-ERl_E0g.DKGOXwzrnZU2RC_lY5hgh8fz4Xht_-ihODduz_Upe4Eg.PNG/%25EC%25A0%259C%25EB%25AA%25A9%25EC%259D%2584_%25EC%259E%2585%25EB%25A0%25A5%25ED%2595%25B4%25EC%25A3%25BC%25EC%2584%25B8%25EC%259A%2594_-001.png/%25EC%25A0%259C%25EB%25AA%25A9%25EC%259D%2584%2B%25EC%259E%2585%25EB%25A0%25A5%25ED%2595%25B4%25EC%25A3%25BC%25EC%2584%25B8%25EC%259A%2594_-001.png"
+          },
+          {
+            "sid": "33028446",
+            "bodySummary": "안녕하세요 코코망고입니다아~ 오늘은 제가 웬만하면 멀리 잘 안가는데 특히 사람많은 곳,,, 근데 맛도리가 있다고 해서 명동 중식당 딘타이펑에 다녀왔어용 엇 외국어는 모르는데 밑에 ",
+            "url": "https://m.blog.naver.com/yooheana/223383459878",
+            "nick": "코코망고",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMjFfMjg0/MDAxNzAwNTQxOTk0MTcy.4SmzHs5RrpL4WXi6iZx5fL648Buk7Hlje1l-QKldVdgg.Z2rdkjTLff-JB1LNpuKodzm-u9MySGnSCwHQNdrNa2Ag.JPEG.yooheana/KakaoTalk_20231121_134535937.jpg/KakaoTalk_20231121_134535937.jpg"
+          },
+          {
+            "sid": "33028446",
+            "bodySummary": "딤섬과 요리로 알차게 먹고온 '딘타이펑' 가족들이랑 저녁 식사하러 딘타이펑 명동점에 방문했어요. 아주 예전에 다른 지점만 가보고 명동점은 처음이었습니다. 네이버 예약이 가능해서 미",
+            "url": "https://m.blog.naver.com/o_dell/223383194772",
+            "nick": "하이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMDZfMjg1/MDAxNzA0NTIzMjI2Mjc3.T90Oj8zsAD82wdgUfMy9ehue8xvwe3n3wRrhoA8H-KIg.C7k4ntFznjRWNCs1VcXrpSkHdTuOSo3Udj-RL5Y4zOsg.PNG.o_dell/profileImage.png"
+          },
+          {
+            "sid": "33028446",
+            "bodySummary": "딘타이펑 명동점 매일 11:00 - 21:00 입점 마감 20시 라스트 오더 20시 10분 하늘이 높다 재작년 크리스마스 이후 오랜만에 온 명동 노점이 쭈욱 늘어섰다 대만 핫 플 ",
+            "url": "https://m.blog.naver.com/harry799/223371747075",
+            "nick": "여음술",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAyMDFfMTYx/MDAxNzA2NzU3MjczNDE2.Dd5Do7wovZ3C0YLiUX_Aemv6aenGb368THNfVqakRaMg.eXgoBuzvD5lw3nDxyB9rPapgVxFpHtjjScRPxsuuzn0g.JPEG.harry799/profileImage.jpg"
+          },
+          {
+            "sid": "33028446",
+            "bodySummary": "아기짹은 명동에서 이곳저곳 먹고싶은곳 먹으면서 놀고왔어요 딘타이펑은 원래 가려던곳이 아니였는데 가고싶었던 곳이 웨이팅 마감이라서 계획없이 다녀왔어요 딘타이펑은 명동증권 빌딩 2층에",
+            "url": "https://m.blog.naver.com/yoom4835/223367965964",
+            "nick": "짹이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA4MTdfNTkg/MDAxNjkyMjAxNDY4MDI0.6bWOWGq8Y6AIQuuYxCUXj4jXiLJrDicE2FdlK8XGovog.8sutbwbCK04pRN2S1xXfxXm8_JZaEw9SHnFON1c2Hw8g.PNG.yoom4835/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "id": "38338651",
+        "name": "미쓰족발 서울명동점",
+        "x": "126.9834227",
+        "y": "37.5646855",
+        "distance": 0.056,
+        "categoryName": "족발,보쌈",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220766",
+            "230868"
+          ]
+        ],
+        "category": [
+          "육류,고기요리",
+          "족발,보쌈"
+        ],
+        "reviewCount": 1056,
+        "averagePrice": 32000,
+        "address": "서울특별시 중구 을지로2가 199-45 미쓰족발 서울명동점",
+        "roadAddress": "서울특별시 중구 명동3길 21",
+        "abbrAddress": "을지로2가 199-45 미쓰족발 서울명동점",
+        "shortAddress": [
+          "서울 중구",
+          "명동3길 21"
+        ],
+        "displayContext": [
+          "칼국수",
+          "명이나물",
+          "주먹밥",
+          "데이트",
+          "깨끗한"
+        ],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [],
+        "cardDescription": "맛집 고를 시간이 아깝습니다.  야들야들 족발 한점 기본 메뉴 뜨~끈한 김치칼국수와 한잔.  명동에서 족발 하나만큼은 제일 맛있게 삶는 맛집.  30년 전통 살아있는 족발의 신화 '미쓰족발 서울 ",
+        "description": "맛집 고를 시간이 아깝습니다.  야들야들 족발 한점 기본 메뉴 뜨~끈한 김치칼국수와 한잔.  명동에서 족발 하나만큼은 제일 맛있게 삶는 맛집.  30년 전통 살아있는 족발의 신화 '미쓰족발 서울 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTdfMjEg/MDAxNzU4MTE3NTk3MjA2.B96e7f292jeagikXh5sx3LSp6jKRq66wBUeS6l4GkmEg.Gd6gWaglbSIszssxbFnRs7bGq0TiFxHwQmG3ydlpAxcg.JPEG/879A9AED-A590-4AC2-80C7-2409C97B854B.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTlfMTYw/MDAxNzYwODY0MTAwNTEz.cZR1LR-49yXMjlZD3pkicWBRGiAcDHNIa7jQ_ykbV0Ag.GsCGuqXpNA6_BGhL35o_UNeZgIJPZM-0ihlGlABuz5Ag.JPEG/F204D352-4356-4E08-8829-324A3B84099C.jpeg",
+          "https://ldb-phinf.pstatic.net/20241218_279/1734488033482aVApn_JPEG/%B9%DD%B9%DD%B9%AE%BE%EE_%282%29.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjRfNTAg/MDAxNzU2MDM3NDg1OTk5.hxCEdkvGfVW3isXuRuSrspEtooQN9TFvPW3RMVxidRcg.asvehe2aQ1t2Df9CoBTyXPkCdJK-EDiaSupUMedrBOYg.JPEG/DF18E405-F854-4D8F-B605-E95F634C9D4C.jpeg",
+          "https://ldb-phinf.pstatic.net/20241125_28/1732546694682TkTw8_JPEG/%B4%EB%C7%A5_%2814%29.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MDRfOTAg/MDAxNzQzNzQ1NDMyNjk0.sjo0L8gest67jNomnYWQsXGYsw3_lwKIr9KeVh1ISkog.jjfUEJX3nUeRBXos3RPjJkLzxT0eJXDXa0WzHeXHWmEg.JPEG/4EC367CC-43F2-4F5D-9270-E9C2A95E0817.jpeg",
+          "https://ldb-phinf.pstatic.net/20241125_189/1732546754033SHVty_JPEG/%B8%F0%C0%DA%C0%CC%C5%A9.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTVfOTQg/MDAxNzU3OTMyMDM0ODEz.LE3Ovxtn1KaLV11rRqoqmMOs8dcP4gZ9RBGQMnotlv8g.6ItfeHGA7SW8fwvs5bMgztZ6XSPiMyDCMzPEDd0BVlwg.JPEG/1000034285.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjlfMjE1/MDAxNzU5MTM1OTE2NDQw.phX1nqIDkEyfBwqe_LCOLaWe1JMIAaG2D54FHz4lK0Ig.bQ_6tDfApamQSEF0lqOMyIbP2ytgeVV8mOCk1ghQutEg.JPEG/20250929_175115.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTZfMiAg/MDAxNzYwNTY1NzgyMzY1.pabDEMhSnYyX_ybA1YmQdOj4jperJ8v0A93GJTGgxdcg.gxaNc7IMrmumCeggieXzVsUImY8WNG2qLuImXw5KpuQg.JPEG/F7882917-2529-4C3E-9C50-73D6E0932D05.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "230868",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "38338651",
+            "bodySummary": "미쓰족발 서울명동 서울 중구 명동3길 21 매일 11:00-02:00 02-3789-8799 엄청나게 배고픈 상태에서 방문한 #미쓰족발서울명동점 입구에 들어갈 때 다른가게 홍보물이",
+            "url": "https://m.blog.naver.com/uokj3203/223375776357",
+            "nick": "Yvely",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDA5MDVfMjAy/MDAxNTk5MjM0Nzc1MDUy.3q5IvQYUNg4tho-x_Gy2yZePDsIdiHOBV5VkFiwqwVcg.l_hRtgb7_v33nsOthXZYAZpPc5xoGh9lugxAxkjMotMg.PNG.uokj3203/profileImage.png"
+          },
+          {
+            "sid": "38338651",
+            "bodySummary": "퇴근하고 와이프랑 배고픔에 방황하다 들린 미쓰족발 명동점 리뷰, 시작합니다. 족발집인데 우리 둘다 보쌈을 좋아하는 관계로 족발집에서 보쌈을 먹었지만 명동에 맛집이??하면 놀란 곳 ",
+            "url": "https://m.blog.naver.com/ryuhaejin/223244701186",
+            "nick": "삼삼삼",
+            "profileImg": ""
+          },
+          {
+            "sid": "38338651",
+            "bodySummary": "영업시간 매일 11:00 - 02:0족발맛집족발0 면세점 갈려고 명동 갔다가 친구가 맛있는 족발집 있다고 해서 가게된 미쓰족발 여기가 유명 맛집이라고 하네요.. 저녁시간대라 자리가",
+            "url": "https://m.blog.naver.com/yoonsunghee0213/223224123087",
+            "nick": "굿지",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA5MThfMjg1/MDAxNjk0OTY0MDI3NDk4.qXhxwdLyHaFwTc0yGRcKhAKyrA8cUGj7HjiGbOzqOEcg.4Q9DMnURBghsxNnV2_aeD8ZAXYrAb-8FvvytOpT4B4Ig.PNG.yoonsunghee0213/profileImage.png"
+          },
+          {
+            "sid": "38338651",
+            "bodySummary": "지난 주말 올만에 친구들과 만남 신촌, 일산, 노원, 용인에서 각각 오기에 교통편이 괜찮은 을지로로 정한다 그리고 나이살만 늘어가고 있기에 조금 살이 덜 찌는거 먹자면서 족발로 메",
+            "url": "https://m.blog.naver.com/bernays10/223215125722",
+            "nick": "귤집아들",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTA2MTNfMjg3/MDAxNTYwMzgwMzkxOTQ1._b-5qzC4Vu-B7rC_z9BKk4fweDl5k7XhQr57lRfpl8Ig.COBIwSg_wCsbCVAIaWEbAm-5nWpEO6A2-HY9tmSZ_C0g.JPEG.bernays10/KakaoTalk_20190613_075601096.jpg"
+          },
+          {
+            "sid": "38338651",
+            "bodySummary": "미쓰족발 서울명동점 서울 명동 점심 혼밥하기 좋은 식당 : 족발보쌈맛집 명동 근처 맛집 을지로입구 근처 맛집 미쓰족발 서울명동점 주소 : 서울 중구 명동3길 21 1층 영업시간 :",
+            "url": "https://m.blog.naver.com/dietlena/223161788905",
+            "nick": "레나",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMjZfMjI3/MDAxNzA2MjQ3Nzg3NjA5.MZAiuI3VcKm7gTI23Fz63It7hmQISqp8icod5t3-0QIg.eCq7GK0d9u59aMVA5kP7QK3oDMvcWI8KzNZOLnTcz_kg.PNG.lenacrochet/%25EB%25A0%2588%25EB%2582%2598_%25ED%2594%2584%25EB%25A1%259C%25ED%2595%2584.png/%25E1%2584%2585%25E1%2585%25A6%25E1%2584%2582%25E1%2585%25A1_%25E1%2584%2591%25E1%2585%25B3%25E1%2584%2585%25E1%2585%25A9%25E1%2584%2591%25E1%2585%25B5%25E1%2586%25AF.jpeg"
+          }
+        ]
+      },
+      {
+        "rank": 11,
+        "id": "12785727",
+        "name": "엔제리너스 명동점",
+        "x": "126.9835467",
+        "y": "37.5641387",
+        "distance": 0.04,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221285"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 2786,
+        "averagePrice": 5000,
+        "address": "서울특별시 중구 명동1가 59-12 개양빌딩 1~2층",
+        "roadAddress": "서울특별시 중구 명동3길 10",
+        "abbrAddress": "명동1가 59-12 개양빌딩 1~2층",
+        "shortAddress": [
+          "서울 중구",
+          "명동3길 10"
+        ],
+        "displayContext": [
+          "카페",
+          "케이크",
+          "재방문",
+          "데이트",
+          "튀김"
+        ],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "신의 선물이라는 말을 들어 보셨나요. 감미로운 맛과 향으로 우리의 몸과 영혼을 따뜻하게 해주는 커피는 신의 선물이라는 또 다른 이름을 가지고 있습니다. Angel-in-us는 천사가 신의 선물을 사 ",
+        "description": "신의 선물이라는 말을 들어 보셨나요. 감미로운 맛과 향으로 우리의 몸과 영혼을 따뜻하게 해주는 커피는 신의 선물이라는 또 다른 이름을 가지고 있습니다. Angel-in-us는 천사가 신의 선물을 사 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjNfMTA5/MDAxNzUwNjA0NzEzNTU1.tJzr8m_GU3yTC4Lhq08Agstwt19Eqgx1FH9Xf4b0TTMg.XYxRu5-27tmhYTeU-paiwqcCIBEE6_sHRJEfSjX5bP8g.JPEG/D3F52330-D00E-4713-BB66-D630FCAE681D.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTRfMjg0/MDAxNzUyNDQ5ODA0NjQx.RmZ-hzN3d8CQA9ZRzjq8BNKzG9blFjrbu6nM1JcN2AUg.0sTm-RvssDXCl_TJPytuG1By9Y362XwScscOt4KsZCQg.JPEG/20250711_173253.heic.jpg",
+          "https://ldb-phinf.pstatic.net/20220919_122/1663572695886TKqJd_PNG/%B7%CE%B0%ED12.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDVfMTgy/MDAxNzQ2NDUxNTg5ODY2.dM0hw3Ox9Cv4gjUfUP7vVa7oB-Fa2S2CdUQ8lyGDNIQg.d0P2vdSxndAZ0ZErRaTbVJkt_lvtg0KgN0Rbe3oTuR0g.JPEG/2A98BC22-E617-4668-8651-0C1A31632E70.jpeg",
+          "https://ldb-phinf.pstatic.net/20220414_111/1649937750027vHICa_JPEG/KakaoTalk_20220414_210117729.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjlfMjk1/MDAxNzU2NDQ2NDUwODEx.l8QQHkasp7gHMXYGAzJS-851hzRxdR7lRa1ABPEJTygg.KZXOm8YhkL6Tb7cytyuxDy6lvvVVxxRJNySsWr42j5Yg.JPEG/20250829_142109.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20220414_214/1649937763745NB7pO_JPEG/KakaoTalk_20220414_210117729_01.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMThfMTcg/MDAxNzYwNzU5ODMyMjQy.TXw70Wo9xDlzxMwDXUmVPaFakmsNgEUfm13meo20Lkog.ahOteo_1oMyuAX4dZ4ZPGxQlb0jM4rRj2tnSEKbENrwg.JPEG/17607598242948256893412419604383.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTFfOTkg/MDAxNzQ0MzQxNTA5OTA0.iE9fjW5Z60eSE9eBPUo5fxm7ICaHMAWg-eeJimN-8MEg.nGwvmpoe1QGwHHF9NlyEEhJOtGcBJ4jN9MiL5yOOccUg.JPEG/20250411_121735.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTdfMTAy/MDAxNzUwMTUzNDU2ODUz.POg0K4q7GyYQ8irfAlcfGmL_O21Jmkhr7FTj5H-Ipxcg.c9LzpD2uW-lwPe_HLct17B0GI069Jweir48zmeNxgzwg.JPEG/1000087653.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221285",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.38",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "12785727",
+            "bodySummary": "알고있던 엔제리너스 명동 안에 있는 카페 치고는 사람들이 많지 않아서 자주가는 카페 1층 아주 깔끔 너무 좋은 점은 케익 뿐만아니라 요기가 베이커리형 카페라 빵류, 쿠키류를 다양하",
+            "url": "https://m.blog.naver.com/guswjd00245/223371768797",
+            "nick": "끼정이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAzMDFfMTg0/MDAxNjc3NjYwNTc2OTcy.WZtDI21WIsG23eZv032qqb2EqaawARmmraW3yq7Gyigg.RVi3U57AlInmx7XqXeqYsPqMLbF_gt4It9brGmWImj0g.JPEG.guswjd00245/profileImage.jpg"
+          },
+          {
+            "sid": "12785727",
+            "bodySummary": "카페들이 몇 없었음ㅠ 그나마 있던 카페들은 전부 만석~ 그치만 엔제리너스 명동점은 자리도 많고 사람도 많지 않아서 좋았다ㅎㅎ 너무 갈증 나서 시원하기만 하면 뭐든 좋았을거 같은 상",
+            "url": "https://m.blog.naver.com/edhiba/223343734148",
+            "nick": "잎의향기",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDExMjJfMjMx/MDAxNjA2MDM2NzI2MjE0.kQonVATQutXbQMIa-5ft3gi7XKpVxenCCG3QlxTgv20g.saoNOYunueYpUjtKSDuI76xbeEVNXZbyzgYM2FoyuQwg.PNG.edhiba/4.png"
+          },
+          {
+            "sid": "12785727",
+            "bodySummary": "주소 : 서울 중구 명동3길 10 운영시간 : 아침 8시 ~ 오후 9시 참고로 엔제리너스 명동점은 윤쉐프 정직한 제빵소와 콜라보 매장으로 디저트와 베이커리를 다양하게 즐길 수 있어",
+            "url": "https://m.blog.naver.com/pih870318/223276473297",
+            "nick": "초코혜",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA1MDVfMTEx/MDAxNjgzMjUxODk1MjU5.M31wecdV8sz7yjBIA4HHJ7zl-OaxosO85DwtCpzU_Log.QQp2f_lBl-rZqd6zVMsmk6Wy3ljEgh_uL_clswlfdfwg.JPEG.pih870318/KakaoTalk_20230501_143926304.jpg/KakaoTalk_20230501_143926304.jpg"
+          },
+          {
+            "sid": "12785727",
+            "bodySummary": "반미 맛집 엔젤리너스 오랜만에 방문하니 디저트도 다양하네! info location 서울 중구 명동3길 10 business hours 08:00-21:00 note 제로 페이, ",
+            "url": "https://m.blog.naver.com/cucu1527/223219645458",
+            "nick": "디셈버그린",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAyMDNfODQg/MDAxNzA2OTU4NTA2ODM1.9VOk7xidjWYDUuNKGV1RbUtnkhYe276adz1v3D4tFRwg.Jh_FMi8CgkvXLRRgbL3WsOQWIEQjsBH-J0izQmaA-Oog.JPEG.cucu1527/profileImage.jpg"
+          },
+          {
+            "sid": "12785727",
+            "bodySummary": "오랜만에 예전 놀던? 명동을 나가보았어요. 의외로 거리에 사람들이 많아졌더라고요. 오랜만에친구들과 예전에 만나던 곳에서 즐거운시간을 보냅니다. 오랜만의 명동나들이 다시 예전의 명동",
+            "url": "https://m.blog.naver.com/klavier0830/223204133173",
+            "nick": "android tutor 현주리",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20240304_6/klavier0830_1709558526000cJQop_JPEG/image.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 12,
+        "id": "1066088812",
+        "name": "더컵",
+        "x": "126.98343",
+        "y": "37.5645594",
+        "distance": 0.044,
+        "categoryName": "도시락,컵밥",
+        "categoryPath": [
+          [
+            "220036",
+            "220047",
+            "220171"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "도시락,컵밥"
+        ],
+        "reviewCount": 109,
+        "averagePrice": 3000,
+        "address": "서울특별시 중구 을지로2가 199-46",
+        "roadAddress": "서울특별시 중구 명동3길 17",
+        "abbrAddress": "을지로2가 199-46",
+        "shortAddress": [
+          "서울 중구",
+          "명동3길 17"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 을지로2가 199-46",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220171",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 13,
+        "id": "33875529",
+        "name": "파티프린세스",
+        "x": "126.9830591",
+        "y": "37.5642165",
+        "distance": 0.006,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221212"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 5,
+        "averagePrice": 6000,
+        "address": "서울특별시 중구 명동1가 59-5",
+        "roadAddress": "서울특별시 중구 남대문로 78",
+        "abbrAddress": "명동1가 59-5",
+        "shortAddress": [
+          "서울 중구",
+          "남대문로 78"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "명동 거리에 자리 잡은 카페입니다. 다양한 길이의 새하얀 웨딩 드레스부터 색색의 파티 드레스까지 다양한 드레스를 대여해서 친구들과 파티와 사진 촬영을 즐길 수 있는 이색적인 공간인데 ",
+        "description": "명동 거리에 자리 잡은 카페입니다. 다양한 길이의 새하얀 웨딩 드레스부터 색색의 파티 드레스까지 다양한 드레스를 대여해서 친구들과 파티와 사진 촬영을 즐길 수 있는 이색적인 공간인데 ",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221212",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 14,
+        "id": "2026420754",
+        "name": "24시 카페 만월경 호텔베르점",
+        "x": "126.9831513",
+        "y": "37.5645803",
+        "distance": 0.037,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "1005690"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 3000,
+        "address": "서울특별시 중구 을지로2가 199-50 호텔베르 루프탑 12F",
+        "roadAddress": "서울특별시 중구 명동7가길 22",
+        "abbrAddress": "을지로2가 199-50 호텔베르 루프탑 12F",
+        "shortAddress": [
+          "서울 중구",
+          "명동7가길 22"
+        ],
+        "displayContext": [],
+        "labelTheme": "24시간 영업",
+        "microReviews": [],
+        "cardDescription": "고래가 유영하는 달빛 바다, 카페 만월경입니다. 맛볼 가치가 있는 커피, 머물 가치가 있는 공간을 제공하겠습니다.",
+        "description": "고래가 유영하는 달빛 바다, 카페 만월경입니다. 맛볼 가치가 있는 커피, 머물 가치가 있는 공간을 제공하겠습니다.",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20250929_264/1759127144841pJ9lq_JPEG/3.jpg",
+          "https://ldb-phinf.pstatic.net/20250929_207/1759127138389xP0YR_JPEG/%C5%A9%B1%E2%BA%AF%C8%AF1.jpg",
+          "https://ldb-phinf.pstatic.net/20250929_3/1759127141831XstKl_JPEG/2.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1005690",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 15,
+        "id": "1390912693",
+        "name": "스탠포드호텔 명동 소호커피",
+        "x": "126.982883",
+        "y": "37.564678",
+        "distance": 0.052,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221212"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 6,
+        "averagePrice": 5000,
+        "address": "서울특별시 중구 남대문로2가 9-1 9층",
+        "roadAddress": "서울특별시 중구 남대문로 84",
+        "abbrAddress": "남대문로2가 9-1 9층",
+        "shortAddress": [
+          "서울 중구",
+          "남대문로 84"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "다년간 특급 호텔에서의 경험과 노하우를 바탕으로, 숙련된 바리스타가 선보이는 스페셜커피. 신선한 생과일 주스부터 계절 한정 메뉴, 달콤한 디저트까지 즐길 수 있는 여유로운 공간. Soho Coff",
+        "description": "다년간 특급 호텔에서의 경험과 노하우를 바탕으로, 숙련된 바리스타가 선보이는 스페셜커피. 신선한 생과일 주스부터 계절 한정 메뉴, 달콤한 디저트까지 즐길 수 있는 여유로운 공간. Soho Coff",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjZfMjU0/MDAxNzUzNTAzNDEwMzIy.LRaMny52vDD0oqeUEWk2ON5-r-JZk0srAOaHIixvyTYg.xVFAixaUQLoROPRYDiljGXIAXUBNMja6Pvljit1WNXgg.JPEG/20241112_140120.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjJfMTYg/MDAxNzU4NTEyNjEzMTI0.edPl-xpIHPeF9vguZihLjoxAWn-dBoP13SmMEjC2hDMg.aPNZzRE-v6Ci6G90B10fanIuZZzAaJ3mFDI12JgSbSYg.JPEG/20250922_124211.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250702_147/1751426159848VignU_PNG/%B8%ED%B5%BF_%BC%D2%C8%A3_%B3%D7%C0%CC%B9%F6.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDFfOTEg/MDAxNzU0MDI5MDkxNDgw.bB2d5YFxS_cGogrhXh47POz18t09SYIiuVUKyTSYbeEg.xGJpYyENe4v2jOYsMh7Icl_7LkPV_crVu_dWdTsF3Q4g.JPEG/17540290508683058835715128256297.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221212",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 16,
+        "id": "11727456",
+        "name": "이비스 앰배서더 명동 라따블",
+        "x": "126.9830128",
+        "y": "37.5641846",
+        "distance": 0.011,
+        "categoryName": "양식",
+        "categoryPath": [
+          [
+            "220036",
+            "220044",
+            "220126"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "양식"
+        ],
+        "reviewCount": 434,
+        "averagePrice": 40000,
+        "address": "서울특별시 중구 명동1가 59-5 19층",
+        "roadAddress": "서울특별시 중구 남대문로 78",
+        "abbrAddress": "명동1가 59-5 19층",
+        "shortAddress": [
+          "서울 중구",
+          "남대문로 78"
+        ],
+        "displayContext": [
+          "레스토랑",
+          "야경",
+          "디저트",
+          "데이트",
+          "신선한"
+        ],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [
+          "가성비 최고의 네이버 예약 할인 혜택"
+        ],
+        "cardDescription": "가성비 최고의 네이버 예약 할인 혜택",
+        "description": "이비스 앰배서더 명동 최상층인 19층에 위치한 레스토랑 라 따블(La Table)의 세련되고 편안한 분위기에서 다양한 메뉴의 신선한 요리를 즐길 수 있습니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTVfMjQy/MDAxNzU1MjIxNjI0NjE2.-SOQM6WAB0xhPSOECJm0ABObibmi333eXPd6gCAnRhwg.LA7aE2d6tSf0bDWsMuRygiwFTX6zdeff-xuv2N9VYykg.JPEG/1000069537.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTNfMzIg/MDAxNzU3NzYyOTE1MjIw.wS7h22aQJWzJKaWpvBuDnKVo0JpXMr8O2OFi1gv-nWIg.FSJeCtilWkB8aRLy1ubkIMcXtOojOaM5UUDadfxDY4Mg.JPEG/1000073079.jpg",
+          "https://ldb-phinf.pstatic.net/20210611_291/1623369635606aKq6G_PNG/750420%28%BE%C6%BA%F1%BE%C6%29.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjNfMTg5/MDAxNzYxMTgyNDM4OTQz.wIv4itxfkuvU0XDQnxgla6s1F5XIlkKXvIN0t6NgfjIg.32iEUvmrp-W1e4cBbcCfQ9X9cdQRrFNBkDkTS2R3o8wg.JPEG/20251022_115534.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20180406_272/15229918003148MYCC_JPEG/1.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MThfMjMx/MDAxNzQ3NTczNTI0ODk2.RFR80_d0jpZq9_vi01Y0Z4cF9kOBDuxsV9YXurCQoFIg.a8IrzN1uTYeKwxL7lAVVCnq3JCu-Re8yeMQRuWLw_agg.JPEG/FFA997D5-758A-45B7-BD3E-80D4212A730A.jpeg",
+          "https://ldb-phinf.pstatic.net/20180406_162/1522991800285edpwM_JPEG/14-2.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTZfMTQg/MDAxNzUwMDc4MjkzNDUx.2MlCSHPdSE66YFy_ErrFLNvjpypDlMIwTZHXwSkp3HEg.2bZcVG5PEqkGgcqZlRx6FTR6D5V83gOqQbhbxN86oXsg.JPEG/IMG_2372.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTBfNTgg/MDAxNzU0ODMwNjAwMTY5.dBomEaTmJZE41sujQMPbks0XwClXTK3KT8EzQujbBJwg.ndefhZUUp1vFURgxsZKqr2TOexK4bPbK9dgycg-VU-cg.JPEG/3E04AC91-506F-451B-AA42-9D11703AD213.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDNfMTgg/MDAxNzU2ODc2MDQwMzA1.KBVXEh4T30SwkchrdBwGIsyPSeRZLPrHHnylcpjMUMEg.MiFkIG51wdfOE4RFih-MirWdhG7loeyzDc5cp3bQwv0g.JPEG/B3D2F779-366A-45D2-9AFF-75371A58E8CE.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220126",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 17,
+        "id": "1102404002",
+        "name": "유천냉면 해늘찹쌀순대 명동점",
+        "x": "126.983428",
+        "y": "37.5645166",
+        "distance": 0.041,
+        "categoryName": "냉면",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220063",
+            "220650"
+          ]
+        ],
+        "category": [
+          "한식",
+          "냉면"
+        ],
+        "reviewCount": 1333,
+        "averagePrice": 10000,
+        "address": "서울특별시 중구 을지로2가 199-46 1층",
+        "roadAddress": "서울특별시 중구 명동3길 17",
+        "abbrAddress": "을지로2가 199-46 1층",
+        "shortAddress": [
+          "서울 중구",
+          "명동3길 17"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "Since 1968 해늘찹쌀순대, Since 1982 유천냉면이 만나서 하나가 되었습니다. 전통방식 그대로 맛을 지켜 나가겠습니다.",
+        "description": "Since 1968 해늘찹쌀순대, Since 1982 유천냉면이 만나서 하나가 되었습니다. 전통방식 그대로 맛을 지켜 나가겠습니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MThfMTk1/MDAxNzQ3NTUzNzE2NTEx.sx_qHTnlHtDhHRlaPjmnsSpg40x898-IUmE65MjAPB4g.DzrTiBhw2Pke5S8puXIYPT6XXK3uc3oX-xx0eeN-gW0g.JPEG/_CFL5247.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDVfMjA0/MDAxNzUxNzEzOTcxNzIy.t-e1iec22sovfodBdtd5mhQGm17TM80pFVUvfIdh14kg.PkiV2PSW64bA6xURkk6Qlc6fRLptP3nCWU_6pY1juywg.JPEG/20250630_132616.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20190509_99/1557385028170meCFj_JPEG/uD48joXwposbuF_zz8IOmAVD.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjhfMTc1/MDAxNzU2Mzc1NzkwNjk3.4FGZjKD3EsvYWvWTd8QQrpHtVLMUaqC2NeZnIflCfrcg.vZC2YU8btlDOnbkRrAawIo1qR_S9R0SAUvC_8vPIgm4g.JPEG/20250828_114027.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20190509_41/1557385034298lxdUe_JPEG/-LVZcrN4dB0im4wSyVKIsbWM.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDJfMTk3/MDAxNzU5Mzg5MTM5Mzk2.uKaIpN06FLHtBVDz-VCdUOo7dJgVlNBIn5G6GtFrnVkg.cm9rjjVOVF5QZb9Jb_tCakDXzszke8CZMl9fejam_Wcg.JPEG/9DA9C135-9A65-4A9B-9A27-7CBB3B5C9A87.jpeg",
+          "https://ldb-phinf.pstatic.net/20190825_159/15667205727354FGYL_JPEG/uzm7rBMrm4ymqvv_Vph-AL6W.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTdfMTcx/MDAxNzU1NDI2MzQ4OTU5.tZ19X4qifX33G0F2wjJCdndgTuohQXececZCn1GQvGog.pg8tXC_lumgy_iXQXXot1WLp9DqrqKEsp3-i608xTlAg.JPEG/F5C85E05-8359-4DDA-AEA9-64FAF4255508.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDJfMjE4/MDAxNzU0MTE1MDIyODYy.i4X52BkLwvthR6X82muXtBYY0NST8oYfWjlvKVFta9Ag.CCqc27mjp_HzS1HIzcB8J2LD49KwfWrvchv1yEdn83kg.JPEG/1E567677-24DF-4696-9ECE-A2C62256A5BF.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTBfMTc5/MDAxNzU0NzkyODgyMzg0.Qk5Ji87gyxXTDdgToBdVo15ltlOdXUZXGcB_1Y_x10wg.Vrb0cVqYXWbJsDJkhNDzDvtlIWrJs9C_8Pw4nDfrz_cg.JPEG/205D8E78-AEB2-4959-BC11-D9EDB97FF174.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220650",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.15",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "1102404002",
+            "bodySummary": "유천냉면 명동점 서울시 중구 명동3길 17 원래 돈까스 먹으려고 하다가 가려뎐 돈까스집 웨이팅이 넘 길다고 해서 목적지를 선회했당 유천냉면 해늘찹쌀순대 명동점으로 갔어용 가게 밖에",
+            "url": "https://m.blog.naver.com/goomong15/223344559101",
+            "nick": "gygy",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMDFfODMg/MDAxNzAxNDI4MjY4MTQ1.1Eu3B8RgE_25bS1nVXB-4ncXoBIYClxJe5uE8WeXSDog.snHNQBWSducWpLm99amtkGoaVbWw99rZr6F8RfbuFIkg.JPEG.goomong15/profileImage.jpg"
+          },
+          {
+            "sid": "1102404002",
+            "bodySummary": "수제 찹쌀순대(11,000원) 통통한 찹쌀순대는 정말 쫀득하다 못해 눅진했어요. 저는 처음 먹어본 순대식감이였는데요. 떡지기도 하면서 고기순대의 식감처럼 묵직하고 맛은 또 담백하더",
+            "url": "https://m.blog.naver.com/rkxmahs99/223342889059",
+            "nick": "워니워니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA1MTFfNDIg/MDAxNjUyMjY4NjYwNjk0.WYDDTV-vxJdxR0jXiATPl30oAmRvf6Z8s2YAd85iwegg.ncB8LOKf5-DwlrZFOK7S6bnT5Ad-8_5p-ECSOr1V-08g.PNG.rkxmahs99/profileImage.png"
+          },
+          {
+            "sid": "1102404002",
+            "bodySummary": "유천냉면 들기름메밀면 호로록하고 왔어요. 명동점을 방문했는데 명동역보다는 을지로입구역이랑 더 가까워요. 애플 매장 뒤쪽으로 걸어오시면 보여요. 비빔냉면도 먹고 싶었지만... 추운 ",
+            "url": "https://m.blog.naver.com/ja33un/223341902582",
+            "nick": "cute doggy",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDEyMjRfMjkw/MDAxNjA4ODAxNjgzODYy.0WWkNusT3i_YNsdx1L1EIyLOciq9IKtcupF9He-RZ_gg.kJlseqUiMYr-ax35q2IWeNVGtuW9H5QahqjZaNgIIq0g.PNG.ja33un/profileImage.png"
+          },
+          {
+            "sid": "1102404002",
+            "bodySummary": "역시 국밥은 스피드.. 기본 국밥이라 크게 기대는 하지 않았는데 돼지고기와 부속들이 꽤 들어있어서 좋았구요! 순대는 인천에서 유명한 해늘찹쌀순대를 사용해서 부드러우면서도 약간 매콤",
+            "url": "https://m.blog.naver.com/slom0702/223311434776",
+            "nick": "무옹이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA2MTNfMTkg/MDAxNjU1MDU0MjIwNDMy.QYmRAqMlvHFC8IrBqNLt7rZiPQhp-tKEQqfYJEvPHGcg.t9lon6mivBVwiYAIKDepZNU62Dp74zxwZjrttLgT21og.PNG.slom0702/34.png/34.png"
+          },
+          {
+            "sid": "1102404002",
+            "bodySummary": "어김없이 돌아온 주말은 술방데이 주말에 날씨가 많이 풀리기도 하였고 뭔가 따뜻한 국보다 볶음요리가 땡기어서 을지로와 명동을 기웃 기웃 거리고 있다가 발견한 유천냉면 해늘찹쌀순대 간",
+            "url": "https://m.blog.naver.com/eeeunj_p/223293857467",
+            "nick": "듀주",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMDZfMTYw/MDAxNjk5Mjc1MjYyMTYx.j4VaFwBYjU-xe7kPj-qdlwXwEMULQYz82cD3VVnWQMMg.7E7tZwpMDULiGjuJOckR18eDaLICBAEEbp5abMEFkA4g.PNG.1kkkk123/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 18,
+        "id": "1067344705",
+        "name": "스탠포드호텔 명동 카페스탠포드",
+        "x": "126.982883",
+        "y": "37.564678",
+        "distance": 0.052,
+        "categoryName": "뷔페",
+        "categoryPath": [
+          [
+            "220036",
+            "220046",
+            "220164"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "뷔페"
+        ],
+        "reviewCount": 91,
+        "averagePrice": 20000,
+        "address": "서울특별시 중구 남대문로2가 9-1 9층",
+        "roadAddress": "서울특별시 중구 남대문로 84",
+        "abbrAddress": "남대문로2가 9-1 9층",
+        "shortAddress": [
+          "서울 중구",
+          "남대문로 84"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "명동 중심에 위치한 세련된 업스케일 레스토랑 'Cafe Stanford'에서는 베테랑 셰프들이 선보이는 특별한 요리를 만나보실 수 있습니다.  도심을 내려다보는 탁 트인 메인 홀과 프라이빗한 다이닝  ",
+        "description": "명동 중심에 위치한 세련된 업스케일 레스토랑 'Cafe Stanford'에서는 베테랑 셰프들이 선보이는 특별한 요리를 만나보실 수 있습니다.  도심을 내려다보는 탁 트인 메인 홀과 프라이빗한 다이닝  ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTZfMTY2/MDAxNzU3OTk3NDMxMzc0.w4hv29m-HaAJlPfXkHrprn389bDqCQmEklHQXuTnPD8g.diGupmG-SNnLkYFoSqhh69xAjz2mbqAalr6OYSP1TqQg.JPEG/20250916_133332.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20220118_105/1642492567004VG17V_JPEG/%B7%EB2.jpg",
+          "https://ldb-phinf.pstatic.net/20250702_136/1751433987067LRhA6_PNG/%C3%CA%B0%E8%B1%B9%BC%F6_%B3%D7%C0%CC%B9%F6.png",
+          "https://ldb-phinf.pstatic.net/20250702_194/175143290017308MYW_PNG/%B8%ED%B5%BF_%C1%B6%BD%C4.png"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220164",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

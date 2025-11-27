@@ -1,0 +1,2718 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 37,
+      "count": 37,
+      "request": {
+        "offset": 0,
+        "limit": 2000,
+        "boundary": {
+          "minX": 129.0756,
+          "minY": 35.170590990990995,
+          "maxX": 129.0811111079019,
+          "maxY": 35.1750954954955
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "129.07835555395096;35.17284324324325",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "2037672906",
+        "name": "에이피어리",
+        "x": "129.0763699",
+        "y": "35.1747496",
+        "distance": 0.279,
+        "categoryName": "베이커리",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220564",
+            "221161"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "베이커리"
+        ],
+        "reviewCount": 255,
+        "averagePrice": 5000,
+        "address": "부산광역시 부산진구 양정동 104-64 170동1층 102호",
+        "roadAddress": "부산광역시 부산진구 연수로 38",
+        "abbrAddress": "양정동 104-64 170동1층 102호",
+        "shortAddress": [
+          "부산 부산진구",
+          "연수로 38"
+        ],
+        "displayContext": [],
+        "labelTheme": "최근 오픈한",
+        "microReviews": [],
+        "cardDescription": "셰프가 만드는 베이커리  에이피어리는 전문 제빵사가 아닌, 20년간 서양요리를 전공하고 다양한 매장에서 셰프로 활동해온 오너 셰프가 직접 운영하는 곳이에요. 단순히 빵을 만드는 것에 그 ",
+        "description": "셰프가 만드는 베이커리  에이피어리는 전문 제빵사가 아닌, 20년간 서양요리를 전공하고 다양한 매장에서 셰프로 활동해온 오너 셰프가 직접 운영하는 곳이에요. 단순히 빵을 만드는 것에 그 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTJfNjYg/MDAxNzYwMjI4NjkzNzk3.JFZSqlFDuBZ362Mlv3mwheUriLAja0kLMaXJcYvgSKQg.PrOPXRtLY_lpIiQS-XwD-aDVMH991bI3LWEblrgIaUog.JPEG/90816A20-FAC1-405B-A4AE-D2674D061908.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDlfMjkx/MDAxNzU5OTgwOTg4Njcw.YqOpFCZ3UvcYyhN9AG2YdEpnO_Emll7VEBNCWRiSpr4g.labc4de8n15NV7kcRzUzsUiglS6l-tshOWWqmctkrbYg.JPEG/20251009_115930.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250722_273/1753188209078KpVuG_JPEG/IMG_6443.JPG",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTJfMTQg/MDAxNzU3NjQ0MTI5MjAx.jNuvXk_1J2w_2A2mAcqAoZHndCZK68Nseon8dEhJHqYg.sdeMtlW2AfeedkrRpEqusEKP2mhVi07NjmcDCbqtZ88g.JPEG/2BF72AD9-3C53-4C56-9737-D979CA11B55C.jpeg",
+          "https://ldb-phinf.pstatic.net/20250801_227/1754054489928skEM2_JPEG/IMG_6565%BC%F6%C1%A4.JPG",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTRfNTIg/MDAxNzU3ODUzMDAyODQ3.jKjnMIbpbExe9CqlLG4XOStqLnWSpNNs20FD1LUNWNYg.R4LN0TBedFd9eoLPTxYcmD7GY_Qclw90_ZNBvXXTfJ0g.JPEG/20250914_124206.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250722_184/17531882092566fAKq_JPEG/IMG_6461.JPG",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDNfMTM4/MDAxNzU0MjAwMjY0OTUz.XLavyCYgw8hiQfL3UxGqhhOAnCYVEr4oSj1TGNzH8esg.PIAadvzQ_Z8I32SZ_yjx1UgRnMwycEI4dBAAZ3QNIpMg.JPEG/20250803_145010.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjdfMjg1/MDAxNzUzNTg2ODMxNjEw.iWbySUUJBhZIH7pda-5aJcpta_8UmxhLPxQqy4fRer0g.GHN6bbmUdhy01_Y31Vbk-zzKcB75NWq6bsHjIDa0SBAg.JPEG/7A6D9DDA-888E-4F65-91A7-5477AE12A53B.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTZfMjg1/MDAxNzYwNTg2NzM4Mzk0.LlX96VcZEDscs14ZNJyWqa8SeX9hhIwKXdEinTEP5vQg.3Ai0bk0c8a05t1p-efKt9YSJW13f49cevp0ALsD10Mwg.JPEG/20251016_120350.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221161",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "1861581329",
+        "name": "오크레페 양정점",
+        "x": "129.0778478",
+        "y": "35.1733743",
+        "distance": 0.075,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 280,
+        "averagePrice": 5000,
+        "address": "부산광역시 부산진구 양정동 85-12 1층",
+        "roadAddress": "부산광역시 부산진구 진남로 585",
+        "abbrAddress": "양정동 85-12 1층",
+        "shortAddress": [
+          "부산 부산진구",
+          "진남로 585"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [
+          "생과일이 가득한 수건 케이크의 신선함"
+        ],
+        "cardDescription": "생과일이 가득한 수건 케이크의 신선함",
+        "description": "OH!CREPE는 프랑스 디저트카페로 갈레트,크레페 등을 판매합니다. 갓 나온 맛있는 크레페와 잘내려진 커피와 함께 사랑하는 사람과 따뜻한 공간에서 편안히 머물 수 있는 공간을 지향하고 있습니",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MThfOTQg/MDAxNzQ0OTYxMTEzMjYx.RQSd76LJrdiALWDdhPpNCVHr65hwZvxogTb7fC8_lwMg.rhue-PqK03Y4UC9ANMOXrf8t1lT2v3g6SHMtpqLC0E8g.JPEG/IMG_1410.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTZfMjM1/MDAxNzU1MzI4ODA4Mjk5.Jw068jndiMSJd4CqSi1_qX3mDQPkGlgx45dn2fYWpTwg.5t8VR8gL9knKASwTHfbBUsuRPK5ZoWxJkiM1qVsgMsEg.JPEG/5BC0132B-E8B5-4F6D-AF50-4978DF3DFDAC.jpeg",
+          "https://ldb-phinf.pstatic.net/20240530_292/1717039798143ic5Ny_JPEG/KakaoTalk_20240530_122849352.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTNfMTAw/MDAxNzQ5NzkxNTc5Mzg5.Il3FChAkzEVd8G-rs1Qx4Gi9O04F4dFfDVaJ9MOwlDUg.8YV1A54T3zdLdefoAuCXfEsDY593VHp6CGPtwh0nNkAg.JPEG/F29DF885-81DF-4B90-87AA-71D82A75CA02.jpeg",
+          "https://ldb-phinf.pstatic.net/20240514_42/1715675023034xFInK_JPEG/KakaoTalk_20240509_170817085.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTAzMjhfMjc3/MDAxNzQzMTM2MTgzMzkw.rK7SqQKloW43OC1JaqHyu_7wBPwRuqC4SVxOnu1BoT0g.IOaK66jLAf9ZROnoFuDmGVvdnENvldf-wWmEFuj7P5Qg.JPEG/KakaoTalk_20241206_110528971_20250328132545.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 3,
+        "id": "1789525242",
+        "name": "포레드샤",
+        "x": "129.0806449",
+        "y": "35.1746213",
+        "distance": 0.287,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 286,
+        "averagePrice": 5000,
+        "address": "부산광역시 연제구 연산동 844-20 1층",
+        "roadAddress": "부산광역시 연제구 진남로 615",
+        "abbrAddress": "연산동 844-20 1층",
+        "shortAddress": [
+          "부산 연제구",
+          "진남로 615"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [
+          "스콘과 에그타르트의 완벽한 조화"
+        ],
+        "cardDescription": "스콘과 에그타르트의 완벽한 조화",
+        "description": "포레드샤는 불어로 고양이 숲을 의미합니다~ 고양이는 없지만 고양이 소품과 나무들로 귀엽고따뜻함과 편안한 느낌의 카페를 만들고 싶었습니다~^^  고양이를 좋아하시는 분이나 편안한 숲 느 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDhfMjM2/MDAxNzQ2NjYyOTIzNDE3.opS23wnNyYogkCQbJf679_nmUWZf9Q8nb8pwDfFqJDYg.18PFT8_sWHrNzg0f1dPi9Av4giFIBCuLBaXvA0NqEjUg.JPEG/output_1355627093.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTlfMjU2/MDAxNzQ1MDUyODA5MzU0.HY6UqSPkw2gHV-GT4-FrCBvnZXMuAq-GOjjxWlSqXxUg.WgQmQzCrKySBIIRVOV6rYlvoy0UCCqipItTXlh_HdHMg.JPEG/AB738F06-EADC-4DA7-B84D-95878F03AF5F.jpeg",
+          "https://ldb-phinf.pstatic.net/20250623_55/1750648970017erEIg_JPEG/KakaoTalk_20250622_060149869.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDVfMzAg/MDAxNzQ2NDE4OTQ1Mzcx._-iwvAVlIQwlut_7bJy2FXH4gGS9QTTpE7p4fgf4DJkg.Sw3WUgZ9mdofUzflDnsmUUCYmWrXFqTI0SV_bx4GJxQg.JPEG/20250427_183415.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20231130_211/1701330277032tm5io_JPEG/temp_file.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTBfMiAg/MDAxNzU0ODA3NjkyNzA0.d1JW1lYLDmeMvLJdW50Fp56d8LR46I8ZBzRCgsWyuwIg.ktixS0UOvQO8EQnZMeoPGOVj9RQqYdoYh4IQbmObZRAg.JPEG/20250810_145145.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20231121_13/1700494525139lvi1r_JPEG/temp_file.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDZfNjEg/MDAxNzU0NDUzOTQyMzEy.Y23OygZSIPZBZjsXgjzkfYX5ihvGaOnds4wx9HQJ394g.F8FwBJrP6Byj0qAk8AN8APVQ01W4qgXtBxS2QfWD7WEg.JPEG/DFCE8681-C79B-44F7-8174-F524FDFDE9EF.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDJfMTQ5/MDAxNzQ2MTc1NTAzNDI1.w6i9sd1PtDy4xwRJ7_q_yfrk3aVmYeHQPeeunLZwUFUg.gvI77DT6A8cOUo-LDO0aAHhpwFxDD9FurBK5xNeaVtUg.JPEG/20250502_172831.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDJfMTky/MDAxNzU0MTQzNTU1OTkw.VdZ_brLWabH6ezCr59LNzQ7o8X54qcwy-ZJrfim98ogg.UImSAOFo2iHQc9m9EmvycPZWCETex3JN0dqoyJs0sIwg.JPEG/16E29190-07A2-460A-B2BB-4BF97EA8DA23.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "1789525242",
+            "bodySummary": "식빵도 있고 포레플레인스콘! 링거를 맞고 있더라구요 꿀? 인듯했는데 귀여워요♡ 휘낭시에 마카다미아 이거도 되게 맛있을 것 같더라구요~! 크로와상도 있어요 크로플과 구움과자들까지! ",
+            "url": "https://m.blog.naver.com/gy6500/223393069115",
+            "nick": "용용",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMDdfMjEw/MDAxNzA0NjI0MzI1Mjcy.aluLw5I6T7EkKtq2leeb7POkibHdaVUn2sqYn_8Npxsg.kP3fOIgQLMzqOPg5V_yzgimhnzhCogJqcoGl0vqD6AIg.JPEG.gy6500/profileImage.jpg"
+          },
+          {
+            "sid": "1789525242",
+            "bodySummary": "저는 평소 혼자 다니는 것을 좋아해서 오늘도 혼자 카페에서 시간 보내다가 왔어요! 포레드샤 라는 카페를 다녀왔습니다! 위치는 부산 연제구 물만골역에서 도보 3분정도 입니다 저는 이",
+            "url": "https://m.blog.naver.com/ssr0569/223370186699",
+            "nick": "세똥이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA4MTNfMzgg/MDAxNjkxOTE0NTU1MDc0.uVn6z4X8Oow4GGw8_nM89qnbiYlMpAgioL7cVZ7DbL4g.ymUzJCeJkYL09ryrRaEp4A2enAZHgy-xF-9C_NY5ZC8g.PNG.ssr0569/profileImage.png"
+          },
+          {
+            "sid": "1789525242",
+            "bodySummary": "공간이 실내, 야외로 나눠지는대요 먼저 실내 공간부터 보여드릴게요 깔끔한 화이트톤 인테리어와 초록 식물들이 만나 싱그러움이 느껴졌어요 내부에는 2인 테이블 2개, 4인 테이블 2개",
+            "url": "https://m.blog.naver.com/happyeun24/223357197889",
+            "nick": "는하루",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAyMTRfMTE2/MDAxNzA3OTIwNzI5NjQ5.psh-41YTbZlMrhxXSAsdACp7x0U3ZgV_ch50cwQHz3cg.Z7Q6a-5KkQ7ZKOgQRgXimrVdyC1BZmJtUiM_ZxgQI3gg.GIF.remember8_8/profileImage.gif"
+          },
+          {
+            "sid": "1789525242",
+            "bodySummary": "안녕하세요! 옥자언니입니다. '연제구의 힐링 카페, '포레드샤'! 고양이숲에서 온 아늑함과 아름다움을 만나다! ' 오늘은 부산 연제구에 위치한 '포레드샤'를 소개해드릴게요. 이곳은",
+            "url": "https://m.blog.naver.com/armyvivian/223345340565",
+            "nick": "옥자언니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA4MTZfNDEg/MDAxNjkyMTg4Mjc1NjM4.0x67ldxh95G9PhPdZjyp_FCwaPVVWmKle0LRPyWadTwg.s3D5vkPDE4fpP6V1BtnZIfQJaVpJ9s9ZWSVfnWkdoj0g.PNG.armyvivian/profileImage.png"
+          },
+          {
+            "sid": "1789525242",
+            "bodySummary": "휘낭시에와 스콘은 큼직하고 맛있어서 배부를 정도였고, 특히 스콘에 같이 주는 딸기잼은 더 맛을 높여줬습니다. 이 카페는 맛있는 음료와 디저트뿐만 아니라 아름다운 인테리어, 친절한 ",
+            "url": "https://m.blog.naver.com/no_yeju/223330031452",
+            "nick": "레드퐁",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA1MDdfNDkg/MDAxNjUxOTAyMzcwOTY1.Q3UGIc6aKViqTET5fI_vFbTSGMfI0W0LSiOGyQCRDzwg.vtUvpocpnx6mlUVVeNQ1ymVR_JgzV740ISQSMPfH_u4g.JPEG.no_yeju/%B4%D9%BF%EE%B7%CE%B5%E5.jpg/%B4%D9%BF%EE%B7%CE%B5%E5.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "id": "16394804",
+        "name": "향원장",
+        "x": "129.0777591",
+        "y": "35.1734479",
+        "distance": 0.086,
+        "categoryName": "중식당",
+        "categoryPath": [
+          [
+            "220036",
+            "220039",
+            "220091",
+            "220861"
+          ]
+        ],
+        "category": [
+          "중식",
+          "중식당"
+        ],
+        "reviewCount": 90,
+        "averagePrice": 0,
+        "address": "부산광역시 부산진구 양정동 85-13 1층",
+        "roadAddress": "부산광역시 부산진구 연수로54번길 37",
+        "abbrAddress": "양정동 85-13 1층",
+        "shortAddress": [
+          "부산 부산진구",
+          "연수로54번길 37"
+        ],
+        "displayContext": [],
+        "labelTheme": "중식",
+        "microReviews": [],
+        "cardDescription": "부산광역시 부산진구 양정동 85-13 1층",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjRfMjcw/MDAxNzU2MDA5Njc1NDU1.9bJcKvcS5Pvggfdai0WUFaKloioOnCcQzKT08buLDI4g.XeknWTmutH7xVOR-Nrz7rOA9X165SYYfGTZ1jNJQz4Ag.JPEG/34988CBA-4518-411B-9AC1-AA3B64CCD152.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDlfMTYg/MDAxNzU3NDAwNjY3OTEy.dKi5IiubvMf705FfGhTHNjo4_kCqX3nytWje9fVY1eUg.oKHU8ghFwpYaxQGbg46aKvgKLpbL7U_dOCl5k6bemfsg.JPEG/20231210%C3%83%C2%AF%C3%82%C2%BC%C3%82%C2%BF183607.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20200726_277/1595761845845FEqcQ_JPEG/FbizfYtHtYUgv-Vk_QqDQed3.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTJfMTY5/MDAxNzYwMjY2NTEwNTk3.uQ-TMgwvEmUIaXSSuMz_mn14abxJ141UbxOBqD4H1I0g.hjPkP4jm71Ity3WEl_ykXX7C75jzBSP7-z3zH_CX0NEg.JPEG/Screenshot_20251012_194645_NAVER.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220861",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 5,
+        "id": "1426714327",
+        "name": "시티팜",
+        "x": "129.0798527",
+        "y": "35.1742858",
+        "distance": 0.211,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 41,
+        "averagePrice": 10000,
+        "address": "부산광역시 연제구 연산동 2381 상가 1층 시티팜카페",
+        "roadAddress": "부산광역시 연제구 진남로 607",
+        "abbrAddress": "연산동 2381 상가 1층 시티팜카페",
+        "shortAddress": [
+          "부산 연제구",
+          "진남로 607"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "도심속 싱그러운 식물들과 여유로운 차 한잔 하실 수 있는 카페입니다.  인테리어, 승진화분도 구매가능합니다.  저희 매장은 [패스오더 앱]으로 편하게 주문이 가능한 매장입니다!",
+        "description": "도심속 싱그러운 식물들과 여유로운 차 한잔 하실 수 있는 카페입니다.  인테리어, 승진화분도 구매가능합니다.  저희 매장은 [패스오더 앱]으로 편하게 주문이 가능한 매장입니다!",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDhfMTE3/MDAxNzQ2NjcyMzIyOTY0.QsaWCR56jWB_zxRxz6XuCn4LU9jWRwAm3IlUG8G5sq0g.4P7GZSzLCZFT9EUiGgQghp6wsYXTEgTCLG43-Q8SLyAg.JPEG/IMG_20250508_111421_799.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDhfMzAg/MDAxNzQ2NjgzNjg5MzEy.BhXVfex5Yr4PAVH45iZxPdyheakJFBHb-PWEWLr4kHYg.ayy3_lMUfiAaikCxEWEujgpaaNvd8_WpijnkAPipbJgg.JPEG/1000031662.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20231005_165/1696485162675eXCJd_JPEG/IMG_9566.jpeg",
+          "https://ldb-phinf.pstatic.net/20231005_64/1696485162707J84X4_JPEG/IMG_9562.jpeg",
+          "https://ldb-phinf.pstatic.net/20231005_79/1696485162759vsxcF_JPEG/IMG_9561.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 6,
+        "id": "1234014519",
+        "name": "덤브치킨 부산연산롯데골드포레점",
+        "x": "129.0810253",
+        "y": "35.1745928",
+        "distance": 0.311,
+        "categoryName": "치킨,닭강정",
+        "categoryPath": [
+          [
+            "220036",
+            "220049",
+            "1006549"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "치킨,닭강정"
+        ],
+        "reviewCount": 663,
+        "averagePrice": 10000,
+        "address": "부산광역시 연제구 연산동 2367 연산롯데캐슬골드포레 401동 상가동 1층 108호",
+        "roadAddress": "부산광역시 연제구 황령산로 615",
+        "abbrAddress": "연산동 2367 연산롯데캐슬골드포레 401동 상가동 1층 108호",
+        "shortAddress": [
+          "부산 연제구",
+          "황령산로 615"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "**덤브치킨 전 매장에서 민생회복지원금 사용이 가능합니다.  저희 덤브치킨은 합리적인 가격에 고품질의 치킨을 추구하는 후라이드 치킨 전문점입니다.  국내산 신선육(냉장육) 큰닭(뼈닭 기 ",
+        "description": "**덤브치킨 전 매장에서 민생회복지원금 사용이 가능합니다.  저희 덤브치킨은 합리적인 가격에 고품질의 치킨을 추구하는 후라이드 치킨 전문점입니다.  국내산 신선육(냉장육) 큰닭(뼈닭 기 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjVfMjIw/MDAxNzQ4MTYzNDM5NDcy.KkaMSd1D5wpMOJ54g-n-ZgRrY52QUylixiouOPQ03tog.AN77JuRl1YCha6v2cPXLftNs0WBlqUghKGAjbGD5z-Ag.JPEG/20250322_173440.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjlfMTUg/MDAxNzQ4NTA4ODU2MTgw.H5tNlJJDQf0doREW_kT-dewXRYEWkigvJ9-USA8eM1kg.E5wicAz-DRT4_2dZbCE-H9djnqJyo4gcdQa0QXhQsOgg.JPEG/20250529_175137.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20241020_125/17294078472288KqPp_PNG/%B4%FD%BA%EA%C4%A1%C5%B2_%B7%CE%B0%ED-%BD%C3%BE%C8_1.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMThfMTAx/MDAxNzYwNzY5Mzg2Mjg2.01i-M5mLBucz3PlSFLYZpWdsecGQRJexutC-VnHQOFEg.GfB0LUjUgar4Rf-ickyujh80Lu8if7AfwzA_7M7x8Gcg.JPEG/E5B47C19-4E2F-4E75-A33D-7F799240A265.jpeg",
+          "https://ldb-phinf.pstatic.net/20241020_35/1729406746208rvStw_JPEG/KakaoTalk_20230604_102759021.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjBfMjA4/MDAxNzUzMDA2OTcwMTg1.pQ1lovFicF2DpYfkWfjCDRzS7m07f_9Wu2Ztk0jGS6sg.nJEeitWOMu9BoQRlkxAAxP7cmKzRU89iwibdnpaGoXEg.JPEG/20250720_191027.jpg",
+          "https://ldb-phinf.pstatic.net/20241020_171/17294068731456MsXT_PNG/%B0%A5%B8%AF%BC%D2%C0%CC_%C4%A1%C5%B2.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjdfNjAg/MDAxNzU4OTYyMjE5ODUw.BeCurKE6ImcPY9XkRjjsYYQwRQWJUyF6p47nm_Gr38Ug.4PgGPsXH5X-O1pi3-LT0Q_oWU8ZVBZkEdc9R7Rqi5TMg.JPEG/9F0A3387-4688-4A2A-89DB-5E24F8A2A2DF.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTNfMTE2/MDAxNzU3NzQ2MDA1MzU2.xSRNmJmUPCuxsxZQrXQmiVvw8hNvJf45H59rEt-lD2og.ZYnNkgJKnDrXkIb9A2mUfpoWKkF6Jh4PQ48mqBFQ2Vsg.JPEG/1D8B0413-6062-422B-B787-2BA43D015A9E.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTNfMjE5/MDAxNzU1MDc4MjI4ODc1.VpCnC0bppPmtNDIXwbCtFwH2lmVnVBGUgVlONI3ME5kg.zJjq-I1PT6-_0OKOgUuunTE141uv7unWrfDXHTcl7kQg.JPEG/IMG_7419.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1006549",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 7,
+        "id": "1159523814",
+        "name": "거대김밥",
+        "x": "129.0808539",
+        "y": "35.1744482",
+        "distance": 0.289,
+        "categoryName": "종합분식",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220185"
+          ]
+        ],
+        "category": [
+          "분식",
+          "종합분식"
+        ],
+        "reviewCount": 109,
+        "averagePrice": 5000,
+        "address": "부산광역시 연제구 연산동 2367 . 상가동 104호",
+        "roadAddress": "부산광역시 연제구 황령산로 615",
+        "abbrAddress": "연산동 2367 . 상가동 104호",
+        "shortAddress": [
+          "부산 연제구",
+          "황령산로 615"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "저희 거대김밥은 후토마키라는 일본식 거대김밥을 한국식으로 저렴하게 만들어 보다 많은 분들께. 크고 맛있는 김밥을 판매하고 있습니다 김밥 속 재료를 자체 조리하여 하루 한정수량이 있어",
+        "description": "저희 거대김밥은 후토마키라는 일본식 거대김밥을 한국식으로 저렴하게 만들어 보다 많은 분들께. 크고 맛있는 김밥을 판매하고 있습니다 김밥 속 재료를 자체 조리하여 하루 한정수량이 있어",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTAzMjlfMjY3/MDAxNzQzMjE3MTM3ODc5.O3ox9gnXbExzSoCxAWwLKcxrP_JNqzEp4A47gZ5XR7sg.29rCLkuSoj2sHh9UeurCaUPLwdvsHU_5HiXfX6Qkqecg.JPEG/20250329_115214.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20211223_180/1640240632770CPyyu_JPEG/0432DCD6-E5ED-4526-AB04-46366C91B37D.jpeg",
+          "https://ldb-phinf.pstatic.net/20211013_25/16341240187809B173_JPEG/0L9ubp9LFIXQM0wFV2C17vpF.jpeg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220185",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.5",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "1159523814",
+            "bodySummary": "연산동 거대김밥 * 부산 연제구 황령산로 615 (연산롯데캐슬 골드포레 상가) * 영업시간 11:00 - 22:00 연중 무휴 * 전화번호 051-868-6867 분식이 땡겨서 집",
+            "url": "https://m.blog.naver.com/yuyunnui/223262200551",
+            "nick": "윤맛둥",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEwMjdfMjAg/MDAxNjk4NDA2MjM0MjQw.idEPSJKp1Q0NDX5JvCFUZzPYOpdfdIeVOx9CiKd7m6Qg.xr1btFRAzZpFg12bnhSmCtBwz2iHjVwA86dxAIQOrOQg.JPEG.yuyunnui/cc551aa5873035d6c74cdd75edf94fbd4f.jpg/cc551aa5873035d6c74cdd75edf94fbd4f.jpg"
+          },
+          {
+            "sid": "1159523814",
+            "bodySummary": "오늘은 #거대김밥 후기 . . . 갑자기 부산음식인 김밥튀김이 먹고싶어서 방문하게된 #연산동거대김밥 집 . . [ 정보 ] 부산 연제구 황령산로 615 부산 연제구 연산동 2367",
+            "url": "https://m.blog.naver.com/s2_bijou/222951907098",
+            "nick": "체리앙마",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjExMTBfMjU4/MDAxNjY4MDE0MDMxMDY5.m-O5hkxoRXsdMioe9wvkGLVS9RDihMAashbkcsUa-S4g.8ZHgWCUy5HiH6m_6AupHbwI7O3K9OpTnBCUsCK1tXH8g.JPEG.s2_bijou/profileImage.jpg"
+          },
+          {
+            "sid": "1159523814",
+            "bodySummary": "개봉박두 거대김밥쑤 떡볶이 3,000 순대 4,000 거대김밥 12,000 튀김 개당 1,000 이웃님들은 밀떡파? 쌀떡파? 어떤쪽이신가용 저는 굳이 고르라면 쌀떡파랍니당ㅎㅎ 순대",
+            "url": "https://m.blog.naver.com/melopia/222676609525",
+            "nick": "bliss j",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA4MjlfMjUy/MDAxNjYxNzc2OTA3MDY2.vSgpfbkTPRJpwNqQxgfHk_dYveJuE6tYMrgg0poRRCYg.X9H54Bszzw6yHChwIU6rPGehNnIEtanz9JWu4IrKBScg.PNG.melopia/profileImage.png"
+          },
+          {
+            "sid": "1159523814",
+            "bodySummary": "부산 연산동 밥집 거대김밥 거대김밥 주소: 부산광역시 연제구 황령산로615 메뉴: 거대김밥 12,000원, 떡볶이 3,000원, 오징어튀김 1,000원 롯데캐슬 골드포레쪽에 위치한",
+            "url": "https://m.blog.naver.com/luremb16/222657380336",
+            "nick": "뵤리",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20130704_215/luremb16_13729180415325XJct_JPEG/1362809914366__facebook_464280209.jpg"
+          },
+          {
+            "sid": "1159523814",
+            "bodySummary": "#부산거대김밥 #연산거대김밥 #부산분식집거대김밥 #연산동분식집 #연산동분식배달 #거대김밥 #연산배달분식 #연산분식집혼밥 혼밥하기 좋은 분식집을 발견했다. 가게이름은 거대김밥! 이름",
+            "url": "https://m.blog.naver.com/economyfree8900/222654597990",
+            "nick": "티끌이",
+            "profileImg": ""
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "id": "1923958187",
+        "name": "프로대패",
+        "x": "129.0772582",
+        "y": "35.1746545",
+        "distance": 0.225,
+        "categoryName": "육류,고기요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220733"
+          ]
+        ],
+        "category": [
+          "한식",
+          "육류,고기요리"
+        ],
+        "reviewCount": 59,
+        "averagePrice": 6000,
+        "address": "부산광역시 부산진구 양정동 116-7",
+        "roadAddress": "부산광역시 부산진구 양연로6번길 30",
+        "abbrAddress": "양정동 116-7",
+        "shortAddress": [
+          "부산 부산진구",
+          "양연로6번길 30"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "부산광역시 부산진구 양정동 116-7",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTdfMjcw/MDAxNzYwNjY1OTE1MDg3.Wl0Vt6to6efDq-2FdOa3zljFKrvEQMNKedgtO5cdvhkg.HtT2h-YziglqhjnHt4YdfbbB8Me7dVh5GzJmU6PKQZog.JPEG/20251014_204533.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDhfMjk3/MDAxNzQ2Njc2MTkwODg3.Wx2R8UJnLA5Wprd2Sbr79ApinrPYN9EkW8bOfPo1wYIg.6XCFPAlZPgcUVAmSydYUbc_HowQDITtHHtTJ98iljUAg.JPEG/20250505_181125.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTJfMjM5/MDAxNzQ3MDA0OTEzNDIz.db0SwIQ4wqFSNNbDWyIpJBi6AMWnKLHjedU10BDJA3Eg.4acQWxeCIyhr4pB9EvbakEX6HyJeiXSWrLoS2HCSDzcg.JPEG/Screenshot_20241101_215424_NAVER.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220733",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 9,
+        "id": "1529425472",
+        "name": "우성각",
+        "x": "129.0774351",
+        "y": "35.1737417",
+        "distance": 0.13,
+        "categoryName": "중식당",
+        "categoryPath": [
+          [
+            "220036",
+            "220039",
+            "220091",
+            "220861"
+          ]
+        ],
+        "category": [
+          "중식",
+          "중식당"
+        ],
+        "reviewCount": 96,
+        "averagePrice": 0,
+        "address": "부산광역시 부산진구 양정동 89-4",
+        "roadAddress": "부산광역시 부산진구 연수로54번길 30",
+        "abbrAddress": "양정동 89-4",
+        "shortAddress": [
+          "부산 부산진구",
+          "연수로54번길 30"
+        ],
+        "displayContext": [],
+        "labelTheme": "중식",
+        "microReviews": [
+          "인생 오므라이스를 만나는 순간"
+        ],
+        "cardDescription": "인생 오므라이스를 만나는 순간",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTAzMjRfMjAy/MDAxNzQyODA5NDcwMjE0.atggRFDKPVB3VleKInwalHhdF0LvBib1KUCI1fbw7CQg.MPfmkQ6NL2qIAxq-yNyO0u1FknaYE_EIeS1iWZKP-bYg.JPEG/20250324_181706.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20200726_82/15957616475017rySm_JPEG/Xbqb4P6-rsRJJYVzkEnRmB-N.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220861",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 10,
+        "id": "1238868153",
+        "name": "해초과메기 양정점",
+        "x": "129.0772348",
+        "y": "35.174129",
+        "distance": 0.176,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220076",
+            "1002742"
+          ]
+        ],
+        "category": [
+          "한식",
+          "해물,생선요리"
+        ],
+        "reviewCount": 104,
+        "averagePrice": 27000,
+        "address": "부산광역시 부산진구 양정동 90-8",
+        "roadAddress": "부산광역시 부산진구 연수로54번길 20",
+        "abbrAddress": "양정동 90-8",
+        "shortAddress": [
+          "부산 부산진구",
+          "연수로54번길 20"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "2025~2026 시즌 시작(2025년 10월24일(금))  포장배달은 13시부터 매장영업은 17시부터입니다  구룡포 덕장에서 해풍에 직접 말린 과메기중에서도 최상급 과메기만을 취급합니다. 당일 공급, 당일 소 ",
+        "description": "2025~2026 시즌 시작(2025년 10월24일(금))  포장배달은 13시부터 매장영업은 17시부터입니다  구룡포 덕장에서 해풍에 직접 말린 과메기중에서도 최상급 과메기만을 취급합니다. 당일 공급, 당일 소 ",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20211010_182/1633851154022sutsY_JPEG/ExU47SGZfykI6L_eDamMmj1_.jpg",
+          "https://ldb-phinf.pstatic.net/20211010_134/1633851159191wERFK_JPEG/-3cy2_CyfQYjJBhtyLa0kiIn.jpg",
+          "https://ldb-phinf.pstatic.net/20211010_104/1633851141848gc0Oc_JPEG/NHAflRwhr7XqzKeMr8eNjKGb.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1002742",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "1238868153",
+            "bodySummary": "양정점도 그러려나? 쨌든 당감동에 전화하니 웨이팅있다그래서 추웠던 우리는 웨이팅 없는 양정점으로 총총총,, 입구에도 테이블이 있는데, 가게가 전체적으로 깨끗한 느낌이였다. 테이블이",
+            "url": "https://m.blog.naver.com/0109879/223297936393",
+            "nick": "다람찌",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20200501_131/0109879_1588299211547Xx46H_JPEG/image.jpg"
+          },
+          {
+            "sid": "1238868153",
+            "bodySummary": "그래서 양정에 위치한 해초과메기에 먹방 제대로 찍고 왔습니다 영업시간은 PM 5:00 ~ 마감시간은 모르겠어요 주차장은 따로 없어서 인근 길가에 주차했구요 화장실은 남녀 분리되어있",
+            "url": "https://m.blog.naver.com/momoyamho/222612673080",
+            "nick": "다쨩",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA2MjlfMjc5/MDAxNjI0OTQzNDIyNDgy.T1fX5bTpp40Q2ptZ0b4dkDLTgrOBN0kcce1p5XJ_SkEg.TBal08MoHENY9ioxdsMbRRtBTqCCoBTv-1z411wKFg4g.JPEG.momoyamho/KakaoTalk_20210629_140556134.jpg"
+          },
+          {
+            "sid": "1238868153",
+            "bodySummary": "햐 근데 과메기만 먹어도 고소하고 대존맛이지만 여기 해초 몇 가닥 올려먹는 것도 식감 완전 신선신선 고소하고 싱긋하고 완전 난리남 어쩔 수 없따 당장 과메기 추가 구야의 영수증 해",
+            "url": "https://m.blog.naver.com/te03085/222590264032",
+            "nick": "우엉",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA0MTJfMTQ0/MDAxNjgxMjk1ODA5MjM1._CVUy-Xp1GYXjs8T3Szb8aqiz9d-zlbA_Ybk2QGlO9kg.dQd4coLbkDPb6-hm6CTnh4BePe99P9wcpc_lKHbQzJ0g.PNG.te03085/profileImage.png"
+          },
+          {
+            "sid": "1238868153",
+            "bodySummary": "이번에 검색하니 양정점이 있다하여 가까우니 여기 고고!!!! 부산진구 연수로 54번길 20 051-715-6979 배달 포장 15:00~24:00 홀 17:00~24:00 우린 과",
+            "url": "https://m.blog.naver.com/petitejr1/222571217433",
+            "nick": "스마일룸",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAxMDRfMjkw/MDAxNjcyODI2MDIyMDQ0.hXzwonAC7ZXbhoVyH8b58HIR9cfec12H5LotFPjHQqcg.aBwH9vtxuZDt2TA0QHACINFWhSXiJauVeVjDAIP10EAg.JPEG.petitejr1/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 11,
+        "id": "1766084278",
+        "name": "스윗분식",
+        "x": "129.0794474",
+        "y": "35.1735785",
+        "distance": 0.129,
+        "categoryName": "종합분식",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220185"
+          ]
+        ],
+        "category": [
+          "분식",
+          "종합분식"
+        ],
+        "reviewCount": 46,
+        "averagePrice": 4000,
+        "address": "부산광역시 부산진구 양정동 531 양정포레힐즈스위첸 상가2층 스윗분식",
+        "roadAddress": "부산광역시 부산진구 양연로 36",
+        "abbrAddress": "양정동 531 양정포레힐즈스위첸 상가2층 스윗분식",
+        "shortAddress": [
+          "부산 부산진구",
+          "양연로 36"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "부산광역시 부산진구 양정동 531 양정포레힐즈스위첸 상가2층 스윗분식",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTNfOSAg/MDAxNzQ3MTE3MjE0OTkw.3zBSPkHAH-eOKcUgxqlPCEPMemXhIIH2bg-PykB-ftog.dK_mNMWuYt3koxGhRe0Ee5SY4IjYTkaP2H18txmmIVsg.JPEG/1000026945.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjFfMjkg/MDAxNzU1NzQwMTU1Njg2.u5Nxfmd6EEl9RChH58kvkyq_YhGnyRj2PW7_o0DR5wUg.WjF0y1H8JKLv5f844JdC3CPd1fM--mk9viThMY_tIUcg.JPEG/20250809_190107.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20231120_258/1700487951911fXyIE_JPEG/IMG_0805.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDJfMjY3/MDAxNzU0MTI5Njg4NDky.QfzSTyk_-p8zl9OSgXSDWuDgT0tjcP4ww62fZlIaCSkg.OF90swn_8yZzYWnElYdl5BqOAMJyMo6vJ_3PSm7lVJQg.JPEG/BE057B61-E606-44C1-8F04-D618127AE1E8.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTVfMjU4/MDAxNzQ0NzA1MTg2NTQw.wtXWqoXbCQdxZnO2YncP2qqBAzVFW4H5Dv52r359Ylwg.wnWEzChImJ5zvs6TNN10fPLIVYLtPzpPJISaxVBwfN8g.JPEG/1744705146052.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTRfMzMg/MDAxNzU3ODU3NDA1MDI1.Um44YmFygjHtoDDxvn5AzadgseZMkIsM7zr4FfpqrWcg.PqZH52XHVDkx4lQKUr-7SPNn0T4JjwkrhkP_TeT6bHwg.JPEG/B6D2D23D-2E95-45C5-80CB-8AD32E5F10B5.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220185",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 12,
+        "id": "1973916043",
+        "name": "통영맛집장어탕장어구이",
+        "x": "129.0770483",
+        "y": "35.1743897",
+        "distance": 0.209,
+        "categoryName": "장어,먹장어요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220076",
+            "220799",
+            "1006317"
+          ]
+        ],
+        "category": [
+          "한식",
+          "장어,먹장어요리"
+        ],
+        "reviewCount": 30,
+        "averagePrice": 0,
+        "address": "부산광역시 부산진구 양정동 90-1",
+        "roadAddress": "부산광역시 부산진구 연수로54번길 14",
+        "abbrAddress": "양정동 90-1",
+        "shortAddress": [
+          "부산 부산진구",
+          "연수로54번길 14"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [],
+        "cardDescription": "부산광역시 부산진구 양정동 90-1",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MDVfNDYg/MDAxNzQzODM4ODcxNDM0.b-anxEg06yM5aL4O6Wpx5u9InyAiX6AnUro4U22I1Gog.WOVXQgXaA8ZrZwi8EF3yEA1Fzn4EEPHuy5p2-LMhIegg.JPEG/20250320_124151.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDhfMiAg/MDAxNzU0NjU1NTE4NTcx.reOF03n6IWlA9BSJjXmM9ymlsakGYnLxePuZca5IIuog.F6aYEqbeXYDp8wWYxu0Zj54kqG3ZJ6nISy0foXnb4j0g.JPEG/20250807_123513.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1006317",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 13,
+        "id": "1632900800",
+        "name": "오늘은 칼국수",
+        "x": "129.0771305",
+        "y": "35.1742879",
+        "distance": 0.196,
+        "categoryName": "칼국수,만두",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220073",
+            "220712"
+          ]
+        ],
+        "category": [
+          "한식",
+          "칼국수,만두"
+        ],
+        "reviewCount": 28,
+        "averagePrice": 5000,
+        "address": "부산광역시 부산진구 양정동 90-2",
+        "roadAddress": "부산광역시 부산진구 연수로54번길 16",
+        "abbrAddress": "양정동 90-2",
+        "shortAddress": [
+          "부산 부산진구",
+          "연수로54번길 16"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "부산광역시 부산진구 양정동 90-2",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjVfMTk3/MDAxNzQ1NTU5MTgzMDMz.epcotuQLV9YYbkPno9tZM0F2ZDuOiJB7ttxRiXUcWeYg.6MzazTW1LB98mCl6uP2Z0Obh94-S3_fPg7-zu4-nOOwg.JPEG/IMG_4667.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTNfNCAg/MDAxNzU1MDM1OTY0Nzc5.pNwxa-fQyYvDLeOPAijUJcCi6ZPgOUVtYAcPccKSiT8g.2lhbwzLLaXZQAmBvHHuVj9QLhgGCzhIh99YNg14_jxIg.JPEG/20250812_192820.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240101_219/1704118063529OS5iS_JPEG/20240101_230534.jpg",
+          "https://ldb-phinf.pstatic.net/20240101_164/1704118044492lajkf_JPEG/20240101_230522.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220712",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1632900800",
+            "bodySummary": "오랜만에 낮에 칼국수 타임! 사실 칼국수는 먹고싶어도 아기의자가 있거나 아기랑 같이 갈 수 있는 곳이 별로 없는데 무려 아기 의자가 있는 칼국수 맛집 발견 부산 양정 '오늘은칼국수",
+            "url": "https://m.blog.naver.com/bbogeuldarly/223378318974",
+            "nick": "서인",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA3MjRfMjI2/MDAxNjU4NTkzOTMyMzE3.7n1u352BAhZhu9uAUXjYwyKt_igLXkLmEYmHddBmP1Mg.TvaSNiFjJjuGhKgGyp6xk4W3x49b-zBgu7JkplplYPYg.PNG.bbogeuldarly/profileImage.png"
+          },
+          {
+            "sid": "1632900800",
+            "bodySummary": "오늘은 점심시간에 먹은 칼국수를 올려보려구요. 그냥 회사 주변에 있는 식당이라 큰 기대는 안하고 갓는데요. 짜잔!! 기대를 안하고 갓는데도 불구하고 시원한 국물맛과 엄청난 양에 반",
+            "url": "https://m.blog.naver.com/donydony84/220513229748",
+            "nick": "도니도니",
+            "profileImg": ""
+          }
+        ]
+      },
+      {
+        "rank": 14,
+        "id": "1989195398",
+        "name": "일광바로손만두",
+        "x": "129.0759763",
+        "y": "35.1722037",
+        "distance": 0.228,
+        "categoryName": "만두",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220189"
+          ]
+        ],
+        "category": [
+          "분식",
+          "만두"
+        ],
+        "reviewCount": 40,
+        "averagePrice": 5000,
+        "address": "부산광역시 부산진구 양정동",
+        "roadAddress": "",
+        "abbrAddress": null,
+        "shortAddress": null,
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "부산광역시 부산진구 양정동",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjVfMjgz/MDAxNzU4ODExNzU4OTI3.pe6M5BNAEVjOLS4EFwGEByVoAPCb3YB4zJUSzDWNgNEg.yeeBEoyMu-ACMO22eK9gWjKKz9XDiN74IwRYibkHojgg.JPEG/20152B00-A4E1-4370-8931-C4993C885ED5.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDVfMjIz/MDAxNzUxNjQ1OTA3MDg1.2CTwkcVOcIrKBuOFWSg6bJyG4uYORvKLHjHbsIMAgp0g.xV0XdDru0QT2WuUVGfHFX8Ruwo4ksUh4eKfUuG9_fHMg.JPEG/20250701_121352.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjdfMTYz/MDAxNzU2MjY5NzAzMDk4.JpJtMBjAmovlOywX4OL7vxhVOBSNsKEUerztlDzR-rEg.sGhLnNxq6V3mmzXdTciCX5bBapXJvzBbQTvxett3CKcg.JPEG/IMG_6099.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDFfMjM5/MDAxNzU0MDA5MjY3MTMw.aIBLeXy3XvbXtfhLRiW72ylM-lS4JcJRgxNmm5qhtdog.APe5c6tLlRR_UY4DzL5_9X-KNlq0Pfg2V-wXs66nbAIg.JPEG/20250730_122504.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTNfMzMg/MDAxNzYwMzIzMjU5MTI1.iYTt_mQHUvgmJkHPmNKzlIJEfT9ILO2qmnM6bTb00Q4g.lH5j3EcHvdJ8Ia25LOfdyF7FL5NNRdE6MuNKTS7X8OQg.JPEG/7D0B9860-EC09-43F4-80A1-FA46E799A4DF.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220189",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 15,
+        "id": "1064501826",
+        "name": "카페양정",
+        "x": "129.0772401",
+        "y": "35.1741176",
+        "distance": 0.174,
+        "categoryName": "테이크아웃커피",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220577",
+            "221358"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "테이크아웃커피"
+        ],
+        "reviewCount": 8,
+        "averagePrice": 5000,
+        "address": "부산광역시 부산진구 양정동 90-8",
+        "roadAddress": "부산광역시 부산진구 연수로54번길 20",
+        "abbrAddress": "양정동 90-8",
+        "shortAddress": [
+          "부산 부산진구",
+          "연수로54번길 20"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "안녕하세요. 2023년 9월 시작합니다. 저희 매장은 [패스오더 앱]으로 편하게 주문이 가능한 매장입니다! 앱으로 미리 주문하고 방문 후 기다리지 않는 VIP 경험을 가져보세요!",
+        "description": "안녕하세요. 2023년 9월 시작합니다. 저희 매장은 [패스오더 앱]으로 편하게 주문이 가능한 매장입니다! 앱으로 미리 주문하고 방문 후 기다리지 않는 VIP 경험을 가져보세요!",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20240311_179/1710137005414a0L6i_JPEG/Screenshot_20240311_145641.jpg",
+          "https://ldb-phinf.pstatic.net/20240311_197/1710137010318nzNO2_JPEG/Screenshot_20240311_145657.jpg",
+          "https://ldb-phinf.pstatic.net/20230906_8/1693981122759JpD1q_JPEG/IMG_5888.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221358",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 16,
+        "id": "1489289456",
+        "name": "컴포즈커피 동의병원점",
+        "x": "129.07702",
+        "y": "35.1706276",
+        "distance": 0.275,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "230629"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 96,
+        "averagePrice": 5000,
+        "address": "부산광역시 부산진구 양정동 32-99",
+        "roadAddress": "부산광역시 부산진구 양정로 63",
+        "abbrAddress": "양정동 32-99",
+        "shortAddress": [
+          "부산 부산진구",
+          "양정로 63"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "저희 매장은 [패스오더 앱]으로 편하게 주문이 가능한 매장입니다! 앱으로 미리 주문하고 방문 후 기다리지 않는 VIP 경험을 가져보세요!",
+        "description": "저희 매장은 [패스오더 앱]으로 편하게 주문이 가능한 매장입니다! 앱으로 미리 주문하고 방문 후 기다리지 않는 VIP 경험을 가져보세요!",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTVfMTU3/MDAxNzU3OTA3MTMxMjMx.B7pPBs-LgPdNjObs7vj2ql0KLWEUMEmflB4PGniKSF0g.rbz7wCS6exea94jxdGDWY93h5B7AV2dWaD6xjwhfvzEg.JPEG/1000034531.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjhfMjUx/MDAxNzUxMDc2NjYyMzMy.G2ieC-gA4c7f_lG7wbCX8taHl3P9icEmyso4gzWVXvwg.cV6ShEzqSv4cPkKt6Mtd19L9qZoTAfnRmHk9iGC8UV0g.JPEG/48AD1A48-01AE-40FC-B8E9-161C92DC20A6.jpeg",
+          "https://ldb-phinf.pstatic.net/20240416_99/1713232448578CjlYN_JPEG/KakaoTalk_20240415_184745293_01.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjhfMjk3/MDAxNzUxMDc1NDAwMTIz.JErxIMYyslJnQNlgOVXsaK2l4dSwnBLq1P5Kxj0_UkUg.fhiId-1AaxJLZjkFvV9Nw8rbrCvw2xTyMlKdorOyyoEg.JPEG/2B40BF1A-4C0F-4FDA-A5A4-17ABF82D19CF.jpeg",
+          "https://ldb-phinf.pstatic.net/20240416_165/17132324486276E0p5_JPEG/KakaoTalk_20240415_184745293.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTRfMTg4/MDAxNzQ5OTExNzUxMzAx.RJHsau4qtXUQWocfULYPeKehjzYO7XWCJ5xvnVlXo4Ug.IF7HhwKmQ9JTt-mSC97zf-Jk-6XOPAhqDUAc8Xmo12Qg.JPEG/20250510_143016.jpg",
+          "https://ldb-phinf.pstatic.net/20240416_7/1713232448551GdTP6_JPEG/KakaoTalk_20240415_184745293_02.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjBfMjYy/MDAxNzQ1MTEyMzMzODU1.lXzW4AZf3pkQrCbVCyOcYZqZ_4ObzXWj3qdSWRAfTaEg.51Faf8XJUMYnNV6h9qOfJQYm4rrIYHOz8pUT71ryn0wg.JPEG/20250420_102306.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTNfNzcg/MDAxNzQ0NTEyNjg2Nzk1.20uTKX-I-oMrImcdFZKhLEFlNVBsDqLl3va6s_Z8izsg.BZIlN8KZ7QWFejgl57L4vPyzOTN0Bp0pab9k30Tnc7og.JPEG/20250413_114757.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjBfMjg2/MDAxNzQ3NjkzMTgwNTE4.FJBJYDNn7OrW42vNYsP9VjGunx24Xcde8KHrhCcPXI8g.xZaYC7fWT4hH37Ud6zTGsX2GtgApzRtiw7zzPb0eAHEg.JPEG/20250519_142635.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "230629",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 17,
+        "id": "1553542283",
+        "name": "텐퍼센트커피 양정자이더샵점",
+        "x": "129.075774",
+        "y": "35.1745345",
+        "distance": 0.301,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "1002685"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 30,
+        "averagePrice": 5000,
+        "address": "부산광역시 부산진구 양정동 104-64",
+        "roadAddress": "부산광역시 부산진구 연수로 38",
+        "abbrAddress": "양정동 104-64",
+        "shortAddress": [
+          "부산 부산진구",
+          "연수로 38"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "저희 매장은 패스오더 앱으로 편하게 주문이 가능한 매장입니다! 앱으로 미리 주문하고 방문 후 기다리지 않는 VIP 경험을 가져보세요!",
+        "description": "저희 매장은 패스오더 앱으로 편하게 주문이 가능한 매장입니다! 앱으로 미리 주문하고 방문 후 기다리지 않는 VIP 경험을 가져보세요!",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTVfMjg0/MDAxNzQ3MjczNjUzNTcx.VRrzXx1kPZQfqw2dcnOynt-WX-JykrROxe17HDpkxc0g.CnBssZhnVke0_2PR1BQjNKVN2mWGCMDv2oGtRQW3jWYg.JPEG/78AE173A-2161-43F1-8379-3BB9C41772E2.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDVfNTMg/MDAxNzU0Mzg3MDQ5MTI5.4eG4HEwiiKGiW23vxhpEA95xckOHNgD-7rLzHvsMLusg.x0vfvnIAdmnKx-491plcmgSVxMyt2Erf9oqHg8gD0eog.JPEG/F696BD0A-9200-4630-A14C-9E769C42F525.jpeg",
+          "https://ldb-phinf.pstatic.net/20250325_72/1742862346295Frp0L_JPEG/%C0%E5%BF%F8%C1%F8_20250325_083123_2.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTBfMTAx/MDAxNzQ2ODgxNDI5Mzk5.i-XQy5HUkAO4VP1mEvxCcwbLxMNs5UxinULJ_33ksvYg.zVLAkIhsGYO0ACGhuBUyuHvdqqDpN7iefyhc2-Lhf48g.JPEG/20250510_181347.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250325_170/1742862346299Jk5Jp_JPEG/%C0%E5%BF%F8%C1%F8_20250325_083123_1.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTBfNjMg/MDAxNzQ0MjQ3Nzc5MDg1.ZS43fMSWVIChQfFkPwGx2r7nB5YHZYOphGArsg2JtVMg.-BJ8FVpaTuI7EXPdqLYMgIIQ2kMnc2tLm5oYr4-Gzy8g.JPEG/20250410_093719.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250325_296/1742862346375lbqP3_JPEG/%C0%E5%BF%F8%C1%F8_20250325_083123_3.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MDlfMTkw/MDAxNzQ0MTcwMDk4NjU5.26FngpjPNM0eWLVMfQ8eVz1YT_hsH3Mk5iKBwyEntPsg.yf0O-q4lbeQQjT5pPNBfEFFyDsiGmL7J_beEZsJfxDsg.JPEG/12A85A31-5358-41E6-86C8-0818B62F9C1F.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTFfMjQz/MDAxNzQ5NjA5NDM3NTAy.4KZwXvuav-7qKvrTiJSAAHYDnH8Eu3ELT1EwYGrd4_Eg.7oi0YfmKNdZvOv0cGubYg7E-WuJtriBgiypM_LOHEDQg.JPEG/18C84732-B88C-45CD-8D13-037569A22043.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTRfMjQ1/MDAxNzUyNDUzMjg3NDAw.ERBUAd38ZYSomyz7d04tZBpUqPS5M5F-cV332uNXQfcg.WeA5MUxgGKMIW-3heQ5DfGZxa4oDjlPYiy1IJe5Dwr8g.JPEG/20250713_123706.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1002685",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 18,
+        "id": "1094836784",
+        "name": "백억커피 부산양정점",
+        "x": "129.0780506",
+        "y": "35.1734614",
+        "distance": 0.074,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "1005529"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 288,
+        "averagePrice": 5000,
+        "address": "부산광역시 부산진구 양정동 85-4 1층 백억커피 부산양정점",
+        "roadAddress": "부산광역시 부산진구 진남로 587",
+        "abbrAddress": "양정동 85-4 1층 백억커피 부산양정점",
+        "shortAddress": [
+          "부산 부산진구",
+          "진남로 587"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "안녕하세요, 백억커피 부산양정점입니다.",
+        "description": "안녕하세요, 백억커피 부산양정점입니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjNfMjQ4/MDAxNzUwNjYxNjUxMDM2.qXswaEuFnwXVhN9fwi7ZVUXgsbjr5AV84nuHBslaayQg.pZnrR09CIazJhBIyQjzZCjVzBSFruLG5Wi8U60BTYtcg.JPEG/20250623_155006.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDRfMTE3/MDAxNzUxNjE3ODAwOTY2.1VwTkOijWRvfprjjV4fqwCbZIdE0LjU8jnuM96EdseIg.L5HrDHNZhENFo5SWFrLZQo0d0djs7SOwWG2I3Zbmh9Mg.JPEG/Screenshot_20250704_172843_KakaoMap.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240122_239/1705906842754qxHKT_PNG/KakaoTalk_20221115_161435181_04.png",
+          "https://ldb-phinf.pstatic.net/20240122_76/1705906842757QnBMe_JPEG/KakaoTalk_20221115_161435181.jpg",
+          "https://ldb-phinf.pstatic.net/20240122_130/17059068424342pnIv_JPEG/KakaoTalk_20221115_161435181_01.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1005529",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "1094836784",
+            "bodySummary": "백억커피 부산양정점 부산 부산진구 진남로 587 1층 102호 백억커피 부산양정점 매일 08:00-02:00 0507-0288-9145 주차가능 아기의자 있음 O 백억커피 부산양정",
+            "url": "https://m.blog.naver.com/lucky_dream/223401196514",
+            "nick": "차밍",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDExMjVfMTY4/MDAxNjA2Mjc3NjgzMDEy.fLmz83ZDBe8jRiymdNbNQ9ebJe60HcQcbeXTOTj_4lMg.nXpB4lRfAgELctYixskv17xl4xWP3WSM-3ofS8rOzwkg.JPEG.lucky_dream/KakaoTalk_20201125_131355943.jpg"
+          },
+          {
+            "sid": "1094836784",
+            "bodySummary": "☘ 부산양정카페 백억커피 #양정역카페 #양정동카페 #부산카페 ✔ 상세정보 주소 : 부산시 부산진구 진남로 587 1층 ⏰ 영업시간 : 08:00 ~ 02:00 0507-0288-9",
+            "url": "https://m.blog.naver.com/vvv_i75/223386720402",
+            "nick": "낌쟁",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTAyMTVfMjkg/MDAxNjEzMzUyNDk2MDYy.p0a01HoYeYIsHAmks-CnEVI59bpmxGduWfljtF0i2Lsg.iusqI6NheKLnEHdwexlDZwdCnwIDxT_R6wZpBnhkuJMg.PNG.vvv_i75/profileImage.png"
+          },
+          {
+            "sid": "1094836784",
+            "bodySummary": "그 길로 걸어서 다녀왔답니다 영업시간 매일 08:00-02:00 계산대 있는 곳에는 볶음밥이 안 적혀 있길래 혹시나 없어졌는지 여쭤보니 (메뉴에서 빠졌을 수도 있으니) 따로 종이 ",
+            "url": "https://m.blog.naver.com/kimye419/223374996659",
+            "nick": "은꾸러미",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAzMjFfODgg/MDAxNjc5MzkyNDUyOTky.Znoa_lveBjL20cVCj7oTolbE4lxeuUemUdsbPS35b2Yg.VgG5vqZAKib6eaiXUexOjd_EPo-AI1OVAQdSOZWnj1Ig.JPEG.kimye419/%25EC%259D%2580%25EA%25BE%25B8%25EB%259F%25AC%25EB%25AF%25B8%25ED%2594%2584%25EB%25A1%259C%25ED%2595%2584%25EC%2582%25AC%25EC%25A7%2584.jpg/%25EC%259D%2580%25EA%25BE%25B8%25EB%259F%25AC%25EB%25AF%25B8%25ED%2594%2584%25EB%25A1%259C%25ED%2595%2584%25EC%2582%25AC%25EC%25A7%2584.jpg"
+          },
+          {
+            "sid": "1094836784",
+            "bodySummary": "그럼 포스팅꼬우! #백억커피 #백억커피부산양정 #백억커피양정 부산 부산진구 진남로 587 1층 백억커피 부산양정점 (양정역 4번출구에서 770m) 0507-0288-9145 영업시",
+            "url": "https://m.blog.naver.com/sjssnrmdi/223361036425",
+            "nick": "오징징",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA2MDFfMTEg/MDAxNjg1NjA1OTMzODAz.cQKY7dM0JSGbbzAR_csAOQkteXEhvm-m6vqf88FJbxAg.-sZWaK3PvUb2XcLg3mnb8jaGGZEZemuIFdCAfIMjR3kg.PNG.sjssnrmdi/profileImage.png"
+          },
+          {
+            "sid": "1094836784",
+            "bodySummary": "부산카페 맛집 ‘백억커피 양정점’ 위치 - 부산광역시 부산진구 진남로 587 1층 ⏰영업시간 - 매일 08:00 ~ 02:00 안녕하세요~!^^ 미유 입니다 ㅎㅎ 요즘 프렌차이즈 ",
+            "url": "https://m.blog.naver.com/miu4614/223359763559",
+            "nick": "차미유",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMTRfMTg1/MDAxNzA1MjIyMDc4NDYx.tKg-8XT4IWpVm_jMOEDBv-xut9rQmwkqh4vDsJu4Q-Yg.lcugx2N3v6GV65VFjF0jwH2m9mklOO4boW94oOnFcSEg.PNG.nana901/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 19,
+        "id": "1879630745",
+        "name": "텐퍼센트커피 양정스위첸점",
+        "x": "129.0790817",
+        "y": "35.1735193",
+        "distance": 0.1,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "1002685"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 45,
+        "averagePrice": 5000,
+        "address": "부산광역시 부산진구 양정동 531",
+        "roadAddress": "부산광역시 부산진구 양연로 36",
+        "abbrAddress": "양정동 531",
+        "shortAddress": [
+          "부산 부산진구",
+          "양연로 36"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "부산광역시 부산진구 양정동 531",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDZfOSAg/MDAxNzU3MTI0NDYzODM3.PjemogAU9600xcwm19ePaMAwlNLLGk0WF0U4rJWyysUg.iYAl4br-8eVpREPKcumyvos4ym7fU5psCld_l07zBrUg.JPEG/20250906_110541.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjZfMTY5/MDAxNzUwOTI3NzYxOTc1.cjV3PTHeGPUOtj3mROSk5ET1sILMM8FPSTSt52wAkNMg.4snQUi180e2WVc3mUVYZyKLAfHpfx2rUzxWdKh6dH-Eg.JPEG/20250626_174704.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20230926_72/16956928632681klMr_JPEG/%C0%CC%BB%F3%C7%CF_20230926_100505_2.jpg",
+          "https://ldb-phinf.pstatic.net/20230926_192/1695692868856l38tI_JPEG/%C0%CC%BB%F3%C7%CF_20230926_100505_1.jpg",
+          "https://ldb-phinf.pstatic.net/20230926_126/1695692869104EpcmY_JPEG/%C0%CC%BB%F3%C7%CF_20230926_100505_3.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1002685",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 20,
+        "id": "1183485999",
+        "name": "댄싱컵 양정자이더샵점",
+        "x": "129.0761865",
+        "y": "35.1746542",
+        "distance": 0.282,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221212"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 17,
+        "averagePrice": 5000,
+        "address": "부산광역시 부산진구 양정동 104-64 170동 1층 107호",
+        "roadAddress": "부산광역시 부산진구 연수로 38",
+        "abbrAddress": "양정동 104-64 170동 1층 107호",
+        "shortAddress": [
+          "부산 부산진구",
+          "연수로 38"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [
+          "가성비 좋은 아메리카노의 풍미"
+        ],
+        "cardDescription": "가성비 좋은 아메리카노의 풍미",
+        "description": "High-quality Low-price coffee 저희 매장은 패스오더 앱으로도 편하게 주문이 가능한 매장입니다!",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDJfMTkw/MDAxNzQ2MTk1MTA3MjIz.WgFBHbFsPcJZI5FEI-YVkzxyJU8DejUALxNOJaHOTzIg.1m8YUoMPdUWYCmn16z91ZGBAlGgqt6J5OPneLWcFdDgg.JPEG/20250329_095416.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTAzMjBfNzAg/MDAxNzQyNDM4NjE4OTY0.jaMLSu8HYESPmjKgegSux8mOY7fRUg_RzgfPiYMHcoog.cNbGUnT2TBxyxqGG79HJVPO2W1EKnMS6o81kzVPjLAQg.JPEG/20250320_112142.jpg",
+          "https://ldb-phinf.pstatic.net/20250317_148/174217090913251HWW_JPEG/IMG_3435.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MDJfMjAg/MDAxNzQzNTQ4ODg0NDA2.0RVNvQ_u3FcpmOrD2FbM4ixyii0jrYtAIjabPQgpQxog.E4KaZkTycgSTMtYy3IcjvX-weuSMVviPpXhReT-ALigg.JPEG/20250320_085425.jpg",
+          "https://ldb-phinf.pstatic.net/20250317_240/1742170910084RRcvO_PNG/IMG_3436.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjFfMTU1/MDAxNzQ1MjI3MDA2MDYw.sZkC6GhRUeOpb967lB_oLijonhpDJMx0Ors3GGILnx8g.Ui2ew6ZytyLAgymh68SXHjBozFAitYdcjoHZtqcb8q8g.JPEG/20250421_181627.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250317_207/1742170910388gkdC4_PNG/IMG_3437.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjlfMjky/MDAxNzUxMTkwNTQwMjU1._AxBI8AnZZ9uSAMYCDDfWZkoVf0qC8_krf1bogBcy_cg.nIli3iyJdz0f7rEbv-Gr0oVmpEFXBXuaOZFlwGI5YA4g.JPEG/20250629_101710.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTAzMjFfMTY3/MDAxNzQyNTE0ODk2NzIw.iTdPtZpUjbKgUC8uv0HwRXbySyEisApe5v6HbmyZQ5Ug.IctVfmDVx3v12jGXA2y03Fz3ag9VwvmcFo32BbfCNKsg.JPEG/20250321_085416.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTlfNjgg/MDAxNzYwODcxOTk1ODk0.NHZCv0qShwUJ41Rt2P8Ne5QsGDIpykCEeZRwwcv_Ph0g.ghylpSTdDAGpfeJeTQHmS06OvzpeDtEAYekQYCvSXdUg.JPEG/20251019_172608.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221212",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 21,
+        "id": "1261570602",
+        "name": "고봉민김밥인 부산양정자이점",
+        "x": "129.0759917",
+        "y": "35.174611",
+        "distance": 0.291,
+        "categoryName": "분식",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220204"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "분식"
+        ],
+        "reviewCount": 8,
+        "averagePrice": 0,
+        "address": "부산광역시 부산진구 양정동 104-64 170동 1층 110호",
+        "roadAddress": "부산광역시 부산진구 연수로 38",
+        "abbrAddress": "양정동 104-64 170동 1층 110호",
+        "shortAddress": [
+          "부산 부산진구",
+          "연수로 38"
+        ],
+        "displayContext": [],
+        "labelTheme": "분식",
+        "microReviews": [],
+        "cardDescription": "간편해도 간소하진 않아야 하니까, 김밥은 역시, 고봉민김밥인!  고봉민김밥인은 자연의 맛을 간직한 좋은 재료로 믿고 먹을 수 있는 안전하고 정직한 먹거리만을 만듭니다.",
+        "description": "간편해도 간소하진 않아야 하니까, 김밥은 역시, 고봉민김밥인!  고봉민김밥인은 자연의 맛을 간직한 좋은 재료로 믿고 먹을 수 있는 안전하고 정직한 먹거리만을 만듭니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTlfMzkg/MDAxNzUwMzI0NDAzMDQz.kABYDDLIHf8PUxgq7M_uyO7p5u1h-hPvnwmQCKtklekg.F3Iz8oHfwEUJS1WzWa5WTbEgsKha8ea38SnzOrCpMcYg.JPEG/89953CF5-3360-48D9-A4BE-70A04E0686C6.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTNfMTYy/MDAxNzQ5ODIyOTMwMzky.wpV5e4NY5igfGyH1llQYLepyfHB7GLQYiWNE3zGGalAg.NCpqheyYBbfOvf3RIbuxO4cFmD8mNj9ar8VB3iygNK0g.JPEG/20250612_170819.jpg",
+          "https://ldb-phinf.pstatic.net/20220214_87/16448042313851HqxD_PNG/%C0%DA%BB%EA_1.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDRfODIg/MDAxNzU2OTQ2MTYyNDcx.1NKFJM4loe0qHlH-GUYAsilPddnCWlYA6USL9_Nzpscg.VNVCottWFpWjc2RGe1ybPZ2TZiGUHlkEkPjpQSV-eQUg.JPEG/20250807_194142.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250512_218/1747012869401ifeiN_JPEG/%B8%DE%C0%CE%B9%E8%B3%CA.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDRfMTky/MDAxNzQ2MzI4NjAxOTkw.BhiS9gy6b7COVx0Ibs5GKa-vmVOI2qdKd2v59tQEObkg.n9kwnYsEC7seCMk_dDFDiMLZzTpv622JYojFoIcaGJgg.JPEG/20250504_115833.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250304_125/1741049105836AtwAa_PNG/zdzd.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjlfMjQg/MDAxNzUxMTc1OTA3NTIy.22fqNN4J71PKCKoAZ8VKYHjLWk3KhimNZrWyYmkZiFsg.7Cpxqkc36Rg_S0pWf7uP8u-BXtTCX_MHbuMkDg_LmkIg.JPEG/B1E17226-A096-4B4F-B187-5E6288B18267.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTAzMjNfMjk1/MDAxNzQyNzE3NjI1NzM3.YZQCNcr-R_tH_TsDijDqvMc1nIgRMPAbU5IfS3bypeAg.qO61pR8eSAh1DPzu7Ti-3EiccodKnN0TFVyYCcW7ThEg.JPEG/EFA7CCA8-15E8-48E3-A3E2-9DDD113AE2C2.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTAzMzBfMjUy/MDAxNzQzMzM3MDIyMDQw.mFFIAVAlpUwIQBzzwdKIzTu7SeRluyRsTt-LP8UjGe8g.K0WBV1Lp2-EiV0DLJHnVM5tkVVHTKlHFbA8iqDaotvUg.JPEG/1743336980481.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220204",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 22,
+        "id": "1944117402",
+        "name": "명품달인김밥 연산점",
+        "x": "129.0809509",
+        "y": "35.174525",
+        "distance": 0.301,
+        "categoryName": "김밥",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220186"
+          ]
+        ],
+        "category": [
+          "분식",
+          "김밥"
+        ],
+        "reviewCount": 550,
+        "averagePrice": 3000,
+        "address": "부산광역시 연제구 연산동 2367 상가동 106호",
+        "roadAddress": "부산광역시 연제구 황령산로 615",
+        "abbrAddress": "연산동 2367 상가동 106호",
+        "shortAddress": [
+          "부산 연제구",
+          "황령산로 615"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [
+          "깔끔한 매장에서 맛보는 친절한 한 끼"
+        ],
+        "cardDescription": "깔끔한 매장에서 맛보는 친절한 한 끼",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDNfMTE2/MDAxNzQ4OTI3NjU1NzEz.ogwNfhQ38s4DVxNUHDdnwVBkv_m6HtkBim0PeO-FYWAg.RNoW0I_5fqBlcWoWBBCeXmLkXkPJr5ZVJ4jOdDQr-zkg.JPEG/20250528_174527.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTZfMjg4/MDAxNzQ0NzY5OTk5ODE2.7lmEeWmkOPmiBwVbPyg5WNRCVl8XUVSqQKzWey0FPpAg.PKzB4KOykiLvXk9lgQ5QqoZX0mVLTftlAhWhaOzCpAEg.JPEG/20250416_102451.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjhfMTkx/MDAxNzQ4NDI5MjkwMTM2.tUuLb9hYFWxoTuhPlY39Pf5Zzc7SGHDJg_ygUub56tUg.2_9LvWnZZhVXoByHWNXkYzdt7GXzxxyEsG7UnzFP9aog.JPEG/20250528_171757.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTJfNyAg/MDAxNzYwMjIzNzQ1Mzc1.etwd99etfigYeZLuvTMf7RyhelCWbNVI83kZddEdGVMg.Su00X-xhmuRCtQrTm8nA6-ziRtSo8ZBRT0wJQ-lHdiAg.JPEG/20251012_080051.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDRfODkg/MDAxNzQ4OTk1NjM3NzA4.HtZgTK5-ZtB7NzGSXGpjYbPjTp7ihzoTaQV_JxUTsVgg.zs0R-cYRT0q01fNuDi5GPTbMnzYfNXovwyKnrREI-0Ag.JPEG/20250604_090512.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTBfMTc4/MDAxNzQ2ODM0OTIxNzIy.PLtN2H6umxSjHl8-A08nLjs4cfQt61cjzNjM3OzWQP4g.1Z62d_bG5T9WHn38j0aqYFpLD9u4rwzQBW_eltnRcH8g.JPEG/20250510_085425.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTNfMjMz/MDAxNzUyMzM2MDExMjA1.Fk5dW-H2zod-qzDH02s35jNbF99aZd6KbDn0SOTRxvIg.oDs8CHpOXWu9T3zsDIvavc-HkU1Cgz-Uza52yxC283Yg.JPEG/D57CAD2F-7F86-4041-B43D-93A6811E2105.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MDZfMzgg/MDAxNzQzOTIzNjI3MTM4.LNFHmuwWvsZnqFdes5-ev3d_4se_LTnWkgBb2_vkbnog.UhoRiCxa-Uy9Sn6IzBRkdckGJ6bzjGD0xCzo4gEMu84g.JPEG/20250406_093644.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjFfMTk3/MDAxNzUwNDM0MjQwMzI4.Knb30yKGt-noxGbB2nujNR60wkGdPMjt4E6py-YR_qMg.Z5d_Dk7VIOpYUwyusHUVSlI0feGDIIsnfBp9PVCGoowg.JPEG/17504342302824230690117523615703.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220186",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1944117402",
+            "bodySummary": "명품달인김밥 연산점 주소: 부산시 연제구 황령산로 615 롯데캐슬골드포레 상가동 106호 영업시간: 월-금 08:00-18:00전후 토-일 06:00-16:00전후 (재료 소진시까",
+            "url": "https://m.blog.naver.com/dlrlwn05/223071326124",
+            "nick": "기쥬",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA2MjJfMjg0/MDAxNjg3NDE2NDY5NDc5.uPKVjGrOX6f4JV58YmrxcxJx9HhzonrxKOFAbtvzQVUg.Iz-xs_DEFWruguy5EivuTO-Er9gIF1qw7UuoX9YNXlAg.PNG.dlrlwn05/profileImage.png"
+          },
+          {
+            "sid": "1944117402",
+            "bodySummary": "명품달인김밥 연산점 주소ㆍ연제구황령산로615상가106호 [물만골역 1번 출구에서677m] 전화번호ㆍ 영업시간 ㆍ평일 오전 8시 ~ 오후 6시 토.일요일 오전 6시 ~ 오후 4시 주",
+            "url": "https://m.blog.naver.com/nownow1976/223049204711",
+            "nick": "정하루",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjEyMjNfMjIx/MDAxNjcxNzgyMDcyMjU1.ypFCB8_Gy_SePvhQJPsqQ_KP4sb3acAJgnRZsmub_Jgg.lSFDI7vWGYoWo-Ogmjwx1iq2jAaqe-7w25sxcFAK7SEg.JPEG.nownow1976/profileImage.jpg"
+          },
+          {
+            "sid": "1944117402",
+            "bodySummary": "온몸에 피 대신 알콜이 흐르는것같지만 김밥을 위해 츄리닝을 주섬주섬 주워입고 출동해봅니다 #부산 #부산맛집 #연산동맛집 #명품달인김밥 #명품달인김밥연산점 명품달인김밥 가성비 최고 ",
+            "url": "https://m.blog.naver.com/sujinzzang22/223008212880",
+            "nick": "뚜디니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA0MjRfMjIy/MDAxNjgyMjk3MjE2NzAy.eJJIHG6nr3Hey2A1VFDrDWgqsJwy8RZLTubG2LCyEcMg.Ocgra85D4hx7jp_nbU9WjIwIdvejEAhQzptz-WB7CkMg.JPEG.sujinzzang22/profileImage.jpg"
+          },
+          {
+            "sid": "1944117402",
+            "bodySummary": "짜잔 우리집에서 가장 가까이에 위치한 지점은 연산점이기에 지난 주말 경주 출발전에 김밥 픽업 고고고 ! 월요일은 휴무이고 평일은 오전 8시부터 오후 6시 전후 주말은 오전 6시부터",
+            "url": "https://m.blog.naver.com/ksmok272/222982273550",
+            "nick": "흐하요뎡",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTEyMDlfMjI4/MDAxNjM5MDEyMjk5MDY0.efJdke0BLWNbjH_eV5tNwHvpfCBCMFw_4751SfAW9z8g.wY-sAn26-YnM3vQabyOLjfVWHwdhzDmtLIAjjQd6Ewcg.JPEG.ksmok272/KakaoTalk_20211209_100900484_01.jpg"
+          },
+          {
+            "sid": "1944117402",
+            "bodySummary": "(물론 개인적인 생각임듕) ▲ 명품달인김밥 연산점 주소 ; 부산광역시 연제구 황령산로 615 상가동 106호 명품달인김밥 연산점 영업시간 (월요일 휴무) 평일 오전 8시 ~ 오후 ",
+            "url": "https://m.blog.naver.com/xodus1754/222913992543",
+            "nick": "태봉쓰",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMTJfMTE0/MDAxNzAyMzYyMDM1Mjc4.6rUrgTlaaM1pTHTWXs68td2Z4r_zYs3szz1brNZ--qsg.EBpFwIb0tzCtuWKQ1umI8_guN9sXHcfuTN9VjDpeMwcg.JPEG.xodus1754/KakaoTalk_20230903_191613024_04.jpg/KakaoTalk_20230903_191613024_04.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 23,
+        "id": "1050450751",
+        "name": "하삼동커피 양정스위첸점",
+        "x": "129.0791147",
+        "y": "35.1735455",
+        "distance": 0.104,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "1002721"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 56,
+        "averagePrice": 4000,
+        "address": "부산광역시 부산진구 양정동 531 1-6호",
+        "roadAddress": "부산광역시 부산진구 양연로 36",
+        "abbrAddress": "양정동 531 1-6호",
+        "shortAddress": [
+          "부산 부산진구",
+          "양연로 36"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "언제나 웃음이 가득한 카페가 되길 소망하는 '하삼동 커피 양정 스위첸점' 입니다^^  '하삼동'의 의미는 아래와 같이 지어졌습니다:)  하(嚇 웃을 하) : 웃음소리가 끊이질 않고, 삼(三 석 삼) : 고 ",
+        "description": "언제나 웃음이 가득한 카페가 되길 소망하는 '하삼동 커피 양정 스위첸점' 입니다^^  '하삼동'의 의미는 아래와 같이 지어졌습니다:)  하(嚇 웃을 하) : 웃음소리가 끊이질 않고, 삼(三 석 삼) : 고 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTBfMTcy/MDAxNzU0ODE0Nzc1NjYx.5VLfPAJkBpkqVIcnLEWRVwK_uwWJqpyuZFJkU6_Zq_Ig.fQFSXKayxqK_7qYQYm0WL8F8-mJicywx49E0AsKP3Jog.JPEG/20250810_173126.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjNfNjEg/MDAxNzU4NjEwOTk4Mzc2.EBDdfa-aJ5f8Dn-_Y924v927sYHGp3JFJ9sME5d0AzUg.neRrYfzXy_4ndsAIv_hU2RVlC422AB-KcmdiCU_AObQg.JPEG/20250923_160302.jpg",
+          "https://ldb-phinf.pstatic.net/20240603_232/1717394413178mpoJv_JPEG/06992B4F-0D27-4360-93FA-D7C474D996E0.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDhfMTAg/MDAxNzUxOTU0MTIzNjEw.H2I453iwlFOE4Dhfq59-KIGOZv_IbNAgWGGMfMJOYjcg.USVFSc02pQc9y1rv0hsU62o3Y6GaISnAd4gQTtawJ-Mg.JPEG/20250708_145347.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240714_59/1720953499006Hu0tM_JPEG/986E7A89-19BE-4AAB-A186-956E9CAE40DE.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDhfMjUz/MDAxNzQ2Njk5NjQ2NjM1.VZXz8jB0W27sPDw6ZhjyH-HWXULcCGjDKNW01xLQMS8g.1cz39yEvKfXrbBJCcrCOUrBX_KS0mJdaXel8tCl-Y3cg.JPEG/20250508_191831.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240418_173/1713438102086c8li1_JPEG/1A19B542-36C6-4170-B970-3D75068877E2.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1002721",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 24,
+        "id": "16452656",
+        "name": "영진돼지국밥",
+        "x": "129.0792964",
+        "y": "35.1739581",
+        "distance": 0.151,
+        "categoryName": "국밥",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220061",
+            "220623"
+          ]
+        ],
+        "category": [
+          "한식",
+          "국밥"
+        ],
+        "reviewCount": 184,
+        "averagePrice": 5000,
+        "address": "부산광역시 부산진구 양정동 86-4",
+        "roadAddress": "부산광역시 부산진구 진남로 601",
+        "abbrAddress": "양정동 86-4",
+        "shortAddress": [
+          "부산 부산진구",
+          "진남로 601"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "부산광역시 부산진구 양정동 86-4",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220623",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "16452656",
+            "bodySummary": "추우니까 국밥 고 J 보신 분~ 알고 계신 분~ ... 우리에게 제보 바람..영진돼지국밥 08:00~02:00 포장 배달 O , 주차 X 영진국밥이라고 치면 많이 나오는데 우리는 ",
+            "url": "https://m.blog.naver.com/geumpalchi5813/223270778334",
+            "nick": "옆옆집누님",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEwMDNfMTgy/MDAxNjk2MzQwODk3Njgw.hSMzlCqUXYPjffAjRLWVzrcBOc-gBZeveUH1f9DH_m4g.bthz41CwkD0c2oC-ntGoXPTulNRLBOcQgJ-Ta1URUjIg.JPEG.rbgh5758/profileImage.jpg"
+          },
+          {
+            "sid": "16452656",
+            "bodySummary": "아침10시에도 배달이 되는 세상_정말 배달의 민족입니다 저희동네 맛집 영진국밥입니다 한그릇 곱배기로 시켜 나눠먹고 순대도 시켰습니다 전 중국집에선 탕수육을 좋아하고, 국밥집에서는 ",
+            "url": "https://m.blog.naver.com/hi-77171/223175792193",
+            "nick": "루나",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjExMDhfNTUg/MDAxNjY3ODcxMTE1NDcz._52cgmu0W73UkLRVYo_u-z8rL9ci8mE-smyMWerixYUg.tlMZGXhOa_jF29QGZApBCJ4th-03G9XBiJr50bqhTp0g.JPEG.hi-77171/profileImage.jpg"
+          },
+          {
+            "sid": "16452656",
+            "bodySummary": "꾹꾹 눌러 담겨있어서 한끼 뚝딱하기 적합했답니다. 돼지국밥에 빠질 수 없는 새우젓과 부추, 땡초, 마늘, 양파도 함께 왔고, 개인 취향으로는 김치보다는 깍두기가 더 맛있더라구요? ",
+            "url": "https://m.blog.naver.com/mini_world_/223126428331",
+            "nick": "미니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjEyMTNfMjgw/MDAxNjcwOTM5NDMzNDg0.U47EaHm6HPZyGfzQaFAoCpHrQME9iNu_LXDm2ytCLNcg.e8e10G7m_6aInxiu6-JL0jiwSekSyXSjzDcNZyLpSWwg.JPEG.miin_beauty/profileImage.jpg"
+          },
+          {
+            "sid": "16452656",
+            "bodySummary": "영업시간 : 10시 ~ 20시30분 매주 일요일 휴무 부산 부산진구 진남로 601 0507-6210-1206 배달가능지역 : 연제구, 부산진구, 사직동, 수안동, 낙민동 둘째 출산",
+            "url": "https://m.blog.naver.com/krong0308/223084136438",
+            "nick": "맛집킹잘러",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAzMDhfMTU4/MDAxNjc4MjQ3MDE4MDg2.qBhEuW412o_HctsUJcrp9tHs9fRgWKesfrFX-tIqm4wg.Jz4rNyqcyYyvzRWWSj0Tf7DUSoiwT8zY5OGmyj9p7nAg.JPEG.krong21/photo2982793.jpeg"
+          },
+          {
+            "sid": "16452656",
+            "bodySummary": "바로 양정동과 연산동의 중간에 위치한 영진돼지국밥입니다. 양정동 연산동 영진돼지국밥 연제구청 근처 수백맛집 영업시간 08:00-익일 02:00 연중무휴 출처-네이버 지도 거리뷰 영",
+            "url": "https://m.blog.naver.com/kyuning7/222948963280",
+            "nick": "단감",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMDZfMTg2/MDAxNzA0NDcxODA2ODQ0.p-jXKrhkPvRmBjH2drM2c-0nLagQBFlbmpE36-seZhkg.WeKkT_nwO1suuppX2Tiv8rP9bn1FNeWtuQtwyorIu9Qg.PNG.kyuning7/%25EC%259E%2590%25EC%2582%25B0_3.png/%25EC%259E%2590%25EC%2582%25B0%2B3.png"
+          }
+        ]
+      },
+      {
+        "rank": 25,
+        "id": "1869545276",
+        "name": "더별밤24시카페 양정점",
+        "x": "129.0771485",
+        "y": "35.1750546",
+        "distance": 0.269,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 1,
+        "averagePrice": 0,
+        "address": "부산광역시 부산진구 양정동 116-19 1층 101호",
+        "roadAddress": "부산광역시 부산진구 연수로 56-1",
+        "abbrAddress": "양정동 116-19 1층 101호",
+        "shortAddress": [
+          "부산 부산진구",
+          "연수로 56-1"
+        ],
+        "displayContext": [],
+        "labelTheme": "24시간 영업",
+        "microReviews": [],
+        "cardDescription": "24시 무인카페, 2층엔 단체석, 디저트도 있어요",
+        "description": "24시 무인카페, 2층엔 단체석, 디저트도 있어요",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20240723_206/1721709746305YHtm0_PNG/%B7%CE%B0%ED.png",
+          "https://ldb-phinf.pstatic.net/20240804_238/1722775705084k1nGX_JPEG/KakaoTalk_20240729_201340410.jpg",
+          "https://ldb-phinf.pstatic.net/20240804_269/1722775717890bfu4x_JPEG/KakaoTalk_20240729_201342580.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 26,
+        "id": "1247127970",
+        "name": "도도킷",
+        "x": "129.0790395",
+        "y": "35.1724542",
+        "distance": 0.076,
+        "categoryName": "밀키트",
+        "categoryPath": [
+          [
+            "220036",
+            "1004976",
+            "1004972"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "밀키트"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 50000,
+        "address": "부산광역시 부산진구 양정동 531 도도킷",
+        "roadAddress": "부산광역시 부산진구 양연로 36",
+        "abbrAddress": "양정동 531 도도킷",
+        "shortAddress": [
+          "부산 부산진구",
+          "양연로 36"
+        ],
+        "displayContext": [],
+        "labelTheme": "고급 정찬",
+        "microReviews": [],
+        "cardDescription": "오늘은 뭐 먹지? 당신의 집밥 매니저, 도도킷  메뉴 결정, 장보기 전부 해드려요. 너무 간단한 레시피로 요리가 뚝딱! 쉽고 맛있게 요리하고 여가시간을 가져보세요.",
+        "description": "오늘은 뭐 먹지? 당신의 집밥 매니저, 도도킷  메뉴 결정, 장보기 전부 해드려요. 너무 간단한 레시피로 요리가 뚝딱! 쉽고 맛있게 요리하고 여가시간을 가져보세요.",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20250824_168/1756029474213f0ciN_JPEG/s2.jpg",
+          "https://ldb-phinf.pstatic.net/20250824_108/1756029474152Y24lF_JPEG/s1.jpg",
+          "https://ldb-phinf.pstatic.net/20250824_210/17560295739562Ujjx_PNG/01.png"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1004972",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 27,
+        "id": "2095025593",
+        "name": "양지골숯불갈비 양정점",
+        "x": "129.0771408",
+        "y": "35.1741972",
+        "distance": 0.187,
+        "categoryName": "육류,고기요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220733"
+          ]
+        ],
+        "category": [
+          "한식",
+          "육류,고기요리"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 0,
+        "address": "부산광역시 부산진구 양정동 90-5 1층",
+        "roadAddress": "부산광역시 부산진구 연수로54번길 18",
+        "abbrAddress": "양정동 90-5 1층",
+        "shortAddress": [
+          "부산 부산진구",
+          "연수로54번길 18"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "단짠단짠 윤기좔좔 48시간 숙성시킨 양지골의 시그니쳐 수제양념갈비 육즙 팡팡 터지는 뼈삼겹 한돈생갈비 입에 사르르 녹는 갈비살을 양지골 숯불갈비에서 즐겨보세요.",
+        "description": "단짠단짠 윤기좔좔 48시간 숙성시킨 양지골의 시그니쳐 수제양념갈비 육즙 팡팡 터지는 뼈삼겹 한돈생갈비 입에 사르르 녹는 갈비살을 양지골 숯불갈비에서 즐겨보세요.",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20251016_270/1760583802048DA2CS_JPEG/Orange_Modern_Hello_Concept%2C_On_An_Background_%28Card_%28Landscape%29%29%C0%C7_%BB%E7%BA%BB%C0%C7_%BB%E7%BA%BB%C0%C7_%BB%E7%BA%BB_2.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220733",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 28,
+        "id": "1323287177",
+        "name": "혜성커피숍",
+        "x": "129.0757573",
+        "y": "35.1748824",
+        "distance": 0.328,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221212"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 0,
+        "address": "부산광역시 부산진구 양정동 138-9",
+        "roadAddress": "부산광역시 부산진구 연수로 43",
+        "abbrAddress": "양정동 138-9",
+        "shortAddress": [
+          "부산 부산진구",
+          "연수로 43"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "부산광역시 부산진구 양정동 138-9",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20200411_144/1586611760944phlwy_JPEG/Pxg1tuax0UEz87ur7-gq0igD.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221212",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 29,
+        "id": "1332048560",
+        "name": "신화덕참숯바베큐",
+        "x": "129.0769569",
+        "y": "35.1750105",
+        "distance": 0.273,
+        "categoryName": "오리요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220769",
+            "221553"
+          ]
+        ],
+        "category": [
+          "한식",
+          "오리요리"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 0,
+        "address": "부산광역시 부산진구 양정동 116-3",
+        "roadAddress": "부산광역시 부산진구 연수로 54",
+        "abbrAddress": "양정동 116-3",
+        "shortAddress": [
+          "부산 부산진구",
+          "연수로 54"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "부산광역시 부산진구 양정동 116-3",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20241011_60/1728648693977lsVFA_JPEG/20241011_210216.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221553",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 30,
+        "id": "1882079442",
+        "name": "오공수산",
+        "x": "129.0774024",
+        "y": "35.1735455",
+        "distance": 0.117,
+        "categoryName": "생선회",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220076",
+            "220792",
+            "221629"
+          ]
+        ],
+        "category": [
+          "한식",
+          "생선회"
+        ],
+        "reviewCount": 643,
+        "averagePrice": 20000,
+        "address": "부산광역시 부산진구 양정동 11-2 1층 오공수산",
+        "roadAddress": "부산광역시 부산진구 연수로54번길 32",
+        "abbrAddress": "양정동 11-2 1층 오공수산",
+        "shortAddress": [
+          "부산 부산진구",
+          "연수로54번길 32"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [
+          "다양한 부위로 즐기는 모듬회의 풍미"
+        ],
+        "cardDescription": "다양한 부위로 즐기는 모듬회의 풍미",
+        "description": "양정자이더샵sk뷰 1단지 후문에 위치한  포장배달 횟집 '오공수산'입니다.  저희는 직접 대어(사이즈가 큰 고기)만 선별하여 가져옵니다. (광어 3키로 이상 / 농어 3키로 이상 / 참돔 3키로 이상 /  ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjVfMTgz/MDAxNzU2MDk3ODk5ODQ2.8Yi3ac1sMwBD-tqaKzSPvwdLVRu1Fh4KvGgVf1wk0fEg.BJ9p6cZUesku1mSkDaEZXCm-QraLDEYUOaemZKI1rMwg.JPEG/F6E0A4D9-DF5C-44A0-8BCC-E49301D0B094.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDlfMTgw/MDAxNzYwMDE0MTg4Mjk3.dyOLtIMXLfE_ChLu-Hm91351bSk3FuCWtsf5hSQ_imEg.jMzz71xHnG7tlBTnKlNbs_btq0oC72i9iP3ZtgYkEqQg.JPEG/20251004_182127.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250309_1/1741491762209BqqIv_JPEG/KakaoTalk_20250309_072707769_01.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjhfMTQ4/MDAxNzU5MDY3MjQyNTg5.UiPSHpthMXdwSgj6a0o1u-VYVletPQL8v75kuc_4AM4g.DAxcDEDXHT8enTLR13AWvpXqwo43TffTvk6yIAIcsDkg.JPEG/1759067069676.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250331_7/1743424556378nJt9j_JPEG/1743424159193.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjVfMTAz/MDAxNzU2MTExNjMxMDg0.V2_dGMlkh9k4hVbFu9g7KzpDocVQbQejVlpzZ69TqbIg.kXCmzrZ76o7B8kanI4ZJ726bIf1WPOkn1uBkl02-5iQg.JPEG/F4851FFC-1EB6-4A45-9928-42F88AE0A8EC.jpeg",
+          "https://ldb-phinf.pstatic.net/20250331_143/1743424556404b5aS6_JPEG/1743424159130.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjdfMjAg/MDAxNzU4OTQ4NjA4NTE3._gs_wU9C3xJTXFiJ4Kmp7Qy9Ovkmx0ffpbkkvwUAZoAg.YbUAp1BsvVnvukvxOKIoutQL_wI-9sDySy8w6zxCtC0g.JPEG/20250927_122444.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDNfMTMw/MDAxNzU2ODk1OTAzODEw.qrVp52RbbyUYBMvVunv_LqIwkMVpIkzFEqCIb_WjGCQg.yD6fd5bJo_hVcEN6dqkDtA5ElHB9ogPBtJrhJWkWC8Ag.JPEG/20250903_162726.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDVfMjE5/MDAxNzU5NjYxMzY1MzMw.0jqeVavlNuvjYP6V9-tOhr7KhgiqFCO0wHzoUh2tNGYg.VGF3emrGcUb9MJAbi-qjGgjVDJhDoW7BZP0OmRfoRU8g.JPEG/613EED5E-FA7B-4E74-AC32-A4B628BB4F6C.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221629",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 31,
+        "id": "2053898589",
+        "name": "삼수집",
+        "x": "129.0804591",
+        "y": "35.1745685",
+        "distance": 0.271,
+        "categoryName": "육류,고기요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220733"
+          ]
+        ],
+        "category": [
+          "한식",
+          "육류,고기요리"
+        ],
+        "reviewCount": 38,
+        "averagePrice": 20000,
+        "address": "부산광역시 연제구 연산동 844-39 1층 삼수집",
+        "roadAddress": "부산광역시 연제구 진남로 613-1",
+        "abbrAddress": "연산동 844-39 1층 삼수집",
+        "shortAddress": [
+          "부산 연제구",
+          "진남로 613-1"
+        ],
+        "displayContext": [],
+        "labelTheme": "최근 오픈한",
+        "microReviews": [],
+        "cardDescription": "'와, 정말 말하고 싶다! 이거 진짜 숨은 보석 같은 이곳 연양라인에 들어선 우리동네 고기집 삼수집 연제점.' 전국에서 가져온 반찬과 고기로 여러분 앞에 고향을 준비해드립니다.  여기 고기가 ",
+        "description": "'와, 정말 말하고 싶다! 이거 진짜 숨은 보석 같은 이곳 연양라인에 들어선 우리동네 고기집 삼수집 연제점.' 전국에서 가져온 반찬과 고기로 여러분 앞에 고향을 준비해드립니다.  여기 고기가 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDZfMjky/MDAxNzU0NDkxOTMxMDM0.bJ66Kkm-4G5TE9jYyTF6J7u1ldSqEW8TOsbosydMvbwg.7el5DezvQDPsbJA5hu3onMB61Piyfq65cP24miu1m3Eg.JPEG/06D8EC4D-F5FD-49EF-8451-EE25F3782849.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTBfMTEg/MDAxNzU0ODI3MTM4OTMy.If0z5hx4nrO9vEzhX_x0rQdy9UdrMEDrNyMRYhnLkxUg.-PTXc8XE-Ng6EzHtA6YihL2sPgBJ7mOfLob0y4xgIAcg.JPEG/A8D9A99F-D3FA-4A0C-A06E-3DA65BD2124B.jpeg",
+          "https://ldb-phinf.pstatic.net/20250828_98/1756362977353LYPEv_JPEG/KakaoTalk_20250828_152955832.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjBfMjYx/MDAxNzU1NjQ4NjYyMTc3.xYVFgD2U_Vryxot4j9HweEgvybCzLk5O0Ir4wz9vCtog.Ez8YvmoewBcnwyLryWreeIrNr3vbQMNZ-mtYWBoUvkwg.JPEG/1755648344814.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250919_225/1758268113913Jf3Ow_JPEG/1000000972.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTBfMTE2/MDAxNzU0ODIwNzQ1MzM1.MjwxP5GhI3pW6M8AVl-UWFtnN-ALbWpQO_-zKzHsMc4g.GfPdmzP6-EVuY6GYM1wRPXLBIgop0rjdDdCDwc8FKPsg.JPEG/20250810_175640.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250904_17/1756993785820C6gSE_GIF/1000017710.gif",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTlfMTUx/MDAxNzU4Mjg1NTg4MzU5.hB6qxe_F4JCp0joxcvJOddFI8M2n77I437i1-MLf9ZMg.QlSS-OlCx11ZYkqB1iLxyHeaQFBCzTfPllCkquGnwBgg.JPEG/1757127351082.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTRfMjcw/MDAxNzU1MTc1MTU5MzM3.Bp9bfuloJwzqsPP2s7qhy-IEzCQHZ3qb5-YuAUhn360g.amYp5Dd-KX6hPeUhFDq0A9SfPS1Z17EwSlrCnszfwaog.JPEG/63E8D82A-1752-4B94-AC51-455E53514BB5.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTVfMTIx/MDAxNzU1MTgzNjM1OTIy.NkUatSP3uXcWRLxe_8AhO_YjZGIgOmFWfUqViWOXWPgg.-lcXG_6Ayd-xIXTgqabardWiEywJ_HL449wPnbsy6vYg.JPEG/20250811_184712.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220733",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 32,
+        "id": "1629605678",
+        "name": "경성숯불갈비",
+        "x": "129.0790807",
+        "y": "35.1743781",
+        "distance": 0.183,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 87,
+        "averagePrice": 5000,
+        "address": "부산광역시 부산진구 양정동 87-10 1층 101호",
+        "roadAddress": "부산광역시 부산진구 양연로16번길 4",
+        "abbrAddress": "양정동 87-10 1층 101호",
+        "shortAddress": [
+          "부산 부산진구",
+          "양연로16번길 4"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [
+          "지인과 함께하면 더 좋은 행복한 식사"
+        ],
+        "cardDescription": "지인과 함께하면 더 좋은 행복한 식사",
+        "description": "경성숯불갈비 만의 레시피를 통해 맛과 건강을 생각하여 최상의 맛과, 정성으로 찾아 오시는 모든 분들에게 만족을 선사하겠습니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjhfMTcg/MDAxNzQ4NDM1MDY1ODAz.1Hni__whg5Z3RL4-xJQLF6tmumXgVCG6xxdydvX0Eg4g.JXu6g_flLrKkZqoX5P4I7zhgDojOLsknnmuD099G63sg.JPEG/F3050F48-1198-4D4A-A4A0-5C6586E534CA.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDlfMTQ3/MDAxNzYwMDEwOTk1MzE2.vz_1wG4oNDSUSsqmU2RzVXjnUs5DySy4iUq79h4fHZ0g.Bq1orJQ9ZbKOY0cJ-6FFsSNiftXcTPTt-oLJ42KVaqgg.JPEG/1000017662.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240521_239/1716285083250RQNGa_GIF/%B7%CE%B0%ED.gif",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjJfNzYg/MDAxNzQ1MzI2Nzg2MzQz.nQa5sUSfLefeLp9Ca4VSM-bR5xmzLlZuzgSj3uAS-bog.KMMiXtKvPTcOxYm0jRVw3sveH2eorLcBJujIwmKPH_gg.JPEG/1AFAFDD2-508D-45E9-B38D-21BE9383876E.jpeg",
+          "https://ldb-phinf.pstatic.net/20240521_187/17162850857724mQ70_JPEG/%B8%DE%B4%BA%C6%C7.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDRfMjE5/MDAxNzQ2MzYzODUyMTM0.o2XyytLHsQN_rIydxQcz7wVNR-ObY1ENiVHg6EiGhCEg.cuBpUSOiA6KpL1ChXe2qqnCwkTZ-WDmxecR2Qh0-ch4g.JPEG/IMG_2870.jpeg",
+          "https://ldb-phinf.pstatic.net/20240530_222/17170393145569i8fY_JPEG/KakaoTalk_20240530_121516376_02.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTVfMjM2/MDAxNzQ3MzE2MzY2ODYy.i_VZ4-8ktIg7QmWLHx2UoS5iRL9kBRsw8wmyFL6NBMcg.Uo9owyIB9btjPSnKINdjehjDZBilsTxI1A9sVSb2Ftkg.JPEG/A0A24D7E-DD2D-4904-903D-63F8E3A187C4.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 33,
+        "id": "1565005775",
+        "name": "콩게미 부산",
+        "x": "129.0788268",
+        "y": "35.1748817",
+        "distance": 0.231,
+        "categoryName": "국수",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220062",
+            "220628"
+          ]
+        ],
+        "category": [
+          "한식",
+          "국수"
+        ],
+        "reviewCount": 426,
+        "averagePrice": 5000,
+        "address": "부산광역시 부산진구 양정동 111-7 1층 콩게미",
+        "roadAddress": "부산광역시 부산진구 양연로 8-1",
+        "abbrAddress": "양정동 111-7 1층 콩게미",
+        "shortAddress": [
+          "부산 부산진구",
+          "양연로 8-1"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [
+          "쫄깃한 면발과 크리미한 콩국물의 조화"
+        ],
+        "cardDescription": "쫄깃한 면발과 크리미한 콩국물의 조화",
+        "description": "콩게미 부산 입니다.  크림 콩국수 까망 콩국수 닭 칼국수 맙닭 칼국수 콩국 포장",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjdfMTg4/MDAxNzUwOTk3NDkxOTg0.t8nuwqyRKVGx3VdDFvmdN3s1APOuCIDhM6fv_61ELMYg.Va_J7pCl_ls8z4VjOjpJ5d_WB5jXdzjIVvCy9OcE7twg.JPEG/855F799D-59F8-4885-958E-920AD39320C6.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjlfMTYx/MDAxNzU5MTEzNDk3NTIw.XKHFIONv2BDZu0uOBGf_JnL7jnQDSAi5G-52dBYSBSwg.YwC0cTZUx0FDtylyCsXvCEJufc0QsSWDK5RZP1KV5AYg.JPEG/7DEAF627-EAA3-488F-9364-90FF41F6260E.jpeg",
+          "https://ldb-phinf.pstatic.net/20250325_129/1742885468603zX92e_JPEG/IMG_3119.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjdfMTE1/MDAxNzQ1NzI2MDEyNzA0.f_jmpXss0-A8mKMfLKpsg_5RCchLrtc0K-0kBlU_AI0g.kp5wxRHl8Zj0q7obigUJ_36E5nxcjGXYDJpXMB_dxv8g.JPEG/20250419_124235.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250325_61/1742885448660kgwFe_JPEG/IMG_3051.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDdfMSAg/MDAxNzU3MjEwMDk3ODM2.yRZTan18iCwWHK699_P_WgFTFIm7oJuyXcNhFdJ8c90g.dJY_yeSN022xInvrJ4iwOy4RSokcwQTO_Vr7tEdJHeQg.JPEG/20250830_130216.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250325_206/17428854378260qFpa_JPEG/IMG_3052.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjFfNiAg/MDAxNzU1NzUyNjQwMzE2.Rg-z9Dp2DqPK_yptiYz3aHp1T1iu9NQzyQt8Tsoab1gg.Gex5nV0NbocKoljJ0L3w4uJbIxHig4KmABVoxcH1WbQg.JPEG/20250821_134136.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDFfNDUg/MDAxNzUxMzQ4MDU1MzUw.le42JqjFx5T7QVHJMtDFkBl-YFpQnVUVn3vFvAo6OqAg.TFD6aZ6USFDB9oguMQ9tBS_xuTPrR6BoWN3bpUoWlRAg.JPEG/DB17D410-75CF-4A46-AD50-06FA0CC432D5.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTZfMjg4/MDAxNzUwMDUzMjA3MjUz.ZpsI9JqT6wZso2gKn7Og3lfUE0dgyoBwqhlL1q8j3qYg.TmnhwOTdZAn5s-URMGYpcJQJ-CXDZqvXAi4csCkMXbsg.JPEG/20250612_125010.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220628",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1565005775",
+            "bodySummary": "[중앙동 맛집] 해밀 - 면 요리 전문점 중앙동에는 수많은 식당들이 있다. 생기고 또 사라지는 것도 너무 잦다. 실제로 많은 집들을 중앙동의 맛집들을 소개했지만 폐업한 집이 적지 ",
+            "url": "https://m.blog.naver.com/sunyen97/223343679975",
+            "nick": "바다보며한잔",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA1MDJfNDUg/MDAxNjE5OTYyNjc5NjYz.aW93HHLo2eG7IdUcUceCm41_Ct19oh9maHgN0Ca4qhgg.-Y5IMJEhcWbku6X0Z3XZ6YzHnUaOw67S3y6pQQSxe6gg.JPEG.sunyen97/190807-085.jpg"
+          },
+          {
+            "sid": "1565005775",
+            "bodySummary": "생각보다 엄청 매우니 주의..! 제가 정말 너무나도 좋아하는 닭칼국수 입니다 육개장 칼국수도 맛있지만 그래도 해밀에 방문하시면 이 닭칼국수 꼭 드셔보세요!! 따듯하고 푸짐하게 맛있",
+            "url": "https://m.blog.naver.com/cjh_118/223334419110",
+            "nick": "최지",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMjBfMjg1/MDAxNzA1NzYxNjAxMjc4.3f534utkQTkvNjQZyTeVW52X0db07J0LyCeWa0_2p_0g.EWTzil7zdwckD4Sy4X_EdLpwWKTq3ThcA3xMi4tWyqog.JPEG.cjh_118/profileImage.jpg"
+          },
+          {
+            "sid": "1565005775",
+            "bodySummary": "매서운 날씨에 모자를 덮어쓰고 두 손 꼭 잡고 계속 걸었다. 초량시장은 좀 포근하게 따뜻한 기분이었다. 집에 거의 다와서 그런 기분인듯. 30분 정도 걸어왔는데, 배는 아직도 부른",
+            "url": "https://m.blog.naver.com/roskfl70/223332717446",
+            "nick": "카르페디엠",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEwMTNfMjQ3/MDAxNjk3MTMxNjkzODUy.bHkLhqffpVsbgXpSlLWZp7uP6lGMQ74XcKwSRPZTpXog.eSIuMvNi2u2zse32tj6bFpm7n6Vc7mDQUXpPUhgtBs8g.JPEG.roskfl70/profileImage.jpg"
+          },
+          {
+            "sid": "1565005775",
+            "bodySummary": "해밀 월~금 11:00~19:00 (브레이크타임 15:00~17:00) 토 11:00~15:00 (점심 운영) 일요일 정기휴무 070-8821-2037 배달 가능 포장 가능 중앙역",
+            "url": "https://m.blog.naver.com/currypangirl/223301622060",
+            "nick": "엘리 Ellie",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA3MjFfMjQ0/MDAxNjg5OTE5NTMyNTg2.Jic2rFr5M8ZqlGhqlyhaFC0JKYlYH4CWXuh8LpBSPa4g.N5r-GI_fCK2OqYHi9vECiOg9GyAL5qeV5NlwXaN0KYQg.PNG.jinnie220/profileImage.png"
+          },
+          {
+            "sid": "1565005775",
+            "bodySummary": "부산 중앙동 해밀 매주일요일 휴무 안녕하세요 부산 중앙동 닭칼국수 맛집 해밀 다녀왔어요 직장인들이 많은 중앙동 점심맛집이죠 내부에요~ 주로 4인테이블이 놓여있구요 원래 매운 닭칼도",
+            "url": "https://m.blog.naver.com/fanyjky/223218177681",
+            "nick": "Young2",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxODEyMDZfMzQg/MDAxNTQ0MDc4MjA1OTM4.DgYPLC0SloOtOkKAUhUcVPNkVDsPavpKBRvZIb23gIIg.3OL_kR4AQWp9kYElTyJRL3eNgfOX5G_g58PS5WXQGMQg.JPEG.fanyjky/KakaoTalk_20181206_153325235.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 34,
+        "id": "1142976963",
+        "name": "진막창",
+        "x": "129.0770682",
+        "y": "35.1750513",
+        "distance": 0.272,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 84,
+        "averagePrice": 10000,
+        "address": "부산광역시 부산진구 양정동 116-18 1층",
+        "roadAddress": "부산광역시 부산진구 연수로 56",
+        "abbrAddress": "양정동 116-18 1층",
+        "shortAddress": [
+          "부산 부산진구",
+          "연수로 56"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [
+          "친절함으로 더 맛있는 막창 맛집"
+        ],
+        "cardDescription": "친절함으로 더 맛있는 막창 맛집",
+        "description": "국내산 막창 전문점 곱도리탕 , 닭창전골 전문점",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTFfMTIx/MDAxNzU3NTkzMjIyMzg3.VZgUMD5CYQSrmBwdQSTKcDpIzTceybtO4iBizr7pfKog.ATEt5jdJ624VNY4z8SDggYvdV_XEOVqbgSt-DD2pp4wg.JPEG/1000032052.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDlfMjc1/MDAxNzU3NDE5MzExMDkz.hnsC8SackVgRVcp_byD9OOb944LRVjdLYKGUf4vkFaMg.EO37sy95Cs8sR6zzaQBXZ0ghtMGF0LpeYPZiqDvmZoYg.JPEG/D78C504B-F7F8-4162-9A13-B1803CA92C55.jpeg",
+          "https://ldb-phinf.pstatic.net/20240805_182/172284671430023e33_JPEG/IMG_0455.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MzFfMjM2/MDAxNzQ4Njk4Mzc0NTAy.QybSCc_bNA3HkMzNQBl6DFMRKzWg0S40j68J_vwmM3wg.dJqWaIKSwDhEJw0td4BCR9UFyv9yUfNZby2WzYnP6Jcg.JPEG/1000028778.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjNfMjY3/MDAxNzUzMjMxMTMyODU1.C1VYgN-aDR1D4cDO_w9600hKGY3mMZ0ok8aSIdhOLlEg.PJ3Pw2K9cdGMWtYappd0Ph1nnHGzTHjQrP5m3rPCufUg.JPEG/2BCFC48A-52C4-4400-BC29-ED73865E0E6B.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjdfMTA0/MDAxNzUzNjEyNjAxMDY0.O2_ro1aNbMbMQw5oGIpCp80-67jlQaO9KwZHPvcRPcUg.XTGp8W4t7v52wwrtzSyh_6yEMB7vlstwYGKYDY43se4g.JPEG/20250725_214446.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDFfMTgx/MDAxNzU0MDM5NjQzMzA1.LWS_rINihuRbFuS2b6VuExXkCPv5I0R_vZwgfoV54rEg.7mSfziZteAlZg3_DjPba4Fec7yJhLJYd-GiScCm_g1Mg.JPEG/1000002369.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjlfNDUg/MDAxNzQ4NTIzMzg4OTY1.Z1cSUbudP7aK01BO3l77nKwVECcL5razRAM97U7F97Mg.ZnwA_oPXmPkAuja1LHbU2z1Mr3sTbbhvhR0v7NiaS-kg.JPEG/FCAC08D4-0675-44A2-8E0B-81AA799E6272.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjJfMTg0/MDAxNzUwNTkzNDIxMDU2.8rXKbqj9qkbJ7Y3566xOjSFwu32S8egS-WIF3n_H3Dwg.v3RhFgoaMAEcevzU2GDXr3-Bnp6y8OjZUNucT5kmA7sg.JPEG/E66DDA22-4C91-4B6E-9351-F9D62CB7EFE6.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTRfMjM4/MDAxNzQ5ODk2NDI1OTUy.zc2MozI4XKwSPBs50kxfAJU5vSTUj7J8UzGdDKNRSekg.GNeiQQQv090rIB-3MEXPy7jYVuNiGI96mbmk4Y6ET8Eg.JPEG/20250614_192014.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 35,
+        "id": "1984862229",
+        "name": "식껍 양정점",
+        "x": "129.0788049",
+        "y": "35.1737609",
+        "distance": 0.11,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "1004943"
+          ]
+        ],
+        "category": [
+          "한식",
+          "육류,고기요리"
+        ],
+        "reviewCount": 218,
+        "averagePrice": 40000,
+        "address": "부산광역시 부산진구 양정동 85-19 1층",
+        "roadAddress": "부산광역시 부산진구 진남로 595-1",
+        "abbrAddress": "양정동 85-19 1층",
+        "shortAddress": [
+          "부산 부산진구",
+          "진남로 595-1"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "부산광역시 부산진구 양정동 85-19 1층",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDNfMTEw/MDAxNzQ4OTMzMTEzNzU1.4DzycsegINc5DCCe1bQwij1vxsnMmV2yVZnE3CVmCiog.bbSWOVH0SEHr-zn54ckT970JyzrvQ0fkcRFvYLM8xlcg.JPEG/1748932925004.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjJfMjUw/MDAxNzU4NDcwMzQzMjkx.YEXdP3Mncvcbh50p4Qen4CO_Eb5SgiVlElZgWNiaxlYg.eRHRoRGCIaRk_Fhg1wzcL3DcGqM_9kzv_W1iSJlGZXcg.JPEG/20250921_181240.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20220725_275/1658715766108xVJ2i_PNG/1.PNG",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjZfMjIz/MDAxNzQ1NjIxODM1OTMw.a2HHpRp5q34MYlQYARiee89xQRgyyttFnVxpB_AFTRQg.MZ3LSCpf-n74nz0ctpEbjqfxep16e5pI-vFxgemrjeUg.JPEG/IMG_2843.jpeg",
+          "https://ldb-phinf.pstatic.net/20220725_242/1658715766091jMev3_PNG/2.PNG",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDFfMTQ2/MDAxNzQ4NzgxMDM1OTMx.Fn8u4LdnHnz1lQux2ZbkKXeU0yT4nKgTJCqnMIEPHCIg.OVrXU95wsHcd8quj2srbfZDoo6loa1g1-niH9egewjgg.JPEG/20250601_212505.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20220725_68/16587157661641hx9K_PNG/3.PNG"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1004943",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.83",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "1984862229",
+            "bodySummary": "자유부인♥️오늘의 목적지는 양정 식껍이예요. 식껍 16시~23시 매달 첫번째 월요일 휴무 저희는 꼬들목살 180g 14000원 3인분 등심덧살 180g 14000원 3인분 껍데기 ",
+            "url": "https://m.blog.naver.com/01192347176/223343501202",
+            "nick": "신기한나라",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDA3MDdfMTAy/MDAxNTk0MDk5MjUwMzU0.hM4-vvzJXTwodUP0kmF5oFEWVY8udxMw3Wt-5BxACEog.KWbiw81-skB8IjqDs_Xopgwo_4-QkFH547M58dhpppsg.JPEG.01192347176/profileImage.jpg"
+          },
+          {
+            "sid": "1984862229",
+            "bodySummary": "요즘 식껍에 꽂힘 꼬들목살이랑 꼬들살.. 기본으로 나오는 된장찌개. 청국장 향이 강하게 나는데 나는 호! 호불호 나뉠 수 있겠음. 비빔밀면도 시켰는데 양이 ㅎㄷㄷ 광안리 식껍보다 ",
+            "url": "https://m.blog.naver.com/blogtaeng/223225472380",
+            "nick": "블로탱",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMTNfMTM2/MDAxNjk5ODUzNjc3MjI0.3j3pemIHKmYlUmgw3BN0QCHctmGmK1eS9YklG1Bwaskg.SvXXvK7Y7u9PSxIiG3Et2JyppmdKgIF-SFnBTZPAQKcg.JPEG.duoen07/%25EC%258A%25A4%25ED%2586%25A0%25EC%2596%25B4%25EB%258C%2580%25ED%2591%259C%25EC%259D%25B4%25EB%25AF%25B8%25EC%25A7%2580%25EB%258B%25A8%25EC%2583%2589.jpg/%25EC%258A%25A4%25ED%2586%25A0%25EC%2596%25B4%25EB%258C%2580%25ED%2591%259C%25EC%259D%25B4%25EB%25AF%25B8%25EC%25A7%2580%25EB%258B%25A8%25EC%2583%2589.jpg"
+          },
+          {
+            "sid": "1984862229",
+            "bodySummary": "주소 : 부산 부산진구 진남로 595-1 1층 (양정동 85-19) 전화 번호 : 010-9323-2045 영업 시간 : 16:00 ~ 23:00 가게는 넓진 않지만 깔끔했어요 금",
+            "url": "https://m.blog.naver.com/ljeoke0727/223220092831",
+            "nick": "이지",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20160516_281/ljeoke0727_1463374476605Wu2i6_JPEG/profileimage.jpg"
+          },
+          {
+            "sid": "1984862229",
+            "bodySummary": "부산시청 맛집 식껍 양정점 메뉴판 우리는 세트2번 (생고기 모듬 + 오도독) 42000 부산밀면 물 5500 으로 주문했다 글 메뉴판으로 되어있으면 부위가 어떤 부분인지 제대로 모",
+            "url": "https://m.blog.naver.com/honeybee_122/223170206408",
+            "nick": "honeybee",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA4MTJfMjA4/MDAxNjYwMjc5MjEyMTA5.AsgjjaJ220BkC3spKsC0YmAgWwln0hA4n-E3YVnOfsQg.QByxNdpxnJjR9RNY-ZwtM-BoTu1NY_VMTuVGPOWgIxAg.PNG.51mgeun/profileImage.png"
+          },
+          {
+            "sid": "1984862229",
+            "bodySummary": "위치 양정 회식 식껍 양정점 주소 : 부산 부산진구 진남로 595-1 1층 영업시간 : 매일 16:00 ~ 23:00 정기휴무 : 매일 첫째 주 월요일 단체석, 예약, 무선 인터넷",
+            "url": "https://m.blog.naver.com/jmg1016/223141527268",
+            "nick": "피플스 루트",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxNjExMDNfMTk0/MDAxNDc4MTgxODM5NTI4.vyt5Xgt48TUDv0glKMyTiEgublJPVMbIEpG_YqZT49gg.8Qd3dFDAYBvliED_w01oz6p-v_fl8LJ685NAgMOI6gUg.JPEG.jmg1016/11.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 36,
+        "id": "37191907",
+        "name": "최고집",
+        "x": "129.0761783",
+        "y": "35.174981",
+        "distance": 0.31,
+        "categoryName": "장어,먹장어요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220076",
+            "220799",
+            "1006317"
+          ]
+        ],
+        "category": [
+          "한식",
+          "장어,먹장어요리"
+        ],
+        "reviewCount": 112,
+        "averagePrice": 10000,
+        "address": "부산광역시 부산진구 양정동 138-24 1층",
+        "roadAddress": "부산광역시 부산진구 연수로 47-1",
+        "abbrAddress": "양정동 138-24 1층",
+        "shortAddress": [
+          "부산 부산진구",
+          "연수로 47-1"
+        ],
+        "displayContext": [
+          "꼼장어",
+          "아나고",
+          "술집",
+          "싱싱한",
+          "친절한"
+        ],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "부산에서 맛보는 단 하나의 맛! 대구식 숯불 곰장어의 압도적인 식감을 자랑하는 양정동 최고집 입니다.  안녕하세요. 양정동 에서 10년 이상 한결같이 자리를 지켜온 최고집 입니다.  저희 최고",
+        "description": "부산에서 맛보는 단 하나의 맛! 대구식 숯불 곰장어의 압도적인 식감을 자랑하는 양정동 최고집 입니다.  안녕하세요. 양정동 에서 10년 이상 한결같이 자리를 지켜온 최고집 입니다.  저희 최고",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTBfNDMg/MDAxNzYwMTAxMDkyMjA2.urV-HDeQNdB-jy4suVQwB4LRRG2EJXBiOkqocY_WbZwg.zQSmIzco3WPJd2SIzP1_2MXya5pA17gjItCqe6SRDCAg.JPEG/IMG_3976.jpeg",
+          "https://ldb-phinf.pstatic.net/20251004_20/1759549704615HCMrc_JPEG/239.jpg",
+          "https://ldb-phinf.pstatic.net/20251007_254/1759816280530V6tDR_JPEG/1950.jpg",
+          "https://ldb-phinf.pstatic.net/20251007_278/1759816280526Se2Qs_JPEG/1949.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1006317",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "37191907",
+            "bodySummary": "물은 일반 생수가 아닌 둥굴레차 밑반찬 이것저것 많이 나오는군 사장님이 직접하신다고 하는거 같다 절임류가 맛있 양념 소스 그리고 막창김도 나옴 오호 불 들어오고 소맥잔에 맞춰서 소",
+            "url": "https://m.blog.naver.com/ckdghks70469/223081384430",
+            "nick": "travelogue",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxNzA3MzFfMzEg/MDAxNTAxNTAzNDI2NzI3.9-Akg2devhgTSC0hA5ytS9NQaHhBrNv9PpcD7mFgJh4g.IgPokEK1g2mZap8SXjL4vJx8wMcWB5ml7CrHy8-hzpwg.JPEG.ckdghks70469/%25C7%25D2%25BD%25B4%25C5%25B8%25C6%25AE%2B%25B4%25AB%25BB%25E7%25B6%25F7-2.JPG"
+          },
+          {
+            "sid": "37191907",
+            "bodySummary": "장어집인줄알았는데 갈비, 쭈꾸미, 닭발등등 숯불에 구우면 맛있는걸 다 판매 하시더라구요 <2명 방문 > 쭈꾸미 2인분 곰장어 구이 1인분 주문했습니다 밑반찬 먼저 주시는데 그거 아",
+            "url": "https://m.blog.naver.com/kongiii_/222892336230",
+            "nick": "kongii",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAzMDVfMjE1/MDAxNjc4MDAwMzc1MTg5.5ORNL7D_tLUsusjIUO1ik2cYk-NAaWr9cLvXCCt-_z0g.KxTkWs0Yd8Nu24QEtMEGhYn0eIbufFqBI7o3D21enpAg.PNG.rladidwjd12/profileImage.png"
+          },
+          {
+            "sid": "37191907",
+            "bodySummary": "최고집 주소 : 부산광역시 부산진구 연수로 47-1 051-853-0333 18 : 00 23 : 00 일요일 휴무. 재료신선도에따라 평일도 휴무. 오늘은 제가 정말 좋아하는 양정",
+            "url": "https://m.blog.naver.com/jaehungstyle/222529462658",
+            "nick": "흥이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20160516_212/jaehungstyle_146340749054689jka_JPEG/IMG_0175.JPG"
+          },
+          {
+            "sid": "37191907",
+            "bodySummary": "깔끔한 내부 분위기로 짐작했었지만 테이블간 거리두기는 물론이고 사장님 내외분께서 틈만나면 쓸고 닦고 위생에 신경을 많이 쓰시는 모습에 특히 더 안심이 되었던 숯불 곰장어 소문난 부",
+            "url": "https://m.blog.naver.com/insideto73/222509199865",
+            "nick": "소국에게",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDEwMjZfMjkx/MDAxNjAzNzAxODkwNjc2.-7gDLdoXIN4YzFqQT9u4X714HEPo2NpmUNR3yNY_Rgwg.KSRQJocMIuMr579r61-woH7m3n-CPe98WfrBl2S_dokg.JPEG.insideto73/profileImage.jpg"
+          },
+          {
+            "sid": "37191907",
+            "bodySummary": "주소 : 부산 부산진구 연수로 47-1 (지번 : 부산 부산진구 양정동 138-24) 전화번호 : 051-853-0333) 영업시간 : 18:00 ~ 23:00 (재료소진 시 조기",
+            "url": "https://m.blog.naver.com/asoo243/222020192851",
+            "nick": "쀼의세계",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDEwMjNfODAg/MDAxNjAzNDIwMDM2NjE0.YEmqRQWK7PZ3M5vzy10l24OowOBz9zYYUBrwbIa5V9Ag.fHthtge5k4EZQ37GhOwxqSLK7UMBFRMHmfj9QXEnWhMg.JPEG.asoo243/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 37,
+        "id": "2048220504",
+        "name": "전남친순대 연제점",
+        "x": "129.0774602",
+        "y": "35.1737163",
+        "distance": 0.127,
+        "categoryName": "순대,순댓국",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220768",
+            "221546"
+          ]
+        ],
+        "category": [
+          "한식",
+          "순대,순댓국"
+        ],
+        "reviewCount": 25,
+        "averagePrice": 5000,
+        "address": "부산광역시 부산진구 양정동 89-4",
+        "roadAddress": "부산광역시 부산진구 연수로54번길 30",
+        "abbrAddress": "양정동 89-4",
+        "shortAddress": [
+          "부산 부산진구",
+          "연수로54번길 30"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [
+          "찰순대의 부드러운 식감과 풍부한 맛"
+        ],
+        "cardDescription": "찰순대의 부드러운 식감과 풍부한 맛",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjRfMjc2/MDAxNzUzMzUzNDQxNDc4.C0ZJyG6CGTHlVc58NKeljZF79ETa0Dz5mNfT83omwuMg.aFV8Lu17z3U_qVKS3zGOy_GWTSHLFkmQW2x2i1-kOxEg.JPEG/20250723_183937.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjhfMjk0/MDAxNzUxMDg5NTU0NzA5.0anvGd-MJwwNakLlit-NwCESelpOUS1Vsm7PVAZde2cg.eHFbECTbuxvD9QVdD0im6Q6ZRyKCvCkGzhxAxq_AjRIg.JPEG/1000035522.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250530_231/17485741086225ofty_JPEG/1748574010458.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjlfMTU4/MDAxNzUzNzU0MzU3MzIy.UT_QtpoYKGDS69N9tTbV_T5AirTbKIsf79qnON7vJ0Qg.DuFYVLsIiHcdDVUrHw1KJwBeti4Sz017Rkpuvdc1l5wg.JPEG/1753754121525.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250530_6/1748573985315VESoO_JPEG/1748573966824.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDhfMjkx/MDAxNzU3Mjk2NTE0ODQy.QGYu3zcv3LNTTevB9si9eI_v_EAekYEv2znirJES5TEg.dFVQwSup47W9YVwjjlHNpOyYoZY4L4sWRFKqui5-8gMg.JPEG/ADAEAF39-9099-443D-9B8F-5D2EA0DFF4F2.jpeg",
+          "https://ldb-phinf.pstatic.net/20250616_79/1750051341328Q9K4L_JPEG/1000026446.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjlfMjY2/MDAxNzU2NDIzMDgxODQz.0uZ5vai2v33m1eAFqash8VCBf7L6ButXMbeMz5DwasUg.9Es2Jjj6Z8sHiPHFL4lRzmc_mKSJRBj-wtQdkZyDVPcg.JPEG/20250827_195552.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTJfMTE4/MDAxNzQ5NzEwOTI1MDM0.lcsTo_Ez1Qv3_zECYPoQ3ColpIyGikSdeZFEBd6tUwsg.7PLOzGAnhql13LqwTE_BIVcENzipEv-C8rWMoIsFWmAg.JPEG/20250610_194120.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjlfMjMg/MDAxNzUxMTkwNzczMTE5.GV26KIzi52AhmCL5ts0cpnyKhqrEHtHmDueM2TxhcmYg.MTwt5Y3DgJ0Uz4-aHYpj9GzxSZUOBDz7zQ7UZJMdKhwg.JPEG/20250628_213553.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221546",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

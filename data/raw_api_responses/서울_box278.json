@@ -1,0 +1,1859 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 22,
+      "count": 22,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.98709258978992,
+          "minY": 37.569202702702704,
+          "maxX": 126.98822916351367,
+          "maxY": 37.570103603603606
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.9876608766518;37.569653153153155",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1799240203",
+        "name": "커피나인 종로",
+        "x": "126.9871045",
+        "y": "37.5699989",
+        "distance": 0.062,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "1006602"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 227,
+        "averagePrice": 5000,
+        "address": "서울특별시 종로구 종로2가 71-5 1,2층",
+        "roadAddress": "서울특별시 종로구 종로 86-1",
+        "abbrAddress": "종로2가 71-5 1,2층",
+        "shortAddress": [
+          "서울 종로구",
+          "종로 86-1"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 종로구 종로2가 71-5 1,2층",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTlfMjEz/MDAxNzU1NTc5MDE4NjAy.LSm0cAwlA6Dk8NgS9Y7XPxjUu5-NXlKGiSGNdKzrvM0g.DxkhB7fwEErjX4D2ZJ9ZZ11EKFvWnYlVZTZva7Ez-d0g.JPEG/69EF641C-8FEC-4688-A8B1-288F6B15D1D4.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjNfMjMz/MDAxNzYxMjA4NjE0MjA4.nIZyBaw2I2QV4gQFoSx5hEAqp7brbcr9h4fYJSfifQAg.DkKGkv6OhMdTAL_0RmfffDo2JxIonU47YqOYkRsbtm4g.JPEG/1000064729.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20241111_84/1731310586222CowGt_JPEG/_05A0136_copy.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTZfNSAg/MDAxNzQ0ODA3MDgyNzg4.Zw1DVZtTiFqoq3Sfp0qEC1OBsojkCDPErKyi1sU0vTUg.w4AaPIlFaRo73BYOCs1mtd_OFOmt-cizH12pF-lsjt8g.JPEG/20250416_152243.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20241111_114/17313105861899UxFM_JPEG/_05A0154_copy.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MzBfMjMx/MDAxNzQ4NjA5MzQyNjgz.gdI3lAY8iCBYpfwyw0O57IYxUGsMxDDrpwOoxMvuAj8g.hQNvkhYWn7pa317SSGNUq6tx_aFVcLn430GwaCInHzkg.JPEG/F71B2191-EAF6-4749-9AE6-0D1C2D948887.jpeg",
+          "https://ldb-phinf.pstatic.net/20241111_193/1731310586218pR9SV_JPEG/_05A0082_copy.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDhfMjk3/MDAxNzQ2Njg3NzIwNTkx.knnVmb-MKs4-fs5_wDrLowRIu2gJPQ8YpNqLqGRY3eAg.I06S1DuqJW_fm6LzxYSJY_UYL4bcy3pUCmVf83v8QDEg.JPEG/20250508_160118.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDhfMjE4/MDAxNzU5OTM0MjAwMjMx.fj3_XABSqJsPyTZMOUS6DehAAewFP_FZRqQYcFVoSvgg.uj8fgQAeyZfbVPW6T-UcbrLPRByT0VT_WGciE2FdiwAg.JPEG/20251008_201042.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTJfMjcz/MDAxNzQ3MDE5NzgzNzYz.ty0TuaGoSVAo0tanMxvSoKxv7KY7ADjkQRFzAY8KHdwg.sXnxwh_5yLarM77s_r6YPz7R1i0mHcSl7SZIyJwC-jAg.JPEG/FE2398AE-76ED-4EE5-A415-038569C0A94B.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1006602",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "2094260684",
+        "name": "버거옥 종로점",
+        "x": "126.9880136",
+        "y": "37.5698697",
+        "distance": 0.039,
+        "categoryName": "햄버거",
+        "categoryPath": [
+          [
+            "220036",
+            "220044",
+            "220138",
+            "221004"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "햄버거"
+        ],
+        "reviewCount": 117,
+        "averagePrice": 5000,
+        "address": "서울특별시 종로구 종로2가 56-24 1층~4층",
+        "roadAddress": "서울특별시 종로구 삼일대로 396",
+        "abbrAddress": "종로2가 56-24 1층~4층",
+        "shortAddress": [
+          "서울 종로구",
+          "삼일대로 396"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "서울특별시 종로구 종로2가 56-24 1층~4층",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTRfMjMx/MDAxNzU1MTU0NDQ5ODU2.JEl9_HL0x6sbwSDhQ6I8_vsuBcoYVkQ4QEsCfVlbSkog.-sVTwtTWp1E_xmpf3587Al5g1eFoQDe_8m2mdElkJDcg.JPEG/20250814_151609.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MzBfMjQ2/MDAxNzU5MjMyOTg1MTA1.y5XvV-2yPf_6yvd8-lEuIOh1xnw32MarEtM0F1tR2Kgg.TIALA95q702jR6JIutANKe00DcFUFZUpR2JBQtdqMmsg.JPEG/20250919_125348.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250905_24/175706148615984Q0H_PNG/%B5%F6%BA%ED%B7%E7%B9%E8%B0%E6%2B%B3%F2%B1%D7%B8%A9%2B%BD%CC%B1%DB%B9%F6%B0%C5%BC%BC%C6%AE_%B3%D7%C0%CC%B9%F6_%B8%C5%C0%E5_%B4%EB%C7%A5%C0%CC%B9%CC%C1%F6.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjFfMjE3/MDAxNzU1NzQ4NTY5NDEw.v1VwT5dIaV45eHzsdqweKa_NdL5jFLEUdLBJu1tY8tYg.rJL7l-gPdsBwRRRvn7rRbFyQDNEm6SufAhGRTIFzE1kg.JPEG/A2804FE7-9FB2-4BD5-8610-46F37127E5E6.jpeg",
+          "https://ldb-phinf.pstatic.net/20250813_265/17550492576917UpTe_PNG/%B4%F5%BA%ED%C4%A1%C1%EE_1%2B1.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDFfMjA4/MDAxNzU2NzIyMzI1ODYx.FX-7JFl-wnAtqoboSV4Cw__IzmAcGz3BUD2hhLb1858g.6PR4HlYSNpe3b036WFy4ZD68uY1mnl65mFL6ZDqcMcQg.JPEG/4C82D90D-151E-46FE-985C-7F1D391714BC.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjJfNDEg/MDAxNzU1ODI5ODc0NTkz.9q84EJGOHQBas2pd_rbfgyklmS1J5M6rj7FXvwM5YTQg.FU-Zmus41C-n14Ve7o6eSLkCkdIqBOFqanof4RB-rI0g.JPEG/84936186-0B94-43A1-A811-7BE4712B7D40.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjRfMjYx/MDAxNzU2MDA0MDc2ODE5.k2DnuISrd_OvcHIOBVeEq4OrgmVmNt3LSJ98y3cioOog.5SBlLcXiqMkByWWCXflrz29JrhMpZClhx3aSh7Jgmg0g.JPEG/4783272C-3C62-4182-8C07-3C230792994A.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDlfMjQ3/MDAxNzYwMDAyNzcyMTk0.DBswH5Gbct6ZX8woKhh8JmkUKPZNwigMOE0Ov61E99Mg.JE3jUNP4cVB5PiGpvQGMyUJ3SrGL6d3JsoT80-Gfgeog.JPEG/IMG_8303.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjFfMTk3/MDAxNzU4NDUxMTMwNTg5.f9TkLFpBX2JP-Qk3VG2y2o73VEqRAnpoCqdf4Rw3_88g._42NaIPx131h3-BPL2wGQJ2yMLEAVy0Zlwq-eM2merAg.JPEG/74E7DDDB-5DEA-4C32-84DE-01EB6A548FAC.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221004",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 3,
+        "id": "1395094671",
+        "name": "또보겠지떡볶이집 몽글몽글청계점",
+        "x": "126.9872446",
+        "y": "37.5696639",
+        "distance": 0.037,
+        "categoryName": "분식",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "230092"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "분식"
+        ],
+        "reviewCount": 2368,
+        "averagePrice": 14000,
+        "address": "서울특별시 종로구 관철동 6-4 2층",
+        "roadAddress": "서울특별시 종로구 삼일대로19길 6",
+        "abbrAddress": "관철동 6-4 2층",
+        "shortAddress": [
+          "서울 종로구",
+          "삼일대로19길 6"
+        ],
+        "displayContext": [],
+        "labelTheme": "분식",
+        "microReviews": [],
+        "cardDescription": "또보겠지 떡볶이집의 작은 시작 그리고 또떡의 완성 또보겠지 떡볶이집은 2011년 10월 27일, 홍대 마포도서관 앞에서 작게 시작되었습니다. 야채가 듬뿍 들어간 즉석떡볶이, 어릴 적 좋아했던 만 ",
+        "description": "또보겠지 떡볶이집의 작은 시작 그리고 또떡의 완성 또보겠지 떡볶이집은 2011년 10월 27일, 홍대 마포도서관 앞에서 작게 시작되었습니다. 야채가 듬뿍 들어간 즉석떡볶이, 어릴 적 좋아했던 만 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTAzMzFfMTY0/MDAxNzQzNDE5MjM0NjEw.eiepdWWyLF-tKa4h6mhQg52OvheXhIIqoG05RZS7KTMg.MsbBmWMs2NqTgej0dEmZ-vp0KBhsTy2ELxVGqJidhhIg.JPEG/36D82272-1B7E-40A6-BFF0-6C963BF64D33.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTZfMTQ4/MDAxNzU4MDIzNzg4ODQ0.VO6NqK24XoJHNQro9i0Ztd2RC3kbEAYNDeHFk6-CF5sg.wXZRsZ52-FJJLEifco7CWIDD9UlI94-qFp41mj9CFLYg.JPEG/49C18B9E-7474-4528-B36F-F7BD1F35796D.jpeg",
+          "https://ldb-phinf.pstatic.net/20250704_293/1751608223618QvBBp_JPEG/1000019104.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjFfMTgg/MDAxNzU1NzgxODUyMzg2.ygpj2UjgvQa06BSUMHy12_aUFMLzvI0aPPxGFlw1Wtkg.7Y-fKi9YwtD3OUwRaz8oUUS3aJMs1sKlA4A4Lx7tkAcg.JPEG/F6D40050-74A2-46BC-8307-777BCD760CFE.jpeg",
+          "https://ldb-phinf.pstatic.net/20250704_149/1751608240792fo20F_JPEG/1000022516.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTNfMjcg/MDAxNzU3NzM1ODA3MzQx.7Vx30w9swMS1tGYZsU15pwzz7fOcZXvIK0b4nOpJfO8g.g_6UZ36dIDB1a6CkjMslR7KVMytDy34CYpX0H8218sUg.JPEG/38D66F4F-9F51-48C6-B5CD-644E6FB446B9.jpeg",
+          "https://ldb-phinf.pstatic.net/20250704_141/1751608242186uKcrg_JPEG/1000022515.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDZfMTQ0/MDAxNzU0NDc3NDQwMjQy.fB1eTuv_dYAMJhlia_VIx6gqxvawDx2UxiiZ9Ir9y30g.wED8yEyKBF0_UWuM995diCeB4yQUAU9cflwwkUNBJV4g.JPEG/1C53F7AD-790E-4392-9B3A-0883661A6D10.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MzFfMjQy/MDAxNzUzOTU3MjQ3OTU1.Fk1d_eMmpwSTi6VEDL392GkihOwUzFdyYjn6tYE_WA4g.pA10LJP21yFAlIXZxjRVisRgxplJHYge6r7pyn9Bxmsg.JPEG/F1E85B3A-D268-4135-BA08-E89B29AAC63D.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDhfMjkx/MDAxNzUxOTQ3NTcxNjIy.qVbu32rINLBpCPIBELpbjZHbdcvYh56JUJkeeOd_dFkg.YYelDPp0hVla7VZIH8tYc0-MxNrmJj-bb26ojjrHYFIg.JPEG/D089FADE-63AC-43C0-B38A-2EA5B695866D.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "230092",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": true,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1395094671",
+            "bodySummary": "회사 다닐때 여기로 자주 점심 먹으러 갔었는데 같이 만나는 동생이 떡뽀끼가 먹고 싶다해서 아주 오랜만에 방문하게 된 또보겠지떡볶이 평일이어서 사람 없겠지? 했는데 역시나 오산.. ",
+            "url": "https://m.blog.naver.com/wkdmsdl171/223398164075",
+            "nick": "쟈니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMTFfMjkx/MDAxNzA0OTQ2Nzg3OTE0.36ZSkSR_Z2JWRcrZfrLwq79WMT2-X1a51gzoXxEJ53Eg.6TdgYKupSM9vHElNxyqrJxhPHtPHnh2bEcnt1tq8328g.JPEG.wkdmsdl171/KakaoTalk_20240111_131840456_04.jpg/KakaoTalk_20240111_131840456_04.jpg"
+          },
+          {
+            "sid": "1395094671",
+            "bodySummary": "이름부터 강렬한 '또 보겠지 떡볶이' 매장별로 이름도 독특한데 오늘 소개드릴 몽글몽글 청계점 ^^; 어떤 매력이 있나 함께 보실까요? 몽글몽글 청계점은 종각역 먹자골목 2층에 위치",
+            "url": "https://m.blog.naver.com/hey_daily/223399050394",
+            "nick": "J형",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjExMzBfNjcg/MDAxNjY5NzcxNzA0Nzkz.D81_v2AsLsBI_7ZP4KJfTdwMW72ftWxy-Ive-u6FecYg.5kwSrVOjjDcw9VjMBgmqwOgggJSjGlkYaWVfmsI5ilsg.JPEG.qzqz3/KakaoTalk_20221130_102713607.jpg/KakaoTalk_20221130_102713607.jpg"
+          },
+          {
+            "sid": "1395094671",
+            "bodySummary": "많은 사람이 방문한 흔적이 느껴졌던 가게가 위치한 2층! 우리는 운좋게 딱 하나 남은 자리에 기다리지 않고 바로 앉을 수 있었는데, 나올 때 보니 여기가 웨이팅하는 손님들로 꽉 찼",
+            "url": "https://m.blog.naver.com/nanaseries/223386272829",
+            "nick": "나나NANA",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA0MDNfMjIz/MDAxNjQ4OTk1MzQyODEz.KrCgLapaKsrXUydpMHcTOHcgkXPF98tGqrRZpZjYG_Qg.W4xFuPn0r7eU1rwJtEYkOGR64BCXZN8cY4EMzyNkmcMg.PNG.nanaseries/profileImage.png"
+          },
+          {
+            "sid": "1395094671",
+            "bodySummary": "또보겠지떡볶이집 몽글몽글 청계점 주소 : 서울 종로구 삼일대로19길 6 2층 영업시간 : 월~토: 11:00-21:00 매주 일요일 휴무 전화번호 : 0507-1402-4103 안",
+            "url": "https://m.blog.naver.com/hskr1013/223379626467",
+            "nick": "Latteri",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTEyMTlfMjAg/MDAxNjM5ODkyMzE5ODE1.RAvgosrGhk5l-TnOUsyQ1WjibP-drfupDz8SyUnIcUcg.zzi-xC8raNypb7AwHMbtRoo4zeiY2THZflfmKGB8MiQg.PNG.hskr1013/profileImage.png"
+          },
+          {
+            "sid": "1395094671",
+            "bodySummary": "쩡애언니와 신나게 데뚜한 하루! 언니가 떡볶이가 먹고싶다고 하여 저녁으로 가게된 종각역에 위치한 떡볶이집 '또보겠지떡볶이집 몽글몽글청계점' 이른 저녁에 들렸는데 다행히 테이블이 있",
+            "url": "https://m.blog.naver.com/angurireview/223378446926",
+            "nick": "앵구리",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/data17/2007/7/27/26/12345-4909-ksry13.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "id": "1946370347",
+        "name": "산산옥 종각점",
+        "x": "126.987249",
+        "y": "37.5696366",
+        "distance": 0.036,
+        "categoryName": "순대,순댓국",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220768",
+            "221546"
+          ]
+        ],
+        "category": [
+          "한식",
+          "순대,순댓국"
+        ],
+        "reviewCount": 429,
+        "averagePrice": 10000,
+        "address": "서울특별시 종로구 관철동 6-4 1층",
+        "roadAddress": "서울특별시 종로구 삼일대로19길 6",
+        "abbrAddress": "관철동 6-4 1층",
+        "shortAddress": [
+          "서울 종로구",
+          "삼일대로19길 6"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [
+          "사골 육수로 우려낸 순대국밥의 풍미"
+        ],
+        "cardDescription": "사골 육수로 우려낸 순대국밥의 풍미",
+        "description": "정성이 담긴 따뜻한 국밥과 술안주  안녕하세요. 매일 정성스레 끓여내는 돼지국밥과 전골로 고객님께 힘이 되고 싶은 마음으로 준비하고 있습니다. 저희 돼지국밥은 국내산 생고기와 돼지 머 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTRfOSAg/MDAxNzQ5ODY2OTA1NDcz.JrpHRfPccBWcbjyTuHtIY0ovhzOaGrlyZV85DHDgLeUg.nbbtHkFRKbkyAnVER1irBAxPQKmNg6yuEJtKqp1Gvwsg.JPEG/B6064227-EAAE-4B7B-8406-79D3D7D9321C.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjFfMTEw/MDAxNzQ3Nzk4ODIyODcw.HV6Yw3WhPPJv3TLYiSTL0uMeJIRNYzZqkIqJQA6zIh8g.yGdtFrqWzOvYf5DVn81rBb1EyOTxsll5G-T9CSQcT7Mg.JPEG/20250521_124000.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250412_217/17444644153048vkr9_JPEG/GJF08782.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTFfMjI2/MDAxNzQ0MzM5MjUzMDEx.MBaTmXaUkAFSerKFdeyDDT8eEFtgVKwo1FvWSj2u68Ag.iHvSRCyRGNoCvbtr5C-htNfa9NV_1AekpMrdYEgHWT4g.JPEG/20250409_183449.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250412_17/1744464193004rn0mD_JPEG/GJF08764.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDJfMjgx/MDAxNzU0MTI1ODM0Nzc0.zYu22SC2Abi_VD3sctmat5XSEk9oaig18e-QtgkFB6sg.mn7FoCGKtAwXkcfKUuVvtKDS-FYWd8-vs8trHDygE4Ig.JPEG/5A820847-00A2-4D93-B960-1C25EEB42BD8.jpeg",
+          "https://ldb-phinf.pstatic.net/20250412_243/1744464426070S5LHt_JPEG/GJF08786-1.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTdfMjcw/MDAxNzUyNzMxMTk0MTUz.pn1PeSkdDQLAvqINTJrc6YkWLc8gEZkBxfU2pzWmoOUg.TkhEF-p5HJkcJARADYdXeXNT9vY1tZmXTEkKjzfMJVIg.JPEG/A65B2F66-A06A-45E8-B22D-A29AC2A9E136.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDlfMjQ5/MDAxNzQ5NDczMDgyMzk3.tVuJLjzF65n-vxJkXsX-Ch5zsOTLzHkCPxnn9K493P4g.xHUMZmK1dVtCp-8DkGEFR4bCk1eOtozzrA8LM6pXOV4g.JPEG/938E8EC9-EF7C-4EA9-98EF-AB59EF080B09.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDJfMjMz/MDAxNzU0MTI1ODE4MjMw.zlSAknxLTNieL02_PoToMq8nC6vutvSfmbdkQ3VWGDsg.FgFrX6ZIRRzpU6xCVkPl5EYd_nmeScCUlJ3sF5dcNG0g.JPEG/1F1422B2-0DE5-472C-9A99-A6050F9CD528.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221546",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 5,
+        "id": "996003263",
+        "name": "수제왕돈가스",
+        "x": "126.987434",
+        "y": "37.5697575",
+        "distance": 0.023,
+        "categoryName": "일식",
+        "categoryPath": [
+          [
+            "220036",
+            "220038",
+            "220082",
+            "220812"
+          ]
+        ],
+        "category": [
+          "일식",
+          "돈가스"
+        ],
+        "reviewCount": 1298,
+        "averagePrice": 5000,
+        "address": "서울특별시 종로구 관철동 6-2",
+        "roadAddress": "서울특별시 종로구 삼일대로 393-1",
+        "abbrAddress": "관철동 6-2",
+        "shortAddress": [
+          "서울 종로구",
+          "삼일대로 393-1"
+        ],
+        "displayContext": [
+          "돈가스",
+          "치즈돈까스",
+          "주먹밥",
+          "카레",
+          "치킨"
+        ],
+        "labelTheme": "착한 가격",
+        "microReviews": [
+          "평범함을 넘어 특색있는 돈가스 변주곡"
+        ],
+        "cardDescription": "평범함을 넘어 특색있는 돈가스 변주곡",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjRfMTQx/MDAxNzUzMzY1Njk4Nzg5.a_HGwZ3sFL877HQqKDcuogoOaNbmy-kK6t-UoVw0gcIg.EMDivloTphtA5M17v0pnnnK3jpHEqBD80R_AXDNCjEog.JPEG/20250724_114849.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTdfNjIg/MDAxNzU4MDg1OTY3NzA5.PMShsLa51UfHDrx-kgNZgrNv4fFqAZBqN6jYRtlARSEg.nwQRfQ18bqT2jPcr2RuJgCgdjvWlbQofpiFM5JHQFrIg.JPEG/41DF1D85-DB6F-423C-974F-5B26EBCDCB4F.jpeg",
+          "https://ldb-phinf.pstatic.net/20190808_22/1565271809198xrwpw_JPEG/vISRdkimV-YWqW7CcCJJdrMz.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDNfOTAg/MDAxNzU5NDkwNTEzNjIx.bUOnhqmJWshmg2muDxlM25fef80UCugOqlVz9SEcHMUg.Mkg54ZiNG9iF1HNMut3RmeT2orbqIoU74cEpBtJoEbwg.JPEG/469361EB-4958-4529-8A80-E3BDF9FD1BB5.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTJfNzIg/MDAxNzQ5NzAzNzkyNjA5.dbubHQFf79M_ugABKOdUGk8YUMJ-mzYO6Jw9nPWE-jog.k6p_PEBGyPITTLPPMBmcu9erC0lZPiHQX2mAsx-CETUg.JPEG/1000008367.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjFfMjYz/MDAxNzU4NDIyNzg0MzM4.XXhAp04P-UbRsl9M8qxABN2kO1FIQ-1Rgwn-eb8iN1wg.5jWxgUiQ_-1ogRprNfQ5RVFqGDHvVdk0Un8nhrMobPIg.JPEG/20250717_121915.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDlfMjA1/MDAxNzU0NzI0MTE4NzY2.7EMQMqYEQ666UqE1OgWcecGVimVXhf5HjGeyDbtFUc4g.UFy8k-NMQumnKa4yqyAYR6li36j83GWsEC3M1qKsElUg.JPEG/Resized_20250714_161603.jpeg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTdfNjcg/MDAxNzQ3NDc5NzAxNTEz.X64hT40Pk1n8eHjM-KsK_xYWdYNN6jUHXxwSVkahQXwg.lTnR9O1Xd41b5lRiD-HVcUeKx-ZQpiLqTNtbJIiVMscg.JPEG/20250516_152638.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTZfMjIw/MDAxNzUyNjQwMTE4NDY5.825F5XddhkwP2-HI3_4S48XnPuTuzYMfaf9r5dwl-Pgg.9gSHBsIviR3b6v96IHWFD-_o11alrVLIxpM2EX0YyUYg.JPEG/20250716_130113.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjhfNDUg/MDAxNzQ1ODAxNDEwNDg2.jgqIngJl8JDNlT87UWqswZVwDEB4BhF3cwryG88RB2Qg.FZ0QZ6npLsQcIeoKVceqXG0yTXAwualL7aObMjzjHYcg.JPEG/6F24BFF4-427F-470F-B632-A9B622EDC713.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220812",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "996003263",
+            "bodySummary": "수제왕돈까스 · 주소 서울 종로구 삼일대로 393-1 · 전화번호 02-720-0991 · 영업시간 매일 10:30 - 21:30 21:00 라스트오더 매달 1, 3번째 일요일 정",
+            "url": "https://m.blog.naver.com/cheerful_life/223359748088",
+            "nick": "김연어와 김거루",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA3MzBfNjkg/MDAxNjkwNzIwNjgzNTE0.golFEAmAsaKcYUajxtHCPFIRBraZoV0bV-PvWG83AoUg.tpxgBG4lJd3UewLL6go1u1Jf_pUeSgLC5smLLjdr9rQg.JPEG.mjh_mjh/KakaoTalk_20230730_213658176.jpg/KakaoTalk_20230730_213658176.jpg"
+          },
+          {
+            "sid": "996003263",
+            "bodySummary": "위로” 3층을 올라가도 끊임없이 수제왕돈가스로 유혹하며 포기를 양보하게 한다. 마지막 4층으로 향하는 계단. “고생 끝에 돈가스” 이제 4층. 오래된 노포 같은 집이다. 점심시간에",
+            "url": "https://m.blog.naver.com/junuppi/223353595363",
+            "nick": "JUNUPPI",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjExMTZfMjQ5/MDAxNjY4NTYwMzczMDgw.tBlmwcszq7CkB1HMcZ3w3zuX-ulP--vFGkh7DWE4Tqwg.NgYeN8qWGDZcL6hCFh0KtQm0tmsz7yYs23wldbsLVHgg.JPEG.badboy132/img_theme5.jpg/img_theme5.jpg"
+          },
+          {
+            "sid": "996003263",
+            "bodySummary": "수제왕돈가스 영업시간 매일 10:30 - 21:30 라스트 오더 21:00 매달 1, 3번째 일요일 정기휴무 주소 서울 종로구 삼일대로 393-1(관철동 6-2) 지하철 1호선 /",
+            "url": "https://m.blog.naver.com/ehdanfro/223338981709",
+            "nick": "지뿡",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA3MTlfNDgg/MDAxNjg5NzU0MjIxNDc1.XwM3umY6Htu9SoSNYOyAqsqSoNtdTH5fEn_-DqCXjNsg.aK9oZesEZ1cfgyfLttalhePAxv5QHc-EkKKB0jn9w9Eg.JPEG.ehdanfro/SNOW_20230601_144828_113.jpg/SNOW_20230601_144828_113.jpg"
+          },
+          {
+            "sid": "996003263",
+            "bodySummary": "1층 40석 / 2층 60석 대규모 인원 수용 가능! ✔️ 전화로 예약도 가능했어요 (점심에도요!) 수제왕돈가스 | 본격 소개 오늘 소개드릴 수제왕돈가스는 종각역 부근에 위치해 있",
+            "url": "https://m.blog.naver.com/francis_12/223334562445",
+            "nick": "원더풀데이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAxMjRfMjA0/MDAxNjc0NTI5MzEyNTAy.UyiKo4fMj023Bg2jRyyMF0Vm2CjdiZo8d8gTSU6GtWsg.aH2l3BKvBUIU_mhCUSlgLbbBQTNxz4Np1m_21cPfgYIg.PNG.francis_12/profileImage.png"
+          },
+          {
+            "sid": "996003263",
+            "bodySummary": "돈까스가 먹고 싶어져서 식당 검색을 하다가 이 돈까스집이 눈에 들어와 한번 가봤다. 돈까스집은 종로2가 사거리 버거킹 맞은편에 있었다. 횡단보도 건너서 가는 중… 겉에서 보기엔 3",
+            "url": "https://m.blog.naver.com/egg-money-na/223327048725",
+            "nick": "박에그",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAxMzBfMjQ5/MDAxNjc1MDQzNTgyNDQ5.S7vVkSOj8zHyeey9XklijoYYAQPZhmDl2b3GlXakIJQg.NZiP-3wI5W6EXz7oeQXvJYWYj6N8tRVXBI5cANBJpBUg.PNG.bageran82/002.png/002.png"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "id": "1018065187",
+        "name": "푸드카페 김밥천국 종로2가",
+        "x": "126.9880163",
+        "y": "37.5697882",
+        "distance": 0.035,
+        "categoryName": "분식",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220207"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "분식"
+        ],
+        "reviewCount": 478,
+        "averagePrice": 4000,
+        "address": "서울특별시 종로구 종로2가 56-11 1층",
+        "roadAddress": "서울특별시 종로구 삼일대로 394",
+        "abbrAddress": "종로2가 56-11 1층",
+        "shortAddress": [
+          "서울 종로구",
+          "삼일대로 394"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "서울특별시 종로구 종로2가 56-11 1층",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjFfMjI3/MDAxNzYxMDU1MDI0MTI2.ENAY4dHE839Wf2vqZSAseb1FxfrCfhfP99WDkaerYSog.xTnZTI_wb-AZaAlyAUwWftjk2UkPsptmd6oJtXGyJ90g.JPEG/20251021_210652.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDJfNDUg/MDAxNzU2Nzg1Njk1NDk5.gsp1DCVlW06hBdD6rkyUNe32n1OSV3iSHvJrfh3jaCcg.VhrmLrJsCNBJgi5xhRkfuGFhx7hV18jSR_UDs7ubyxwg.JPEG/BA8EC7E1-142E-43D4-804D-FFF5020C40A6.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTZfMTYz/MDAxNzYwNTg3OTM1NzAz.zz5PsT516BqEq8SWJjC2kAJ0zMZl_KrGf3GFjFPcSuUg.VuUGH3-a9mdBjOLPGo2ZyLd-AqceLO3qjVY8ZTFOnekg.JPEG/20251016_123502.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTFfMTkw/MDAxNzQ0MzcxMzkyNjMw.sdZUbcqXqcP-QzhWG002l90DuFt1t6vHLrONOu_X9kMg.5HAqCPer90i9Jkdl3XlQLb1eKWOFuvY64b6VxZN1R_Ug.JPEG/AD9A56B4-5B03-435F-B36E-CA3EE95452F6.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjRfMjU0/MDAxNzUzMzYzNDA1MzA1.5Ng3bcxk7XYOcX-tBnC3q-2kMSOH1xmfHIlJEu21KzAg.ylOMGAcUZCpgt7IEzi6e4eqEwq9HQD3JlnuuryMNU4sg.JPEG/E20697B0-EF24-436E-8688-F6896B2F5347.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTNfMjEw/MDAxNzUyMzk4MDc1NjE4.DRbjg4ILD96i1DzqqwDtNtBxzpUS2SAu5L8u2Bbba4Yg.kKOYHrz3gQwx8XL-KPlP9Ssa6ai_XvtTHyIxnso8dmQg.JPEG/20250713_175314.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDRfMjE1/MDAxNzU2OTk1NTY3ODc0.w9f1UukEZJIwm_a_EAxk0A_WQO5R2v79Bo-PU-VSN4wg.rxBkuTuXRVJVGalyaUtmLvwrPi3iRzokGxexOoneV_cg.JPEG/20250829_091226.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjhfMjA3/MDAxNzU5MDY4OTQ3MTQy.HVt0bKuhwKkl05BYmtMit4zBfHbDOQ4irrkQ_Hc_I_Yg.VJOLdrRahL8tnYR46mqRrUwZGkAPNUdojtyU9z--t8Mg.JPEG/IMG_4590.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDJfMjU3/MDAxNzU0MTA5MTIxMzA0.zLkJDyfw2Id2RATnH_D9jlqUPz3572QMX4n9H6C7dhkg.gVXPA1MKIoWhglR_4_ppJLeU48uALtksIu7iu79WjE8g.JPEG/20250802_133038.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDVfMjMy/MDAxNzUxNjcyOTgyMzk3.uVDU0eYbSzJbPQwPnd4l6L0KSgg0CpcpOAVbRMeSohMg.iXjdjdNZEkYtjCaQmNXw3UB5t9wW7qkiKAlk28iTcwgg.JPEG/20250607_135752.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220207",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1018065187",
+            "bodySummary": "내돈내산 주문은 키오스크로 하고 앉아서 내부를 찍어봤다. 셀프로 국물, 물티슈 등을 가져올 수 있다. 메뉴가 나오면 음식받아가는곳에서 받아와서 먹고 식기반납하는곳에 반납하는 시스템",
+            "url": "https://m.blog.naver.com/ohy718/223378895562",
+            "nick": "요이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA5MDNfNzEg/MDAxNjYyMjA4NTU0MDQz.3HptZWWrtgPBY-_qWC6whdRYcrK1gn1YFBSB97teGe8g.d2sowQiMTdey15qdEN1acXJt5peybdSRNrXFnTql4m8g.JPEG.ohy718/profileImage.jpg"
+          },
+          {
+            "sid": "1018065187",
+            "bodySummary": "그래서 달려갔습니다. 리뷰 시작할게요 ˃̵͈̑ᴗ˂̵͈̑푸드카페 김밥천국 위치: 서울 종로구 삼일대로 394 영업시간: 월 ~ 일 / 06:00 ~ 22:00 종로 2가 역에서 내리",
+            "url": "https://m.blog.naver.com/fndl200907/223301259374",
+            "nick": "호끼루끼",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAyMjdfNDcg/MDAxNzA4OTg4OTE5NTM2.SVuqKD0gyJlAalArphk8D3U35O0WgPj87-jrBHt4hiAg.s1DBl5vjXFzYIBsj8pSOT0sSJk5jJb-z8DDo9U4TRtcg.PNG/profileImage.png"
+          },
+          {
+            "sid": "1018065187",
+            "bodySummary": "내부는 생각보다 넓고 테이블이 많아요! 종로 3가 맛집 김밥천국의 김치와 단무지는 푸드카페 김밥천국 셀프코너에서 받아올수있어요 국물도 여기에서 받아올수있고 돈까스+우동 이였나? 이",
+            "url": "https://m.blog.naver.com/dustj0v0/223245897303",
+            "nick": "감자튀김",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA4MDVfMTMw/MDAxNjkxMTY5NzQ3ODcw.vYX-li5D4jQrCfVqAqi8L0ptlQm1KZJBO0klXDsE8zsg.uUSnbdvr1l_4D2vjKCbQQ61r4yz1FQKl2fHK3nW65jYg.JPEG.dustj0v0/IMG_1403.JPG/IMG_1403.JPG"
+          },
+          {
+            "sid": "1018065187",
+            "bodySummary": "오픈 하기 전 간판만 달려있을때부터 꼭 오고 싶어서 노래를 불렀던 곳 김밥천국만큼 다양한 메뉴를 먹을 수 있고 가성비 좋은 한끼 식사 가능한 곳 찾기 힘들지! 김밥천국은 거의 혼밥",
+            "url": "https://m.blog.naver.com/gywjd2272/223219116981",
+            "nick": "효효",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAxMzFfMTgx/MDAxNjc1MTc2ODU0MTMw.MQAec4wVMHe-3346WJ0zuJDff7JUHAqbWEyfUJM9K7gg.kBSeiNSVHpEiDHYrrNoo_61zZvmZxuB6MTFLa8CazXYg.PNG.gywjd2272/profileImage.png"
+          },
+          {
+            "sid": "1018065187",
+            "bodySummary": "야채김밥 시켰는데 웰빙김밥이 나왔고 장국 다 넘쳐흐르고. 여튼 종로 신규 오픈해서 깔끔한 매장이다.. 근데 무엇보다 슬픈점은 이거먹어서 그런지 지금 새벽에 기상해서 화장실 드나드는",
+            "url": "https://m.blog.naver.com/csa3120/223196236548",
+            "nick": "감갬",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDAyMDVfMTA2/MDAxNTgwODkzNTcxMTU3.a2TWkR3fkjvVnwX3bTmNW3LXl5upg3_fYFl-hrZaw8cg.bCkBkjxmgcRqHKm84MdePEb3Apuv-wWQBPf221Am8gMg.PNG.csa3120/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "id": "1388528204",
+        "name": "마라중독",
+        "x": "126.9874452",
+        "y": "37.5695065",
+        "distance": 0.025,
+        "categoryName": "중식당",
+        "categoryPath": [
+          [
+            "220036",
+            "220039",
+            "220091",
+            "220861"
+          ]
+        ],
+        "category": [
+          "중식",
+          "중식당"
+        ],
+        "reviewCount": 2477,
+        "averagePrice": 10000,
+        "address": "서울특별시 종로구 관철동 7-1 2층",
+        "roadAddress": "서울특별시 종로구 삼일대로 391",
+        "abbrAddress": "관철동 7-1 2층",
+        "shortAddress": [
+          "서울 종로구",
+          "삼일대로 391"
+        ],
+        "displayContext": [],
+        "labelTheme": "중식",
+        "microReviews": [
+          "마라샹궈와 꿔바로우의 환상 조합 추천"
+        ],
+        "cardDescription": "마라샹궈와 꿔바로우의 환상 조합 추천",
+        "description": "중국 원조 훠궈 &아라탕전문점 마라중독 입니다. 좋은 시간이 되시도록 최선을 다하겠습니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTJfMTA5/MDAxNzU3NjcwNDQyMzU0.ru0AtJ3bwFB5KbtRGYv-ShxFQnDfWmXraUKYY58JU7Ug.68VWsBSTizxzXXb_3bk3HnbLS6a4HBXwzsbCFMf7ENAg.JPEG/20250912_124940.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTRfMjg4/MDAxNzU3ODE4OTc1NzM1.nmGieCPFIrPEdRZSTyGfTrobzdCQY4yLp69xcXeX90Mg.2Iq3lsztvPzKtizB8hCe3DyV5JbRe8ILfnUq9oUbu7wg.JPEG/849C4B3D-65E0-46FF-9D6E-B3A9A4B195FF.jpeg",
+          "https://ldb-phinf.pstatic.net/20220813_294/1660391417938AAfLq_JPEG/2FCA00CF-8A83-4980-9BE0-09C8ED00767D.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjJfMTAz/MDAxNzUwNTgyOTc5MTU0.MuxEcHeD3NksujhFz4Hq82dpKpEPcjZlDST_Wec3PLcg.Pmk7SQXPdTpSG7uAtyrAJbsXpRiusPFcIoF26cqCIy4g.JPEG/A51C73A7-5FDC-484F-996A-31855416C91D.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTdfMjYx/MDAxNzU1NDExNjA3Njc0.F7bdyxfrzoGrYij1YUgyhaO_7oaTkQTjSnDuVQcL7gog.EROCoI-jSb_9wVRBXwEixRu7rReq44yQxjs_4NoldcMg.JPEG/4A344C4C-83DA-4234-AAD2-B7F85F98E037.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDdfMTEw/MDAxNzU3MjM3NjI4MzAx.UxPwPxUmRCiCI6GFBix2oqSEt9AchD4dERGQP6oSwTcg._BM8LRIkD3MBxTOk_Dl2IXjaUFFoe8vBruHRV_TqV2Mg.JPEG/1000063422.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MzBfNTAg/MDAxNzUxMjc3NzQ4ODY2.uc5cMvH2pBQiAkBxvIcji-mAxGV28PGa7-xHT2S6VTIg.zxf-MQEhEt6lRaieCYx68Q41WGNmyxk8NHIl82XEmisg.JPEG/1000043982.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDhfNjAg/MDAxNzQ5MzU1NTgxMTQw.qpCvv4Nd2zFcvxwaU0g6Xp2rO5uyfWNZ6b4WGqwazSEg.6-rh3muux7v9hKsPoZ35cXsIUsdK9vr1FxaOb-z5SrYg.JPEG/ADA115C6-D1DD-4E62-BD50-B378632A9340.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjRfMjI4/MDAxNzYxMjg5NTIwMzQx.yg0CMjAC5E4h-_-eomV6xAnvbVNHABBVd68yA6m9NRog.mQpCW-0AHN9ZFa3jPfpQ-wGLQoy23jTjoD-XG7l2Bbkg.JPEG/E93288FD-AA26-4639-BD1D-85D08C61B03F.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDFfMTEy/MDAxNzUxMzA4ODI2OTAx.noFKaQ6kUwwLIdXL2JG8XI_wSGFzZqmhZ5AmlvubOMMg.d-WrMOzn6ibgMkA2UIUGJqi3y3RfhQursrmDAu43RhMg.JPEG/20250623_180014.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220861",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1388528204",
+            "bodySummary": "저희가 주문한 메뉴는 훠궈 무한리필 홍탕 & 토마토탕 인당 16,800원 저는 훠궈 먹을 때 무조건 홍탕이랑 토마토탕을 선택하는데요! 토마토탕이 처음이신분들은 맛보기 전 상상이 안",
+            "url": "https://m.blog.naver.com/haerang_dal/223393169295",
+            "nick": "해랑",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAzMTZfMjAz/MDAxNjQ3NDExMjMxOTc5.Xqj0Qk00ob2VLu_cCBla_8SkSrepq_GMHhS3qcl2CAgg.6BLQt0CaH4KeanEWpBfFCYBjQ2B8uyFfmNlBS0O8G94g.PNG.haerang_dal/profileImage.png"
+          },
+          {
+            "sid": "1388528204",
+            "bodySummary": "테이블도 좁지 않고 넓어서 먹기 편했어요. 여기 훠거만 하는게 아니라 마라탕 마라샹궈 등도 팔아서 혼밥 하시는 분들도 많더라고요. 가게가 혹시 좀 더럽지 않을까 걱정 많이 했는데 ",
+            "url": "https://m.blog.naver.com/jellybin03/223390889470",
+            "nick": "loca",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA2MjBfMTQz/MDAxNjg3MjY1MDIyNTY5.-i6DRqIA1b9xuLpZ3oYZyvEiHzyq2NbUPt-JzuX3ofwg.qC1__ac3IZbY6VDOKMOIInEa29HngCcpVlTkDClwkb4g.JPEG.jellybin03/profileImage.jpg"
+          },
+          {
+            "sid": "1388528204",
+            "bodySummary": "마라탕 먹을때 전 소스 안먹는데 종로 마라탕 마라중독 여기서는 고수가 있네!! 오 좋아 ㅋㅋ 한 그릇 퍼옴 종로 마라탕 마라중독에서는 주문하면 직접 가져다주시니 너무 편안함 야채,",
+            "url": "https://m.blog.naver.com/lsy0318/223387266658",
+            "nick": "e Su",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20100521_256/lsy0318_1274420065900_PQl6x3_jpg/P070806034%284136%29.jpg"
+          },
+          {
+            "sid": "1388528204",
+            "bodySummary": "오랜만에 훠궈 먹으러 갔어요! 마라중독은 가끔 오빠랑 먹으러 오는 곳이에요❤️ 야채랑 고기 무한리필! 전 야채를 넘 좋아해요ㅠㅠ 거기다가 국물도 좋아요 [ 마라중독 ] 서울 종로구",
+            "url": "https://m.blog.naver.com/hrdesign8217/223384870459",
+            "nick": "Gold 림",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMTdfMjcz/MDAxNzEwNjgwNTEzMzg5._CwA7iLtwyYru-8SwVE1x12FVbg2AP2YdsKw_nETmnYg.R7_KOb3O7Ekgs3AR4iYa15c17mNdg8HoB1rLzFpWdnMg.JPEG/profileImage.jpg"
+          },
+          {
+            "sid": "1388528204",
+            "bodySummary": "최근 무노와 함께 다녀온 훠궈 무한리필집. 마라탕, 마라샹궈는 재료 몇 개 추가 안 해도 가격이 수직상승 해버리고 훠궈는 하이디라오 같은 곳은 거의 10만 원 가까지 생각해야 한다",
+            "url": "https://m.blog.naver.com/sakjh0415/223383253966",
+            "nick": "키키",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMDFfMTMw/MDAxNzAxNDAyNTUxMjg2.03WWvWZOPx4XrXpCiUz021FsW0pJsPob1Tg2p0O2DhAg.q8qUrQ4iTTc0clx9ZARHK9WTqoOZOg1k6lg3Oap4eSEg.PNG.sakjh0415/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "id": "2072316164",
+        "name": "베트남플러스99",
+        "x": "126.9872446",
+        "y": "37.5696639",
+        "distance": 0.037,
+        "categoryName": "베트남음식",
+        "categoryPath": [
+          [
+            "220036",
+            "220041",
+            "220103"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "베트남음식"
+        ],
+        "reviewCount": 11,
+        "averagePrice": 10000,
+        "address": "서울특별시 종로구 관철동 6-4 3층",
+        "roadAddress": "서울특별시 종로구 삼일대로19길 6",
+        "abbrAddress": "관철동 6-4 3층",
+        "shortAddress": [
+          "서울 종로구",
+          "삼일대로19길 6"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "성수동에서 맛집으로 인정 받아 2호점으로 을지로 젊음의 거리에도 오픈하게 되었습니다. 베트남 현지의 맛을 추구하고 12시간 사골을 우려 만든 진한 사골 베이스로 건강과 맛을 동시에 챙기 ",
+        "description": "성수동에서 맛집으로 인정 받아 2호점으로 을지로 젊음의 거리에도 오픈하게 되었습니다. 베트남 현지의 맛을 추구하고 12시간 사골을 우려 만든 진한 사골 베이스로 건강과 맛을 동시에 챙기 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDZfMjA1/MDAxNzU3MTU3NDE2MTc1.Tpd8rTsYt6u9PFh9usju6fYb3QjGC61xFSR-nabaXsQg.-JwKtSKN-8b0-SYHWq-DRDRNfISHfBehdpyqG64Axw0g.JPEG/20250906_193053.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTBfMjE0/MDAxNzU3NDg3OTY5ODY1.GtZu0vseY7Yp_n7nopt0YqKlTNG4AA43i4m-rJfHOV8g.F2jtZWib466Gm9tVhpziTsDqFd4IR0_sm92AjbNkC7kg.JPEG/947AA79B-C151-4DD7-A35D-EC486485C6BB.jpeg",
+          "https://ldb-phinf.pstatic.net/20250727_83/1753590406101odiG8_JPEG/KakaoTalk_20250727_131929367_02.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTRfOTgg/MDAxNzYwMzcxMjc4MzU4.MM4d_3CF2HpdxN1p1DHTCzzRDsOy2_62ugb4BBpnrOYg.KQ-Cwgqhhn_-qrq3MkkE9wwAUMMvHkXEdP7LXs4o-BYg.JPEG/IMG_1311.jpeg",
+          "https://ldb-phinf.pstatic.net/20250727_109/1753590406097k23qH_JPEG/KakaoTalk_20250727_131929367.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTlfMjU0/MDAxNzYwODczNzUzMDcz.WhjaJPAxnnS_21tuTbyDEMp8FG8Sc8mrBFP5u1OtmTsg.T9rabDh_YB8fpZpK3egs75YRWzQzDEwpqjx3yuwgi4Qg.JPEG/E65CFF1B-E002-44F8-B82D-C930A7612429.jpeg",
+          "https://ldb-phinf.pstatic.net/20250727_231/175359040608682yhv_JPEG/KakaoTalk_20250727_131929367_01.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjBfMjEz/MDAxNzYwOTMxNjgxNjIw.-t2i_1Hlix6M67dXm5aTdqs6jyZDM5PEd96ehL00VEMg.gSmPL73QHkk8T1r8OCUByFanH6cpf79KUA_OCjDL1R0g.JPEG/20251020_124107.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjhfMTUy/MDAxNzU2MzY3NzE5NzY0.TX1uak_NR8vfNIghuHToQVcK2DdHVmOAx-QQDdG51Dog.yPD6tBu1bercYcTrGbg7f4OhicrBTEpXofWwC2QlgAkg.JPEG/AFDD76CA-72A0-4F80-BD15-C941E4D0EC7A.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220103",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 9,
+        "id": "1715224780",
+        "name": "장수촌풍천장어직판장",
+        "x": "126.9871697",
+        "y": "37.5692797",
+        "distance": 0.06,
+        "categoryName": "장어,먹장어요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220076",
+            "220799",
+            "1006317"
+          ]
+        ],
+        "category": [
+          "한식",
+          "장어,먹장어요리"
+        ],
+        "reviewCount": 690,
+        "averagePrice": 40000,
+        "address": "서울특별시 종로구 관철동 7-5 종각역12번출구",
+        "roadAddress": "서울특별시 종로구 삼일대로17길 8",
+        "abbrAddress": "관철동 7-5 종각역12번출구",
+        "shortAddress": [
+          "서울 종로구",
+          "삼일대로17길 8"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [
+          "생일 축하 자리에 어울리는 최고의 맛"
+        ],
+        "cardDescription": "생일 축하 자리에 어울리는 최고의 맛",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTZfMTA4/MDAxNzUwMDUyMTYwMTE4.joORA_Acvy-n12Mo-rrmafJAHTF91yoDVJacYxEVOagg.xUSCrrMZGi22QHwz_y9o2L4v_7Iqi73MdRohMxHggH8g.JPEG/IMG_9351.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTFfMTAg/MDAxNzUyMjE5ODYxOTA4.r-_ExV0rIHzZ6b48LfBmafnn_EuFLYRlZ2GIhGcavGcg.RI_OIE0YpWdMBLEA2ss3aGaK8LGHP1vJ_CO4qP8BPesg.JPEG/1000057201.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20190409_182/1554774581780MC8aD_PNG/kNRlCx4WkTZHF46M_ePdctu-.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjNfMjEy/MDAxNzU4NjAwMDQ5NDY5.1HweNXPLTsvEUHTtuio8ooIsn6G0eSQUntHcT4z1Zoog.9BNycc_hc3He8rm0xw8FuKMaP6EP3g9KHw0aedZPOiQg.JPEG/output%C3%83%C2%AF%C3%82%C2%BC%C3%82%C2%BF775674522.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20190810_130/1565432277465zeRSb_JPEG/APi-ar_btNhDOVzpHM-szvQB.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDlfMTQw/MDAxNzUxOTg4MzMzMzEz.rfxYihGWvuxEzGgqf4TuIcKmrSdmnUuThJHhD7OAagAg.1ZKPiTpWUaqb-LjWeC2dGIwHgS-a28sDI1xjIER-hlUg.JPEG/20250708_195650.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDVfMTYz/MDAxNzQ5MTE3NTUyODE3.HAWd_RCwDCZDx6mEiydkQ5Fr__3-iajHOia5aUijqCAg.We4IGhYS2wYLjIVctJFzfHp1tMYFErOS1rI3O3P6CnEg.JPEG/20250601_171937.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjlfMTIz/MDAxNzU2NDQ3ODA0MTI1.uRge03xPOFYjepokL3lcnv5KF-CeV10Gy8tTbeVgmukg.xdRnbgRA4EydUlwkOLkFcE0-0ZxkU7Oz4t2r6erP1ksg.JPEG/20250822_190934.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDJfMTQ1/MDAxNzU5Mzc1Mjk3Mjgw.toLgma86mh135uCVHueI0uiG8O1wTWd_7ECEJwULzQgg._twZGzXuSVWZpbhZ7y28BwrscLQbcApFnpLkdh1aOuwg.JPEG/20250925_152815.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTBfMjQy/MDAxNzUyMTUxMjg0NDIy.9FSjnN5lFZGzbh7cJF8yKE9yUPe3qR-ZrzBXTmPYq-og.K1XvNdRd7zyIHS4Irns6pF4VuadrmNRCk9CfNnmTk1sg.JPEG/9FB30E46-B63F-49E5-A03E-AE9E8C273E3B.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1006317",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1715224780",
+            "bodySummary": "장어가 왔어요~! 둥뿌니의 몸보신을 시켜줄 맛있는 장어집! 바로 종로장어구이 장수촌 풍천장어직판장 방문할때마다 느끼는데 여긴 늘 사람이 많아서 매장사진을 찍어본적이 없숩니다 ㅠㅠ ",
+            "url": "https://m.blog.naver.com/goodkho2727/223260245649",
+            "nick": "둥뿌니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMTZfMjIx/MDAxNzAyNzA3NzIwMjgy.At8iHA2KuouBnZ1KUDwI29hmjY88lAg2XPQ0kPlMuGkg.5esWUQQbpblzFhtlgrR1VHOjQBP__OFwfwWnhzAdvF8g.JPEG.goodkho27/profileImage.jpg"
+          },
+          {
+            "sid": "1715224780",
+            "bodySummary": "방문일시 : (금) 11:20 영업시간 : 매일 10:00~22:00 을지로/종로 근처에서 점심에 먹을 장어덮밥집을 찾다가 알게 된 곳이다. 요즘 장어덮밥 먹으려면 보통 2만 원 ",
+            "url": "https://m.blog.naver.com/wldms157/223254693815",
+            "nick": "러블리연",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA5MTRfMjMw/MDAxNjk0NjgxNTc2MjIy.imi2dheUY9MURqIRbQyuN1zW3uSUV1MEk4V03DPEhVog.mw5FdLw47h030F2dLbHXxu1m9b-zTK8dOSh1ZwlY1sgg.PNG.wldms157/profileImage.png"
+          },
+          {
+            "sid": "1715224780",
+            "bodySummary": "느끼함을 싹!~ 잡아주는 기본 반찬 정렬 보소 히히 특히 저 대파김치는 집에 싸가고 싶더라.... 화장실은 건물 내부에 있었고 남녀 구분이 되어있어서 갈만했음 종각, 종로, 광화문",
+            "url": "https://m.blog.naver.com/dailylife-06/223222301537",
+            "nick": "romii",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDExMjNfMjQx/MDAxNjA2MDk5NTU1OTg2.-bZJCZsBuQCg5_dz3jXvQp4834YIL44vA0AjnkmaYEcg.DcFUC8q55d7vmVJplKYrStGHj4pPUX-LZ1l62Z5VHTkg.PNG.guswldia/profileImage.png"
+          },
+          {
+            "sid": "1715224780",
+            "bodySummary": "특이하게 장어는 소금구이만을 판매하구요. 장어 외에도 소갈비살을 판매하는데, 이게 맛이 상당합니다. 테이블은 꽤나 많은 편입니다. 다만 저녁에는 대부분 예약이 차있어서 꼭 방문하시",
+            "url": "https://m.blog.naver.com/sinwoa1/223201373081",
+            "nick": "킁캉킁캉",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTAyMDZfNTkg/MDAxNjEyNTk1Mjg2NTAw.DUB91CNDz5YlX3q4HE7PE2WjRJyL-eUubwcjuyOoUhsg.gqUJITJGdmISU8RVM4K3-3B1Ew7Gsc3w_9e50dOTpIYg.JPEG.sinwoa1/%25EB%258B%25A4%25EC%259A%25B4%25EB%25A1%259C%25EB%2593%259C%2B%25281%2529.jpg"
+          },
+          {
+            "sid": "1715224780",
+            "bodySummary": "장수촌 풍천장어 가격은? 1KG에 59,000원이었습니다! 2명이서 키로쯤 먹는 것 같아요~ 별도로 상차림비가 있다는 점 참고하세요! (1인당, 3천원) 8명 회식비용은 이만큼 나",
+            "url": "https://m.blog.naver.com/hainiworld/223197040976",
+            "nick": "왕행님",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA5MDlfOCAg/MDAxNjYyNjc0NTY3OTk3.DBXCmRZwXzh--PAlilOzF2odHENb0qJluHlw8i4iR3cg.UXTMJTXn6OmhrIzlsbR6kwO28od6SaCR4zIgaKnjJdQg.PNG.hainiworld/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "id": "13334910",
+        "name": "대박식당",
+        "x": "126.9882227",
+        "y": "37.5692633",
+        "distance": 0.066,
+        "categoryName": "야식",
+        "categoryPath": [
+          [
+            "220036",
+            "220050"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "야식"
+        ],
+        "reviewCount": 32,
+        "averagePrice": 21000,
+        "address": "서울특별시 종로구 관철동 21 큐브호텔",
+        "roadAddress": "서울특별시 종로구 삼일대로 388-7",
+        "abbrAddress": "관철동 21 큐브호텔",
+        "shortAddress": [
+          "서울 종로구",
+          "삼일대로 388-7"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "손님 여러분 안녕하세요. 저희 대박식당은 항상 변함없는 맛과 서비스로 여러분께 찾아가겠습니다. 아무쪼록 많은 애용과 사랑 부탁드리며 추천메뉴 몇가지 소개해 드리겠습니다.  1.고구마찜 ",
+        "description": "손님 여러분 안녕하세요. 저희 대박식당은 항상 변함없는 맛과 서비스로 여러분께 찾아가겠습니다. 아무쪼록 많은 애용과 사랑 부탁드리며 추천메뉴 몇가지 소개해 드리겠습니다.  1.고구마찜 ",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20150831_184/14410223825374mLSe_JPEG/116262404158727_1.jpg",
+          "https://ldb-phinf.pstatic.net/20150831_93/1441022382709IiRbU_JPEG/116262404158727_2.jpg",
+          "https://ldb-phinf.pstatic.net/20150831_177/1441022382904hpwpQ_JPEG/116262404158727_3.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220050",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 11,
+        "id": "1051208876",
+        "name": "고망고 종로2가점",
+        "x": "126.9879537",
+        "y": "37.5694235",
+        "distance": 0.036,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220584",
+            "1005257"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "과일,주스전문점"
+        ],
+        "reviewCount": 238,
+        "averagePrice": 5000,
+        "address": "서울특별시 종로구 관철동 5-14 1층 고망고",
+        "roadAddress": "서울특별시 종로구 삼일대로 390-1",
+        "abbrAddress": "관철동 5-14 1층 고망고",
+        "shortAddress": [
+          "서울 종로구",
+          "삼일대로 390-1"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "대한민국의 망고 전문 음료 브랜드.",
+        "description": "대한민국의 망고 전문 음료 브랜드.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDZfODcg/MDAxNzUxODExNjgzMzky.1gj5szlcLjvPL2O5OIsrH_rxHCpAPoVvf1-DCbGlXL4g.qURyoyWAvrdqa0rBsP7xXrMLyQ33UbAI3j7VKDaqaDgg.JPEG/1000049692.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTVfMjI3/MDAxNzUyNTU5ODc2MTQ0.Y8JC7Ty37SFQZajg2WCzmyaoRXFpOEkOCzpOw6kvsGsg.cpsRVnnhdeLL6M2pPIBefSgf84lcYycnCLt3Bn5OshYg.JPEG/5559D959-12C9-4077-AFAA-B031C0018D43.jpeg",
+          "https://ldb-phinf.pstatic.net/20240509_33/1715263089992nlzMj_JPEG/%B4%D9%BF%EE%B7%CE%B5%E5.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MThfMTgx/MDAxNzU4MTY4MTA1MTk0.q9tYcgslJfzv_VPWRCZYpbk9KQYIbb1f7kFe3TDt8_8g.D2fgKKiNatI9LqEMEMFNI1Hi5Po1G8AyBXjKRM8hMFMg.JPEG/20250918_125948.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjVfMTE1/MDAxNzUwODM2MzIwMTkx.nSyYOyK2ywhhy2mSdNlBiuc85KFCg96SnS4-jqkX_5Ag.TlO5wG0mt4C7h70uXnTQWitZ7rq8gtkDOx-gi5sv8Jsg.JPEG/20250625_155518.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjNfOTEg/MDAxNzUzMjY1NjYyMDkz.i1ZgHVlDf5LzZprh51gSKh4qp25CdaysDSxmE1wHWP4g.C5168P79hDtv1GWfqxCZreryqIZy9VptGj-TuRUf4BYg.JPEG/1753265606416.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MThfMjY1/MDAxNzUwMjA4OTMwMDk4.0iHDzN2aayRinOVfXjmJfpWTRoz7L0Xi_UOT5MmMD2Mg.N66D2ujFS2nTQtFyX9V-ffEIzNaA1y-hIwZTAy2KfHAg.JPEG/69EDE96D-0228-444A-B103-F5390AB2FCAF.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjdfNzIg/MDAxNzQ1NzM0MDgxODI2.hWJXWVnHPqbWI8p2SFcnjSjyEv1_Y2zSWuF5JTlyZIIg.3ExnGfJckynUBGQAe_pIAV-zF4I-ESHijIopGDOFF5kg.JPEG/20250426_155030.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDZfMjQg/MDAxNzQ5MjA3OTQ5MTcz.pnIr_8cZ7Mu00YRncGIOPR6VrjtokGzHdpFJ8RmAU_cg.4rck1LEWYtIIARMjEpEOhKAa6JnvSYcxhrHbedQiP68g.JPEG/62AE4B22-30E0-4E2A-85B2-32B9B56D59BB.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTdfMjM4/MDAxNzYwNjgwMzYyMTI3.sbOU8MRbFi9WnviygfS283_iKVjauN4kM-wzTN7O7Fsg.VkfJwFIR65W8OPI1nonFIpTi5EeEjqjb2C4xDzfqZzMg.JPEG/1000034417.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1005257",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 12,
+        "id": "2040129330",
+        "name": "더리터 직영종로점",
+        "x": "126.987398",
+        "y": "37.5694896",
+        "distance": 0.029,
+        "categoryName": "테이크아웃커피",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220577",
+            "230783"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "테이크아웃커피"
+        ],
+        "reviewCount": 255,
+        "averagePrice": 5000,
+        "address": "서울특별시 종로구 관철동 7-1 1층",
+        "roadAddress": "서울특별시 종로구 삼일대로 391",
+        "abbrAddress": "관철동 7-1 1층",
+        "shortAddress": [
+          "서울 종로구",
+          "삼일대로 391"
+        ],
+        "displayContext": [],
+        "labelTheme": "24시간 영업",
+        "microReviews": [],
+        "cardDescription": "MORE BIGGER, MORE TASTIER 더 크고, 더 맛있는 음료를 더 저렴하게!  남녀노소 모두가 즐길 수 있는 맛있는 음료와 디저트를 제공합니다.  더 좋으니까, 더리터니까!",
+        "description": "MORE BIGGER, MORE TASTIER 더 크고, 더 맛있는 음료를 더 저렴하게!  남녀노소 모두가 즐길 수 있는 맛있는 음료와 디저트를 제공합니다.  더 좋으니까, 더리터니까!",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MzBfMjEx/MDAxNzU5MjMyNjYyMjE2.-J-Uat-eQtU9ijO0Enniyqwd_JZAM7HII8kKIU-cPaMg.PPVjeHz6S9o-L-c7IZN2cwpovR7GDKE074rpt0vvv3cg.JPEG/20250919_133320.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MzBfMjgg/MDAxNzU5MjMyMDUyMzc3.GaVpEklZZSv8qzuba3LjuD_JzzCq42NfBWWk3psVpL8g.CvpVogpR54mjJkld2WKu4DPOkaZdv7Uqv0Xc0oEm1YYg.JPEG/20250925_134643.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250604_80/1749014496865UlBrK_JPEG/KakaoTalk_20250602_171917483_03.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjlfMTcy/MDAxNzU2NDQ1NTg2OTky.QrB_j7J5dmlKJg2Hyjo9fq2lUBkfCpXIM99lds16Lx8g.priyBwuH1eQF35_mhPlGPGdNe7WxnsesuXwTSQFRSrIg.JPEG/3F53D80C-270C-4F7C-9096-031EF229AB5D.jpeg",
+          "https://ldb-phinf.pstatic.net/20250604_215/1749014505548NtxMB_JPEG/KakaoTalk_20250602_171917483_04.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjhfNzIg/MDAxNzU5MDExMzYzNTc4.6dfZZ0oSG2f5j7Lixbt-LHQlCIbXWEOuNn5aQ0p58mUg.FEItAsMCdzxxD5gjuqWi0wdP9qX3UBL_cbcuN5X_9ccg.JPEG/20250927_133425.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250604_204/1749014505401W2FDk_JPEG/KakaoTalk_20250602_171917483_02.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjdfNTQg/MDAxNzU2MjUxOTkxNzA0.WzDYIIzh5Zv0e2oadpUfOa-jSMSyQZBu9b-J0RPibGYg.8CV7MXifVbjmzH0COOK2_ANKHyARQJLx8Ghe_u1AA5Eg.JPEG/20250827_084512.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDZfNzkg/MDAxNzU0NDU0MzAyNjcx.ba_ClAIxxPAhJ3DB3dSA6bvU1BlwMHvovIE7KG4oz94g._usgIi6SaPvv9LdGoJuN4ll85lenGb57QNYmk3QnnTAg.JPEG/20250806_131822.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjJfMjE1/MDAxNzU1ODUyODI4OTYx.sW2K6xLpO8p58UGwUmGJ31o1KLbRR_7mhhAUjVVQaugg.k029SpcSLvjaPL4l32ZCA4ETJ9tcEqd7ChmRNps0ed0g.JPEG/20250822_174744.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "230783",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 13,
+        "id": "1183473423",
+        "name": "탐앤탐스 종로한올타워점",
+        "x": "126.9881901",
+        "y": "37.5699905",
+        "distance": 0.06,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221340"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 1745,
+        "averagePrice": 5000,
+        "address": "서울특별시 종로구 종로2가 56-6 1층, 2층",
+        "roadAddress": "서울특별시 종로구 종로 96",
+        "abbrAddress": "종로2가 56-6 1층, 2층",
+        "shortAddress": [
+          "서울 종로구",
+          "종로 96"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "탐앤탐스 한올타워점 주소 서울시 종로구 종로 96 1,2층",
+        "description": "탐앤탐스 한올타워점 주소 서울시 종로구 종로 96 1,2층",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjRfOTkg/MDAxNzUzMzM5MjE3Nzk1.FOKv_jLHJQ7ThDz2kyxiCudqhRMzGQgW1HdmkkErxoQg.pZBSecLMfIV5vgm1V_VWgagf7oggW_-qCjoaEEQ1wXwg.JPEG/92FEBC3D-47E1-4E1E-996E-F51F1760B589.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjJfMjM4/MDAxNzUwNTk1ODAzMjYx.hP60Y-iTsOy9Cx89SyPiwrTZjOGW0vHLCisHge5SuVcg.tgST1WWBwaxtvSwPetXnLAfVBO59QARKlwJx4iDLNCgg.JPEG/273FCC55-7398-40F9-BBF9-A7F49789AB8C.jpeg",
+          "https://ldb-phinf.pstatic.net/20220614_13/1655186613433WClJE_JPEG/KakaoTalk_20220614_150252822_01.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjhfMTcg/MDAxNzU2Mzc1ODI0NTc4.5SEdA2lHf31zkEI9Kdy6-fncrZJppMu_gh6iGmPVyigg.XGEzmvaQAsw7Uy66q05L8Mb_J_wAqyahvpFnNfc2rMog.JPEG/20250828_143009.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20220620_75/1655713825217YoOsy_JPEG/KakaoTalk_20220620_160722504_03.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjJfNTYg/MDAxNzUwNTk2MjA4NjEz.Vk-TBegRJylgZRz1Eo21SYU0IBnNWZrPdJfVRMCaSJwg.vlSY5MR52QqjNjbm35-G3gFZbfO_77nj7Y1vGAosfaQg.JPEG/5032887D-5F13-4C13-98D4-0EC1C6E4FD6B.jpeg",
+          "https://ldb-phinf.pstatic.net/20220620_161/1655713825165ySVOD_JPEG/KakaoTalk_20220620_160722504_05.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTZfNTIg/MDAxNzU1MzE3NjAyMDk2.LT08GX3Su3b_uANqROyPUT4JGMROSwcUbOhq0FzksRog.9_jRBtfgvDgCyWJ5xhJKeXMvniNbYDdwnpco1wjkAI4g.JPEG/E20A3FAD-C865-4E62-A743-898F5FB45ABE.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDdfMTg3/MDAxNzU3MjMxMDk5NTEw.HcQgqJuuxr2Ca0F-RJqc_E38xB2nVzYthBS3U_VkW1Mg.B9RC-Y15VnVS03XxXdtdthu2UXWRb4LfUwlhqUvxNJcg.JPEG/780080DD-BB86-4C24-B777-CEC55A916E92.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjBfNjcg/MDAxNzYwOTQ2ODI4ODU3.9IX_DevHTbLwDEOCIuGMSyOmgJUmWhxRzl23jq-X2Tog.Rs7n8tP6IGsMb6p1OwdTO5Y2ZbELxcMpipOlAfg9v2Ug.JPEG/5ECC83E7-5C35-4A88-BAA0-89D78F3678FC.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221340",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1183473423",
+            "bodySummary": "아침 일찍 여는 종로 카페 늦게까지지 하는 종로 카페 24시간 카페 같은 종로 카페 탐앤탐스 종로 한올타워점 2024/01/20 아침 일찍 오픈하는 카페 탐앤탐스 종로 한올타워점 ",
+            "url": "https://m.blog.naver.com/sonovi2010/223328183471",
+            "nick": "snow white",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20141219_106/sonovi2010_1418972216757cW28d_JPEG/%BB%E7%C1%F8.JPG"
+          },
+          {
+            "sid": "1183473423",
+            "bodySummary": "저 날 너무 배고파서 어찌어찌 먹긴 했는데 사진 다시 보니까 신선한 충격이다ᄏᄏ 빵이 하나도 안 구워졌잖아요 anyway… 요즘같이 쌀쌀한 겨울바람 부는 날, 아메리카노와 어니언베",
+            "url": "https://m.blog.naver.com/iksun_choi/223257627250",
+            "nick": "be happy",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA4MDFfMzMg/MDAxNjkwODI4MDIzNTU3.xuISJ0R9dMxacebBSxKXu7JWRusNDBF6hxU_I-yBTKEg.wmFkpJJB4rEdQFsCl6-w6PUmi5QhUSESYG93GivHLjUg.PNG.ikseonspace/profileImage.png"
+          },
+          {
+            "sid": "1183473423",
+            "bodySummary": "하지만 dip으로 치즈를 고른 건 실수.. ㅠ너무 짰다 ㅋㅋㅋ 카페 내부 카페 내부는 넓고 쾌적하며 좌석도 많다 카페 내부 심지어 거의 모든 좌석에 콘센트가 있어 노트북이나 아이패",
+            "url": "https://m.blog.naver.com/flavour_of_life/223178387710",
+            "nick": "vida",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA2MTNfMjM0/MDAxNjg2NjM1MDUzMjc1.xS6FlYvxo7KHwNHba8iJ66dV2ep_87GkBswgDEnMe1Yg.b60O4pXN-RJ6bYD8mEvNWgBhrVAee_7IdEDQYCsPNOog.PNG.ccsk09/Wkdrn.png/Wkdrn.png"
+          },
+          {
+            "sid": "1183473423",
+            "bodySummary": "종로3가역 15번출구에서 가까운 탐앤탐스 종로한올타워점이에요 딱 보면 매장이 커보이지 않는데 2층까지 운영이 되기 때문에 규모가 어느정도 있는 곳 입니당 2층으로 올라왔더니 매장이",
+            "url": "https://m.blog.naver.com/kangsy0203/223122332793",
+            "nick": "떵이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA5MjZfMTkw/MDAxNjMyNTkzMTAzMjg0.Y4Xc7Q92zMaEBgTKCk2gznWA6ZTBr-wUbyiYXNghfMcg.PBUcnqdO05SYpBBnmya6TclG7yur4DwqYXOGiN9sppAg.JPEG.kangsy0203/profileImage.jpg"
+          },
+          {
+            "sid": "1183473423",
+            "bodySummary": "주소: 서울 종로구 종로 96 1층, 2층 연락처: 02-2279-8836 영업시간 : 화-토 <07:00~05:00> 일-월 <07:00~24:00> 편의시설 : 남/여 화장실 ",
+            "url": "https://m.blog.naver.com/ehappymoney/222987925148",
+            "nick": "해피머니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMDhfMjY0/MDAxNzA0Njk0MzMxODUw.KK6H01Wzr-OEIM4F0foplyNKTCQvgLEg7Difa4gzX0Yg.DBX19Zpa_wv9CDZD4af5iHA9_FwDEf1tJWL2W2Yd_Yog.JPEG.ehappymoney/22-100.jpg/22-100.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 14,
+        "id": "1058057961",
+        "name": "이디야커피 종로삼일대로점",
+        "x": "126.987955",
+        "y": "37.5694415",
+        "distance": 0.035,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221288"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 438,
+        "averagePrice": 5000,
+        "address": "서울특별시 종로구 관철동 5-14",
+        "roadAddress": "서울특별시 종로구 삼일대로 390-1",
+        "abbrAddress": "관철동 5-14",
+        "shortAddress": [
+          "서울 종로구",
+          "삼일대로 390-1"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "Always beside you, EDIYA COFFEE 일상 속 모두에게 커피를 통한 휴식과 영감을 제공하는 이디야커피는, 대한민국의 커피 문화를 만들어가는 가장 가까운 안식처입니다.",
+        "description": "Always beside you, EDIYA COFFEE 일상 속 모두에게 커피를 통한 휴식과 영감을 제공하는 이디야커피는, 대한민국의 커피 문화를 만들어가는 가장 가까운 안식처입니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDRfMjk1/MDAxNzU5NTYyMzU0MzY2.c7MRw47opHsztS9sNfy-gDfsixjTN_pxOEJ3h9rSsyog.2Hhu5RwGkEjaYuPbGyn6Rj9aWk8WdC85hG9F5ddRTIEg.JPEG/IMG_5560.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDRfMTMg/MDAxNzU5NTYwNjI4OTUx.yWlS6TKK2GdsU28QmZBuIfBtM-IcpU_0cCO7Mtnzp70g.H3_eLftG5q9X4wWKpa1z4f9RWDeE6tAsBxHYVplR0fYg.JPEG/20251004_154513.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250902_162/17567710812518xnfP_JPEG/%C0%CC%B5%F0%BE%DF%C4%BF%C7%C7_%BF%C2%B6%F3%C0%CE_SNS%2C-%B1%E2%C5%B8_9%BF%F9%C4%DD%B6%F3%BA%B8_%B3%D7%C0%CC%B9%F6%C3%A4%B3%CE.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MThfMjg4/MDAxNzU4MTg5NjQ5NjY0.H0uU3IDr1lBhRDtLLPrhtxld7GUPzXNVssJfIfwYQyEg.nWLpkvNSIoa0RoYPka8HXZb0FFPyffho_Gmxha3iQo0g.JPEG/20250908_164502.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250731_225/1753952280077H9bMh_PNG/%BC%D2%BA%F1%C4%ED%C6%F9.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDlfMjI4/MDAxNzU3NDA5MDgyMDM2.XFy9-_REQRro_S7l9dban9hjRBRtAmK3CPdhEgiByGMg.bsZCzOFqFKdiiwg7qDKALMkvKiPd69nmqRvkrAv7cUcg.JPEG/1757409057130.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250812_295/17549579839236eI6f_JPEG/SNS%B1%E2%C5%B8_%B3%D7%C0%CC%B9%F6%C3%A4%B3%CE_%B0%FA%C0%CF%C1%D6%BD%BA.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDNfMTAy/MDAxNzUxNTQwOTE5MTA2.RjGY2D2DaB0hBINQrLtPLmwjjXuL18R2CugRIvvmLMQg.eXvWrG64ZitNfzwy2Di9Z2_44mDVpv_snmVwQGyA9ccg.JPEG/20250703_194040.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDRfODIg/MDAxNzU5NTY4NjAwMTU5.NmZIMAtspAA8aJvYqLslDd_fJ8S5Et2_3ZhUalytCfEg.vL1CHNSPqIwwLIKRitQqdHqkCFk8Yqa9WsHvh-oYCWcg.JPEG/20251004_175858.heic.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MDJfODMg/MDAxNzQzNTg0MTYwOTYx.IhJmA32fqGvrxbPfpfCE7dRy6mzDs2tWi8s5c-OyNrkg.fOSW5Z_RDUXu7v1ZONy6X3z1NxpItch_pOnzqkg6ag0g.JPEG/20250402_123946.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221288",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "1058057961",
+            "bodySummary": "빙수랑 허니브레드 등 디저트도 있답니당 전에 이디야에서 주먹밥도 팔던데 지금도 있던가 확인은 못해봤네용ㅋㅋ 요즘 주문은 뭐 다 키오스크라서 키오스크로 주문하고 음료를 기다려서 가져",
+            "url": "https://m.blog.naver.com/amorjh125/223189345889",
+            "nick": "젤리",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTEyMTZfNzkg/MDAxNTc2NDk2NTg3MDYw.x_vNj67zHYgNFJ2HYwVNzLFF6SRV8VM9EIXRbYgMf5gg.4xR4lt_BPvVoyXp-1Vp6npOGgnLJmXiOwKPUU08uMNog.PNG.amorjh125/profileImage.png"
+          },
+          {
+            "sid": "1058057961",
+            "bodySummary": "나온지 얼마 안 된 따끈한 신상! 이디야 커피에서 나온 블루문 에이드를 먹으러 종각역 근처에 있는 지점을 방문했어요. 워낙에 지점들이 많아서 제일 가까이 보이는 곳으로 찾아갔는데 ",
+            "url": "https://m.blog.naver.com/hearts1012/223128148193",
+            "nick": "육하망칙",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxNzA2MjhfMTA4/MDAxNDk4NjYxOTI3NTQw.jDq48tJj9Dr-lrU051mrplokMxiJqIlVhAFmoHIe3Agg.p19E3OuxIchjC4WVdlA_KdsxuU70CrI3lbZ9pd9nwIIg.JPEG.hearts1012/%25C0%25B0%25C7%25CF%25B8%25C1%25C4%25A2.jpg"
+          },
+          {
+            "sid": "1058057961",
+            "bodySummary": "이디야커피 종로삼일대로점 #다양한 가성비 메뉴 #공부하기 좋은 카페 카페 정보 주소: 서울 종로구 삼일대로 390-1 영업시간: 월~금 10:00~22:00, 토 10:30~22:",
+            "url": "https://m.blog.naver.com/lo_e2/223030481653",
+            "nick": "Chloe2",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA2MDFfMTU3/MDAxNjU0MDYxMjk0MTY5.nL7jNJ76X2sIIHcduJ82YpX-xpNjU04Z5ibyuizdIyIg.nco29Twg9LZ_OSAGxjeKDXEq3elunMEL1LWyWSaDRuog.JPEG.chlo_e16/KakaoTalk_20220601_141054638.jpg/KakaoTalk_20220601_141054638.jpg"
+          },
+          {
+            "sid": "1058057961",
+            "bodySummary": "얼마전에 친구가 기프티콘을 보내줘서 오늘 점심은 이디야로 궈궈!! 친구야 고맙당 ㅎㅎ 종각역과 종로3가역 사이에 있는 이디야 종로삼일대로점으로 방문했어요 뭔가 주위 매장중에서 깔끔",
+            "url": "https://m.blog.naver.com/sosopics_/223005843698",
+            "nick": "소소픽스",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAyMDFfMTUz/MDAxNjc1MjM5MzM3NDI2.iwZcGXiJqD0zLfG_xCipJDHYwxu4kri2gm-KCINebfYg.EdfuFzCMsEFfZ3m4fXQ5h0vVrSsdgTiFqLv-sPkaThwg.JPEG.vanesa06/P20200419_200452340_.JPG/P20200419_200452340_.JPG"
+          }
+        ]
+      },
+      {
+        "rank": 15,
+        "id": "1531389540",
+        "name": "싸다김밥 종로관철점",
+        "x": "126.9874537",
+        "y": "37.569466",
+        "distance": 0.028,
+        "categoryName": "분식",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "1005234"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "분식"
+        ],
+        "reviewCount": 800,
+        "averagePrice": 5000,
+        "address": "서울특별시 종로구 관철동 7-1 1층",
+        "roadAddress": "서울특별시 종로구 삼일대로 391",
+        "abbrAddress": "관철동 7-1 1층",
+        "shortAddress": [
+          "서울 종로구",
+          "삼일대로 391"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "김밥,돈까스,떡볶이 등 다양한 음식을 한자리에서 맛보실 수 있는 분식전문점입니다",
+        "description": "김밥,돈까스,떡볶이 등 다양한 음식을 한자리에서 맛보실 수 있는 분식전문점입니다",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjNfNzUg/MDAxNzYxMjI2MTAxMzI0.oxirOxaMqBlbfnqptSOiEnIf24X_qoSWWj8qzukCrSYg.oEE-51wxywlzdUaVa0ypVRTRA5gNE9FMbyPhI7m2opYg.JPEG/6601F00B-8C36-452A-B9D2-1F17D7B5226D.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjNfNjQg/MDAxNzYxMTg5Mjg1MTQ0.6kcQ4stWIs4qOS8Wh1FzsYvYJHt90aV2yBnZHmsaHSIg.vzRYbsTIBK1za2netRBi0WmAetxzaN-9OcQ2taw4nBYg.JPEG/1000004013.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250909_116/1757376973054jPs1G_PNG/naverlogo.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDFfMjcz/MDAxNzU5MzEzODc4NTgy.91KjNh2dWEyy2o7vdPMEvy2UYCsYX9Wjt3BWf92nIu4g.Shi1NH4_wGk7otZ6D443jKnnqN6z4BeAaIrPVOXDmxkg.JPEG/20250929_115327.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20230407_245/1680834074710UTsO1_JPEG/1680834030979.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjRfMTcx/MDAxNzU4Njc0NDE3OTc0.2w7RLdeBNephFM4QAn7xKoZheQjVM_YDouW-ef92SR4g.A6ya9MuNH7pG9NlmF8e9Jv-HECb_LeIB0Pg1D4FhIGQg.JPEG/20250924_093657.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20230407_58/168083416770995sua_JPEG/1680834149995.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjZfMTc5/MDAxNzQ1NjY0NDI2MTE4.KgFVyy9BADumjXGW9kL0zPTOwSvNedO5IaHrx5pYowQg.0rcb9gZWBx7myN7WYPXhegdjbR77RlGq5siqxXUxfcsg.JPEG/20250426_193424.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjRfNjUg/MDAxNzQ1NDkyMjU4ODky.pKyHZITz6CayIMLIFl7arCQgNHHa5KTs1m7hNFHH4J8g.3FVDNM1ZrOUBgaEm5sVmfLTPR5KBhN-9jMjXWnH00Dkg.JPEG/20250421_153333.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDVfMTI4/MDAxNzU0Mzk1MzQxMDEz.tmEpd6sraufJfpsHFAcqFBNqDYql2UXMzz17NXlML0kg.c5oItitplF-CMQ9fj89ahp7rrPAFh9k8fWqmNIm2xaAg.JPEG/SE-bfcd1cd6-f7e0-11ef-a970-857892c0c003.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1005234",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "1531389540",
+            "bodySummary": "방문일:230819 토 종각역 4번 출구와 종로 3가 15번 출구의 중간에 위치한 싸다김밥 종로관철점 외부는 민트로 포인트로 준 간판 메뉴는 김천, 김나, 고봉이처럼 분식전문점이라",
+            "url": "https://m.blog.naver.com/ehgml9511/223188455138",
+            "nick": "뚜시",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20220814_151/ehgml9511_1660408034291s6Izi_JPEG/profileImage.jpg"
+          },
+          {
+            "sid": "1531389540",
+            "bodySummary": "종각 관철동에 있는 싸다김밥 납작만두가 먹고싶어서 검색하다가 급히 먹으러 가봄~ 늦은 점심시간이었지만 사람 많음 납작만두와 기본 김밥 콩나물? 땟갈 좋은 김밥 끝~ 탑골공원앞에서 ",
+            "url": "https://m.blog.naver.com/stayu2/223184837680",
+            "nick": "강둥",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxODEyMDZfMiAg/MDAxNTQ0MDcyMTg3MDA2.QD7Qr7vxk14l6X9glaXm6Kg0el2vgkRTl-_ocpVoSO4g.o984OrCuYQhRMVBPQ361kqjBlAc6ZRYoeVKn30BaveYg.JPEG.stayu2/IMG_1532.JPG"
+          },
+          {
+            "sid": "1531389540",
+            "bodySummary": "종로 김밥집 싸다김밥 종로관철점에서 내돈내먹 혼밥하고온 후기입니당 싸다김밥 종로관철점 서울 종로구 삼일대로 391 1층 영업시간 매일 09:00 - 21:00 20:30 라스트오더",
+            "url": "https://m.blog.naver.com/amorjh125/223178837012",
+            "nick": "젤리",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTEyMTZfNzkg/MDAxNTc2NDk2NTg3MDYw.x_vNj67zHYgNFJ2HYwVNzLFF6SRV8VM9EIXRbYgMf5gg.4xR4lt_BPvVoyXp-1Vp6npOGgnLJmXiOwKPUU08uMNog.PNG.amorjh125/profileImage.png"
+          },
+          {
+            "sid": "1531389540",
+            "bodySummary": "잘부탁드려욧 +_+ [충격실화] 7월 1주차 근황 공개함 학원 첫날인디 왤캐 피곤해보이지 학원감. 종로감. 커피삼 라떼가 내꺼임. 첫날 오티 듣고 밥먹음 오므라이스. 굿 2일차 내",
+            "url": "https://m.blog.naver.com/emhsirehc/223172305673",
+            "nick": "맴맴",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA4MDZfMTAx/MDAxNjkxMzEyODk1NjA2.MVfkBiKeRRY43xNp6yUv-6NkHu_Evv4qD5RPeAe-CWwg.fnwKLM20-SQqYriD0n7iE_8gbIIZwpjhcmszF7L1wbEg.PNG.emhsirehc/profileImage.png"
+          },
+          {
+            "sid": "1531389540",
+            "bodySummary": "휴무라 못갔어요ㅜ 어디갈까 찾아보다 분식류 이것저것 다 먹을 수 있는 종로 간단히 먹기 좋은 싸다김밥 방문했어요! 종로 간단히 먹기 좋은 싸다김밥 24시간 운영하는 식당이에요! 종",
+            "url": "https://m.blog.naver.com/jinee_0430/223160911368",
+            "nick": "숑디니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA2MDNfMTA4/MDAxNjg1NzkxODc5Mzc2.H0DH0yu5GT5qIJzlGVGnsG6vn5_sooRxTvgXNX3pTI4g.KIpXfIAmkNA1KJ6L36Jcpdh197X8dv0fXR5PtjZ-0Y0g.PNG.ksunj4155/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 16,
+        "id": "1507497525",
+        "name": "배스킨라빈스 종로점",
+        "x": "126.9880912",
+        "y": "37.5697288",
+        "distance": 0.039,
+        "categoryName": "아이스크림",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220578",
+            "221374"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "아이스크림"
+        ],
+        "reviewCount": 133,
+        "averagePrice": 13000,
+        "address": "서울특별시 종로구 종로2가 56-11 1층",
+        "roadAddress": "서울특별시 종로구 삼일대로 394",
+        "abbrAddress": "종로2가 56-11 1층",
+        "shortAddress": [
+          "서울 종로구",
+          "삼일대로 394"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 종로구 종로2가 56-11 1층",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDdfNzAg/MDAxNzQ5MzAyMzExMjE2.DcEGT5c9_Vs-dCivrpIABydZORLn_rwTvxDUjI1S46Ig.2hSRve5MNBWEdKQT9f9JA4VFDS3Czf9lL_q0UrmRa-sg.JPEG/20250607_122752.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDhfMyAg/MDAxNzU5OTI4ODcwNjYx.y-vKf7z3RMSYEcE_qkwH-0NJpwKc_iNDt17U_6-FB00g.wfmfcPYn5Zh9h--IBFbHWD6U3suIKz0niIv5F8hZQEEg.JPEG/AFA27D3D-4E6B-4C24-B880-4CC62916394E.jpeg",
+          "https://ldb-phinf.pstatic.net/20250724_5/17533180775798X8cB_JPEG/%B3%D7%C0%CC%B9%F6_%B9%E8%BD%BA%C5%B2%B6%F3%BA%F3%BD%BA_%B7%CE%B0%ED.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTdfMTgz/MDAxNzU1NDMwMzQ1MjIx.Bq1flIb9JMwEQ4DtjPzVmrwom6BlwqLkpyMf7lImVhsg.G991wjIXrg20WkgJrDsoZr179Y_UHfqNsh1M4p6W7IYg.JPEG/D646DA57-0E5B-4BBB-92A9-C14C1C6FD5B2.jpeg",
+          "https://ldb-phinf.pstatic.net/20250724_75/1753330377879u4NSk_JPEG/%B9%CE%BB%FD%BC%D2%BA%F1%C4%ED%C6%F9_%BB%E7%BF%EB%C3%B3.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTRfMTIg/MDAxNzU3ODM4NDY1NzIw.qwYrFPRPo9tobOGW3ypiDoN77TQqTYz2_9h4vt7bwQ8g.A8XtfiSMIQLLX1L2oE7wTdvbOVPK6xU1P1-QG7_bAWUg.JPEG/20250907_224035.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250723_142/1753262062697vuWtQ_JPEG/%B7%B9%BD%BD%B8%AE_%B1%B9%C0%FC.JPG",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDJfMjE1/MDAxNzU0MTIyNjA4ODQ4.dKB3sDysf2o3anVxvAAypC4HendBzJVdr-7K5S4h9Z4g.-KXU9x1s9InNto9iVkHujwnG5lT76KamxLGB25yvNVwg.JPEG/B2F1074D-6028-4F21-B2C1-FBF55C51DA11.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTVfMTIy/MDAxNzQ5OTE4MDY0NTc5.wwZl99CCYWVsvY4YFlhFdQ9-gcE1O92s2JaG3HuP8iMg.o20f_5-xWtN6_Ff6gCzZNGk4GtdhXsOJK54OlTCe1-Mg.JPEG/20250607_181609.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDdfNTgg/MDAxNzU3MjU2MTExNjMw.nShNDfMi5uTWoTgbwuvZssJBtUfEXcpDCm1KIfjxEdsg.0uK6LP6zEcbbSPn-VVPrI-FqtwrWDYbsHLAH7RaL1PEg.JPEG/867A5005-1B13-487D-9D02-65E975A7CEFB.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221374",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 17,
+        "id": "11782345",
+        "name": "버거킹 종로점",
+        "x": "126.9881077",
+        "y": "37.5699586",
+        "distance": 0.052,
+        "categoryName": "햄버거",
+        "categoryPath": [
+          [
+            "220036",
+            "220044",
+            "220138",
+            "222363"
+          ]
+        ],
+        "category": [
+          "양식",
+          "햄버거"
+        ],
+        "reviewCount": 10907,
+        "averagePrice": 7000,
+        "address": "서울특별시 종로구 종로2가 56-23",
+        "roadAddress": "서울특별시 종로구 종로 94",
+        "abbrAddress": "종로2가 56-23",
+        "shortAddress": [
+          "서울 종로구",
+          "종로 94"
+        ],
+        "displayContext": [
+          "햄버거",
+          "치킨",
+          "불고기",
+          "젤리",
+          "아이스크림"
+        ],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "서울특별시 종로구 종로2가 56-23",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTdfNTAg/MDAxNzYwNjkwNjAzMDQ1.VSjBd4vWczirdGD6-HLFVXMcPMBkBudmgKJT_npYJ3Mg.lkgvlxaYwO1TywmDej_paLWMlTS-j9kltszF8edrCzAg.JPEG/1000033132.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjZfMjQ1/MDAxNzUzNTA0OTI3NjUz.Hkt50ux_K_PyIncQwMnyWLchn-oFlHOlWSd4Q3g8Cbcg.j6-M5jEtM_cyZ8DidALhZP7ov4pSPnj11nbA8F3PZ8sg.JPEG/A0B582DD-1E72-40D7-B311-974249A49B64.jpeg",
+          "https://ldb-phinf.pstatic.net/20150901_101/14410383204588opxN_JPEG/11782345_0.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjRfMjI3/MDAxNzUwNjk0NzI0NTMz.r0oSGTnn-W70Z3ZKJ-VAl5i3TnzUJYBhnde4QJWY6qUg.lGDW4IujpU2zEcr9EfMje_iw5iqxGaNRm6f7u6GY2-Mg.JPEG/20250623_154838.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20190612_267/15603418804372BXiB_JPEG/S3_U4tli2ch27XIPPqrQAXEv.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjFfMjM0/MDAxNzUzMDU0NDM2MzU1.BTQzMpEaUetBkft-MoO7LTOQ6G173GWRPOGSF8JFSNUg.uBHokEf7c2njdHEKRw2y1C6z8WZ51kp2XmmzqvO0P84g.JPEG/BBABE596-5905-4294-B0F8-8CC082411D5F.jpeg",
+          "https://ldb-phinf.pstatic.net/20200607_47/1591518457857TXxiL_JPEG/WH_fLH5R41kn5v257FOBnp8d.jpeg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDRfMjkx/MDAxNzU0MjQyODYxNDk0.CjKMr1yptQYcpwL-ETDVzQUnNAYUXzULK0lsbNwC-Okg.Q9pYtIIlHivJvvyH7Axn925tsDmiJbaZ1SYjbPBDm0Eg.JPEG/C9871C64-68EC-417D-AAF1-5CFC8BCD6197.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjlfMjgy/MDAxNzUxMjA1Nzg5NzU0.WqgYTVSqQ6jUd50Vy8cyTclbdahtrEAN41IchVVgOeQg.Mwe32_Coq1NB9MOF1tdqpfmpvy8YAgpjf5U6BWlq79Ig.JPEG/20250629_173232.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDlfMTkg/MDAxNzU5OTg0MDI2MDc3.xX1dvBS8NRIsVg1tPdGgAkHeBHoHc2tBKW0rDd1luwQg.0YZv0f5NPxLJO4Fff0R15LDw-avG4XoUU153ztZIR_4g.JPEG/BA21E40B-38BC-4578-B3C4-1CFC7553DD2E.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "222363",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.4",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "11782345",
+            "bodySummary": "요즘에는 버거킹이 하도 비싸니까 쿠폰에 가격으로 안 적고 X 원 할인! 이런 식으로 적더라고요.... 버거 맛집이 아니라 마케팅 맛집이었네요^^ 식당 분위기 (★ ★★☆☆)그래도 ",
+            "url": "https://m.blog.naver.com/jae_cta60/223371902986",
+            "nick": "Jae",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAyMTRfMyAg/MDAxNzA3ODgwMzY3NTg1.kvRkafB7A5srltSlOkR1qEtxxaBNfRHSA4ogOaZqPRUg.5igrhogq2kVKgZSrWkx9zNuuVKJ29cg7DDZFvNUG1C0g.PNG.jaeyoungcta/%25EC%25A0%259C%25EB%25AA%25A9_%25EC%2597%2586%25EC%259D%258C.png/%25EC%25A0%259C%25EB%25AA%25A9%2B%25EC%2597%2586%25EC%259D%258C.png"
+          },
+          {
+            "sid": "11782345",
+            "bodySummary": "오늘은 버거킹 신메뉴가 나왔다고 해서 다녀왔습니다. 버거킹 좋아하는 제가 안갈 수 없었어요! #버거킹종로점 주소 - 서울 종로구 종로 94 영업시간 - 매일 09:00 ~ 24:0",
+            "url": "https://m.blog.naver.com/asdwwee97/223363840731",
+            "nick": "금주",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA1MzFfMjc5/MDAxNjg1NTA1Njk5MTA3.YMXjgx2YajmsFy9DfaZki0LK3Ummeg3imRWRsh21A_Ag.4z_GqswE_UDrKvbr2c4MoEUBW8TMnzEY0uSQxz0szgog.JPEG.asdwwee97/profileImage.jpg"
+          },
+          {
+            "sid": "11782345",
+            "bodySummary": "오랜만에 버거킹 종로점에 방문했습니다. 1층 주방과 키오스크 주문공간 입니다. 저는 ok캐쉬백 할인으로 갈릭불고기와퍼 세트 7,400원 제로콜라 라지 200원 추가 총 7,600원",
+            "url": "https://m.blog.naver.com/dbstprnjsrnt/223346342338",
+            "nick": "Y story",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTA3MzFfMTQ1/MDAxNTY0NTc1OTExOTgy.3eAv7lbW8h7jv_AxNkyI3VI6BZrl5h5x8yYkjT2MCY8g.7g81uug1s27eCxlahry-fU1qqCGPolX7xNcEAg8cqbIg.PNG.dbstprnjsrnt/profileImage.png"
+          },
+          {
+            "sid": "11782345",
+            "bodySummary": "파스타가 먹고 싶었는데 퇴근하고 바로 학원가야 늦지 않아서 오늘도 끝나고 햄버거를 먹어따. 나의 사랑 버거킹 앱 다운 받으면 쿠폰도 많이 줘서 좋네~! 확실히 오년전을 마지막으로 ",
+            "url": "https://m.blog.naver.com/fancy3187/223316432212",
+            "nick": "별이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjEyMjZfMTA3/MDAxNjcyMDU5ODA1NzI5.p3ap2UZgFgxOQvf404k0RJXfy4lmuBKT0N2h3ltJw8Eg.jPnFOIAKuHCtFdn0fZjsqKTclgDI5Xz32uQ1K6KmSS8g.PNG.fancy3187/profileImage.png"
+          },
+          {
+            "sid": "11782345",
+            "bodySummary": "종로 2가 버거킹(Burger King) 여기 앞에 서 있는 나를 발견했다. 그것도 버거킹 쿠폰을 들고 말이다. 자연스럽게 키오스크에 가서 주문을 했다. 무언가에 홀린 사람처럼 그",
+            "url": "https://m.blog.naver.com/xdreamx/223301651297",
+            "nick": "드림엑스",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxODA3MDRfMTk4/MDAxNTMwNjY1MzMyOTU2.0qB_3D7-pxK7rrkNeVxDKDA65EKyrmj-GQWXGUsCAkog.re_cpWtJUDYrkXwggQYaQ6idFVRmBCQfRu4-oJ2exUcg.JPEG.xdreamx/20171002_60.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 18,
+        "id": "1532143210",
+        "name": "하루방뒷고기",
+        "x": "126.9871697",
+        "y": "37.5692797",
+        "distance": 0.06,
+        "categoryName": "돼지고기구이",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220765",
+            "221458"
+          ]
+        ],
+        "category": [
+          "한식",
+          "돼지고기구이"
+        ],
+        "reviewCount": 27,
+        "averagePrice": 0,
+        "address": "서울특별시 종로구 관철동 7-5",
+        "roadAddress": "서울특별시 종로구 삼일대로17길 8",
+        "abbrAddress": "관철동 7-5",
+        "shortAddress": [
+          "서울 종로구",
+          "삼일대로17길 8"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "서울특별시 종로구 관철동 7-5",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221458",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 19,
+        "id": "1740387095",
+        "name": "KUT Seoul",
+        "x": "126.9882058",
+        "y": "37.5698597",
+        "distance": 0.053,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 211,
+        "averagePrice": 50000,
+        "address": "서울특별시 종로구 종로2가 56-6 한올타워 3F KUT",
+        "roadAddress": "서울특별시 종로구 종로 96",
+        "abbrAddress": "종로2가 56-6 한올타워 3F KUT",
+        "shortAddress": [
+          "서울 종로구",
+          "종로 96"
+        ],
+        "displayContext": [],
+        "labelTheme": "전지적참견시점 방영",
+        "microReviews": [
+          "생일 축하에 어울리는 품격 있는 맛"
+        ],
+        "cardDescription": "생일 축하에 어울리는 품격 있는 맛",
+        "description": "안녕하세요. 한우다이닝 KUT 입니다.  KUT은 이중적 의미를 가지고 있습니다. 첫번째, 베다, 자르다, 썰다 라는 의미의 단어 cut을 변형해 만든 저희만의 신조어로 대한민국의 자랑 한우 를 손님께 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MzBfOTcg/MDAxNzU5MTU4NDkyNDM4.OX0Cbr21N61iNXq3pk5avORxMg7e_hLxu9w7ptIfdTwg.T-DVyTn34NdjWl_8NK_Uv8GiaIXCvkKm_3lvV7l6yY0g.JPEG/1F56C9A4-F230-4749-BBC9-FB1A9CCE7E60.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDlfMTAz/MDAxNzU3MzYwNzQwNzY0.hbZ9NUvs3c7rzXudp3BjXxkhDVXLnLzfMUGCCGIt8rcg.D6xcfn3puPIbN702QybA96yw5VFSR4YvI10YP5hfXTcg.JPEG/20250903_190717.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250111_143/1736596725978ikl2W_JPEG/IMG_5710.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjlfMTUy/MDAxNzQ1ODgyMjgyODY3.ivGDMoRiSyWJ15HLxbXzWlLEzGi6xu8mh2qG81PT8Nsg.V2JtLIGdZ3ACG4XPop63O4hkIihUg33WH7QxPZjyhnUg.JPEG/20250428_182839.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250111_6/17365967248601jrSP_JPEG/IMG_5683.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjVfMTgx/MDAxNzQ1NTY0NDQ2Njkw.nsmZY2RiUrNhSQGEoGF0MfgFJopvDsFuHiGIExD1qdgg.6RzJ5U24vCZoP8DAFZE69GqKxwq28B6YQCju7EHaJ3Eg.JPEG/EF99BCF5-0CEA-406D-ACC1-BF568FD888F6.jpeg",
+          "https://ldb-phinf.pstatic.net/20231123_135/170070183330783QqJ_JPEG/IMG_5319.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjRfMjA4/MDAxNzQ1NTAzNzc0Mzc4.PqGcYcATJ4v8j1c5f33amYXDA1NkpDMDKIc4XSLC_60g.jNoKl_42rfPB-rFOTWwLEHw_wPQ3zNcgzT78K773Q0wg.JPEG/20250424_185622.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDFfNzIg/MDAxNzQ4Nzc0NTc2MTQ4.Ql_vXOkELA3YNgFyAMHISsMTTtyTPHjt9V3lmYHRZZUg.xtlNoHyiWGAkWoSLvgyTq14LvPSsSBDWxGzj3td8IXUg.JPEG/73A1E18B-5FFA-409F-B319-FEA59993D22B.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": true,
+        "broadcastInfo": {
+          "name": "전지적참견시점",
+          "menu": "한우오마카세"
+        },
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 20,
+        "id": "2097355253",
+        "name": "북창동순두부 종로관철점",
+        "x": "126.987398",
+        "y": "37.5694896",
+        "distance": 0.029,
+        "categoryName": "두부요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220072",
+            "220706"
+          ]
+        ],
+        "category": [
+          "한식",
+          "두부요리"
+        ],
+        "reviewCount": 16,
+        "averagePrice": 10000,
+        "address": "서울특별시 종로구 관철동 7-1 3층",
+        "roadAddress": "서울특별시 종로구 삼일대로 391",
+        "abbrAddress": "관철동 7-1 3층",
+        "shortAddress": [
+          "서울 종로구",
+          "삼일대로 391"
+        ],
+        "displayContext": [],
+        "labelTheme": "최근 오픈한",
+        "microReviews": [],
+        "cardDescription": "매번 갓 지을 수 밖에 없는 솥 밥 팔팔 끓여 내어 맛있는 순두부 찌개 속까지 편안해지는 누룽지까지 한 번에 즐길 수 있는 No.1 순두부 찌개 전문점 '북창동순두부'입니다.  다양한 사람들과 다 ",
+        "description": "매번 갓 지을 수 밖에 없는 솥 밥 팔팔 끓여 내어 맛있는 순두부 찌개 속까지 편안해지는 누룽지까지 한 번에 즐길 수 있는 No.1 순두부 찌개 전문점 '북창동순두부'입니다.  다양한 사람들과 다 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDdfMjM1/MDAxNzU5NzY1NzQyODg2.85tsT2LGSUIKJAkjTgikjj1nTna3TZ421uhi5bEbRI4g.c4pXMz1_AU8gW3a1FPhsaq0IyZGANvVVPg9-4Ab3deEg.JPEG/3572D5AD-95E8-410E-ADBF-95F3366CA52A.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTNfMjY1/MDAxNzYwMzMwMDA0Mjgz.sjSUK-DGfkVLSLcs5wUhE-gYN_xzFP6ZfWdC_IFPtwYg.Zg_SyYPSBZ62cqzsVGhZxq678qAUJfwR1RdsW3x7bFQg.JPEG/20251013_125421.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250818_210/1755507032483wku8K_JPEG/1.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDNfODUg/MDAxNzU5NDkwMzU3MzE4.mPQjr3N8yX_B6v0XlkCghorAh_fboZOJJf2fVJ6iCgYg.M1dFepUMDUB6vqO_1rqpCupC4zj8Ei5WkMHDE0APlhIg.JPEG/1756628341409.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250818_100/17555070323198sd9y_JPEG/2.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTdfMTIx/MDAxNzU4MDQzMzcxNjAw.5WusP8Ekvet7M76HVPue8eIkN9liN1xFXGxMamGlojMg.EEvHO_csaGHW_hZBba83xnUEno5YDVGAmGmv11geIEog.JPEG/1000002142.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250818_47/1755507032507SV2dJ_JPEG/3.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDRfOTkg/MDAxNzU5NTQ4MDI5MzI2.0hMeaY5v0TyjO025ClabUZg6pOvQT-n2bKO-GG4hSaYg.M3kglSuJad7ZRnb5JCJJAhTdC-U5_2vUJUgMAQG78Q0g.JPEG/81187D74-7F78-45A4-8D1D-45FD39095298.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDRfMTI5/MDAxNzU2OTYzODMzNjkx.egsgmZMIqBv15Shr2up7ZBgQ85DdIqbx5klTv7W7OrMg.Ged8fEtpas5U7xN3rvi1J6LJ5tBfe6dpKIEGTXrudvMg.JPEG/7185C738-6E1E-421B-8787-E8228F51BF76.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjRfNjkg/MDAxNzU4NzA0NzE0MDA5.mhsQ0ALw3oVvbR1Bds7AsjePmPibGog2MQu3IJcvEPMg.xELbVIBGbjKjL36aH37_xZFQmBF3e3myNq7x-1lXxOAg.JPEG/20250923_122131.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220706",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 21,
+        "id": "1145293723",
+        "name": "돈까스잔치 익스프레스 종로본점",
+        "x": "126.9879614",
+        "y": "37.5693177",
+        "distance": 0.046,
+        "categoryName": "일식",
+        "categoryPath": [
+          [
+            "220036",
+            "220038",
+            "220082",
+            "1005585"
+          ]
+        ],
+        "category": [
+          "일식",
+          "돈가스"
+        ],
+        "reviewCount": 340,
+        "averagePrice": 10000,
+        "address": "서울특별시 종로구 관철동 5-7 1층",
+        "roadAddress": "서울특별시 종로구 삼일대로 390",
+        "abbrAddress": "관철동 5-7 1층",
+        "shortAddress": [
+          "서울 종로구",
+          "삼일대로 390"
+        ],
+        "displayContext": [],
+        "labelTheme": "일식",
+        "microReviews": [],
+        "cardDescription": "돈까스잔치 익스프레스는 돈까스잔치 스탠다드 매장의 컨셉과 메뉴를 간소화한 세컨드 브랜드이며 옛날돈까스와 잔치국수가 맛있는 전.참.시 1호 맛집입니다.",
+        "description": "돈까스잔치 익스프레스는 돈까스잔치 스탠다드 매장의 컨셉과 메뉴를 간소화한 세컨드 브랜드이며 옛날돈까스와 잔치국수가 맛있는 전.참.시 1호 맛집입니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDVfMTkg/MDAxNzU5NjcwOTkxNDYy.It9J-MDzNiSzBaKW3w_5xtySk17fM3attTNOI0A-Isgg.i6a2aQnfwSgTauo96B1nZcts15u6RBsZcmgS9DFncykg.JPEG/1000013573.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTVfMTEx/MDAxNzUyNTUxNzQ4NTIy.mBL-kuYKU8vqrUvmypjADXiDmhHI60lfIz_K-hX4aJkg.4XUnr8DiZDGbfFePTlwURuLoYXlJNUfxhEcaLVqYq0gg.JPEG/8AB62017-AE2A-4C05-AD51-09934DA883E5.jpeg",
+          "https://ldb-phinf.pstatic.net/20240530_94/1717031611945TbE5H_JPEG/1.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjRfNDIg/MDAxNzU4NzE5ODEyNzMy.Xj1BvM52dwUCGL6triK54oKCBRo5j9UyXIhX14SZO7Yg.8r_qEqgVHNDf1BCPl-Ffa7GKUDNTo7hPympk7RyMFPgg.JPEG/1000040827.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240715_173/1721006067416PWx6n_JPEG/IMG_8110.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTRfNDkg/MDAxNzQ3MjIzNDEyNTgz.H4hWuObNW8ctwdjxZKdZjCfJeESE-va44bY8ZD1JJn8g.VDoMNYAsguOetmVyy3B-6NgLNwL1Y0zh4V65AZAQQBcg.JPEG/47D0AEC5-EE20-47FF-96BF-0F754233275A.jpeg",
+          "https://ldb-phinf.pstatic.net/20240715_61/1721006070971GDSAM_JPEG/IMG_8134.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MThfMTYw/MDAxNzU4MjAwNzYxOTU2.q8_NRrxgBtRF50sDSIcMhFqaMiC82BBsf3s4VG9xF6Qg.Pc7H5GgGzipoYqaDfXEgeZlGRFRqpCwbBsi07XhIBHEg.JPEG/Screenshot_20250918_215448_Samsung_Internet.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjFfMTYy/MDAxNzUzMDc5ODQ2Njkw.XyAHXhzdMkQV4-6blOUQ53JC9s0kR5eYLzVUJj0-g_gg.3GO-Wcq2C3h_gjph9HKQcZnk0TXrciK1dAMtZd7-J0og.JPEG/2D8B165B-5FEB-4DC5-B60F-D659F3F9A170.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjdfNTAg/MDAxNzQ4MzMzOTk1NDkw.N20rxrvkQdN91xopXBSl75BiwdXwipLDYA0zaPkgkhAg.-mx80R_Iu8XAK4OgdNQNqo52pAKz1SS59SZsj9YPqrIg.JPEG/1000008776.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1005585",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 22,
+        "id": "1252605117",
+        "name": "롤링파스타 종로점",
+        "x": "126.9879734",
+        "y": "37.5695716",
+        "distance": 0.029,
+        "categoryName": "스파게티,파스타전문",
+        "categoryPath": [
+          [
+            "220036",
+            "220044",
+            "220127",
+            "220914",
+            "1004531"
+          ]
+        ],
+        "category": [
+          "이탈리아음식",
+          "스파게티,파스타전문"
+        ],
+        "reviewCount": 3546,
+        "averagePrice": 5000,
+        "address": "서울특별시 종로구 관철동 5-5 1층 효원빌딩",
+        "roadAddress": "서울특별시 종로구 삼일대로 392",
+        "abbrAddress": "관철동 5-5 1층 효원빌딩",
+        "shortAddress": [
+          "서울 종로구",
+          "삼일대로 392"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "이탈리안 파스타의 캐주얼한 해석, 오직 롤링파스타에서만 맛 볼수 있는 다양한 아이디어 메뉴들을 경험하세요~",
+        "description": "이탈리안 파스타의 캐주얼한 해석, 오직 롤링파스타에서만 맛 볼수 있는 다양한 아이디어 메뉴들을 경험하세요~",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDdfMjYg/MDAxNzQ5MjY4NjQ5MTUw.yTySbx4xbfe-0QWmHwQKpWr-4aQsxDnFe59lqx8qdCIg.dGJ_FU_bFP_2ll0J1zIifLaS0GBdTFukv3G7wyjYNjEg.JPEG/1000015265.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDdfMjg4/MDAxNzQ5Mjg4Nzg2NjYz.gX42NKqKTgVEdJaSbvUhKa8T0UQD64c2-3VLGEQmlyMg.qJIOFQHN9hFjI1fnD9kLm1SBYmtaQXYeAlsHMUqo_Wgg.JPEG/20250607_182928.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250730_269/1753835044904B2HGF_PNG/%B7%D1%B8%B5%C6%C4%BD%BA%C5%B8_%C8%AB%BA%B8%B9%B0_%C6%F7%BD%BA%C5%CD_%C6%C4%BA%EA%B8%AE_%C6%C4%BA%EA%B8%AE%C0%C7_%C6%E4%C6%E4%C6%C4%BD%BA%C5%B8.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDVfMjc3/MDAxNzQ2NDM5NDc4Nzc3.8H9a3bd2_sci2b6pecygBeYeEuCpLfg9brPGMZ2kmH8g.KBV-BtGXV5T7_VZFtlxwYQOCMMyBXpZdQTPePiLbdZsg.JPEG/20250430_181701.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250730_95/1753835035465qo4bC_PNG/%B7%D1%B8%B5%C6%C4%BD%BA%C5%B8_%C8%AB%BA%B8%B9%B0_%C6%F7%BD%BA%C5%CD_%B8%DE%B4%BA_%C6%C4%BA%EA%B8%AE%C0%C7_%C6%E4%C6%E4%C6%C4%BD%BA%C5%B8_%C3%D6%C1%BE.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDZfMjE3/MDAxNzQ5MjEyNjMzNDI0.axMnjH-4SOcrbZ2yPRMZJd6fqzrDXVarVVEh5FLVnJwg.eNp6r7-R0n4Hx-q0zoguak-MPOKczq-_tR3EECZOH0Mg.JPEG/C0167E3D-9DA9-4C59-8987-21F75F62965A.jpeg",
+          "https://ldb-phinf.pstatic.net/20241007_123/17282796416291fvBA_PNG/%C4%A1%C1%EE%B5%EB%BB%D2%BF%C0%BA%EC%C6%C4%BD%BA%C5%B8.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDNfMjY4/MDAxNzU2ODg2OTYwNjAz.x3Jf2Wmlx3oJs7RBi2sM0y57Z_zeAHVdEeRYqcddUigg.2l0ALAyZ4WxfRl8z3pnvqEBdOdeviH-a2kZuhit0rJEg.JPEG/3E0C7960-F8FF-46A6-A835-4E3FFF02A31D.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDhfOTEg/MDAxNzU3MzA0MDg5NTQ5.BE1kDO4lwwki_r0OiqgQSQaK9Bh9hsBa43KqsJn46t8g.JQjNSVJPHA5cGueau0lzFh30oQebH0J_c3sUx8ET_TMg.JPEG/0154CF0B-755A-4FB5-B6E6-AAE636937FD8.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDdfNDEg/MDAxNzQ5Mjg5MzMxMjgx.F2nI8pJkcB3fojdOmjEyMaiiNgP49iPpWiqhaxPQH1Qg.vTGOBvE7v6w_YZjuPT89MgdPd71qtsDASK_hQ1h5OrAg.JPEG/20250607_182557.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1004531",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1252605117",
+            "bodySummary": "서울 종로 롤링 파스타 서울 종로구 삼일대로 392 1층 효원빌딩 02-2261-5973 ⏰ 월 - 토 11:00 - 21:00 Last Order 14:30 Break Time ",
+            "url": "https://m.blog.naver.com/jjj9238/223386333235",
+            "nick": "해니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA5MjBfMjUw/MDAxNjYzNjMxOTA5MDY2.pR7g1pKIPggwP1tmxDsDt5LpUjKb6RMM2DTxKn8IHHIg.P8beFmcPO9fixVuXj0BGmpJLTJpW0BRLtAvAmpdqzf4g.PNG.jjj9238/profileImage.png"
+          },
+          {
+            "sid": "1252605117",
+            "bodySummary": "종로가 연령대가 좀 있어서 그런지 어르신들이 모임을 꽤 하고 계셨어요 젊은 이들은 혼밥하고 어르신들은 모임하는..다양한 연령 총 집합소 입니다. 모든 메뉴가 1만원이 안되는 정말 ",
+            "url": "https://m.blog.naver.com/thememolist/223385381897",
+            "nick": "냠냠",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjEwMDFfNjAg/MDAxNjY0NjE5MzUzNzA0.hmK4iBhjrXELYO9faRFs20T99vy4XkvcoFWXr2mRrEEg.hTqZjnX1ox8179VnJ4dC05_Nhl0efjYp_F6v_SF38vkg.JPEG.hwangeungyeong/%25ED%2594%2584%25EB%25A1%259C%25ED%2595%2584.jpg/%25ED%2594%2584%25EB%25A1%259C%25ED%2595%2584.jpg"
+          },
+          {
+            "sid": "1252605117",
+            "bodySummary": "위의 롤링파스타 음식점의 치즈 듬뿍 오븐 파스타입니다. 먼저 파스타를 만들고 오븐에 돌리겠죠? 그래서 치즈와 그릇은 뜨거운데 파스타는 좀 식었다고 할까요! 맛은 괜찮습니다. 저는 ",
+            "url": "https://m.blog.naver.com/bromptonc/223374981837",
+            "nick": "달료달료",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMjJfMjQ4/MDAxNzExMDgwODI1ODk0.f7garuv4mfn5IuDChkKVDHztCt_aQKGJtgqSdeKwZ8Qg.T-fFeoA_AbklLOIw70TGQ8hGLLGX4qSuDqQnRTpOJssg.JPEG/KakaoTalk_20230702_161235733_02.jpg/KakaoTalk_20230702_161235733_02.jpg"
+          },
+          {
+            "sid": "1252605117",
+            "bodySummary": "종로학원가 근처에 있어서 그런지 회사원들이 많아서 그런지 이곳은 1인 전용석도 마련되어 있었다 아주 요즘 시대 트렌드를 잘 반영한 파스타집이다 ㅋㅋ 들어가니 2인석으로 안내해주셨고",
+            "url": "https://m.blog.naver.com/shhfmn7/223365792804",
+            "nick": "Henna 헤나",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMDRfNTUg/MDAxNzA5NDgwNTc0MjIx.NfPTaf7YLJQjkKAAcMu-yKfbj3ipX1JPX1IKMTvU6uEg.AJ4p_-WorTR8Cl2o9hkVjW-oa3OWlRXNkzb2jmIJd1Ag.PNG/profileImage.png"
+          },
+          {
+            "sid": "1252605117",
+            "bodySummary": "들어가서 자리에 앉자마자 대충 줄서기 시작...이럴때 약간 기분 업! #자이언트미트볼파스타 9,900원 #이탈리아정통라구파스타 8,900원 #갈릭스틱 3,500원 나에게 미트볼 반",
+            "url": "https://m.blog.naver.com/yeo3po/223356147507",
+            "nick": "바람포",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20160608_287/yeo3po_1465380067146KEcNF_JPEG/image.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

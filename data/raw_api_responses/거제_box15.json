@@ -1,0 +1,199 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 3,
+      "count": 3,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 128.62659094415164,
+          "minY": 34.88450450450451,
+          "maxX": 128.63208188830328,
+          "maxY": 34.889009009009015
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "128.62933641622746;34.88675675675677",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1242751148",
+        "name": "가득피자 거제점",
+        "x": "128.6267214",
+        "y": "34.8859356",
+        "distance": 0.256,
+        "categoryName": "피자",
+        "categoryPath": [
+          [
+            "220036",
+            "220044",
+            "220136",
+            "220944"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "피자"
+        ],
+        "reviewCount": 9,
+        "averagePrice": 10000,
+        "address": "경상남도 거제시 고현동 84-7",
+        "roadAddress": "경상남도 거제시 고현로12길 21-1",
+        "abbrAddress": "고현동 84-7",
+        "shortAddress": [
+          "경남 거제시",
+          "고현로12길 21-1"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "경상남도 거제시 고현동 84-7",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MzBfNjAg/MDAxNzUxMjM1NDQ4NDUw.t7wq9mSzo0hovVwi0uL9pKY8W5ZOJCec_VYtmFuQRUAg.IR8ngryxmY8OF7x9gLEsDyf9BQuB4SmQM7dz5plLJvgg.JPEG/1000056290.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220944",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "15573173",
+        "name": "전원분식",
+        "x": "128.6266615",
+        "y": "34.8855712",
+        "distance": 0.278,
+        "categoryName": "종합분식",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220185"
+          ]
+        ],
+        "category": [
+          "분식",
+          "종합분식"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 0,
+        "address": "경상남도 거제시 고현동 81-1",
+        "roadAddress": "경상남도 거제시 거제중앙로16길 19",
+        "abbrAddress": "고현동 81-1",
+        "shortAddress": [
+          "경남 거제시",
+          "거제중앙로16길 19"
+        ],
+        "displayContext": [],
+        "labelTheme": "분식",
+        "microReviews": [],
+        "cardDescription": "경상남도 거제시 고현동 81-1",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220185",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 3,
+        "id": "34233129",
+        "name": "소림사",
+        "x": "128.6273715",
+        "y": "34.8846305",
+        "distance": 0.297,
+        "categoryName": "중식당",
+        "categoryPath": [
+          [
+            "220036",
+            "220039",
+            "220091",
+            "220861"
+          ]
+        ],
+        "category": [
+          "중식",
+          "중식당"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 0,
+        "address": "경상남도 거제시 고현동 73-2",
+        "roadAddress": "경상남도 거제시 고현천로 86",
+        "abbrAddress": "고현동 73-2",
+        "shortAddress": [
+          "경남 거제시",
+          "고현천로 86"
+        ],
+        "displayContext": [],
+        "labelTheme": "중식",
+        "microReviews": [],
+        "cardDescription": "경상남도 거제시 고현동 73-2",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220861",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 1,
+      "count": 1,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 128.726,
+          "minY": 36.556590990991,
+          "maxX": 128.73160837030872,
+          "maxY": 36.5610954954955
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "128.72880418515436;36.558843243243246",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "2012063465",
+        "name": "예미정 한식뷔페",
+        "x": "128.7281196",
+        "y": "36.5598062",
+        "distance": 0.123,
+        "categoryName": "한식뷔페",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "229847",
+            "229848"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식뷔페"
+        ],
+        "reviewCount": 7,
+        "averagePrice": 10000,
+        "address": "경상북도 안동시 운흥동 300-1 1층",
+        "roadAddress": "경상북도 안동시 육사로 205",
+        "abbrAddress": "운흥동 300-1 1층",
+        "shortAddress": [
+          "경북 안동시",
+          "육사로 205"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경상북도 안동시 운흥동 300-1 1층",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjZfOCAg/MDAxNzYxNDgxMzQ4NDky.gEfr3TDk0LlcvtIUp2hiktPX7apbXw9fNvhpt6CnHpcg.zFNhqO8NZdkICcYfY4BAzNt7G6pXoio57IOJj1cfWRAg.JPEG/20251014_115847.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjVfMjY5/MDAxNzYxMzk4NDE1MzM1.yydNatD4xWGbL_NDR0fqBbZNRlzohCMY6u6dAhsshXgg.TB1AzTz2AE5Zi4L-RpYvHb-IVDXqu6wKcOQaiVMjV70g.JPEG/20251025_195632.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20251017_72/1760692983993Xjj93_JPEG/IMG_0629.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjZfMjg5/MDAxNzYxNDM2NjkxNTc5.JlgCMOpeKLWn2ULO9qxTTM2484UaRnBeOqy8J9_qmBYg.tMCqfyK8EacRzxUEfWA5lXVLPZPtPK7wLXbX1s9EiAog.JPEG/20251018_173519.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "229848",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

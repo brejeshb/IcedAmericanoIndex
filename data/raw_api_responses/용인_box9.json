@@ -1,0 +1,270 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 4,
+      "count": 4,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 127.17194175725689,
+          "minY": 37.2411,
+          "maxX": 127.1776,
+          "maxY": 37.245604504504506
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "127.17477087862844;37.24335225225225",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1071564020",
+        "name": "도노커피 용인시청점",
+        "x": "127.1774916",
+        "y": "37.2412522",
+        "distance": 0.336,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "1005267"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 293,
+        "averagePrice": 3000,
+        "address": "경기도 용인시 처인구 삼가동 556",
+        "roadAddress": "경기도 용인시 처인구 중부대로 1199",
+        "abbrAddress": "삼가동 556",
+        "shortAddress": [
+          "경기 용인시 처인구",
+          "중부대로 1199"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "경기도 용인시 처인구 삼가동 556",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMTNfMTM2/MDAxNzYzMDI1MDMwMDU2.KSATGi611QuKMfckh7M6QS8qoTb8PEMRF2wU7C_wOt8g.T-WCfGLz5Ny2fPGGN8c9065kfXanJl-GY6YnsUSRRmcg.JPEG/F27AAC1A-5E92-440D-99B5-DF6870DDBC54.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjdfMjI4/MDAxNzQ4MzE4MTM2OTE0.cYcOMcXNBNeOQvUfs1NfZa9K4qDcIVIen7vCqL9XXx0g.OzDusF6cLBevGnkDiGkTJLxMTW_iXxSOCAkTtlHjDTAg.JPEG/ACEE467C-AEA5-40E5-9C46-BFDAF5375072.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MzFfMTM5/MDAxNzUzOTY1MTkyODE0.PP_tlzLJRjcWvzDhdet-skCcfv0BPDHkz5nMAR3xIo8g.MKv7CijN4OjQA18dlx9K1OaMA6dDJM0BkyzG_j2_1Jkg.JPEG/img_20250730_094003.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMDlfMjE4/MDAxNzYyNjU5MjQ1ODEw._xl427e7WqjBn48gdMwboU31Xk6dsAhLEe2bVF0oE-Eg.9hgXSUCLp8osd4nofTkHX5O12MJtPQDdQ9udIcgCGNog.JPEG/3042F7B9-2F6C-4555-91F5-0D04B6AFA7C6.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDFfMTU3/MDAxNzU0MDI0NzE3MDU3.F-Oo6nItBCXr_dmLlzYWGedcP9CWzf7lzvftPJ3w38Ig.Atn0oLPRu056WgQoN5IJBvXYU2hR4-pm2Gkg34YMTCEg.JPEG/1000223704.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjZfMTA2/MDAxNzQ1NjM2MDA4NzEw.FPsvdnQVk_FK9i9v1oNwTZChLO3hw_9_DoxNcazA9rkg.XixYl-Gt2SY_NYW0T8rv0CfGRFpE0XeS1GgvfuXYSBIg.JPEG/9B28EE0D-D9AC-402B-83B7-FFB131520395.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjdfMjg0/MDAxNzUzNTgwMDQ1MjI3.s0YqO-fANUS1vi894ECIdWry-ckNq0UDPxtAc72Jhtwg.JNHVHTYDojYUP9V5yhjry0aUN-VtMrhHOvH9I3QDnw8g.JPEG/20250702_123325.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDJfMTQ1/MDAxNzU2ODEzMzMwNzEx.vfEMky6agGAGvCTydhrtxPfExrFKat-wt6lLjjTzbUQg.GW-PE2f2ykBLDm32X0lzhjJ4nJjCRljvaD_ALaJyOKsg.JPEG/IMG_1468.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTBfMzcg/MDAxNzQ5NTQ3OTQ0MTIz.ylTm6rp9rGKBbpjXPRx73UeB_PAGkDVK3HxZ_jj_mh0g.AWvrKKAuy5uAGtHItMXNBwu0cy5j935gTHV85nZEVHMg.JPEG/20250604_171816.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDhfODUg/MDAxNzU3MzMzMjk4Mzk3.yGbIQOXmy1eq3U6sdhJgkdRvNYpvg_rfKXR1YL-I5s8g.W5Jf7TGHLhSxFN_t8H6fHXOE1FaZvzf1WzTJuJsNwVsg.JPEG/IMG_1494.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1005267",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "1734584842",
+        "name": "아뜰리에",
+        "x": "127.1774916",
+        "y": "37.2412522",
+        "distance": 0.336,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 50,
+        "averagePrice": 5000,
+        "address": "경기도 용인시 처인구 삼가동 556 용인시청소년수련관",
+        "roadAddress": "경기도 용인시 처인구 중부대로 1199",
+        "abbrAddress": "삼가동 556 용인시청소년수련관",
+        "shortAddress": [
+          "경기 용인시 처인구",
+          "중부대로 1199"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "용인시청소년수련관 아뜰리에 입니다. 아메리카노, 라떼, 과일음료 등 다양한 메뉴를 선택해보세요",
+        "description": "용인시청소년수련관 아뜰리에 입니다. 아메리카노, 라떼, 과일음료 등 다양한 메뉴를 선택해보세요",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20211216_84/16396384816065j3JR_JPEG/%C4%B8%C3%B3.JPG",
+          "https://ldb-phinf.pstatic.net/20211222_27/1640134932748hWz4a_JPEG/KakaoTalk_20211222_095907426_02.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 3,
+        "id": "1621528157",
+        "name": "그양반네",
+        "x": "127.1774916",
+        "y": "37.2412522",
+        "distance": 0.336,
+        "categoryName": "푸드트럭",
+        "categoryPath": [
+          [
+            "220036",
+            "230746"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "푸드트럭"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 0,
+        "address": "경기도 용인시 처인구 삼가동 556 용인시청광장",
+        "roadAddress": "경기도 용인시 처인구 중부대로 1199",
+        "abbrAddress": "삼가동 556 용인시청광장",
+        "shortAddress": [
+          "경기 용인시 처인구",
+          "중부대로 1199"
+        ],
+        "displayContext": [],
+        "labelTheme": "24시간 영업",
+        "microReviews": [],
+        "cardDescription": "대표번호 010.9489.9561 입니다. 용인을 기반으로 움직이는 전국구 푸드트럭. 경험과 경력으로 검증되는 푸드트럭. 지자체 / 기업 행사와 축제 및 각종 케이터링과 군부대 관련 행사와 축제들. 푸드",
+        "description": "대표번호 010.9489.9561 입니다. 용인을 기반으로 움직이는 전국구 푸드트럭. 경험과 경력으로 검증되는 푸드트럭. 지자체 / 기업 행사와 축제 및 각종 케이터링과 군부대 관련 행사와 축제들. 푸드",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20240828_6/1724825285363PwCUM_PNG/IMB_ZHMfx1.png",
+          "https://ldb-phinf.pstatic.net/20240828_185/1724825326602DM8GR_PNG/%B5%BF%BE%C6%C0%CF%BA%B8_%C8%C4%BF%F8_KCEB_%C0%CE%C1%F5%BC%AD_%B1%D7%BE%E7%B9%DD%B3%D7.png",
+          "https://ldb-phinf.pstatic.net/20240828_150/1724825326246YcFBw_PNG/IMB_0jW7IW.png"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "230746",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 4,
+        "id": "1887740115",
+        "name": "엘제이키친",
+        "x": "127.1774916",
+        "y": "37.2412522",
+        "distance": 0.336,
+        "categoryName": "푸드트럭",
+        "categoryPath": [
+          [
+            "220036",
+            "230746"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "푸드트럭"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 5000,
+        "address": "경기도 용인시 처인구 삼가동 556",
+        "roadAddress": "경기도 용인시 처인구 중부대로 1199",
+        "abbrAddress": "삼가동 556",
+        "shortAddress": [
+          "경기 용인시 처인구",
+          "중부대로 1199"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "각종행사 푸드트럭 찾으실땐 엘제이 키친를 찾아주세요",
+        "description": "각종행사 푸드트럭 찾으실땐 엘제이 키친를 찾아주세요",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20250408_241/1744098500833t7Jcg_JPEG/1730865214606-0.jpg",
+          "https://ldb-phinf.pstatic.net/20250408_82/174409857445408Fbg_JPEG/20241017_101126.jpg",
+          "https://ldb-phinf.pstatic.net/20250408_166/1744098571573CMIWh_JPEG/1727527147426-0.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "230746",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

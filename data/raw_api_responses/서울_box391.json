@@ -1,0 +1,562 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 7,
+      "count": 7,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.97913657372374,
+          "minY": 37.57460810810811,
+          "maxX": 126.98027314744748,
+          "maxY": 37.57550900900901
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.9797048605856;37.57505855855856",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1903976152",
+        "name": "팀홀튼 광화문K-Twin타워점",
+        "x": "126.9796922",
+        "y": "37.5746955",
+        "distance": 0.04,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "1006368"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 881,
+        "averagePrice": 6000,
+        "address": "서울특별시 종로구 중학동 19 케이트윈타워 B동 1층",
+        "roadAddress": "서울특별시 종로구 종로1길 50",
+        "abbrAddress": "중학동 19 케이트윈타워 B동 1층",
+        "shortAddress": [
+          "서울 종로구",
+          "종로1길 50"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 종로구 중학동 19 케이트윈타워 B동 1층",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTBfNjIg/MDAxNzQ5NTYwMzEyNzk1.DT_oN7fWI8m8A35Y1NoAtGwWkXbVE2bBAvxCrdYcbAAg.MzLSEMQEJuBgaszujZg_Nu3g-wVYVk72LQixvV0J1MAg.JPEG/20250609_133440.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDNfOTkg/MDAxNzU0MjA5MTIzMDA5._hphlnOecJERqJ6eESjpDFAAcdO5aKTzr61xxl7FYsIg.kaTPYuqwjc9vWf0_HY-7gJ6KMreqzeDNca-z9v5Rfe8g.JPEG/E1BE5F91-4739-4A6A-A6F9-7569DC2F66D9.jpeg",
+          "https://ldb-phinf.pstatic.net/20240430_177/1714440697850tuw0a_JPEG/pos%B4%F5%B9%CC.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTBfMjQ0/MDAxNzYwMDU1NDkzNTM0.ez7_N37nEDaBQDC4KMKd6kfunGOOTBVcaSlZ82FhNuQg.zBkx8OExCkSncxU-LBvHR6ncgR15aPnzxsqbDqtBBaIg.JPEG/1B981513-D1ED-4DD0-AF72-97CA0A5E9534.jpeg",
+          "https://ldb-phinf.pstatic.net/20240430_233/17144406838789JsjE_JPEG/231208_TH_Menu_KV-7_ver3_OL-%281%29.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDRfMTA5/MDAxNzU5NTc0MTI3OTg0.BaJg33D8Z3mNKtR1eKnV_clVpxb7hkbP2TT09jWRDfAg.f1M8r1EB5IfSpAnJxhR49CfMvKvJpcQBUV29BhG2qlMg.JPEG/IMG_9971.jpeg",
+          "https://ldb-phinf.pstatic.net/20240430_62/1714440683571Loo1E_PNG/MicrosoftTeams-image_%286%29.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjVfMTY2/MDAxNzU4Nzk4MDIwMjg0.-YC5iSlBxbYFyid-FTyY_xoXOkpvpHhV6cjPgwnwybMg.n8-uS4OOlZnbr_VcMC1daGqU6B3EKe4Tz7lAd1R4Gjwg.JPEG/20250925_122412.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDVfMjI0/MDAxNzQ2NDMyMzUyMzk1.8b77rn8laJN8C34jZrG6AnuPjGPqc5dirNLCh-9pzSQg.K4NBT_lYCUu182ppsZIq4Wc-Dd0VumHhfMXu58T6R1Eg.JPEG/5E5991CA-388B-43F9-A4DD-16D6C96B9173.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDFfMjE4/MDAxNzUxMzQ1MTkxODc3.FaReIy2XXF5TUg0qUh8-fvWZ2T5IoFGmwo9ZJqb7VFog.nl0xl-tD7sV229hDIqXVNWDccM6q162Sl2HsSZiAJ_4g.JPEG/1C7C33AA-D381-4AD5-9B80-FBF9534972C9.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1006368",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "38231951",
+        "name": "테라로사 광화문점",
+        "x": "126.9798347",
+        "y": "37.574762",
+        "distance": 0.035,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221742"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 4934,
+        "averagePrice": 5000,
+        "address": "서울특별시 종로구 중학동 19 더케이트윈타워 B동 1층",
+        "roadAddress": "서울특별시 종로구 종로1길 50",
+        "abbrAddress": "중학동 19 더케이트윈타워 B동 1층",
+        "shortAddress": [
+          "서울 종로구",
+          "종로1길 50"
+        ],
+        "displayContext": [
+          "브런치",
+          "카페",
+          "드립커피",
+          "나들이",
+          "빈티지한"
+        ],
+        "labelTheme": "데이트 맛집",
+        "microReviews": [],
+        "cardDescription": "[주차 안내] - 더케이 트윈타워 B동 주차장 (유료) -> 2024년 4월16일부터 변경   구매 금액 1만원 이상 - 1시간 무료 할인 적용   구매 금액 2만원 이상 - 2시간 무료 할인 적용 - 매장에서 결제 시 주차",
+        "description": "[주차 안내] - 더케이 트윈타워 B동 주차장 (유료) -> 2024년 4월16일부터 변경   구매 금액 1만원 이상 - 1시간 무료 할인 적용   구매 금액 2만원 이상 - 2시간 무료 할인 적용 - 매장에서 결제 시 주차",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjhfMjQ4/MDAxNzU5MDI4MDkzNzU1.qAgv5YPakpLA-knBsEt2-6DlcTZ59pmVu2LNmFcpOGsg.Xe0CW7EkIFGv47s87NuAk5P-LNVBOhLGiHjz3n73yr8g.JPEG/F5695FED-EB6C-41D8-B686-BCC941459550.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTJfMjE0/MDAxNzYwMjQwNjMyODAz.s7YhDv4Thfvc33Izt70_0dzYRVSV0Dy6w_oXYhBa4rUg.m6ZUj7ZtAXdrkKNb-QhGgzF1JMugLeKkVkTo9uQOpVQg.JPEG/20251012_115838.heic.jpg",
+          "https://ldb-phinf.pstatic.net/20210105_115/1609806613673Djzyt_JPEG/%B1%A4%C8%AD%B9%AE01.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjFfMTE5/MDAxNzQ1MTkwNjYxNTU2.7wAZ19yQwqIxPcRRboEfa3RKDgy-WADqfO7WHDOrVCgg.Kcb7c-SxumVUg8s8cJDIBMMfXP5nUaCvUEAk3inEXbsg.JPEG/28C9A1FC-3A73-45E0-A980-C29EAED13516.jpeg",
+          "https://ldb-phinf.pstatic.net/20210105_125/1609806613664FRrdB_JPEG/%B1%A4%C8%AD%B9%AE02.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjJfMjYx/MDAxNzUzMTc4MTkyNjM3.XD-KLCIXlZab6p3MO_JeyAbHG25eZ7wpC2aVxw4jDY0g.kYNVMH9wH_O5qy2Ko_AglMgtMfMQRKwi0VrpPk5two0g.JPEG/AEA8955E-0A68-4418-AC05-4BCC0E2C4961.jpeg",
+          "https://ldb-phinf.pstatic.net/20210105_243/1609806613688qEEEc_JPEG/%B1%A4%C8%AD%B9%AE03.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTNfMTEg/MDAxNzUyMzg4NjQ3MzE0.Or52RE7VOD8zyTNfZra2Fp_SxXD4oI_sxXwut9AfTcEg.Fh7oo00e7JlIzqrSkC1l84migJOjR424dq-owbg1i6sg.JPEG/7B32E8AB-994D-4E8B-85E6-415CC5A3895F.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTRfNjMg/MDAxNzQ5ODY5NDg2NDc4.bhIhUjhHLXzreKEIa-ZdqvMWJH4E0Qk7ZzBwC3du_Rog.JjmmLxYlvGTvK4e5fZWFR_3wX4qD4QucgM5TfOmDAlwg.JPEG/457EB912-E668-4B5F-BED5-25E9BD8BAD53.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTlfMTIg/MDAxNzU4MjgzMTM0Nzky.VwscMXofXQvln8JyuvrI1hdVqntB4uCd0k4UDM8YBfIg.xadxdI7WbaWcufeTeE6YjJPReNEp18h3pvphkepnGsIg.JPEG/20250919_200057.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221742",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "38231951",
+            "bodySummary": "나는 그냥 에스프레소로 시켰다. 드립커피는 나중에 벨 이렇게 쟁반에 내어준다. 에스프레소 마키아토 5500원. 쿠키는 피스타치오 유자인가 그랬는데, 그냥 그랬다. 에스프레소 마키아",
+            "url": "https://m.blog.naver.com/sssang97/223378330784",
+            "nick": "경직",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTEyMTBfMjE4/MDAxNTc1OTA1MTc2MDk3.65jvMzkxbEvxn4Z7LUHq_E4o4KiHlfg7KFTCWvyxLT0g.k8pL19HBTKk8esI5X-p23Pls0e-LU8LgprSFSm4LFoog.JPEG.sssang97/profileImage.jpg"
+          },
+          {
+            "sid": "38231951",
+            "bodySummary": "예쁜 야경이 보고 싶어서 오랜만에 온 광화문은 안락함을 찾을 수가 없다 너무 소란스러운 곳 해 지면 경복궁이랑 청계천 가야지 광화문점은 청계광장점의 두 배다 크기가 두 배 시끄러움",
+            "url": "https://m.blog.naver.com/ssunminlee/223378184196",
+            "nick": "나랑",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA0MDFfOCAg/MDAxNjgwMzU1NDkyMDAx.1wbwnlZnD20x4Wt4qdZCevlsqtKEkxm0H1fBCA8Mel0g.ZKM0gykZa4UwBzGyHkZMdi5s3LEHVSxtXLKaNl7FVcAg.JPEG.ssunminlee/export202304012203089283.jpg/export202304012203089283.jpg"
+          },
+          {
+            "sid": "38231951",
+            "bodySummary": "안녕하세요 레니입니다. 오늘은 경복궁역 중학동에 있는 테라로사 커피 ! 국립현대 미술관 전시보고 들리기 좋은 카페를 소개해보도록 하겠습니당 테라로사 광화문점은 넓고 아주 쾌적하더라",
+            "url": "https://m.blog.naver.com/hrin24_/223349815591",
+            "nick": "레니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA4MTJfMTAx/MDAxNjkxNzY5NjYzMzE0.XraY_yE2BnenAfJFM-e7kfKtm5P-sDPaaZiUVZeUyOcg.xH_QTc27sY-mMfJbYjpx5YP1eUnVqKB4uJ0lcDQ2DVwg.JPEG.junghyelin/KakaoTalk_20230812_010036865.jpg/KakaoTalk_20230812_010036865.jpg"
+          },
+          {
+            "sid": "38231951",
+            "bodySummary": "맛은 정말 맛있었는데.. 그 점에서 아쉬움이 많이 남긴 했네요 ㅠ0ㅠ < 화장실 > 화장실은 매장 내에 있는 줄 알았는데 이렇게 문을 열면 바로 화장실이 아니라 건물 내에 있는 화",
+            "url": "https://m.blog.naver.com/i_jiji_/223280103285",
+            "nick": "지구",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjEwMjFfMjg0/MDAxNjY2MzI3ODg5NzIz.l_RzTyp8ccYpwmhsXtHFmDE9JocyyuGvaE4lY-MAkycg.ymZpV8w21k1hbRYsqchU1OwWgYknbueqnJraW1sBU88g.JPEG.i_jiji_/%25EC%2582%25AC%25EC%2582%25AC%25EC%2582%25AC%25EC%2582%25AC%25EB%259D%25BC%25EC%259D%2580.jpg/%25EC%2582%25AC%25EC%2582%25AC%25EC%2582%25AC%25EC%2582%25AC%25EB%259D%25BC%25EC%259D%2580.jpg"
+          },
+          {
+            "sid": "38231951",
+            "bodySummary": "케이크..이자식..커피 고민하다가!! 청계광장점 전용 메뉴인 테라로사 카페모카 7000원 카페라떼 6000원 주문했어요 신문도 있길래 구경 짜잔 너무 이뻐용! 후훗 뜨뜬하니 좋았어",
+            "url": "https://m.blog.naver.com/oni_y/223261747027",
+            "nick": "오니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEwMDRfMjI3/MDAxNjk2NDMwOTA0OTg3.V9buUohZuJAPi3iT_jf8THrr0Zp4XjZfVIawJ89HP20g.00YW4c4UAcjQ-BjcSrwAcJ_mca1IFv5XI15spf2z0TUg.JPEG.dbsdhsl16/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "id": "1750042843",
+        "name": "패티바이번 케이트윈타워점",
+        "x": "126.9791966",
+        "y": "37.5746798",
+        "distance": 0.062,
+        "categoryName": "햄버거",
+        "categoryPath": [
+          [
+            "220036",
+            "220044",
+            "220138",
+            "221004"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "햄버거"
+        ],
+        "reviewCount": 73,
+        "averagePrice": 7000,
+        "address": "서울특별시 종로구 중학동 19 B1층 19-2호",
+        "roadAddress": "서울특별시 종로구 종로1길 50",
+        "abbrAddress": "중학동 19 B1층 19-2호",
+        "shortAddress": [
+          "서울 종로구",
+          "종로1길 50"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [
+          "갈릭향 가득한 감자튀김의 매력"
+        ],
+        "cardDescription": "갈릭향 가득한 감자튀김의 매력",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDJfOCAg/MDAxNzUxNDM1NjMxODk0.CAM6HKFTcDYlWQjucOIJWrr_L7PPg6WdaxS3ymVoBXQg.Qp5s0wZ_B-AsmLDrZxfDzV8y8pIZprAAQAg-oueWzVsg.JPEG/20250702_144816.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTFfNjEg/MDAxNzQ5NjA5OTE5NDg5.6Zm-yIleg6WBsZqRk4ZWsYpZUrKhPmCnyR7MBdHS1Fwg.X565HESeFN7ihUrDDSaQaMuWY2RooJJlB6eHcrsf4t4g.JPEG/EE51C62A-5D7F-4A10-90E5-EC32CC5FCDAB.jpeg",
+          "https://ldb-phinf.pstatic.net/20250826_246/1756188237312q9BSm_JPEG/IMG_4746.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTVfNSAg/MDAxNzUyNTcyNjkwNjkx.VUZ-MUMBzY7xQQU7QaRcqoA8noFGx1wTnVleOXT7px0g.Vd6ZVwEtgKVCI8t4fYxyE8MNRifgVrus_UpvkG0f4DUg.JPEG/20250715_184400.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20241217_237/1734422088695oQU0A_JPEG/%C6%D0%C6%BC%B9%D9%C0%CC%B9%F8_%B7%CE%B0%ED.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221004",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 4,
+        "id": "1995407261",
+        "name": "카페마마스 광화문점",
+        "x": "126.9791966",
+        "y": "37.5746798",
+        "distance": 0.062,
+        "categoryName": "양식",
+        "categoryPath": [
+          [
+            "220036",
+            "220044",
+            "220133",
+            "231247"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "양식"
+        ],
+        "reviewCount": 4542,
+        "averagePrice": 13000,
+        "address": "서울특별시 종로구 중학동 19 더 케이트윈타워 1층",
+        "roadAddress": "서울특별시 종로구 종로1길 50",
+        "abbrAddress": "중학동 19 더 케이트윈타워 1층",
+        "shortAddress": [
+          "서울 종로구",
+          "종로1길 50"
+        ],
+        "displayContext": [],
+        "labelTheme": "양식",
+        "microReviews": [],
+        "cardDescription": "좋은 것만 주고 싶은 엄마의 마음을 담아 건강한 음식을 선보이는 브런치 레스토랑",
+        "description": "좋은 것만 주고 싶은 엄마의 마음을 담아 건강한 음식을 선보이는 브런치 레스토랑",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjRfMjU0/MDAxNzUzMzMxMzkyOTI2.bYNMI9QES7yLw_RS8KUHZGnxNAdkubd4eTpTZ29-LU4g.QxvbSl6ZQDp8U-EmfPyKzqqC3DAFYDoq4Ia5lFms7hMg.JPEG/20250724_123951.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MDhfMTQ1/MDAxNzQ0MDc5NDAyNzkz.Aspmm0QcE-_qr7lolwxP0-oCuyWsNvgs_oH5s-Aha7cg.RiYw6V5ctKOScJ7QPHStgxjL7WgAJf1gdxwJ23vJLqgg.JPEG/20250403_170719.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20220907_91/1662540722996GnE4m_PNG/463DF593-5D2F-480B-8DA6-1992D2514BD3.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjVfMjk0/MDAxNzQ4MTg0MjgwMTUy.ZvLewh6XViNNsh0ZrwfZFP54y3RSQnAmjo9xJ_CKgHwg.NnD7gJBFXoiDch863euRpwiavqY41Vik9lIIKaJeQZQg.JPEG/F49BF696-D557-4486-B3AC-929C5FEA21E8.jpeg",
+          "https://ldb-phinf.pstatic.net/20221003_201/1664733647857PsKA3_JPEG/KakaoTalk_20220928_214129041.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTVfMjMg/MDAxNzQ3MjgzODQ1Njg5.8MPIDKo2522032FQls7Bbq8-uR-LkMm8prxkImHQxyYg.75EKlVnhNluvkTlsqx2UIPG-EshJfkdoENKoprcOlesg.JPEG/20250515_125431.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20200210_75/1581328290248JgOLX_JPEG/_Ky1t53biIhKtVNYzVWbLIQ4.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDhfMzAw/MDAxNzUxOTMxNDQwMTgw.ogn4UCPrJpIPpVXWXLsmKX4UhZQ6ZkA5QiqSgm5Nrc4g.U--w2Ml17_9VZ5aS9sxp2G5KMHU1gptfWmzAGAf2sY8g.JPEG/31A549F4-9D97-4189-B4A8-31904D2FC9DB.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDdfMjA4/MDAxNzUxODg0MDg2MDkz.upAcMbcix14sSkgRZZ8jcD62KeWAMT1jSMAoPJlHB9sg.sSd9O82l7UxuwcrlIVIOwoEgkH1Q8XKBYt0efvWy8Xsg.JPEG/E71979D4-8431-4EC8-B8F8-EAD928D91657.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjFfMjY3/MDAxNzU1NzQ1MDAzNzAz.iP0YNzTkWvZeMLT4ymfcuARiEMKCR1Q0sz2TxNjEj4Yg.hL6rd7AzztW2DtOXEcEz8b-rtPB9M7Tzid_WBQxxdxgg.JPEG/20250820_175039.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "231247",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1995407261",
+            "bodySummary": "일단 배를 채우러 간 곳은 그 근처의 카페 마마스- 카페마마스도 이제 많아졌지만 개인적으로 광화문 카페마마스를 제일 좋아한다. 다른곳보다 넓고 그냥 이 부근의 분위기를 좋아하는 것",
+            "url": "https://m.blog.naver.com/min2series/223400601544",
+            "nick": "Minivers",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTEwMTFfMTY5/MDAxNjMzOTU3NDc4NDg0.wUdurdXudeS1xNU3PKpTQC5wLmMmKxjMWKl-QLwtCdQg.IZF-s9rQc3AWd5FIQXLwoRHP7YoOuWPZ2S7Stsx7R4cg.JPEG.hmhee51/profileImage.jpg"
+          },
+          {
+            "sid": "1995407261",
+            "bodySummary": "카페마마스 광화문점 토요일 아침, 혼자 뭐 먹을까 고민하다가 카페마마스 감자스프가 먹고 싶어서 카페마마스 광화문점을 찾았다. 주말은 09:00시 오픈이라고해서 기다렸다가 시간맞춰가",
+            "url": "https://m.blog.naver.com/zhuzhuzhu/223328178266",
+            "nick": "여람",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTAyMTVfNDgg/MDAxNjEzMzU0MDI3Nzk4.XQlOKp5gZs72h_nbyq-Hi3a26C9lSG6lRondyLNVAw0g.xmbffpLrPz2KsJOpoeD_P4bJAs1Jn1nRtqizgN8PQ-Qg.JPEG.zhuzhuzhu/profileImage.jpg"
+          },
+          {
+            "sid": "1995407261",
+            "bodySummary": "카페마마스 광화문점 서울 종로구 종로1길 50 터 케이트윈타워 1층 (5호선 광화문역 2번출구 432m) 운영시간 평일 08:00 ~ 21:30 21:00 라스트오더 주말 09:0",
+            "url": "https://m.blog.naver.com/2_rabo/223313495327",
+            "nick": "보통내기",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA3MDJfMjAg/MDAxNjU2NzYwMTQ2NTMw.NcDrxcrhC6EcCpe0_oUdYXh1fNKUvHQKrv89P69CFS0g.BhJ-fBp6gW8lm-tSqRV0bZd64ykRpZ-GkZJmmvRmJcwg.PNG.2_rabo/profileImage.png"
+          },
+          {
+            "sid": "1995407261",
+            "bodySummary": "카페마마스 광화문점 영업시간 : 월-금 08:00-21:30 (라스트 오더 21:00) 토-일 09:00-20:30(라스트 오더 20:00) 전화번호 : 0507-1399-1270",
+            "url": "https://m.blog.naver.com/record_the_taste/223293827526",
+            "nick": "맛뚱",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMTlfMjIx/MDAxNzAyOTczOTUyMzA5.nOPiBax7A8XJnmI1ZlQ_qXdaSrPbFGwdYTcUwfU3lvMg.MrahaQsLhyZ9YaRlToUXTPWVcsV28darXLLUAX_A8EMg.PNG.tbvjdnfxmfk5/profileImage.png"
+          },
+          {
+            "sid": "1995407261",
+            "bodySummary": "요새 나름 다욧아닌 다욧을 해보겠다고 좀 가벼운 브런치를 먹어보고자 방문해본 곳 전에 짝꿍이랑도 몇번 방문했던터라 맛은 보장되었기에 맛없을 걱정은 없다는 점이 가장 좋았다는 점! ",
+            "url": "https://m.blog.naver.com/dkzp58/223275866106",
+            "nick": "햇님",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxODEyMDRfMTQ4/MDAxNTQzODU3ODQ2MDEz.ZBZeH8P40XhY4Q4DM173ps4KzRhceyBGgFo1AS7O9hgg.RXYBkmb1SxQr0UZLTV_J9g-6_5BJ4eRKWwxhX2u3Bgwg.JPEG.dkzp58/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "id": "1551466584",
+        "name": "메가MGC커피 종로케이트윈타워점",
+        "x": "126.9791966",
+        "y": "37.5746798",
+        "distance": 0.062,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "231192"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 132,
+        "averagePrice": 5000,
+        "address": "서울특별시 종로구 중학동 19 A동 B1",
+        "roadAddress": "서울특별시 종로구 종로1길 50",
+        "abbrAddress": "중학동 19 A동 B1",
+        "shortAddress": [
+          "서울 종로구",
+          "종로1길 50"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "감사합니다. 메가MGC커피 입니다.저희 매장은 [패스오더 앱]으로 편하게 주문이 가능한 매장입니다! 앱으로 미리 주문하고 방문 후 기다리지 않는 VIP 경험을 가져보세요!",
+        "description": "감사합니다. 메가MGC커피 입니다.저희 매장은 [패스오더 앱]으로 편하게 주문이 가능한 매장입니다! 앱으로 미리 주문하고 방문 후 기다리지 않는 VIP 경험을 가져보세요!",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjRfMjc2/MDAxNzU2MDM4MTQ2MDMz.On4Dn1RpTLFvAwGaBEArIQ3YMx7qzjzLc3u6S6hZ--Ig.NVjOF9Hr84hSfC9-WhMAHRwRvyLuncGcqq7WFMAN-BQg.JPEG/FFBB0CCB-1AC8-4171-8127-F4C3279BD8DF.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTJfMTI5/MDAxNzQ5NjkwNjA4MjM0.adnBbD68sPoeSaIZqUuBLDL1Liv2FjfDWHASKmd-704g.W8ULiZFuRodjrmE_PouYqO0egq5te27SXY-BzEX5T1Ig.JPEG/20250610_111432.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240830_43/1724994511179r0kOJ_PNG/%B7%CE%B0%ED.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTRfMjg3/MDAxNzU3ODEzMjQzMTQ0.iZuGUE_xUhnzW_Kgo5HuMnI1TQjl3cKNAS2ERxCkltsg.P-mSaEMt--Sw48robfC3C5LgjWuAXB-FKIgxpe0ZFcMg.JPEG/20250514_094227.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTlfMjg4/MDAxNzU1NTU5NjEwMDQ2.Uu0UvA971XjfW7b-LpZ1k7zZpOVO2E2v7EUFA9o1vmAg.LriXq8sEHmXPubWHJZKhOEN9MZ4C9JstgvmIn3oeRFIg.JPEG/3D89B38C-3FF0-4B5F-A669-B1019287A96B.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjBfNzMg/MDAxNzU1NjQxNTA3OTYy.ciADLjMOv7bqeCU-HtP0fohhhidesvhKJs968ZQHEi4g.lKruBSWyff3F6DzzTxTEK7Mr6_hgbPzsd5cPh-p1vA0g.JPEG/DEA43538-E7B5-44FE-9BB3-F21778C0102F.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MzFfNTUg/MDAxNzQ4Njc3NjMzNzk5.uXfcmwDLp4aWxxbi64CqewrvODZaW5YzzBZVlnNvKoEg.uY_7xSMdVhuuZADHct8Ax_Z79JH8FRZxKS7yFkeMDZwg.JPEG/20250531_164510.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTFfMjEy/MDAxNzU0ODY2MjA5OTc4.rCQ3AIHqnlA8EyafLFq32t6f_7BORwjsZg6eiNUXUwIg.nriFq_xLoKCV-vehevVQGr27iKB1nlf5tq0lxAk-w_cg.JPEG/42123AC0-EEEA-48E3-BBA3-8E68A8A87E53.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTZfMTI0/MDAxNzYwNjA3NTc1NzU1.cQDxBtn6nF84VsbH5rF42uEo6oFuqQn6ugHJDEIux2og.LZJAk1CkVxGD8kgO-tu2Ilm3UoucqETmtsx5r98K6hMg.JPEG/Screenshot_20251016_183709_Photos.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDNfMjUw/MDAxNzQ2Mjc3MjU0ODg5.6t4IylDBlK0b4EAbJ9gW8ZvqSpK0tg1tH91AT1zinBAg.-PNlwwzfStEagYI7jyVeBYM_Xhn1C5d4kDUTxsKduJ8g.JPEG/20250503_150802.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "231192",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 6,
+        "id": "1132795286",
+        "name": "비트",
+        "x": "126.9795131",
+        "y": "37.574685",
+        "distance": 0.045,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221212"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 7,
+        "averagePrice": 0,
+        "address": "서울특별시 종로구 중학동 19 더케이트윈타워",
+        "roadAddress": "서울특별시 종로구 종로1길 50",
+        "abbrAddress": "중학동 19 더케이트윈타워",
+        "shortAddress": [
+          "서울 종로구",
+          "종로1길 50"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 종로구 중학동 19 더케이트윈타워",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221212",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 7,
+        "id": "1980688980",
+        "name": "우아라 광화문점",
+        "x": "126.9791966",
+        "y": "37.5746798",
+        "distance": 0.062,
+        "categoryName": "소고기구이",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220764",
+            "221440"
+          ]
+        ],
+        "category": [
+          "한식",
+          "소고기구이"
+        ],
+        "reviewCount": 2059,
+        "averagePrice": 50000,
+        "address": "서울특별시 종로구 중학동 19 더케이트윈타워 지하1층 우아라 광화문",
+        "roadAddress": "서울특별시 종로구 종로1길 50",
+        "abbrAddress": "중학동 19 더케이트윈타워 지하1층 우아라 광화문",
+        "shortAddress": [
+          "서울 종로구",
+          "종로1길 50"
+        ],
+        "displayContext": [],
+        "labelTheme": "고급 정찬",
+        "microReviews": [
+          "친절한 매니저와 함께하는 한식 다이닝"
+        ],
+        "cardDescription": "친절한 매니저와 함께하는 한식 다이닝",
+        "description": "광화문 우아라는 한우(牛) + 바다라는 뜻의 순 우리말인 '아라' (아라 : 감탄을 나태내는 종결어미로 우아하다라는 의미)  우아라는 프리미엄 등급의 최상급 한우와 해산물을 활용한 수준 높은  ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDZfMjky/MDAxNzQ5MjE5MTMwMTg3.sZjAyka08hdRQA3u_lMaVOQo2IhVDK1m91qMKaWDgy0g.Hzi0lYK7vcKfG7UAX5oII1sutY73v3NPnbHA2flGNg8g.JPEG/1000064041.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDlfMzMg/MDAxNzYwMDAxNzcyNzM0.8ycDVhoHNIbE-bCGhpAacGHNAXJfpZ46gzMyiXLGQTgg.oqWxaoJOD6hRtnpMtJlsKo08zS5_MwjUby61FgeCLvEg.JPEG/20251003_173147.jpg.jpg",
+          "https://naverbooking-phinf.pstatic.net/20240813_134/1723536094720akXtt_JPEG/%BC%EE%C0%D7%C7%D4%28%BF%EC%BE%C6%B6%F3%29.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MzFfMTA3/MDAxNzU2NjQwMjA0NzE4.fYeV2rrxa33-OzDWNoXSmzz3QK91WJ-EMzG2cwM4O0Ag.vMUGfdV4m66R_6OM8-r1Ne_y6HwGimWvnXLWVmWbI_wg.JPEG/1C6C09A3-0C8D-46DC-9ACC-2A2982899B17.jpeg",
+          "https://ldb-phinf.pstatic.net/20240904_82/1725442477911dt0UH_JPEG/IMG_4967.JPG",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTZfMjkz/MDAxNzUwMDUxOTQ4Mjk3.W4mCPrcMqPn77WYaWlo8fdsWzxcJlByE0R_wNm3vEBog.xgRokv7jU48VsoC92IlmeaZfXF5EaaBT5JAfdE_BmEIg.JPEG/20250610_140043.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240904_175/1725442476191OvC3o_JPEG/IMG_4278.JPG",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTZfMjk2/MDAxNzQ3MzIzNTk4MTkz.z73i5-oFPH87CLuQ-RQqAUDpCwMKQAOVRsMKDTRt4x8g.9D_yJxqbN2PYAuGmNwpozIY_fq7ugTRgszLj4QnxH8wg.JPEG/20250509_134017.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDRfMTIx/MDAxNzU2OTkxNzQ1NDkw.pV7iiEqYk1D2keixuBB6K91EXT_axAOtnH2J-BPEiEgg._BU-Gi-FE5nBYjie1lNP8wvK2lvpJBRvO1QbnoqN0KIg.JPEG/20250901_185210.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDNfMyAg/MDAxNzQ4ODgyNjEwNTI4.9LEsvnv8zuWdHFX8w0vK1mvDU-UPBEWVPJMVe6SDMlQg.h4wxROeD9EkXqel4l1GfbO95dmeIfFZ3xAndqi_HWfYg.JPEG/65C35AEF-1370-4B64-939F-A280FC06B572.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221440",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

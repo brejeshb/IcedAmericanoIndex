@@ -1,0 +1,583 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 9,
+      "count": 9,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.97118055765756,
+          "minY": 37.5637972972973,
+          "maxX": 126.9723171313813,
+          "maxY": 37.5646981981982
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.97174884451942;37.56424774774775",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1265443004",
+        "name": "파스타빌리지 고온시청점",
+        "x": "126.9720816",
+        "y": "37.5638245",
+        "distance": 0.056,
+        "categoryName": "아시아음식",
+        "categoryPath": [
+          [
+            "220036",
+            "220040",
+            "220094"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "아시아음식"
+        ],
+        "reviewCount": 288,
+        "averagePrice": 10000,
+        "address": "서울특별시 중구 정동 34-5 배재빌딩 A동 지하2층 푸드코트",
+        "roadAddress": "서울특별시 중구 서소문로11길 19",
+        "abbrAddress": "정동 34-5 배재빌딩 A동 지하2층 푸드코트",
+        "shortAddress": [
+          "서울 중구",
+          "서소문로11길 19"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [
+          "베이컨 까르보나라의 진한 풍미"
+        ],
+        "cardDescription": "베이컨 까르보나라의 진한 풍미",
+        "description": "안녕하세요. 새롭게 오픈 하는 파스타 전문 매장 파스타 빌리지 입니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTVfMjU3/MDAxNzQ0NzA1NjkxMzE0.gH3c0_ZRB_iclEDEoYgin4p04hbqpa_qUlRd1Xg53ysg.9d6oVqaTYLJNV5krDpVypLmQ5Rtp3GcJ3xatV6beVfwg.JPEG/20250415_170439.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDdfNjIg/MDAxNzQ2NTg4NzU3NTk2.9rYDyXIOjr46gNGhLGV3aXAZW9wJz-QRCApVMYUb5EMg.URY_-SD568a-ZTeVURd9U-W4QnA4mD8CY1Kzl5tPotAg.JPEG/20250507_121153.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20220824_136/1661309015552e3Rry_JPEG/%B1%E8%C4%A1_%C7%CA%B6%F3%C7%C1_%282%29.JPEG",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjVfMTk5/MDAxNzUzNDI0ODE5MzE5.i3J70nvJyfy9EOGnF1HjW4BmvZ9j_04VLF7D4fgAkcsg.x8wH_01bH3c5v_6jIc7t92u1W-zwBEyX9QGUX_YS8SUg.JPEG/9464BE0F-BE5C-4FCC-AB04-3E8EF04BE5B0.jpeg",
+          "https://ldb-phinf.pstatic.net/20220824_266/1661309015561b7ltu_JPEG/%B8%D3%BD%AC%B7%EB_%C5%A9%B8%B2_%C6%C4%BD%BA%C5%B8_%282%29.JPEG",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTRfMTkx/MDAxNzU1MTQwMjk5MDgy.pXBRnlwGA6QkpKBX0exPtRqO0I_3VNuL0gBHTFr-lZwg.Dux9pubQforZN6Odp4p1WeZNTqtAQEaQoWJgePaBOkIg.JPEG/38907D84-7E24-48C7-AE09-3C54EFDA2F49.jpeg",
+          "https://ldb-phinf.pstatic.net/20220824_200/1661309015513WC6LV_JPEG/%BA%A3%C0%CC%C4%C1_%C7%CA%B6%F3%C7%C1_%282%29.JPEG",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjNfMTIg/MDAxNzQ3OTY4NzM3Mzc3.L200WDOVhnjWL_hlXk2o8e_R7BfqsQS2oktvLYZ9rxUg.fv-uUI0MmQERH5_m7vqUXHfdcKf2B37rd9m_yR2MclYg.JPEG/20250523_115140.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjhfOTcg/MDAxNzUzNjc4MTk1NTM5.hkadJyXz5HuvVGuZvs7WityE8EIWkfrXHjkJ77le6MUg.HPQLm1ieqWAzAa3gH-Fpun3io1D6Uy5cI_dBoQ4XABsg.JPEG/448C9058-48A0-4EDD-9AAD-8950B9CC15BF.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjBfNTAg/MDAxNzUwMzgyMTM5ODQ2.edl7050VGXuA6syRq1DCQijItAKOco6dHY9yS8MbeA0g.RQNtzSORtiQ3fqnqJHvwG2OR3LhktTlA90eYKdvOKl4g.JPEG/14A6F48D-227D-4DB4-97E1-D86B718E13FF.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220094",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "5.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "1790419667",
+        "name": "차미리 배재정동점",
+        "x": "126.9720816",
+        "y": "37.5638244",
+        "distance": 0.056,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221212"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 103,
+        "averagePrice": 5000,
+        "address": "서울특별시 중구 정동 34-5 배재빌딩 A층 LL층 지하2층",
+        "roadAddress": "서울특별시 중구 서소문로11길 19",
+        "abbrAddress": "정동 34-5 배재빌딩 A층 LL층 지하2층",
+        "shortAddress": [
+          "서울 중구",
+          "서소문로11길 19"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 정동 34-5 배재빌딩 A층 LL층 지하2층",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20191223_110/1577077369547oTS69_JPEG/TibNFJ0XawP4R7rwE5E6vNSN.jpg",
+          "https://ldb-phinf.pstatic.net/20191223_276/1577077369600z7YiX_JPEG/zyX-izDxi-0Ge54IjOKRSel1.jpg",
+          "https://ldb-phinf.pstatic.net/20191223_239/1577077370051PoNB8_JPEG/n1Mk3viUjusNQqZoo3mjoWGF.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221212",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 3,
+        "id": "1221168088",
+        "name": "순수덮밥 서울시청점",
+        "x": "126.9720816",
+        "y": "37.5638245",
+        "distance": 0.056,
+        "categoryName": "도시락,컵밥",
+        "categoryPath": [
+          [
+            "220036",
+            "220047",
+            "1005049"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "도시락,컵밥"
+        ],
+        "reviewCount": 26,
+        "averagePrice": 5000,
+        "address": "서울특별시 중구 정동 34-5 지하2층",
+        "roadAddress": "서울특별시 중구 서소문로11길 19",
+        "abbrAddress": "정동 34-5 지하2층",
+        "shortAddress": [
+          "서울 중구",
+          "서소문로11길 19"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "안녕하세요. 정성을 담아 매일 맛있는 덮밥을 제공하는 순수덮밥입니다!  한 끼 한 끼가 특별한 경험이 될 수 있도록, 남녀노소 누구나 즐길 수 있는 다채로운 메뉴를 준비했습니다. 혼밥, 커플,",
+        "description": "안녕하세요. 정성을 담아 매일 맛있는 덮밥을 제공하는 순수덮밥입니다!  한 끼 한 끼가 특별한 경험이 될 수 있도록, 남녀노소 누구나 즐길 수 있는 다채로운 메뉴를 준비했습니다. 혼밥, 커플,",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTlfMjgx/MDAxNzQ3NjQ4MjUzODUy.agSB9g8JPT8UV7z_eqnuF6HGpD-k43nEyCATY9_BjsEg.Q7ay1tsh-EYjFik_tcER-eKDX8Y62mfWmbs0nKno-5Yg.JPEG/0BE0CD3A-D751-4E2D-9962-5ACF1577AD96.jpeg",
+          "https://ldb-phinf.pstatic.net/20240926_2/1727312868374Mdjjo_PNG/%BB%A1%B0%AD%B7%CE%B0%ED.png",
+          "https://ldb-phinf.pstatic.net/20240723_238/1721717228215tJjQp_JPEG/%B5%F0%BF%A1%C0%CC%C4%A1%BF%A5_%B8%DE%B4%BA%BB%E7%C1%F8_1600_39.jpg",
+          "https://ldb-phinf.pstatic.net/20240723_139/1721717220305amwY7_JPEG/%B5%F0%BF%A1%C0%CC%C4%A1%BF%A5_%B8%DE%B4%BA%BB%E7%C1%F8_1600_32.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1005049",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 4,
+        "id": "1002801700",
+        "name": "백미원 시청점",
+        "x": "126.9720876",
+        "y": "37.5638154",
+        "distance": 0.057,
+        "categoryName": "중식당",
+        "categoryPath": [
+          [
+            "220036",
+            "220039",
+            "220091",
+            "220861"
+          ]
+        ],
+        "category": [
+          "중식",
+          "중식당"
+        ],
+        "reviewCount": 111,
+        "averagePrice": 10000,
+        "address": "서울특별시 중구 정동 34-5 지하2층",
+        "roadAddress": "서울특별시 중구 서소문로11길 19",
+        "abbrAddress": "정동 34-5 지하2층",
+        "shortAddress": [
+          "서울 중구",
+          "서소문로11길 19"
+        ],
+        "displayContext": [],
+        "labelTheme": "중식",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 정동 34-5 지하2층",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220861",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1002801700",
+            "bodySummary": "샹궈의 단점은 2인분부터 주문 할 수 있다 가끔 1인분 파는 곳이 있지만 정말 없다 ㅋㅋㅋㅋ너무 맛있어서 또 주변에 영업을 시작했다 (그래야 같이 먹어주니까) #백미원시청점 샹궈 ",
+            "url": "https://m.blog.naver.com/santahalmoney/222637161569",
+            "nick": "산타할머니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTEyMDJfNTgg/MDAxNjM4NDU1NzIxODE2.0liuv1WVhESwhJVvRnE_P9n8W0SRyPu-IaLBsbsKH7sg.SmBMxj-Ho2C73rnc-QvGxstNUDdRSuZmQcIkSsMR3ukg.PNG.santahalmoney/profileImage.png"
+          },
+          {
+            "sid": "1002801700",
+            "bodySummary": "안녕하세요 시청역 서대문역 근처 배제 정동빌딩 고온푸드코트 마라탕 맛집 백미원에 다녀왔어요! 백미원 시청점 주소 : 서울 중구 정동 34-5 지하2층 전화번호 : 0507-1456",
+            "url": "https://m.blog.naver.com/thewintersea_/222575510973",
+            "nick": "새벽의 별",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDA5MTZfMjI3/MDAxNjAwMjQ4MjIzNTQz.pGFSLPIngMp4MLnCAPuCAciIEOIqhTWsvSXetC29aAsg.YCMTwtoRUxd4_SmlBT2tf34X4p_vqLTC-aEfQywAGVsg.JPEG.thekajrwk/%25EB%258B%25A4%25EC%259A%25B4%25EB%25A1%259C%25EB%2593%259C.jpg"
+          },
+          {
+            "sid": "1002801700",
+            "bodySummary": "이번에는 배제빌딩 지하 고온푸드코트에 있는 시청마라탕맛집 백미원 시청점에 다녀와 봤습니다~ 배제빌딩이 A동과 B동으로 나뉘어져 있던데 푸드코트 쪽 문이 아니라 배제빌딩을 통해 가실",
+            "url": "https://m.blog.naver.com/suepoo7/222401175785",
+            "nick": "수푸",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDA2MTFfNCAg/MDAxNTkxODY0ODQ5OTMz.ZPEMuYMSSD-0umkA3o0-rAhDwS2QzLJgr5cKC2ZGirgg.KmbQO3Jf4_yUUhKJm3Tw7ctjkO8TByKb51c9yvhadIMg.PNG.suepoo7/profileImage.png"
+          },
+          {
+            "sid": "1002801700",
+            "bodySummary": "배도 고프고, 혼밥이 가능한 맛집을 찾던 중 주변 직장인들이 자주 찾는 백미원을 방문! 시청 마라탕 맛집 백미원 시청점 백미원 시청점은 시청역 배제빌딩 지하 2층 고온푸드코트에 있",
+            "url": "https://m.blog.naver.com/dmsqls473/222378389434",
+            "nick": "똘똘이짱",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDAzMzFfMjg1/MDAxNTg1NjU1MzgyMzc5.iMQZpTc5Y7OlZiu8_VyGn9SopJmXQqgNtQQNWUfqogcg.zkBwfOHhq9CGUBZpIQnjZZVm2fibdOycYU7JkHgNTNAg.JPEG.dmsqls473/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "id": "1956754950",
+        "name": "정동분식 고온푸드코트점",
+        "x": "126.9720816",
+        "y": "37.5638245",
+        "distance": 0.056,
+        "categoryName": "종합분식",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220185"
+          ]
+        ],
+        "category": [
+          "분식",
+          "종합분식"
+        ],
+        "reviewCount": 15,
+        "averagePrice": 0,
+        "address": "서울특별시 중구 정동 34-5 LL층 11호",
+        "roadAddress": "서울특별시 중구 서소문로11길 19",
+        "abbrAddress": "정동 34-5 LL층 11호",
+        "shortAddress": [
+          "서울 중구",
+          "서소문로11길 19"
+        ],
+        "displayContext": [],
+        "labelTheme": "분식",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 정동 34-5 LL층 11호",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220185",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 6,
+        "id": "1321880053",
+        "name": "커리19",
+        "x": "126.9720816",
+        "y": "37.5638245",
+        "distance": 0.056,
+        "categoryName": "일식",
+        "categoryPath": [
+          [
+            "220036",
+            "220038",
+            "220090",
+            "220856"
+          ]
+        ],
+        "category": [
+          "일식",
+          "카레"
+        ],
+        "reviewCount": 461,
+        "averagePrice": 0,
+        "address": "서울특별시 중구 정동 34-5",
+        "roadAddress": "서울특별시 중구 서소문로11길 19",
+        "abbrAddress": "정동 34-5",
+        "shortAddress": [
+          "서울 중구",
+          "서소문로11길 19"
+        ],
+        "displayContext": [],
+        "labelTheme": "일식",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 정동 34-5",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220856",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 7,
+        "id": "1799043612",
+        "name": "고온 북해도",
+        "x": "126.9720816",
+        "y": "37.5638245",
+        "distance": 0.056,
+        "categoryName": "일식",
+        "categoryPath": [
+          [
+            "220036",
+            "220038",
+            "220081",
+            "220804"
+          ]
+        ],
+        "category": [
+          "일식",
+          "일식당"
+        ],
+        "reviewCount": 37,
+        "averagePrice": 0,
+        "address": "서울특별시 중구 정동 34-5",
+        "roadAddress": "서울특별시 중구 서소문로11길 19",
+        "abbrAddress": "정동 34-5",
+        "shortAddress": [
+          "서울 중구",
+          "서소문로11길 19"
+        ],
+        "displayContext": [],
+        "labelTheme": "일식",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 정동 34-5",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220804",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 8,
+        "id": "1398629936",
+        "name": "북해도 수제돈가스",
+        "x": "126.9720816",
+        "y": "37.5638245",
+        "distance": 0.056,
+        "categoryName": "일식",
+        "categoryPath": [
+          [
+            "220036",
+            "220038",
+            "220082",
+            "220812"
+          ]
+        ],
+        "category": [
+          "일식",
+          "돈가스"
+        ],
+        "reviewCount": 98,
+        "averagePrice": 0,
+        "address": "서울특별시 중구 정동 34-5",
+        "roadAddress": "서울특별시 중구 서소문로11길 19",
+        "abbrAddress": "정동 34-5",
+        "shortAddress": [
+          "서울 중구",
+          "서소문로11길 19"
+        ],
+        "displayContext": [],
+        "labelTheme": "일식",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 정동 34-5",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220812",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 9,
+        "id": "1988383213",
+        "name": "순수덮밥 서울시청점",
+        "x": "126.9720816",
+        "y": "37.5638245",
+        "distance": 0.056,
+        "categoryName": "도시락,컵밥",
+        "categoryPath": [
+          [
+            "220036",
+            "220047",
+            "1005049"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "도시락,컵밥"
+        ],
+        "reviewCount": 3,
+        "averagePrice": 11000,
+        "address": "서울특별시 중구 정동 34-5 지하2층",
+        "roadAddress": "서울특별시 중구 서소문로11길 19",
+        "abbrAddress": "정동 34-5 지하2층",
+        "shortAddress": [
+          "서울 중구",
+          "서소문로11길 19"
+        ],
+        "displayContext": [],
+        "labelTheme": "혼밥추천",
+        "microReviews": [],
+        "cardDescription": "안녕하세요. 정성을 담아 매일 맛있는 덮밥을 제공하는 순수덮밥입니다!  한 끼 한 끼가 특별한 경험이 될 수 있도록, 남녀노소 누구나 즐길 수 있는 다채로운 메뉴를 준비했습니다. 혼밥, 커플,",
+        "description": "안녕하세요. 정성을 담아 매일 맛있는 덮밥을 제공하는 순수덮밥입니다!  한 끼 한 끼가 특별한 경험이 될 수 있도록, 남녀노소 누구나 즐길 수 있는 다채로운 메뉴를 준비했습니다. 혼밥, 커플,",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20240926_2/1727312868374Mdjjo_PNG/%BB%A1%B0%AD%B7%CE%B0%ED.png",
+          "https://ldb-phinf.pstatic.net/20240723_238/1721717228215tJjQp_JPEG/%B5%F0%BF%A1%C0%CC%C4%A1%BF%A5_%B8%DE%B4%BA%BB%E7%C1%F8_1600_39.jpg",
+          "https://ldb-phinf.pstatic.net/20240723_139/1721717220305amwY7_JPEG/%B5%F0%BF%A1%C0%CC%C4%A1%BF%A5_%B8%DE%B4%BA%BB%E7%C1%F8_1600_32.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1005049",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

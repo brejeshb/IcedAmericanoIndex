@@ -1,0 +1,411 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 4,
+      "count": 4,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.98254629489496,
+          "minY": 37.5683018018018,
+          "maxX": 126.9836828686187,
+          "maxY": 37.569202702702704
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.98311458175684;37.56875225225225",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1152363264",
+        "name": "프롬하츠커피 청계종각점",
+        "x": "126.983611",
+        "y": "37.5690017",
+        "distance": 0.052,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "1002705"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 1623,
+        "averagePrice": 5000,
+        "address": "서울특별시 종로구 관철동 266 1층 프롬하츠커피 청계종각점",
+        "roadAddress": "서울특별시 종로구 청계천로 53",
+        "abbrAddress": "관철동 266 1층 프롬하츠커피 청계종각점",
+        "shortAddress": [
+          "서울 종로구",
+          "청계천로 53"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "소중한 사람에게 마음을 전하는 커피 프롬하츠커피 청계종각점입니다.",
+        "description": "소중한 사람에게 마음을 전하는 커피 프롬하츠커피 청계종각점입니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDJfMjcg/MDAxNzUxNDIxNzk0NDky.HGGINyl6dT5L9bdHouv1HgxgLrY00S3SQBZ9lJ3eN0wg.FKNZVSNKup8HvDLgoGLljsfrz0_d9Hrx3hnrM5905hsg.JPEG/image.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDRfNjkg/MDAxNzU5NTA3ODA3NzUy.GmgjgGwEgMZ4ITpKvz1flv0fbpI5siHLMk-QY0MZ79Yg.A-n_l1tmyk3_KgVZslBdzptZZyj0mf5u6BM8-D6T3scg.JPEG/20251003_125559.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20191019_23/1571471015633AuBP9_JPEG/zy1s06P3Se-1UJQqD9uqgfSa.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDVfMjEg/MDAxNzUxNjkzMzQzMzk1._AdhMLzZZsoQRUl-9ksLcaVUUpAwda4Aqhp_AbytMSMg.pnjdTyCey3oPKtmMoj46iuAZD56NFRDOV23O3q5O9eEg.JPEG/46330335-2A90-431A-9C33-5FCA80E2C660.jpeg",
+          "https://ldb-phinf.pstatic.net/20210527_14/1622080101603SiGJu_JPEG/UHN7ia4PdB2c2mZKCh62ueHN.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDZfOCAg/MDAxNzUxNzk5MDgzODk3.azBcZ0DK30zFSRMmihPhhOJ9qIMIhndw4wiWZo9WTPkg.Gf2jU-Ci5xwDXOPhAvzy1Ll2Hp1kxTXINsBQ4xgJzBcg.JPEG/1B602DF0-8087-40D7-BFF5-E2EE60D10D99.jpeg",
+          "https://ldb-phinf.pstatic.net/20210527_135/1622080110711oKQpQ_JPEG/m19RTJYtWHNnab34iOn7Nqdc.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDVfMjY3/MDAxNzU5NjY1NzA5NTkw.vCaI6FMzLp4_BK3BsEq4tzmAKNR76s6xj3PSlqboXvYg.3koAehXGQ6fb9Olv1BCOHD3jmvev7DyQkI9BzAbS1UQg.JPEG/20251001_095407.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDJfNTMg/MDAxNzUxNDIyMTM0MDMy.b5xUnVaao1U0VVMgkdTxoU4rni9PHyzGTgZuN7PNAzsg.7EXykDsGkcvvzpY3Gx2lwNhw0w65gEak1KyucA3dMIgg.JPEG/20250702_110747.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDJfNTkg/MDAxNzUxNDMwODMyNjI1.kaqnC-wiy3UkLS-2OZ5_3sr9pZMaekCopq56WEvcBm0g.khpZZdFqYle760W2ExCvBWPLdLqojGugX0vqQnUqZF0g.JPEG/IMG_4445.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1002705",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1152363264",
+            "bodySummary": "주말에 한가로이 청계천을 걸으며 커피 한 잔 하는 것도 좋네요~ Tips : 프롬하츠커피 청계종각점 - 메뉴: 에스프레소와 아메리카노 모두 괜찮았어요. 산미 적음. 커피류는 - 공",
+            "url": "https://m.blog.naver.com/nomadlounge/223357736696",
+            "nick": "aj",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA3MTRfMjA5/MDAxNjg5MjYwNjM0NzM0.Q40HUc4Ozlg7O9ojPXlVj9ix83HwciHlqggH95BwTDMg.GMGS9BM7zjWdRlOm_UAj3mKXkDV47sKT8jyNOxbfteAg.PNG.nomadlounge/profileImage.png"
+          },
+          {
+            "sid": "1152363264",
+            "bodySummary": "할 뻔한 곳 난 괜찮았는데 황씨피셜 망고빙수가 맛없다고 함 근데 그걸 왜 나한테 화풀이 하는지? 이 글을 보면 석고대죄해라 맛은 그냥 평범한 냉동망고빙수맛 양은 많음 3명이서 먹길",
+            "url": "https://m.blog.naver.com/speongebob/223186415276",
+            "nick": "스푠지밥",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA3MTBfNDYg/MDAxNjg4OTkxNjI4MjQw.iCK9FKSIg6WsIXNuNvezgFe6LAw3StF8z3tKn3HT1MQg.gRF0eBLkn56PaCLJtXYJWw_lPi676gc70MAVlhTX0Okg.JPEG.pyojs11/profileImage.jpg"
+          },
+          {
+            "sid": "1152363264",
+            "bodySummary": "싶어 바로 고 청계천 한빛광장에서는 도보로 4분 1층과 2층으로 되어있어 규모도 생각보다 크고 커다란 통창 밖으로는 초록빛 가득한 풍경이라 커피 마시며 휴식하기 좋은 풍경이었다. ",
+            "url": "https://m.blog.naver.com/guswjd0407/223141631015",
+            "nick": "아야",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjEyMTlfMTIw/MDAxNjcxNDQ5MDgzMjQ4.3Yy7Qw2_6RHeR7RDeCdLPD7YwxO2P0neSA4m6nrP654g.bbetImXtlip8lT51cay1sC-L4FKlloaRa_6H_mmDNWcg.JPEG.guswjd0407/P20201010.JPG/P20201010.JPG"
+          },
+          {
+            "sid": "1152363264",
+            "bodySummary": "프롬하츠커피 청계종각점 평일 8:00 - 23:00 토 12:00 - 23:00 일 12:00- 20:00 휴무 없음 / 남편이랑 종각에서 저녁 먹고 청계천을 거닐다 프롬하츠커피 ",
+            "url": "https://m.blog.naver.com/eunnn06/223054222681",
+            "nick": "은버린",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjEwMThfMjA1/MDAxNjY2MDc4ODA4NjAx.ws8qeTgPEEmKJEWZSsF1bNdvRrsq7S4O3JqTc-wom-Ig.0zESWSok_PyyoxhYBsdPtPNqAoeEsGrcL4fkWu5py50g.JPEG.eunnn06/KakaoTalk_Photo_2022-09-26-18-28-17.jpg/KakaoTalk_Photo_2022-09-26-18-28-17.jpg"
+          },
+          {
+            "sid": "1152363264",
+            "bodySummary": "시원한 음료가 마시고 싶어 온 프롬하츠커피! 여기 카페는 바로 앞에 청계천이 있어 청계천따라 걷기도 좋고, 건물사이 청계천을 등지고 사진 한컷! 찍기 좋은 곳 매장 내부 1층 3월",
+            "url": "https://m.blog.naver.com/s_s____s2/223032555629",
+            "nick": "먹쨩윤이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMTJfMTMy/MDAxNzAyMzY2OTY1Mzg3.wNJ0tre1bmfKRpb9Ch2PMD_a-qOD2973e0UTloo-qC4g.TzHFYA2UKrmYBP-9-S41y93zVUQoB0OPXxbc8iavqtsg.PNG.misseoyoun/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "id": "1031451022",
+        "name": "평가옥 종각점",
+        "x": "126.9830841",
+        "y": "37.569127",
+        "distance": 0.042,
+        "categoryName": "냉면",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220063",
+            "1000910"
+          ]
+        ],
+        "category": [
+          "한식",
+          "냉면"
+        ],
+        "reviewCount": 854,
+        "averagePrice": 44000,
+        "address": "서울특별시 종로구 관철동 288",
+        "roadAddress": "서울특별시 종로구 우정국로 2",
+        "abbrAddress": "관철동 288",
+        "shortAddress": [
+          "서울 종로구",
+          "우정국로 2"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [],
+        "cardDescription": "서울특별시 종로구 관철동 288",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjVfMTE1/MDAxNzQ4MTY3ODQ5MTk0.W2VzMZwTPMFKHiJ5H1yCrFmwL1wyLAH_CLA4vE0BopEg.r96TPbLrFYpiHBc-kzoGHQ0VitXqSU0UX3GAuMo1GaUg.JPEG/8B88BBED-FC89-49C9-A5E2-DCB8B9BE5BB8.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTVfMjkx/MDAxNzYwNTMyMzUxODMx.tIljAzwZujuYiS8gtBy4UaCPBjeewxZJuU6GvML7DfAg.IY0s6mwOPqGDy6bSRQXFKEC1Ys8uGWPE4EXj2sRRr1Mg.JPEG/20251014_184025.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20190707_144/1562496280321euRuO_JPEG/ckucrVt0d-HVA_eCXEUyLW-P.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDJfOTQg/MDAxNzQ4ODQ4Njk4NzEw.OUMOGwaJdD9Ex6W-BeB9mErVdNhyFUwnLLnx5VqpPwAg.FKi7fjRizkwTOXOCKZrk8MjXVzeOhvD6DR2qAK7ekJwg.JPEG/93D0DF43-29BE-4D58-AAB7-062097F12FFC.jpeg",
+          "https://ldb-phinf.pstatic.net/20190730_215/1564480676545Xvzcl_JPEG/4W63tBqHwjCd8rVFszpqOZVZ.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTlfMjM1/MDAxNzUwMzMyMjg3MjU3.e3O5yaYEVE3duzy6bHnBU3lpDBGU3CaR6Q2whXmmLYUg.5VzMZwAgk_IYUHcyOidssxuKvKtmi_Yf6I5dyHP1Lr8g.JPEG/20250619_115546.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDRfMjUg/MDAxNzU2OTgwOTU1NDg1.sui8PCgj3Nbq75iCHrbMYFuSw5J_zOWJNq2fIfGj_hwg.cIO6xp11gh-5GCDHU4tU74ZRsELbEQkbXuvAcf-RDfgg.JPEG/20250903_124901.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTBfMjA1/MDAxNzQ5NTQyNjk1MjA3.3HJqWttPswa86yEJwwsaqjkikySrE445cmOXkCdh4TUg.I7L6bbkI3PY_BodJ4QdEuLuCY65IcRXAsg9CoLRj0Tkg.JPEG/20250610_113155.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MThfMTcx/MDAxNzQ3NTQ4MTg2NDE3.zU8K7xzMewqjPhu_9cLUlN-WgxwcIqCzpqlO185XyNQg.qUb_di3IO-khcQ79OWJd6NiTl9QIe0l7jBTEEiAI7Sog.JPEG/20250518_142425.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTJfMTI4/MDAxNzU3NjU4OTcyODEx.OWB3tziTUMe6FI-wwLNPg7Ig_Wg9gkbDz9MEpDDI7aYg.5cSFDIsIzBlvMTn-HZtaCH-6OHjGWjoZO_7Ngi4veVkg.JPEG/20250912_121809.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1000910",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1031451022",
+            "bodySummary": "과 비슷한 맛..? 비유가 너무 난해한 거 같기는 한데 평강옥의 냉면은 제 입에는 맞았어요. 아무튼 1만 6천원으로 굉장한 가격이라 늘 평양냉면은 먹기 망설여졌는데 그래도 간만에 ",
+            "url": "https://m.blog.naver.com/mnvcxz0327/223339469072",
+            "nick": "녜힁",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAyMTRfMjUx/MDAxNzA3OTEzMzkyODk1.zxjcWWFYUDhaHwK0_ZRUyiaCbKXdALde3n9I4HiyPfQg.GUrvMpingt-x4unhAIL28dNNoO8asULxgwyWPoYi0n8g.JPEG.mnvcxz0327/profileImage.jpg"
+          },
+          {
+            "sid": "1031451022",
+            "bodySummary": "평가옥 간만에 팀원들이랑 외식~! 느끼하지 않고, 깔끔한데 면이고, 헤비하지 않은~ 뭘까 뭘까~ 정말 긴 고민끝에 결정! 모두가 동의한 냉면! 근데 어디로 갈 지 정하지 못해서 모",
+            "url": "https://m.blog.naver.com/mim_z/223313868209",
+            "nick": "밈즈",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20210907_22/joojulie718_1631011402781UXQlj_PNG/profileImage.png"
+          },
+          {
+            "sid": "1031451022",
+            "bodySummary": "평가옥 종각점 주소: 서울 종로구 우정국로 2(관철동) 영업시간: 매일 11:00-21:30 전화: 02-720-1577 먹은 메뉴: (2023년 12월 기준) 편육 반접시(19,",
+            "url": "https://m.blog.naver.com/princejimya/223312055536",
+            "nick": "혀니얌",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTExMDNfMTUz/MDAxNjM1OTMzOTEzMDkx.JlfN4Gj642ESOiMZv9PX9MaPk7-iEM2m6xzjWMEh4_cg.HRce7Wadmif0UTHMSW67UJ4XxjxtWQq-tClfnc0k6eUg.JPEG.princejimya/1.jpg"
+          },
+          {
+            "sid": "1031451022",
+            "bodySummary": "동대문에 가야할 일이 있었는데 마침 친언니 회사 근처에 평양냉면 맛집이 있다고해서 갈겸 들렀어요! 후기 전해드릴게욧! 평가옥 서울 종로구 우정국로 2 02-720-1577 ⏰️ 매",
+            "url": "https://m.blog.naver.com/doldol16/223297812270",
+            "nick": "돌돌맘",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTAxMjhfMTQ4/MDAxNjExODMwOTc5NTMz.SiobtIjhCaiUWyvVEMZ1eI1OUT0XYcoznyv3p6vPC_wg.SIsQX12D7kMV1h9wC4q0aJuY_kbmyPkhLSa8j3FqiAEg.JPEG.doldol16/%C7%C1%B7%CE%C7%CA.jpg"
+          },
+          {
+            "sid": "1031451022",
+            "bodySummary": "오늘은 날이 좋아서 반차 시원하게 쓰고 동대문 놀러간 겸 맛집 리뷰를 남겨봐유! 맛 가격 인테리어 화장실 재방문 의사 어복 쟁반 노래를 부르던 날이 언 2개월 정도 되었는데욥 막상",
+            "url": "https://m.blog.naver.com/sanda_park/223286762432",
+            "nick": "SANDAPARK",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMDhfMjk4/MDAxNzAyMDEzMDQ4MDAz.tvN6HMZDx_vCNggongjbUHSmsxWujrxY8OEOmz9ZSXwg.8bLeKSf6PWAfPY7AmEDbcs2Wh6e4G4Ng2G-pzKcUmowg.PNG.eh_cecil/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "id": "13433495",
+        "name": "토속정",
+        "x": "126.983253",
+        "y": "37.569187",
+        "distance": 0.05,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 551,
+        "averagePrice": 53000,
+        "address": "서울특별시 종로구 관철동 263 1층 토속정",
+        "roadAddress": "서울특별시 종로구 우정국로 4-1",
+        "abbrAddress": "관철동 263 1층 토속정",
+        "shortAddress": [
+          "서울 종로구",
+          "우정국로 4-1"
+        ],
+        "displayContext": [
+          "홍어",
+          "갈치조림",
+          "산낙지",
+          "갓김치",
+          "양념게장"
+        ],
+        "labelTheme": "고급 정찬",
+        "microReviews": [
+          "방어회와 삼합 조합으로 술이 술술"
+        ],
+        "cardDescription": "방어회와 삼합 조합으로 술이 술술",
+        "description": "홍어삼합, 민어회 전문, 산낙지, 칼치조림 등 10여가지 반찬과 함께 즐기는 전통남도음식 전문점",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTJfMTE5/MDAxNzU0OTYyMjU4ODYy.0pT3FoaOX2FLWYLz9-0QduSgoTJFpYlHV1Nfl3R_zJQg.4URZXhb16me8ZGGq3JJfQAOwbs8is_mUzR8gHy8ltUUg.JPEG/1754961708004.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MThfMjM2/MDAxNzU4MTg3ODU0NDYz.QetiJr7CBYcxhlRjbmWYwdc42qIApPrthJva_DSiCl8g.nsDCKcdSl7pvVDwXEo2uNq4K-PkyaE3ROiKI6vXKNJIg.JPEG/8C7A558F-B58E-488B-AE65-41A1D620D99E.jpeg",
+          "https://ldb-phinf.pstatic.net/20220907_145/1662533883349fwX0u_JPEG/20181113_161829_HDR.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjJfNDUg/MDAxNzUwNTk4NDE0NjI3.vZmPXBpMDi6dIuV5t-M-WO3gCsgEBfq5Omrj9_nUDAUg.tqKUIBNGrpiVuQQEcIpaBT19cXNT7tzenMDe_kR0iEgg.JPEG/01F59C1A-DF2A-4A34-84AE-17239DDBF22E.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTlfMjk3/MDAxNzU1NjEwNDAxMTk3.kwzzR-HVhTMGosC4T3Mbdyg5iBliS9gWFCpFB9njgoIg.h7e5fks5wPt6spbl8Brly7OirAKmU2_CZMO_bcSK350g.JPEG/20250818_182005.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTBfMTM4/MDAxNzQ0MjM2OTk2ODIy.2umEykV2bk3XYNZvlzOS-4kFJFScaWRmCuA7nJpA2xcg.tEhr4M7N3WEZHrs9MQFIhqcKlrA0k8WxGSzQ41hd2hgg.JPEG/20250409_165653.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDNfMjQ5/MDAxNzUxNTM3NDAxNjk3.D4Ls9BCqd7enqmMuUHZL3WAJTdv2ccJx1MeUfkGBE2Ag.7ct6jd4zsrwbxc8w1l8ygY-l6OEDazfe1IiBsf3IDj8g.JPEG/20250703_111103.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.27",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "13433495",
+            "bodySummary": "연말 연초에 양식 많이 드셨죠~? 뭔가 속에 쌓여있는 기름기를 싹 걷어내고 싶은 이때! 친구의 소개로 종각역 토속정에 다녀왔어요. 주차는 보신각 옆 공영 주차장 이용하셔야 하구요 ",
+            "url": "https://m.blog.naver.com/zzongzzong-/223321823153",
+            "nick": "나누고 싶은 이야기",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjExMDlfMjM1/MDAxNjY3OTc0NDA0ODQ0.hEfaRPb-z5wLOyUVT9V9PWwkfPHtkmM50wG-FXLtXOEg.PsN0kc1mRBlCVcH50HkKexjvkdt9HJq4NqIVNbzJ5HMg.JPEG.suyoan/profileImage.jpg"
+          },
+          {
+            "sid": "13433495",
+            "bodySummary": "여름에 삼계탕 말고 민어탕 먹기 종각 토속정 삼복더위에는 삼계탕을 많이 드시는데 남해 전라도 지방에서는 삼계탕 대신 복날 민어탕을 먹는다고 해요. 시어머님 고향이 임자도여서 알게 ",
+            "url": "https://m.blog.naver.com/rompjung/223186358439",
+            "nick": "브링유",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDA3MzBfMTY1/MDAxNTk2MDczNzM2MTQ4.QUePRvLUnurTLdU75Eks01O3O01MxY4k2436OemG2dsg.iTNLZ7dxJCQzT2e6KyFLA1vhIC7KnOspdsAgMjHiqf0g.JPEG.rompjung/bringu%25ED%2594%2584%25EB%25A1%259C%25ED%2595%2584.jpg"
+          },
+          {
+            "sid": "13433495",
+            "bodySummary": "토속종의 주력메뉴는 홍어/민어. 홍어회 홍어찜 민어회 민어탕 등을 판매하고 점심에는 주로 병어찜, 갈치조림 등의 메뉴를 먹는 듯하다. 참고로 가게 손님 나이대가 아주 높다 ㅎㅎ종로",
+            "url": "https://m.blog.naver.com/pjpy1001/223143125903",
+            "nick": "널러리",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMjRfMTIy/MDAxNzAwODAzMTYxMjEz.s6p3LZxxMyW5em4W6UXk3aK8Zw7RMWpUtLjP4j40LWAg.M8snrV8T884stwwotEBABcyIHM_jo0faRbquHhKk6x8g.JPEG.pjpy1001/KakaoTalk_20231124_133229065_02.jpg/KakaoTalk_20231124_133229065_02.jpg"
+          },
+          {
+            "sid": "13433495",
+            "bodySummary": "죠나입니다 :) 오늘은 지난번 파트장님 찬스로 다녀온 종각 숨은맛집 토속정을 리뷰해볼게요. 여긴 남성직장인 핫플이라 점심 저녁시간 모두 남자분들로 바글바글 심지어 이날은 여자가 우",
+            "url": "https://m.blog.naver.com/ena0313/223142371151",
+            "nick": "죠나",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAyMThfNTEg/MDAxNzA4MjM2ODI3OTY0.2g8J72EwAMj5oTagng1zxM0rZRQJ8okfQ0t9xWe3cSQg.VeoTCPraGIABZbsGzFFd_NxBLz2YtL1LOji0KhMSwDMg.PNG.ena0313/profileImage.png"
+          },
+          {
+            "sid": "13433495",
+            "bodySummary": "토속정 서울 종로구 우정국로 4-1 1층 (약국 옆 골목) 02-720-2192 12:00 - 22:00 (일요일 휴무) 여긴 극가의 가성비와 밥도둑들이 가득한 토속정 저녁에도 꼭",
+            "url": "https://m.blog.naver.com/yoo-nee/223022272371",
+            "nick": "유니왕",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAzMjJfMjkw/MDAxNjc5NDg3MTY0MTA1.PcXCUJL-jqINDg7dFIaz3XmPQ2cNbSBykZoC4PBEinsg.MwHVgWgB4X-EfvILWjoRsBYRRN0wkaT8ix0Xcb18GlIg.PNG.a88uu/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "id": "1867871570",
+        "name": "아워홈 신한은행광교점",
+        "x": "126.9833659",
+        "y": "37.5683773",
+        "distance": 0.047,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 428,
+        "averagePrice": 0,
+        "address": "서울특별시 중구 남대문로1가 14",
+        "roadAddress": "서울특별시 중구 청계천로 54",
+        "abbrAddress": "남대문로1가 14",
+        "shortAddress": [
+          "서울 중구",
+          "청계천로 54"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 남대문로1가 14",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDVfMzUg/MDAxNzQ5MDk3MzYyNzUx.g0BwWaK-es7Fbkd7ldN5eK2yxVutVEgGIlQBA2eBJp0g.pzXLWt5fyuzIi11mQsWYa8TKH_eOGU7ZVbBS1u9WVd4g.JPEG/F52FF5F2-610D-4702-A7B7-5E916CC6A582.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDVfMjQ2/MDAxNzQ5MDk3NDUyODkz.ZfJmHa4ZeSlDqZbDi45eVQ4vHtsDLDtIgWNUAbNl5-sg.BRh5qi9yN1LPkuHDZi8_nSVHNQzXYsxMgl2arXszmskg.JPEG/5B3CCE46-10EE-4BB5-8B54-80550D0DF751.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDRfMzIg/MDAxNzU0MjgxNTk4Njgw.930imoROXsPa8L6tw_dnMPZUTwwrDGE_zTn27jAgfqYg.mfYKMe8zwEV7sJzesGeC28__BcJfab6w_w8Nu6KS9F4g.JPEG/20250801_111331.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDRfMTk2/MDAxNzU0Mjc4NzgxMjA0.bI5G0-dx3Q_pxV0Fu6Dfp7G20EvtQQimMzOB8bwqJB0g.AlZ0LljGLV84GSCwdGMop5iXp5qlIhUoDh7uFijw1a8g.JPEG/39BADFAC-1228-4BD3-B82F-053D741AF578.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MzBfMTk5/MDAxNzU5MjM3NzkzNDc5.CRuULTEPIgeabxyKBRuFbyxp7O1K13-T1csRmqFECl8g.AM0Adx4JZ4VwlL-qOxlcwFGLG5wLv2jSBhYxiyCQN2Eg.JPEG/B808B634-7156-410F-89F2-F7BD6D9FE3D7.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDRfMjgx/MDAxNzU0MjgxNDM4NjM0.lfGOVEldIqgbu_a-iLJ2QLrXIAGEjNd2MsIbOkJxiyYg.0UkV3zYQnDLOXVO864ZbE5yq_tF04JEkaTeiyiXRnLYg.JPEG/20250804_113636.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjhfMTQx/MDAxNzUzNjc3ODk0MzE4.4mGjbJN3CeGCiN8v98-LzlkXDwB5ydYPNlFjynEfbGUg.FIMTpSdaj_MNh8rs53Aa8D_imzu-9CLqZ-ktPJ5yFq0g.JPEG/1FE72B60-A578-49CB-90C6-0CD2FD75D424.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDdfMjYz/MDAxNzUxODcwMjY2Mjkx.SMiU0A7ZyivM8AhE1LkPXUURQvBCXbxp9hM7elpfENUg.5DWrJAdApXJIQEApMvwLi-y_bVeWpG7K_DXsTw1OMaYg.JPEG/118CD9D8-AD72-429E-8BE9-AB36DE7954CC.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTNfMjQ5/MDAxNzYwMzM0Mzk5NTQ3.sFP65eKAqCQ7QdL7g1R0C-71hW_sem0VpF91qpyfnDog.D9Ks1nDMUWkSHX0RYyF2exPoDqo3sS67PV1Ki5sfh9Mg.JPEG/8F5B7001-F75B-441F-B702-BEFA5B270DCF.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDhfMjE4/MDAxNzUxOTQ2OTg5Nzgw.HsyYCD2PQTMfmKidniazm-zu7goZ6XXdTo_W6OTqOo4g.xjefSQ4j6pcdDs7XeDeXRtLB2j_JySX5jmkTpYnuqsgg.JPEG/F0C6D6BA-855D-439D-9BF7-7FA7810F48C6.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

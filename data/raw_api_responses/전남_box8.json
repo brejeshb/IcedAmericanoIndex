@@ -1,0 +1,2916 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 42,
+      "count": 42,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.704703146068,
+          "minY": 34.9917,
+          "maxX": 126.710201573034,
+          "maxY": 34.996204504504504
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.707452359551;34.99395225225226",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "37647529",
+        "name": "카페파밀리에",
+        "x": "126.7061204",
+        "y": "34.9933016",
+        "distance": 0.141,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 823,
+        "averagePrice": 5000,
+        "address": "전라남도 나주시 이창동 727-6",
+        "roadAddress": "전라남도 나주시 영산포로 121",
+        "abbrAddress": "이창동 727-6",
+        "shortAddress": [
+          "전남 나주시",
+          "영산포로 121"
+        ],
+        "displayContext": [
+          "케이크",
+          "카페",
+          "블루베리",
+          "분위기좋은",
+          "분위기깡패"
+        ],
+        "labelTheme": "데이트 맛집",
+        "microReviews": [
+          "과즙 가득한 딸기라떼와 에이드의 매력"
+        ],
+        "cardDescription": "과즙 가득한 딸기라떼와 에이드의 매력",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDdfNzgg/MDAxNzU0NTYwNjgyODEy.92c0q51MDdrSSsn55CD3oHU7Kwe-PkVdFEGQUpGMBY8g.0mwWZW0axd5QW8Y5hiEtua7dh0FUM7x4aBumHg-pGSMg.JPEG/20250807_160929.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjVfMjI0/MDAxNzU2MDkwODg3NDYx.JCE4RVd4HNIeNTNg7fkcdhBn6hJTGbmdljQKlmUw6JQg.z4C4hPaWRQUy2SD_XEo8sDt2wxTu-115GjxbdsqdCcIg.JPEG/IMG_1027.jpeg",
+          "https://ldb-phinf.pstatic.net/20201105_254/1604555976113eSNhB_JPEG/uyiZzdgBdt-rZOhDYRd4CQuJ.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjJfMTgz/MDAxNzU1ODMzMDc5NTUx.vTtUp-iDLRxA23DmNdPodwHvX-2nLvGt53dqR00128gg.Wb2I_5jQINgTbyp9AVkbdyw4q8-2ZzJkedwxSIzPYNMg.JPEG/1755832846160.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20201105_185/1604555980469P9e13_JPEG/Tfh-i3wHLJJwcxaVEzq5YVea.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjJfMjA3/MDAxNzU1ODQ1ODgxNTIw.QgDNxjbGc2RxlET-nB8StFRkx6cPYtupVaHKsTU-iSMg.sagPXBds6SCrr050uPKJyylZb3gATo9omeoBOgASD3gg.JPEG/20250822_155427.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20201105_270/1604555983806HrlDN_JPEG/JAQeMz1KbrxqoxUngVnTkMK3.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjJfMjY4/MDAxNzU4NTM3MTk4ODQ1.XwjlK1LyE6KzmLDBaQT_MJYomx-4sNZ4LRvs8j_aEQcg.KxuCWOM4tc_wG_RpDK2o_yM7mB9ed7cGjfb5GQDt6zQg.JPEG/20250922_162502.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDZfMTY3/MDAxNzU5NzQ5NDg1NjYy.5mI8EuurLAqGmTDa-KJQ0IPIXSQFzBdBlCKi2xtVwksg.fZjev3vmCMEIo6WJ9RUm2xH2oJxn_uEU3f4AeKttm_Eg.JPEG/20251006_171819.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MDlfODUg/MDAxNzQ0MTczMDQ0NTM5.gHTTn-MijoAkKENbRwW3LCA_Mu7z8vvdaH47HgqpvOwg.ATku_Xft7URFSUjy5tOZmxb7EHHjlInefvsF28gLljcg.JPEG/0CD00AB5-609F-4BA3-A346-583A02C27A39.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "37647529",
+            "bodySummary": "저도 작년에 남펴니와 함께 갔던 벚꽃명소 소개해드리려 해요 전남 나주에 있는 나주 파밀리에 카페 라는 곳인데요 파밀리에 카페 근처가 다 벚꽃으로 되어있어 보는 내내 만족 하실것 같",
+            "url": "https://m.blog.naver.com/qha7703/223368910735",
+            "nick": "봄투비",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMTNfODQg/MDAxNzEwMjY1Njk0NTU1.HaNpwbyd8D8yt8isWqfKH_FEZ4EP61p1xKdC_ln_gKgg.AlNtC_GeQUgD_qzWUPL313cLaBXKifuzxZJ6rNQoB1og.JPEG/profileImage.jpg"
+          },
+          {
+            "sid": "37647529",
+            "bodySummary": "빵도 맛있어서 금세 후딱 먹어버렸네요! 산책 후 커피를 마시고 싶을 때 카페파밀리에 어떠세요? -주차는 갓길에! (자리 많아요) -반려견 동반 안돼요! ♀️- 나주사랑카드 가능 ♀",
+            "url": "https://m.blog.naver.com/urangddorang/223306159885",
+            "nick": "유랑또랑",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA3MDdfMjEg/MDAxNjg4Njg4OTgwNjQw.2qJi4tAfJfruD1fxdWMXoafRJoOR7jMII_s3LznmNgwg.oXoCdt1efJdPX0q0BBDjBSqZW9bQ1qFjpWYg2KdDb8Ug.PNG.yunmi8800/profileImage.png"
+          },
+          {
+            "sid": "37647529",
+            "bodySummary": "테이블마다 놓인 화병이 이뿌다 꽃도 자주 바뀌고! 2층은 안 올라가봤는데 1층은 이런 단체좌석이 많다 역시나 트리! 레고 산타 이뿌다 왕리본! 싸장님 센스 아주나이스 이건 가을에 ",
+            "url": "https://m.blog.naver.com/net449t/223296418370",
+            "nick": "NABANG",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEwMjVfMjYw/MDAxNjk4MjA4MzM3MDAx._wIaHP2SOV94LnVPIy2ZClMTfausq7tvH4gJp0odvL0g.jvpbbYJynm-XOj7VCDEKH6-Gi41e99oQRgpvbuyS3KAg.JPEG.net449t/profileImage.jpg"
+          },
+          {
+            "sid": "37647529",
+            "bodySummary": "파밀리에 ➖ 전남 나주시 영산포로 121 ➖ 매일 09:00-21:30 ➖ 061-336-6990 ➖ 골목주차이용 안녕하세요! 오늘도 저의 글을 보러 와주셔서 감사합니당 ♀️ 나주",
+            "url": "https://m.blog.naver.com/tndls6406/223284578604",
+            "nick": "수갈",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAyMTZfMjAz/MDAxNzA4MDcyODAzMzIx.2bR6LMdSIuVU8yguSRb6vwBbDStuoA-e0pS9bAtY5oog.c05xva5nWs7kVA0bc3Cqyb4PsGeYpkLBuFwdlTOMHWcg.PNG.tndls6406/profileImage.png"
+          },
+          {
+            "sid": "37647529",
+            "bodySummary": "2층 2층에도 다양한 형식의 테이블이 있었고 1층처럼 독립된 공간에 단체석이 있었어요. 테라스 자리도 몇 개 있습니다. 여기가 벚꽃 명소라 봄에 많이 북적인다는 글이 보였는데 테라",
+            "url": "https://m.blog.naver.com/lmyand/223222823473",
+            "nick": "융쭈맘",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAyMTBfMTUx/MDAxNjc2MDEzMzEzMjQ3.uVcghl7aga-wLanVbvFoIYHX3vXl3gLr87g_DxAnZFsg.9XaLc9k2HVSTVNjo3mhEFyzPGIXWU9AKpm-SBjGteSog.PNG.sm5269/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "id": "1479579834",
+        "name": "돈수복",
+        "x": "126.7072803",
+        "y": "34.9947402",
+        "distance": 0.089,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 22,
+        "averagePrice": 15000,
+        "address": "전라남도 나주시 이창동 729-9 단독",
+        "roadAddress": "전라남도 나주시 영산포로 142",
+        "abbrAddress": "이창동 729-9 단독",
+        "shortAddress": [
+          "전남 나주시",
+          "영산포로 142"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "진짜 재사용이 일절없는 한식 전문점",
+        "description": "진짜 재사용이 일절없는 한식 전문점",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTNfNTIg/MDAxNzYwMzM0NzgzNzk5.-6IPXF4IOVXe078xXmlqYPIINhNOHSY1dHNTwfQjBW0g.ZXp-zMYrc7P0A7bUWlvHF2gdrSYIATX4sL8Jda1t25Ig.JPEG/20251013_142720.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTVfMjQg/MDAxNzYwNTExMzk3NzEz.OTohoHn55vv6WjUCwI_177elQml-x24f6C3Vtp0lm_Qg._JNOFiJXMpplc3x9oxFNKkTsg4LOjtUDUIArDRaUTzwg.JPEG/20251015_124533.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240604_20/1717485381810smqMY_JPEG/1.jpg",
+          "https://ldb-phinf.pstatic.net/20240604_54/17174853817932VibL_JPEG/3.jpg",
+          "https://ldb-phinf.pstatic.net/20240604_16/1717485381912CAAl1_JPEG/4.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 3,
+        "id": "1318827518",
+        "name": "등대샤브",
+        "x": "126.7082004",
+        "y": "34.9938765",
+        "distance": 0.069,
+        "categoryName": "일식",
+        "categoryPath": [
+          [
+            "220036",
+            "220038",
+            "220083",
+            "220821"
+          ]
+        ],
+        "category": [
+          "일식",
+          "샤브샤브"
+        ],
+        "reviewCount": 133,
+        "averagePrice": 20000,
+        "address": "전라남도 나주시 이창동 736-4 1,2층",
+        "roadAddress": "전라남도 나주시 풍물시장1길 23",
+        "abbrAddress": "이창동 736-4 1,2층",
+        "shortAddress": [
+          "전남 나주시",
+          "풍물시장1길 23"
+        ],
+        "displayContext": [],
+        "labelTheme": "일식",
+        "microReviews": [
+          "온 가족이 만족하는 완벽한 메뉴 구성"
+        ],
+        "cardDescription": "온 가족이 만족하는 완벽한 메뉴 구성",
+        "description": "등대샤브는 프리미엄 소고기 무한리필 샤브전문점 입니다 저희는 등대텃밭에서 직접재배한 신선한 재료로 준비한 소고기 무한리필을 자랑합니다 가격은 단 18900원으로 소고기 야채 버섯 샐러 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDRfNCAg/MDAxNzU0Mjg1NTM1NjIz.5y0dWSLS0Jxa47Lpe8wWCj8BBIJF4fZSSsVdLs2VKy0g.WKuzWqHVgOnhPBhgftnqdv1CQzJ-KTw93ClJDj3yWZYg.JPEG/CE27144D-67D0-4217-B607-3F18BE1BA9EE.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDVfMTM3/MDAxNzQ5MTAxNDUxNDc1.V1QlCFVDLUxeU0T-ks8H0AVLGc8tSL1yFfkHlyZGaRAg.DtVdpjhuYF3PF8BUJ07DKG7O49GwQnZ5FUkqkX2TPpQg.JPEG/20250601_130532.heic.jpg",
+          "https://ldb-phinf.pstatic.net/20251010_210/176008304831400N0D_JPEG/1000042869.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjhfMjUy/MDAxNzU2Mzg2MjEyMDk2.SLz--zo3w6JZHTwqndMMAfcndI22LDesrN1YXqUOwZUg.BbuDKALVK-Rl_a_IAxTRRUvnaktmMPYhd9frrtudWCQg.JPEG/20250828_122700.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250927_216/1758965784178SML5I_JPEG/1000042622.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MzFfMjA0/MDAxNzUzOTE5NTA4OTY2.pFgfrQaFi3Z6vpOq3e8_dd5S1ix-MMvzCpkw2cNyyR8g.jzRND9Cy9LTPtgQ3zJkmi6_7ayd7Hy6bWxA7TkgBYPcg.JPEG/20250727_131903.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250924_97/1758668247773S7qD0_JPEG/1000042508.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTNfMjU2/MDAxNzU3NzU1NTc1OTc0.zlmaAIr5PbW4oRwwHzWk4jTmxVxU8vlNIhPhnchXkMMg.4xdyfCdqz-1LM4tFadhIzPOpNqlJzqDR4a1V9T_ypkcg.JPEG/673131AF-0987-4CD1-A6CB-0243B7CA8603.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjlfMTYx/MDAxNzQ4NDc3OTA2MDYz.9ht2Ck_jr2RO9U7D3l90LSXr_jgES8_HmK94YCxhn3og.Xdvz2PfdZJ9Egopv95cxGtBL6quohA3jisfoQ3x4f6gg.JPEG/IMG_4202.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDFfMjUy/MDAxNzQ4NzczNzk4MDQ3.TPlYagmXil5SCi6gfeAybn-QtIadNcDfctAvb40g2Lsg.a7bJxxaqYqdjTY8BR5AWrVG6ifwx4D9OFizIT94Kjaog.JPEG/20250531_173548.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220821",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 4,
+        "id": "1833821656",
+        "name": "은성태국식당",
+        "x": "126.7059111",
+        "y": "34.994153",
+        "distance": 0.142,
+        "categoryName": "태국음식",
+        "categoryPath": [
+          [
+            "220036",
+            "220043",
+            "220124"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "태국음식"
+        ],
+        "reviewCount": 36,
+        "averagePrice": 10000,
+        "address": "전라남도 나주시 이창동 726-7",
+        "roadAddress": "전라남도 나주시 이창택지길 7-1",
+        "abbrAddress": "이창동 726-7",
+        "shortAddress": [
+          "전남 나주시",
+          "이창택지길 7-1"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [
+          "풍부한 건더기가 가득한 태국식 스프"
+        ],
+        "cardDescription": "풍부한 건더기가 가득한 태국식 스프",
+        "description": "태국 현지의 맛을 그대로 살려서 너무 맛있게 음식을 청결하고 성실하게 최선을 다해 꿀꺽하고 드실수 있도록 만들어 드릴 것을 약속드립니다. 전라도 태국 1등 맛집 은성태국식당 방문 해주셔",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjlfNzYg/MDAxNzUzNzgyMzU3NDQ1.ZZ52jMJ0n-3NqUJXGDz2r2eZ7ht7rdscF8VL7JmPd9Ig.sI6UprQ6LLtwZbO65w2LK-lrwE7Ii0fQQbz-UKwyKdcg.JPEG/1000008895.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MzFfMjM0/MDAxNzQ4NjYzMjE0MjI0._YFvITh_jzZ5PE5OaiMsLPRs68UZiXJFsaA3_ZVjfkog.VP0THJrAjHOkj9eKTP3tXP7uGCi426AluW0wscHG6fsg.JPEG/1000008263.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240629_226/1719653744577tFbM8_JPEG/1000044275.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTlfMTQ4/MDAxNzUwMzI5NTYzMzQ4.kzzugR0kT9BqlOZmEsbOb3WMfYp91XkyfdYfoRQT_P8g.l1gnA-bjqKb-RWBX6BMC5ZQBR74Wcu_uoAME8fZMpIIg.JPEG/1000008432.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240629_266/1719653706993IVES0_JPEG/1000044371.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDlfMTE1/MDAxNzQ2NzY4NTkyMDYw.r6Se-YSaslpgQFr3ggaXQRyoezl5_Rt1-IcauL_iJM0g.IilmeWanlVG8ptqDjuA41BaaG5drPe8lGTuSoiK3IIMg.JPEG/20250509_134902.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240412_99/17129030578854CgIk_JPEG/1000034284.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDNfNzEg/MDAxNzU5NDU1NDA1NzE0.INB0V2nc4k3QQgYJvTOEaGhUKeWmETKiSoHcOreox28g.JYEiW3p9kAzx11fR6uVqYu0URMC0OII5AoUGPEafabsg.JPEG/1000011288.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MzFfMTc5/MDAxNzUzOTQ4MDgzODgw.yYOrqiezDUJQCdjPDgkOBq7YUs6_73Fo63IFQVlqKu8g.u4MSta8aMpjN9cstW7jaadgfUGCo3gOg2J_kUE0ze9Ug.JPEG/1000008896.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjJfNTAg/MDAxNzQ1Mjc1OTY1MDQx.lz_JMKu0kO-w2NKg6yTkLfD0yXmgxOADmG8FEahNUVIg.IyJZQl1cA5DPSjXVc7L2CWMw98P-D6rX5kHlcLyt4iUg.JPEG/1745275723522.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220124",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1833821656",
+            "bodySummary": "진짜 태국 분이 요리하는데 대신 음식이 나오기까지 시간이 오래 걸려서 여유롭게 시간을 잡고 가야 한다고 하더라고요. 은성 타이 레스토랑 영업시간 : 12:00~24:00 (매주 수",
+            "url": "https://m.blog.naver.com/whatsupshy/223251242193",
+            "nick": "샤이SHY",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA5MDRfMzcg/MDAxNjkzNzk4NzQzMzU5.BzoYtcffcLcRP2yj87b1XodfQ8aZ_mMqKsFBIf15wVgg.aGdEmO3dDF2rIB4YtUD9uSjx_sFdf5xXWdWKUwsPCu8g.PNG.ourwishstory/profileImage.png"
+          },
+          {
+            "sid": "1833821656",
+            "bodySummary": "위치 : 전라남도 나주시 이창택지길 7-1 꿈의 그린 1층 은성 타이레스토랑 연락처 : 010-2239-9131 영업시간 : 낮 12시 ~ 24시까지 단, 수요일은 휴무일 메뉴 :",
+            "url": "https://m.blog.naver.com/bongova89/222915418336",
+            "nick": "봉오빠",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA5MjZfMjQy/MDAxNjMyNjY2MjQxOTY5.jdM-K3nL8Q4ZkFi9wk2mfKwlYbVHqQ2ZnnxDkap3t4Yg.601BKv39hfTW0zy-Ib1UE9EV_2yJKMuR3dOOYg681gAg.JPEG.bongova89/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "id": "1648713278",
+        "name": "카페 배러",
+        "x": "126.7082379",
+        "y": "34.9957898",
+        "distance": 0.217,
+        "categoryName": "브런치카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "1006039",
+            "1006040"
+          ]
+        ],
+        "category": [
+          "브런치카페"
+        ],
+        "reviewCount": 122,
+        "averagePrice": 5000,
+        "address": "전라남도 나주시 이창동 506-29 1층",
+        "roadAddress": "전라남도 나주시 영산포로 158",
+        "abbrAddress": "이창동 506-29 1층",
+        "shortAddress": [
+          "전남 나주시",
+          "영산포로 158"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "나주배를 이용 다양한 디저트를 만들고 있어요! 나주배의 화려한 대변신! 좋은재료만 엄선하여 만들어 맛도 좋고 영양에도 좋답니다~!",
+        "description": "나주배를 이용 다양한 디저트를 만들고 있어요! 나주배의 화려한 대변신! 좋은재료만 엄선하여 만들어 맛도 좋고 영양에도 좋답니다~!",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20251008_195/1759890562268FX1Xe_PNG/1000006865.png",
+          "https://ldb-phinf.pstatic.net/20251009_110/1759965247715SCvlp_JPEG/1000006997.jpg",
+          "https://ldb-phinf.pstatic.net/20251008_31/1759890554925yfYFX_JPEG/1000006864.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1006040",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1648713278",
+            "bodySummary": "안녕하세요~ 아만다입니다. 요즘 워홀 준비로 너무 바빠서 블로그를 못쓰고 있다가, 아 가기 전에 이 카페는 꼭 리뷰하고 가야지 하면서 저의 영산포 최애 카페 '브레드158'에 들렸",
+            "url": "https://m.blog.naver.com/gkdpwls73/223300277687",
+            "nick": "아만다",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMDhfMTIx/MDAxNzA0NzA4OTA5MTM3.rxuHtcbI0KhVSTTuTROU-srYxGyoXCtGEbT66BKSEVEg.jyvs1T0lh7ofPP7awsL0uGw4ECRxSC77fD5GTDECtNMg.JPEG.gkdpwls73/profileImage.jpg"
+          },
+          {
+            "sid": "1648713278",
+            "bodySummary": "머프야 좋은 주인 만나서 잘 지내고 있니? (아련아련) 공용 주차장에 전기자동차 충전기도 있어요. 카페 가는 길에 요렇게 독특한 건물도 보여요. 아마도 일본가옥?! 적산가옥? 지주",
+            "url": "https://m.blog.naver.com/potata15/222535725456",
+            "nick": "찹쌀인형",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAxMjNfMjk4/MDAxNjQyOTE3MjY3ODIx.2BUsusDJ8ARrQB62LVHKBIZdwyUzl3zilKvChqc0ptog.ZUT4NNCxm7DtKIGvFawPspWDjuMGscCkWXYmvOc8MoEg.JPEG.potata15/profileImage.jpg"
+          },
+          {
+            "sid": "1648713278",
+            "bodySummary": "우리의 훼이보릿 카페 브레드158 나주에도 분위기 좋고 음료맛 좋은 카페가 엄청 많이 있는데, 그 중에서 우리가 가장 애정하는 카풰인 브레드 158 사장님 혼자서 주문받으시고 음료",
+            "url": "https://m.blog.naver.com/skdk1324/222419453805",
+            "nick": "육식주의자김덕배",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20110705_13/skdk1324_1309876473711_99T7DV_jpg/r.jpg"
+          },
+          {
+            "sid": "1648713278",
+            "bodySummary": "윧방입니다. 오늘은 나주 영산포 쪽에 있는 나주 #배음료와 빵 전문점 브레드158 내돈내산 방문했습니다. 나주시 보건소 바로옆에 있었고 길바로 옆에 있습니다. 가게 바로앞에 주차공",
+            "url": "https://m.blog.naver.com/yde1992/222357288912",
+            "nick": "노곤노곤 블록",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTAyMjdfMTk4/MDAxNjE0NDIzMTc4MzIx.X6xO-22ik6GE6C50fuy1akJ9b1NbNmNW7RHMyrGFtGcg.D2XbwzMQAKml6-R5Bfjo7cI5gs_5JvNA1rzL2TTbyqgg.PNG.yde1992/profileImage.png"
+          },
+          {
+            "sid": "1648713278",
+            "bodySummary": "내가 나주에서 젤 좋아하는 디저트카페 지만생일 기념 케익을 부탁드렸는데 바쁘신 중에도 만들어주셨다. 신기하게 사장님이 같은 아파트단지 이웃이셨다 행복한 인연♡ 샤인머스켓이 가득 들",
+            "url": "https://m.blog.naver.com/enshu_c/222132052354",
+            "nick": "차베티",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAyMjhfNjMg/MDAxNzA5MDc1Nzg5NTk5.XfROmEVkfE6CInMUnB7_5ZgXhA22p5aNRjpOnt2ORCsg.KoV3PoRgP-Jz5HSZUFtJGiGeMnfjacRyuMvK199zXlsg.JPEG/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "id": "1148741324",
+        "name": "커피수",
+        "x": "126.7082357",
+        "y": "34.9933207",
+        "distance": 0.1,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221212"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 37,
+        "averagePrice": 0,
+        "address": "전라남도 나주시 이창동 760-1 커피수",
+        "roadAddress": "전라남도 나주시 풍물시장2길 26",
+        "abbrAddress": "이창동 760-1 커피수",
+        "shortAddress": [
+          "전남 나주시",
+          "풍물시장2길 26"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "전라남도 나주시 이창동 760-1 커피수",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDRfODYg/MDAxNzU5NTc1ODY4ODc3.qfLp-QWwhY1lcfDAYMb74sMeXtUNgK07JUJ6jSJlF-cg.xG6Zw_4Gq8curCGXcYMO3ItzUQpkA3g4UPu6-WwoO6Eg.JPEG/20250916_093058.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjFfMTU0/MDAxNzU4NDQyNTEzOTA2.AjVe-HaoUZdnSIPZ9HE27HnDR3VijGSJ9Rmf0TfSxlgg.LWIEzDMzOJfU7n_RYGsAgkqkDkkQF66d7y0DrHgrpKEg.JPEG/20250921_165435.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221212",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 7,
+        "id": "2077836249",
+        "name": "동수리오리날개튀김",
+        "x": "126.707016",
+        "y": "34.9949284",
+        "distance": 0.116,
+        "categoryName": "오리요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220769",
+            "221553"
+          ]
+        ],
+        "category": [
+          "한식",
+          "오리요리"
+        ],
+        "reviewCount": 10,
+        "averagePrice": 20000,
+        "address": "전라남도 나주시 이창동 719-7 104호",
+        "roadAddress": "전라남도 나주시 영산포로 141",
+        "abbrAddress": "이창동 719-7 104호",
+        "shortAddress": [
+          "전남 나주시",
+          "영산포로 141"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [
+          "떡볶이와 오리튀김의 맛있는 콜라보"
+        ],
+        "cardDescription": "떡볶이와 오리튀김의 맛있는 콜라보",
+        "description": "정성껏 튀겨낸 바삭한 오리날개튀김을 여러분들께 가장 먼저 전하고 싶습니다 부디 귀한 걸음 하시어 자리를 빛내주시길 바랍니다",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTZfNTQg/MDAxNzQ3NDAwODA1MjU1.V_jA7gvrTks-SMB_n5JqapEEEvtpVrj0KmY_qk45zvYg.GkiPU1fJZtf8LYvnUAs6honRy3Vas1aV-L2inf-qUJMg.JPEG/IMG_9024.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjRfMTY3/MDAxNzQ4MDc2MDA1OTI4.4ODI4YpVd2M5fMw3GgQjcdfMrziskvh_jvS9-Z5fTkAg.L39ClwkEQq71uEQtmJgbdfSPkmbPXdYmVRU2_iMLHjgg.JPEG/420A9F3E-F6EF-4195-A5B8-CD53A67F717B.jpeg",
+          "https://ldb-phinf.pstatic.net/20250429_55/17458962632313eEsa_JPEG/JPEG_20250429_120938_6058479825209334154.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDhfMjY4/MDAxNzQ2NzA5NjY5NzMw.Q0W0cAOAOWNEOtnOeg6eHQaNOFawjj_iyk4Vv47viHQg.lwmDCYxRiVVPVfEQBOtI_ePih0_4qtW2jo6laSygbCQg.JPEG/20250508_181932.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250429_1/17458946168933qX6s_JPEG/1000005873.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDlfMjEx/MDAxNzQ2Nzk1NTU5MjM1.02pXhzx2fQu-mOFht6lCrHKLOBty462zx9WmxEBPo0kg.FH8oEgAEC9IF1mobMDZxlc7aO5faZCS8SItaqaPC_hcg.JPEG/67CD4F1B-50F2-4620-A025-46A31658AC0D.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDNfMTQ4/MDAxNzQ2MjU3MTkzMTM1.29LQL_3r602EYrChqXnuwEDV0hwzcfRc7uneh8DqPZwg.-kVtmHHGOkPJdc814H4akVp-P6xammosvciCujbAjKog.JPEG/5E16F4C7-71D8-4E01-8755-F7EC8EA71BDC.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjZfNDYg/MDAxNzQ4MjU2MjQ5NTg2.2pkgBEXYIwka8LHugdjfGwAS8oXsq2DisWqOuWXsUXMg.7digqDEG9QE8avQBxNhAH3HPk-MX2ub6tBgU5RmYxUQg.JPEG/IMG_1546.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjNfOTYg/MDAxNzUwNjYyOTM4NDQy.aqPvxr1ngaItjH2eHXCU8TpeoeGwNDE10dOGdtY7PLYg.1u4wOkYE3nJJa4dhMOpwrg-kG2grI86RDKfto7QBm3gg.JPEG/60A779E1-62B2-4CFE-9866-8412ECE76688.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjlfNCAg/MDAxNzQ1OTA4MTM3MzU0.hVrr4IGsviiHPfL4pm6yRVEF9XS_ClcRe5LsoqL_XQQg.riOZHQ4XVJtMlM0n-QD0xmGb6gvtr77Sh8dX3KQUuwIg.JPEG/FFEC915E-0118-43F0-B7BA-59A8BE74067D.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221553",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 8,
+        "id": "1010708909",
+        "name": "문정국밥",
+        "x": "126.7071498",
+        "y": "34.9920807",
+        "distance": 0.21,
+        "categoryName": "국밥",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220061",
+            "220623"
+          ]
+        ],
+        "category": [
+          "한식",
+          "국밥"
+        ],
+        "reviewCount": 9,
+        "averagePrice": 5000,
+        "address": "전라남도 나주시 이창동 764 문정국밥",
+        "roadAddress": "전라남도 나주시 풍물시장2길 12-14",
+        "abbrAddress": "이창동 764 문정국밥",
+        "shortAddress": [
+          "전남 나주시",
+          "풍물시장2길 12-14"
+        ],
+        "displayContext": [],
+        "labelTheme": "생방송오늘저녁 방영",
+        "microReviews": [],
+        "cardDescription": "영산포 장날만 영업합니다^^ 손님카세!!!낙지사오시면 낙지국밥 낙지비빔밥 낙지초무침도 맛있게드실수있어요",
+        "description": "영산포 장날만 영업합니다^^ 손님카세!!!낙지사오시면 낙지국밥 낙지비빔밥 낙지초무침도 맛있게드실수있어요",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20240304_236/1709539011603RHX8r_JPEG/1000015812.jpg",
+          "https://ldb-phinf.pstatic.net/20240304_172/1709538998935AqnqX_JPEG/1000015811.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220623",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": true,
+        "broadcastInfo": {
+          "name": "생방송오늘저녁",
+          "menu": "낙지국밥"
+        },
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 9,
+        "id": "1853918386",
+        "name": "복고다방 영산포점",
+        "x": "126.7070583",
+        "y": "34.9950044",
+        "distance": 0.122,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "230911"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 69,
+        "averagePrice": 5000,
+        "address": "전라남도 나주시 이창동 719-7 복고다방",
+        "roadAddress": "전라남도 나주시 영산포로 141",
+        "abbrAddress": "이창동 719-7 복고다방",
+        "shortAddress": [
+          "전남 나주시",
+          "영산포로 141"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "친절한 동네 카페 복고다방 영산포점 테라스있는 홀매장과 전메뉴 테이크아웃 가능합니다 단체 주문이 필요하실 경우 미리 연락주시면 신속하게 픽업해가실 수 있도록 노력하겠습니다 (영산 ",
+        "description": "친절한 동네 카페 복고다방 영산포점 테라스있는 홀매장과 전메뉴 테이크아웃 가능합니다 단체 주문이 필요하실 경우 미리 연락주시면 신속하게 픽업해가실 수 있도록 노력하겠습니다 (영산 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDNfNCAg/MDAxNzQ2MjY0OTY5MDM1.kTtcINlOdtCB8BR5FsK9iIAvdGy5uFPOD2TP_zz3mE8g.i1ip7i2J5mYX0p32sKScE44wsy9SzNBHz-EuRmVoS5sg.JPEG/20250503_182417.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20211018_30/1634537200472oktBp_JPEG/%BA%B9%B0%ED%B4%D9%B9%E6%C0%FC%B0%E6.jpg",
+          "https://ldb-phinf.pstatic.net/20211019_176/1634619428286lLmq1_JPEG/image.jpg",
+          "https://ldb-phinf.pstatic.net/20211019_18/1634619461800JTP9c_JPEG/image.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "230911",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 10,
+        "id": "1008749678",
+        "name": "엄마참숯구이",
+        "x": "126.7062132",
+        "y": "34.9934897",
+        "distance": 0.124,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 54,
+        "averagePrice": 20000,
+        "address": "전라남도 나주시 이창동 727-5 . 1층",
+        "roadAddress": "전라남도 나주시 영산포로 123",
+        "abbrAddress": "이창동 727-5 . 1층",
+        "shortAddress": [
+          "전남 나주시",
+          "영산포로 123"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "엄마참숯구이 같은 경우는 항상 친절하고 좋은 음식을 제공합니다 .",
+        "description": "엄마참숯구이 같은 경우는 항상 친절하고 좋은 음식을 제공합니다 .",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDJfMjAx/MDAxNzU5Mzc2NDc0NTgz.hwfk_WAr4ZhqQlCV4S4PgC1jZzbSGXcf0S5fq8YCJ-Qg.4_7Hyav_Q69DuDcNcmK4VMHvewrSpnKhIX3mWWSRspsg.JPEG/0DD75266-5338-42FB-870F-9A44D173E15F.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDJfMTg3/MDAxNzU5Mzc2MzgxMTQx.UDrxYoe6DbbxMe4vAsH_iHCdkvQ4YuyMR-yyfyt2Cqkg.yOkUr6pdQGkAVN-13ym4KtiBjwQoMBaGfq5F36xjecMg.JPEG/B0349933-59D3-4B20-B951-E563CD135ED8.jpeg",
+          "https://ldb-phinf.pstatic.net/20230328_281/1679989910419b00L8_JPEG/KakaoTalk_20230328_165102189.jpg",
+          "https://ldb-phinf.pstatic.net/20230328_234/1679989910393j424a_JPEG/KakaoTalk_20230328_165102189_01.jpg",
+          "https://ldb-phinf.pstatic.net/20230328_86/1679989810391MkHzf_JPEG/KakaoTalk_20230328_164721148.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 11,
+        "id": "1785568434",
+        "name": "장어원",
+        "x": "126.7085516",
+        "y": "34.9922229",
+        "distance": 0.217,
+        "categoryName": "장어,먹장어요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220076",
+            "220799",
+            "1006317"
+          ]
+        ],
+        "category": [
+          "한식",
+          "장어,먹장어요리"
+        ],
+        "reviewCount": 40,
+        "averagePrice": 40000,
+        "address": "전라남도 나주시 이창동 761-6 1층",
+        "roadAddress": "전라남도 나주시 풍물시장2길 20-13",
+        "abbrAddress": "이창동 761-6 1층",
+        "shortAddress": [
+          "전남 나주시",
+          "풍물시장2길 20-13"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [
+          "통통하고 싱싱한 민물장어의 풍미"
+        ],
+        "cardDescription": "통통하고 싱싱한 민물장어의 풍미",
+        "description": "영암에서 직접 기른 무항생제 자포니카종 민물장어를 숯불구이로 판매하고 있습니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjVfOTEg/MDAxNzYxMzY2MDUxNzUz.oqKj-Bjlw8fZPQySl1v-cCouT9SuWpK_mlnMEp08gfEg.rHL9IjVIkkUSaM3ojfEHOAd4UgNVifdoy08eSBPZISgg.JPEG/20251025_121034.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTZfOSAg/MDAxNzQ0ODAwODg4NDk2.913m5edmSijBzhajY4IYqs8jQ87jvzKpYqQVQ_KsaZkg.pKp9fzH678lqzqt_Tbjymj9vFwk9Sgs6hxC8E32D2Iwg.JPEG/IMG_20250416_183213.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240302_290/1709344371461rVfKf_JPEG/IMG_0111.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDFfMTAx/MDAxNzQ4NzUwMTMzODQ5.XSHYW93N-z5dmKvAnIe5_5-wSTPMo-y3WxmS9ruyRVog.j82OYZ-L8dKU6dzvyVoFQF25Iy--pIpPkKyJbAUizsQg.JPEG/21D9C7B5-3041-49E2-A5BF-D457F3584CDB.jpeg",
+          "https://ldb-phinf.pstatic.net/20240515_240/17157605081637rJu8_JPEG/IMG_0145.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTFfMTQ3/MDAxNzQ0MzY5Njg3NzA0.TtPPUEkuXY8_gNNs1JJJGO-AXojkYWEvdYeGNX7OJw4g.Os0R5Qk2zgRn6pRGSGjlO1n1OpW4kO2rjFximl0idjAg.JPEG/445E52FE-D3A2-4361-B094-9FA9ED367508.jpeg",
+          "https://ldb-phinf.pstatic.net/20240515_253/1715760509700kKdoJ_JPEG/IMG_7831.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTdfMTU3/MDAxNzQ0ODQ1NzY4ODk4.x8M34868DlSFaMcXYfTf0Cs98b513U48FeZpQTFbR6wg.dnxELtKKsiMp3WdQ2XldCiAWc5LyfPSQREXoFv5Mj-Mg.JPEG/8327538B-176E-4FCF-864D-D4789E36C6A2.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTRfMTQ2/MDAxNzQ0NTkzNzAwNDk3.8HHOPJMj1h1vuWpPcMo18-Pnbo9ixDu4ZL6aSS8gn7cg.HJKQaVKpvl-z-K-CoULWMTsvEwzkVScT8c5PF6ASGaIg.JPEG/20250413_110635.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMzBfOCAg/MDAxNzYxODE5OTc1Mzg1.X_yoBjN2XHs-vstYVNlDEM6J99dvqb8WFo18iEM6bZMg.FENsPP6B92OQoMrbBFCl-1Mr6eCn8EimKT_VrmCeqBwg.JPEG/20251030_192522.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1006317",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 12,
+        "id": "1106395981",
+        "name": "영산포뼈해장국",
+        "x": "126.7067636",
+        "y": "34.9926486",
+        "distance": 0.158,
+        "categoryName": "해장국",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220068",
+            "220693"
+          ]
+        ],
+        "category": [
+          "한식",
+          "해장국"
+        ],
+        "reviewCount": 53,
+        "averagePrice": 19000,
+        "address": "전라남도 나주시 이창동 731-4",
+        "roadAddress": "전라남도 나주시 풍물시장2길 7",
+        "abbrAddress": "이창동 731-4",
+        "shortAddress": [
+          "전남 나주시",
+          "풍물시장2길 7"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "전라남도 나주시 이창동 731-4",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTJfMjQg/MDAxNzYwMjU5MTE0MjIz.odLE6OzwLTMAH5gZzVZFByJ3QKH8IU0gjxrWouS8qHEg.1OEWbN4YLe2crCeA9vsMnII5WSFyI7oZiMbr9LsrCR8g.JPEG/1000011734.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220693",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1106395981",
+            "bodySummary": "영산포에서 강연듣고 복귀하는 길에 출출하고 으슬으슬한 몸 녹일겸 뜨끈뜨끈한 뼈해장국 먹고 왔습니당 영업시간 08:00 - 20:00 정 기 휴 무 매 주 월 요 일 대신에 장날은 ",
+            "url": "https://m.blog.naver.com/tlsrhdrhkeo/222999680823",
+            "nick": "위위",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAyMTNfMjky/MDAxNzA3Nzk4NjI4ODE4.3e4mEyBneUdtpbpXjAlqFY6SgwEdhK2XJmgKUc1OdcAg.PWVFKziVndPyDQUq1zGaNdVhclz3IIfCBjI8X81uNy4g.PNG.tlsrhdrhkeo/profileImage.png"
+          },
+          {
+            "sid": "1106395981",
+            "bodySummary": "밑반찬은 아래와 같고 셀프 반찬이 있어요. 묵은지가 정말 맛있더라고요. 짜잔~!! 드디어 뼈해장국이 등장했습니다. 그동안 먹어봤던 뼈해장국은 약간 맑은 느낌이었다면 영산포 뼈 해장",
+            "url": "https://m.blog.naver.com/weluvv/222716627992",
+            "nick": "노멀라이프",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA3MjhfOCAg/MDAxNjU5MDEwOTcxMzM5.DxDeuIrLq32Lwzxw4udtWu7DAAoSkDAE2s8a2MFvhKQg.u4Rei4AsD2lL-2Rvk5AHd00vGU_4L6TpDQ1sz3CCPi0g.JPEG.weluvv/profileImage.jpg"
+          },
+          {
+            "sid": "1106395981",
+            "bodySummary": "영업시간 : 8:30 ~ 20:00 (시간 변동 있음) 매주 월요일 휴무 영산포 풍물 시장 안에 있어요 영산포 풍물시장 (장 날) 5 단위 날짜가 장 날 입니다 ㅎㅎㅎ 시골스러운 ",
+            "url": "https://m.blog.naver.com/a0723y/222667511044",
+            "nick": "팔척귀신",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAxMDRfMTE5/MDAxNjQxMjUxNjgyMzc5.Qsb2JVzukjX_8BSv3GfLnYYiD2R33ZDrREbM0fmUDaEg.-qZbh4zLRV58exLorrYs5K-P498e97ADhSfLn8gb--og.PNG.a0723y/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 13,
+        "id": "17156864",
+        "name": "미주회관",
+        "x": "126.7094027",
+        "y": "34.9924948",
+        "distance": 0.241,
+        "categoryName": "소고기구이",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220764",
+            "221440"
+          ]
+        ],
+        "category": [
+          "한식",
+          "소고기구이"
+        ],
+        "reviewCount": 57,
+        "averagePrice": 23000,
+        "address": "전라남도 나주시 이창동 759-8 미주회관",
+        "roadAddress": "전라남도 나주시 풍물시장1길 1",
+        "abbrAddress": "이창동 759-8 미주회관",
+        "shortAddress": [
+          "전남 나주시",
+          "풍물시장1길 1"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "전라남도 나주시 이창동 759-8 미주회관",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDhfMjg5/MDAxNzU3MzIyMDgzMjEy.gJn2kh9pltaykv6gWINU3j249vzrNnp0c7DMCpOhfJMg.WM7GYmjWcNaM7SwV8DCJh6zsPxrG7JdtCW_WqivMIggg.JPEG/20250527_125759.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDFfMjU5/MDAxNzU0MDIyODY5ODkx.62xk2qFLWEBkX7RxKd2YldnAHUrdTNxiol2MJQkBxqIg.7NMobvPRuXl_4YVD46VMPqK3EZ-gfXKPyie2aKb8nWIg.JPEG/20250527_125759.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221440",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 14,
+        "id": "1142112153",
+        "name": "황금어장민물장어",
+        "x": "126.7079313",
+        "y": "34.9928104",
+        "distance": 0.134,
+        "categoryName": "장어,먹장어요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220076",
+            "220799",
+            "1006317"
+          ]
+        ],
+        "category": [
+          "한식",
+          "장어,먹장어요리"
+        ],
+        "reviewCount": 282,
+        "averagePrice": 30000,
+        "address": "전라남도 나주시 이창동 761-9",
+        "roadAddress": "전라남도 나주시 풍물시장2길 20-3",
+        "abbrAddress": "이창동 761-9",
+        "shortAddress": [
+          "전남 나주시",
+          "풍물시장2길 20-3"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [],
+        "cardDescription": "전라남도 나주시 이창동 761-9",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjZfMTY0/MDAxNzQ4MjIzOTg4MDQw.9FBZ11wfhP_lCUOfRY0KgVUQG5U403fFBPEzU82BvCIg.x6Adevb9goeUzj2dzMHeyNjULOdX9kvdbNY_H0EbB1wg.JPEG/EFC8C673-B6DF-4FB1-B0D4-8611CAE0FEA0.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDlfMjAz/MDAxNzUyMDU5MjAwMzU0.2c1FC5zrceMEBCJ84PGbiVOes_vw3z8CQRemosVtpLwg.ph0XXt5oH69lB10_nqXiczFHJ6jq5brk0-3wx5NN4LEg.JPEG/20250628_125715.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20190423_228/1556017597740PyGO5_JPEG/8m6_IM3Kl0UAw1dXjPmGvcoN.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjZfMTAg/MDAxNzQ4MjIzNzg1NDg0.UljlH7x-ZmyV9KupKlmNd9dA_NmjT4uIyPOTAtDhmREg.5fP0CvYqKq70BeHAeW4INk4NQWWENHx2LIC8dKzHNA0g.JPEG/422FC9DB-581F-490B-87D8-B1FB08686085.jpeg",
+          "https://ldb-phinf.pstatic.net/20190423_177/1556017578356bVszi_JPEG/juNNGvpZdY9q93AJfc90XiRm.JPG.jpg",
+          "https://ldb-phinf.pstatic.net/20190423_87/1556017578320XI8Pb_JPEG/oe42OEF54mXsLJC4dbKIINyL.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1006317",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.44",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "1142112153",
+            "bodySummary": "#나주맛집 #황금어장민물장어 #민물장어 부모님댁에 내려오면 참새가 방앗간 못지나치 듯, 꼭 부모님과 함께 황금어장민물장어를 방문한다. 매일 10:00 - 22:00 운영하시는데, ",
+            "url": "https://m.blog.naver.com/qhal2610/223172731632",
+            "nick": "Mary",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20211016_33/qhal2610_1634384973567eEhUg_PNG/avatar_profile.png"
+          },
+          {
+            "sid": "1142112153",
+            "bodySummary": "기본 세팅으로는 양파절임, 된장, 소스, 생강, 깻잎, 마늘, 샐러드, 등 다양하게 차려진다. 손질되어 나온 장어 사진으로 보면은 알 수 없지만 실제로 보면 꼬리를 꿈틀꿈틀 움직이",
+            "url": "https://m.blog.naver.com/jeongeun_0206/223097413307",
+            "nick": "샌드",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA5MDZfMjI1/MDAxNjYyNDM3NTI5OTU1.5TAAvIoSWnKDDjbxMz6Cx_LKJWVhuqvn2gxdwv2Ekecg.cezt5Jt555d3lnNUja6YrMSyMeUIxgGbUuLICeqL2HUg.JPEG.jeongeun_0206/forest-g10e1ce711_1920.jpg/forest-g10e1ce711_1920.jpg"
+          },
+          {
+            "sid": "1142112153",
+            "bodySummary": "전남 나주시 풍물시장 2길 20-3 시장근처에 있어서 식사하러 오시기도하고 벚꽃길 근처라 좋아요! 매일 10:00-22:00 010-5771-6999 나주장어맛집 황금장어민물장어 ",
+            "url": "https://m.blog.naver.com/a_riha_a/223033296909",
+            "nick": "리하",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAxMTJfNyAg/MDAxNjczNTA5MjE0MTcy.LVL36cXyvyOxKHAccuQqTShUVbF_yoMPIEXaq64ny7Eg.tfdDS-w4AZ-8jMpVI1pwzrjnJI0GTZwwFxUjE2f9H1og.PNG.ahl0614/profileImage.png"
+          },
+          {
+            "sid": "1142112153",
+            "bodySummary": "안녕하세요 오늘은 장어집 리뷰입니다. 위에 위치 올려놓았으니까 참고하세요! 주차장이 넓은 편이고 실내도 좁지는 않지만 손님이 많은 편이니 오실 때 예약하시는 걸 추천드려요 매월 둘",
+            "url": "https://m.blog.naver.com/alphago1001/223013994593",
+            "nick": "FIRE HEART",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAyMTFfOSAg/MDAxNjc2MDg2OTA5Njgy.thD27mKodlsaTGeOIPYVgK0qnvvw-WdtpDE5krMdsLUg.1CTGsRi7wveA3QpAIoha1k2Jsok8u6hE4L3CB1jB0Ykg.JPEG.alphago1001/profileImage.jpg"
+          },
+          {
+            "sid": "1142112153",
+            "bodySummary": "그리고 여기는 직접 장어 양식을 하신다고 한다고 얼핏 들은 거 같습니다. 장어는 69,000원 59,000원 있는데 사실 둘 차이를 모르겠어요 ㅋㅋㅋ 그냥 항상 69,000원으로 ",
+            "url": "https://m.blog.naver.com/country-mouse/222907822188",
+            "nick": "시골쥐",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAxMjlfMjUw/MDAxNjc0OTYxMDE3MDkw.CFKpP98QD2vI3PvOi3iq_WFr3iyOB97nmcQIhgVAOBIg.WUqXB5Dlh6WkCKSEFILFykXgtySOq5yweknRObcpsbMg.PNG.zvo_zvo/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 15,
+        "id": "1252906937",
+        "name": "양푼이동태탕",
+        "x": "126.709314",
+        "y": "34.9940403",
+        "distance": 0.17,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 161,
+        "averagePrice": 31000,
+        "address": "전라남도 나주시 이창동 756-1 1층",
+        "roadAddress": "전라남도 나주시 풍물시장2길 40-2",
+        "abbrAddress": "이창동 756-1 1층",
+        "shortAddress": [
+          "전남 나주시",
+          "풍물시장2길 40-2"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "우리는 체인점이 아닙니다!! 본점입니다!! 전라도에서 제일 맛있는 동태탕집입니다~ 모든 재료 손질부터 조리까지 모든 것을 직접합니다ㅎㅎ",
+        "description": "우리는 체인점이 아닙니다!! 본점입니다!! 전라도에서 제일 맛있는 동태탕집입니다~ 모든 재료 손질부터 조리까지 모든 것을 직접합니다ㅎㅎ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTZfMTU1/MDAxNzUyNjU5NjY3MjIw.O4GVkNFSQq2npRUw-F1Qpw26aA5q6Dz2kua0kcI0YqIg.FMYq78H3DbMNRnSatAVA9z-T1GtuBlTJmBcuuq29OpMg.JPEG/1000008702.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTRfMjQy/MDAxNzYwNDM0OTU2MjYz.Gc3snccQH0nVE112JPK3rpMFrFkU95sadU3BWVsV-oEg.lZRXq9rLDn25uKaCWwJ7AdM7BpyGtEVQXLZaXnY4R_kg.JPEG/1000011741.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjNfMTU3/MDAxNzU4NjIzNDA4NTgw.GSU0mmM3dZYKrHT70Ce1Oyg2gBHZmFnPZWsVct28HjEg.34VF5oGvRRvL78hcP1m4yjt-lg8CnUo1ZAU768nIjs8g.JPEG/1000010781.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDlfMTE5/MDAxNzU3MzkwNTYwMTYz.JbSzbjsZAwdQZC-q6rzmz_LwVHZIrchDALeaB7e_JHkg.-A5saQ36mI0fWYYrAcEkcNpCtyePw0WVG_6DWV0Tgt4g.JPEG/20250909_102900.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1252906937",
+            "bodySummary": "(자체 주차장 있음, 남평 5거리에서 차로 1분 거리) *옆에 활주로 장례식장도 있음 상호명이 하나같이 다 활주로임 덩그러니 있으니 찾기 쉬움 요 문을 통해 들어가면, 테이블식 자",
+            "url": "https://m.blog.naver.com/wooseo_93/223156864379",
+            "nick": "거들멍",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA2MTFfMjA3/MDAxNjg2NDg3NDI4NzEz.AzePMCpCYq4qwA48VfvyGXEkqJhe28-zQH4dEqGbbvIg.67nphrbBhaJROXl0DbY8IFHQ2RB78U3MwzGospys0GAg.PNG.didvkfldslsw/profileImage.png"
+          },
+          {
+            "sid": "1252906937",
+            "bodySummary": "동태탕 9000×사람수 갈비맛만두. 10개 6000 양푼에 툭하니 올려진 국물요리. 투박하구 소박하지만 적당히 시원하구 개운하다. 소주를 부르면 위험 할. 만두는 갈비구이 맛 흐르",
+            "url": "https://m.blog.naver.com/whan6722/222958745745",
+            "nick": "돈갖구 사람 장난치냐",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAyMDlfODYg/MDAxNzA3NDM1MTE4ODg0.0OIz9HbJamPetm_TKOFezAXb3NyROfJ43uRRtSSrjv0g.429umkUttYCHbQRQx1vfYSdClUz3uH1T2qAyeBgo-Rkg.JPEG.whan6722/profileImage.jpg"
+          },
+          {
+            "sid": "1252906937",
+            "bodySummary": "사무실 점심 주메뉴는 이것. 그래. 이것으로 해장은 아니지 ㅎㅎ 요 메인 갈비찜은 데우는둥 마는둥 동태매운탕을 끓인다. 은근히 오래 끓이면 맛이 더 진해지지만 우린 이미 늦게 시작",
+            "url": "https://m.blog.naver.com/genie112/222715072203",
+            "nick": "언제나사랑할시간",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAyMDlfMjg2/MDAxNjQ0Mzc4NjcxMzc5.7HLz3bn1eIscZgKP6YdCYAnB1jcSR6og1VwM1pYLk6kg.V_jAamuhJ5KynGXTGiyGjgYO4A0P3ggI4wHakocNZx0g.JPEG.genie112/profileImage.jpg"
+          },
+          {
+            "sid": "1252906937",
+            "bodySummary": "주소: 전남 나주시 산포면 산남로 137 전화번호: 061-334-0775 네이버 지도 양푼이 동태탕이라는 이름을 들어 보셨을 수도 있는데 이곳은 체인점이 아니라고 하더라구요오 점",
+            "url": "https://m.blog.naver.com/audwopd/222473974108",
+            "nick": "맛집가볼래",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTAxMjBfMjE3/MDAxNjExMTE3MTczMzMx.82G0oQj2kK45A8fyRDKJ4Q6oB2iG7MvxQze4SoDqe_cg.ValfCuE5l_2p-LjJ5RYxd57FSotHS9U0Y46UG9dhKPQg.PNG.audwopd/profileImage.png"
+          },
+          {
+            "sid": "1252906937",
+            "bodySummary": "#산포양푼이동태탕 #나주동태탕 #양푼이동태탕 가끔씩, 시원한 동태탕이 생각난다. 지나다니면서 눈여겨 보았던 양푼이 동태탕집이 생각나 외출하는 김에 먹고왔다:) 양푼이 동태탕 큰길가",
+            "url": "https://m.blog.naver.com/swseungmi/222294119597",
+            "nick": "살찐너구리",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20200424_78/swseungmi_1587678537397zqz2P_JPEG/image.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 16,
+        "id": "1085819535",
+        "name": "컴포즈커피 나주일등점",
+        "x": "126.7069038",
+        "y": "34.9946472",
+        "distance": 0.092,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "230629"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 525,
+        "averagePrice": 5000,
+        "address": "전라남도 나주시 이창동 728-1",
+        "roadAddress": "전라남도 나주시 영산포로 139",
+        "abbrAddress": "이창동 728-1",
+        "shortAddress": [
+          "전남 나주시",
+          "영산포로 139"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "착한가격과 맛있는 커피가 있는 컴포즈커피 나주일등점입니다.",
+        "description": "착한가격과 맛있는 커피가 있는 컴포즈커피 나주일등점입니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MzBfMjY5/MDAxNzU2NTM1MTIwMjY4.cBrEhDXwgmw19SKD47_ojm4axqn1Sgv2YB-nTCsiwtAg.z8kO-Ac4jmB1WRncS34R-HdxRBWMBTDOO3-V8kvVVvEg.JPEG/20250830_152426.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MDdfMjQ0/MDAxNzQ0MDAxNzM5OTUw.KrwT20qvlR3vwiFZtjnaCfWCe07Iq9a2KwMcJ8EE1Rsg.zCIfPKBT_ClG3P9x6RL7mABEwyhNwJlPbsDVF3AA68Mg.JPEG/20250407_135231.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20201021_267/1603250269213iHJr7_JPEG/imLwrIPWomWfXXnNSq-Ow4Wl.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTBfNCAg/MDAxNzU0ODAxNzI4Njg2.sVDNmmRkA09s87L413Jtst0W7E8j3k0GET_aqfFP5E4g.GDy7PA1rWFrzwxMpwYDKmtWW3qq3WLPe0y8FT1b8PWkg.JPEG/E580BA72-BD46-422E-9D3B-50F2A8F37CDD.jpeg",
+          "https://ldb-phinf.pstatic.net/20201021_41/16032502692259Mt2m_JPEG/lMD4co8ZlFObonzFu8lYd0zK.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTFfMjU0/MDAxNzYwMTU0NjkxMzcz.rdlBVajl2ZjI9nkTVF2GfAmlvHqRctFUp11HavUdy2gg.uoppRjFC6dYG3Ehd0dYJhjE0LpDsIfZA7LWLwAMh6Wkg.JPEG/20251011_125025.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20201021_123/1603250269256hhRTG_JPEG/1NUuA3YqCfNGedLmDHKjNgx6.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjlfMjcw/MDAxNzUzNzkyMzU1ODQx.s6eiQMhgf2eyP6VVmB5e6SYWAhmj0hp7Uz-5ztZgapYg.MfVBSQh-dvqJwUatCZ2aTeLhnFKO3os4Th0hebhVC30g.JPEG/20241018_073745.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTJfNTAg/MDAxNzQ0NDI1NTA1Mzgx.lpl2XTow1QX1QMcP1tMP_fSQuyGzQ-lLDxUZhIlx9Fwg.SuMCUTypQWSASV8PMzKNeLt-F6G4LNwCaa5kaQoOfj4g.JPEG/20250412_113057.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDdfODgg/MDAxNzU5ODQ0NjMwMDMx.C5dvaOHiaXNqZVFM01Z1ZsGJr2j2Ve5p4PrjPqsRlR0g.-ZApBjSGVH93GIAVIyEAGkJbKqTtPiifgIibJU6tQlMg.JPEG/Screenshot_20250729_213229_NAVER.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "230629",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.25",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "1085819535",
+            "bodySummary": "커피도 좋아하고 초코도 좋아하는 저에게 안성 맞춤 메뉴죠 컴포즈커피의 카페모카 가격은 3,300원에 사이즈는 벤티 사이즈예요! 진짜 가성비로는 최강이네요 카페모카 러버로써 다양한 ",
+            "url": "https://m.blog.naver.com/weluvv/222757822406",
+            "nick": "노멀라이프",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA3MjhfOCAg/MDAxNjU5MDEwOTcxMzM5.DxDeuIrLq32Lwzxw4udtWu7DAAoSkDAE2s8a2MFvhKQg.u4Rei4AsD2lL-2Rvk5AHd00vGU_4L6TpDQ1sz3CCPi0g.JPEG.weluvv/profileImage.jpg"
+          },
+          {
+            "sid": "1085819535",
+            "bodySummary": "위치가 검색이 안 돼서 옆에 있는 커피집으로 대체했어요. 컴포즈 커피 옆 미니스톱 바로 옆에 있습니다. 도로가에 위치해 있어서 찾기 쉬우실 거예요. 주차장은 따로 마련되어 있지 않",
+            "url": "https://m.blog.naver.com/bboram02/222123240563",
+            "nick": "라미",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTExMjRfMTgg/MDAxNjM3NzY1MjMzMDY3.-ZQWYjz_DI32nxLgvJeUKHrtvxeJ7VOtCUrLV0qqw80g.VuHNGWhZhjtvpVjOkDwfIcwz3ptKxzgzlgfTaLuxEmkg.PNG.bboram02/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 17,
+        "id": "12905269",
+        "name": "맥시칸치킨 영산포점",
+        "x": "126.7083577",
+        "y": "34.9941993",
+        "distance": 0.087,
+        "categoryName": "치킨,닭강정",
+        "categoryPath": [
+          [
+            "220036",
+            "220049",
+            "220347"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "치킨,닭강정"
+        ],
+        "reviewCount": 280,
+        "averagePrice": 20000,
+        "address": "전라남도 나주시 이창동 737-11 하림맥시칸",
+        "roadAddress": "전라남도 나주시 풍물시장1길 24",
+        "abbrAddress": "이창동 737-11 하림맥시칸",
+        "shortAddress": [
+          "전남 나주시",
+          "풍물시장1길 24"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "국내산 하림 닭고기를 사용하며 늘 깨끗한 기름으로 정성을 다하고 있습니다. 28년째 운영 중인 원조 맥시칸입니다. 배달비는 따로 받지 않고 있습니다^^",
+        "description": "국내산 하림 닭고기를 사용하며 늘 깨끗한 기름으로 정성을 다하고 있습니다. 28년째 운영 중인 원조 맥시칸입니다. 배달비는 따로 받지 않고 있습니다^^",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjZfMjky/MDAxNzU4ODkzNTQ3MTY4.Cpl_OkarvdBYNCr_mA0Xy1LjIQyifLpk1K6XeKI83Osg.ofoPea0gaeK2wXVPtB4KJpUhryCuaowwIhGhfNlIl9Mg.JPEG/296EAAEE-1B14-4E79-A814-33EDBCA556F2.jpeg",
+          "https://ldb-phinf.pstatic.net/20250605_150/1749082131340mXuHC_JPEG/001_240722-mexican-logo-400x400.jpg",
+          "https://ldb-phinf.pstatic.net/20250605_283/1749082131647di54m_JPEG/002_%BC%F8%BB%EC%B4%DF%B0%AD%C1%A4.jpg",
+          "https://ldb-phinf.pstatic.net/20250605_88/17490821315705MtsP_JPEG/003_%BE%E7%B3%E4%C4%A1%C5%B2.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220347",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "12905269",
+            "bodySummary": "영산포 하림멕시칸 하림닭강정 순살치킨계의 탑이아닐까? 전화번호 : 061-332-8819 위 치 : 전남 나주시 풍물시장1길 24 하림맥시칸 (이창동 737-11) 영업시간 : 매",
+            "url": "https://m.blog.naver.com/sxx____wxx/222832676610",
+            "nick": "쏘워닝",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA4MjVfMTMg/MDAxNjkyOTUzNjE5MzQy.ITjddXjf8tPH4FlD4cUqn_tsasrOEo-bOp3l45-V_LAg.J_TxDryr57qS9yaJ_KyiGKzt8kX8N5VtBN37Cxj1BPcg.PNG.sxx____wxx/profileImage.png"
+          },
+          {
+            "sid": "12905269",
+            "bodySummary": "요즘 한동안 먹고 싶었던 닭강정을 사러 영산포 맥시칸까지 다녀왔어요! 멕시칸 아님 지난 주 내내 너무 생각나서 미리 전화를 했는데 설 연휴 때 하필 문을 열지 않았던지라 나주점이라",
+            "url": "https://m.blog.naver.com/cksal8213/221465295394",
+            "nick": "뿌야",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAxMzFfMTkw/MDAxNjc1MTUxNjA0MDk3.Dz2vRpjMQ91dbjIDKhn-n7q7T-BYWhcVPCqQn_dFRicg.IiuM2PnXeVQgBpXb3d-tmAZaDpM-i539OSEuAEJSsBsg.GIF.cksal8213/profileImage.gif"
+          },
+          {
+            "sid": "12905269",
+            "bodySummary": "나주 영산포 치킨 : 멕시칸 치킨이 엄청나게 유명하줘!! 미리 주문을 해놓고 25분 뒤에 찾으러 가면 되요 저희집은 좀 많이 들어가야해서 왠만하면 배달은 힘들어서 직접 가질러 가야",
+            "url": "https://m.blog.naver.com/miheedaeup/221159065142",
+            "nick": "김미",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxODAxMTFfMTc5/MDAxNTE1Njc3ODU4OTIx.bRdG6sAxT1l7I2absnrY9nLWDCXHrGF5mlj1Lnht5ucg.bLK8IBncIpMjoJMRblba_Dp2q4U4YWkGvlP6hga9NOMg.JPEG.miheedaeup/profileImage.jpg"
+          },
+          {
+            "sid": "12905269",
+            "bodySummary": "21년산이라 풍미가 깊구만~~ 음~~ 깨끗한 치킨 냠냠^^ 닭강정 양이 .. 광주보다 훨신많죠...ㅎㅎㅎ 후라이드치킨&닭강정 둘다맛있썽 어렸을때마다먹는 이맛인지라 먹어도먹어도 질리",
+            "url": "https://m.blog.naver.com/tnrgid6832/220658182437",
+            "nick": "배혜교",
+            "profileImg": ""
+          },
+          {
+            "sid": "12905269",
+            "bodySummary": "오늘은 치킨이 겁나게 땡기더라구요ㅜㅜ 치맥이 완죤 땡기는날..이럴땐 그냥 넘어가면 시원섭섭하죠! 집에 있기엔 날씨 땜에 우울하구 기분전환도 시킬겸 치킨 먹으로 맥시칸에 다녀왔네요ㅋ",
+            "url": "https://m.blog.naver.com/wlcu5522/220339207538",
+            "nick": "타니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20150205_138/wlcu5522_1423118671149lP8fK_JPEG/miles_of_light.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 18,
+        "id": "17157778",
+        "name": "닭갈비마을",
+        "x": "126.708785",
+        "y": "34.9940243",
+        "distance": 0.122,
+        "categoryName": "닭갈비",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220771",
+            "221575"
+          ]
+        ],
+        "category": [
+          "한식",
+          "닭갈비"
+        ],
+        "reviewCount": 325,
+        "averagePrice": 10000,
+        "address": "전라남도 나주시 이창동 737-5 닭갈비마을",
+        "roadAddress": "전라남도 나주시 풍물시장2길 35",
+        "abbrAddress": "이창동 737-5 닭갈비마을",
+        "shortAddress": [
+          "전남 나주시",
+          "풍물시장2길 35"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "전라남도 나주시 이창동 737-5 닭갈비마을",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221575",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "17157778",
+            "bodySummary": "나주 닭갈비마을 메뉴판. 오징어, 무, 도라지를 새콤하게 무친 이 반찬이 맛있어서 많이 먹었다. ^_ ^상추 필수.. 닭갈비 3인분에 당면사리 추가한 것. 이미 조리가 다 되어 나",
+            "url": "https://m.blog.naver.com/petersilie/223240977769",
+            "nick": "쩡디",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA0MjNfMjc4/MDAxNjgyMjU4OTAxMTQ3.PnMROgNkxI2saaennC8wU1gz72p2JNAuu6bNgtetD7cg.xFvyJysyySgfs61AaE-fUStYo4Ke9jWITGbMY5KaUpkg.PNG.petersilie/profileImage.png"
+          },
+          {
+            "sid": "17157778",
+            "bodySummary": "우리 동네에 닭갈비 마을이라는 맛집이 있다고 들었는데 여긴 닭갈비랑 삼겹살을 같이 한다! 그래서 공간도 나눠져있음!! 우리 동네에 거의 유일할 것 같은 닭갈비 아마 외식을 한다면 ",
+            "url": "https://m.blog.naver.com/loststars_22/222807188404",
+            "nick": "삥",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA4MDlfMTIg/MDAxNjI4NDgzNjQyNzUz.vux0Zm5gpA1E1rpMhjUM3guSoAxLJ1Eek6Oyuq2LOrgg.o6oyjjFmUORyLTGVHHbsnX7copA3fBNoTLA08BKi_dEg.JPEG.loststars_22/KakaoTalk_20161005_003803170.jpg"
+          },
+          {
+            "sid": "17157778",
+            "bodySummary": "나주시맛집 #나주닭갈비맛집 #나주닭갈비마을 하늘이 드높은 점심시간 닭갈비가 땡겨서 로컷맛집을 찾아와봤어욤 !! 점심시간엔 사람이 꽤 있다고 해서 예약 후 방문!!!! 가게 위치는 ",
+            "url": "https://m.blog.naver.com/shjgirl71/222511385051",
+            "nick": "아요미",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA4MDFfMjM4/MDAxNjI3Nzc2MDUzNDY2.FZRZYqgCMESe3DBbSyIVDLFpNne0FkxLn3AisFQFeOgg.kPOYQ2sAmDXCnqwtHQwDZVJcXT-9zHkm3xTwmTtCFlYg.PNG.shjgirl71/profileImage.png"
+          },
+          {
+            "sid": "17157778",
+            "bodySummary": "로또 하러 겸사겸사 나주 유명 로또점 갔다가 그냥 나주 혁신 넘어가기 아쉬워서 저녁을 먹고 들어가기로 했고 생각난 집은 바로 영산포 ( 닭갈비 마을 ) 예전에 한두 번 맛봤는데 양",
+            "url": "https://m.blog.naver.com/ajrrhwmfrlrh/222432038313",
+            "nick": "랑코",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA3MDFfMjQy/MDAxNjI1MTUwNjcwNDcy.sePZa2HMHvuyWZ0XenYENvD1ALtz_xvPl4VFVaVINiMg.i9dsSfnbgSUdH6P2Rz7W4mM7cSl7cUIddj-bk40xfocg.PNG.ajrrhwmfrlrh/profileImage.png"
+          },
+          {
+            "sid": "17157778",
+            "bodySummary": "이렇게 컨테이너로 지어진곳이라 식당인가? 싶은곳이 닭갈비마을 나주닭갈비 닭갈비마을 위치 전남 나주시 풍물시장2길35 주차장은 따로 없고, 갓길주차해두시고 오시면되는데 오는길이 조금",
+            "url": "https://m.blog.naver.com/ensso94/222005068985",
+            "nick": "헫",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMTlfMjg2/MDAxNzAyOTMyNzA0NDY3.RFDadjTzWX2fHcpY4AXb5D6KjovPcFZ590bzKBFswLwg.y4E-pXnzo91xda6yC8-Jf04n6aLXWteTX5wneVwGLw8g.PNG.ensso94/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 19,
+        "id": "38264276",
+        "name": "거북이",
+        "x": "126.7086879",
+        "y": "34.9944057",
+        "distance": 0.123,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 47,
+        "averagePrice": 27000,
+        "address": "전라남도 나주시 이창동 741-12",
+        "roadAddress": "전라남도 나주시 풍물시장2길 35-6",
+        "abbrAddress": "이창동 741-12",
+        "shortAddress": [
+          "전남 나주시",
+          "풍물시장2길 35-6"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "전라남도 나주시 이창동 741-12",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 20,
+        "id": "17156181",
+        "name": "아구1번지",
+        "x": "126.7090901",
+        "y": "34.9942752",
+        "distance": 0.154,
+        "categoryName": "아귀찜,해물찜",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220076",
+            "220793",
+            "221633"
+          ]
+        ],
+        "category": [
+          "한식",
+          "아귀찜,해물찜"
+        ],
+        "reviewCount": 22,
+        "averagePrice": 0,
+        "address": "전라남도 나주시 이창동 741-5",
+        "roadAddress": "전라남도 나주시 풍물시장2길 39",
+        "abbrAddress": "이창동 741-5",
+        "shortAddress": [
+          "전남 나주시",
+          "풍물시장2길 39"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [],
+        "cardDescription": "전라남도 나주시 이창동 741-5",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221633",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 21,
+        "id": "1857399222",
+        "name": "대흥식당",
+        "x": "126.7080519",
+        "y": "34.9940348",
+        "distance": 0.055,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 8,
+        "averagePrice": 0,
+        "address": "전라남도 나주시 이창동 736-3 용당구장",
+        "roadAddress": "전라남도 나주시 풍물시장1길 25",
+        "abbrAddress": "이창동 736-3 용당구장",
+        "shortAddress": [
+          "전남 나주시",
+          "풍물시장1길 25"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "전라남도 나주시 이창동 736-3 용당구장",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 22,
+        "id": "17340339",
+        "name": "또또와숯불갈비",
+        "x": "126.7091319",
+        "y": "34.9930289",
+        "distance": 0.184,
+        "categoryName": "육류,고기요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220733"
+          ]
+        ],
+        "category": [
+          "한식",
+          "육류,고기요리"
+        ],
+        "reviewCount": 10,
+        "averagePrice": 0,
+        "address": "전라남도 나주시 이창동 759-5",
+        "roadAddress": "전라남도 나주시 풍물시장1길 9",
+        "abbrAddress": "이창동 759-5",
+        "shortAddress": [
+          "전남 나주시",
+          "풍물시장1길 9"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "전라남도 나주시 이창동 759-5",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220733",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "17340339",
+            "bodySummary": "나주에 위치한 또또와숯불갈비 어릴 적 엄마 아빠와 먹었던 갈비가 너무 맛있었다. 자꾸 기억이 나서 꼭 다시 먹어보고 싶다. 라고 여러 번 말했던 짝꿍의 추억 속 갈비 맛집 없어진 ",
+            "url": "https://m.blog.naver.com/memorykjt/223266459759",
+            "nick": "sisi",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA2MTlfMTIy/MDAxNjg3MTQyMTE0Nzg2.I_BEFzkasfUt1sv9bY3dKOaIL6gK0UWe-LSxEa4GHtYg.o2c9z8b9BOmHI2dNDtNw4UP9gO_51tzJZMjZtVlmEYsg.GIF.memorykjt/profileImage.gif"
+          },
+          {
+            "sid": "17340339",
+            "bodySummary": "육식파인가 저희 부부가 종종 갔던 갈비집이 휴무여서 차선책으로 간 곳인데, 이 곳은 신랑이 어렸을 때 가족들과 종종 간 곳이라고 해요! 못해도 20년은 넘으신 거 같습니다! 위치는",
+            "url": "https://m.blog.naver.com/jjjjjisu92/222887294072",
+            "nick": "지두",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA0MDFfMTE5/MDAxNjQ4Nzc0NTM5Njc4._RrefZxxF_hBRevsIumFyM_Bhs9bbB-he3n5oFYh9-0g.oLsPzYwLJSh7ipf8sxUcNpFirq9u06Isx5NFazjj-94g.PNG.jjjjjisu92/profileImage.png"
+          },
+          {
+            "sid": "17340339",
+            "bodySummary": "이곳도 영산포에서 나름 오래된 곳이고 갈비 맛 집이라고 소문난 곳입니다.^^ 갈비맛집인데 저희는 삼겹살을 먹었어요..ㅋㅋㅋㅋ 그냥 이날은 삼겹살이 먹고 싶었나 봐요. 김장하는 날에",
+            "url": "https://m.blog.naver.com/bboram02/221448165159",
+            "nick": "라미",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTExMjRfMTgg/MDAxNjM3NzY1MjMzMDY3.-ZQWYjz_DI32nxLgvJeUKHrtvxeJ7VOtCUrLV0qqw80g.VuHNGWhZhjtvpVjOkDwfIcwz3ptKxzgzlgfTaLuxEmkg.PNG.bboram02/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 23,
+        "id": "1234382699",
+        "name": "촌닭이두마리 이창점",
+        "x": "126.7060228",
+        "y": "34.9951862",
+        "distance": 0.189,
+        "categoryName": "치킨,닭강정",
+        "categoryPath": [
+          [
+            "220036",
+            "220049",
+            "1000757"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "치킨,닭강정"
+        ],
+        "reviewCount": 22,
+        "averagePrice": 12000,
+        "address": "전라남도 나주시 이창동 720-10",
+        "roadAddress": "전라남도 나주시 이창택지길 8-12",
+        "abbrAddress": "이창동 720-10",
+        "shortAddress": [
+          "전남 나주시",
+          "이창택지길 8-12"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "전라남도 나주시 이창동 720-10",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1000757",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 24,
+        "id": "20085159",
+        "name": "버드나무집",
+        "x": "126.7050029",
+        "y": "34.9945",
+        "distance": 0.231,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 46,
+        "averagePrice": 73000,
+        "address": "전라남도 나주시 이창동 723-2",
+        "roadAddress": "전라남도 나주시 이창택지길 17",
+        "abbrAddress": "이창동 723-2",
+        "shortAddress": [
+          "전남 나주시",
+          "이창택지길 17"
+        ],
+        "displayContext": [],
+        "labelTheme": "고급 정찬",
+        "microReviews": [],
+        "cardDescription": "전라남도 나주시 이창동 723-2",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 25,
+        "id": "1798776405",
+        "name": "영산포커피",
+        "x": "126.708801",
+        "y": "34.9950488",
+        "distance": 0.173,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221212"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 26,
+        "averagePrice": 3000,
+        "address": "전라남도 나주시 이창동 742-1",
+        "roadAddress": "전라남도 나주시 풍물시장2길 43-9",
+        "abbrAddress": "이창동 742-1",
+        "shortAddress": [
+          "전남 나주시",
+          "풍물시장2길 43-9"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "전라남도 나주시 이창동 742-1",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221212",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 26,
+        "id": "1573855923",
+        "name": "연탄구이한판",
+        "x": "126.7073088",
+        "y": "34.9951998",
+        "distance": 0.139,
+        "categoryName": "돼지고기구이",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220765",
+            "221458"
+          ]
+        ],
+        "category": [
+          "한식",
+          "돼지고기구이"
+        ],
+        "reviewCount": 3,
+        "averagePrice": 0,
+        "address": "전라남도 나주시 이창동 461-1 대흥상회",
+        "roadAddress": "전라남도 나주시 영산포로 145",
+        "abbrAddress": "이창동 461-1 대흥상회",
+        "shortAddress": [
+          "전남 나주시",
+          "영산포로 145"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [],
+        "cardDescription": "하루전까지 예약주시면 닭백숙, 묵은지갈비찜 등도 가능합니다.",
+        "description": "하루전까지 예약주시면 닭백숙, 묵은지갈비찜 등도 가능합니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTZfNzkg/MDAxNzYwNTgzMTk0NjU5.sTjLYkFTsmLciOpZnen2CnAWxVDS3407ljQikpxRFaUg.OVuKUlfHAOzTU75Z6CavMF9HyQPLMCQQYUyPmMzu3kYg.JPEG/20251016_113836.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240827_120/1724728893097eUAey_JPEG/1724728875030.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221458",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 27,
+        "id": "1068226185",
+        "name": "개성집",
+        "x": "126.70754",
+        "y": "34.9943176",
+        "distance": 0.041,
+        "categoryName": "백숙,삼계탕",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220774",
+            "221606"
+          ]
+        ],
+        "category": [
+          "한식",
+          "백숙,삼계탕"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 10000,
+        "address": "전라남도 나주시 이창동 736-9 보건소 옆",
+        "roadAddress": "전라남도 나주시 풍물시장2길 27-12",
+        "abbrAddress": "이창동 736-9 보건소 옆",
+        "shortAddress": [
+          "전남 나주시",
+          "풍물시장2길 27-12"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "전라남도 나주시 이창동 736-9 보건소 옆",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20240528_80/1716874877846XIN3g_JPEG/KakaoTalk_20240528_141432237_05.jpg",
+          "https://ldb-phinf.pstatic.net/20240528_20/1716874878004Ciht2_JPEG/KakaoTalk_20240528_141432237.jpg",
+          "https://ldb-phinf.pstatic.net/20240528_112/1716874878174vWwH2_JPEG/KakaoTalk_20240528_141432237_01.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221606",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 28,
+        "id": "20248065",
+        "name": "단비네식당",
+        "x": "126.7071498",
+        "y": "34.9920807",
+        "distance": 0.21,
+        "categoryName": "한정식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220056",
+            "220594"
+          ]
+        ],
+        "category": [
+          "한식",
+          "한정식"
+        ],
+        "reviewCount": 3,
+        "averagePrice": 0,
+        "address": "전라남도 나주시 이창동 765",
+        "roadAddress": "전라남도 나주시 풍물시장2길 12-14",
+        "abbrAddress": "이창동 765",
+        "shortAddress": [
+          "전남 나주시",
+          "풍물시장2길 12-14"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "전라남도 나주시 이창동 765",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220594",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 29,
+        "id": "17339943",
+        "name": "EZ커피숍",
+        "x": "126.7094156",
+        "y": "34.9924971",
+        "distance": 0.241,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221212"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 1,
+        "averagePrice": 0,
+        "address": "전라남도 나주시 이창동 759-8",
+        "roadAddress": "전라남도 나주시 풍물시장1길 1",
+        "abbrAddress": "이창동 759-8",
+        "shortAddress": [
+          "전남 나주시",
+          "풍물시장1길 1"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "전라남도 나주시 이창동 759-8",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221212",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 30,
+        "id": "1774200586",
+        "name": "금화식육식당",
+        "x": "126.7070403",
+        "y": "34.9930711",
+        "distance": 0.105,
+        "categoryName": "육류,고기요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220733"
+          ]
+        ],
+        "category": [
+          "한식",
+          "육류,고기요리"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 0,
+        "address": "전라남도 나주시 이창동 732-4",
+        "roadAddress": "전라남도 나주시 풍물시장2길 15-6",
+        "abbrAddress": "이창동 732-4",
+        "shortAddress": [
+          "전남 나주시",
+          "풍물시장2길 15-6"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "전라남도 나주시 이창동 732-4",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220733",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 31,
+        "id": "1421059340",
+        "name": "커피마마",
+        "x": "126.7065273",
+        "y": "34.9941059",
+        "distance": 0.086,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 0,
+        "address": "전라남도 나주시 이창동 728-4",
+        "roadAddress": "전라남도 나주시 영산포로 131",
+        "abbrAddress": "이창동 728-4",
+        "shortAddress": [
+          "전남 나주시",
+          "영산포로 131"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "전라남도 나주시 이창동 728-4",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 32,
+        "id": "1825376516",
+        "name": "100돼지고깃집",
+        "x": "126.7085149",
+        "y": "34.9940472",
+        "distance": 0.097,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 45,
+        "averagePrice": 14000,
+        "address": "전라남도 나주시 이창동 737-7 100돼지 고깃집",
+        "roadAddress": "전라남도 나주시 풍물시장1길 22",
+        "abbrAddress": "이창동 737-7 100돼지 고깃집",
+        "shortAddress": [
+          "전남 나주시",
+          "풍물시장1길 22"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "100돼지 고깃집 저희 업소를 찾아주셔서 감사합니다. 최고의 품질과 최고의 서비스로 보답하겠습니다.",
+        "description": "100돼지 고깃집 저희 업소를 찾아주셔서 감사합니다. 최고의 품질과 최고의 서비스로 보답하겠습니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjFfMTUw/MDAxNzU4NDQ4NTAxMjk0.zdygCNFf2dss_7JTJDtEX1T1MH2riXJy6hOKqFAYAuAg.CdYnH0R6qzXc3TmpigH0_uMzt_FMYMgnuoh0somM_ckg.JPEG/20250921_185043.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjlfNTkg/MDAxNzUxMjAxMzI5MTU3._8mI-uPNnELdV2SZ5rVnmeUA3D-T_9tCMqPdqent6Rgg.S2Bco09pPFDdZVERR9aIVR5S0x-kd9QDSflS0ofW_wAg.JPEG/20241020_181513.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250510_231/17468767499454dH2R_JPEG/29896.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDdfODgg/MDAxNzU5ODMyMTE4MTMy.nFEvv3CYEzofBTgkB73oER9KH7DlBMnEmAKk7xFpOekg.-dC6TfK2KgNdjkeyuqIdSq8jM2JMyoR-c4hMtpbPyWMg.JPEG/20251007_185615.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250510_95/1746877416961UHGo3_JPEG/IMG_0092.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDlfMjMy/MDAxNzUyMDUxMTIxMjYw.yS2Bjd2f7GWVC4QhAXP3MRYGkh47sVQyTJdAYPz4HOIg.eVyqU99SpZL9a-gC2hYSadBc-ShTsEBv_M8PoTNa3Kcg.JPEG/1750934582265.jpg.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250626_262/1750920222208KnL02_JPEG/IMG_0646.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjZfMTkx/MDAxNzUwOTM0OTQ5NTIz.FBTzZBI51ocfoXYM6A86nad7cDOmTSfNHz5_PnGTkv0g.G5Xainx2Kb9fokM3sqL9QFRfkUCbHPLUOvJNg8cpIN8g.JPEG/1750934582042.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.75",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 33,
+        "id": "1117334040",
+        "name": "호남식당",
+        "x": "126.7066954",
+        "y": "34.9947189",
+        "distance": 0.11,
+        "categoryName": "해물,생선요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220076",
+            "220777"
+          ]
+        ],
+        "category": [
+          "한식",
+          "해물,생선요리"
+        ],
+        "reviewCount": 154,
+        "averagePrice": 27000,
+        "address": "전라남도 나주시 이창동 728-8",
+        "roadAddress": "전라남도 나주시 이창택지길 6-10",
+        "abbrAddress": "이창동 728-8",
+        "shortAddress": [
+          "전남 나주시",
+          "이창택지길 6-10"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "전라남도 나주시 이창동 728-8",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjNfMTU5/MDAxNzU1OTE5MDM0Mzc5.CZRXJVBR_plP-1X_yBPeRcIFt0AagvJnEsKl0GLXLKUg.ku8dt2F-fX-8u7m-75XNnE3JEPPZl4VoVZOKn3fhGCEg.JPEG/20250823_112833.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjNfMTk5/MDAxNzQ3OTUyMjcyNzc5.BbjiJ2uB7QIVwOwE9-kLZpyCXnB92P_HVA45qx4goiAg.P9qv9eo6HNRPrmcZWj7iBSBZ6DiHzRJEbrDEOqtg3oAg.JPEG/Screenshot_20250523_071731_NAVER.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20181226_174/1545822198114N5BP4_JPEG/In8O62ckwV-nw5ZcH0mHmGDt.jpeg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220777",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1117334040",
+            "bodySummary": "오늘은 뭘 먹을까 하다가 육류를 그 동안 너무 많이 먹은 것 같아서 색다른 메뉴를 고민하다가 대구탕으로 결정했습니당 위치는 이창동이구요 영산포 119 옆에 있습니당 12시 좀 못돼",
+            "url": "https://m.blog.naver.com/meiling_ppoviee/222951636252",
+            "nick": "정예등",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA2MDVfMjA1/MDAxNjg1ODk4MDkzODg4.lUkNCXkZJTeE7ZYThqfKWpniKL08NLjYboEj_LjntPAg.aaFn6JOWPq5PF4K7uS0i7Pyq_XpQ3IXJ5K_n2UggTzgg.PNG.kmr7379/profileImage.png"
+          },
+          {
+            "sid": "1117334040",
+            "bodySummary": "오늘은 지인덕에 또 다른 맛집에서 점심을 먹었습니다! 나주에 있는 <호남식당>이란 곳인데 이곳에서 오늘로 두번재 대구탕을 먹는건데 대구탕 맛이 기가막힙니다~!! 밑반찬도 괜찮고 단",
+            "url": "https://m.blog.naver.com/teacher-ryu/222765119472",
+            "nick": "힐링나그네 류샘",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA0MjdfMzIg/MDAxNjgyNTMxNjI3ODE2.4agkhWHQCpPnqffpo2S6-xGgc9N9zqpJf_E003q4YcIg.0B08A2qJKyAwDZZvdMU-ECtEEvOatPoEYm9Z7taPGZEg.JPEG.httryu0/%25ED%259A%258C%25EC%25A0%2584%25ED%258F%25AC%25EB%25A7%25B7%25EB%25B3%2580%25ED%2599%259820230331_154122.jpg/%255B%25ED%259A%258C%25EC%25A0%2584%255D%255B%25ED%258F%25AC%25EB%25A7%25B7%25EB%25B3%2580%25ED%2599%2598%255D20230331_154122.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 34,
+        "id": "17156072",
+        "name": "석기네곱창",
+        "x": "126.7064654",
+        "y": "34.9939252",
+        "distance": 0.09,
+        "categoryName": "곱창,막창,양",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220767",
+            "221540"
+          ]
+        ],
+        "category": [
+          "한식",
+          "곱창,막창,양"
+        ],
+        "reviewCount": 138,
+        "averagePrice": 38000,
+        "address": "전라남도 나주시 이창동 727-1",
+        "roadAddress": "전라남도 나주시 영산포로 129",
+        "abbrAddress": "이창동 727-1",
+        "shortAddress": [
+          "전남 나주시",
+          "영산포로 129"
+        ],
+        "displayContext": [
+          "곱창전골",
+          "돼지곱창",
+          "곱창"
+        ],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "전라남도 나주시 이창동 727-1",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDhfNjkg/MDAxNzQ5MzEwMjgyOTcw.eTmCAtQWAvF7e3WMEKP_MvulfR4olnfSQevhW_yOIkYg.4jN3yfWsjSr7lOQnK0odJ9jOshaWmH1V9PvBXyZP4W4g.JPEG/20250602_181214.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20211224_29/1640355985687lAGk6_JPEG/20211203_171218.jpg",
+          "https://ldb-phinf.pstatic.net/20190918_179/1568770392273VAO0W_JPEG/C3u4mGPlzGo2276eFSz1WAqM.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221540",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "17156072",
+            "bodySummary": "이렇게해서 얼마?? 전골(소) 공깃밥 1 볶음밥 1 해서 19,000원 나옴 이렇게 맛나고 배부르게 요즘 어디서 저돈주고 사먹을 수 있나 포장도 가능하다 그리고 나주 상생카드 사용",
+            "url": "https://m.blog.naver.com/9393ok/222881074095",
+            "nick": "퐁팡팡꽃이퐁퐁",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjExMTFfMjk0/MDAxNjY4MTY5NjI4MzU0.L_LLKW9TnL4cCMwxXDcZiX7vYLQC6BvzF-SXSVLPgDYg._95S24WPebg-WIGYXadwkRfo0dQZYmfzADIbiKh3QYsg.PNG.9393ok/profileImage.png"
+          },
+          {
+            "sid": "17156072",
+            "bodySummary": "나주사람들은 다 안다는 로컬 곱창전골맛집 [석기네곱창] 에서 점심먹고 왔어용 위치는 영산포쪽! 점심 예약필수! 주변 길가주차 가능! #석기네곱창내부 방&홀로 되어있는 석기네곱창내부",
+            "url": "https://m.blog.naver.com/sunss_/222690682330",
+            "nick": "먹짱서니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA0MTlfNDAg/MDAxNjUwMzI5NjEzOTc3.KL7_TkTaSUCj9KKrX-uUUcWtt2nY7q0gawM6jAndcIog.M36WBLbsKyBMAKSLqcM7VC1B4bnb8Ro57J4HoYY1CLkg.PNG.kimsun5306/profileImage.png"
+          },
+          {
+            "sid": "17156072",
+            "bodySummary": "석기네곱창 곱창전골 맛집을 찾다가 발견 주방에서 큰솥에 대용량 전골을 끓이고 계셨는데 단체주문이 있나보다 보글보글 곱창전골맛집 인정!! 넘넘 맛있음 기본반찬 모락모락 김이나는 관계",
+            "url": "https://m.blog.naver.com/sooodan/222286294867",
+            "nick": "소단소단",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA1MDFfMjQ3/MDAxNjE5ODE1MDI3MjE1.ZdHxVcr4ExmGig4c-1HEzod-lZfHAyZ4zytzikAsSDcg.Fbo2Pjndt5CmqHE6aDELXKn8rakoNj2kbSLJQqhSchgg.JPEG.sooodan/profileImage.jpg"
+          },
+          {
+            "sid": "17156072",
+            "bodySummary": "방도 있어요!! 반찬도 다 맛있었어요~~~ 와 정~말 맛있어요 당면이나 사리는 안 들어가요 곱창 허파 막창 가득! 남자친구 4공기 클리어 ㅋㅋㅋㅋ 먹어 본 곱창전골 중 탑!! 다시",
+            "url": "https://m.blog.naver.com/tjssu8015/222024558889",
+            "nick": "행복더하기",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEwMjJfMTIg/MDAxNjk3OTQyNTI4NTQ5.xpY_wBds9Eq0v-zIgyAiWEpRp6IioBZhtC-92M0_1xcg.bQGSiZ7oLBavWRfrCQSB-0YXOHgZNnvQWA4vl2xYXD4g.PNG.tjssu8015/profileImage.png"
+          },
+          {
+            "sid": "17156072",
+            "bodySummary": "안녕하세요 유글리터입니다 나주 석기네 곱창집 비가 주룩주룩 오는 날이었어요 일 때문에 나주에 들렸다가 매일 먹던 곳만 가지 말고 다른 곳도 찾아보자 해서 찾아본 나주 맛집입니다 간",
+            "url": "https://m.blog.naver.com/uglitter/222005941538",
+            "nick": "유글리터",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDAzMTdfMjIy/MDAxNTg0NDUyMTc0MDQ1.FBYfAoZpin5OUxqETUxh5VjZ3Ma22BRRlFLBxfSKRdkg.d_8wKHp2N2NWZ55Ye7TNtbYZAijWMSRnx3TTNkhVI9cg.JPEG.uglitter/%25C0%25AF%25B1%25DB%25B8%25AE%25C5%25CD%2B%25B8%25ED%25C7%25D4.JPG"
+          }
+        ]
+      },
+      {
+        "rank": 35,
+        "id": "1398333402",
+        "name": "석기네 한우명가",
+        "x": "126.7063576",
+        "y": "34.9930855",
+        "distance": 0.139,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 3,
+        "averagePrice": 10000,
+        "address": "전라남도 나주시 이창동 730-4 1층일부",
+        "roadAddress": "전라남도 나주시 풍물시장2길 1",
+        "abbrAddress": "이창동 730-4 1층일부",
+        "shortAddress": [
+          "전남 나주시",
+          "풍물시장2길 1"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "전라남도 나주시 이창동 730-4 1층일부",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTBfMTMx/MDAxNzYwMDg4OTYxNTkw.i8eVtWUL7DUGEfJD1aI0Lrs58h65YPxcoJ9cxWEe_fYg.myBxgr0CvAPNFTYAOuFt5c7ejdZq9qd8pwX_qO4RCpIg.JPEG/1000011580.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250420_62/1745149809191wKwmq_JPEG/1000007235.jpg",
+          "https://ldb-phinf.pstatic.net/20250420_283/1745149809107XYC6S_JPEG/1000007233.jpg",
+          "https://ldb-phinf.pstatic.net/20250420_151/1745149809175gCLJ1_JPEG/1000007234.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 36,
+        "id": "1299406793",
+        "name": "오다가다",
+        "x": "126.7086194",
+        "y": "34.9926924",
+        "distance": 0.176,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 8,
+        "averagePrice": 0,
+        "address": "전라남도 나주시 이창동 760-8",
+        "roadAddress": "전라남도 나주시 풍물시장2길 24-9",
+        "abbrAddress": "이창동 760-8",
+        "shortAddress": [
+          "전남 나주시",
+          "풍물시장2길 24-9"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "전라남도 나주시 이창동 760-8",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20240120_147/17057200691444c3Pp_JPEG/1000005485.jpg",
+          "https://ldb-phinf.pstatic.net/20230625_155/1687680795359Oh5vS_JPEG/20230625_171304.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 37,
+        "id": "1124658951",
+        "name": "청정가든",
+        "x": "126.7078675",
+        "y": "34.9922896",
+        "distance": 0.189,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 8,
+        "averagePrice": 0,
+        "address": "전라남도 나주시 이창동 762-13 청정가든",
+        "roadAddress": "전라남도 나주시 풍물시장2길 16-7",
+        "abbrAddress": "이창동 762-13 청정가든",
+        "shortAddress": [
+          "전남 나주시",
+          "풍물시장2길 16-7"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "전라남도 나주시 이창동 762-13 청정가든",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20220427_10/16510468918914Yi4w_JPEG/5F8242A3-C091-415D-B788-9A8CBF8F39C2.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 38,
+        "id": "17157387",
+        "name": "또또와식당",
+        "x": "126.709109",
+        "y": "34.9930098",
+        "distance": 0.184,
+        "categoryName": "돼지고기구이",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220765",
+            "221458"
+          ]
+        ],
+        "category": [
+          "한식",
+          "돼지고기구이"
+        ],
+        "reviewCount": 12,
+        "averagePrice": 11000,
+        "address": "전라남도 나주시 이창동 759-5",
+        "roadAddress": "전라남도 나주시 풍물시장1길 9",
+        "abbrAddress": "이창동 759-5",
+        "shortAddress": [
+          "전남 나주시",
+          "풍물시장1길 9"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "전라남도 나주시 이창동 759-5",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221458",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 39,
+        "id": "2049240765",
+        "name": "해림식당",
+        "x": "126.7098483",
+        "y": "34.995107",
+        "distance": 0.253,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 1,
+        "averagePrice": 23000,
+        "address": "전라남도 나주시 이창동 744-5",
+        "roadAddress": "전라남도 나주시 풍물시장2길 43-16",
+        "abbrAddress": "이창동 744-5",
+        "shortAddress": [
+          "전남 나주시",
+          "풍물시장2길 43-16"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "전라남도 나주시 이창동 744-5",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjNfNCAg/MDAxNzUwNjUwNTc4MTcw.cvg0zOlSrt9Ttnkmj05nSACUhNUioT1u2Gr7Z_CU-wgg.bHPXdHmvm0TtI-6TKHjnQH5fIw2j7aDXk53YKiNvGowg.JPEG/20250618_112740.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250607_124/17492767778627TEg0_JPEG/20250607_150934.jpg",
+          "https://ldb-phinf.pstatic.net/20250607_40/1749288823694OKXxa_JPEG/20250607_182738.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 40,
+        "id": "1119325943",
+        "name": "농협마트구내식당",
+        "x": "126.7097589",
+        "y": "34.993021",
+        "distance": 0.234,
+        "categoryName": "백반,가정식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220055",
+            "230043"
+          ]
+        ],
+        "category": [
+          "한식",
+          "백반,가정식"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 0,
+        "address": "전라남도 나주시 이창동 758-4",
+        "roadAddress": "전라남도 나주시 예향로 3775",
+        "abbrAddress": "이창동 758-4",
+        "shortAddress": [
+          "전남 나주시",
+          "예향로 3775"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "전라남도 나주시 이창동 758-4",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "230043",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 41,
+        "id": "1881574704",
+        "name": "친구가게",
+        "x": "126.7085708",
+        "y": "34.9929905",
+        "distance": 0.148,
+        "categoryName": "아시아음식",
+        "categoryPath": [
+          [
+            "220036",
+            "220040",
+            "220094"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "아시아음식"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 10000,
+        "address": "전라남도 나주시 이창동 760-3 1층",
+        "roadAddress": "전라남도 나주시 풍물시장2길 28-6",
+        "abbrAddress": "이창동 760-3 1층",
+        "shortAddress": [
+          "전남 나주시",
+          "풍물시장2길 28-6"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "전라남도 나주시 이창동 760-3 1층",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220094",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 42,
+        "id": "17156718",
+        "name": "천안문",
+        "x": "126.7097026",
+        "y": "34.9934336",
+        "distance": 0.213,
+        "categoryName": "중식당",
+        "categoryPath": [
+          [
+            "220036",
+            "220039",
+            "220091",
+            "220861"
+          ]
+        ],
+        "category": [
+          "중식",
+          "중식당"
+        ],
+        "reviewCount": 113,
+        "averagePrice": 12000,
+        "address": "전라남도 나주시 이창동 756-5",
+        "roadAddress": "전라남도 나주시 풍물시장1길 10-5",
+        "abbrAddress": "이창동 756-5",
+        "shortAddress": [
+          "전남 나주시",
+          "풍물시장1길 10-5"
+        ],
+        "displayContext": [],
+        "labelTheme": "중식",
+        "microReviews": [],
+        "cardDescription": "전라남도 나주시 이창동 756-5",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220861",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "17156718",
+            "bodySummary": "별도 주차장은 없습니다! 골목에 주차하거나 옆에 마트 주차장이 있어요 #중국집맛집 #나주맛집 #나주중국집 #나주중국집맛집 #나주동네맛집 #나주자장면맛집 #탕수육맛집 #볶음밥맛집 #",
+            "url": "https://m.blog.naver.com/lucidkang/222837381275",
+            "nick": "바른생활",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA0MTlfMjcg/MDAxNjUwMzc0NDQxMDIz.43N05N9iXbgfqAcUkj7Om5twrL8Epq_TqGe3YTxfSIEg.rTQGsbbY3z1gO0OXMINnIagUABRGRAobNFEdb0HogSMg.PNG.lucidkang/2020-12-08_22%253B03%253B23.PNG/2020-12-08%2B22%253B03%253B23.PNG"
+          },
+          {
+            "sid": "17156718",
+            "bodySummary": "짬뽕은 국물에 생선살이 보이는게 생선으로 육수를 만드시는지 조금 걸죽?ㅎㅎ 맛있다는 이야기 입니다 로컬맛집이니 점심시간 힐링해보세요!저는 짬뽕과 탕수육을 추천합니다 다음에 가게되면",
+            "url": "https://m.blog.naver.com/haenong12/222124104546",
+            "nick": "해농이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTEyMTZfNjQg/MDAxNTc2NDcxNzE5NDgy.gbZrFDKaWXaTe4IpLB4CkpK0fUjNSniKJ6NOIBeyY5Qg.Q_5S7zJ-ZGz3Pj-4hubu9PWFnolhwZVZ1PI86muK-8Ig.PNG.haenong12/%3F%3F%A5%E1%3F_%3F%3F%3F%3F%3F%3F.png"
+          },
+          {
+            "sid": "17156718",
+            "bodySummary": "그만큼 다른 메뉴보다는 짬뽕이 유명한집입니다. 저는 사실 이곳을 10여년 정도 다녔는데, 조금 들어간 재료가 변해서 아쉽긴 합니다만 맛은 일품입니다. 예전에는 낙지를 넣어주셨는데.",
+            "url": "https://m.blog.naver.com/jm6731/221499771391",
+            "nick": "홍식가",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAxMDdfNDgg/MDAxNjczMDg1NjUyNzk5.A6OTsSY04vCJZLnTrfVJv3EzOG0WyakE3gg87yOWFg8g.jFecey1U77-O37wVa8k4lBbqXfFNkMdjD1iVpVUSeN4g.JPEG.jm6731/KakaoTalk_20230107_190013899.jpg/KakaoTalk_20230107_190013899.jpg"
+          },
+          {
+            "sid": "17156718",
+            "bodySummary": "일전에 나주의 짬뽕 맛집으로 검색해서 찾아왔던 천안문. 마침 가는날이 장날이라고 쉬시는날 찾아가 아쉽게 발걸음을 돌렸었습니다. 다시 찾은 날은 다행히 영업중이시군요. 내부에 들어서",
+            "url": "https://m.blog.naver.com/zacard/221133682312",
+            "nick": "로드정",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxODEwMDJfMTg1/MDAxNTM4NDYzOTg2NTQ3.wyUmXheeNLcqmLDYr87B5sNpz0bcxcDh7K0hJAidBQcg.A5WlU_gPnBKCpQ6BKIhBtwGbo6wStxg4upakymehlVgg.JPEG.zacard/%25C4%25B8%25C3%25B3.JPG"
+          },
+          {
+            "sid": "17156718",
+            "bodySummary": "오늘은 나주 영산포에 위치한 짬뽕에 맛집 천안문을 포스팅 해보겠습니다. 이곳은 오래전 부터 제가 알아왔던 곳인데요. 현재 까지는 여기가 짬뽕중에서는 제가 정해놓은 넘버원 이다고 생",
+            "url": "https://m.blog.naver.com/flowereneu/220939737675",
+            "nick": "꼬바에느",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxNzA4MjNfOTQg/MDAxNTAzNDcwMjc2MTE2.bZWquhG0Cfn42eSbeBqFUUyWjmTQN2ociBd1df_psGIg.SS5M8yA_5k5Swje_XPWESrQATxSbU6oFwMGRB63Wyl0g.JPEG.flowereneu/%25B2%25BF%25B9%25D9%25BF%25A1%25B4%25C0_%25C7%25C1%25B7%25CE%25C7%25CA%25C0%25CC%25B9%25CC%25C1%25F6.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

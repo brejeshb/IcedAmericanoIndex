@@ -1,0 +1,207 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 2,
+      "count": 2,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 128.8761,
+          "minY": 37.747395495495496,
+          "maxX": 128.88179707799122,
+          "maxY": 37.7519
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "128.87894853899562;37.749647747747744",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "12807166",
+        "name": "둥지식당",
+        "x": "128.8804569",
+        "y": "37.7478913",
+        "distance": 0.236,
+        "categoryName": "국밥",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220061",
+            "220623"
+          ]
+        ],
+        "category": [
+          "한식",
+          "국밥"
+        ],
+        "reviewCount": 347,
+        "averagePrice": 20000,
+        "address": "강원특별자치도 강릉시 홍제동 373-2",
+        "roadAddress": "강원특별자치도 강릉시 경강로 1925",
+        "abbrAddress": "홍제동 373-2",
+        "shortAddress": [
+          "강원 강릉시",
+          "경강로 1925"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [
+          "불향 가득한 오징어볶음의 유혹"
+        ],
+        "cardDescription": "불향 가득한 오징어볶음의 유혹",
+        "description": "주된 메뉴는 장터 국밥입니다. 주인아주머니가 인심이 후하셔서 계란부침도 꼭 곁들여 주십니다. 전 메뉴가 맛있기가 어렵지만, 삼겹살, 아귀찜, 명태찜 등 모든 메뉴가 골고루 인기가 좋습니 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjVfMjgz/MDAxNzU4NzcxMzE3MTc3.cKw7BD-ZQkDjulQstFcYJZDKqNF8y5N-WIlQUjiaZVQg.6Qzp-HG6LmBWJe45L0RuVOkathpBbm-_yTFAbGwthQYg.JPEG/AC7D5A79-0431-4089-9B40-E97DFD4B2DE5.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MDRfMjM1/MDAxNzQzNzc0MjgzNjU3.QFr23ftIBOHsqAPCZ7P2nOhf-DRY7c4CeDdGYCHPRFQg.36uv6Fko1_9THztVkblD53Txl2lGutRxlDF6vJubpJEg.JPEG/10455122-3FAB-4EDC-BE59-D71AC0FB24A9.jpeg",
+          "https://ldb-phinf.pstatic.net/20150831_294/1441024196669VEJ7v_JPEG/96270537575856_0.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTFfMjg5/MDAxNzQ0MzU3NTQ0NTU5.SGNad7K5OnTm-CqHY7qzFlSdieSabYD1NyLns0-sfkkg.BClceNdgtcZ953s4Vubu4wJpUeMNSN0ck7c_lNmJzDEg.JPEG/1744357524594.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTRfMjMg/MDAxNzQ0NjI0NzM2MDI0.6m4TvYcD47k5KcLtYje8z3kp8n-IK2-aOnDueT4QuGAg.UpJOoW4RKzRGxp7STZhTebno0NOXAxaMrxJ9PdRsfbwg.JPEG/20250414_114828.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDNfMjQ2/MDAxNzQ4OTQwODc4OTM3.dEEm9Gb9b6Ht3c64ftDAEYVd_c3kf0SeFF--c4qSwyMg.-Pq9jbsC0NUiwJ9XRzmdZlAED750qW7pS9Bwq7Uu9UYg.JPEG/1DACB055-B55D-402F-93D9-312BBA3E99BF.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MzBfMjM3/MDAxNzUxMjA5NDc4ODA2.FT5JkSEgWi5lRvIF15EX-cAcTZYmgS6SR0bLlYgkddsg.1Z0KpIfWm--gc4cazTNIFho9KtFRfRxlk9-c_3QUfyQg.JPEG/20250419_134509.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTlfMTcg/MDAxNzQ1MDQ2NTM1OTQw.otMe4wS3WVQENVuf9lJMcok7i6V72Jyk_ZibVhfA-eAg.D1CNcyjBzbQSInZFG5arM8QF5K6w_eBG4cF86VOMNNQg.JPEG/IMG_3675.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTJfMTI4/MDAxNzQ0NDQxMjkzMDgz.NInMKn0tgcipueBo4TRlmYIilgqHwAmALTKB-elP09sg.TRPl0hyZt7R6Emyz0QnjoYNxHqKRaRf2V2esY24e5Ygg.JPEG/20250411_180722.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MzFfMTkw/MDAxNzU2NjA1NjA1NDEz.so33RNq-5oABgwqq0RPnKyEC2K_5pjKCvwSZY38vtH8g.3NT6_9E7uTZFsjYdf5Y4fdIqzI9CpQrcaf6nA-cieWIg.JPEG/20250831_105322.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220623",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "12807166",
+            "bodySummary": "안녕하세요 사진 찍으며 여행하는 남자입니다. 오늘 가볼 곳은 강릉 둥지식당입니다. 강릉 홍제동에 위치한 제육볶음 맛집으로 강릉 고속버스터미널에서 차로 3분 거리에 있습니다. 강릉 ",
+            "url": "https://m.blog.naver.com/withinner/223380000759",
+            "nick": "Travel with Camera",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA4MjNfNTgg/MDAxNjkyNzc5MjM5Mjg5.RRkBlKYd8pEJzsfG__pmr543UfDhAGYJSRZrKvMozfIg.nNhmnTZBZYWGIruTXilHmMAmHHgSAtc0GDlvXnyEXksg.JPEG.withinner/KakaoTalk_20230810_151949151.jpg/KakaoTalk_20230810_151949151.jpg"
+          },
+          {
+            "sid": "12807166",
+            "bodySummary": "둥지식당 영업시간 7:00 - 21:00 (일요일 휴무) 033-647-5169 강원 강릉시 경강로 1925 간판부터 찐 맛도리 향기가 풀풀 난다. 10시쯤 방문했는데 첫손님이었다",
+            "url": "https://m.blog.naver.com/gyugyu753/223366629679",
+            "nick": "빵수르",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAzMTdfMTEw/MDAxNjQ3NTA1NjcyMTY2.X5G27fE1XZkVDpl7iWxZayP8zKEJ_NqdXg9xOYeKBRUg.uEFBDoWJw4S6ZKYVL42nzNq1XqJO8zL5qQC3j6gx2Zog.JPEG.gyugyu753/profileImage.jpg"
+          },
+          {
+            "sid": "12807166",
+            "bodySummary": "매장이름 : 대관령 둥지식당 ▶ 주소 : 강릉 경강로 1925 (홍제동 371-3) ▶ 전화번호 : 033-647-5169 ▶ 영업시간 : 07:00 ~ 21:00 ▶ 휴무 : 일",
+            "url": "https://m.blog.naver.com/rapper007/223363864320",
+            "nick": "미식여행자",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA5MTVfMzgg/MDAxNjYzMjI4OTY1NTkw.HZhQHwHMkQPQvhV2mCm6iDpyim0C_mlvI_vD18RjDQEg.L9wfMCWdI4BKdtt5dG06XnsAmDz5aMDSOHdnkhTugksg.JPEG.rapper007/profileImage.jpg"
+          },
+          {
+            "sid": "12807166",
+            "bodySummary": "강릉 둥지식당 영업시간 07:00 ~ 21:00 매주 일요일 휴무 주소 강원 강릉시 경강로 1925 둥지식당 전화 033-647-5169 오늘은 강릉 점심 맛집 둥지식당 다녀왔어요",
+            "url": "https://m.blog.naver.com/soso8847/223345525585",
+            "nick": "ssosmile",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAyMDJfOCAg/MDAxNjQzNzU4NzA3MDg1.1_7JNhg-gYRRECbj4wvffthQLtoe0wmyL1nFJTyI5vwg.vDw5cI__0cDDmcCMUIT3C2CAzhXZCGLi1nvsBTdcmcwg.JPEG.soso8847/profileImage.jpg"
+          },
+          {
+            "sid": "12807166",
+            "bodySummary": "#강릉한식 #강릉제육볶음 #강릉오징어볶음 #강릉둥지식당 #둥지식당 #강릉맛집 #개맛도리 * 033-647-5169 * 월-토 07:00 ~ 21:00 일요일 휴무 예약가능 (전화)",
+            "url": "https://m.blog.naver.com/jaeheee_97/223319333416",
+            "nick": "woehfl",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDA4MjlfOCAg/MDAxNTk4Njg4OTgyMjAw.f6t3H1QqY8XBxEXmQk2507B7uYhuM18eGdKgENTxxuUg.ScnqigtsbZV4r8TIKYW4oWgsvzL2_-xCra_yRWirNaAg.JPEG.jaeheee_97/KakaoTalk_20200829_171319805_02.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "id": "1121033111",
+        "name": "이유식당",
+        "x": "128.8809153",
+        "y": "37.7479074",
+        "distance": 0.26,
+        "categoryName": "쌈밥",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220057",
+            "220604"
+          ]
+        ],
+        "category": [
+          "한식",
+          "쌈밥"
+        ],
+        "reviewCount": 63,
+        "averagePrice": 20000,
+        "address": "강원특별자치도 강릉시 홍제동 374-7 1층",
+        "roadAddress": "강원특별자치도 강릉시 경강로1927번길 2",
+        "abbrAddress": "홍제동 374-7 1층",
+        "shortAddress": [
+          "강원 강릉시",
+          "경강로1927번길 2"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [],
+        "cardDescription": "2018-2023 서울 대학로(혜화) 2025- 강원 강릉",
+        "description": "2018-2023 서울 대학로(혜화) 2025- 강원 강릉",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjNfMzQg/MDAxNzU1OTI1MTExODY3.DMGZg0pk1Twbir4kNRmyztpxAs6TjZjPM5XIG_gATTQg.QXIjxhdJS8BOR7w8blfa9_LdaT69i96Q_qix2jWfaBog.JPEG/F29DBE42-9B0E-4477-90E0-5F8025051E1B.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDZfNzgg/MDAxNzUxNzY5NTIzOTEz.XmD7zNrHCJZqZAwj4cDHv1Q12-Rylt1mPzsUJkl866kg.ZxxYlffalfIrYm6jPy2f41MWVicd6gwoPN0YDSzUyCYg.JPEG/1000036135.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250421_211/1745247569836om5zd_JPEG/1.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTFfOTEg/MDAxNzUyMTk3MTk0MjA1.mQtqX6bsRg8p4N6fg6X6amU1Y__RLkJCeDVchsssYZ4g.GmX3eplkuMF98lb3LLmsvliuzjQGi5Wdt1PpnSfyZUAg.JPEG/BC424FD4-438E-4295-8B83-E48A3977E6C1.jpeg",
+          "https://ldb-phinf.pstatic.net/20250423_60/1745410480628tiyRs_JPEG/IMG_9134.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDNfNTQg/MDAxNzQ2MjY3NTM2MzU0.5acqXsiMdhY_-3iMB3YJmg1J0cbQ5rylAkY4lev0vGwg._w8IOYVvb77SgHGIijA_A1MEiytf2esex2ocPFxuWDgg.JPEG/7F2C71C2-7912-4BFA-8E26-3B76BF5732EA.jpeg",
+          "https://naverbooking-phinf.pstatic.net/20250501_124/1746031985241j4mAs_JPEG/image.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDJfODAg/MDAxNzQ2MTcyMTMxNDYz.bIuMAzKTy0P1sRS7bNRu8tOXZoyJFbG9yYvPfWgy4a0g.WXlQe_2jjfmIHB7SRoneN0B6lys6UKuCcYnoT8wapyMg.JPEG/01AD7540-64E1-4568-8200-87F0E3B4EAA2.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTNfMTYz/MDAxNzU1MDk2MTc4NzI2.8q9F6cpubd6UEhgreACVgVPnikzKLpHg3p7yjOhXqMUg.sx_ea85mZumnaizoE7PVfOSFUAno9DT4CtP5tBWqtrwg.JPEG/BF3B7ADD-7480-4222-A6BA-CC79378A9C24.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDlfMjk5/MDAxNzU0NzM1OTkyODA3.XaJcno7_dVLXitbErNNI3HChRqMSQkpcQ5XrxAACUKsg.9BywDhT1R3fYSgbP_fshp_15EojqguIIJc9eF5YXeYIg.JPEG/2025-08-09-18-50-34-232.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220604",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

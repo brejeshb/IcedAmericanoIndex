@@ -1,0 +1,93 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 1,
+      "count": 1,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 128.6211,
+          "minY": 34.870990990991,
+          "maxX": 128.62659094415164,
+          "maxY": 34.8754954954955
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "128.62384547207583;34.87324324324325",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1116807439",
+        "name": "파스쿠찌 거제거붕백병원점",
+        "x": "128.6261659",
+        "y": "34.8736094",
+        "distance": 0.216,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221342"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 511,
+        "averagePrice": 5000,
+        "address": "경상남도 거제시 상동동 943-5",
+        "roadAddress": "경상남도 거제시 계룡로5길 14",
+        "abbrAddress": "상동동 943-5",
+        "shortAddress": [
+          "경남 거제시",
+          "계룡로5길 14"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "경상남도 거제시 상동동 943-5",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDNfMTgg/MDAxNzU5NDU2NzEzMjEw._GkUCwnziuRsfmHPXDhzC9WKLzVOGeh__iINilg5K4Mg.vsqB7KAJ393YPvcIn2KMtLplmdMaGitoyxgTfPYtrvMg.JPEG/20250826_144535.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjBfMjYg/MDAxNzUzMDAxMzE3ODkw.Rmge8Mgovs0pLz6FgBmcOxNPQ-QpZOhDecu2cCiP6CEg.wlCGMGEHz1lYvhxZwGJXle4q8WgmP_9c15L3F32JhA0g.JPEG/Screenshot_20250720_173529_Samsung_Internet.jpg",
+          "https://ldb-phinf.pstatic.net/20220527_217/1653631737836lCmmn_PNG/image.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjBfMTEy/MDAxNzUzMDAxMDc1NTE2.lnjkDUXhB5S5R5PJsSL0jpRBosFwJ-VSYRl1ELLnceQg.BAgedi5Mf5EjQM5OVfHRB2lcVt2gU2cP0vclwlYtxsYg.JPEG/4447FAB3-5E42-41EA-A942-57E22EA5E065.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221342",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

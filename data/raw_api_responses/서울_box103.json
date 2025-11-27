@@ -1,0 +1,156 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 2,
+      "count": 2,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.97004398393382,
+          "minY": 37.561995495495495,
+          "maxX": 126.97118055765756,
+          "maxY": 37.5628963963964
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.9706122707957;37.562445945945946",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1041217296",
+        "name": "현스티 순화점",
+        "x": "126.9708747",
+        "y": "37.5625623",
+        "distance": 0.027,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 126,
+        "averagePrice": 4000,
+        "address": "서울특별시 중구 순화동 5-2",
+        "roadAddress": "서울특별시 중구 서소문로 89",
+        "abbrAddress": "순화동 5-2",
+        "shortAddress": [
+          "서울 중구",
+          "서소문로 89"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 순화동 5-2",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "682942301",
+        "name": "한식차가옥",
+        "x": "126.9708354",
+        "y": "37.5626302",
+        "distance": 0.028,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 191,
+        "averagePrice": 8000,
+        "address": "서울특별시 중구 순화동 5-2",
+        "roadAddress": "서울특별시 중구 서소문로 89",
+        "abbrAddress": "순화동 5-2",
+        "shortAddress": [
+          "서울 중구",
+          "서소문로 89"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 순화동 5-2",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "682942301",
+            "bodySummary": "차가옥 02-778-6931 서울 중구 서소문로 89, 순화빌딩 2층 메뉴 중에서 엄지 척인 요리는 김치찜과 오징어정식 입니다. 12시30분경에 가니 1차가 사람들이 빠졌는지 자리",
+            "url": "https://m.blog.naver.com/pitard15/222054849975",
+            "nick": "서울리엔느",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxODA3MTVfMjc2/MDAxNTMxNjYzNTAyNjQ0.VwhLoGURTmEIx0JtqAp34OFzT4_r3BKxftt3LlJAUAUg.zCGHXP0w7XLhMmEzp3K1l55-lpnzHHUsrfMWQ-ekX_0g.JPEG.pitard15/IMG_0716.JPG"
+          },
+          {
+            "sid": "682942301",
+            "bodySummary": "웨이팅한다는 글을봤는데 사장님 말씀으론 11시30분전이나 12시30분넘어서와야 여유롭게 먹을수있다고 하셨다ㅋㅋ 시원한물도 주시고 친절하신 사장님! 우리가보쌈2인분 김치찜1인분 시켰",
+            "url": "https://m.blog.naver.com/oj4262h/221571518987",
+            "nick": "츄추일기",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTA1MThfNjIg/MDAxNTU4MTUwMTIwMjY2.lc1GpKVNFPjzpVmVV7A8dBsV0OwTflGdyX-6jx0YOlsg.FiZEP9DLYBMhRXO0xk2MwpeMl3rzYWiwl49XkFo8zjEg.JPEG.oj4262h/KakaoTalk_20190518_122651265.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,441 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 5,
+      "count": 5,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.98140972117122,
+          "minY": 37.572806306306305,
+          "maxX": 126.98254629489496,
+          "maxY": 37.57370720720721
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.98197800803308;37.573256756756756",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1845484258",
+        "name": "베이커리조",
+        "x": "126.9817276",
+        "y": "37.5731773",
+        "distance": 0.024,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 15,
+        "averagePrice": 0,
+        "address": "서울특별시 종로구 수송동 46-10",
+        "roadAddress": "서울특별시 종로구 우정국로 45-20",
+        "abbrAddress": "수송동 46-10",
+        "shortAddress": [
+          "서울 종로구",
+          "우정국로 45-20"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [],
+        "cardDescription": "서울특별시 종로구 수송동 46-10",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTVfNzAg/MDAxNzU3OTIzMjUwMDM4.F_XDx8TZ19UuypiuRIvf8s3Y7Zm4UBJjrJ01GFuutVIg.0YPkOnoexxCaEnlhlG1GnC7sg-0NKUoSUgYGWIYX-okg.JPEG/20250915_145707.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjlfMTc1/MDAxNzUzNzY4MzM1ODgx.qfnHlEVEF4eZZn_2fC5iDVYx9inoLPLygIdtip5cxbIg.P0kENjRly6YCORrprNAdqQ7ZOwxiazrspIY7-lJHVIIg.JPEG/20250729_142530.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDJfNDcg/MDAxNzU0MTM0MTIxMjE4.7K664Uji253IoEuV-VbEmSGrqH51pFUU8rVb6ZtZ7uog.0l9SCPH68ubMMbmHuWPTPY-hkfc3P7tnHbnQLn4wnIEg.JPEG/8CC2AE90-3A58-426B-BAAE-B5DD6ED7F2EE.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDRfMjQz/MDAxNzU0MzE1NjY5ODcw.zPXuZhaFIkbFWQkwIhjcaGFGgSJOSyYeEIt0MUzP8Qog.EGVI4Tq0joxluc4XXgcxj4k2Ou0NSFdJmO7oOHCaW2Yg.JPEG/71568B3C-4319-45C2-AB59-5B201B93D7B4.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MzBfODIg/MDAxNzUxMjg4MDAwMjA2.EQg-25JQ8T19kt8qf8LGn4BXJoVNyLCMw9u6abWCTT0g.iXx4dYI94nYuceFfG0zpPqh0b4CNXXsxdZv0Ba8wCKMg.JPEG/H0qzyYukmZ2_20250630215153.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjNfMjk4/MDAxNzU1OTUwNTM0NjA2.9tuiE8YqvqSyEo4vUlcNlyfU3A1Z2tQ0sBXq5IePXcAg.QOwBW__wv6zh1E_pjYCuXN70kSmrW_0BTexu83Ykpakg.JPEG/49EAE2EC-1B40-4E83-8856-E6BFF0D482B0.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "1966162758",
+        "name": "삼봉도담",
+        "x": "126.9825303",
+        "y": "37.5729523",
+        "distance": 0.059,
+        "categoryName": "칼국수,만두",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220073",
+            "220712"
+          ]
+        ],
+        "category": [
+          "한식",
+          "칼국수,만두"
+        ],
+        "reviewCount": 3584,
+        "averagePrice": 10000,
+        "address": "서울특별시 종로구 견지동 110-34 1층",
+        "roadAddress": "서울특별시 종로구 우정국로 45-5",
+        "abbrAddress": "견지동 110-34 1층",
+        "shortAddress": [
+          "서울 종로구",
+          "우정국로 45-5"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [
+          "진한 사골육수의 깊은 풍미"
+        ],
+        "cardDescription": "진한 사골육수의 깊은 풍미",
+        "description": "인사동 칼국수 & 뭉텅이 앞다리살 보쌈 맛집 삼봉도담  조계사 뒤편, 종각역 근처의 아늑한 골목 속 전통적인 감성을 느낄 수 있는 식당으로, 칼국수와 보쌈이 맛있는 인사동 골목 깊숙이 자리  ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjZfODAg/MDAxNzUzNTMzODIxNzgx.0ga_UpUvdp4rCqtyWO2Yq4kPAoUv2ghnarWw6_RTXZMg.co4oikyk5D4_UEsybnduSWHahH3yHM_NlfkQQD8lQGwg.JPEG/20250726_183446.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjFfNjgg/MDAxNzU1Nzc2Mzg2NTg2.mPfW82dRczIuYiAzEsPrz1ainPDUMLDPS9GGt1n8OvIg.L6MiJqz4e6ux8-Ko0JC-Ld7K0_-xhawcBevY1yug-uIg.JPEG/1000043976.jpg",
+          "https://ldb-phinf.pstatic.net/20250211_278/1739277208319PXoqb_JPEG/P20250211_091427605_0554F9F8-CF71-4FF9-8DB4-4B27893ECF8A.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MzBfMjkw/MDAxNzU5MTg0NTg5ODk5.N5A0i6iWjGsEyUWe0nN6OpaK7KrrHcwws5IFAVG6XFAg.WrPP-32vmbNy8PyERvzdxCEdjIx7QUeizYhruX9g27Qg.JPEG/AFF4134A-06D2-47BE-B9D8-A12EDBDE500E.jpeg",
+          "https://ldb-phinf.pstatic.net/20250408_254/1744103612850DKMTP_JPEG/KakaoTalk_20250408_180515043_01.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjVfOTAg/MDAxNzU2MTIyNzU5NTk0.Pq5Yqbrx1ENBjJ8aT5KH9dU9wEhuhV-6E7XIivLr-Ysg.TYsAWJcuIxtMqx9XNORpck_Py8WBGKGM43dcno0D0wAg.JPEG/4AD9840A-E192-47A3-96A6-6DA183E029B1.jpeg",
+          "https://ldb-phinf.pstatic.net/20250211_84/1739277208385XnttX_JPEG/P20250211_091405153_8A535C1A-0832-41AF-AF6D-F9AED8C704EA.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjRfNTEg/MDAxNzUwNzYzMjM3Mjg0.o73wt8RahuxvvoFjTtlTRbolpAe_sXF06-rYApVoVyAg.986vvUAOV11C8P0WSCZZL5vQ9lz088qvB3tPJWvNv6sg.JPEG/61C7B4A7-1CBC-4E8D-B90E-336E94CFD61A.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTBfMTMx/MDAxNzU3NDcyMTY2ODM1.9er7uZJM0qA_j0ej9-t_g2QD6K1ELvkKEwDOXRLRzR4g.JtTgGNjfenbspnObcmwlUzSW9GOnJLyuAVXCxXMq3pUg.JPEG/20250910_113120.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjlfMjI2/MDAxNzUxMTY4Mzg2ODM3.JJ4Z3KB9SMSSesRc16MiK9weXumOpWq1Bd6sH2uylocg.IEfGMNoGsZgH5LF28K93On6udNuFEFAPGlZMplmJjT4g.JPEG/20250629_122620.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220712",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 3,
+        "id": "1630786178",
+        "name": "운종가",
+        "x": "126.9825303",
+        "y": "37.5729523",
+        "distance": 0.059,
+        "categoryName": "한정식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220056",
+            "220594"
+          ]
+        ],
+        "category": [
+          "한식",
+          "한정식"
+        ],
+        "reviewCount": 184,
+        "averagePrice": 50000,
+        "address": "서울특별시 종로구 견지동 110-34 2층",
+        "roadAddress": "서울특별시 종로구 우정국로 45-5",
+        "abbrAddress": "견지동 110-34 2층",
+        "shortAddress": [
+          "서울 종로구",
+          "우정국로 45-5"
+        ],
+        "displayContext": [],
+        "labelTheme": "고급 정찬",
+        "microReviews": [
+          "스토리텔링과 함께하는 정갈한 코스요리"
+        ],
+        "cardDescription": "스토리텔링과 함께하는 정갈한 코스요리",
+        "description": "반갑습니다! 좋은 사람들이 모이는 곳, 좋은 사람들과 함께 좋은 시간을 보낼 수 있는 곳을 만드는 택대리네입니다.  택대리네는 종로구와 중구를 기반으로 보쌈 삶고, 김치찜이랑 갈비찜 찌고,",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjVfMjYw/MDAxNzQ1NTkxMzEzMzUy.MYTGVroXHvQQaH7ujBRB1BfOgq5jCx5Y4FSh1yDyoQIg.i5Sdr8heW2ZgXvJuRf9CXJv4eeRloWoYXNvz9luZSTwg.JPEG/20250423_125719.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDlfOTYg/MDAxNzU3NDIwODY0NjEy.SwF160SVKQ26opIhZeLFQEztQbndjCvpBHqZbgs_hqgg.fqZ9S8EguX5nbyDxQPz1puPyh54PEzX-jk35-QNOvVYg.JPEG/D6C44B18-CE55-4C1A-95E2-EAC38C6DA9A6.jpeg",
+          "https://ldb-phinf.pstatic.net/20251002_284/1759396033693FYOFl_JPEG/KakaoTalk_20250918_183458480.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjZfMjQ5/MDAxNzQ1NjA1NTQ4OTY1.QFyF5X9ntOM-nE-tZXclymZjh9-KFn5u_h_JPHUxJVUg.LRYZDEPSqto9Mb_ZoED9beXx2qGXPV1Vh2hfNRAGvi0g.JPEG/044E8060-B1D0-4FD8-9A14-D98578CC7387.jpeg",
+          "https://ldb-phinf.pstatic.net/20251002_58/1759396106028sg9ID_JPEG/KakaoTalk_20250923_132513537_07.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDFfMjIg/MDAxNzQ2MTEwMzEzOTgw.a-LmBRrbcJCPgNZD2VlPPrILrOGk4Y20WMhOV2cx8Kwg.a8kMPnEqEHIlt3QQ0ZiWNyPz3VI4arnSwOgm1Urlq9og.JPEG/20250425_200259.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20251002_44/1759396105758cv57H_JPEG/KakaoTalk_20251002_180220162_23.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjJfMTU2/MDAxNzQ3ODcyODk1NjAw.A4VCSS72FWfn6HTnbvBoiWMx3C4caaSPdZgxUTj0744g.FoKMMHT5d8d3M1EOi78Cs0oQGj_QIaHdacgnSI9RqUMg.JPEG/A6AA954E-DA02-4EEC-89A5-B980C3BF767F.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDlfMjA1/MDAxNzU5OTc2MzIzMzY5.fSgH1WIwUuLl8xzmSdWpHq_KR8lOiE3P46rAEp52dXog.MeZMybAsY02Jpd_U631mW545oVrckv6nuN4owguQa3sg.JPEG/95B37120-02BE-4E20-A36C-2208BC4FC049.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTlfMTk1/MDAxNzQ3NjMzNTU0NjI4.itWn8ETpAvJ_aXdLyMGuJl6KhtY6z32v7a7c7_3d8Tkg.Ga72GGOJQ6_f2eziOmCmUt9PnSoUScQsybghXNiRnGwg.JPEG/20250411%C3%83%C2%AF%C3%82%C2%BC%C3%82%C2%BF192618.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220594",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 4,
+        "id": "1360830833",
+        "name": "의정부부대찌개&돈까스",
+        "x": "126.982375",
+        "y": "37.5729033",
+        "distance": 0.053,
+        "categoryName": "찌개,전골",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220065",
+            "220660"
+          ]
+        ],
+        "category": [
+          "한식",
+          "찌개,전골"
+        ],
+        "reviewCount": 704,
+        "averagePrice": 10000,
+        "address": "서울특별시 종로구 견지동 110-44 2층",
+        "roadAddress": "서울특별시 종로구 우정국로 45-7",
+        "abbrAddress": "견지동 110-44 2층",
+        "shortAddress": [
+          "서울 종로구",
+          "우정국로 45-7"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [
+          "깔끔하고 속도 편한 부대찌개의 정석"
+        ],
+        "cardDescription": "깔끔하고 속도 편한 부대찌개의 정석",
+        "description": "Since 1998_의정부부대찌개 & 돈까스 입니다! 과거 전)일본대사관 맞은편에서 시작하여, 현재는 조계사, 불교대학 옆에서 꾸준히 식당을 운영하고 있습니다^^  평소 우리가 알던 부대찌개와는 달리",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTJfMjMx/MDAxNzU0OTgzMTU3NDE4.hY64qZJ4pV2Nd_61y0wCE7-XOCvtI8MhazGSTFl8LRgg.EO18Bxwt3EuUsO1L5wM1x_8FTlA7muj35GQlVQyJBVog.JPEG/5D65E867-C430-4FF6-A058-863B9603A5A4.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MDVfMjA4/MDAxNzQzODM2OTY1MDk0.uLZwaCGL5ulYPnpTI7yPMSz_TNVMe-dbn6Z_jRhKst8g.sRICTR_66n14sljEOksGUTLW0YhwtesOeGdOFes6jFAg.JPEG/6E10E4B0-7410-49EA-8C4C-DE6F623AC2EB.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTZfMTE2/MDAxNzQ0ODExNjA4ODEz.VPIPe8iWwSiCfGe-wbdPzUeKez0GUKOPuxrBIlI5bX8g.Oq252eMwACtkVtHJ6nS3hXWUq2KdPApB9wnHZQkBLm8g.JPEG/20250416_120330.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDNfMTcz/MDAxNzUxNTM5OTYzMDE0.3GTSUNf6hxaG9qSScOE-YkID-hJa9OqK3H6A2QJ9wVAg.zus12OQsCza-bAK_DmzjK_ciMBVr5SjB5v0Fr-W2kNUg.JPEG/20250618_134829.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDdfMTgg/MDAxNzU0NTQwNTgyMzk4.kxJJYJV3veo0eZfR4fJiUjQ-LXllIt82vnGUgS8vC3Ig._yLCQeOhTAN689twYPOJXPfuuDBRt5Pejpmhi41l2z8g.JPEG/8B8132B5-6E5C-4ACA-8B11-C156AD01F663.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDhfMjQy/MDAxNzU0NjM5MzkyMzM5.jQXvkOU0BUlinsOYLwV-QMTp1q_D1WW1UHPgd8pIu2Mg.SwQGsvT1fD9p7N7gspcEN65QpK3kkDkSqQEbuGQgXbQg.JPEG/20250807_120822.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjBfMjcy/MDAxNzUwMzc2MjIwMjYx.MFeHxpH6aEinN3T-2NWgxdqRj20w0FbxOH41W3xVw3Mg.d-QcyMVNuk0YlhHODsFgwEi8Oqd4hF8xVbZKXor-9pMg.JPEG/20250619_122425.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjBfMTQ0/MDAxNzU1Njk1MzQ4Nzg3.S_mSQn7GRG4cagLPqEYiNz9KydBCpJwI5AotpD_7Fewg.JMoeQNxhD1smnrwDlWFBZVS3fuQbmAMN3uyYMAL55c4g.JPEG/20250818_174507.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTBfMTcy/MDAxNzUyMTUwODY2MjEx.CiBWNZulE4unHn9B4Y_zyap7IW7lPB-mIIkF1XTi9Ecg.aCGwOdTo84Tn8190bHE_0ZyKbvxN2vp813ktawG-P-Qg.JPEG/ACE25845-33F2-41CD-AE81-BC4BF8B07E44.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220660",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1360830833",
+            "bodySummary": "& 국물이 칼칼하고 밑반찬도 맛난 의정부부대찌개 맛집 월 - 금 11:00 ~ 21:00 브레이크타임 14:30 ~ 17:00 라스트오더 20:00 ❌토, 일 휴무❌ ❌주차❌ 가게",
+            "url": "https://m.blog.naver.com/rnjswls2590/223391602202",
+            "nick": "Jiny",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDA3MjlfMTM5/MDAxNTk1OTUwNTkwMTc1.ixW4M1OykmQU6g7Rzm_ycLSs48Rev8xqqA7MG6fkDX0g.dQqHAQgIzqrHrU4CfObMZYSq6Uwaj_6T9KoJHQUMp8Ag.PNG.rnjswls2590/profileImage.png"
+          },
+          {
+            "sid": "1360830833",
+            "bodySummary": "어느날 부대찌개를 점심으로 먹었으면 한다고 하니, 주변에서 '의정부부대찌개'라는 유명한 맛집이 인근에 있다는 것입니다. 하여 '종각 의정부부대찌개'를 검색해 보았는데...어우야..",
+            "url": "https://m.blog.naver.com/lawyer_kbs/223353897484",
+            "nick": "캠변",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEwMjVfODgg/MDAxNjk4MjE0Mjk3MDc5.P7SfHzTyQ3DVC-afxfoW5CdR8t-VVrE8hUnypOnaIiUg.USQrsVDeYTqmzYb-D30SfbxPSkknZUUdOJq4EUNVXDIg.JPEG.bim98/profileImage.jpg"
+          },
+          {
+            "sid": "1360830833",
+            "bodySummary": "너무 좋아요 부대찌개 2인분 이곳의 대표 메뉴인 부대찌개 2인을 주문했습니다. 맛있게 끓는 중- 그 사이 나온 밑반찬. 여기는 바로 이 밑반찬 먹으러 오는 곳이라고 해도 과언이 아",
+            "url": "https://m.blog.naver.com/donoodonoo/223349952442",
+            "nick": "움트다",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA0MTJfNTgg/MDAxNjE4MTU4Mzg1OTE2.Ae4DqPs-ZlR6uHzHr7yEZzc6d0FnQMEJGF5MZWfciUwg.DEkL8DBYP51sCISXL6-9yI_pubpfilqyfLjXcAHFyx0g.JPEG.donoodonoo/profileImage.jpg"
+          },
+          {
+            "sid": "1360830833",
+            "bodySummary": "12시 10분전..인기있는 오피스타운 식당이라면 당연히 이정도는 되는건데 꾸준히 나가고 채워지는거 보면 꽤 인기가 있는집이다. 11시40분까지 입장하면 3인이상 예약도 가능하다..",
+            "url": "https://m.blog.naver.com/haidycoffee/223318149000",
+            "nick": "꼬두메",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxODAyMDdfMTM3/MDAxNTE3OTUzNjU4MDQw.TtF6tGCEWdVTP0QIBXrvyn3fQglj8B5N8ru8g8dJQrsg.oVNtC-wFis8qX3GK0fBm8AIXO6oSlXR87loOop6QMOIg.JPEG.haidycoffee/DSC08419.jpg"
+          },
+          {
+            "sid": "1360830833",
+            "bodySummary": "의정부 스타일의 부대찌개 맛집 살짝 매콤한 부대찌개가 땡기는 날 회사 근처에도 유명한 부대찌개 집이 있다고하여 기쁜마음으로 방문하였습니다 간판입니다. 정직한 제목이네요 ㅎㅎ 여기서",
+            "url": "https://m.blog.naver.com/5jiii/223309270274",
+            "nick": "오지",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA1MjNfMjUx/MDAxNjg0ODAzMTMyNjUy.GSJfQr8GZI6lCHnOqZko0-ZHtVdSpePt6n_OS_yRgkcg.bGgW2YMtbwtm0ckFHdXLxhAvhFmjSrBOQjrd_-_eJV8g.PNG.ojs777/KakaoTalk_20230523_095059761.png/KakaoTalk_20230523_095059761.png"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "id": "1194910250",
+        "name": "은성 한정식",
+        "x": "126.981498",
+        "y": "37.5729994",
+        "distance": 0.051,
+        "categoryName": "한정식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220056",
+            "220594"
+          ]
+        ],
+        "category": [
+          "한식",
+          "한정식"
+        ],
+        "reviewCount": 1380,
+        "averagePrice": 40000,
+        "address": "서울특별시 종로구 수송동 46-24 조계사 후문 (불교대학 옆건물)",
+        "roadAddress": "서울특별시 종로구 우정국로 45-23",
+        "abbrAddress": "수송동 46-24 조계사 후문 (불교대학 옆건물)",
+        "shortAddress": [
+          "서울 종로구",
+          "우정국로 45-23"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [
+          "게장 정식부터 갈비찜까지 다양한 선택"
+        ],
+        "cardDescription": "게장 정식부터 갈비찜까지 다양한 선택",
+        "description": "안녕하세요~ ^^ 저희 은성 한정식은 45년 동안 전통을 이어온 종로의 숨은 골목 맛집입니다. 종각맛집 은성 한정식은 화려함보다는 정갈함으로 이익보다는 고객 만족을 철칙으로 운영을 하기 때",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTNfMTEw/MDAxNzU3NzcxNjMzNjIy.NAKaSFSWKJQbirEzIwqIpTPsYeMad07qW95L23hRyjUg.srW_AnxU9d21VzC1aNxt6Dv150JaP-w_vxNuVy_UhmAg.JPEG/20250912_124338.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjdfMjIg/MDAxNzU2MjkwOTU1NTcw.S8tgnug_BcJWF7ZI5CVKpVUUE3ve5G64RNGTNerWF7kg.4qtnOqfs44_cXnnjTpmgaQ3qkx2LyPRavV3LcUU4cYIg.JPEG/20250827_124051.jpg",
+          "https://ldb-phinf.pstatic.net/20190904_55/1567564692872VQna9_JPEG/qATDgyCMROZ67BlqX6_UgTON.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjZfNjUg/MDAxNzUzNDgwMTU2OTk1.cT_RAORQvvGHvVF30XKY17WbAbYZtNj9QTNhd1uhMI4g.t612TVDlgHMbFzBgPdTJay5ZMrSM5GXZof7OjgcEZ_og.JPEG/20250724_123716.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20190904_64/1567564702110Xeojv_JPEG/ZwbxvzuQ91ohnAaj7YJWvi9p.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDlfMTM4/MDAxNzQ2NzY2OTQ3MTQz.4nDPgLbjRtnm8eHyLeGw32cEUmeK3ymfdp0xFVlyaQUg.KJWDOuklleDVncM_pSoahZQqa9AGGrTIY37wtgdyOfIg.JPEG/20250509_132637.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20190904_148/1567564702127THQh4_JPEG/DKPqyxUwDVJyEL46LclpEDcC.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDhfMjMy/MDAxNzUxOTM3NDA1Njc4.3wMLGS_al0A6K_mkhjdRNW25vM_VRscA6U10z40nHMQg.r_HW3jW4wwRY69Wo8Bph97Kkss9lLcs1Ox5UQQoP0ZIg.JPEG/KakaoTalk_20250707_145635688.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDZfMjcz/MDAxNzQ2NTAyNTY4MDI0.kpJCM5WjHA79ZpMZXi6hRyW7s3L-XTC37LWBOcn6b2Eg.9PO4KWNBC8oQ5f0qc768bL3IXPhAbLY9dNPulzOSqdYg.JPEG/20250505_125459.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDhfMjg1/MDAxNzUxOTQ5MDc2OTE2.NwFzNW1NDaQnmB6o-8gAQeU-rQ3P7Cz8FEfpmi4YGBMg._Fl5OxVaG30suKPM35mr_o309XW-nwIUU2No8OCSZSAg.JPEG/20250708_131119.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220594",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1194910250",
+            "bodySummary": "사라지는 곳이 아닌 세월이 검증한 곳 '공공기관의 인증' 사설단체의 인증도 알아주지만 종로구 모범식당 보건복지부 장관 표창장 등 책임소재가 명확한 공공기관의 인증 시어머님이 좋아하",
+            "url": "https://m.blog.naver.com/mignonxi/223323362986",
+            "nick": "건강지식",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA4MThfMjU5/MDAxNjI5MjY1MTE2NjY3.1CFt0_frhOcv8UpQG2xP_tOhu83nv5tVjIWVPwmkV4wg.w6HrVPZAWfBO5vxCZIKc-UDl4YoJu-FP9V1eIjYEWAIg.JPEG.mignonxi/0d8a22def593c688f7d32dff3e65b74f.jpg"
+          },
+          {
+            "sid": "1194910250",
+            "bodySummary": "상견례도 보통 한달 전에 예약해야하는데 1주일 전에 예약을 하려고 하니 가고싶은 곳 예약 마감으로 차선책으로 생각한 음식점이 마침 가능해 예약한 서울 상견례 식당 은성한정식 주소 ",
+            "url": "https://m.blog.naver.com/kjhkte7805/223111035359",
+            "nick": "수산",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA1MzFfMjQ3/MDAxNjg1NTI2NTczMjM2.ywx68CpPwhd4XboXaSuSl2q92-EJp6xbQ0W0mWdu8Hcg.1emehF209zfel9SpwYc6GkXz_qzlnO94FFfzaTp8Hncg.PNG.kjhkte7805/%25EB%258C%2580%25EC%25A7%2580_3.png/%25EB%258C%2580%25EC%25A7%2580%2B3.png"
+          },
+          {
+            "sid": "1194910250",
+            "bodySummary": "은성한정식 나이가 서른넷 정도 먹으니 친구들과 한정식을 먹으러 가게 되는군 그래 밥 든든히 먹고 커피 마시고 놀자 친구가 미리 예약 한 은성 한정식 종각역에서 가깝 인사동 이랑 또",
+            "url": "https://m.blog.naver.com/hdjady/222631314736",
+            "nick": "타임투제이디",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxNzAzMjRfNSAg/MDAxNDkwMzU1MzkzNDUy.8P7dlcXMRc_3SM1-cqpwzkikvqpMUA5JiU-fGejllZEg.Jqbfp2EREJLJT2fR-p-p1auDzrMiS6_HCoZUKCxF0o8g.JPEG.hdjady/profileImage.jpg"
+          },
+          {
+            "sid": "1194910250",
+            "bodySummary": "안녕하세요 에일린이에요 정말 오랜만에 회식에 참여했어요!ㅎㅎㅎ 저희 팀에 계셨던 부장님이 다른곳으로 떠나게되어 송별회를 했습니다 종각 조계사 근처에있는 한정식식당인 은성을 다녀왔어",
+            "url": "https://m.blog.naver.com/eileen_0623/221680669288",
+            "nick": "에일린",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA2MTBfMjk3/MDAxNjU0ODM3NTM5NDE2.5vgkAoKLps5iNCoTKXvE055L1HEe2UhspKceUUVeO18g.a_PtZgX5fSkZxNpgdGwiJXYe5sVG7_enpS8PScKxr_gg.PNG.eileen_0623/profileImage.png"
+          },
+          {
+            "sid": "1194910250",
+            "bodySummary": "한정식코스요리와 보리굴비정식,간장게장 정식을 판매하고 있다. 들어가니 내부도 한옥스타일~ 옛날 집 분위기도 나고, 정감가는 옛날 한옥집 분위기 모든 자리는 룸식구조이며, 단체모임장",
+            "url": "https://m.blog.naver.com/shinesparis/221542177879",
+            "nick": "서소남매맘",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA4MjlfMTg1/MDAxNjkzMjgyOTY1NzIw.YvMrOSSYLLfPjOovq0gT1ik3B9fT3lvAqCO4SCrKmr4g.bsK1NGftYTgmyoR8Yr-_m5CnHjlK_WRweN4c7ONXIqMg.PNG.shinesparis/profileImage.png"
+          }
+        ]
+      }
+    ]
+  }
+}

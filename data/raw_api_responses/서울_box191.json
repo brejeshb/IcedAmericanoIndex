@@ -1,0 +1,1029 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 13,
+      "count": 13,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.97913657372374,
+          "minY": 37.5655990990991,
+          "maxX": 126.98027314744748,
+          "maxY": 37.566500000000005
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.9797048605856;37.566049549549554",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1137765575",
+        "name": "팀홀튼 서울시청점",
+        "x": "126.9793104",
+        "y": "37.5657132",
+        "distance": 0.051,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "1006368"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 709,
+        "averagePrice": 6000,
+        "address": "서울특별시 중구 을지로1가 188-3 프레지던트호텔 1층 ()",
+        "roadAddress": "서울특별시 중구 을지로 16",
+        "abbrAddress": "을지로1가 188-3 프레지던트호텔 1층 ()",
+        "shortAddress": [
+          "서울 중구",
+          "을지로 16"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 을지로1가 188-3 프레지던트호텔 1층 ()",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDlfODYg/MDAxNzU0NzQxODY5ODI5.2yz2TYYiqIUmXqDSDqDmgmhiNqqzCEXIfXOTG5NLb5sg.4YQm7lcWhVxvw878lhDSKgduVLWGWLBNN2WQnJXcY68g.JPEG/IMG_8590.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDNfMTMy/MDAxNzUxNTQ5Njc0MDgw.UzBKblTKId4U456vnIjYOSyNnHP5jfVXsBUYDf0-yeAg.w8hmO5sImR89QSHcHtuQtm8XBbcnuNrgv_mEMdGCbpog.JPEG/IMG_8902.jpeg",
+          "https://ldb-phinf.pstatic.net/20240430_177/1714440697850tuw0a_JPEG/pos%B4%F5%B9%CC.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDZfMjY4/MDAxNzU3MTQzMjk2Mzg3.yphaUnvVckZpLxlFFlmGZISqz9lmMVlMtrZanjOTmGMg.sT3al_0CPm-Y5zS63mNUxZwdaJyfUYxBKkKila_oyxog.JPEG/E918A54F-DF71-4663-838B-C18487157A8E.jpeg",
+          "https://ldb-phinf.pstatic.net/20240430_233/17144406838789JsjE_JPEG/231208_TH_Menu_KV-7_ver3_OL-%281%29.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTNfMTEy/MDAxNzQ0NTA3NDc5NDYx.XU51tySgXlvGG_D2fv-hGrX58vv4qYB-1OuhubFFir4g.Acp3Y4PRlEKT2mrz1u3PTFK8g2yX-3b4A7AiPZzCgqAg.JPEG/505160DD-6292-491F-AFF4-072952F44336.jpeg",
+          "https://ldb-phinf.pstatic.net/20240430_62/1714440683571Loo1E_PNG/MicrosoftTeams-image_%286%29.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTJfMjI5/MDAxNzQ0NDM2ODA4ODU4.o1SF0Bkn4Zsy1jSkgIyup9Z8f7eBsWuWSki99C3Xq4cg.oaDvWw9Q5CDOOkxM4-7EOYZjjofFgurw3hgTSN1b4fgg.JPEG/3F57E2D9-A9C6-4F80-8136-AC049966684D.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDVfMTQ0/MDAxNzU0Mzg2MzY2MDY4.wjQZPzbsLw-VNadTfrbGJaZoCadaEBi3mQQL_Xa9AHIg.n51B9dpZhoR8XT5o-Am_Kyt4CWUFcY52pJ91yQBDfpkg.JPEG/F667ECC8-22F5-4080-8921-74BBAAAF6284.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MzFfODYg/MDAxNzQ4NjYyOTY3NDcy._jAKAvubq3TtTvvf8a0hol5Pb-5Iso_8Mt628OkVwqcg.wsc7WqNeKsHFQ9XQIvOc4RjaPAbl0EDQOceGJcXVSUMg.JPEG/20250523_164623.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1006368",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "1759799775",
+        "name": "광화문도시락",
+        "x": "126.9791487",
+        "y": "37.5658573",
+        "distance": 0.054,
+        "categoryName": "도시락,컵밥",
+        "categoryPath": [
+          [
+            "220036",
+            "220047",
+            "220169"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "도시락,컵밥"
+        ],
+        "reviewCount": 331,
+        "averagePrice": 5000,
+        "address": "서울특별시 중구 을지로1가 50-1 시티스타몰 지하 123호",
+        "roadAddress": "서울특별시 중구 을지로 12",
+        "abbrAddress": "을지로1가 50-1 시티스타몰 지하 123호",
+        "shortAddress": [
+          "서울 중구",
+          "을지로 12"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [
+          "돈가스 모둠으로 든든한 식사"
+        ],
+        "cardDescription": "돈가스 모둠으로 든든한 식사",
+        "description": "※도시락 예약주문 (02-3789-2232) - 단체도시락 50개 이상은 2~3일 전에 예약부탁드립니다! - 5만원 이상 주문 시 무료 배달 - 가격 대 맞춰 맞춤도시락 가능",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDJfMjA0/MDAxNzQ2MTc2MjExNTYz.ybc6Ky4w9MWON9jEc-57UgKLCWvQib2MKDoYEm04IHQg.ZsJYT_amIHQqFHjWLmkO0QEm-tAvIJLu-URqYHsFyoYg.JPEG/20250502_175450.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjZfMjQy/MDAxNzUwOTMwMDU3MDk5.lRhOQ_EerLAluoG1juTVKGI59AJzUYhu-jQg3KL8xGUg.DKB9A9cmcjcuBaQzN2w3DQ4f85YcR3fI_2HakbNdv5Qg.JPEG/20250626_182507.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20241111_26/1731320031780Ux6t7_PNG/%C5%A9%B1%E2%BA%AF%C8%AF11%C5%A9%B1%E2%BA%AF%C8%AF11%BB%E7%B0%A2_%B6%BC%BC%A6_%BC%F6%C1%A4.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTVfMzMg/MDAxNzUyNTcwMTIzNzIx.kDxk5JBHK3jDzGtxCBB_TIVANwY-nJgmTI-dZTjAnXEg.omEUb-5KlbvhxnRY7JUNOANvRjxUJuRCQMBe6ayK0-Ig.JPEG/20250715_180022.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20241111_288/1731320072059jrfLm_PNG/%BA%B9%BB%E7%BA%BB_%C1%A4%BD%C4%B5%B5%BD%C3%B6%F4_%B4%EB%C7%A5%C0%CC%B9%CC%C1%F6_4.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTZfMjI5/MDAxNzUyNjU4OTA0NzAx.sUEVtYJk1Cqtfq3ltU9ZiLtTFx9nqHGWZtZQxVyBK60g.eGH5xVTVBR6YXlar1PBsxmy6uJjxrhx7keyyF_Qkwq4g.JPEG/20250716_183851.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20241111_251/1731320092296ioy3E_PNG/%BD%CC%B1%E0%B5%B5%BD%C3%B6%F4_%B4%EB%C7%A5%C0%CC%B9%CC%C1%F6_2.png"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220169",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.32",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "1759799775",
+            "bodySummary": "요리 못하는 독거 언니라.. 아예 점심, 저녁 포장해왔어요~! 광화문도시락 광화문도시락 위치 시청역 6번 출구에서 234m 시청역 6번 출구로 나오셔서 을지로입구방면 시티스타몰 안",
+            "url": "https://m.blog.naver.com/trytry86/223069931772",
+            "nick": "그린플럼",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA3MDdfMjcy/MDAxNjg4NzA4MjU5MTA1.pk6h1CHnSTLbVV1-lutg1SnajA2NJVS1_y3nQPPEmdkg.M_hTl2s1Voab8encgTcMvvHnmNhuiUuhqkK9ChDKlIUg.PNG.tried86/profileImage.png"
+          },
+          {
+            "sid": "1759799775",
+            "bodySummary": "정확하게는, 시청역 6번 출구에서 을지로입구역 방향 지하보도로 200m 정도 가면 되고, 을지로입구역에서 가려면, 1-1번 출구에서 시청역 1호선 방향 지하보도로 500m 정도 가",
+            "url": "https://m.blog.naver.com/32daisy/223067986181",
+            "nick": "빵부장",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA5MjlfODcg/MDAxNjk1OTkwMTYzNTcz.3NofpeJn_AWgozcHNqpCGiPHgg6C6NHxgHoXsPv2u_cg.TANonJ-_WYvYwTsMFV-VzHJaqOtfhJ4N6DSEn2I5Zhcg.PNG.32daisy/profileImage.png"
+          },
+          {
+            "sid": "1759799775",
+            "bodySummary": "오늘 소개해드릴 곳은 을지로입구역과 시청역 사이에 위치한 시청역 도시락 맛집 '광화문도시락'입니다. 광화문도시락은 한솥 느낌이 물씬 나는 시청역 도시락 맛집으로 유동인구가 정말 많",
+            "url": "https://m.blog.naver.com/yjhd2020/223064285042",
+            "nick": "서울촌뜨기",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDExMDhfMjgg/MDAxNjA0ODI5MzcwNjky.oQKwKzLrbCfXI89qXCkQFxUzq7UWVfXyz16phrY-HCIg.7k5gyGwScNHD2ZPD-Muh_LFs6cpYEuIM_jIFcLbys6Yg.JPEG.yjhd2020/seoulbumpkin%2Blogo2.jpg"
+          },
+          {
+            "sid": "1759799775",
+            "bodySummary": "제가 방문해본 광화문도시락은 시티스타몰에 있어요! 을지로 입구역 2호선에서 시청역 1호선 지하보도로 500m정도에 위치해 있습니다! 저는 광화문 도시락을 처음 방문해서 이 길이 맞",
+            "url": "https://m.blog.naver.com/tazan1046/222993802521",
+            "nick": "타끼",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA5MTFfMjU0/MDAxNjMxMzY2OTcyMjA0.u8pJrir9vvvzdkVmWYMD0Th8Y63Uux7Y6zIOEq4Gx7Ag.95wKqFTSHdZavr9VUPlWOeaMvpKhy_PFtV-nVvkNCjwg.JPEG.tazan1046/20210408_104809_413.jpg"
+          },
+          {
+            "sid": "1759799775",
+            "bodySummary": "을지로 8번 출구로 나오시면되요 을지로 8번 출구가 시청역이랑도 엄청 가깝더라구요 시청역 6번 출구로도 나와 찾아 갈 수 있으니 참고하시면 되실 것 같아요 저는 을지로 입구 8번 ",
+            "url": "https://m.blog.naver.com/donaspptt6217/222923117401",
+            "nick": "도스",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA4MjRfMjM4/MDAxNjYxMzQ5MjIzMjI5.KOC5VXxbunlzfHOd8mjFjyDDYOjodwmQ-3ypUD1Cee0g.-njkcBRLtKUKxA41AzWwYCrHeaRYvYn8HwqHVcqhhWog.JPEG.donaspptt6217/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "id": "33109278",
+        "name": "달큰커피",
+        "x": "126.9792451",
+        "y": "37.5661371",
+        "distance": 0.042,
+        "categoryName": "테이크아웃커피",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220577",
+            "221358"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "테이크아웃커피"
+        ],
+        "reviewCount": 258,
+        "averagePrice": 5000,
+        "address": "서울특별시 중구 을지로1가 50-1",
+        "roadAddress": "서울특별시 중구 을지로 12",
+        "abbrAddress": "을지로1가 50-1",
+        "shortAddress": [
+          "서울 중구",
+          "을지로 12"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "안녕하세요. 2013년도에 오픈하여 10년 넘게 한자리에서 고객님들과 함께한 달큰커피에요. 달큰에서만 맛볼 수 있는 시그니처메뉴와 다양한 음료, 매일 아침마다 한정수량으로 만드는 샌드위치 ",
+        "description": "안녕하세요. 2013년도에 오픈하여 10년 넘게 한자리에서 고객님들과 함께한 달큰커피에요. 달큰에서만 맛볼 수 있는 시그니처메뉴와 다양한 음료, 매일 아침마다 한정수량으로 만드는 샌드위치 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MzBfMzIg/MDAxNzQ1OTkwMjAxNjY0.9IHxlqC-C2H9fxHuvs0jaWzXNnXVSfl0L9OmP2M6Sw4g.fur2cTkzHvK8DNHQ_P4BODQRwfv9NEMVluFqa62B3Pgg.JPEG/20250430_121830.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjdfNDkg/MDAxNzUwOTk4OTYxMzE5.q6lOTRXj2tmnWsXT2jzcdXUQw3Kvk-eDkPz_aNZj-fMg.EnNHRceCFjO_cwmiA_oc66Pi7LJPOQNQBpd-znPEKrgg.JPEG/1000040023.jpg",
+          "https://ldb-phinf.pstatic.net/20200325_277/1585135980521XB67y_JPEG/Hvh4um7t3KF4qxXyjFenDvCp.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjVfMTAg/MDAxNzUwODEwNjg3NTE1.jz-_TqtA000e-hGr8Q-IAsXX3Qn-walJKap5YcVPnk8g.riv4JKTfieCLpjK1bTEA-_4Zid335BK4L6TEUetqO_Mg.JPEG/20250625_091701.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240709_180/1720486621357nid1z_JPEG/20240709_095631.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDJfMTAg/MDAxNzUxNDMwNDgxMDgz.SMPJPaIfqO3W55FzRR46xbSr83-EU4Fun8RrxF0ldbog.vaojchotgwALxxksSVwaFyotrRd17W7B4XLKJa-Nzjwg.JPEG/1000040271.jpg",
+          "https://ldb-phinf.pstatic.net/20240709_60/1720486533487khrt8_JPEG/20240709_094736.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221358",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.48",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 4,
+        "id": "1901538232",
+        "name": "짱이네",
+        "x": "126.9794725",
+        "y": "37.5664828",
+        "distance": 0.052,
+        "categoryName": "일식",
+        "categoryPath": [
+          [
+            "220036",
+            "220038",
+            "220082",
+            "220812"
+          ]
+        ],
+        "category": [
+          "일식",
+          "돈가스"
+        ],
+        "reviewCount": 367,
+        "averagePrice": 9000,
+        "address": "서울특별시 중구 을지로1가 16 금세기빌딩 지하1층 짱이네",
+        "roadAddress": "서울특별시 중구 무교로 6",
+        "abbrAddress": "을지로1가 16 금세기빌딩 지하1층 짱이네",
+        "shortAddress": [
+          "서울 중구",
+          "무교로 6"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "사장님께서 손수 만드시는 돈까스, 치즈까스, 매운까스, 고구마까스 등등 샐러드 드레싱 대부분의 모든 반찬과 양념은 수제 입니다^^",
+        "description": "사장님께서 손수 만드시는 돈까스, 치즈까스, 매운까스, 고구마까스 등등 샐러드 드레싱 대부분의 모든 반찬과 양념은 수제 입니다^^",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20190126_76/1548504694554URr9G_JPEG/qQ4OkYkKMYgZAtM0e4lrmPmG.jpg",
+          "https://ldb-phinf.pstatic.net/20200915_186/1600101004656UaKN3_JPEG/eSfvGgcGyRZtU_MQeBCuBk5j.jpg",
+          "https://ldb-phinf.pstatic.net/20200915_47/1600101066529vc9bJ_JPEG/VphBmbNQU6xyRFxgIaMym0P3.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220812",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 5,
+        "id": "18005272",
+        "name": "제주본가",
+        "x": "126.9798726",
+        "y": "37.5664491",
+        "distance": 0.047,
+        "categoryName": "돼지고기구이",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220765",
+            "221458"
+          ]
+        ],
+        "category": [
+          "한식",
+          "돼지고기구이"
+        ],
+        "reviewCount": 404,
+        "averagePrice": 30000,
+        "address": "서울특별시 중구 을지로1가 47-3 지상 1~4층",
+        "roadAddress": "서울특별시 중구 을지로1길 8",
+        "abbrAddress": "을지로1가 47-3 지상 1~4층",
+        "shortAddress": [
+          "서울 중구",
+          "을지로1길 8"
+        ],
+        "displayContext": [
+          "부대찌개",
+          "흑돼지",
+          "고기집"
+        ],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "안녕하세요? 무교동 30여년의 역사를 가지고 있는 제주본가입니다. 제주생오겹살&부대찌개 전문점입니다. 정성을 다해 모시겠습니다. 감사합니다.",
+        "description": "안녕하세요? 무교동 30여년의 역사를 가지고 있는 제주본가입니다. 제주생오겹살&부대찌개 전문점입니다. 정성을 다해 모시겠습니다. 감사합니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTBfMTI5/MDAxNzYwMDYzMzg2MDcz.aNF4xQnUt5eSMDp5Xl4Ah11K55MNN7xPOHYbjL3UijUg.vf4QiAvIBq2wqslSG2zPtmuSlaGgQPgDN3YqEPVyLdYg.JPEG/1760063243212.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTBfMjky/MDAxNzYwMDgxMTQ4NjM5.jcJ4xiWscgkUSeqVForbcy77jOfspDT02g3Pm-9oQCQg.0ltdjzLazUk8d0qR9XTj1CRn3RjyB-5b4_qK8u-A7Pwg.JPEG/FA603722-4785-47D5-8D2D-B7EDED8DCCE7.jpeg",
+          "https://ldb-phinf.pstatic.net/20240226_207/1708942803531mDmst_JPEG/%C1%A6%C1%D6%BA%BB%B0%A1_%C0%FC%B0%E6.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjJfMjA1/MDAxNzUzMTkzODU1MDI4.VmjdULtPbDxKnuCRKt-3HmZkvWK5liUfBsz91SOfOeog.l-0T1dkGV_2D76FChJo6d_NlBg9GLEjxHpK85EV91Pkg.JPEG/AEB34F22-DB45-4C10-8DA9-647D19C3F832.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221458",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "18005272",
+            "bodySummary": "설렁탕집에서 부대찌개집으로 가는 계단 처음가면 당황할 수 있는데 당황하지말고 당당하게 1층 신가원으로 들어가서 요기 계단을 찾자! 공간이 꽤 크고 자리가 넓은 편이다. 점심 손님을",
+            "url": "https://m.blog.naver.com/soonie_e/223238738824",
+            "nick": "을지로삼수니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEwMDNfMjY5/MDAxNjk2MzA1OTkzODQ4.MnsPV3kPmRYm8i3x1Z77UTVos7fmyUoYff4wShnZ2mcg.20j6s-sYe3ua_0DP1Vvm5HzteXJi5Ljuk4uNNYJUpN4g.JPEG.soonie_e/2344B772-7B45-4F36-9816-B33FB7087E35.jpg/2344B772-7B45-4F36-9816-B33FB7087E35.jpg"
+          },
+          {
+            "sid": "18005272",
+            "bodySummary": "제주본가 부대찌개 & 삼겹살 위치는 을지로입구역과 시청역 사이에 있으며, 특이하게 1층은 설렁탕, 제주오겹살 등을 팔고 2층에서는 부대찌개를 팔고 있었습니다. 입구 옆에서는 대형솥",
+            "url": "https://m.blog.naver.com/granola_zip/222932287250",
+            "nick": "플오",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA0MDdfOTEg/MDAxNjgwODY2MjMxMzkx.Zo9L6fKw8sZ7UtSebFxLjeWDlcPqIzG0ww2_XmHgqhkg.kEjri1r64f3brgh5TvHebD1HdmAGmzc16j2iRs4au4og.PNG.nightcrusade/profileImage.png"
+          },
+          {
+            "sid": "18005272",
+            "bodySummary": "계산을 1층에서 하는 것을 보아 같이 운영하고 있는 거 같네요 웨이팅은 신가원설렁탕은 외부에서 제주본가는 2층 올라가는 계단 길목에서 해주시면 되고요 저는 2층 올라가는 길목에서 ",
+            "url": "https://m.blog.naver.com/feel7454/222930857840",
+            "nick": "은주네",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA5MjRfMjcg/MDAxNjY0MDEzMzIwNzU4.j8Hmwbk_QMrjNr86I75m-MFNIPnEn0XyLAiYYDlIXKQg.xEg01llwejLvW2YR1IzKB-r9-irbu0zxIi3Qp22WRuQg.JPEG.feel7454/profileImage.jpg"
+          },
+          {
+            "sid": "18005272",
+            "bodySummary": "반찬은 세명 갔는데, 오뎅 두접시, 오이 두접시, 김치한접시 이렇게 넉넉하게 주었습니다.1층에 비하면 2층은 좀 널널했습니다.아무래도 점심이라 고기구워먹는 손님이 적은가 봅니다. ",
+            "url": "https://m.blog.naver.com/lysung2014/222915867674",
+            "nick": "찌리리릿",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxODA3MjlfMjA2/MDAxNTMyODU2NjkzNjMz.D2wOrhWtARsvCtNfOW1-aFUPWffKb-H7FQvvlbedV6Mg.D3ujRaO45mxlYH50poK4AAhc8NGtTFTh43-a-f-qEXQg.JPEG.lysung2014/profileImage.jpg"
+          },
+          {
+            "sid": "18005272",
+            "bodySummary": "제주본가 | 한식 제주 생흑돼지 전문점 기본정보카테고리한식전화02-777-5668홈페이지-휴무일(평일) 09:00-23:00 / 브레이크 15:00-17:00 (주말) 09:00-",
+            "url": "https://m.blog.naver.com/damoogyo/220913242834",
+            "nick": "다동무교동 관광특구",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxNzAxMDJfMjg1/MDAxNDgzMzM1ODEwMDkw.5YaKc-mQPOEi6Vu-_XLuYvunm41GHwNt9K2KKfoC9BIg.jaitjNUCm7DAES2XKzBMVzAB-jydwx2iL9O6-nh-AcAg.JPEG.damoogyo/%25B0%25FC%25B1%25A4%25C6%25AF%25B1%25B8%25B7%25CE%25B0%25ED_1000.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "id": "1369866328",
+        "name": "스타벅스 시청점",
+        "x": "126.979808",
+        "y": "37.56629",
+        "distance": 0.028,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221275"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 4023,
+        "averagePrice": 5000,
+        "address": "서울특별시 중구 을지로1가 50 삼성화재삼성빌딩 1층 ()",
+        "roadAddress": "서울특별시 중구 을지로 19",
+        "abbrAddress": "을지로1가 50 삼성화재삼성빌딩 1층 ()",
+        "shortAddress": [
+          "서울 중구",
+          "을지로 19"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 을지로1가 50 삼성화재삼성빌딩 1층 ()",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDhfNzQg/MDAxNzU5OTAwODQ1MjI0.2gmFwHVOdqqQGhXHQGvVeOROhfjz0U3WYHRQDE2YzWAg.ZYRl1tjV_PKN6lu_FGOhpRzQL_j-3MJH7U1rJpxwjCcg.JPEG/20251006_090745.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTRfMjIg/MDAxNzYwNDA2NjEzNzQ4.Maw-l_vahWwqFBOiJKwC6ri7iEfDfiPkvcvv1E43UJ0g.Nu56F97Fh1awHgBkSapq3qWB3jkeWHoqJ0mr5JVyoO0g.JPEG/AE0C0331-8DF0-4869-99B5-4E3AFAA33A47.jpeg",
+          "https://ldb-phinf.pstatic.net/20190828_93/1566953601239OT9MQ_PNG/xX7Wv642gXMoTI0DAv0hRymS.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MDFfMTIz/MDAxNzQzNDY3OTYxNjQ1.4VcxZxR9TqOZD139wVFGq380QZS2PKtcnu82MrLkb5Qg.OlLodbJOExrbKbUCi36cDg4Cw7Jrzwj9xgfrov48J0cg.JPEG/Screenshot_20250329_091257_KakaoTalk.jpg.jpg",
+          "https://naverbooking-phinf.pstatic.net/20240613_130/1718221682432mBdMT_JPEG/image.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjFfMyAg/MDAxNzYxMDM3MTgwMTI3.hUFsJwwZMSJHz2x9Dxx0DPRKgO6cIpy0MGpmcN1mqewg.RXzAOOZ_qeKSwoYsQkOwm2xkqyb1BTKuld8Ug2Ia6fQg.JPEG/56D22FA4-69A4-4BFF-8CF1-264D28872BE2.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDNfMjI0/MDAxNzQ2MjgzNDAwNTgy.Tscu7C-m2WlOJ7E6qvSfI58U_dvOcoYQ6OVKl4dWADAg.0v9lnbr-DTFzv1LGng_SXTBEeGI6bwVCGzBwslpaL6Qg.JPEG/20250503_165229.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDRfMTE3/MDAxNzU0MzA5NDUxNDQ1.AoT-hvcP5zlIMArGWrOv-mH5DdFhi9d2U2tdBDOfsl4g.n3gzanvFIO_9s422COwNHRLyad2Ypnow4mImDOg6w0Ag.JPEG/20250721_171408.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjBfMTEw/MDAxNzYwOTM4MDM1ODkx.proBgZYV7bVXSLU1QYpBV2TUUkAuke-NyBRXPDFpxukg.-KU4mKowKuIK5bGskAl0bQfr0DhPnZyo86NK6cU1C40g.JPEG/20251020_120423.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MDhfMTIz/MDAxNzQ0MTEwMTk5NzI1.WGAPhWs3CKRB068KgZgmkhrBA1af6EgA51ZOtaNkfhog.VOaHqQpUBPrCjeEKtcNrbWWK7a3gDTidSbRhsrP5F2gg.JPEG/1000040547.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221275",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1369866328",
+            "bodySummary": "이외에도 스타벅스 벚꽃 시즌 상품으로 스타벅스 벚꽃 MD 텀블러 등이 있었는데 이건 텀블러 머그컵 디자인이 정말 다양하게 나와서 부러웠다 하지만 이것은 계절을 너무 탈 것 같아서 ",
+            "url": "https://m.blog.naver.com/yeonzus/223377955731",
+            "nick": "오늘하루",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA1MzBfOTIg/MDAxNjg1NDEwOTU5NDA3.d41JkuSRV9ieK8gd2Qi3eVF7vhFnSRp2H9ge4tbKEaAg.rKfYyGOYAP_JLS7Yvvg8PS_Cs7PibuF0Xr8TnJvz6tkg.JPEG.yeonzus/03.JPG/03.JPG"
+          },
+          {
+            "sid": "1369866328",
+            "bodySummary": "아무래도 제조음료만 해당되니깐 스타벅스에서 판매한 모든음료 해당은 아니에요ㅠ! 즉, 병음료 / 생수 / 요거트류는 제외됩니다. 그래도 이번 이벤트는 등급제한도 없이 매장주문과 사이",
+            "url": "https://m.blog.naver.com/onimom1922/223359684867",
+            "nick": "따엄",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMDRfMTA2/MDAxNzAxNjc4NTcyMDA4.CEyv_9iBlTRqZTw3lHQgKORtn2_564AVFzwfkznBP3cg.AeCdZXaKEPPKfLPJX9EwrcLo6_qkJ8z2IdYat-hd3AUg.PNG.ehdthd2724/profileImage.png"
+          },
+          {
+            "sid": "1369866328",
+            "bodySummary": "스타벅스 유저라면 꼭 이벤트 혜택 받아가시는게 이득이죠! 이벤트 기간내 스타벅스 리워드 신규가입 시 별 5개 추가적립 이벤트 (2/29지급예정) 스타벅스 신규가입 이벤트 기간 19",
+            "url": "https://m.blog.naver.com/todms2004/223358573506",
+            "nick": "임새닝",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMjRfMyAg/MDAxNzExMjkwMDQyNjEz.kV9chPNxRFE7hbzwDBYHvTNe67gMNFmzOgqnNKhH52og.8G72CVSkT0BtkXoB08qsi_ZNTZQjhd9rijiHg8IaoUsg.PNG/profileImage.png"
+          },
+          {
+            "sid": "1369866328",
+            "bodySummary": "이달의 스벅 신메뉴 화이트타로라떼 카페인 프리! 스무뜨 앤 크리미 오늘은 너다 그란데 사이즈 아이스로 주문 비주얼이 나름 예뻐요 잘 저어서 먹어야 한다 안그럼 시럽덩어리만 따로 먹",
+            "url": "https://m.blog.naver.com/blanknine/223358227234",
+            "nick": "먹깨비 땡구",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEwMThfMjkx/MDAxNjk3NjM3NTU3MjU1.M0C-DRYey_W0IRdPDvzfYNZDC7aQGEV_HqXha_KcV0Ug.TQI_NIstNPZ2vqGDkLVpwao0ns0bHydhyNh6EaKo9BAg.JPEG.blanknine/profileImage.jpg"
+          },
+          {
+            "sid": "1369866328",
+            "bodySummary": "스타벅스 시청점은 매장도 깔끔하고 MD들도 보기 좋게 진열되어 있어서 구경하기 편했습니다~! 요즘 스탠리 텀블러가 그렇게 인기라던데 이번에 나온 이 연노랑색상 스탠리 텀블러 어떤가",
+            "url": "https://m.blog.naver.com/syd02231/223354892321",
+            "nick": "써니 SUNNY",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA2MDZfMTgy/MDAxNjg2MDQ4NDkyNDY0.vo1EUktV6eHlOgMaA24dAsNrU2Q8xH1ZeeRxLqM549cg.jCIiGdaQYuz60bvWMDBRBY_hsmGvRv5eI4Ls55jfg7og.JPEG.syd02231/KakaoTalk_20230606_194757231.jpg/KakaoTalk_20230606_194757231.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "id": "1929881850",
+        "name": "더진국 수육국밥 서울시청점",
+        "x": "126.9794061",
+        "y": "37.5659623",
+        "distance": 0.028,
+        "categoryName": "국밥",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220061",
+            "230902"
+          ]
+        ],
+        "category": [
+          "한식",
+          "국밥"
+        ],
+        "reviewCount": 174,
+        "averagePrice": 10000,
+        "address": "서울특별시 중구 을지로1가 50-1 시청광장지하쇼핑센터 116호",
+        "roadAddress": "서울특별시 중구 을지로 12",
+        "abbrAddress": "을지로1가 50-1 시청광장지하쇼핑센터 116호",
+        "shortAddress": [
+          "서울 중구",
+          "을지로 12"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "13년간 국밥을 연구해온 수육국밥, 순대국 No.1 브랜드 더진국은, 국밥을 좋아하는 고객님들의 단골 맛집입니다.  더진국 육수는 타 브랜드의 육수와 달리 만들기 까다롭지만 카제인나트륨 등 첨",
+        "description": "13년간 국밥을 연구해온 수육국밥, 순대국 No.1 브랜드 더진국은, 국밥을 좋아하는 고객님들의 단골 맛집입니다.  더진국 육수는 타 브랜드의 육수와 달리 만들기 까다롭지만 카제인나트륨 등 첨",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTRfMjkw/MDAxNzU3ODUzMzYyMzIz.fQHplSl3okJsQfbInonPatdVgdEA26GUsdgvoMjefHUg.rGnQlS_7EH2c1B5SHLooTZmEG8Mo8BR3am-X11YnjtYg.JPEG/0F9BA94F-DA3A-4E0C-A75A-F1B2A62DC372.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTVfMjQ2/MDAxNzQ3MjM3MjUzNDY3.ObZOViKINNwl1MpHlYxUxZ9cdg6i5RQF6SY_WxYGyzUg.4I1O7bZONI_nMj3z_ifpxR2O6PqY-vgBMmu-tdOEiEMg.JPEG/D914F050-2740-4ABA-9AB3-60C554CE925D.jpeg",
+          "https://ldb-phinf.pstatic.net/20221110_84/1668063259284zHN7i_JPEG/KakaoTalk_20221110_132208339.jpg",
+          "https://ldb-phinf.pstatic.net/20221110_180/16680632658533kP9R_JPEG/KakaoTalk_20221110_132208339_01.jpg",
+          "https://ldb-phinf.pstatic.net/20221110_124/1668063266541DJdLJ_JPEG/KakaoTalk_20221110_132208339_02.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "230902",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1929881850",
+            "bodySummary": "밥도 그냥 찌금 가장 먼저 나온 수육국밥! 난 순대를 별로 안 좋아해서, 그냥 수육국밥으로 주문 다대기 솔솔 저어 먹으면 되는데 안에 고기가 아주 넉넉하게 들어 있어서 상당히 마음",
+            "url": "https://m.blog.naver.com/yeonah__/223262183700",
+            "nick": "여나",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAxMTZfMTIz/MDAxNjQyMzQzMTc4MjMz.hewvzSgGE-TX0PDThCueYvopZTULtEDtmG5TGJAPnFYg.OTswaIikAWHnYV_zB11xLCTfq_CHRHN1N8uGlvESMp8g.PNG.yeonah24/profileImage.png"
+          },
+          {
+            "sid": "1929881850",
+            "bodySummary": "또 지하세계를 찾았습니다. 이번에 다녀온 곳은 <더진국> 이란 곳 인데요. 솔직히 별기대 없이 들어갔습니다 메뉴는 이렇게 되고, 키오스크에서 주문을 하면 사장님 혹은 직원분이 자리",
+            "url": "https://m.blog.naver.com/god_wook/223179929119",
+            "nick": "가둑",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA3MDVfMTgx/MDAxNjg4NTA4NzU0NjE3.TPr5uDCfiRmjshqtasp8cDbVfqr8WJm9I1SLrtKJ44Ag.Fs-8NdXiZVES48kvGx-gEfB3FHSQIxLAXHGpdM3YU4Mg.PNG.sinooge0789/profileImage.png"
+          },
+          {
+            "sid": "1929881850",
+            "bodySummary": "저는 수육국밥 일반으로 시켰어요. 천원 추가하면 특사이즈로 먹을 수 있답니다 ! 등장한 수육국밥 ~! 저는 순대는 토종순대를 좋아하는데 더진국은 토종순대가 아니라 일반 찰순대라서 ",
+            "url": "https://m.blog.naver.com/solnim1110/223155135471",
+            "nick": "최꿀벌",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20230131_163/solnim1110_1675128355445sP1iO_JPEG/image.jpg"
+          },
+          {
+            "sid": "1929881850",
+            "bodySummary": "가 있던 곳인데 언제부터인가 새롭게 국밥집이 생겼더라능. 오늘 직딩런치는 더진국 서울시청점에서 수육국밥 특으로! 가게 내부는 꽤나 좁은편이고, 주문은 키오스크를 이용해야 하는데 아",
+            "url": "https://m.blog.naver.com/yaki80/222975679306",
+            "nick": "당근품은라면인",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAyMDNfMTM3/MDAxNzA2OTQ1NDUyNjA4.HBOkVjJHojikEpz0-kPAqVjo9jALMEalRrlAFmJ9cEIg.H4svnG6_h4YJ6MwYvNreN959k1sF9g5QO5Z1mC1Xsp4g.GIF.yaki80/1.gif/1.gif"
+          },
+          {
+            "sid": "1929881850",
+            "bodySummary": "저는 수육국밥(9,000원)과 얼큰국밥(9,500원)을 주문했어용 지하에 있는 가게들은 대부분 자리가 협소하긴 해요 더진국 서울시청점도 테이블이 8개정도? 있더라구용 점심시간 맞춰",
+            "url": "https://m.blog.naver.com/nashu_/222936828352",
+            "nick": "나슈",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMThfMjkw/MDAxNzA1NTQ1NTcxNDM1.llyN6P25ftOMMA8XI1NufyxLWWDSFTZhUJti1DRn3Wsg.YmpnaqrXUw9E6745An36TAGissjGL4vZhBy2TyRWyIQg.JPEG.hbe0523/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "id": "1676230193",
+        "name": "카페엘리제",
+        "x": "126.9793772",
+        "y": "37.5656664",
+        "distance": 0.052,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 7,
+        "averagePrice": 13000,
+        "address": "서울특별시 중구 을지로1가 188-3",
+        "roadAddress": "서울특별시 중구 을지로 16",
+        "abbrAddress": "을지로1가 188-3",
+        "shortAddress": [
+          "서울 중구",
+          "을지로 16"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 을지로1가 188-3",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 9,
+        "id": "1007811722",
+        "name": "속초중앙짬뽕",
+        "x": "126.9793772",
+        "y": "37.5656664",
+        "distance": 0.052,
+        "categoryName": "중식당",
+        "categoryPath": [
+          [
+            "220036",
+            "220039",
+            "220091",
+            "220861"
+          ]
+        ],
+        "category": [
+          "중식",
+          "중식당"
+        ],
+        "reviewCount": 661,
+        "averagePrice": 0,
+        "address": "서울특별시 중구 을지로1가 188-3",
+        "roadAddress": "서울특별시 중구 을지로 16",
+        "abbrAddress": "을지로1가 188-3",
+        "shortAddress": [
+          "서울 중구",
+          "을지로 16"
+        ],
+        "displayContext": [],
+        "labelTheme": "중식",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 을지로1가 188-3",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220861",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 10,
+        "id": "1585752429",
+        "name": "스마트워크센터",
+        "x": "126.9791738",
+        "y": "37.5657242",
+        "distance": 0.059,
+        "categoryName": "칼국수,만두",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220073",
+            "220712"
+          ]
+        ],
+        "category": [
+          "한식",
+          "칼국수,만두"
+        ],
+        "reviewCount": 8,
+        "averagePrice": 0,
+        "address": "서울특별시 중구 을지로1가 50-1",
+        "roadAddress": "서울특별시 중구 을지로 12",
+        "abbrAddress": "을지로1가 50-1",
+        "shortAddress": [
+          "서울 중구",
+          "을지로 12"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 을지로1가 50-1",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220712",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 11,
+        "id": "31936421",
+        "name": "잠보",
+        "x": "126.9794297",
+        "y": "37.5656541",
+        "distance": 0.05,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 7,
+        "averagePrice": 34000,
+        "address": "서울특별시 중구 을지로1가 188-3",
+        "roadAddress": "서울특별시 중구 을지로 16",
+        "abbrAddress": "을지로1가 188-3",
+        "shortAddress": [
+          "서울 중구",
+          "을지로 16"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "셰프가 직접 손님 테이블에 설치된 철판 위에서 해물과 육류를 즉석에서 요리해 주는 철판요리 전문점이다. 해물과 스테이크를 함께 주기에 느끼함이 적다. 눈으로 즐기면서 먹을 수 있는 요리",
+        "description": "셰프가 직접 손님 테이블에 설치된 철판 위에서 해물과 육류를 즉석에서 요리해 주는 철판요리 전문점이다. 해물과 스테이크를 함께 주기에 느끼함이 적다. 눈으로 즐기면서 먹을 수 있는 요리",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 12,
+        "id": "11724317",
+        "name": "라칸티나",
+        "x": "126.9800349",
+        "y": "37.5662396",
+        "distance": 0.036,
+        "categoryName": "이탈리아음식",
+        "categoryPath": [
+          [
+            "220036",
+            "220044",
+            "220127",
+            "220913"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "이탈리아음식"
+        ],
+        "reviewCount": 1902,
+        "averagePrice": 20000,
+        "address": "서울특별시 중구 을지로1가 50 삼성빌딩 지하1층",
+        "roadAddress": "서울특별시 중구 을지로 19",
+        "abbrAddress": "을지로1가 50 삼성빌딩 지하1층",
+        "shortAddress": [
+          "서울 중구",
+          "을지로 19"
+        ],
+        "displayContext": [
+          "이탈리안레스토랑",
+          "파스타",
+          "봉골레",
+          "스테이크",
+          "피자"
+        ],
+        "labelTheme": "식객허영만의백반기행 방영",
+        "microReviews": [
+          "마늘빵과 함께하는 고풍스러운 점심식사"
+        ],
+        "cardDescription": "마늘빵과 함께하는 고풍스러운 점심식사",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDRfMjEy/MDAxNzU5NTY4NTc1Mjg0.UYm5-P1Oop-KufbKnC7mxQQFcXsfo8sxB-CfdWGNUhAg.cNcSTFVB6SSRRBCG6I0BGi12maArnFCUCw661dzW2d0g.JPEG/5C353C8A-DAFE-465A-9B8D-F7C7A231FE2A.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjNfNCAg/MDAxNzU1OTIyNDQwODM5.lkeAj8gvn7EVR5IOCboKiCZGGRi8-UZdTk7XS_ngod0g.clGbSuZQ5JNPzsT5jg63w1PZJVS0ZIhIJzGKa21cMi4g.JPEG/82F4443F-712B-4D9D-808D-43E0F9A2A5F6.jpeg",
+          "https://ldb-phinf.pstatic.net/20150831_248/1441029587727TuiYu_JPEG/156155406251607_0.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTFfNzMg/MDAxNzQ5NjExMzc0NzIz.6PtGdguHS864GaWmtI03Ns65upaAGh8vTOb6UKdKEvkg.GDSbW-6_rd9xbOs-oafxyjJHA8vgLyre59ogj6cYu9og.JPEG/64900AB4-2412-441D-9C71-4788E759F806.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDlfMTA5/MDAxNzYwMDA5NzIyMTg0.L8zH7aQedbdLDJVbV_T7vWB4N_M6pmPvIYhFo-UR4j8g.-U6Warf3Ipm_z6y0V-fJCBwV2WGLn1_IAdjs70zejvcg.JPEG/E54455EF-1ECA-44A8-8FC7-E9F91A93F415.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTNfOCAg/MDAxNzU3NzYyMTU2MTkz.tr0iRxX4WXMwsX5IwelcPO0TJtNJE0u85YFAdDvpUGYg.tv5I1thmpjqLHH2EyTRw7x3LwxTpDdJgB5nfG7qAVeog.JPEG/B1690D1D-8B8C-4BED-B29E-F6DAEF8A9CB4.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjFfMTM0/MDAxNzU4NDI0NDIyMzY0.hGRtg2yko8bDYdZE-imV6KxYPyI3R3fdcXQoBwiGh7Ug.iDMxJjK4RS6FQ_8OGWe0zHt4Qb9JLuZkvcB6-tk-sS4g.JPEG/B9EA8C6B-2339-4AA3-9ADB-0A14E3171FB4.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDdfMTk5/MDAxNzQ2NTkyMzUxNjUy.x04DGHRnOK3klGFDUp_e0E_CZeHkNtuRfK2qmLKQ-HYg.uxc3PoHL4mUVu7E_qeXA4NdzHh56ShDTphE3fr0YrOcg.JPEG/20250422_190347.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjRfMTU0/MDAxNzQ4MDY5MjExOTE2._TCmkBHrXVl-CO_LSqDVD9kvpV6JkF8OfYFmaHKyuzMg.uE9JTkfXKzotNtScu6hCmFbq3wv-ttxsZFTfDQs0Nckg.JPEG/496753ED-2C5D-47FD-BED1-47D3DFF08891.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTZfMTk1/MDAxNzUyNjY1Njg0NjEx.70SJD72eQ7lxOa9q9f4z_2v_pniO-E_jAWp0p_ZLTIQg.GDwmfFZDA3buPrIoSM0yfeN6SB3woqmVb-kVVYT3Q9Ag.JPEG/8F395A59-BEB9-45F0-BD06-BE0B69B128D8.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220913",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": true,
+        "broadcastInfo": {
+          "name": "식객허영만의백반기행",
+          "menu": "마늘빵/양파수프/봉골레파스타/젤라또카사타"
+        },
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "11724317",
+            "bodySummary": "한국에 처음으로 생긴 이탈리아 레스토랑 #라칸티나 이전부터 가보고싶었던 곳을 드디어 방문! 초록색 간판으로 쉽게 찾을수있고 지하로 내려가면 이렇게 고풍스런 입구가 나온다 이런 분위",
+            "url": "https://m.blog.naver.com/coinino/223379028453",
+            "nick": "샤히",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxNzEwMDZfMjUz/MDAxNTA3Mjc0MjIyMDM5.nmQwAs1gCxqBNkWhp0etIDLHV7ABafdt6fT164yiZ3Eg.kagplTk1jTNUR48okdm1C-wN-Tk3DcEJDTmwSgl0sRog.JPEG.coinino/DSC04541.JPG"
+          },
+          {
+            "sid": "11724317",
+            "bodySummary": "YH랑 음식사진 어디로갔지요?...라 칸티나 월~토 영업, 일요일 휴무 매일 11:30 ~ 22:00 브레이크타임 15시~17시 라스트오더 21시 봉골레(링귀니 라 칸티나) 라자냐",
+            "url": "https://m.blog.naver.com/ham-red/223279490282",
+            "nick": "HMSSNIM",
+            "profileImg": ""
+          },
+          {
+            "sid": "11724317",
+            "bodySummary": "메뉴 넘겨보세용 메뉴는 굉장히 많은 편인데 인기많은 메뉴는 파란색 스티커 참고 가장 유명한 ‘삼성세트’는 메뉴판엔 없으니 따로 말씀드리면 됨 각자 수프와 파스타 하나씩 그리고 와인",
+            "url": "https://m.blog.naver.com/rh0217/223251065046",
+            "nick": "핸죠",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA5MTdfMjMg/MDAxNjk0OTE2NjQyMzg4.Q4RgUvEObgPnD3qyeVqVliLb_HjTaK9yO4IhxtmFzjgg.564dAjyPByUKyZ71qMYi3Og7IAIclqg32dX1XVugkuAg.JPEG.rh0217/IMG_1571.jpg/IMG_1571.jpg"
+          },
+          {
+            "sid": "11724317",
+            "bodySummary": "~ 파스타 해산물이 싱싱해서 파스타도 더 맛있어요 《라 칸티나 》 서울시 중구 을지로 19, 지하1층 02 - 777 - 2580 유명한 양파스프 큰 접시 위에 빨간받침을 하고 양",
+            "url": "https://m.blog.naver.com/can9555339/223240527480",
+            "nick": "연희성공자",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20131126_233/can9555339_13854260996748vvUG_JPEG/1384569397928.jpg"
+          },
+          {
+            "sid": "11724317",
+            "bodySummary": "라칸티나 을지로 맛집 La Cantina 전화예약 후 방문 오랜만에 너무 좋은 친구들 만나서 청첩장 주려고 만났는데 역시 모임은 분위기 좋고 맛있는 곳으로! 우리가 정한 곳은 라 ",
+            "url": "https://m.blog.naver.com/michelleinc/223222202793",
+            "nick": "Michelle 미쉘",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA4MDhfNjkg/MDAxNjkxNDk3NjAzMzc0.4_3xRkZxRFdUn93zg0GC_0nC0xK1Z3D-5eKHPEHq6j4g.LcrruG3FZNK-8PCyO9sTfCL-ARRf9XrLwsQh5jK3_Lwg.PNG.michelleinc/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 13,
+        "id": "1159273634",
+        "name": "VIP참치 프레지던트호텔점",
+        "x": "126.9795532",
+        "y": "37.5657665",
+        "distance": 0.034,
+        "categoryName": "생선회",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220076",
+            "220792",
+            "221629"
+          ]
+        ],
+        "category": [
+          "한식",
+          "생선회"
+        ],
+        "reviewCount": 1109,
+        "averagePrice": 30000,
+        "address": "서울특별시 중구 을지로1가 188-3 1층",
+        "roadAddress": "서울특별시 중구 을지로 16",
+        "abbrAddress": "을지로1가 188-3 1층",
+        "shortAddress": [
+          "서울 중구",
+          "을지로 16"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [
+          "계절 특선 도다리쑥국의 매력"
+        ],
+        "cardDescription": "계절 특선 도다리쑥국의 매력",
+        "description": "대한민국 1등 참치전문점, VIP참치!  VIP참치 전 매장은 모든 메뉴에 100% 최고급 참다랑어 참치만을 사용하는 국내 유일한 매장으로 새로운 참치 음식문화를 선도하고 있으며, 전국 매출1위를 달 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjVfMTQx/MDAxNzUwODUxNzIwMTY2.P6hRvmczDgMYi0OEh6GtTQ8sVC4-7vQkWkzVfWjLnokg.UUUg0BZBL7ql8Xxzb_3NTYF_o__5_jDNEjdB-FmBuawg.JPEG/1750851630316.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjdfMTk1/MDAxNzU2MjU5NzI2NTg5.-iBQb_qIwkQ23zJIb4nu_1OXgef6ip1KAm0OQAYGkfIg.jMXNyStMBYrTQjMLxjU3xAbV4DDperImsyQ_7P6bfRcg.JPEG/0E81A778-420C-464C-9339-6158252B22A1.jpeg",
+          "https://ldb-phinf.pstatic.net/20220711_96/16575106727063l2Gg_JPEG/KakaoTalk_20220711_115520847.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTRfMTkz/MDAxNzUyNDcyMTI0Nzc5.g6phHnhIBViFYAo-Qea8u0ZYXo7Mj29CMg9j1MIE068g.Z0vHrNdO7E6iW3AXCf6vWR-9W0Wkp0R21DLiHT-P-IQg.JPEG/DD08673C-5C3B-4B69-9B9A-6E93D92B88E2.jpeg",
+          "https://ldb-phinf.pstatic.net/20220711_214/1657510685022o7AdP_JPEG/KakaoTalk_20220711_115520847_02.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjFfMjE0/MDAxNzUzMDk2MDY3ODA0.B7a_Occ5ESgFXMUB14LHxL_SpqOlwmbcMtQXyS0xbJsg.2DRsx97F0FWz7ctHWo_hlpJ4ch8vY5WWLK-8bu3_EWwg.JPEG/51EE34C6-FB11-4C74-8538-45E8586ADE04.jpeg",
+          "https://ldb-phinf.pstatic.net/20220711_119/1657510720892EEBYL_JPEG/KakaoTalk_20220711_115520847_06.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDJfOTUg/MDAxNzU2ODEwMzM1MzM3.tLFnfL4Ma3_NgeNsEyWwj446Qv3OV3_oSgf1H5ezhgcg.gEwbRbDUvsJsFcSmbykjTE03rPXoaxQT8Cp8E9wXOJ4g.JPEG/IMG_1634.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTFfMTE3/MDAxNzQ5NjM2ODkxNDc1.199YojhS2Pb6IwakzntHPzj29AEFAUSdnUCnTpaD-Q8g.JSyCJEIBJjiTLbom637BRySeHHqMeb-tTv24oy3EkQog.JPEG/20250611_175043.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MDRfMjU1/MDAxNzQzNzYxOTIwMjA3.y3jYv2xsja7mdIfimxm1qtSz3J-MZ1oh8id8VAyPrFUg.jVJNJSIsfWiudPxkWMJ86TQib4yFF9wvjqsexJlyM5og.JPEG/20250404_181554.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221629",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

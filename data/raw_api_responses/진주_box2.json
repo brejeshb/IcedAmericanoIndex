@@ -1,0 +1,145 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 2,
+      "count": 2,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 128.1076,
+          "minY": 35.170890990991,
+          "maxX": 128.1131111282424,
+          "maxY": 35.1753954954955
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "128.1103555641212;35.173143243243246",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1515158237",
+        "name": "흑돼지두루치기",
+        "x": "128.1129712",
+        "y": "35.170937",
+        "distance": 0.342,
+        "categoryName": "돼지고기구이",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220765",
+            "221458"
+          ]
+        ],
+        "category": [
+          "한식",
+          "돼지고기구이"
+        ],
+        "reviewCount": 35,
+        "averagePrice": 0,
+        "address": "경상남도 진주시 상평동 207-8",
+        "roadAddress": "경상남도 진주시 돗골로 30",
+        "abbrAddress": "상평동 207-8",
+        "shortAddress": [
+          "경남 진주시",
+          "돗골로 30"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경상남도 진주시 상평동 207-8",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjRfMjkx/MDAxNzYxMjYyNjE3NTA0.ZH05BSw0PvlY07lCSMc_sBPAmpMOIZHt8_lYh2YgHO8g.j65jHwiufQ0zmUpaAVOPKtzwarA4CS5PegfybNZ29YMg.JPEG/1000137743.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221458",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "15485164",
+        "name": "몽실이네식당",
+        "x": "128.1121786",
+        "y": "35.1709544",
+        "distance": 0.295,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 1,
+        "averagePrice": 0,
+        "address": "경상남도 진주시 상평동 208-15",
+        "roadAddress": "경상남도 진주시 큰들로 86",
+        "abbrAddress": "상평동 208-15",
+        "shortAddress": [
+          "경남 진주시",
+          "큰들로 86"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경상남도 진주시 상평동 208-15",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

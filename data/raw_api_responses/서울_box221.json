@@ -1,0 +1,423 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 5,
+      "count": 5,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.96777083648634,
+          "minY": 37.5674009009009,
+          "maxX": 126.96890741021008,
+          "maxY": 37.5683018018018
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.96833912334822;37.56785135135135",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "36341137",
+        "name": "새봄떡국국수",
+        "x": "126.9685725",
+        "y": "37.5674131",
+        "distance": 0.053,
+        "categoryName": "국수",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220062",
+            "220628"
+          ]
+        ],
+        "category": [
+          "한식",
+          "국수"
+        ],
+        "reviewCount": 1108,
+        "averagePrice": 10000,
+        "address": "서울특별시 중구 충정로1가 62-15",
+        "roadAddress": "서울특별시 중구 새문안로 24",
+        "abbrAddress": "충정로1가 62-15",
+        "shortAddress": [
+          "서울 중구",
+          "새문안로 24"
+        ],
+        "displayContext": [
+          "떡국",
+          "비빔국수"
+        ],
+        "labelTheme": "생방송투데이 방영",
+        "microReviews": [
+          "소고기 떡국의 든든한 한 끼"
+        ],
+        "cardDescription": "소고기 떡국의 든든한 한 끼",
+        "description": "따듯한 온기와 정성을 담은 떡국과 국수.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDRfMTcx/MDAxNzU2OTczMzE2ODU1.PQy2fcz5k91T23oug825nLvYoCZhdsST2wtkFSy1hJIg.yu5Ff_Igz7Ev1KbZi0mYZ69BJgewnHQMakrC1tWwNAsg.JPEG/1000202863.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjJfMjcy/MDAxNzUzMTYxODY3NjUx.s49Xq1jvaNm0Eeramy7y2nzlb1W4EN8fnbe_dfd4YAkg.0nkojLUJartrw5T8Y2m-ct6agai4wMTKqpZUOuVYyc8g.JPEG/0F51F9D4-F5FD-4D19-BD2A-582EE09A1970.jpeg",
+          "https://ldb-phinf.pstatic.net/20150901_1/1441063521005KxwAx_JPEG/166166498720579_0.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjZfNzAg/MDAxNzQ4MjE3OTI2NTMw.DZJUNheMDEhNqhDyxEmGVSjiKtqj7utckYjkw6BxaNog.wtpOlL3MgKpsbH1H2sWCXiMf6UYX-z0Zknsd2t2opNEg.JPEG/20250522_122708.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20150901_113/1441063521209rRRUU_JPEG/166166498720579_1.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjBfMjcz/MDAxNzYwODkzMDU0MTI0.ug1K4gBN2WGYZ4gn6qtv79Z4N_XPgacl5kMTZMSxg8Yg.ZVZmSn5RC-VwU3q52wNcbgMnUTqTCbM1k75UnsZXP4Mg.JPEG/20251016_162022.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20150901_33/1441063521451rAJc5_JPEG/166166498720579_2.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MThfMTE0/MDAxNzU4MTc0NDU1MDE5.6cvR5wFGX5N2mdEmDpeKa0E4dGLFduQxxvLyMnSXN8og.ihoHYi-gfhcuiJ4SHeKH9WD9mBQO8fZ6s-yg9qC-ULog.JPEG/20250917_105836.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjNfMjcw/MDAxNzU4NTk2ODQxMTY4.5bktQ28RbCZ_HoUccy5EkA71Ge98d_eKwPlx-OSpZKgg.kmgRHLn5AcVPDpusVys1LEzytDR986K2-fn1aR_hTFwg.JPEG/1000099860.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MThfMTk3/MDAxNzU1NDk2MzkxMzU5.GsKOMuzQtyOeKtWvoGhV7f-_1dyRV-aW--kfgo0WHK4g.fE3PWbvJHAo6jiaiZrdMxNQmDsxt9wPZ_FOucbarnMcg.JPEG/20250811_121314.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220628",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": true,
+        "broadcastInfo": {
+          "name": "생방송투데이",
+          "menu": "만둣국"
+        },
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.29",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "36341137",
+            "bodySummary": "외관은 이렇습니다. 광화문에서 서대문역 가는 길에 위치하고 있습니다. 11시 20분 이후에 출발했기에 열심히 열심히 뛰어갔고 운 좋게도 자리가 있었습니다. 식당 내부 모습입니다. ",
+            "url": "https://m.blog.naver.com/lbs8174/223359838001",
+            "nick": "광화문일꾼",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMTRfMjc0/MDAxNzAyNTU1MDE2OTgy.UyB4cj3WJDKs9KOhv0U-HpPcNcYvOXquDcp1pl8Ytikg.0nTmCcNRV-nphIeCZ8C2zKfyoWZeNOk4GyudQDvl7Tkg.JPEG.lbs8174/profileImage.jpg"
+          },
+          {
+            "sid": "36341137",
+            "bodySummary": "새봄떡국국수 서울 떡국 맛집 소고기떡국 추천해요 새봄떡국국수 서울 중구 새문안로 24 월-금 09:00 - 21:00 20:30 라스트오더 토-일 09:00 - 19:00 18:3",
+            "url": "https://m.blog.naver.com/lovesnsj00/223337859146",
+            "nick": "Lov",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA5MzBfMTQw/MDAxNjY0NTA2NTIwNTky.PStmI_Hzx9nHK-jTyNDecd4mBcTtSGNEiVhACQydcTYg.B3fAeOxLEE8Dibp3nDJ-W8R8Q9IM2wC4TubPxTk-ZBAg.PNG.lovesnsj00/profileImage.png"
+          },
+          {
+            "sid": "36341137",
+            "bodySummary": "다양한 죽 메뉴들이 있습니다 전복죽부터 시작해서 동지팥죽, 호박죽 등등 안에 메뉴판을 보시면 진짜 많다는 것을 알 수 있습니다 내부 서대문 맛집 새봄떡국국수의 경우 내부가 그리 넓",
+            "url": "https://m.blog.naver.com/25hun/223314506504",
+            "nick": "후니닝",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMTFfMjA5/MDAxNjk5Njg1MzkxNTA3.neNYaOt5llJ2f8p30tNtqSW18eQuJ0psVDbtO7it0BIg.EIhN45ItZ1j3FB0VFYsl5n72UnhnUpLO558DH6zkugAg.PNG.25hun/profileImage.png"
+          },
+          {
+            "sid": "36341137",
+            "bodySummary": "서울 떡국 맛집으로 검색했을 때 제일 위에 떴던 서대문역 근처 새봄떡국국수를 방문했다... 사실 떡국을 그렇게 좋아하진 않는데 새해 첫날을 유의미하게 보내고 싶어서 방문~~~ㅋㄷㅋ",
+            "url": "https://m.blog.naver.com/ohesi10004/223313383186",
+            "nick": "최먹지",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMjNfMjAy/MDAxNzA1OTg2MDc1ODk3.40RFhFf-zD4q_mfQ7kukmdqgaDorIHaGvMtRfpMWWC4g.w-YVIAdaatCbPxqfkQRYVyt_tXVxy5OMJ9vigR7P1rAg.PNG.ohesi10004/profileImage.png"
+          },
+          {
+            "sid": "36341137",
+            "bodySummary": "금액대가 저렴한 편은 아니지만 양에 비하면 나름 가성비 괜찮다고 할만한 곳! 결국 저는 좀 남겼는데도 배가 터지는 줄 알았어요 ㅋㅋㅋㅋ근처에 볼일이 있다면 또 방문하고 싶은 곳이었",
+            "url": "https://m.blog.naver.com/starrynht/223291800944",
+            "nick": "아람",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEwMzFfMjUz/MDAxNjk4NzYwMzM1NDM1.rLs5eGPF2Xy4Sy3IdJZDcuwGhJuTvm4RODc0mUV_KOkg.mjQZ63tW_gya5cbWMNwSnO1OKLYbbs92TQNEwQqPVh4g.JPEG.yj9340/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "id": "37658894",
+        "name": "장호왕곱창김치찌개",
+        "x": "126.9685996",
+        "y": "37.5674049",
+        "distance": 0.055,
+        "categoryName": "곱창,막창,양",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220767",
+            "221540"
+          ]
+        ],
+        "category": [
+          "한식",
+          "곱창,막창,양"
+        ],
+        "reviewCount": 174,
+        "averagePrice": 14000,
+        "address": "서울특별시 중구 충정로1가 62-15",
+        "roadAddress": "서울특별시 중구 새문안로 24",
+        "abbrAddress": "충정로1가 62-15",
+        "shortAddress": [
+          "서울 중구",
+          "새문안로 24"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 충정로1가 62-15",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMThfMjUz/MDAxNzYwNzY3MTMyNDE4.DXLTPKh1dmZuOftKCCUuknnXvDrA4Z-0IW-HmAljLVsg._4aBc-YBY0DP0yaWAKxIhBNvODDgxsk_NB_vwahsUtUg.JPEG/CYMERA_20250906_121928.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDJfNCAg/MDAxNzQ4ODQyNzQyNDI3.uoAIEfHIWJTko9xoBd5UbkeeAPZDQrLpbW99NYTP-kYg.MyuKCmr0OgYv7W4WSf8DdYI-5DF59e3Kh74YiQPxy8kg.JPEG/20250522_121035.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20180822_140/1534912312973pqrJF_JPEG/apVvU-gxtbmwt5sbv7kMnUse.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTFfMTQ1/MDAxNzU0ODgxODE5ODI1.ZYoo0S5jLmdvHKlbyM_WgmwZHI6MQXL0JKxIQkCqNtkg.1TTFKS8CK8UjD62xLUzw73J8w6c6xjgmUlFU6TCzGkQg.JPEG/20250811_120809.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20180822_89/1534912316297TJJGq_JPEG/48EF1wqDeITiy8VmaBD5YijN.jpg",
+          "https://ldb-phinf.pstatic.net/20200422_119/1587547111648c8r5G_JPEG/dcaNyBuhIMJssfRtsvxvkSWb.jpeg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221540",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "37658894",
+            "bodySummary": "정~~~말 신김치로 만드는 김치찌개가 땡긴다면 생각나는 #장호왕곱창 김찌 바로 가보자고 2층에 있는 곳으로 고고링~! 우리가 들어간지 얼마 안됐을때부터 사람이 다 찼다 #장호왕곱창",
+            "url": "https://m.blog.naver.com/ujk5080/223228061408",
+            "nick": "또또",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTEyMTdfMjI3/MDAxNTc2NTgzOTQzODQ4.S3l4FaDz7-cvw-rPMPiVei1O8_7M3aJXJ9XRA2Xd6Ccg.dN4Q8iY4zNykblni7iBFMri6CC701Ux_tKUBC0K16-og.PNG.ujk5080/profileImage.png"
+          },
+          {
+            "sid": "37658894",
+            "bodySummary": "어떤 포인트가 있었는지, 서대문역 장호왕곱창 김치찌개 방문 후기를 포스팅 해 보겠습니다.장호왕곱창 김치찌개 서울 중구 새문안로 24 (서대문역 5번 출구 188m) 매일 10:00",
+            "url": "https://m.blog.naver.com/kirby_100/223187380790",
+            "nick": "Kirby40",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA5MDNfMTI0/MDAxNjYyMTMwODg5Mjk1.lPmIr3UxtaamU0bmSpvI9ju6B1ZcqxN7ZXeiZCCX624g.Hws9uzjzYe6h87JSnwnhytDD0p7OqOz-LPE7R1npptQg.PNG.arrupe89/%25EA%25B7%25B8%25EB%25A6%25BC1.png/%25EA%25B7%25B8%25EB%25A6%25BC1.png"
+          },
+          {
+            "sid": "37658894",
+            "bodySummary": "서대문역 5번 출구로 나와 농협을 지나 계속 직진하면 건물 2층에 #장호왕곱창김치찌개 가 보인다 장호왕곱창은 예전에는 을지로 근처에 위치하고 있었던 것 같은데 이사를 한건지 지금은",
+            "url": "https://m.blog.naver.com/b_b91/223102352141",
+            "nick": "chihiro",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAyMTlfMTIw/MDAxNzA4MzI4NjY5NjM0.4Zn7TZ-LIWG5QRpXAZ7K_c6MdYuZqYjYek8BFuiJ43sg.Lm5xvNSQhEqEkurmwdHtWXn-30PiUZRRa4Ibqhmzwz4g.JPEG/profileImage.jpg"
+          },
+          {
+            "sid": "37658894",
+            "bodySummary": "<둘째피기> 오늘은 나란 피기가 너무나도 애정하는 김치찌개 맛집을 다시 끄적여 볼 예정임. 진짜 너무 내 스타일이여서 피스(피기스타일) 많은 분들이 꼭 한번 드셔보셨으면 하는 종로",
+            "url": "https://m.blog.naver.com/piggy3_kjk/223043117698",
+            "nick": "피기",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA1MjRfMTEw/MDAxNjg0OTA3NDE4OTIw.bYyaHJDmXa3Txv-a5dPUWT-Nn2E_1xlU1E462Qdtey0g.ZerT8NsQoUV8PQLqx4u7HCVVJ2FrxtDU6eVNnwj2hCYg.JPEG.piggy3_kjk/%25EC%25A0%259C%25EB%25AA%25A9%25EC%259D%2584_%25EC%259E%2585%25EB%25A0%25A5%25ED%2595%25B4%25EC%25A3%25BC%25EC%2584%25B8%25EC%259A%2594_-001_%25287%2529.jpg/%25EC%25A0%259C%25EB%25AA%25A9%25EC%259D%2584%2B%25EC%259E%2585%25EB%25A0%25A5%25ED%2595%25B4%25EC%25A3%25BC%25EC%2584%25B8%25EC%259A%2594_-001%2B%25287%2529.jpg"
+          },
+          {
+            "sid": "37658894",
+            "bodySummary": "김치찌개인데 김치를 반찬으로 내는 패기 모든 반찬이 길쭉길쭉 길어 식감이 산다 점심에는 김치찌개를 찾는 손님으로 가득찬다 김치 본연의 맛을 잘 살린 순수 김치찌개다 고기는 평균 엄",
+            "url": "https://m.blog.naver.com/iwillcrew/221453375251",
+            "nick": "ardor",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA5MTdfNDgg/MDAxNjYzNDAxMDE3MjYx.aQ_HU85QnNxfsYIZFzW2duOt9E3D9qfIexDd-20NgqQg.iYF4lsM8VjHOy5VyeFMOUHxo5T7_T-3sRplzaJ2oc50g.JPEG.iwillcrew/20220620_114258.jpg/20220620_114258.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "id": "2078749402",
+        "name": "메가MGC커피 중구삼성병원점",
+        "x": "126.9689047",
+        "y": "37.5677465",
+        "distance": 0.051,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "231192"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 12,
+        "averagePrice": 2000,
+        "address": "서울특별시 중구 충정로1가 58-4 1층",
+        "roadAddress": "서울특별시 중구 새문안로 28",
+        "abbrAddress": "충정로1가 58-4 1층",
+        "shortAddress": [
+          "서울 중구",
+          "새문안로 28"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "안녕하세요 메가mgc커피 중구삼성병원점 입니다!",
+        "description": "안녕하세요 메가mgc커피 중구삼성병원점 입니다!",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDFfMTk5/MDAxNzU5Mjk2NTA3MDE0.hYqkjK8MF7-0mTSEAhZr58Kz8zp5eu9lrl90IUWvpucg.tLTY73QhEIH6X7ZmrUt9sZ9_35qbu_unQ2cVrdlJh-kg.JPEG/20251001_141705.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjJfMzcg/MDAxNzYxMTM4MTM4NDI5.NJO3fP26rq9D46NBT0wjLxerQ7cu47h7stirCvDW21Eg.InorsgpSxJpFbspYSRKxXSn26bY-D_hKqvXrRgHh5tQg.JPEG/20251022_120620%280%29.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250814_66/1755138225055CfC5M_JPEG/%C1%DF%B1%B8%BB%EF%BC%BA%BA%B4%BF%F8%C1%A1_%B8%C5%C0%E5%C0%FC%B8%E9.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTZfMTk3/MDAxNzU3OTg1MzM4MTI5.ZOx9lmt57_aDyz2TXfGJQuF6onHmROGREzLv1g3D9HIg.HZPVmqlrRCRrJXcH8Xt847dvn8zbEiZPEgHPDk56gfog.JPEG/20250916_100655.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDNfMTc5/MDAxNzU5NDk1NjU4NTQ4.gDy8GwPHVE6Q_wb90EBd-DBQvL3vLjUxGHmQ7x8pM50g.nZL4e6B0p1hBxUbyujJtlanYneisa5sx2-Sl6S7hA5Ug.JPEG/2664BF41-EC3D-4524-A511-8CC0EFE3E15D.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjRfMTA5/MDAxNzU4NjgwNzA0ODI3.T2gTchYhGLiVMtb_6MRDONphQDLHu2OMJ2284t3KwJEg.CdEEV6kCnJlGvf3r9kgo-qDpwECoD7e5q-fMQroVx2gg.JPEG/F97C7875-9D0A-483E-BC8D-00279CC1A5B8.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDNfODYg/MDAxNzU5NDcxNjY1MzE4.Js-aEAxt4AqyKNwqy_Lgvyawlvthb3EazJv_aobrBbog.os_LopqanMYioRE1PBeSDXuOzpY7P5WuopcqN_8fE84g.JPEG/20240812_115648.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjNfODgg/MDAxNzU1OTM5MTI5Njgy.sIrY8iCerPWd8Zg54dpIq9bRKe92M0KB01vU2eih2osg.ajAWgEwDDMSJZTrlw9S0CP7sK3AuL2zjPZhvVSFdBdsg.JPEG/20250811_084556.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "231192",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 4,
+        "id": "1922365775",
+        "name": "밥스토랑 골프존파크 정동스크린",
+        "x": "126.9687951",
+        "y": "37.5675154",
+        "distance": 0.055,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "1004679"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 3,
+        "averagePrice": 0,
+        "address": "서울특별시 중구 충정로1가 58-3 청양빌딩 지하1층",
+        "roadAddress": "서울특별시 중구 새문안로 26",
+        "abbrAddress": "충정로1가 58-3 청양빌딩 지하1층",
+        "shortAddress": [
+          "서울 중구",
+          "새문안로 26"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 충정로1가 58-3 청양빌딩 지하1층",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1004679",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 5,
+        "id": "2054377388",
+        "name": "빨라쪼델프레도 정동길점",
+        "x": "126.9687951",
+        "y": "37.5675154",
+        "distance": 0.055,
+        "categoryName": "아이스크림",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220578",
+            "221376"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "아이스크림"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 5000,
+        "address": "서울특별시 중구 충정로1가 58-3 1층",
+        "roadAddress": "서울특별시 중구 새문안로 26",
+        "abbrAddress": "충정로1가 58-3 1층",
+        "shortAddress": [
+          "서울 중구",
+          "새문안로 26"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "1880년부터 시작된 이탈리아 정통 젤라또를 빨라쪼에서 만나보세요. <젤라또의 특징> 원재료의 맛이 그대로! 낮은 공기함유량으로 쫀득한 식감! 낮은 유지방 함량으로 깔끔한 끝맛!",
+        "description": "1880년부터 시작된 이탈리아 정통 젤라또를 빨라쪼에서 만나보세요. <젤라또의 특징> 원재료의 맛이 그대로! 낮은 공기함유량으로 쫀득한 식감! 낮은 유지방 함량으로 깔끔한 끝맛!",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20251020_258/1760934359463QrbPB_PNG/%C7%E5%C6%C3%C4%B8_%B7%CE%B0%ED.png",
+          "https://ldb-phinf.pstatic.net/20251027_129/1761537785817TDtqm_JPEG/%C1%A4%B5%BF%B1%E6%B3%BB%BA%CE.jpg",
+          "https://ldb-phinf.pstatic.net/20251027_285/1761539034792SgxjW_PNG/KakaoTalk_20251027_131711831_04.png"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221376",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

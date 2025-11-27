@@ -1,0 +1,96 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 1,
+      "count": 1,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.98822916351367,
+          "minY": 37.5628963963964,
+          "maxX": 126.9893657372374,
+          "maxY": 37.5637972972973
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.98879745037553;37.56334684684685",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "36734452",
+        "name": "카페 만남",
+        "x": "126.9888851",
+        "y": "37.5633118",
+        "distance": 0.009,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221212"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 45,
+        "averagePrice": 0,
+        "address": "서울특별시 중구 저동2가 69 영락교회50주년기념관1층 카페",
+        "roadAddress": "서울특별시 중구 수표로 33",
+        "abbrAddress": "저동2가 69 영락교회50주년기념관1층 카페",
+        "shortAddress": [
+          "서울 중구",
+          "수표로 33"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 저동2가 69 영락교회50주년기념관1층 카페",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDRfMjE1/MDAxNzU5NTM2OTgyODQ3.FLazJOTT-UBcbELD5zFSlSlgJ3Aln8IlPJetdzVkBB0g.24pH3o8R57GjZCUV7Ag92c9N-mE6vGvaeCB8C2YuSxgg.JPEG/20251001_142533.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDJfMjUy/MDAxNzU5MzM2MTkwNDMx.1UR8XiO8BB3qB8gfW3b1wBn6-We5-0yi1BirXX-srzYg.vUriX_CS4s32Tq0_qjLbsoZhJE9jGo7cMnWZ0mzmYugg.JPEG/20250928_151148.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTJfOTgg/MDAxNzU3Njc0MTE3NjMx.1HoCWF5zwu-jMPHaWCv0tGR6So8_Q1lebRXByrv3j0Eg.nrGrX1kdd6uQekfs-zXKfSTVSAOPWcUc8tRiO4Ahf0Yg.JPEG/20250912_144306.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221212",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.86",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

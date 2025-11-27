@@ -1,0 +1,1029 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 13,
+      "count": 13,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.97913657372374,
+          "minY": 37.5601936936937,
+          "maxX": 126.98027314744748,
+          "maxY": 37.5610945945946
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.9797048605856;37.56064414414415",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1929748641",
+        "name": "퀸즈베이커리",
+        "x": "126.9791711",
+        "y": "37.561044",
+        "distance": 0.065,
+        "categoryName": "베이커리",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220564",
+            "221161"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "베이커리"
+        ],
+        "reviewCount": 4162,
+        "averagePrice": 6000,
+        "address": "서울특별시 중구 남창동 1-1",
+        "roadAddress": "서울특별시 중구 남대문로 30",
+        "abbrAddress": "남창동 1-1",
+        "shortAddress": [
+          "서울 중구",
+          "남대문로 30"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [
+          "호텔 식빵과 머랭 쿠키로 달콤한 휴식"
+        ],
+        "cardDescription": "호텔 식빵과 머랭 쿠키로 달콤한 휴식",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDJfNTYg/MDAxNzU2NzgwODMwNjEx.E7V2O_LEiO46jOTGlsN_m7Cqy6eRdR9kOOiPlinDLlEg.K_2B82jb0BWjNyay_8EJQwNFtmfndXUI56vEuXaB-fQg.JPEG/20250902_105551.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjFfNTIg/MDAxNzU1NzQ3MjMwMjE1.p4r5AsrX_9sZ1aRCKODtdil3KBb-_z1dWGSD7ZyXdtYg.DX3H9p4npOxqo7yvOTcoAV-cva8j0QwVNHDZThkmyU0g.JPEG/20250821_121735.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240522_41/1716344502932FH4Dd_JPEG/KakaoTalk_Photo_2024-05-22-11-20-31_001.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDJfNDgg/MDAxNzU2Nzc5NjQzOTk5.ASmwTy2jhaLS_P0oBTxX0aNlXkVKohM1mPathq6cSGAg.0xFHEAnknDt-XRQsOc-Ryf1DjZJuv0XPzPN6YN5jGBog.JPEG/20250830_171220.heic.jpg",
+          "https://ldb-phinf.pstatic.net/20240522_197/1716344497500UvN8n_JPEG/KakaoTalk_Photo_2024-05-22-11-20-31_002.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjhfNjkg/MDAxNzUzNjc4OTQ1MzEy.WpPlHYXMvLiz7ipnP1WueIV1zZ-uvRZDxkTn1iLuhoMg.A0dtwFX1Ddd0lt81TkKJtoplV4GUnfeGYUxipm54yDMg.JPEG/20250728_135130.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240522_261/1716344492072QJ8lH_JPEG/KakaoTalk_Photo_2024-05-22-11-20-31_003.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTFfMTA3/MDAxNzYwMTY0NjQwMzkx.vu0Ke14YSjQChhZQ8KWbeYCY79KlOK4iMOn9lQUgTcsg.QFNV5e9UF4377WtCWOq1SJxB2jLWUiqug7Ksyo49V5Qg.JPEG/20251011_153612.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjZfMTg2/MDAxNzQ4MjQ3MTg1NTMy.b9h8j7KxiM4gmhrhuJy-iZ8MSjDVYCoLjE-k5g_fzdog.LRNN2y6r1mf4r1Qo5z6Zd4t2_U9LVGKJkY-ATBfbIOog.JPEG/20250525_161033.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTFfMjE3/MDAxNzU3NTkwMDU0NTgz.9KD_f2B7vd7_zX8E7VgsO72-1RgjP0TX1N90BDhk56Yg._p18USXZ2CZOdsIULwrQohiuvvD-JNxhu1UgxbUndP8g.JPEG/77018917-3807-4A07-B06E-D64690E08CFC.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221161",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1929748641",
+            "bodySummary": "싶어서 맛도 궁금해서 픽~! 통단팥 보여지시나요? 진짜 깜짝놀랬어요 엄청 속이 꽉차고 단팥이 이래 튼실할줄이야 안에 큰 호두 한알 통으로 콕 박혀있고 오~?! 저...빵 한개먹고 ",
+            "url": "https://m.blog.naver.com/white8028/223396015183",
+            "nick": "아모레뷰티스타",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAxMjdfMjAx/MDAxNjc0NzkzNzY2MDI1.NvNuJqEKFFVRAUfV0AxaIZFpWmwwhDsQ6skdYaSd5nMg.sx2Tjlf4DA9jpmyEM_xZO8nldb204KtQdaGWZdq5qDog.JPEG.white8028/IMG_20221115_002015_680.jpg/IMG_20221115_002015_680.jpg"
+          },
+          {
+            "sid": "1929748641",
+            "bodySummary": "퀸즈베이커리 삼청점 영업시간: 매일 10:00-21:00 위치: 서울 종로구 북촌로5길 56 연락처: 02-723-8582 날씨가 오락가락하니 봄비가 내리면서 나도 모르게 봄을 맞",
+            "url": "https://m.blog.naver.com/j_yunji98/223391619780",
+            "nick": "지늉",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAyMjlfMjIy/MDAxNzA5MTcxMjAzNzgy.OzA0vCUA1FXnPD3sccEEg_TyvPMARFURdnO2iS13pA0g.rrKv6aoUBOjlbwx1-en0jk3TOKmSw-oJUdfcY5lE3vMg.PNG/profileImage.png"
+          },
+          {
+            "sid": "1929748641",
+            "bodySummary": "빵들의 종류가 정말 다양했는데 버섯이 들어간 샌드위치, 크림이 들어간 페스트리,딸기와 슈크림이 얹어진 미니케잌. 밤빵을 골라서 먹었습니다. 저와 친구들이 먹는 걸 참 좋아하지요~~",
+            "url": "https://m.blog.naver.com/vlsjt1003/223338884716",
+            "nick": "버터쿠키집 이야기",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAzMDhfMjUz/MDAxNjc4MjY3MDY4MTI0.Njm7mcMixljK6v6oeqQLwVsed2hyuIIO84KmIX_54ykg.lqyhMc7oupkOKRFXDkadZqKRJeHSAVOXDqOC_AojzAEg.PNG.qjxjznzl200/avatar_profile.png"
+          },
+          {
+            "sid": "1929748641",
+            "bodySummary": "회현역이랑도 가까운 베이커리고 명동이랑도 가까워요 내돈내산 접근성 좋은 빵집 알아 보러 출발! 먼저 외부 시설은 따뜻한 조명을 활용해서 고급지게 꾸며 났더라구요 겨울 분위기 나서 ",
+            "url": "https://m.blog.naver.com/coolyum2/223321173827",
+            "nick": "푸먕이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMjNfMTY2/MDAxNzA1OTM2NzI4MjI5.O_UyAcovE-E2_UdQNFwx3mALr75Ikjj_1_hslP6rW9Mg.LiKoTwB-zPllvri9CkVbVhKmzo8J5y4ZnaScBEhZUvEg.JPEG.sanspareilsmyn/profileImage.jpg"
+          },
+          {
+            "sid": "1929748641",
+            "bodySummary": "퀸즈베이커리 평일/토요일 08:00-21:00 정기휴무 일요일 정말 추웠던 지난 주말! 명동역/회현역 근처를 헤메다가 딱! 보이길래 들어간 회현역 카페 퀸즈베이커리 친구가 전에 익",
+            "url": "https://m.blog.naver.com/102dday/223269521471",
+            "nick": "백돌",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMThfMjk2/MDAxNzEwNzYyNjUxMzYy.uP389KU6XlRC4oY5eF6lBXRQtfW_jQu2VRtf1vN-NyMg.HsClDQ4SS8KIpThcwiieH7r0A6BVUfpThNDeIq5q6vgg.JPEG/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "id": "1525612888",
+        "name": "서울한우 남대문점",
+        "x": "126.9794699",
+        "y": "37.5607228",
+        "distance": 0.023,
+        "categoryName": "소고기구이",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220764",
+            "221440"
+          ]
+        ],
+        "category": [
+          "한식",
+          "소고기구이"
+        ],
+        "reviewCount": 1150,
+        "averagePrice": 10000,
+        "address": "서울특별시 중구 회현동1가 199-6 2층 서울한우 남대문",
+        "roadAddress": "서울특별시 중구 남대문시장길 61",
+        "abbrAddress": "회현동1가 199-6 2층 서울한우 남대문",
+        "shortAddress": [
+          "서울 중구",
+          "남대문시장길 61"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [
+          "진한 국물의 한우 해장국밥 한 그릇"
+        ],
+        "cardDescription": "진한 국물의 한우 해장국밥 한 그릇",
+        "description": "서울한우는 최고의 한우를 제공하는 전문 브랜드로서, 고객님의 미식 경험을 최고로 만들기 위해 노력하고 있습니다. 품질, 신선도, 서비스에서 타의 추종을 불허하며, 국내 최고 등급의 한우 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDZfNiAg/MDAxNzU3MTYwNzEyNTUw.MzzeDVCxpzJ54HeICFPqxGI46JJfZhBLmUV9NAmQfpEg.N9j9v8EeT0RPrCWo93it0yCdbkI-UIAQjjGYSC75WeMg.JPEG/3163FC25-1795-4B77-BB55-36412BBCDBA7.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTFfMjcx/MDAxNzUyMjMxNTYxOTM0.hAO62YrTel-gdX6BhpZJOI1WTreupUIOzuf1oJQa2dAg.rDu02o4uUOPs_RB_JnCDMkXypTvIYVbyRzKo9KMDybkg.JPEG/41EC9CA0-0141-4260-B4B5-84251A9760ED.jpeg",
+          "https://ldb-phinf.pstatic.net/20251008_46/1759892848713glnY8_JPEG/KakaoTalk_20250527_230429392.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDdfMjgy/MDAxNzU5ODEyNzI4NTc0.fzRHm-4NeuhKaJF__ltdoN81TyqJPrR8Dt4eFkkYGeQg.1_tMjswewANc9fTE2eRKpdzsWJHCPagmNvgkFKSEbe0g.JPEG/20251007_134935.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20251008_213/17598931864848aiwp_JPEG/vip2.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTFfMTUy/MDAxNzUyMjA2NTI5NjM0.fMCWXuK6oVEgjj_0NMEHst2M3jss3Lf_PlwntgTV8QAg.yTCJpIqTcDfN6acEOq_AcW_vSZIHQG1YMItQlvOWL_Mg.JPEG/E8665834-B575-4510-A17F-8A07A4B2FE81.jpeg",
+          "https://ldb-phinf.pstatic.net/20250929_44/1759120213398XRxyX_JPEG/KakaoTalk_20250929_125900631_01.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTRfMTE1/MDAxNzQ5ODc3NTU4MDA1.1cXhmYWPDxxGlSZ_GpmwCDZslEj0C56ahQw-hb9gAAUg.syDvPcckQV0RDfoORqfgCN48eSLwFBYgmZKjgdHl9oYg.JPEG/C36E5528-065A-4FA5-8F74-0AA15F689FFB.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTBfMTk5/MDAxNzQ5NTIzMjQ4NjI4.UD4a2XO573dSHTaqMJxq6hdfhNZJbqjdInM0TkMHzOgg.dnUl42Ihh4e3jFlouQo_w7zDrtmTrQ8KL1SjYoj0hwUg.JPEG/781D5385-15B3-45A8-9CAA-E631843A49D3.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTBfMjcz/MDAxNzUyMTE0NDQ1Mzc5.HzP81QWjU8e1qH8rG9TCfqDT_t3d1vxyYUv__KKZPCYg.4-mII5wK6acY74p_kUAMFqapZ59kgWvfqwkdb4lvAF4g.JPEG/20250710_112238.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221440",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 3,
+        "id": "2034308962",
+        "name": "베델",
+        "x": "126.9795339",
+        "y": "37.5607163",
+        "distance": 0.017,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221212"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 12,
+        "averagePrice": 5000,
+        "address": "서울특별시 중구 회현동1가 199-6 1층",
+        "roadAddress": "서울특별시 중구 남대문시장길 61",
+        "abbrAddress": "회현동1가 199-6 1층",
+        "shortAddress": [
+          "서울 중구",
+          "남대문시장길 61"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "남대문 시장 속 작은 휴식공간",
+        "description": "남대문 시장 속 작은 휴식공간",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDFfMTIg/MDAxNzU2NzA5MTQxMTkz.im_F5dITZY3qR--bD8_HYFR5Ii-VGPLoiETC5xZzeKsg.X0zqOElYIgFzXow7jgLlzvFEEr578oPcoCTmHuMnryMg.JPEG/8A547D8A-3DD5-40E7-8BFA-F69B96A10EC3.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDNfMjUz/MDAxNzU2ODkzNTIyODEy.T_92GIOMwpwPfcF58j0SkwG0j5KSs0HJovk6kz-Yhhkg.5l5Z2lrCG2oAglBFbChXtIq0b2IpRjmFHHcUB2dNA1cg.JPEG/956F1B54-466D-41D3-BAA7-8B00F3E21AD0.jpeg",
+          "https://ldb-phinf.pstatic.net/20250925_123/1758788469696FYNaF_JPEG/1000033257.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTlfMTkg/MDAxNzYwODgxNjM1Mzgy.XQq-wvtAUGetGBqcnZjTLm6FxrOLSMeUxbObfK8DIR4g.CdYFh0fGAUMx7prSSIgcCkz_rGkrMLlDkq9XwhUI9Nkg.JPEG/1759111370188.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250825_197/1756089295998Xbgoh_JPEG/1000006308.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTVfMTE4/MDAxNzYwNTMyNTM4NTk2.Cx4_ZWGE6c3NZMKTlUpsLrzdrRa_h30Oa3Q5h5anYLIg.C-cPrQfJeeutl5jrlduBUS41GwVGO8jd8L4cALH_zFAg.JPEG/20251015_162459.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250825_51/1756089295960iqsiU_JPEG/1000006313.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTdfMTgg/MDAxNzU4MDk4NTY3NzA1.tzrJ2m32HhLUJ5so_RY_qkUROgDex20l3renFLktxZYg.FiSF4rc2sAdyVC4Fmxw0_qevnoZnh0Jj2AmtPP0SxIkg.JPEG/20250916_134549.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTZfMjEg/MDAxNzU4MDEwNTI0Njk5.lHRE1v7cJn37lwdRTCAvv7L77vjX_h8dumLyiNnf6-Ag.bOPiXCgzMicGBu1IyGXnsyTguKV_ZkpJXoEArKx_2nkg.JPEG/ED95764F-59B4-421A-9BBB-2F3AE9B45D97.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDNfMTYx/MDAxNzU2ODc4MTM2MzU2.XiUSgn-y0k-egWZ2nigOk6gdu6yj8_2dLuDJ_oTmycAg.ec6R9kh0kG0YFng1TMEV37L-X8X811sVgIUPOIv2NFog.JPEG/20250901_091721.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221212",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 4,
+        "id": "1999175151",
+        "name": "본정카페",
+        "x": "126.9800225",
+        "y": "37.5608566",
+        "distance": 0.037,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "1002181"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 110,
+        "averagePrice": 0,
+        "address": "서울특별시 중구 회현동1가 202-6",
+        "roadAddress": "서울특별시 중구 남대문시장길 73",
+        "abbrAddress": "회현동1가 202-6",
+        "shortAddress": [
+          "서울 중구",
+          "남대문시장길 73"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 회현동1가 202-6",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20191010_270/1570668955339CiXaU_JPEG/rSxtAUb7yolcxgPh7NP7gSGo.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1002181",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 5,
+        "id": "1797473052",
+        "name": "L&P COFFEE",
+        "x": "126.9800569",
+        "y": "37.5608479",
+        "distance": 0.038,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 50,
+        "averagePrice": 3000,
+        "address": "서울특별시 중구 회현동1가 202-6",
+        "roadAddress": "서울특별시 중구 남대문시장길 73",
+        "abbrAddress": "회현동1가 202-6",
+        "shortAddress": [
+          "서울 중구",
+          "남대문시장길 73"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 회현동1가 202-6",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDRfMTA2/MDAxNzQ5MDMxOTg2MTgz.a0nkMTDaKUPyhGkHVgIg2mMZ6KZC4zXGXwFaU1hexgMg.1IMKvCAkR_pIFGo2Ri7r8Gxn1YuDPAgjQIK9-20y9rcg.JPEG/20250604_132141.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTdfMjU3/MDAxNzU4MTA3MDUwNzM1.XABD_diJl0BDzUK4sGJrGDmyH3s_2pAKwLPxBXQelQwg.HwLrwEZ-0Aa_E2VZp_Hr52tDFCpPLNEEY9lJ_VEYickg.JPEG/C1803F98-2E7A-426C-A3D0-DBBB6F52D087.jpeg",
+          "https://ldb-phinf.pstatic.net/20220325_172/16481645693043txzW_JPEG/1648164549604.jpg",
+          "https://ldb-phinf.pstatic.net/20230215_251/1676403076705zPpWc_JPEG/20230210_163912.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 6,
+        "id": "1185457405",
+        "name": "아저씨네",
+        "x": "126.98005",
+        "y": "37.5608309",
+        "distance": 0.037,
+        "categoryName": "종합분식",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220185"
+          ]
+        ],
+        "category": [
+          "분식",
+          "종합분식"
+        ],
+        "reviewCount": 157,
+        "averagePrice": 6000,
+        "address": "서울특별시 중구 회현동1가 202-6",
+        "roadAddress": "서울특별시 중구 남대문시장길 73",
+        "abbrAddress": "회현동1가 202-6",
+        "shortAddress": [
+          "서울 중구",
+          "남대문시장길 73"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 회현동1가 202-6",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjJfMTY3/MDAxNzQ3ODkzMTQ1NTA0.7hKyv0THEhvrs4KLek4VD5rE9m1ZniK7avM9nIurrNsg.BRfS8ngnPT1N_v-iU_O1MECnYEEOsVpzvc8JPW8iVwYg.JPEG/1747892606641.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MzBfMTIz/MDAxNzQ1OTg5MjQ5MzU4.z4s9g2ybTUppG3OocpRq0Tgtsm6VfB8qTmVb92phu54g._V4sblYJQzLWOGjWiqK_TqTunAYAY8b3rNZNpj72HSMg.JPEG/1745988307934.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20230214_85/167631835451403q8A_JPEG/20230210_163930.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MzBfMjg2/MDAxNzU5MjM1OTQzMDY5.hJXo8MYs6X1dku56y9rEFWxfugwr0JgKO2RmWtC1PREg.ZoC1bckwTQj_XlYJnRz5gekmbTk-ZvpL3V4PlfEhMYMg.JPEG/428706BA-9D92-413E-9264-148C37B84BBD.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDNfMjYz/MDAxNzU0MTk2ODgxNzUy.MbXJkHfih4vjcUkaX-UuHLPqSaqMuSYeaVqBltC3q-og.WAekOy-cB4VrS4p1SequSjsYI5YLKfp4_JiU0bXq2BUg.JPEG/C9E471A7-207B-448A-9E2F-E89286DB0444.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220185",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.33",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "1185457405",
+            "bodySummary": "나는 짜파게티 성윤이는 만두라면 그리고 고추참치김밥과 치즈김밥을 시켰다. 우린 돼지 히히 우라는 윗층에 앉았었는데 아래에서 조리하는게 다 보였다. 아마도 우리의 치즈김밥으로 추측되",
+            "url": "https://m.blog.naver.com/rightsilvers2/222996057519",
+            "nick": "김제니정은",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA2MTVfMjEg/MDAxNjIzNzM4NDI1MTM5.t2HNXPNmWiKZXy6-L2gA2foXLkSy-9EOv-5OcNlf4Mog.HPxKr-yn2Elx5dBInuy-uQDVSdy5BfC4xK0g1hKfrTAg.JPEG.rightsilvers2/333dd43f1d4a7d758602dd30fe6ac4f1.jpg"
+          },
+          {
+            "sid": "1185457405",
+            "bodySummary": "#회현역 #남대문시장 #맛집 #추천 #아저씨네 #분식 #김밥 #떡볶이 #순대 #내돈내산 익선동 나들이 전에 간단 점심을 해결하러 간 감자랑 밍이 우리 입맛은 찰똑이라! 분식으로 바",
+            "url": "https://m.blog.naver.com/qazw7sx/222721230005",
+            "nick": "밍이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAyMTJfMjYx/MDAxNjc2MTk5OTI0MDU1.-0rspb5mqtJMwZB9M5rb7EHafDsL2DPPBelqunnYg_Ag.ZlLIc1S1OY-YDxPpeI9FGMfp-uS5P7D8kCKiVG7ddtMg.PNG.qazw7sx/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "id": "11726524",
+        "name": "홍복",
+        "x": "126.9800814",
+        "y": "37.560982",
+        "distance": 0.05,
+        "categoryName": "중식당",
+        "categoryPath": [
+          [
+            "220036",
+            "220039",
+            "220091",
+            "220861"
+          ]
+        ],
+        "category": [
+          "중식",
+          "중식당"
+        ],
+        "reviewCount": 1527,
+        "averagePrice": 64000,
+        "address": "서울특별시 중구 회현동1가 202-5 일신빌딩 1층 - 5층",
+        "roadAddress": "서울특별시 중구 남대문시장길 73-3",
+        "abbrAddress": "회현동1가 202-5 일신빌딩 1층 - 5층",
+        "shortAddress": [
+          "서울 중구",
+          "남대문시장길 73-3"
+        ],
+        "displayContext": [
+          "중국집",
+          "짬뽕",
+          "짜장면",
+          "코스요리",
+          "재방문"
+        ],
+        "labelTheme": "고급 정찬",
+        "microReviews": [
+          "삼선짬뽕의 푸짐한 해산물 축제"
+        ],
+        "cardDescription": "삼선짬뽕의 푸짐한 해산물 축제",
+        "description": "저희 홍복1958은 중국요리 전문점으로 1958년 부산에서 고향원 이라는 이름으로 출발했으며  이후 1970년대 초에 서울 퇴계로 진양상가 옆으로 이전하여 본격적으로 홍복반점 이란 상호로 역사를 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMThfNCAg/MDAxNzYwNzY1Nzc3MDE0.OEPHgj6sBA6pnZK4byd3vaB0jwW-r-sUQ7JwmxI1LtYg.cA_Bq6J95m4SxfEvBhk4oRli87GZCfl7s6lvVJzZCVog.JPEG/1000174697.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjlfMTE3/MDAxNzU5MTUzOTQ5MTgx.1FhRyRAac2pSsxSCjLAn1f4rUy67fYqrWkTNhWAanJEg.3QbqiEL7Aok9a6FwzqXsB3XL3OK3VVuL8W4qV3P8oQYg.JPEG/20250919_121923.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20200703_256/1593706980580mIx6c_JPEG/93ueoUhJ2olbvNieM9ZIq8Uk.jpeg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTlfMTQ3/MDAxNzU4MjY1ODcyMTMw.HuqbHBYK4zadHgwaHzKeztxvdMVBt6ACFykspKzVGFIg.sQOSwjwdBO4PyjCABSPj9bdr3gzgy5UWI-0bTba2l8Ug.JPEG/5A66F7B6-2E55-4FC9-B479-75D2F300BAC1.jpeg",
+          "https://ldb-phinf.pstatic.net/20221116_25/1668577495575a2ip0_JPEG/EBE2AECA-6633-4D11-A4E1-B3013F909541.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDJfMjkx/MDAxNzU0MTIzNTcwOTY0.VlUYHVsjhYMJsMiGq4QYbswOdObSMpHSF5hI2pyIMt4g.rY4-oxGw_vK1Yo9l4mwhRJ1UnYVw4YL8ZQRc5RxYTGYg.JPEG/F112E2C7-0650-49A8-986F-259D2C442598.jpeg",
+          "https://ldb-phinf.pstatic.net/20220319_170/16476508042126vVfG_JPEG/84DC3267-AC31-4104-A23B-29EC86F95848.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjBfMTkx/MDAxNzU4MzczMjk3Mzk0.qoEW3xcx805UKh039qv8B9G_r3jYUhv3juxCnNDAkaYg.QqA_0wSZjRUt2lC_r8j9PaPDdwUPRXSKvTWuc02XZ_Ug.JPEG/20250919_171640.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDRfMTQg/MDAxNzUxNTU2MjUzMzky.jT0Zp7mjfabma10fJDkWwuYfM6_3qOD6ynkUcoF7OIEg.fBADtosNsZJgN3PmfjHXhccLDEt5F_-gjydyyBQBpjAg.JPEG/ADA6F67B-DB8A-4C35-9AA7-014A2CB405B6.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTZfMjUw/MDAxNzUwMDQ5MzMxMTYx.wowWOkggUZuguZFnjdK-PRnOrRzubNgFFM0OtEXOfwEg.vHdTsd_U0Etkt9v959G5G7x81J5wLL77ulS-_ZobDXsg.JPEG/IMG_5563.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220861",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "11726524",
+            "bodySummary": "서울 남대문 명동 블루리본 중국집 맛집 [홍복] 남대문맛집 회현역맛집 남대문시장맛집 남대문간짜장 회현역짜장면맛집 남대문중국집 명동맛집 명동중국집 남대문홍복 홍복 주소 서울 중구 남",
+            "url": "https://m.blog.naver.com/simsim-blog/223393670849",
+            "nick": "SIMSIM",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMzFfMTY4/MDAxNzExODc1MTkzOTU5.zgtD_nGilFWupxUa-eOZgoU4JzKKF7wonygxzZ1fM2wg.thm4KANlT9GxfAeo8S_HzYaw9kHk7eXcRK_xn070NOMg.PNG/profileImage.png"
+          },
+          {
+            "sid": "11726524",
+            "bodySummary": "여긴 건물이 4층 정도까지 있고 방 구성이 다양하다. 중국요리는 전분맛과 튀긴 요리가 많아 아주 맛이 없지 않으면 괜찮게 느껴지는데 여기도 규모가 크고 역사가 깊은 만큼 코스요리나",
+            "url": "https://m.blog.naver.com/chosw013/223319614693",
+            "nick": "chosw013",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxODA0MjRfMjMx/MDAxNTI0NTU5NDAyMDgx.6ox4g9IPc5fwKMHOxSBXScA5AkWcGp3aacqX8wrzqmgg.mimahme1VTKM5o_cZw06ttWp-vHFOiIbD0IKBS5ZYaUg.JPEG.chosw013/profileImage.jpg"
+          },
+          {
+            "sid": "11726524",
+            "bodySummary": "남대문홍복 #남대문시장홍복 #남대문짬뽕 #홍복메뉴 #홍복가격 #남대문시장홍복가격 #남대문시장홍복메뉴 남대문 홍복 메뉴 가격 자장면 8500원 삼선간자장면 11500원 삼선짬뽕 12",
+            "url": "https://m.blog.naver.com/blueteagood/223355005348",
+            "nick": "위드서비",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTAzMTZfMTc1/MDAxNjE1ODkxNTEzNjgx.09jZ-2HRBb4LQZqsVR70AvAM0XUJr4yq9brMZ-rDDsgg.AkhyfOy6shgo5McjdZ5JTCxF5H_MRSxLeEkdEr2SSi8g.JPEG.blueteagood/profileImage.jpg"
+          },
+          {
+            "sid": "11726524",
+            "bodySummary": "건물을 통째로 쓰고 있어서 주말인데도 자리는 많았어요 홍복 1958 매장정보 운영시간 : 월~토 11:00~21:00 라스트오더 : 20:15까지 브레이크타임 : 16:00~17:",
+            "url": "https://m.blog.naver.com/caj8443/223329004970",
+            "nick": "Woony MoM",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEwMzFfMTk2/MDAxNjk4NzU0MzYyNzM2.Po-x-YIQ9fImt3NWCBwnTqxAcLY2ybmSE8Nrei6YHfcg.03RWNpyJ1ntoLFRkfHcf0APR2Q2q8xyTR4YNN6myqaYg.JPEG.caj8443/profileImage.jpg"
+          },
+          {
+            "sid": "11726524",
+            "bodySummary": "또 삼선짜장이 간짜장인데 간짜장을 부어서 주신답니다. 근데 토핑이 진짜 실해서 완전 강추드려요. 짬뽕 짜장 그 무엇도 놓칠수 없어... 다만! 돼지교수는 이날만큼은 약간 불쾌했어요",
+            "url": "https://m.blog.naver.com/geniuspig777/223241248313",
+            "nick": "돼지교수님",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA4MDNfMjQ2/MDAxNjkxMDc0MjY5MTUx.VGChEa87zAfh4sMRfiWHFH3Nr-r2P7RgIbgPXxFu0awg.5JH9blwPoEWzWSWcB_2AxCDbz1jeClmmsnphcrUIUaYg.PNG.geniuspig777/%25EC%25A0%259C%25EB%25AA%25A9%25EC%259D%2584_%25EC%259E%2585%25EB%25A0%25A5%25ED%2595%25B4%25EC%25A3%25BC%25EC%2584%25B8%25EC%259A%2594_-001_%25281%2529.png/%25EC%25A0%259C%25EB%25AA%25A9%25EC%259D%2584%2B%25EC%259E%2585%25EB%25A0%25A5%25ED%2595%25B4%25EC%25A3%25BC%25EC%2584%25B8%25EC%259A%2594_-001%2B%25281%2529.png"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "id": "36193022",
+        "name": "카페벨라지오",
+        "x": "126.9792467",
+        "y": "37.5607546",
+        "distance": 0.042,
+        "categoryName": "테이크아웃커피",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220577",
+            "221358"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "테이크아웃커피"
+        ],
+        "reviewCount": 140,
+        "averagePrice": 5000,
+        "address": "서울특별시 중구 남창동 1-1",
+        "roadAddress": "서울특별시 중구 남대문로 30",
+        "abbrAddress": "남창동 1-1",
+        "shortAddress": [
+          "서울 중구",
+          "남대문로 30"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 남창동 1-1",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTdfMjM5/MDAxNzQ0ODU5ODQzNTUx.pBYdWRGfU1hN75GIHwR3iaebIAMpykzRupKN4F54ioMg.J8cLp4bQ5U8_jGF238hz-TW_VX3iY2R81voEVVguxtAg.JPEG/205497C6-00B6-4C75-915F-8F515429BE4B.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221358",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "36193022",
+            "bodySummary": "남대문시장 카페 벨라지오 메뉴는 이렇게 나와 있는데요, 과일주스와 군고구마도 인기 메뉴인 듯하더랍니다. 이날 날씨가 제법 추웠기에 따뜻한 차가 마시고 싶어 자몽차로 주문! 가득 담",
+            "url": "https://m.blog.naver.com/kimmin1467/223353209047",
+            "nick": "오월",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDA0MTRfMyAg/MDAxNTg2ODM0ODY2OTk0.LslQQvrXkid4z1ss0k3rFdTrhQqdL8w_oJ7kCiNr3Ecg.jv8-xu2dD46SF3bwvNTyDG51o4DPvQ_nfHfYJUKJtjcg.JPEG.kimmin1467/profileImage.jpg"
+          },
+          {
+            "sid": "36193022",
+            "bodySummary": "안녕하세용~~한돌이에요! 오늘은 서울 불광역 인근의 노트북 작업하기 좋은 카페를 소개시켜드릴게요♥️ 불광역 인근이구요~ 지나가다가 너무 예쁜데 카카오맵엔 후기가 없는거예요~(이럼 ",
+            "url": "https://m.blog.naver.com/lululuga/223082232616",
+            "nick": "한글로는 돌고래",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAzMjdfMTc2/MDAxNjc5OTI0NjcyMDgz.nqNu9ZOAMlhehYxUM3Rr5fNSYIFfpIX0AbsACwsHoKAg.B1rhuAtW22Vjjoz7Pr1_v3uNCSbnoXG_khFh0OyyJVkg.PNG.lululuga/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "id": "1374963880",
+        "name": "마라공방 회현점",
+        "x": "126.9800225",
+        "y": "37.5608567",
+        "distance": 0.037,
+        "categoryName": "마라탕",
+        "categoryPath": [
+          [
+            "220036",
+            "220039",
+            "1006063",
+            "1005603"
+          ]
+        ],
+        "category": [
+          "중식",
+          "마라탕"
+        ],
+        "reviewCount": 901,
+        "averagePrice": 10000,
+        "address": "서울특별시 중구 회현동1가 202-6 3층",
+        "roadAddress": "서울특별시 중구 남대문시장길 73",
+        "abbrAddress": "회현동1가 202-6 3층",
+        "shortAddress": [
+          "서울 중구",
+          "남대문시장길 73"
+        ],
+        "displayContext": [],
+        "labelTheme": "중식",
+        "microReviews": [],
+        "cardDescription": "마라공방 회현점 직영 매장입니다. 고객분들의 꾸준한 사랑을 받고 있는 매장으로, 매일 신선한 식재료를 받아 사용하고 있으며 철저한 위생 관리를 통해 최상의 맛을 제공하고 있습니다.",
+        "description": "마라공방 회현점 직영 매장입니다. 고객분들의 꾸준한 사랑을 받고 있는 매장으로, 매일 신선한 식재료를 받아 사용하고 있으며 철저한 위생 관리를 통해 최상의 맛을 제공하고 있습니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTlfMjI1/MDAxNzYwODQ5Njk0NTgy.1BWtOppbwpmMk_iE2m6C6UwGOth7rpKU58IR2hqSdDQg.MuZFVH4XQIt7wXJ3R-y9ER9XYqAn-ENtSyh6MmsJ_1Ug.JPEG/800AED5A-908C-474F-9008-C107D60A2773.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTZfMTYw/MDAxNzQ3MzkxNzA5MDY0.HyFTLlwyStxh-5TCU78lu9bqLdJshQ7GX2eyGHpOXIgg.wJUvuk4Dq4pmYY1Qjm351mF79ccqT-oHWC_-OQDQM5Yg.JPEG/20250513_151212.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20230313_164/16786973188201LP9p_JPEG/%BB%E7%C1%F8_%B8%B6%B6%F3%B0%F8%B9%E6_%B7%CE%B0%ED.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDFfMjMw/MDAxNzU0MDUzNzMzMTQ0.YrRc6cOWeu6x9sFLomDLbBzMiPrNgY8O__aAbDpAa8Yg.JrnjzFHW3h64kWOuxZW0ORMJLdW9XydY0OKYy-h5AAcg.JPEG/FF33F7CB-2725-4E91-A106-3C2BC751F049.jpeg",
+          "https://ldb-phinf.pstatic.net/20230313_133/16786973135684lsvi_JPEG/%BB%E7%C1%F8_%B8%B6%B6%F3%C5%C1.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDRfODMg/MDAxNzUxNTU4MTk5NDgx._BbSN6Sa9ZSQjXLJ6xFs4v8BFBEyc6S_6axJWpWsCO0g.eLMPI8usnIbk82yNjpMj55H7mGNwq2k82LI_GTc5sI4g.JPEG/20250630_114054.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20230313_98/1678697305997CXs3Q_JPEG/%BB%E7%C1%F8_%B8%B6%B6%F3%BC%A7%B1%C5.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDlfMjkx/MDAxNzUyMDM1OTk5MTAy.zhSwyI323JqNfiqsxIKJ1TNiDPjdJDPay1U6pRkb7BAg.JuWeRIRyndVF9rYj-XsEklX5turd4J0thxhrAuUxngMg.JPEG/20250709_133854.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTFfMzgg/MDAxNzQ0MzY3OTI1ODM4.d0JYXpmJuGsAODn05PBaED2TCeIljxl1NQLZjPen8FMg.qcmVmAkR2hUGs-6RxGTZ-Tee65hCLYmn4bAK8ynxMPMg.JPEG/20250409_111853.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MzBfMjky/MDAxNzQ1OTgyNjQ0NDgz.sE5rRevioKBBpE7hOwf2-B9tCwRvk_cvpWNlbH-R8msg.PUSTX3j5ZmayY-XKucPk11PgxtP2eG45Lk-jN_5gcJwg.JPEG/20250429_113922.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1005603",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1374963880",
+            "bodySummary": "명동 마라탕 맛집 마라공방 회현점 마라공방 회현점 매장 위치 : 서울 중구 남대문시장길 73 3층 영업시간 : 10:20~21:40 정기휴무 : 매주 일요일 이번 주말에는 그 동안",
+            "url": "https://m.blog.naver.com/lifefashion97/223393498230",
+            "nick": "월급쟁이 재테크",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAyMThfMjEy/MDAxNzA4MjI5ODU3NTU0.-N9nJSrEybe9Sgq3K3nUttQceHNUhA9DyId1iuOQsRgg.j-fcutOHGFZKg6MclfLpKtubFZEDUHm3arwDRjWLTtgg.PNG.kjh88812/profileImage.png"
+          },
+          {
+            "sid": "1374963880",
+            "bodySummary": "저희가 선택한 재료로 만들어진 마라샹궈, 밥이 먼저 도착! 마라샹궈 비주얼, 색감부터 너무 맛있어 보임. 맵기조절도 5단계로 가능하니 각자 입맛에 맞게 설정해주시면 됩니다. 모든재",
+            "url": "https://m.blog.naver.com/jwh_90/223392775706",
+            "nick": "희희낙낙",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA1MjFfMjkg/MDAxNjg0NjY1MDQ2Mjcy.htH_JOIqiFTjh1cJ3puMVpPmyc1U8JYQpOCbCv-rTN0g.ZZ_TXxyXR5yTYV1ZQ2sS-Ddohnv0n7cYaF0wkVpnjo4g.PNG.jwh_90/profileImage.png"
+          },
+          {
+            "sid": "1374963880",
+            "bodySummary": "회현역으로 직장을 옮긴진 얼마되지 않았지만 마라 맛집이 어디엔 있을거라 생각했어요 신세계 본점 맞은편 마라 맛집이 가까이 있었다! 저 건물 3층에 있다 (신세계 본점 뒷편으로 까사",
+            "url": "https://m.blog.naver.com/kimspam_/223374555745",
+            "nick": "배불러요",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAyMTBfMzAw/MDAxNzA3NTYxMzE4MTkz.iC66Ja4mzYHf5mdK-OUppgcVOoH3AknGNR1QfejU_nwg.WMwNtegTAEQldGfd_-RuUNP35CMd0mfS2GqFpOEhXo8g.PNG.26499951/profileImage.png"
+          },
+          {
+            "sid": "1374963880",
+            "bodySummary": "스트레스 받을 때마다 땡기는 명동 마라탕 마라맛이 다른 마라탕 가게보다 훨씬 잘 느껴지는 마라공방 회현점 다녀왔어요! 점심에는 손님이 정말 많아서 저희는 저녁에 방문했답니다 재료 ",
+            "url": "https://m.blog.naver.com/mango_record/223374370854",
+            "nick": "망고",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMTVfMjcy/MDAxNzA1MjUzODg5NjMw._Kfqb0fiC5sncHKesmPBhyWA6uEIqYvBwm1IXC2qU94g.1f6cHzK5vwP_YiMYG1rlsDZNEqfkPrQghHyfPiWtkNIg.PNG.mango_record/profileImage.png"
+          },
+          {
+            "sid": "1374963880",
+            "bodySummary": "신세계백화점 본관 안쪽골목에 있는 마라공방! 회현역에서는 7번출구에서 나오자마자 왼쪽으로 꺾고 직진하면 된다. 10시부터 오픈이었는데 10시 40분쯤 가니 직원분들만 있고 식사중이",
+            "url": "https://m.blog.naver.com/aowlrzlemaktnfl/223346155821",
+            "nick": "데일리지",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMjZfMTY4/MDAxNzA2MjU0MTc5MDMw.Sh4PIQJAZzdTQT5UQ04KuQ3_H4epIhDMHn-XKjBKh0wg.tzygmqCUWo-kMV1jfsREaleWpQuX0VyKMZa1wu2zF2wg.PNG.peridot_a/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "id": "18692157",
+        "name": "씨에스타",
+        "x": "126.9796215",
+        "y": "37.5603193",
+        "distance": 0.037,
+        "categoryName": "양식",
+        "categoryPath": [
+          [
+            "220036",
+            "220044",
+            "220126"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "양식"
+        ],
+        "reviewCount": 14,
+        "averagePrice": 0,
+        "address": "서울특별시 중구 회현동1가 204",
+        "roadAddress": "서울특별시 중구 남대문시장10길 2",
+        "abbrAddress": "회현동1가 204",
+        "shortAddress": [
+          "서울 중구",
+          "남대문시장10길 2"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 회현동1가 204",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220126",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 11,
+        "id": "1611813645",
+        "name": "신세계푸드",
+        "x": "126.9796027",
+        "y": "37.5603697",
+        "distance": 0.032,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 494,
+        "averagePrice": 0,
+        "address": "서울특별시 중구 회현동1가 204",
+        "roadAddress": "서울특별시 중구 남대문시장10길 2",
+        "abbrAddress": "회현동1가 204",
+        "shortAddress": [
+          "서울 중구",
+          "남대문시장10길 2"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 회현동1가 204",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 12,
+        "id": "1233787523",
+        "name": "버클릭",
+        "x": "126.9800225",
+        "y": "37.5608567",
+        "distance": 0.037,
+        "categoryName": "양식",
+        "categoryPath": [
+          [
+            "220036",
+            "220044",
+            "220126"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "양식"
+        ],
+        "reviewCount": 32,
+        "averagePrice": 0,
+        "address": "서울특별시 중구 회현동1가 202-6",
+        "roadAddress": "서울특별시 중구 남대문시장길 73",
+        "abbrAddress": "회현동1가 202-6",
+        "shortAddress": [
+          "서울 중구",
+          "남대문시장길 73"
+        ],
+        "displayContext": [],
+        "labelTheme": "양식",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 회현동1가 202-6",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220126",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.29",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 13,
+        "id": "12074697",
+        "name": "강릉집 남대문점",
+        "x": "126.9799987",
+        "y": "37.5608139",
+        "distance": 0.032,
+        "categoryName": "해물,생선요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220076",
+            "220777"
+          ]
+        ],
+        "category": [
+          "한식",
+          "해물,생선요리"
+        ],
+        "reviewCount": 840,
+        "averagePrice": 50000,
+        "address": "서울특별시 중구 회현동1가 202-6",
+        "roadAddress": "서울특별시 중구 남대문시장길 73",
+        "abbrAddress": "회현동1가 202-6",
+        "shortAddress": [
+          "서울 중구",
+          "남대문시장길 73"
+        ],
+        "displayContext": [
+          "회무침",
+          "시장",
+          "매운탕",
+          "나들이"
+        ],
+        "labelTheme": "고급 정찬",
+        "microReviews": [
+          "회무침정식과 함께하는 행복한 점심"
+        ],
+        "cardDescription": "회무침정식과 함께하는 행복한 점심",
+        "description": "생선뼈 다데기쌈 및 회무침 전문점 강릉집의 남대문 지점입니다. 말 그대로 생선뼈를 재료로 만든 다데기(양념)쌈에 야채를 버무려 담고 날치알, 양념장 올린 깻잎을 가장자리에 빙 둘러 담은  ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTdfMTgy/MDAxNzUyNzQ5NTQ3MzM3.KZNygDygb_twhcAXciwq2k5ahm_iNw8moCG6fMW9S0gg.IdBUASFcViDpDN2PC1RSuLVWG2UxqdO5KRRvSOM-e2cg.JPEG/FEE49FF1-C9C9-40A0-8F30-751769663A95.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTJfMyAg/MDAxNzQ3MDI3MDA2OTg0.tolwbLn4Ov_UjeHWBZVUO2zMe-FEehjwQiQFwc0uc2wg.yYFbuJiHIgG5vRm3sJ3mn9UN3rs5pkKgfXVFK8ou4CAg.JPEG/CB242DF1-64AA-4FC0-AF9C-23ADB617ADA0.jpeg",
+          "https://ldb-phinf.pstatic.net/20150831_208/1441012327279wNvgy_JPEG/12074697_0.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTZfMTIg/MDAxNzUyNjMwNjgzNDc1.4K67c2xv_RDt-wBNLWsrurK3cjVxo9v4XBbmw7nMPk4g.9LPjqw1f7B5AzhUr0VH0iwYWITGWKr1gSlTCbqLE2Wgg.JPEG/IMG_4998.jpeg",
+          "https://ldb-phinf.pstatic.net/20150831_211/1441012327466CBut5_JPEG/12074697_1.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjlfMjE1/MDAxNzU5MTE1MjkxNjM4.GCwWFJbVWZZqwuDirUW99L7hihpKGZACNi6vkGQVChwg.a25HZbhVzFEfnjcyNMCJjmyAXjxhaJddVofC5M6SXvIg.JPEG/1000043518.heic.jpg",
+          "https://ldb-phinf.pstatic.net/20150831_183/1441012327611nByNa_JPEG/12074697_2.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDlfNCAg/MDAxNzUyMDcwNDk0MjU0.eRdgGU32nP0Z40hRXlWTW_GxEzkiT92o6ezoNOT_hyYg.CcPdsuHRMUbHqm2oVWgKAw5lZwiLBiI605aAMCIUJDAg.JPEG/20250709_184326.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDRfMjI3/MDAxNzUxNTk4MzczNTgw.jyqdzgWJ8TOH-qtFaNoexoXtO8w5bRhzbeg529wO9Qkg.IL2H3MEi47b4987uWyfVckBWT6xu1NLOgbonHo3TdMEg.JPEG/20250704_113749.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjZfNTgg/MDAxNzU4ODk2ODcxMzY4.zd-OeTalzrC1wD-kGjB5buLpc0sJGn8vBpT1l_AF9KUg.s3EQYk_xqA2Z1Tc3Lv49faO1Q7hk_Mh9nOPzCh316fMg.JPEG/20250811_113231.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220777",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "12074697",
+            "bodySummary": "강릉집 남대문점에서 식사를 했어요. 신세계백화점 본점과 남대문시장 입구 근처에 위치해 있고 회무침, 동태전골, 낙지찜, 해물찜 등등의 메뉴가 있는 해물, 생선요리 전문점이예요. 강",
+            "url": "https://m.blog.naver.com/rush98y/223281856563",
+            "nick": "다올",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA4MjJfMTkw/MDAxNjkyNjYyMDU4MjA4.gDNN1AZ8XrtfbDN6N8lv_Z6Vk5CifAgsU7n7udiMmzYg.QTr-Bpc2JPDyooz98Yz_PiWLwS4qEWXrSGRWXwMbYXsg.JPEG.rush98y/profileImage.jpg"
+          },
+          {
+            "sid": "12074697",
+            "bodySummary": "주기적으로 한번씩 먹어줘야 하는 맛집, 강릉집! 작년 여름에 다녀온 후기 ㅋㅋ 강릉집 남대문점 월-토 10:30-21:00 브레이크타임 15:00-16:30 라스트오더 20:30 ",
+            "url": "https://m.blog.naver.com/bonespoir/223231317368",
+            "nick": "뭉치",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAxMTBfODEg/MDAxNjQxNzg2Njc0MDQ1.SKcqPAUhyAXPm6gCIvFgbjw8S60c4nfsBw_nXRMRKCwg.yrOHqezdeuKM6xcjcHDBqwLGkIwOaV4hYLKpWQ_MmUcg.JPEG.bonespoir/profileImage.jpg"
+          },
+          {
+            "sid": "12074697",
+            "bodySummary": "해물찜 먹으러 갔다 남대문시장 쪽 큰 건물 2층이라 잘 보일것이오 ㅎ_ㅎ 신세계백화점 본점 뒤에 있습니당 좌석도 꽤 있어서 회식장소로도 괜찮을 것 같은 곳 점심때는 사람이 별로 없",
+            "url": "https://m.blog.naver.com/donnowhattodo/223159726573",
+            "nick": "역마살낀집순이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDA1MTVfMjEy/MDAxNTg5NTMwOTgyMTI4.BB3weRt21tvDFnLJC0gg4NKdkjo8VkcRYIM-aULR4yQg.6jz7mwBBS16DKiIAb4zZ40QkbURRxEmbVoiQENIGcSUg.JPEG.donnowhattodo/profileImage.jpg"
+          },
+          {
+            "sid": "12074697",
+            "bodySummary": "고민하다가 신세계백화점 뒷편의 2층에 있는 강릉집 남대문집으로 가봤어요. 강릉집 남대문 서울 중구 남대문시장길 73 영업시간 10:30~21:00 전화 02-318-8981 식당에",
+            "url": "https://m.blog.naver.com/jmax0311/223033499930",
+            "nick": "공룡부인",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDA3MzFfNzQg/MDAxNTk2MTI4NTgyMjY1.LslKZppnEJhlSr3yoYUhZclHPpvJxruqcOqVfaxoq3gg.Ry1XFwt3HH_3dITAqU429XfOnWqH7Hl4ADMDbsuxo8sg.JPEG.jmax0311/%25EB%25B8%2594%25EB%25A1%259C%25EA%25B7%25B8%25ED%2595%2598%25EB%258B%25A82.jpg"
+          },
+          {
+            "sid": "12074697",
+            "bodySummary": "남대문시장 맛집 강릉집을 소개드립니다. 강릉집 남대문점은 신세계백화점 맞은편에 있구요~ 어렵지 않게 찾아가실 수 있습니다. 강릉집은 회무침이 유명한 음식 체인입니다. 눈이 오는 추",
+            "url": "https://m.blog.naver.com/gush99/222966534895",
+            "nick": "뚱땡보아빠",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDA5MDRfMjE4/MDAxNTk5MjE2MDU1NDU4.fn_OvMVizgTMRaP2doHGfLJTmgshyiNPFHS5_L_X3MEg.P0Ka5RdOA1pWUJxTWZkG0vYwC9XLNluYrpuBqpDPYDgg.JPEG.gush99/profileImage.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

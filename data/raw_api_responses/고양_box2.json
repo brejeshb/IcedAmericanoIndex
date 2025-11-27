@@ -1,0 +1,262 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 3,
+      "count": 3,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.835,
+          "minY": 37.64739099099099,
+          "maxX": 126.8406897424055,
+          "maxY": 37.651895495495495
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.83784487120275;37.64964324324325",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1085907163",
+        "name": "카페아니스",
+        "x": "126.8353624",
+        "y": "37.6511409",
+        "distance": 0.275,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 86,
+        "averagePrice": 5000,
+        "address": "경기도 고양시 덕양구 성사동 730 1층",
+        "roadAddress": "경기도 고양시 덕양구 고양대로1384번길 60",
+        "abbrAddress": "성사동 730 1층",
+        "shortAddress": [
+          "경기 고양시 덕양구",
+          "고양대로1384번길 60"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [
+          "향긋한 커피와 함께하는 동네 휴식처"
+        ],
+        "cardDescription": "향긋한 커피와 함께하는 동네 휴식처",
+        "description": "유기농 꽃으로 만든 코디얼 그리고 스페셜 블랜딩 원두 커피 전문점입니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTJfMTQ1/MDAxNzYwMjc0ODUwNjg1.TplzprNyhszRyuYInHfsigQx-WeV1cZ8FUuZKbFGUBIg.7PHwZaj2NOOd68k5s1CPPw30--5tBZpP64rgVE5wt94g.JPEG/AEB5C974-B0D7-450C-B925-1D6AB25857AA.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDZfMTk0/MDAxNzUxNzY1MjMwMTIy.2r2lhB9k7ImW9jdtF1T-oD-lw7--6MWZa57n_UfWoSog.pb92mUmz9cid4hUVLSBjUfpbtjVazVeTkFp7u_i_4l4g.JPEG/CAF9BA7C-30E8-4E81-A28B-C88B17BC5057.jpeg",
+          "https://ldb-phinf.pstatic.net/20241118_133/1731900414683i8Kpy_JPEG/20241028_143703.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTdfMjcx/MDAxNzYwNjc5MTg0NjAy.iBS5U4kaIWxGt0aK58X3so4WeG-2phvnJjBmeujJwH0g.twmBeFS243EthzQbroMDVAsCCLleRpvL5S9UunC_efgg.JPEG/E462CA3A-B543-49B5-BE53-B8A2679F28FC.jpeg",
+          "https://ldb-phinf.pstatic.net/20241126_291/1732586411092xd0G7_JPEG/20241126_104625.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTZfNDIg/MDAxNzUwMDQxMTYzMjg1.TvIhtZkCUfTteMteFKq6P4-HicScMdJWc_k5X3BOrGQg.6bbARTCoBKbLbl4e13WkQo87x7LORrjUD68v_rfKUp4g.JPEG/AAEF5795-F507-43A9-A1E5-C6CA9FD72CD6.jpeg",
+          "https://ldb-phinf.pstatic.net/20241126_185/17325864109982xes9_JPEG/20241126_104658.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTdfMjk1/MDAxNzQ3NDkwMDE0NDc0.3oHtYWT10xtutiokeZfrOD1qwU6KP8tyoKBDsH9dfv4g.bjVMvOUkOKdoxfHyJh0qgUhmd6u5S4TTF-E54j249dAg.JPEG/473B0798-46E2-4E10-9419-BA538C7BB373.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "36164763",
+        "name": "장어천국",
+        "x": "126.8400975",
+        "y": "37.6483441",
+        "distance": 0.246,
+        "categoryName": "장어,먹장어요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220076",
+            "220799",
+            "1006317"
+          ]
+        ],
+        "category": [
+          "한식",
+          "장어,먹장어요리"
+        ],
+        "reviewCount": 773,
+        "averagePrice": 30000,
+        "address": "경기도 고양시 덕양구 화정동 188-4 1층 장어천국",
+        "roadAddress": "경기도 고양시 덕양구 충장로 406",
+        "abbrAddress": "화정동 188-4 1층 장어천국",
+        "shortAddress": [
+          "경기 고양시 덕양구",
+          "충장로 406"
+        ],
+        "displayContext": [
+          "민물장어",
+          "장어집",
+          "장어구이",
+          "착한가격"
+        ],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [
+          "숯불 향 가득 고소한 장어구이의 정석"
+        ],
+        "cardDescription": "숯불 향 가득 고소한 장어구이의 정석",
+        "description": "장어&오리천국은 매일 국내산 민물장어를 직접 손질해서 판매하고 있습니다. 국내산 오리와합리적인 가격과 품질과 서비스를 약속드리겠습니다! 맛 좋고 힘에 좋은 보양식, 장어&오리천국에서",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMTVfMjA0/MDAxNzYzMTk1OTA0MjIw.sTWDFXhLarsdZdBDRaM9LyhsrnY-DyBBE7lTi30Ob24g.42Lc_TADxz1bNVzxMAy35rOkkQOhiOUvRxdAk8BQokAg.JPEG/BC099F48-4AB2-49FF-926A-BA1D22F6B634.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MzFfMiAg/MDAxNzQ4Njk2MjU0OTMy.aYQc_e2IkWZyxPeKOzdw-E9nqXzCzK89HCrHGGy3HaAg.f6uFvS-g4xafDkUQgYbNti_XApRFVrIRsw2CUP3Wotog.JPEG/20250531_143324.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20251121_181/1763703212348lxJq7_PNG/ChatGPT_Image_2025%B3%E2_11%BF%F9_21%C0%CF_%BF%C0%C8%C4_02_33_20.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTFfMTU5/MDAxNzYwMTQxNTI4NzA0.vQMwy0m2_RTKBU-JwM1aCmOVMIOBkdwAWIDcUCPb1jEg.uXlKdGto_prSHJ8vBrJLLhRQ-xtTt41mclHQKfvN0bkg.JPEG/D8B94CD4-3847-4185-B7CB-74822ECB4556.jpeg.jpg",
+          "https://ldb-phinf.pstatic.net/20251121_240/1763702905262hLgMb_PNG/ChatGPT_Image_2025%B3%E2_11%BF%F9_21%C0%CF_%BF%C0%C8%C4_02_24_56.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTBfMjI0/MDAxNzQ2ODczNDU2NDQ4.WkqCsMUu9xRwiJCBHtFhfpI3zFszfZheYxp6HSGlw7wg.4dlSxw1jghNFLSUxDoif_4dmddh_VmGgFPph_gnQku0g.JPEG/20250510_193416.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250724_3/1753319692971yCVQ9_JPEG/7.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjhfMjA1/MDAxNzQ4NDE1NTEwMDE1.SYZt2eGOkRxnqtUFulk9LMWTM8JCRyAXafbNFyeEUQsg.TeyFOM1R6WQJN0CiaLr57bLNHWzinvZ4Ncb1AXOo_jIg.JPEG/8A119869-D9A0-431E-B8B7-3B77284020B3.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjZfMjE0/MDAxNzQ4MjQ3OTQ0Nzg5.ROXiUG3F5k4nIbJB-FXQEkIhLcAfRMvzI_wU6hHf4UYg.J65XAT7o_12zojLxgWT2mns7IzdJwey9duWjPSb3xDYg.JPEG/65B41D6F-4119-4CB9-A077-5DFE53E9EF27.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDdfMjYg/MDAxNzU5ODI3MDEwNTE4.D_bsmNbtwHzNLqlaWL3pyPVtGLEHWnex8B_D9n-EF2Qg.NzXrJQXspzxlQD70gcvhES_1iHDiusMjPAXW-f-NtkMg.JPEG/8BB6614A-F515-4E0F-A556-51449CD69B07.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1006317",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "36164763",
+            "bodySummary": "영업시간 매일 11:00 - 22:00 21:30 라스트오더 전화 0507-1326-0582 편의시설 및 서비스 예약, 단체 이용 가능, 포장, 남/녀 화장실 구분, 배달, 무선 ",
+            "url": "https://m.blog.naver.com/homecookfriend/223395207805",
+            "nick": "홈쿡친구",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA2MjBfMTE4/MDAxNjg3MjcwMDYzNTE5.5nze4wBZ9mW5zbxqis8_1qeQrOSRcPDAdSUdVjzU0pIg.sJDpw6T_3Adh9gaHP8DwFAKRcBJPyXkitK4t1mfkgQAg.JPEG.homecookfriend/profileImage.jpg"
+          },
+          {
+            "sid": "36164763",
+            "bodySummary": "명절동안 전과 육고기를 많이 먹었으니 장어를 먹자는 제안이왔고, 내가 장어천국을 가자고 했다. 바로앞에 화정,원당쪽에서 제일 저렴한 알뜰주유소가 있어서 주유하면서 가끔 봤는데, 여",
+            "url": "https://m.blog.naver.com/shlog120/223360853137",
+            "nick": "먹고놀자",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAxMjhfNzQg/MDAxNjc0ODM1NTg4NzYy.vQdWqX2D4tgw954TG02iOk8Qk3bIHPtIdG9f8UxeVwwg.X4iu0MghJsstsHzxwKBVr1yMmLciE2jXlNWsBFJC4kgg.PNG.skygo100/%25EB%25B0%25B0%25EA%25B2%25BD.png/%25EB%25B0%25B0%25EA%25B2%25BD.png"
+          },
+          {
+            "sid": "36164763",
+            "bodySummary": "안녕하세요 고양시 덕양구 주민 아리입니다.:) 어제 가족들이랑 덕양구맛집으로 입소문나있는 화정동 장어천국에 다녀왔어요. 원당역과 화정역사이에 있는 부지 넓은 단독건물로, 매장도 넓",
+            "url": "https://m.blog.naver.com/pinky890/223298298054",
+            "nick": "직장인아리",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAyMThfMTI4/MDAxNzA4MjU5MjE2Njc1.TdIxqqtfp-7lPmvDXbR3ZOHBo0ZK7JpjkH65kmHcz5og.Yl6hNCTYuxmNecB2KSWeKL8woaKT0ZTIp6TB_n_bfuQg.PNG.pinky890/profileImage.png"
+          },
+          {
+            "sid": "36164763",
+            "bodySummary": "행신장어맛집 장어천국에는 민물장어 뿐 아니라 소갈비살, 돼지갈비도 있어서 다양하게 즐기고 아이도 함께 가기 좋은 외식장소로도 딱인거 같아요 행신장어맛집 장어천국은 규모도 크고 넓어",
+            "url": "https://m.blog.naver.com/starblogger/223274359283",
+            "nick": "린이랑",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20110806_164/starblogger_1312615861854_Yubz1z_jpg/pro.jpg"
+          },
+          {
+            "sid": "36164763",
+            "bodySummary": "영업시간 매일 11:00am - 22:00pm 안녕하세요 은별입니다. 몸보신이 필요할 때 무조건 떠오르는 음식 중 하나는 장어! 저는 덕양구 화정동에 맛있는 장어집이 있다고 해서 ",
+            "url": "https://m.blog.naver.com/dmsquf7541/223273192499",
+            "nick": "은별",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA1MDVfMjU2/MDAxNjIwMTc3MTgwODA5.3oZ6fgAvA3EmdAz_fG_AO0TF35wH_3bzH4HbALPi5nog.BtyEO-bXjwgYmpXQZ5Yd1u03OEWY3PpGjWigwnIuI0gg.JPEG.dmsquf7541/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "id": "35003692",
+        "name": "소풍남녀의도시락여행",
+        "x": "126.8376107",
+        "y": "37.6516776",
+        "distance": 0.227,
+        "categoryName": "도시락,컵밥",
+        "categoryPath": [
+          [
+            "220036",
+            "220047",
+            "220169"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "도시락,컵밥"
+        ],
+        "reviewCount": 3,
+        "averagePrice": 0,
+        "address": "경기도 고양시 덕양구 성사동 724 신원당마을3단지 동신상가",
+        "roadAddress": "경기도 고양시 덕양구 고양대로1384번길 53",
+        "abbrAddress": "성사동 724 신원당마을3단지 동신상가",
+        "shortAddress": [
+          "경기 고양시 덕양구",
+          "고양대로1384번길 53"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "경기도 고양시 덕양구 성사동 724 신원당마을3단지 동신상가",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220169",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

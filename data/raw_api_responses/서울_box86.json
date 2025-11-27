@@ -1,0 +1,514 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 6,
+      "count": 6,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.97345370510504,
+          "minY": 37.56109459459459,
+          "maxX": 126.97459027882879,
+          "maxY": 37.561995495495495
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.97402199196691;37.561545045045044",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1661425130",
+        "name": "카페스윗 본점",
+        "x": "126.9744969",
+        "y": "37.5611024",
+        "distance": 0.065,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 284,
+        "averagePrice": 5000,
+        "address": "서울특별시 중구 태평로2가 120",
+        "roadAddress": "서울특별시 중구 세종대로9길 20",
+        "abbrAddress": "태평로2가 120",
+        "shortAddress": [
+          "서울 중구",
+          "세종대로9길 20"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "카페스윗은 장애인 일자리 창출과 장애 인식 개선을 위해 청각장애인 바리스타와 함께하는 커피전문점 입니다. 주문시 수어또는 필담을 사용해 주세요^^. 신한 임직원의 착한 소비를 통한 진정",
+        "description": "카페스윗은 장애인 일자리 창출과 장애 인식 개선을 위해 청각장애인 바리스타와 함께하는 커피전문점 입니다. 주문시 수어또는 필담을 사용해 주세요^^. 신한 임직원의 착한 소비를 통한 진정",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjRfMTc3/MDAxNzQ1NDY2MzczNzcx.nc38IzZVz46wwovrvi9PZUSuXtfbrWlMypN4Iur9fBgg.o5s_c5zUBLm3EtleVz4P48uNjlDwoL7XR18mXDB9_f8g.JPEG/20250424_124235.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTdfMTk3/MDAxNzU4MDk4MDcyOTk2.8TclsFEr1h3Dfo1pkuFGVNhnmJM9Hz0LwjYzceyPQiEg.rUNgOX_tE4gn6SNwWdpN6syZ4yK7lfsumpSruiN1FHMg.JPEG/20250917_122434.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20210520_255/1621475819575RKzFa_PNG/8OVamxtEpf-8KFYmNXO3X0fF.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MThfMjg2/MDAxNzQ0OTQxODQ3ODQ5.NUlkE6lN8ih_qkFp3ObPNV514u3UBiBPZE8-t8PKj_cg.3kWmLV7Snat4naDp-Yib2kYUX5cobBLssTuQ_J8KFuUg.JPEG/D5A40D50-8249-462B-9F04-D136B0F222E2.jpeg",
+          "https://ldb-phinf.pstatic.net/20230117_261/1673919658233UqO2i_JPEG/%C4%AB%C6%E4%BD%BA%C0%AD-%C6%F7%BD%BA%C5%CD_%B1%E8%BD%BA%C0%AD.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTdfOCAg/MDAxNzQ0ODUyNTYwOTIw.Wy-RRXk3BY4kA-0BSTnXzXXhsMPH232s7VteOzCLfSYg.1dMN9NcX4HG7I0hVLYdsR8CZw-ucI0I2x121K3Ac6rcg.JPEG/57146125-9572-4043-A152-1FAE54151B4B.jpeg",
+          "https://ldb-phinf.pstatic.net/20210520_29/1621468422137to7sD_PNG/S90gaIyqDnCTr56cnUXOuQG0.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MThfNTkg/MDAxNzQ0OTM5MzA4MDQw.pD4z7FCzeROlaNDvm3eNreh4JZic1F6FhwMJHbvpKIcg.pdLaRMLynEyW4BY1MHL2uiNg_KFmJQmeM6V_DQEEJ-kg.JPEG/20250418_101943.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTZfMTI5/MDAxNzQ0NzYxMTMwOTg0.AzkJvMN4Sy7kxPGQBslGpCHgc94OGuweGIVvuZ-qD2Qg.q1_XRV1dNC3CbICljlvgKSeAk6NvcTInYFjReLz-3aQg.JPEG/20250416_084629.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTZfNTMg/MDAxNzYwNjE0ODY0ODAy.UBqdY33_WYuc1oImj30ohQeORAf1Bba-agUVj0wacTMg.vZLtaT8RlUqA6tJAya-wM-bWHMjIA1owONxH4eHDS6gg.JPEG/20251016_204043.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1661425130",
+            "bodySummary": "반가웠어요! 해외 친구들도 많이 찾는다는 카페 스윗 솔 명동점. 신한은행의 선한 영향력에 좀 뿌듯했는데 직원들을 대상으로 교육을 담당하게 되었어요 (박수~) 일회성 교육이 아니라 ",
+            "url": "https://m.blog.naver.com/souldeaf/223330541759",
+            "nick": "노선영 작가",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAxMTBfNjQg/MDAxNjczMzQzNDY2MjY2.LZKz1sF50GHpnrApa-WmpJEqwtKNBWhVJjxP_a2YWcAg.XkB9EPa1JU1r6p2_e5mg5ZzsexhVXI7gCjML9cxnSY4g.JPEG.souldeaf/profileImage.jpg"
+          },
+          {
+            "sid": "1661425130",
+            "bodySummary": "저번 6월 말 경 서울숲을 배회하며 너무너무 더워서 카페를 찾아 들어갔습니다. 카페스윗은 청각장애인 바리스타와 함께 하는 곳 입니다. 라는 문구가 들어가고 싶게 만들어서 방문 했습",
+            "url": "https://m.blog.naver.com/j08s06/222429159371",
+            "nick": "쎄러데이썬데이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAxMjNfMjUg/MDAxNjQyOTQ3NjMyNTky.gR85-4jtCWeCYZL9FPZ3XZxc1qXnuPe-vGNvNkQWHXQg.QxCUd9ZiL7em8pmHHgFt6p4lAcNwJTRSizkIakOlVugg.JPEG.j08s06/%25EC%25A0%259C%25EB%25AA%25A9%25EC%259D%2584-%25EC%259E%2585%25EB%25A0%25A5%25ED%2595%25B4%25EC%25A3%25BC%25EC%2584%25B8%25EC%259A%2594_-001_%25287%2529.jpg/%25EC%25A0%259C%25EB%25AA%25A9%25EC%259D%2584-%25EC%259E%2585%25EB%25A0%25A5%25ED%2595%25B4%25EC%25A3%25BC%25EC%2584%25B8%25EC%259A%2594_-001%2B%25287%2529.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "id": "1486822728",
+        "name": "카페스윗 분점",
+        "x": "126.9744969",
+        "y": "37.5611024",
+        "distance": 0.065,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 227,
+        "averagePrice": 3000,
+        "address": "서울특별시 중구 태평로2가 120 1층",
+        "roadAddress": "서울특별시 중구 세종대로9길 20",
+        "abbrAddress": "태평로2가 120 1층",
+        "shortAddress": [
+          "서울 중구",
+          "세종대로9길 20"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [
+          "라떼의 풍부한 거품이 살아있는 한 잔"
+        ],
+        "cardDescription": "라떼의 풍부한 거품이 살아있는 한 잔",
+        "description": "카페스윗은 장애인 일자리 창출과 장애 인식 개선을 위해 청각장애인 바리스타와 함께하는 커피전문점 입니다. 주문시 수어또는 필담을 사용해 주세요^^. 신한 임직원의 착한 소비를 통한 진정",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MDFfMTI0/MDAxNzQzNDY1NTQwMDM4.5AtxDNoAeowKZv8foCnVph1ZS_i2CvjvHJQdWnmoon8g.QgI2uSvdnc-Sf0dUZI8fiCAgu7T4jZye-TPiKt-wDLgg.JPEG/20250327_122943.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDJfMjAx/MDAxNzQ4ODIzNjU2NTI3.TQlmASBFLgIAqKoyTA8vcHksi1Xq2LKg_gJIllSKvPcg.sFUNbwxlKNXx2EAOxUVSD3qsTB4T052IthiKZRrMC5Qg.JPEG/F649B986-BB61-41FC-A03F-F2C5439633E2.jpeg",
+          "https://ldb-phinf.pstatic.net/20230117_118/1673920035457wXGfS_JPEG/%C4%AB%C6%E4%BD%BA%C0%AD-%C6%F7%BD%BA%C5%CD_%B1%E8%BD%BA%C0%AD.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDJfNjMg/MDAxNzQ4ODIxODE5NTk2.qlRS3n0Gmp1FqYAZQ4VLsac1Pdn5reRXZXa_jAhPZxYg.9mysEv8QCpnZBrxS-qJi7XdgKzKYOxZGho7fWasrQD8g.JPEG/65DB87A0-80E1-418D-8D94-E4AE986C5A6D.jpeg",
+          "https://ldb-phinf.pstatic.net/20230117_86/1673920035341fQv6y_PNG/%BC%BC%B7%CE%B7%CE%B0%ED.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjlfMjIz/MDAxNzQ1OTI2MjY1MDkw.9k-S70Clg-UkuYQ1vYUlsE43rfO3EjEh-sjVoJON8Ecg.zpNvnfRs4xRh0jdk0LttbAd1KL4dDONgIPTKvQH-3mYg.JPEG/8E37C930-BC04-4FE2-934D-4AD7913564F2.jpeg",
+          "https://ldb-phinf.pstatic.net/20230117_248/16739200353599hTt6_PNG/%BE%C6%C0%CC%B7%AF%BA%EA%C0%AF_%BC%F6%BE%EE.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDJfMjEx/MDAxNzQ4ODI1MDg2MjA4.pY8KkW5EFw_s_AipnFsfHUs6j3SEgs1SkvQQBJh-wOkg.lRdlv_xeU8U-b7z7oJybYsx_Eb6ZhjJi_DdUe9QS_8gg.JPEG/20250602_094416.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTlfMTI0/MDAxNzU1NTk2MjI1MTg4.OjP3IHC_efrkLNiSQbEa9o1kd7xziQq-txSmla2ekXEg.PpJvz4QBk5YkwUUQZ2mitzZrz_m1pvtL_Y6eAjJoZtog.JPEG/0925CA66-BF45-49D7-8535-3FAC1FC0C301.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDJfMjcx/MDAxNzQ4ODIzOTI1MzI5.3xhKt70jdw0djiB7s0oi-Idorzre-1tIbS5Cxw0KXMgg.FMEU7VKyipp5dI2tLr4SuJw0B0zti5aay3KAQ_K1Gdcg.JPEG/B653C7A2-2B8F-4B11-89CD-73D059F5BA7A.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 3,
+        "id": "1230996149",
+        "name": "플라비우스",
+        "x": "126.9738508",
+        "y": "37.5616585",
+        "distance": 0.02,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 76,
+        "averagePrice": 4000,
+        "address": "서울특별시 중구 서소문동 120-23",
+        "roadAddress": "서울특별시 중구 세종대로9길 42",
+        "abbrAddress": "서소문동 120-23",
+        "shortAddress": [
+          "서울 중구",
+          "세종대로9길 42"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 서소문동 120-23",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTFfODYg/MDAxNzU3NTgxMDc2MTcy.DBaZWFdAN__yOtUkcPF9xSEjcpF2rJp3Ug6AwN_LYagg.DOzGSmL568yjmEV5DXkktqfTKw4kvzgCVEbLoa2qVW4g.JPEG/613D0D99-5920-40B4-9D30-44D45616F4EC.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 4,
+        "id": "37297123",
+        "name": "우림정",
+        "x": "126.9741807",
+        "y": "37.5619838",
+        "distance": 0.051,
+        "categoryName": "찌개,전골",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220065",
+            "220660"
+          ]
+        ],
+        "category": [
+          "한식",
+          "찌개,전골"
+        ],
+        "reviewCount": 701,
+        "averagePrice": 10000,
+        "address": "서울특별시 중구 서소문동 120-29 우림정",
+        "roadAddress": "서울특별시 중구 세종대로11길 33-3",
+        "abbrAddress": "서소문동 120-29 우림정",
+        "shortAddress": [
+          "서울 중구",
+          "세종대로11길 33-3"
+        ],
+        "displayContext": [
+          "부대찌개",
+          "불고기",
+          "냉면"
+        ],
+        "labelTheme": "한식",
+        "microReviews": [
+          "양도 많고 맛도 좋은 푸짐한 부대찌개"
+        ],
+        "cardDescription": "양도 많고 맛도 좋은 푸짐한 부대찌개",
+        "description": "40년 전통의 2대째 이어온 부대찌개와 삼겹살 전문음식점입니다. 오피스 상권에 맞게 점심에는 식사메뉴로 야채로 끓인 시원한 육수의 부대찌개를, 저녁에는 회식을 위한 등급 높은 삼겹살과  ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MzBfMTM4/MDAxNzQ4NTc4ODk3Nzk0.RQuRcL8GhwmwCmF3CcNxvxVNL-t1Of20apUkkSkdSegg.q4gWkb3gUBwHRQsbO4NxB0325wY93X5KZkyj2Q1oGVsg.JPEG/221F8935-09E1-4900-BB9E-0C824D02EF48.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjVfNTIg/MDAxNzU4Nzc0OTcyMzY2.3558t2yCt-VZqgnS5vRCCAja8EyR7keLOyP6mruRwqYg.6sH8IJUyhyLvO7c3V4lxe07190JXcpa5vzfcE1ygAZ8g.JPEG/20250925_113737.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20221204_66/1670165715844nhGNk_JPEG/Screenshot_20221204_235055_Instagram.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MzBfMTA2/MDAxNzQ4NTc4ODU1MzE3.mWIldqa0ljjEQtBkvmPTZKMea8045RxHt_fKSCzHd00g.KzHRjAx5e6K5_GDYGb_9PXIPWXWt4EhPe4srZsaykwsg.JPEG/20250530_124312.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20221204_177/1670165715046bD52p_JPEG/Screenshot_20221204_235416_Instagram.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MzFfMzAw/MDAxNzQ4NjcyNzI3ODU5.G_tBJPCHGj-sfTKW0xUeAivhOkiJp7oxsbYTDlQnEEsg.3oyyeM8Ht_k-dCLG9qzgOdxCRhcuo8VfNreffU-vHqkg.JPEG/6474734D-7636-468B-9F6F-75C62DB5D8B9.jpeg",
+          "https://ldb-phinf.pstatic.net/20221204_172/1670165986256s71K0_JPEG/Screenshot_20221204_235814_Instagram.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjBfOTgg/MDAxNzUwNDEwNDUwNjU3.A1IiDvBdFLEEqEdZ0C-KGrJL08XXm1KYPuf_7tjZNv8g.nwlQg5LL8uthD26zCYdaxy4Ena8zOViv6VAZhWBBufAg.JPEG/20250619_120642.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTVfMTU2/MDAxNzQ5OTM0NzAyNTU4._CVuHdWisH9LIZvtcpOZ8R2Og-9NfwmLtLDGLbErdh0g.OYucnF-xl-MJQ1STO2PqBfIUjuhwi2r9ajx0PAh8Q1kg.JPEG/E0446094-CC5A-4889-A9D7-63D13C52CB10.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjRfMjE0/MDAxNzUwNzU2MjM4NjE2.QxXYoKQa1pJ0phImDVflrpuWRcY1KrFh3u6464yS1jQg.kmN9vUFF-UTwJdg0EB84sdTeN5PSj1dE6oRXUlKH-Nog.JPEG/20250602_120540.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220660",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "37297123",
+            "bodySummary": "시청역 불고기 맛집 우림정 서울 중구 세종대로11길 33-3 우림정 ☎️ 02-752-5939 ⏰️ 월~토 10:00 - 21:30 (매주 일요일 정기휴무) 우림정 입구 신기하게도",
+            "url": "https://m.blog.naver.com/hwangcoco-/223315910315",
+            "nick": "코코낸내",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMTRfNiAg/MDAxNzAyNTY0NTU4Mjk5.q3zrsU2jE8FLQWS4ztkehd4b1jj2mrL7H9wYOLByzrMg.WMY3EY-R5eTGp26aFitkvGD68ifKJwOFlU8lBDXKvlgg.JPEG.hangjh1003/profileImage.jpg"
+          },
+          {
+            "sid": "37297123",
+            "bodySummary": "여름이면 땡기는 냉면 사실 여름에 방문한 우림정인데 이제야 작성 내돈내산? 본부장님이 산건가? 기억도 잘 안나는 “우림정” 리뷰시작 기본찬 구성이다. 딱 심플이즈 베스트 메뉴판은 ",
+            "url": "https://m.blog.naver.com/zooone1231/223248161724",
+            "nick": "주오니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMjlfMjY4/MDAxNzAzODQxMzg4NTM0.sS0WMgfso5FlcYrJENSth3lrCWUWOR5IrLHJIkjELaQg.4oF3aQmaRoMhJzKma6nwTAh1QQ5anFVjfkWFPbJtcDEg.PNG.zooone1231/profileImage.png"
+          },
+          {
+            "sid": "37297123",
+            "bodySummary": "부대찌개 우림정 서울시청앞 서울 중구 세종대로 11길 33-3 시청역 9번출구에서 168m 02 752 5939 #서울시청맛집 #남대문맛집 #서소문맛집 서울시청맛집으로 유명한 우림",
+            "url": "https://m.blog.naver.com/sysbre/223208607581",
+            "nick": "가구쟁이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA5MTFfMTIy/MDAxNjk0NDM1NjkxODU0.bt-7LEe3WCpSdeFrBUiT4uFaHywD9yNj9a3ZdsWb1Msg.h6RlYIWS-svz_cwXD3jfpeyUweGlvGXzFG-ZITzD5Ccg.JPEG.sysbre/profileImage.jpg"
+          },
+          {
+            "sid": "37297123",
+            "bodySummary": "해장하려고 했는데 직식메뉴가 무슨 마늘 스테이크라서 먹다간 더 속이 안좋을 거 같아서 시청역 부대찌개 맛집 검색. [시청역] 우림정 부대찌개 시청역 9번 출구 쪽 골목길에 우림정 ",
+            "url": "https://m.blog.naver.com/ekfdl89/223161190263",
+            "nick": "티슈",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAxMjRfMjYx/MDAxNjc0NTYzNDAzNjA5.STAVYjpHscUXgPdm2OnzQR7NOy63DoKkD9hevnk7JRcg.XUWpcGE_fuKjj87PDEYbS0zHh_0HSp6i5MrF9b5FFLAg.PNG.ekfdl89/profileImage.png"
+          },
+          {
+            "sid": "37297123",
+            "bodySummary": "사고뭉치 우리네 인생 ㅠㅠ 이 움짤은 뭔가 맛없는 색감이긴 하지만 찍은 사진이 별로 없어서 올려봅니다 아무래도 김치가 들어간 음식을 좋아하다 보니 자주 가는 곳과 요즘 리뷰 하는 ",
+            "url": "https://m.blog.naver.com/0le/223105786324",
+            "nick": "힝구",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMTlfOTQg/MDAxNzEwODE3ODg1NjAx.33XRp5sWKulEezO5rhIffT4WMX61fXHFDdUrPjYC5Agg.YuDA5zbgZ1-DdfgKHUUsofvvUGnmWNH2yxOEaQ4rXf0g.PNG/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "id": "614651997",
+        "name": "김명자굴국밥",
+        "x": "126.9737351",
+        "y": "37.5615442",
+        "distance": 0.025,
+        "categoryName": "국밥",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220061",
+            "220623"
+          ]
+        ],
+        "category": [
+          "한식",
+          "국밥"
+        ],
+        "reviewCount": 709,
+        "averagePrice": 5000,
+        "address": "서울특별시 중구 서소문동 120-23 부영빌딩 지하1층",
+        "roadAddress": "서울특별시 중구 세종대로9길 42",
+        "abbrAddress": "서소문동 120-23 부영빌딩 지하1층",
+        "shortAddress": [
+          "서울 중구",
+          "세종대로9길 42"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "저희 업소는 매일 새벽 통영에서 산지직송한 싱싱한 생굴만 사용하는 음식점입니다.",
+        "description": "저희 업소는 매일 새벽 통영에서 산지직송한 싱싱한 생굴만 사용하는 음식점입니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDdfMTA1/MDAxNzU0NTYxMjk1Nzg4.HhJuN9W7rSVhRGT2nwG8Cpqqwy8rqqoHv-xTSjdDXqEg.pAorH5agPP3S-cnd0yItrTSFZKwR_Qfowwk2gUym47Mg.JPEG/7A82CCD7-8772-4379-98F0-6BA33C634AF8.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjVfMzMg/MDAxNzU4NzcxNTM5Njky.akLKhTTVGG9Pr4Z8YObc09fOCLHGRxGRWzSBX0EPk_sg.WiyfkPeOvW-0qUpiB96ZAN4O4hJDswaxdMBtWYP0l1Qg.JPEG/1000077988.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20221012_3/16655651173290mNlA_JPEG/1665565065974.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTlfMjcx/MDAxNzU4MjY4NDE1MjA3.Zm5-5mxuSCgwDKEB9dTe-53ZtdQUQvIwTuiaIsbZgF4g.ECTV7jNoVbViY-UXFa5dqXIa6RtIHrXUoQo_Jq1m5_sg.JPEG/3BB026C3-7CEE-4F64-BB0F-050CD0F92FDB.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDRfNzkg/MDAxNzU2OTk1MDk2MzQx.KdIShK1W8Cp2yZhLwhdrS19UYK7eFiHODTjh5qe7qwwg.9pH7DuQJLeRUf9jqDiqm8NTD7e9YIf8wKn4vn7dJDrwg.JPEG/20250904_120304.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjBfMjEw/MDAxNzU1NjYyMTAwMTg0.Xco7zTfFWskdzrsXnVF6D_iCWdmEHaBMdfYEnLzxF8Ug.0h7Rre1bPWagOTbsvhVtiTrSckxvEvT1AJbTx15Lg4Mg.JPEG/1000021417.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220623",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "614651997",
+            "bodySummary": "시청역 점심 추천 : 김명자굴국밥 내부 내부는 큰 식당이에요 단체 손님도 많이 받을 수 있을 만큼 자리는 널널 했습니다 저는 2시쯤 방문에서 그런지 사람들이 많이 없더라구요 매일 ",
+            "url": "https://m.blog.naver.com/jsnetw/223326582948",
+            "nick": "코코",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAyMDlfMTc0/MDAxNzA3NDg1MDcwMTM3.Kqwc9B7V8flauMvutlTA44A4Si0HfWYcm-iG9X4Du2sg.8DJkx8P9aQQ_amD-1VTl1BTQ8OtqeoUMoCVHDw044Mog.PNG.jsnetw/profileImage.png"
+          },
+          {
+            "sid": "614651997",
+            "bodySummary": "굴국밥 (10,000원) 코다리 비빔냉면 (10,000원) 주문했어요 날이 더워서 코다리냉면이 갑자기 먹고 싶어서 주문 비빔냉면 진짜 맛있었어요 굴국밥도 보글보글 많이들 드시더라고",
+            "url": "https://m.blog.naver.com/dear_woojoo/223190847923",
+            "nick": "우주맘",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA2MDVfMTAz/MDAxNjg1OTQ3Mzk2NTA0.WGKHDreZzF7TWkROqK9lhR6lHsLOTIT9VWT9Av06Mnwg.iSrQCK_I8uzGMhhxqyesYIkZq8QAq7r1kOUilLLLUowg.PNG.choosemyli/profileImage.png"
+          },
+          {
+            "sid": "614651997",
+            "bodySummary": "오늘 먹은 건 굴국밥이에요! 굴국밥을 그렇게 좋아하는 사람은 아니였는데 이번에 먹고 바뀌었어요! 너무 맛있어요! 김명자굴국밥은 체인점입니다! 시청역맛집 으로도 엄청 유명해요. 위치",
+            "url": "https://m.blog.naver.com/0906u/223190445458",
+            "nick": "까미언니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAyMTlfMjEx/MDAxNjc2NzMyNTUxNDk0.EE2uvysm93A2klo9iKVLoqMZ2CwBnSKgIe11HlvBglMg.HbiN1icKAbGRI7N-aTDc0Pn9iXbnnKwCqvu4AhGcZXUg.PNG.0906u/profileImage.png"
+          },
+          {
+            "sid": "614651997",
+            "bodySummary": "지하로 내려가면 바로 식당을 확인할 수 있었어요! 항상 점심시간에 줄이 길었던 집인데 오늘은 바로 들어갈 수 있었습니다 굴로 만든 다양한 메뉴들이 있었고 그 외 다른 식사 메뉴도 ",
+            "url": "https://m.blog.naver.com/mandoogukk/223165472383",
+            "nick": "왕감자",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA3MTFfMjIg/MDAxNjg5MDQzMjI3ODAw.qVRHARy6WQmomovYUZm4BwQ-f8o28bxfuBKouj_pjqEg.f_KzmTwoTe8IuLRKWbyshXqPKNzIWkhJIbg120eIhgsg.PNG.mandoogukk/%25EB%25B8%2594%25EB%25A1%259C%25EA%25B7%25B8%25ED%2594%2584%25EC%2582%25AC.png/%25EB%25B8%2594%25EB%25A1%259C%25EA%25B7%25B8%25ED%2594%2584%25EC%2582%25AC.png"
+          },
+          {
+            "sid": "614651997",
+            "bodySummary": "전화번호 : 02-773-6192 ☆ 포장, 예약, 남/녀 화장실 구분 - 매일 새벽 통영에서 산지직송한 싱싱한 생굴만 사용 [ 메인 메뉴 ] ● 굴국밥 / 굴떡국 : 10,000",
+            "url": "https://m.blog.naver.com/ko_chujang/223071790366",
+            "nick": "고프로",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMDVfMTA3/MDAxNzAxNzYzNTUzNDM0.3twTHEacQMf6lT12Mx3UefvYY67Rd5nnTc_-XUGNYuAg.jBDNwwnsubIArS1uz6ulppkM5DkpSwbpIhuIYIdQ2Kwg.JPEG.bowkoh1/KakaoTalk_20231117_143040697_16.jpg/KakaoTalk_20231117_143040697_16.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "id": "1703075426",
+        "name": "정원소담",
+        "x": "126.9738508",
+        "y": "37.5616585",
+        "distance": 0.02,
+        "categoryName": "한식뷔페",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "229847",
+            "229848"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식뷔페"
+        ],
+        "reviewCount": 32,
+        "averagePrice": 5000,
+        "address": "서울특별시 중구 서소문동 120-23 지하1층 1호",
+        "roadAddress": "서울특별시 중구 세종대로9길 42",
+        "abbrAddress": "서소문동 120-23 지하1층 1호",
+        "shortAddress": [
+          "서울 중구",
+          "세종대로9길 42"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [
+          "친절함으로 채운 깔끔한 식당 분위기"
+        ],
+        "cardDescription": "친절함으로 채운 깔끔한 식당 분위기",
+        "description": "강남맛집으로 소문난 20년 경력 한식뷔페 전문요리사가 정성스럽게 상차림 합니다!  *국내산 쌀과 김치 *HACCP인증원에서 인증한 식재료만 사용 *조식 식사 가능 (뷔페식 / 샐러드식) *무한리필,  ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDlfMTI1/MDAxNzU3NDEzOTA0MjY1.Nsz6Hk7tkqqVE8PF9Z0xMuzhBLMPf6Ohcao0Aym9Jgcg.YHvwcF9rhAcQ2XD9NmKlDmcS4qq4ILytDT5dHTTAFh4g.JPEG/2E5B9FC1-CF88-4E42-8086-CA4724DC226B.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MzBfMTEz/MDAxNzUzODU3NzUxMzkw.U77YZUwl5CRqIHWJ3bCtCemrHxoOClhEctg7tr4ub_8g.h7UlNCHZlsBeK-kk5A6uz88LzY6SbMMYL4YR5071wl0g.JPEG/20250730_123716.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20251027_249/1761514309388k29t2_JPEG/21505.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDlfODgg/MDAxNzU3NDE0OTkyNzg5.457fCaO0FfouKRq6-anHwPg5l_mrhgaABq78PCtFLcIg.BNCj2kMA1xDvExI-PxUxmEIt7pxpJA8cuQLK5F5KAjIg.JPEG/C600D307-9910-4E4A-8A47-66EE1A97AA71.jpeg",
+          "https://ldb-phinf.pstatic.net/20250314_33/1741938688178ucL9i_JPEG/IMG_2491.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjNfMTk2/MDAxNzUzMjI5NzkxMjg2.RP4sAqHDjeoL81WcLPUfYoSA7uknZCUHqm8DRZCCyvQg.jMsb6wnQB9lkprLDPL4jxAMX2AITF6SU0dSjhEiKIEsg.JPEG/E6AED5EF-3AB9-47BD-995D-673AB32A6DBE.jpeg",
+          "https://ldb-phinf.pstatic.net/20250314_43/17419366133287dafr_JPEG/IMG_2486.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTBfMjcw/MDAxNzUyMTI0NTg2MTQ4.7755Xzd11R7V6lBAnI0iPFsYmqNxo2Sk2n8hG_hWibUg.n9e8vOwiZTR0oNGvPeOcKVx9e4gXCLmjPAUidlfskuog.JPEG/63BA83CD-F64F-47C9-8529-72E673E70806.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MThfMTQy/MDAxNzU1NTI1Nzg4MzY0.y5G-fU8VxmAXE_VmFw6w2QbcpbPeAx1Ipe5dggtoxF8g.VYzLPMTQsV5eyGd--LzmVxiG1cu2ckrox760eoQKub0g.JPEG/213C6E78-3EEC-4621-9C8C-6671F93D7DA1.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTFfMTE4/MDAxNzU3NTgxMTg5NzQ1.esPIlauH8gFaCjJAqbbHPv6F6gmwvah-fTA9mI2-ZF4g.SbLmn5WGrcDXfdxuWX_LswUeZYcF3cmrZQ-NyFnzK-Ag.JPEG/5FF1EFA6-6B3D-423D-9656-07E15E733D25.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "229848",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

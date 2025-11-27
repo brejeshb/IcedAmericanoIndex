@@ -1,0 +1,196 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 3,
+      "count": 3,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 128.61011811169678,
+          "minY": 34.88450450450451,
+          "maxX": 128.6156090558484,
+          "maxY": 34.889009009009015
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "128.6128635837726;34.88675675675677",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "38767146",
+        "name": "삼다도아구찜",
+        "x": "128.6136842",
+        "y": "34.8889434",
+        "distance": 0.255,
+        "categoryName": "아귀찜,해물찜",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220076",
+            "220793",
+            "221633"
+          ]
+        ],
+        "category": [
+          "한식",
+          "아귀찜,해물찜"
+        ],
+        "reviewCount": 3,
+        "averagePrice": 25000,
+        "address": "경상남도 거제시 장평동 217-2",
+        "roadAddress": "경상남도 거제시 장평로1길 30",
+        "abbrAddress": "장평동 217-2",
+        "shortAddress": [
+          "경남 거제시",
+          "장평로1길 30"
+        ],
+        "displayContext": [],
+        "labelTheme": "24시간 영업",
+        "microReviews": [],
+        "cardDescription": "경상남도 거제시 장평동 217-2",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221633",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "38767149",
+        "name": "성심야식",
+        "x": "128.6136756",
+        "y": "34.888959",
+        "distance": 0.256,
+        "categoryName": "야식",
+        "categoryPath": [
+          [
+            "220036",
+            "220050"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "야식"
+        ],
+        "reviewCount": 2,
+        "averagePrice": 14000,
+        "address": "경상남도 거제시 장평동 217-2",
+        "roadAddress": "경상남도 거제시 장평로1길 30",
+        "abbrAddress": "장평동 217-2",
+        "shortAddress": [
+          "경남 거제시",
+          "장평로1길 30"
+        ],
+        "displayContext": [],
+        "labelTheme": "24시간 영업",
+        "microReviews": [],
+        "cardDescription": "경상남도 거제시 장평동 217-2",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220050",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 3,
+        "id": "1575044283",
+        "name": "울엄마 김치찜,갈비찜",
+        "x": "128.6136988",
+        "y": "34.8889556",
+        "distance": 0.256,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 0,
+        "address": "경상남도 거제시 장평동 217-2",
+        "roadAddress": "경상남도 거제시 장평로1길 30",
+        "abbrAddress": "장평동 217-2",
+        "shortAddress": [
+          "경남 거제시",
+          "장평로1길 30"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경상남도 거제시 장평동 217-2",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

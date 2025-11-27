@@ -1,0 +1,706 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 7,
+      "count": 7,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.9723171313813,
+          "minY": 37.5655990990991,
+          "maxX": 126.97345370510504,
+          "maxY": 37.566500000000005
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.97288541824318;37.566049549549554",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "935155845",
+        "name": "cafe정담",
+        "x": "126.9728219",
+        "y": "37.5659191",
+        "distance": 0.016,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 70,
+        "averagePrice": 0,
+        "address": "서울특별시 중구 정동 8-11 극장",
+        "roadAddress": "서울특별시 중구 정동길 43",
+        "abbrAddress": "정동 8-11 극장",
+        "shortAddress": [
+          "서울 중구",
+          "정동길 43"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 정동 8-11 극장",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20170417_9/1492413675754CkC59_JPEG/186367565133.jpg",
+          "https://ldb-phinf.pstatic.net/20170808_271/1502172654888mSGan_JPEG/1.jpg",
+          "https://ldb-phinf.pstatic.net/20170808_170/15021726549528HHri_JPEG/2.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "935155845",
+            "bodySummary": "9월 컴백 전에 같이 근무했던 직원과 오랜만에 만나서 근황토크를 했다. 극장에서 운영하는 카페 정담 정답게 담소를 나누다 오늘 만남의 취지에 딱 맞는데? 아메 다른 커피 오랜만에 ",
+            "url": "https://m.blog.naver.com/igef1/223220610755",
+            "nick": "물결이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMTZfMjg5/MDAxNzAyNjk3MDA2MTgz.BBf8tC5c49g152rHI5rI9R3f0pvq1yXmvWLpKmqBfFog.jdOzzAtOtPhxyHhLUGffioCGbhD9g15d45b1-P5RZ20g.JPEG.writesound/profileImage.jpg"
+          },
+          {
+            "sid": "935155845",
+            "bodySummary": "약과 좋아했으면 바로 샀다ㅋㅋㅋㅋ 근데 하나에 천원은 좀 비싸네유 키키 맨날 디저트랑 같이 찍다가 음료만 덩그러니 찍으니까 좀 허전하네 여기 풍경 맛집인데 창가 근처에 사람들 앉아",
+            "url": "https://m.blog.naver.com/ver9838/223192752138",
+            "nick": "기미주",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA4MDZfMjgw/MDAxNjkxMjQ3NjMzMTEy.FgJnTeSBsPrcjjHZ5pI1KN43SDfCuTtGehAJWzYeXyUg.TSnuGWJHwvq67viFJ9Lo9iUZEE29viJytw4Q2OQOHdcg.JPEG.ver9838/profileImage.jpg"
+          },
+          {
+            "sid": "935155845",
+            "bodySummary": "정동길을 걷다가 너무 더워서 들른 cafe 정담. 사람 살짝 빠졌을 때 사진 찍기~ 아이스 아메리카노를 시켰는데, 오늘따라 너무 연했다. 아쉽다. 크흐흐흡 다음엔 다른 음료 시켜봐",
+            "url": "https://m.blog.naver.com/yujon47/223132332712",
+            "nick": "진후",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20231118_18/yujon47_1700304513300nGth6_JPEG/profileImage.jpg"
+          },
+          {
+            "sid": "935155845",
+            "bodySummary": "cafe정담 서울 중구 정동길 43 정동극장 매일 10:00~22:00 정동극장 카페 cafe정담에 다녀왔다. 회사 동료분들과 점심시간에 다녀온 곳이다. 이 날 날씨가 미치도록 좋",
+            "url": "https://m.blog.naver.com/clzlsalskfl/223083535948",
+            "nick": "듀이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAxMDRfMjk1/MDAxNjcyNzU5MzcwNTky.lAnHPbCl5zK7Oyfc_J5oAABK6354vByxVgf0ceL8SmYg.40vRmB21gR_kvWU2QrNdkR3iQk6DWqoqUh3DRX0wNAsg.PNG.clzlsalskfl/profileImage.png"
+          },
+          {
+            "sid": "935155845",
+            "bodySummary": "따땃한 햇살을 맞으며 커피 한잔..☕️ 덕수궁 데이트 하시는 분들, 정동길 주변 한적한 카페 찾으시는 분들에게 강추하는 카페입니다! #예쁜카페 #덕수궁카페 #덕수궁 #덕수궁데이트 ",
+            "url": "https://m.blog.naver.com/shelly001/222973393072",
+            "nick": "우동",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAyMjZfMjQ3/MDAxNjQ1ODAxNTE2NDQ0.6QG5zq52aUWTZZ4CyvA-vFfzW0iFt5KYV81Fho8Zydwg.AndQg6C86t5CbjUVPteTIzsN2hlvkH0D6T8vYt7E-vwg.JPEG.shelly001/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "id": "1250544364",
+        "name": "라운드앤드",
+        "x": "126.972382",
+        "y": "37.5660059",
+        "distance": 0.045,
+        "categoryName": "베이커리",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220564",
+            "221161"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "베이커리"
+        ],
+        "reviewCount": 5847,
+        "averagePrice": 5000,
+        "address": "서울특별시 중구 정동 11-3 두비빌딩",
+        "roadAddress": "서울특별시 중구 정동길 35",
+        "abbrAddress": "정동 11-3 두비빌딩",
+        "shortAddress": [
+          "서울 중구",
+          "정동길 35"
+        ],
+        "displayContext": [],
+        "labelTheme": "드립 커피",
+        "microReviews": [
+          "고소한 아메리카노의 깊은 여운"
+        ],
+        "cardDescription": "고소한 아메리카노의 깊은 여운",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjRfMjcw/MDAxNzU4Njk0MTk5MTgx.exXLFAW521cZ73CbhzwOS0AfCdjsltdUVSHooy-EXa4g.4njxFLURfLQklqWR5Ee2MAGEAF0H1VAMPuK1Moxmo80g.JPEG/C8D6BDC3-1E77-4722-B7F1-41CADC5197F7.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTJfODIg/MDAxNzQ5NzQwMjg3Nzgw.-Vb2CLnuYjTFQ3WD_vLHUbnBNszKMUJl79-lznBHdX4g.V66tIO2EMGB6GqBgs7GPTDPfEQN6iGxejAix5d4NNDog.JPEG/1024948C-B503-47F7-8FB6-577296C343B6.jpeg",
+          "https://ldb-phinf.pstatic.net/20200818_255/1597739837764dXzEI_JPEG/SscNDYwmySFhHvV6EFCNcWq5.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDVfMjQ3/MDAxNzU5NjI1NDE0MzQ1.kHIYcW4aFWOcHcoGie38xVVIVUzVOOLjN0yjpd14hssg.VKN1iZY5oe826kBoG3T9G6MlP46Ks5UsQpLFoBU8sgog.JPEG/20250831_120327.jpg",
+          "https://ldb-phinf.pstatic.net/20200818_169/1597739837380L7BhJ_JPEG/sa57DNsRzqm4ZwUBx4MREbgE.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDlfOTIg/MDAxNzYwMDA1Mjg3Njcz._2mlzQy2wa93e2M0MbzUM-TqKOIpoq6jxftncCt2uyAg.6pmphOB16OaQ5QK4-em6UuzKqNlkAJcc20zY_9bPVssg.JPEG/7053D256-05E2-42F8-95B5-4420DBC90EF0.jpeg",
+          "https://ldb-phinf.pstatic.net/20200818_67/15977398377169Plzq_JPEG/f1AXSqVZFcPOY1zkprsQ5ejy.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDVfMjg3/MDAxNzQ5MTAyMDgzNjcx.Xv_6H3pO73QwzE-WGFNdFLekyAXJAYDvFYA0Ak3qQ7Eg.Y_wenO8v04A0ITEBJdpGjHzH0hU1zBAwZj_TmnrhGFEg.JPEG/20250517_152527.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjlfMjMx/MDAxNzU2NDIzMDM1MTgx.aD-woas-krgVLmb-ETwS8AALqHMWuYWEr5oWgcPkl1Ig.SyTmQSDe0FLQJQvvq-AeIpcoa9-5svm5wDUy6E2PMAsg.JPEG/934612B5-2A9A-4FED-B528-EFFA866FF6E8.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDZfMjY5/MDAxNzU5NzI5ODk1OTAz.NkIdgWzDCre6rFZL05U8jxYyyiW8l3wJkPAYUNeQaFAg.Wok76u6XEqtcaQRrLlJuqtDdK3A1trgDDqAzJMkaPfMg.JPEG/20251006_121056.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221161",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1250544364",
+            "bodySummary": "우리는 유모차 가능한 카페만 가야했기에 고민없이 이 집을 픽했다. 정동길에 있는 카페들 중에선 그래도 규모가 큰 편에 속함. 따로 휴무일이 없는 카페인가 봅니다. 블루리본 서베이도",
+            "url": "https://m.blog.naver.com/smsmoon1/223397825135",
+            "nick": "OMDR",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTExMjFfNjAg/MDAxNTc0MzI0MTAwMTcx.CZcLQCDim2bCBL_0wPAgcRdZ5-vK3h4yft7PdKWWYnQg.WIdl1gCvTKVFlNWSGoeg5xxvoIxskpt30LJHODSQhRgg.JPEG.smsmoon1/profileImage.jpg"
+          },
+          {
+            "sid": "1250544364",
+            "bodySummary": "그냥 카페를 가도 디저트가 쿠키 아니면 케이크 딱 그정도잖아요. 베이커리 카페 라운드앤드는 빵 종류도 다양하고, 타르트 종류도 다양하니 보는 재미도 쏠쏠해요~ 건강해보이는 빵들도 ",
+            "url": "https://m.blog.naver.com/0303jkl/223395969874",
+            "nick": "모찌여니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDEwMDlfMjcz/MDAxNjAyMjQ1NjQzNjMz._EbW8dADyj3V87HddG88zl_6YSr59cZTpLlrwcNUd9kg.yp9GvaajYxw6vYQr1QbIKk_YVVeU-_Tw0xC0BpBTLZ0g.PNG.0303jkl/profileImage.png"
+          },
+          {
+            "sid": "1250544364",
+            "bodySummary": "이 쪽엔 맛있고 이쁜 카페들이 많은데 저희가 이번에 간 곳은 라운드앤드 라는 카페예요. < 영업 시간 > 08:00 - 22:00 들어가기 전에 한장 찍어줬어욥 카페가 맞나 싶은 ",
+            "url": "https://m.blog.naver.com/joyfulogan/223374544583",
+            "nick": "Joyful Logan",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA3MTlfOTcg/MDAxNjg5NzczNjc5NjI3.S5i_lajCqn2Asm-rM9PYRQUxfoQa4d2JKvCVXseUQTsg.ZfUG28vKcWy2Ni8gxOSOTrp7AmcyyDhHsetkuSMHiaQg.PNG.geonho00/profileImage.png"
+          },
+          {
+            "sid": "1250544364",
+            "bodySummary": "안녕하세요 김쀼에요 :) 덕수궁 근처에 갔다가 예쁘고 ⭐️맛있는⭐️베이커리 카페를 발견했어요! 내돈내산 ‘라운드앤드’ 카페 바로 소개해드릴게요 !! 서울시청 라운드앤드 정보 위치 ",
+            "url": "https://m.blog.naver.com/newarchive/223372506550",
+            "nick": "김쀼",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMDZfMTEz/MDAxNjk5MjY5NTQ5NDQz.X9yGtqcHZ86caywkeJ7qydy8LSnYqZlPYsiYo887T9cg.M89xblA3NQ8RAk0yV4nsIt2KRW-dkkIlgwaR54nD7a8g.PNG.you-a-kim/profileImage.png"
+          },
+          {
+            "sid": "1250544364",
+            "bodySummary": "정동길 바게트 4,500 정동길 바게트를 샀다. 빵에 얹어 먹을 과카몰리와 명란을 컬리에서 미리 샀기 때문에. 메이플 고르곤졸라 바게트도 많이 탐 났다. 그냥 바게트 안 샀으면 걜",
+            "url": "https://m.blog.naver.com/hae_ran9/223371849486",
+            "nick": "해란",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA2MjFfMTE2/MDAxNjI0MjY4MDEyNTI3.JYjf_THHEQzj07JOjJYhNU9uX1Cf4eNrM3bCCel_D2wg.4c9bSMW3HBP2aJOG3Y3Vt8tQaeoKCO5Kjy3ZNB6M45wg.JPEG.aorian/20200817_165840.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "id": "779022700",
+        "name": "남도식당",
+        "x": "126.9725881",
+        "y": "37.5659512",
+        "distance": 0.028,
+        "categoryName": "추어탕",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220066",
+            "220672"
+          ]
+        ],
+        "category": [
+          "한식",
+          "추어탕"
+        ],
+        "reviewCount": 436,
+        "averagePrice": 11000,
+        "address": "서울특별시 중구 정동 11-4",
+        "roadAddress": "서울특별시 중구 정동길 41-3",
+        "abbrAddress": "정동 11-4",
+        "shortAddress": [
+          "서울 중구",
+          "정동길 41-3"
+        ],
+        "displayContext": [],
+        "labelTheme": "생방송투데이 방영",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 정동 11-4",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjJfODQg/MDAxNzQ1Mjk5OTU5MTA1.fBTxaHS7EGnfewTwVbz8JkUloEbDN4Eb-BRK5L-B3Z0g.jy7WGqg8PGsUHkvA_IqXMwV-VvfmSyRz0M7DaQfRmQ8g.JPEG/20250422_140528.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20190914_130/1568444750404fdrXY_JPEG/tNU03r8stW9awjXxdR9VJ6W8.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220672",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": true,
+        "broadcastInfo": {
+          "name": "생방송투데이",
+          "menu": "추어탕"
+        },
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "779022700",
+            "bodySummary": "노포 식당이 유난히 많은데 이번에 방문했던 남도식당도 노포 맛집이었답니다 시청역 도보 3분 거리에 위치해 있어서 접근성도 좋아요 지도를 따라 가보면 가정집 같은 곳이 나오는데 바로",
+            "url": "https://m.blog.naver.com/big_mangogo/223398958914",
+            "nick": "엄청난망고고",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA5MjRfNiAg/MDAxNjMyNDUyODAxMTY4.Cj2qSgf6nim3sWk3U9jjSQ4N9kLDYSPyFWC5BhEk79Yg.wZaOjORP3E1vv5aHnGB4ilnfl6aeamE6tPOPfF3QD54g.PNG.tvxq9138/profileImage.png"
+          },
+          {
+            "sid": "779022700",
+            "bodySummary": "제피가 더 어울리고 맛있다 정동집도 방문한지 오래되어 지금은 모르겠다 각설하고 고양시에서 찾은 맘에 드는 추어탕 집 네비 찍고 가다 보면 아니 이런 곳에 무슨 식당이 있다고...?",
+            "url": "https://m.blog.naver.com/iamdahl/223395937201",
+            "nick": "달이라죠",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA3MTZfODUg/MDAxNjU3OTcxMjE4Nzk5.r2oCkl7X99714yRI-oKxmAEPOIuuyLgr0r2BmlFDN-og._5MFq-uiJpSOLgtGOZbZRpADBRD67aEemnFRuhjdGq4g.JPEG.purple9696/KakaoTalk_Photo_2022-07-16-20-33-10.jpeg/KakaoTalk_Photo_2022-07-16-20-33-10.jpeg"
+          },
+          {
+            "sid": "779022700",
+            "bodySummary": "오픈 시간에 맞춰 방문해서 그런지 손님이 많지 않았는데, 10분만에 만석이 되어 버렸다는 남도식당은 오로지 추어탕만 판매하고 있고 자리에 앉자마자 인원 수대로 자동 주문- ! 반찬",
+            "url": "https://m.blog.naver.com/rinrini14/223385145210",
+            "nick": "Lily",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMTRfMjc5/MDAxNzA1MjEzMzQ5ODkw.aQGkYzjA4ttLoJwr3t0bQiRochKZiTITOFzr8Qsu5e0g.2T1QJ3DprMfiqAZYVCwhKMClmIWvTBzx38AX1lPbllIg.PNG.rinrini14/profileImage.png"
+          },
+          {
+            "sid": "779022700",
+            "bodySummary": "미꾸라지가 통으로 안 들어가 있고 갈려있는데 비리지도 않고 감자탕 같기도 하고 아주 맛있었어요 보양식으로 추천합니다 근처에 있는 카페 정담을 갔는데 날 좋을 땐 야외에서도 많이 드",
+            "url": "https://m.blog.naver.com/longsung2627/223376990593",
+            "nick": "미슈",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMThfMjA2/MDAxNzAwMzE0MjAwMjYz.gwwnKakhcDLrhbGw-jOm-2BCKajgfov8SMENWDkmXqQg.Ui-ZyDJR8zgT3bGqwJzYaC0j9VRby83SJEkqrP94MPwg.JPEG.longsung2627/profileImage.jpg"
+          },
+          {
+            "sid": "779022700",
+            "bodySummary": "서울 한복판에서 맛보는 맛있는 전라도식 추어탕 추어탕을 큰 틀로 나누면 서울식, 전라도식, 경상도식으로 나눌 수 있을텐데, 전국적으로 보편적으로 퍼진 형태는 전라도식이겠다. 소나기",
+            "url": "https://m.blog.naver.com/tamsik_/223369400909",
+            "nick": "탐기",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA0MTdfMjY2/MDAxNjgxNzQzMjMwOTQy._-diITNzBsNcG_8oq9RWkbHSfHhDkf1zpWf_i4-U_Acg.NdIcdui8wXQgwzHxA-4oPwQN9f1egS8cxAaTQS6MZ7Eg.JPEG.tamgi_planc/49271304_1950870048555670_6970063847835041792_n.jpg/49271304_1950870048555670_6970063847835041792_n.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "id": "1639628240",
+        "name": "정동집",
+        "x": "126.9726124",
+        "y": "37.5659491",
+        "distance": 0.027,
+        "categoryName": "추어탕",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220066",
+            "220672"
+          ]
+        ],
+        "category": [
+          "한식",
+          "추어탕"
+        ],
+        "reviewCount": 788,
+        "averagePrice": 11000,
+        "address": "서울특별시 중구 정동 11-4",
+        "roadAddress": "서울특별시 중구 정동길 41-3",
+        "abbrAddress": "정동 11-4",
+        "shortAddress": [
+          "서울 중구",
+          "정동길 41-3"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [
+          "따뜻한 방바닥에서 즐기는 정통 추어탕"
+        ],
+        "cardDescription": "따뜻한 방바닥에서 즐기는 정통 추어탕",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTdfMjAw/MDAxNzYwNzA5MTUzNTky.QdG9D1Nt8Lwf9VhR9mxMtDUgFOH0YsJZwX5g4rOn20og.9h0K6WWVN5VD9hFHwdZYXAbK6jmgcIdeyaYGL30Yqfog.JPEG/1000015668.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjJfMTEx/MDAxNzU4NTEzODM0MTk2.TJ_rPo2TK2TMqlEgDL_xAsFnLv0fReF9ZhYTf4EPNU8g.X8zgyKed53KCmijECUfk-fnqUs9jQv8GR2Nw1pxzmV8g.JPEG/FE93AB81-96A6-4B96-B97B-CB00B5EC3E8D.jpeg",
+          "https://ldb-phinf.pstatic.net/20230312_193/1678577793719UbQPJ_JPEG/20230311_114703.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjVfODcg/MDAxNzUzNDE4OTU5MzAw.H4M2QNHiMomHb-vLnQMcZqJKKxdH9wxQ5fFvSvrNCjcg.9B_h6j5pCmFagvLofSTpn_QnoNooq1owSa-_XEX-tnQg.JPEG/20250725_131427.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTRfMjY1/MDAxNzUyNDcyMTc2Mzcw.I9ShFpoWH7K-Gx0iL74tVPOADX8pws9JW3jn1rbpNQYg.o8ILhJPXMZJkzqqyACgXbySDbLDNmjhFF1FSQoyiBFgg.JPEG/106FB505-0F9C-4B6D-88CE-FA91DC81D4E3.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTRfMTI0/MDAxNzQ3MTgxNDY5NjIw.lvWXZDK2FwdJrxPX8BSwaVB_8XyATMh_csYv4xuroTog.Yv4njQ44qLaV5CkVhk_-GHyvUzYjgbCCo1nZsek217Qg.JPEG/20250513_145842.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDVfMTUw/MDAxNzU0MzY2MjQwODgw.3ht4kmsfyQxtg_tqzNQvDpkYXtt-LzDzqXl7z2SSGtYg.1rj3tOPR1hv2sCkA8FDN0usOk7N_CkB39ZD4Hulhz0Ig.JPEG/1000020718.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjVfMTE5/MDAxNzU4Nzc3NjkwMjUy.0Su73xnzJzY_PRfuEsAQZUZyhs-QKZATWBIa0JT-h_Ag.-WW6H9_F80E3gU9VvvwP-GgR9HRbNeae0Ne0w1inaSog.JPEG/20250925_131259.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjhfNDAg/MDAxNzU5MDIzMTIzMTAy.khx9dOVPwD12cHXE6oVNal_4pxvZp7Z2hLwovzkq9Vkg.BXEmVXuvtgnUrRov12ubv0cKcoHYspu9cARSE4pS2ZAg.JPEG/Screenshot_20250928_103025_Samsung_Internet.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTZfNzIg/MDAxNzYwNjE3OTYwMTEz.E0mqjw3ZapBZF9-resdXfC2wgCu3PkssoXz6znC2xtAg.4j9UcQyrRBuLs22IxTlfUtOY7AhUBaijCvi2Wf4Cqvwg.JPEG/20251016_172608.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220672",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1639628240",
+            "bodySummary": "남도식당은 정동극장 옆 중명전 가는길에 있다. 제로페이 결제도 가능한데 상호명이 정동집으로 나온다. 평일과 토요일 오전 11시 반부터 오후 8시까지 영업한다! 메뉴는 추어탕 하나만",
+            "url": "https://m.blog.naver.com/fkigd7/222989259958",
+            "nick": "Amore Mio",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20151207_132/fkigd7_1449487901039bmDBD_JPEG/FB_IMG_1431628206532%5B1%5D.jpg"
+          },
+          {
+            "sid": "1639628240",
+            "bodySummary": "출근해서 하는일 1번 2차점심언니들한테 배고프다고 징징대기 남도추어탕 서울 중구 정동길 41-3 일요일, 공휴일 휴무 그냥 핫타임빼고가면 줄안서고 먹을 수 있음 추어탕 11,000",
+            "url": "https://m.blog.naver.com/bada741/222769264268",
+            "nick": "바다",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA0MjZfMiAg/MDAxNjUwOTQwMDcwMjA0.X10n6LMnw1Gs2Kb15iiESbZW5-saCf-3ChH_dUVdBMYg.rv91-qVRLnsTAFpa2PTWqWJIGyaEm6i-0ZM8BDdC6kUg.PNG.bada741/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "id": "19806042",
+        "name": "전광수커피하우스 정동점",
+        "x": "126.9724832",
+        "y": "37.5659364",
+        "distance": 0.038,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221292"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 1546,
+        "averagePrice": 5000,
+        "address": "서울특별시 중구 정동 11-2",
+        "roadAddress": "서울특별시 중구 정동길 39",
+        "abbrAddress": "정동 11-2",
+        "shortAddress": [
+          "서울 중구",
+          "정동길 39"
+        ],
+        "displayContext": [
+          "카페",
+          "와플",
+          "치즈케이크",
+          "데이트",
+          "유기농"
+        ],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 정동 11-2",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjFfMTY5/MDAxNzUzMDk0MTU3MTEx.VbpR1Hv7Tt1KqlsZebUxfjU2YrXNiUcjSusrAxFDkkog.lgvXZ5kzJYlQ6Ytv3d97hxBB8555B1lcqCoo86zjMR4g.JPEG/20250721_183324.heic.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjRfMjAw/MDAxNzUwNzU3MzQ1NTM5.pX4FVjoei4Q6EI0AFiSUoNjmsW4FlCa1K_90tPNSd3kg.AMz4d06j_-wKOiFJBX1-CsCXUpWpiii5Bbe6nrspmJYg.JPEG/20250622_152215.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjlfMjAw/MDAxNzU5MTUzODcwNjQw.nzUCG8V6RqWzUaylxH_kQ1ujBDSEAvc-_fz-zIt_qpQg.XYs0A_BpO6ns-_q3oIWrv_BNLV0LDhRdDGNHgHTIH9Eg.JPEG/20250927_140452.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDdfMTI1/MDAxNzU5ODMwNDkzOTAx.JWxy98hL1hkpnS11aEYFScVkJNdWHiMdEbmg8Ffm808g.wbTx7j-LW6Qh00L5jp9jsfVOV7iCIOgvtW-SFpESlEMg.JPEG/87083CD2-1D49-4648-96E1-C9E07B0D5EDB.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MzFfMjgx/MDAxNzU2NjQxMTk3NTUw.fPOVGS8Refp6K6VswDLkkpu0jE9dW-i8AXFZKfX-Gsgg.tipt_zfiR6kqaWui2UUiUSZ4tywFpX4IC2lunJbrzKsg.JPEG/20250807_191920.heic.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjBfMjM0/MDAxNzQ3NzM1OTI3MDg2.flj8Z5OY6svzrVqAQpzK-v3jm3HTG3Z8c5cBf6l0bmQg.wtVwl0bJR9f8EokUHUegqeX1U89ZDUsv0kA_jCuF3Hog.JPEG/20250520_182542.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTFfMTg0/MDAxNzU3NTcyNzczNzYx.QyrGtEmL3bSokzLyDK0LTjngREY2BjCQKGm45qGSd8gg.ejRTLiDLmsEfiHBcm4inSD8zL8FD0AOcq7lA3JKjX30g.JPEG/20250911_152143.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDZfMTcy/MDAxNzU5NzM5NTQ5ODMy.RGLYmoOV69UlXmWM24GCqYDmIXykKWK4xkPudx5O7a0g.0u5wSgtLVaP-BtjfMrbdVScKCeE_hBfWRZYt4KbZul8g.JPEG/25EE9B7D-C8EB-4CE0-9223-347498A04448.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDlfNjcg/MDAxNzU5OTk1MzE2MTg5.VG-NVshJzj79K7D6L_JG318hb2X0uCD5zSnDueuDsp8g.gd4AMpEEqrmta5m4QXmByioz2Tyc06X9q1ToXSoxSmYg.JPEG/20251009_143652.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTRfMTAw/MDAxNzU1MTMzODExMTkz.THQNSJFaPYXK3TcMdrnXiXsN0n8UugO_dWwMKi3OCaQg.BC1Qy_i32Er-iz65GNr315lOunb2Gx72gv4QTLBA66Ig.JPEG/20250812_145236.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221292",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "19806042",
+            "bodySummary": "덕수궁 근처 맛 좋은 커피집 소개드려요! 전광수커피하우스 정동점 덕수궁에서 걸어서 5분 거리예요! 돌담길을 바라보며 잠시 산책하다보면 도~착~ 전광수커피하우스 영업시간 ⏰ 영업시간",
+            "url": "https://m.blog.naver.com/illlllllll9/223333622591",
+            "nick": "쌀찐빵",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMjdfOTcg/MDAxNzA2MzY3NTgwNjEz.eUEkeKwwXNCRhDtRx2g6mdGMTcZFPp7sdXuHuinXAlIg.BIcqD-WgVI0NNfKAZV1-oqjC7MwYBChcqxmtwnXmd4Ug.PNG.illlllllll9/profileImage.png"
+          },
+          {
+            "sid": "19806042",
+            "bodySummary": "덕수궁카페 전광수커피하우스 정동점을 소개합니당 전광수커피하우스 정동점은 덕수궁 산책길을 따라서 걷다가 들어가기 딱 좋더라고요 메뉴판부터 살펴볼게요 메뉴가 엄청 많은데 저는 아인슈페",
+            "url": "https://m.blog.naver.com/aji7737/223307115491",
+            "nick": "jjjuggg",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA5MDdfMjIg/MDAxNjYyNDg1NjcyODYy.Y2_vLOj6ieSlWN-Vh-5OJlV_RSLgOwG5jj96qrzVrwwg.Ftk5RCdCnC3-zzRUcP_kbxZSnIU3dskAGGBgA1X2ABcg.PNG.aji7737/profileImage.png"
+          },
+          {
+            "sid": "19806042",
+            "bodySummary": "주소 서울 중구 정동길 39 ✔️운영시간 월~토 08:00~21:00 일 08:00~18:00 ✔️전화번호 02-752-0289 ✔️특이사항 1, 2층 카페로 보기보다 규모가 큼 ",
+            "url": "https://m.blog.naver.com/yys3457/223258545309",
+            "nick": "Alin 앨린",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTA4MDVfMTUz/MDAxNTY0OTgwNzQwNjIz.epeWJor1lNnJCPzW2jjtjY27cmHNT_Wi-c4tWxDpzOAg.4F6fCmcmyfpbHyUgRm60pcl03HsNtNXJP6kaPHpQpL8g.PNG.yys3457/profileImage.png"
+          },
+          {
+            "sid": "19806042",
+            "bodySummary": "커피 맛있다고 친구가 데려간곳 #전광수커피 2층에 창가에 앉았는데 분위기가 좋음 우리 주문한건 티라미수랑 달콤한광수라떼 디카페인라떼 아메리카노 그릇이랑 컵 모두 #전광수커피 라고 ",
+            "url": "https://m.blog.naver.com/buty2281/223246189266",
+            "nick": "SOO",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxODExMDhfMjQ0/MDAxNTQxNjUyNTQ4NjUx.ZNgsLpLDAdorMy-FvpMoJMOLwvWpN-SynzRlvDDnjBAg.s8Tj_rXCfSwJ3T-6X9So3T1YGXC2GwXQGhxu5Z3kV8gg.PNG.buty2281/profileImage.png"
+          },
+          {
+            "sid": "19806042",
+            "bodySummary": "가족들이랑 시청 근처 덕수궁 돌담길 걷다가 우연히 들어가게 된 카페! 찾아보지 않고 보이는 곳으로 바로 들어갔는데 나름 괜찮아서 포스팅!! 전광수 커피하우스 정동점 영업시간 : 매",
+            "url": "https://m.blog.naver.com/luce_tee/223201389322",
+            "nick": "binii",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAxMDFfMTEg/MDAxNjQxMDIwNTYzNTQ5.f8X68YJqW3kl6E24Rbx30rKX49K0IGC4QoslkYwiXGog.X_l271p3bQAE-MMcmZqCjCcf5JwkM15SGUXl0cHiu48g.PNG.lucete_0617/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "id": "1468076912",
+        "name": "탄백",
+        "x": "126.9724678",
+        "y": "37.5659578",
+        "distance": 0.038,
+        "categoryName": "칼국수,만두",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220073",
+            "220712"
+          ]
+        ],
+        "category": [
+          "한식",
+          "칼국수,만두"
+        ],
+        "reviewCount": 582,
+        "averagePrice": 20000,
+        "address": "서울특별시 중구 정동 11-8",
+        "roadAddress": "서울특별시 중구 정동길 37",
+        "abbrAddress": "정동 11-8",
+        "shortAddress": [
+          "서울 중구",
+          "정동길 37"
+        ],
+        "displayContext": [],
+        "labelTheme": "놀라운토요일 방영",
+        "microReviews": [
+          "버섯밥과 김치만두의 건강한 조합"
+        ],
+        "cardDescription": "버섯밥과 김치만두의 건강한 조합",
+        "description": "'탄백'은 2024년 8월 15일 광복절, 서울에서 가장 아름다운 가로 '정동길'에서 시작되었습니다.  탄백이 위치한 정동길은 서울의 중심부, 조선시대 왕실의 별궁터였던 정동에 위치한 역사와 문화 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjVfMTU3/MDAxNzU4ODAzMjIzNTY1.D-yQnZ3FzjL0nPTHWkFaoW1Qu_L-EV64Nu3rKl2un4og.ArDzgfCl-TnIKOjU1vIdAIiToQrAL20ePwxACP7GZEgg.JPEG/75A46B47-A4CA-41FB-B2B8-F1DD8FBE1CDD.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMThfOTgg/MDAxNzYwNzk2OTg3NzUy.UOZ7omi_jcEi_iVelnS_0-qo-BDAP4veBk_hcHG9pwQg.LfCzDd5nOOj8muYVyXAMd6wa5LvnVe79Nc_ylXToes8g.JPEG/C737415F-F9C1-4F47-B389-0023207AD423.jpeg",
+          "https://ldb-phinf.pstatic.net/20250423_135/1745397442134p7h4m_JPEG/IMG_5697.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjhfMjA0/MDAxNzUzNjc3MTYwNzE3.QIcfsxtqIv77rE-vUDJyp66B_f4u2rxpLZCzyyfoAJgg.xSOqrQAmksRetPiAG0P0oM9114uEwkCsFSLE4zeC8a8g.JPEG/B8B4DB2E-E5AD-4A1F-A8D6-0578AD1EDAA3.jpeg",
+          "https://ldb-phinf.pstatic.net/20250116_6/173702513312992vYY_JPEG/IMG_7443.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDFfMTEw/MDAxNzQ4NzgxNDgxOTI0.H-pwyysyaTL8nUK5OWqgA5iVgbw2FYS-WJCL06K3Ku8g.Gs-_rf0q-PJS7uirKs7u3itHzsW1NhsOvoTO3tfgiJIg.JPEG/2C4F4F2D-9A2D-495E-89EF-24DE27625E70.jpeg",
+          "https://ldb-phinf.pstatic.net/20241220_240/1734662605004dtiRA_JPEG/IMG_7908.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDRfMTg3/MDAxNzU5NTQzNzgwNTQ2.Jg1ty9w8ZLvJzfNxtl-pR5i2UogvUwm3sDzkckrcuh0g.UqbHYzoNuN5vxLjBrAmVrywVGhiHciaEBXciLNGulNQg.JPEG/33C3BAB5-A73F-444B-BFFC-4291779929F9.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDNfMTAz/MDAxNzU5NDk0MzIxMTM2.BhOi08aXsiu2sxU99IhgqXOVVOLGtTjgtbQ9jN_74Aog.t7R5yBXhnFeAQvdFUrVi50lvNplODFz6h2Ml2H2QWK8g.JPEG/A6A800E1-1275-45F5-8477-005679764D86.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjBfMTM1/MDAxNzU4MzU4NzAyNjk4.-r0QDYwbJMPfz28fGKLTgh2q7aYtQmiVK78yjlN2KDEg.QTbbF40sv_s57w9yaLa1Y8m32QQNXn83ToVEGTcoDl4g.JPEG/3E39AD1E-178E-4644-B989-99977E880FDC.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220712",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": true,
+        "broadcastInfo": {
+          "name": "놀라운토요일",
+          "menu": "곰칼국수"
+        },
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 7,
+        "id": "13006904",
+        "name": "덕수정",
+        "x": "126.97255",
+        "y": "37.5659",
+        "distance": 0.034,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 3354,
+        "averagePrice": 10000,
+        "address": "서울특별시 중구 정동 11-5",
+        "roadAddress": "서울특별시 중구 정동길 41",
+        "abbrAddress": "정동 11-5",
+        "shortAddress": [
+          "서울 중구",
+          "정동길 41"
+        ],
+        "displayContext": [
+          "부대찌개",
+          "제육볶음",
+          "삼겹살",
+          "데이트",
+          "재미있는"
+        ],
+        "labelTheme": "미식클럽 방영",
+        "microReviews": [
+          "삼치구이로 입맛 사로잡는 정동길 맛집"
+        ],
+        "cardDescription": "삼치구이로 입맛 사로잡는 정동길 맛집",
+        "description": "저희 덕수정은 다양한 메뉴를 제공하는 부대찌개 전문점으로 저희만의 맛을 전해드리고자 노력하고 있습니다. 재료선별 하나에도 정성을 들여 늘 엄선된 식재료만을 사용하여 고객 여러분께 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTRfNzEg/MDAxNzU1MTc5NDYwMDEy.07GZFXGZgcmfofRQ6itQLdSNJYYQ3cTDwCGJ6ZsSDI4g.QMzC3_XbW_w_Ka2S3cir_j1ZjuvxGgfETIFqGTY2dVgg.JPEG/20250814_113526.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjlfMTk5/MDAxNzU2NDQxOTczNjky.n7GuRu4aGoRFuk3fUnrfOQMdsQeo6xzwz5y6ixJif48g.JnfhFLcxbRggVc8xha3m3jxMaqG6zBSQDz-ciTa5IqMg.JPEG/5E1AFA7D-C22B-4C66-9F35-FA44A56EFC07.jpeg",
+          "https://ldb-phinf.pstatic.net/20150901_108/1441049197041H95x1_JPEG/97151593023826_0.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjlfMTY4/MDAxNzU2NDIzMTU4MDQ4.wXW7hB9bWFJmBo7lDVMQr6JfJ9ABQnJi-d-KANWi05Eg.pgpHP90O8rT2Jnn4Xg3DJsrL1pAbT8BzPr9nxmdPQiAg.JPEG/20250828_113750.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20150901_206/1441049197200t4X2O_JPEG/97151593023826_2.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjNfMSAg/MDAxNzYxMTc3NjAwNDkx.fyQxeMitsMrPiHpWQee-1lqD_d089NFROwqSCky_3m0g.gjpCTpG4a-lJJtT_lbuxWS_3OLOz16yI5nU-l9UlXp8g.JPEG/20251022_130832.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20150901_81/1441049197373itqqg_JPEG/97151593023826_3.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjFfMyAg/MDAxNzUzMDk3Njc2MDU1.hiJTfcEHOQy3slA2_ENCid3PYVW9Y8Wjz2aEvHf5ewUg.k6FxRmxtP3RmMOsJDtUOI1NcYr3gn9BzJaRj3fRlUHgg.JPEG/1000043701.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjZfMTU4/MDAxNzQ1NjcwNTc3NDgy.KWlfyeNzOetpVo4jdjKx5H0F3H2L_Vxqr8s4ckOeAbsg.rRENGh8idsmLrsNPs1SlC7SgAopoas_n3dISftZwhbgg.JPEG/20250425_135157.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDZfMTQ0/MDAxNzQ5MTY2ODI2NzI0.ukE6efn6KlXl7gCrkdCKr8292MzPQnbfviJJ0pOiRzog.CsbV6gSg_56tko5blakLGYW-9uCmjKMvdTcxdAOGJ5Ag.JPEG/20250605_123756.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": true,
+        "broadcastInfo": {
+          "name": "미식클럽",
+          "menu": "부대찌개"
+        },
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "13006904",
+            "bodySummary": "세월의 흔적이 느껴지는 냄비와 냄비뚜껑도 기억 나네요. 국물이 칼칼하면서 진하고 입에서 착착 감겼습니다. 게눈 감추듯 흡입하고 남은 국물에 라면사리 추가 해서 야무지게 먹었네요. ",
+            "url": "https://m.blog.naver.com/ekdrl1004/223372379511",
+            "nick": "왕눈이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxNzA0MTlfMTg2/MDAxNDkyNTkyMjcyMzk1.HCBXk3e_JzLcC4uvR_WY7_I_6yxrqYezAFoeHcAPx8Ag.9I8Fgwx8ll4hli_ySltY0iU2uXI9HnO8zODE6kwctQcg.JPEG.ekdrl1004/profileimage.jpg"
+          },
+          {
+            "sid": "13006904",
+            "bodySummary": "메뉴판 주력 메뉴는 한식 기반의 식사류 점심엔 식사 메뉴를 팔고 저녁엔 돼지고기 구이를 안주로 곁들이는 형태 부대찌개 9,000 오징어볶음 12,000 삼치구이 12,000 순두부",
+            "url": "https://m.blog.naver.com/roddl2/223362799758",
+            "nick": "개땅이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20091010_151/roddl2_1255108985638_l104T7_jpg/aoi1.jpg"
+          },
+          {
+            "sid": "13006904",
+            "bodySummary": "위치 덕수궁/정동맛집 덕수정 위치 서울 중구 정동길 41 정동길 국립정동극장 바로 옆이에요 지하철로는 1,2호선 시청역에서 가는게 빠를듯~ 내외부 분위기 근처 회사가 있으니끄 점심",
+            "url": "https://m.blog.naver.com/jhggo3/223350048085",
+            "nick": "갓수 Godsoo",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA2MjZfMTc4/MDAxNjg3NzI3Mjg4MDA1.zSXfbWVwg88vrEnGp9qWOx4TxYwC487nC4qyu0agVXMg.ff1lWvnlvodeepD_HQqlfUDICtQ8FH07IV396n1afZIg.PNG.jhggo3/profileImage.png"
+          },
+          {
+            "sid": "13006904",
+            "bodySummary": "간판부터 오래된 느낌이 있긴 했는데 50년이나 된 곳 인줄은 몰랐어요 덕수정 메뉴는 간단한 편입니다 시청역 한식 맛집으로 유명한 곳 답게 한식메뉴 위주고 저녁에는 삼겹살도 팔고 있",
+            "url": "https://m.blog.naver.com/healthy_sum/223347940100",
+            "nick": "숨",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAxMTRfNDgg/MDAxNjczNzAyMTU3MDgx.Qbyb_Jxt7PJkU-IRTj6ehWhsgER23ZpIhDvNKYe8g_4g.1cydu6rwsQYCuBhZnkbYId6nG7q-zg6h3CeSWalT9t0g.PNG.852061/profileImage.png"
+          },
+          {
+            "sid": "13006904",
+            "bodySummary": "근처 가면 다시 가고 싶을 정도로. 시청역 맛집 '덕수정' 주소 : 서울 중구 정동길 41 주차 : 없음 영업시간 : 월 ~토 11:00 ~ 21:00 브레이크타임 : 15:00 ",
+            "url": "https://m.blog.naver.com/ordinarydayswithyou/223337056544",
+            "nick": "Mahana 마하나",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjEyMjVfMTQ1/MDAxNjcxOTU2NTIxOTQ4.jNz9pt7aEZBeUcSZL9tpQmz9J6QyZWZEGzLPEOsiNrwg.UAIv09BaXnSP69FX2qy09P1GUI8Md8XCrex8fzgTj-Ug.JPEG.snowtree25/KakaoTalk_20220924_191556238_05.jpg/KakaoTalk_20220924_191556238_05.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

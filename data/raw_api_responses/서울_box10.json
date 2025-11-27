@@ -1,0 +1,517 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 7,
+      "count": 7,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.978,
+          "minY": 37.55749099099099,
+          "maxX": 126.97913657372374,
+          "maxY": 37.558391891891894
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.97856828686187;37.55794144144144",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1851604992",
+        "name": "비비디 디저트 카페",
+        "x": "126.9783617",
+        "y": "37.5580032",
+        "distance": 0.019,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 31,
+        "averagePrice": 5000,
+        "address": "서울특별시 중구 회현동1가 180-2 1층 1호 비비디디저트카페",
+        "roadAddress": "서울특별시 중구 퇴계로6길 5",
+        "abbrAddress": "회현동1가 180-2 1층 1호 비비디디저트카페",
+        "shortAddress": [
+          "서울 중구",
+          "퇴계로6길 5"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "작지만 포근한 공간, Better Be Dessert. 달콤함이 여기 있어요",
+        "description": "작지만 포근한 공간, Better Be Dessert. 달콤함이 여기 있어요",
+        "images": [
+          "https://naverbooking-phinf.pstatic.net/20231226_106/1703590672074SbQ4Q_JPEG/KakaoTalk_20231226_203648203.jpg",
+          "https://naverbooking-phinf.pstatic.net/20231226_222/170359031795332I5d_JPEG/KakaoTalk_20231226_201902407.jpg",
+          "https://naverbooking-phinf.pstatic.net/20231226_178/1703590318089otfOM_JPEG/KakaoTalk_20231226_203131424.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "1081795761",
+        "name": "휴빈",
+        "x": "126.9780072",
+        "y": "37.5579597",
+        "distance": 0.05,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 49,
+        "averagePrice": 4000,
+        "address": "서울특별시 중구 남창동 167-2 회현역3번출구앞",
+        "roadAddress": "서울특별시 중구 퇴계로 46-2",
+        "abbrAddress": "남창동 167-2 회현역3번출구앞",
+        "shortAddress": [
+          "서울 중구",
+          "퇴계로 46-2"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 남창동 167-2 회현역3번출구앞",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20181031_242/1540979515781LbaUw_JPEG/9QiXj4ct9bGCS0jLIk5G8OkR.jpeg.jpg",
+          "https://ldb-phinf.pstatic.net/20181031_76/1540979538145Th2ov_JPEG/yTlYieWEWGK8VQxFB3FlJuVb.jpeg.jpg",
+          "https://ldb-phinf.pstatic.net/20181031_47/1540979559796IXXwf_JPEG/b7PEsgt7FNblTcM-2k-03TXI.jpeg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 3,
+        "id": "1316796774",
+        "name": "속초집",
+        "x": "126.9786386",
+        "y": "37.5578759",
+        "distance": 0.01,
+        "categoryName": "생선회",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220076",
+            "220792",
+            "221629"
+          ]
+        ],
+        "category": [
+          "한식",
+          "생선회"
+        ],
+        "reviewCount": 291,
+        "averagePrice": 11000,
+        "address": "서울특별시 중구 회현동1가 194-30 지하",
+        "roadAddress": "서울특별시 중구 퇴계로6길 3-6",
+        "abbrAddress": "회현동1가 194-30 지하",
+        "shortAddress": [
+          "서울 중구",
+          "퇴계로6길 3-6"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [
+          "호탕한 서비스와 함께하는 행복한 식사"
+        ],
+        "cardDescription": "호탕한 서비스와 함께하는 행복한 식사",
+        "description": "계절음식 전문점입니다. 많은 이용 부탁드립니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDhfMTky/MDAxNzUxOTI5OTg0NDQ2.xNSdcQD8ZrHvDtBlwNHX3yjYxZAuJ1O1sUqzOra0O3cg.czFRZz-lrDthpXpHgSuP6TmtY5B3cVQElvA9Djlqbgcg.JPEG/20250707_172402.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDhfMjM5/MDAxNzU0NjQ4MzM1OTk4.Mv0nXAA2dibHnr9Ok9Y-Rl6lWHkebbin6IiB4pmN0RAg.5ZUVu8W6ihb796QkHK48RxoGhBzNIjoehnJWk_PXr0Ig.JPEG/3C73CDBF-6A66-499E-B156-68EFEF7CA3C0.jpeg",
+          "https://ldb-phinf.pstatic.net/20210204_300/16124175981080bKJK_JPEG/image.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjRfNDkg/MDAxNzQ1NDY1NDgwNjEx.sPkVq45UngdhXkVzo3fx0TE4Bxvtsjgx0UmjrLWJBzMg.RKsF4WfwO31PPI33LfGb4JvDFJJZgHQkRQiTFfU-gZYg.JPEG/20250422_121116.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20210204_117/16124176260352HGqP_JPEG/image.jpg",
+          "https://ldb-phinf.pstatic.net/20210204_56/1612417676648OmXu7_JPEG/image.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221629",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1316796774",
+            "bodySummary": "회현동 속초집은 회현역 3번출구 뒷편 강화군 제2장학관 건물 지하에 위치하고 있습니다. 북창동 속초생태집은 웨이팅도 많고 비좁은데 비해 회현동 속초집은 넓은 홀에서 쾌적하게 식사할",
+            "url": "https://m.blog.naver.com/gush99/223262721007",
+            "nick": "뚱땡보아빠",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDA5MDRfMjE4/MDAxNTk5MjE2MDU1NDU4.fn_OvMVizgTMRaP2doHGfLJTmgshyiNPFHS5_L_X3MEg.P0Ka5RdOA1pWUJxTWZkG0vYwC9XLNluYrpuBqpDPYDgg.JPEG.gush99/profileImage.jpg"
+          },
+          {
+            "sid": "1316796774",
+            "bodySummary": "내일 비소식이 있더라고요. 오늘 점심은 시원한 생태찌개를 먹었어요. 회현동 맛집으로 이미 알려져 있는 곳이더라고요. 남대문시장 근처이고 점심시간에 가니 주변 회사 직장인들이 많았어",
+            "url": "https://m.blog.naver.com/godinmysky/223215919522",
+            "nick": "옥물원",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAzMjNfMTkz/MDAxNjc5NTQ4NjU5Mjc2.fOiwGQVSeAG2awn2UYY91_htri4QTIzg-RYGy1LFwEwg.j44Kte_tGEWIe7S335qdg_DgrIYEtehe51oPM5fmUc4g.JPEG.godinmysky/%25EA%25BE%25B8%25EB%25AF%25B8%25EA%25B8%25B0%25ED%2581%25AC%25EA%25B8%25B0%25EB%25B3%2580%25ED%2599%2598KakaoTalk_20230323_140814530.jpg/%255B%25EA%25BE%25B8%25EB%25AF%25B8%25EA%25B8%25B0%255D%255B%25ED%2581%25AC%25EA%25B8%25B0%25EB%25B3%2580%25ED%2599%2598%255DKakaoTalk_20230323_140814530.jpg"
+          },
+          {
+            "sid": "1316796774",
+            "bodySummary": "오랜만에 SKBB다니시면서 온라인마케팅하시는 대학 동아리 형님과 자주 가는 회현역 속초집에 들렀다. 속초집 사장님도 오랜만에 보고 반가왔다. 금요일 저녁 단체손님이 세미나 마치고 ",
+            "url": "https://m.blog.naver.com/lukeshim/223019922181",
+            "nick": "FlightSim",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA0MTJfMTUx/MDAxNjE4MTg4OTYxODk5.xfssBv_fJYDvREfzx-dvMqDZUF7Qg6kBY0mm14_DWpAg.6K1qQhE7gCmxHIjB6HpgVQjKRTjLG5MATMwqgWihA5og.JPEG.lukeshim/a321_engine.jpg"
+          },
+          {
+            "sid": "1316796774",
+            "bodySummary": "오랜만에 동료와 점심을 먹으러 나갔다. 남대문시장의 육쌈냉면을 먹으러 갔는데 문이 닫혀있었다. 어제 술을 먹었던 지라 따땃한 국물이 생각이 나서 알탕을 먹자 했더니 좋다고 했다. ",
+            "url": "https://m.blog.naver.com/jongnamview117/222899312675",
+            "nick": "지그미딱조아",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjEwMDRfMjk3/MDAxNjY0ODQ1MzcwNTk1.Bl8Ey5A40SPs3Ax3hrPjac5qtbs9KDZKpPTCAVGyLa0g.fYEE3F8Q7H2Rpjxj8jiEBMq1S0p6fWKSUwZFJpLhKKsg.JPEG.holmespark/%C7%C1%B7%CE%C7%CA%C0%CC%B9%CC%C1%F6.JPG/%C7%C1%B7%CE%C7%CA%C0%CC%B9%CC%C1%F6.JPG"
+          },
+          {
+            "sid": "1316796774",
+            "bodySummary": "생태탕 찐맛집을 소개합니다. 회현역 근처에서 생태탕이 땡긴다면 여기로 가야합니다! 속초집 해산물 위주의 식당인데 메뉴마다 다 맛있고 밑반찬도 맛있습니다~! 사장님 사진이 대문짝만하",
+            "url": "https://m.blog.naver.com/cmk7622/222813687037",
+            "nick": "헬로찬",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA5MjdfMTUw/MDAxNjMyNzA1MzU4NTY3.8TSqkwJPosAzletJNr9McXXGa4kpm2WTdc4-yAyqGGog.HVnr2GfzDfO8jR91p54IVY6jFKKwkhK4ecmI3laCXkMg.PNG.cmk7622/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "id": "38522610",
+        "name": "뚜르드카페",
+        "x": "126.9784215",
+        "y": "37.5583361",
+        "distance": 0.046,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221212"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 27,
+        "averagePrice": 5000,
+        "address": "서울특별시 중구 회현동1가 194-15 티마크그랜드호텔 명동 1층",
+        "roadAddress": "서울특별시 중구 퇴계로 52",
+        "abbrAddress": "회현동1가 194-15 티마크그랜드호텔 명동 1층",
+        "shortAddress": [
+          "서울 중구",
+          "퇴계로 52"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "티마크그랜드호텔 명동의 유러피안 스타일 디저트 카페입니다.",
+        "description": "티마크그랜드호텔 명동의 유러피안 스타일 디저트 카페입니다.",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20191113_45/1573624153329kVFuc_PNG/Xs9cwi76z_6Qi5rx8r92w2k-.png",
+          "https://ldb-phinf.pstatic.net/20191220_51/1576821972483H5kxD_JPEG/-Si7th98F7ura9Cznr8Baqvq.jpg",
+          "https://ldb-phinf.pstatic.net/20191113_190/1573624174877A5aVs_JPEG/2ozIGJRsaHnz8oZgjYPaLXmm.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221212",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 5,
+        "id": "1979279745",
+        "name": "휴빈",
+        "x": "126.9780072",
+        "y": "37.5579598",
+        "distance": 0.05,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 338,
+        "averagePrice": 5000,
+        "address": "서울특별시 중구 남창동 167-2",
+        "roadAddress": "서울특별시 중구 퇴계로 46-2",
+        "abbrAddress": "남창동 167-2",
+        "shortAddress": [
+          "서울 중구",
+          "퇴계로 46-2"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 남창동 167-2",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjRfNzYg/MDAxNzQ1NDY1NTQxOTQw.MbqxLziv8rJT4_apcepsYQulSfI6yrllU_73I6QvuH8g.gU8MlGPXIc5iX0jXq5x-mk78SSvHhyhuVO9xuBu-Uwsg.JPEG/20250424_122856.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20200207_92/1581062423462MBsTD_JPEG/5go2cYYfd-32WT-yWWTtNzmG.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 6,
+        "id": "33450693",
+        "name": "여수횟집",
+        "x": "126.9786339",
+        "y": "37.5575023",
+        "distance": 0.049,
+        "categoryName": "생선회",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220076",
+            "220792",
+            "221629"
+          ]
+        ],
+        "category": [
+          "한식",
+          "생선회"
+        ],
+        "reviewCount": 310,
+        "averagePrice": 30000,
+        "address": "서울특별시 중구 회현동1가 172-1",
+        "roadAddress": "서울특별시 중구 퇴계로4길 24",
+        "abbrAddress": "회현동1가 172-1",
+        "shortAddress": [
+          "서울 중구",
+          "퇴계로4길 24"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 회현동1가 172-1",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDlfNyAg/MDAxNzQ2NzY0NDIxMjUx.LBauaMGI_E-cPWiOC3PTBPRvvIdW0IoEu2sN1N_FLh8g.fa21s-qhccwB2cwSRNMjLlk3XbCWa4m0Syme-aVatrog.JPEG/20250504_170850.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjZfMjU2/MDAxNzQ1NjYxOTQyODAy.LyhEtLTK6dK-IhIzaReP5WDfvbAl7uZewOOxaoyq3dAg.gV1BTjUiR6med78O6S62d3efQ-Cm_W4vUDaIpQZQrk8g.JPEG/20250426_185947.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTNfMTUy/MDAxNzUyMzk5NzI3NTMz.HLC3ZEt7SZenA_QB_9ISOx_yRx0hN5jB-BgfxIAggAgg.muEG0kM_wRJuoZV4HBSrrJH09P5u8dH8dCZqV4ZfEWkg.JPEG/1752399710906.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221629",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "33450693",
+            "bodySummary": "내부는 입식으로 되어 있는데 깔끔하게 되어있고 분위기가 너무너무 좋아서 편하고 쾌적하게 식사를 할 수 있었어요! 세트메뉴가 너무너무 알차지요?! 회, 해산물모듬, 조개찜, 꽁치구이",
+            "url": "https://m.blog.naver.com/hgb0365/222920079180",
+            "nick": "밍이밍이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDA4MDNfMTYy/MDAxNTk2NDU2NjgwMjgw.j3PP3_uoNNPOizLKmS8IrcRq8uDOg_VMj9tA_JA7dAMg.5rOJuuY3SalVI6VaxoHh1S2T33TgzAQE218kdA1dXvgg.JPEG.hgb0365/1565082927734.jpg"
+          },
+          {
+            "sid": "33450693",
+            "bodySummary": "안녕하세요 우우형제맘이에요 오늘은 을왕리 맛집! 여수횟집을 소개해드리겠습니다ㅎㅎ 을왕리 맛집인 여수횟집은 인천 중구 을왕동에 있는 맛집입니다~ 신선하고 깨끗한 재료만을 엄선하여 방",
+            "url": "https://m.blog.naver.com/eunding12345/222899643059",
+            "nick": "우우형제맘",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEwMTJfMjI5/MDAxNjk3MDg4OTMwNzgz.Zm0n4eKtPZrjjQMh6hfS7pZoW06xQAuy8LO9QQeEjJYg.ZUpfja3kizrdZQSlYHpXnTvodNhCQ71-P2Iws2LcjOQg.JPEG.eunding12345/profileImage.jpg"
+          },
+          {
+            "sid": "33450693",
+            "bodySummary": "비슷한 걸로 방문했던 서울역 맛집 회현동 남대문 여수 횟집_ 친한 사람들끼리 방문한거지만 회도 신선하고 사장님도 친절하셔서 나중에 회사 회식 맛집으로도 방문하면 좋을 것 같았다✨ ",
+            "url": "https://m.blog.naver.com/e__journey/222846562980",
+            "nick": "미미",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjExMTRfMjYz/MDAxNjY4MzU1MzQ5MTQx.L4-nOsjNYlPL0Wz-0B2DNrNDDjitY-dnCapUpYPcC2gg.EG-TFHKzQp47u65QpzAOmTLYP7twr--0uGN8JKgPkZ4g.PNG.miseul92/profileImage.png"
+          },
+          {
+            "sid": "33450693",
+            "bodySummary": "가게앞에 수족관에서 공급되는 신선한 해산물 물회(12,000) 이정도 가격이면 상당히 싼편 여기를 지나가면서만 봤지 들어와보긴 첨인데 되게 노포스러운 분위기가 물씬 난다 사장님과의",
+            "url": "https://m.blog.naver.com/khj60529/222780503302",
+            "nick": "식객김선생",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAyMTRfOTYg/MDAxNjc2MzY1OTUwODU5.2Ya_85XqPfZkWGQQt_dyoDVSA9s3EVATh9RtXykWKPwg.p1d6cQRjf7JKQvxeAYtIqJkg1624UO3gWzs6TLj6-SAg.PNG.khj60529/profileImage.png"
+          },
+          {
+            "sid": "33450693",
+            "bodySummary": "식당에서 먹고올 수도 있었지만 포장해왔다. 모듬회 소 50,000원 여러 가지 종류의 회를 먹고 싶어서 모듬회를 주문했다. 전체적으로 회가 싱싱하고 좋았다. 그리고 반찬 뿐만 아니",
+            "url": "https://m.blog.naver.com/vldksh890/222770087371",
+            "nick": "블루밍",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA5MTRfMjQw/MDAxNjMxNjIzNjE4NDIz.hWM3ANeFBVlxeh9iEOiTjXG6MVOqaMdOYEOTEaO2JFMg.CrD0kTxuuSLtAXOWhlQOc6pEdEOIsLblj2UVi-rqLK4g.JPEG.vldksh890/blooming.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "id": "20488420",
+        "name": "두마리잘나가는파닭",
+        "x": "126.9784715",
+        "y": "37.5580481",
+        "distance": 0.015,
+        "categoryName": "치킨,닭강정",
+        "categoryPath": [
+          [
+            "220036",
+            "220049",
+            "220518"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "치킨,닭강정"
+        ],
+        "reviewCount": 40,
+        "averagePrice": 0,
+        "address": "서울특별시 중구 회현동1가 180-1 1층",
+        "roadAddress": "",
+        "abbrAddress": null,
+        "shortAddress": null,
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 회현동1가 180-1 1층",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220518",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

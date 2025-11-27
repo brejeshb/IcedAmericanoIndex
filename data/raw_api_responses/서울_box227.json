@@ -1,0 +1,90 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 1,
+      "count": 1,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.97459027882879,
+          "minY": 37.5674009009009,
+          "maxX": 126.97572685255253,
+          "maxY": 37.5683018018018
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.97515856569066;37.56785135135135",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1871719348",
+        "name": "아티클 광화문",
+        "x": "126.9751842",
+        "y": "37.5679682",
+        "distance": 0.013,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 84,
+        "averagePrice": 5000,
+        "address": "서울특별시 중구 정동 1-16 조선일보사 미술관 1층",
+        "roadAddress": "서울특별시 중구 세종대로21길 33",
+        "abbrAddress": "정동 1-16 조선일보사 미술관 1층",
+        "shortAddress": [
+          "서울 중구",
+          "세종대로21길 33"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 정동 1-16 조선일보사 미술관 1층",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20230815_165/1692045932292LV6kv_PNG/Untitled-2-01.png",
+          "https://ldb-phinf.pstatic.net/20230701_134/1688193571160lMmei_JPEG/20230701_105455.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

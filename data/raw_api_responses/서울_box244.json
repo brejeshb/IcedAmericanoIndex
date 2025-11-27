@@ -1,0 +1,776 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 8,
+      "count": 8,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.97118055765756,
+          "minY": 37.5683018018018,
+          "maxX": 126.9723171313813,
+          "maxY": 37.569202702702704
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.97174884451942;37.56875225225225",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1203199583",
+        "name": "ACR 알레그리아 덕수궁 디팰리스점",
+        "x": "126.9721561",
+        "y": "37.5688577",
+        "distance": 0.038,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221212"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 1003,
+        "averagePrice": 5000,
+        "address": "서울특별시 종로구 신문로2가 171 덕수궁 디팰리스 1층",
+        "roadAddress": "서울특별시 종로구 새문안로2길 10",
+        "abbrAddress": "신문로2가 171 덕수궁 디팰리스 1층",
+        "shortAddress": [
+          "서울 종로구",
+          "새문안로2길 10"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [
+          "디카페인으로도 즐기는 완벽한 한모금"
+        ],
+        "cardDescription": "디카페인으로도 즐기는 완벽한 한모금",
+        "description": "Specialty Coffee Bar, since 2011 2011년에 설립된 스페셜티 커피 로스팅기업, 알레그리아 커피로스터스의 직영 커피 바입니다. 전문 바리스타의 손으로 만들어진 높은 수준의 커피를 즐기실 수 있습니 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTNfMjEy/MDAxNzU3NzcxMTI5OTk1.eX0tY8aEWq3ZVrXuJ76qUcnx5nbBtqaliB4GlcgH22Yg.L8f_pUK4HNLPxYI7TwFTeRJmI7591O3re0L7neeBLO4g.JPEG/20250913_181629.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTFfMzgg/MDAxNzUyMjIwMzU1NDQ2.fngEmlxTiM3wUagVu8dX6UzyihM6cT6TMYZZ14UUvJAg.fjuSwJ1iuGnF4ArYZoMXoiHRjIBM4s-F3gS3xJb7Ka4g.JPEG/C2A966A5-61F1-4521-93F1-3D3588CD96BA.jpeg",
+          "https://ldb-phinf.pstatic.net/20250929_24/175913081586347DYt_JPEG/%B4%EB%C1%F6_2.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjVfMTU4/MDAxNzUzNDA2OTY5MDk0.yhtBmglNMFi977u4reUrlmRgr7KLv9uf-vIkG3R1cVsg.fSzVLCBwiin2DGVZPnSjaobv-RKad_6g18bJo12KJNMg.JPEG/IMG_0923.jpeg",
+          "https://ldb-phinf.pstatic.net/20250306_232/1741267568303SE08X_JPEG/P20220404_124453000_AEB47591-6C9A-4BDA-BB45-0EEEA8E6E666.JPG",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTVfMTIw/MDAxNzUyNTczMDA3NjA1.I1BFfISXn2nIgQ-XB6Zvyreq_v18dGb_t7A7xyJzp2og.FyDQIiMbTO92VVXNvvbUAcGwgA2i3z2KUDTx-Rkvk7sg.JPEG/2C4C6799-64B4-414F-BE0A-AADD41B8AF53.jpeg",
+          "https://ldb-phinf.pstatic.net/20250306_280/1741267568320Oogu2_JPEG/P20220404_123446000_37227782-947C-4F0B-93DE-2CD146CD9329.JPG",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDZfMjgz/MDAxNzQ2NTIwMDY3ODE5.RHXaPDEON1pEEEEgqFdU-eGHZbLBzYcShgfLzZnCFzAg.BD0wpsJc7B-_A6vvMSg47mWsOPK0Bv8bGTVy4Y4GdXkg.JPEG/20250329_145315.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTlfMjUx/MDAxNzYwODM3MDQ1MjAy.GXlEySbRnoDDpUZcUYP7nZtKYJNdJcJDSCLLKd307mEg.aaWA3GQIQCV2PRpOQ3xOkMtpxL_lzm-Wkp8UMx5321kg.JPEG/75113.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTNfMjY3/MDAxNzQ3MTAwOTMzMTUy.tYEreOmEoCrvINpYB0wJ6TOVbHcI1e9WTh2s5nrJS2Ag.Zp06gDsw0p4cwtKN19e6rwQH53kBBqIM12fYdV8y7AYg.JPEG/20250513_103352.heic.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221212",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1203199583",
+            "bodySummary": "여기 카페가 원두가 진짜 맛있어요 나와서 오른쪽으로 몇걸음만 걸으면 신문로 공원이 있어요 알레그리아 카페에서 커피 한잔 사들고 나와서 저 벤치에 앉아서 멍하니 커피 마시는 것도 좋",
+            "url": "https://m.blog.naver.com/jessymoa/223362785901",
+            "nick": "제시모아",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA1MDZfMTkw/MDAxNjgzMzcxODM1MDE0.cTkuP6zMRgE-AjfD5sOBDH3vaEbKcJoUjSy16b9u8Twg.Porr0SlWEqeboJ0sl1GdyzYgfHuPmwIccfnGuK2fR8sg.JPEG.hjy941015/stock-1863880_960_720.jpg/stock-1863880_960_720.jpg"
+          },
+          {
+            "sid": "1203199583",
+            "bodySummary": "알레그리아 덕수궁 디팰리스점 - 주소: 서울 종로구 새문안로2길 10 덕수궁 디팰리스 1층 (광화문 6번 출구) - 연락처: 02-737-6202 - 영업시간: 월~금 8:00~2",
+            "url": "https://m.blog.naver.com/yamoojin_chamsae/223349615157",
+            "nick": "야무진 참새",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMDZfMjA2/MDAxNzAxODY1MTY4ODY3.v7XbWQez5RUKWXJ7-0sc2DVV2D_yJ80KIrwQfrtIXMgg.RR3VRsmeOoGtf4R8tawgV-69sRvKGwnqSQ4LBQPHW_cg.JPEG.sunhee_1994/KakaoTalk_20231206_211603974.jpg/KakaoTalk_20231206_211603974.jpg"
+          },
+          {
+            "sid": "1203199583",
+            "bodySummary": "덕수궁/광화문 카페 알레그리아 라떼가 맛있는 로스터리 카페 안녕하세요~ 지난 주말에 덕수궁 국립현대미술관에 전시보러 갔다가 다녀온 카페를 소개해볼게요! 전시보러 가기 전에 우연히 ",
+            "url": "https://m.blog.naver.com/whwhwkdwkd/223331190305",
+            "nick": "치쵸",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTExMTlfMTQ3/MDAxNjM3Mjk5MDIyOTQ1.BiV4PB6wTLjy5iAnboaEtqDnzgCWq2q_wrazbi7IVkcg.-pBoIVV7j9_WraBdNz1HNOrwA2AP7ecdGr1iqlsW8SAg.PNG.whwhwkdwkd/profileImage.png"
+          },
+          {
+            "sid": "1203199583",
+            "bodySummary": "그리고 중요한게 주차장은 지하3층만 쓸 수 있는데 꽉차면 차단봉을 안열어줌 ㅋㅋㅋ 회차해서 어딘가로 돌아나가야함 다양한 종류의 원두를 팔고있다 나도 여기서 사다 집에서 내려먹음 ㅋ",
+            "url": "https://m.blog.naver.com/scfinal/223324142324",
+            "nick": "Greymocha",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDEwMjdfMjUg/MDAxNjAzNzg1MjUwMDU3.mD21D6BIH9uMyvZ_PD-oYNuW9dci1oA2GdQPreRKi5wg.SCEVn-kh6Owevjnw7dMF2CBUAReZr4LMmWRsiLT04Qgg.JPEG.scfinal/20190412_173659.jpg"
+          },
+          {
+            "sid": "1203199583",
+            "bodySummary": "빠넬라 원당 : 중남미 국가들에서 생산되는 정제되지 않은 원당인데 사탕수수 줄기 즙액을 끓여서 나온 원당이란다 덕수궁 디팰리스는 오피스텔인데 되게 신식 건물이고 엄청 좋더라 거의 ",
+            "url": "https://m.blog.naver.com/twlve/223306795150",
+            "nick": "눙눙",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMjNfMjE0/MDAxNzA1OTM3NDgxNjg4.9-j7htm77TUkQuk3WId-Sg_ECwk1Elssq2NxdgrdD_Yg.AVYzreCSlWFOL43SNq5e-uQ6eSiqOnmBWCAUj2ZbtN0g.JPEG.davidpoplar/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "id": "1604781847",
+        "name": "고운누리 광화문점",
+        "x": "126.9715292",
+        "y": "37.5690551",
+        "distance": 0.039,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 33,
+        "averagePrice": 0,
+        "address": "서울특별시 종로구 신문로2가 92",
+        "roadAddress": "서울특별시 종로구 새문안로 58",
+        "abbrAddress": "신문로2가 92",
+        "shortAddress": [
+          "서울 종로구",
+          "새문안로 58"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 종로구 신문로2가 92",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjJfMTAy/MDAxNzU1ODIyOTk5NjA0.GzF6RWUPUqNP7Pnbdie9LXjRpDw0h22lnxLe7l_Gg5Eg.MNqLXqnbrGVnl48j7ixezD0f218E0QmErEsjLIJdN5Ug.JPEG/20250517_130041.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 3,
+        "id": "1045215970",
+        "name": "아우어베이커리 광화문디팰리스점",
+        "x": "126.9720147",
+        "y": "37.568678",
+        "distance": 0.025,
+        "categoryName": "베이커리",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220564",
+            "1001940"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "베이커리"
+        ],
+        "reviewCount": 2937,
+        "averagePrice": 5000,
+        "address": "서울특별시 종로구 신문로2가 171 1F, 103호 아우어베이커리 광화문디팰리스점",
+        "roadAddress": "서울특별시 종로구 새문안로2길 10",
+        "abbrAddress": "신문로2가 171 1F, 103호 아우어베이커리 광화문디팰리스점",
+        "shortAddress": [
+          "서울 종로구",
+          "새문안로2길 10"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "아우어베이커리는 빵과 커피 이상의 경험을 파는 공간입니다.  더티초코, 빨미까레 등의 시그니처 메뉴와 특색 있는 공간은 브랜드의 대표 아이덴티티로 고객의 일상 속 꾸준한 사랑을 받고 있",
+        "description": "아우어베이커리는 빵과 커피 이상의 경험을 파는 공간입니다.  더티초코, 빨미까레 등의 시그니처 메뉴와 특색 있는 공간은 브랜드의 대표 아이덴티티로 고객의 일상 속 꾸준한 사랑을 받고 있",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDlfMTcw/MDAxNzU3NDAwMDU4MjA0.ZnwUxubZCNEcSN7O9vgSRBvedu56usjpJjzjGXkSRbUg.RTuf9EKSCOI00FelKYpS0PusSv4tJ-0nreUXWXXO8oYg.JPEG/4ECF8387-EFA5-4549-8EA7-5FC36E234D06.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjNfNjYg/MDAxNzUwNjgzMDc1NjUz.KafZehUSyERLFvbKCXhL1V_zzDqWpCoNJ063O5huJtUg.erb_OtTw8aEVQ2ZvpcB936WuztdZXJtChqZWTEqM8okg.JPEG/B4685451-8944-422F-AC5D-7138A3E7BA2C.jpeg",
+          "https://ldb-phinf.pstatic.net/20201006_52/1601994424312NuMy7_JPEG/dqaXWqBqwtY6MHKwq8zZdxzC.jpeg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTVfNjcg/MDAxNzU1MjM3MjIzODg5.2oywZnOHe00Ss_3NZpGhndrUHH3CTGdd6-maHz6c8zkg.qnDnIoJdrIKuPawKemVz32t2WVCGTH3wm4-aULNhhAwg.JPEG/20250815_134104.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20201006_165/1601994424381ReYJQ_JPEG/Mdau9Fhmj7pg0R1rxK9RdHzk.jpeg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDhfMjc4/MDAxNzQ5MzczMDkxOTcy.kvbIFAIMSUJJ-h5pzxpSy9RlCM7yU7aG1gXzSB8DkMEg.HtpyqJv-RcjjbN4k6uwmAZ3WDgjtu7xNZJu29NP3_ZIg.JPEG/2F3B5B5F-4975-44CB-BFD4-FCE85D188C2C.jpeg",
+          "https://ldb-phinf.pstatic.net/20201006_237/1601994424409DKjfI_JPEG/XCh28ivxwR9G6fsP0e8lD7DM.jpeg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTZfMjA2/MDAxNzYwNTkxODk3MDc0.8sNdqb4LQnbfGNg9ARrIUUHL4DsATIMV2udtoh-c0tQg.Yjt0-LD0rp8N2ugQY68Tcb9d2vem6oZAJZa_9f4qrwwg.JPEG/3A5D95C2-429F-4EF7-83AF-BB45495ED618.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjdfNzYg/MDAxNzQ1NjgyMTk0NDQ2.2lPkZw0jDgDjOfEoLPjXnTpfnU1lVhZzf-igiKVB9SQg.K05125KoqmZ03rT2BKxSpk0Uc74-JrHw_wKfYpdrs7Eg.JPEG/7A1F1232-22DC-41C8-AD1D-4BC14A854633.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MDhfMzgg/MDAxNzQ0MDg1ODQ5NjQz.3O8i-wEQva2KpSGWP9Hipnf57Zkcpa39HA61U1hjhR4g.P0U1p2jbykYtdkOZTHoFXQda2mbvg4nwBW2nnLtymVIg.JPEG/6F873FD5-1524-41D8-AB1A-FA69E22086A0.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1001940",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1045215970",
+            "bodySummary": "아우어베이커리 광화문디팰리스점 서울특별시 종로구 새문안로2길 10 주차 2시간 무료 아우어베이커리 아우어베이커리 광화문 아우어베이커리는 광화문에 있는 카페에요. 잠시 시간 떼우러 ",
+            "url": "https://m.blog.naver.com/0nthec/223389951799",
+            "nick": "온더씨",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA2MjZfMTkw/MDAxNjg3Nzc1MjM2MTYy.Tth-RmfAwXrOnJ4vLG5R0FUwcZ2XhdYnpRRQIWuNfC4g.y2yCAeHEpSnpYumzFw9m7S9z7UUAL-cjW0AdVDzLOr0g.JPEG.alduddlmm/profileImage.jpg"
+          },
+          {
+            "sid": "1045215970",
+            "bodySummary": "호주에서의 인연을 한국에서 만나 함께 방문한 베이커리카페 아우어베이커리 광화문디팰리스점 서울 종로구 새문안로2길 10 1F, 103호 ☞ 영업시간 매일 08:00-19:30 ☞ 주",
+            "url": "https://m.blog.naver.com/yoohj713/223378552743",
+            "nick": "먹보",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDAzMjVfMjIg/MDAxNTg1MDk3ODg5NDAx.i50Tb0EG1K2l934Sc6Cb2GZeYDSarJ6hjtFTMWX-CVIg.J_B5wVkAe3uorr95PCL4x8sHsb0na4JA8cMOcOptTVwg.PNG.yoohj713/profileImage.png"
+          },
+          {
+            "sid": "1045215970",
+            "bodySummary": "카야크루아상(5,200원) 누텔라 바나나(5,400원) 소세지 페스츄리(4,900원) 갈릭 올리브(4,800원) 광화문 카페 아우어베이커리 광화문디팰리스점 얼그레이 까눌레(3,50",
+            "url": "https://m.blog.naver.com/mook1e/223357691367",
+            "nick": "요술쟁2",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA4MzFfMjYw/MDAxNjYxOTUwMDgzNjg3.7NEEEx4Fg_lvUQdatUZVP9-m3r_ZhBvj-zpVg0HDy_Yg.D98wRzNsQDHihMgRq9qFU5QGgJPnqA9k0ZG3Z-IwpsIg.PNG.mook1e/profileImage.png"
+          },
+          {
+            "sid": "1045215970",
+            "bodySummary": "리니가 고른 카야 크루아상. 생각보다 달지 않고 위에 뿌려져있는 코코넛 가루도 특이하다. 커피랑 궁합도 좋다. 까눌레는 3개쯤 살 것을.. 작고 소중하다. 따뜻한 아메리카노 마시면",
+            "url": "https://m.blog.naver.com/yujon47/223354899368",
+            "nick": "진후",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20231118_18/yujon47_1700304513300nGth6_JPEG/profileImage.jpg"
+          },
+          {
+            "sid": "1045215970",
+            "bodySummary": "위치 위치: 서울시 종로구 새문안로2길 10 1층 외관 아우어베이커리 외관 아우어 베이커리의 외관은 힙한 곳에서 시작된 원조 베이커리 핫플답게 세련된 모습이었다. 삭막한 고층 건물",
+            "url": "https://m.blog.naver.com/newnany/223345270851",
+            "nick": "뉴나니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMzFfMTgw/MDAxNzA2NjY0MjIyMDQy.rCjJHQiOb9pzynDIg8cCrHjjg2lH1hJX2XBNTPqMkHUg.LlOatFgEyE-wXAJ7crVHbfaJIZePC2zSIQm3QVtJKPgg.PNG.newnany/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "id": "1193015244",
+        "name": "원기옥 광화문점",
+        "x": "126.9720468",
+        "y": "37.5687024",
+        "distance": 0.027,
+        "categoryName": "한정식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220056",
+            "220594"
+          ]
+        ],
+        "category": [
+          "한식",
+          "한정식"
+        ],
+        "reviewCount": 770,
+        "averagePrice": 30000,
+        "address": "서울특별시 종로구 신문로2가 171 지하1층 원기옥 광화문점",
+        "roadAddress": "서울특별시 종로구 새문안로2길 10",
+        "abbrAddress": "신문로2가 171 지하1층 원기옥 광화문점",
+        "shortAddress": [
+          "서울 종로구",
+          "새문안로2길 10"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [
+          "친절한 서비스로 완성되는 한식의 정수"
+        ],
+        "cardDescription": "친절한 서비스로 완성되는 한식의 정수",
+        "description": "보약 안 드셔도 됩니다. 원기회복은 원기옥에서!  원기옥을 모아 원기옥 광화문점이 디팰리스 지하 1층에 새로 오픈했습니다!  몸보신 음식 하면 어떤 음식이 가장 먼저 떠오르시나요? 삼계탕?  ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjhfMjk5/MDAxNzUzNjkyODA4ODMy.gmEnnCQ0azoWY0-lxpTfwbBBiUeiOgfrnYruZmnynMwg.xtEG81a69Vt7rA6-kgi9beMp0icmvg7fuaYcEpVDIzog.JPEG/5B47EFAB-6A2F-4E9B-844D-DAC9BBA15DEB.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDlfMjIz/MDAxNzU0NzMxODM4MzU3.nM5CJbgJjwuhzSjlCBQr67qOYY6T6tOPrVPgstOYvj0g.u5cvuZfBcNBaA7FtCivBjYrbmfE8jJNRIvb72CLlgYUg.JPEG/20250809_183025.jpg",
+          "https://ldb-phinf.pstatic.net/20250701_208/175134904597931GUc_JPEG/%B8%C3%B1%E8_%C2%F7%B8%B2_%C4%C1%BC%C1.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDRfMTc5/MDAxNzU2OTU2NDA5OTgw.N4lX_kN-_8T2CUDXCv8hNwp5tUnF3YqECF80Y_3doZwg.UxlghwWD5MhIcB-atyPRmS1ZSrFjA4__OQrovj8Fp1Ug.JPEG/20250828_174747.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250701_21/1751349146937krz6n_JPEG/%C0%B0%BA%F1%B0%A1%B7%CE.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjdfMTE5/MDAxNzQ4MzE4ODYwNzQ3.hSPK0zUdSK6KQos1gmohjwBIxwD1U_ZhhucpylJp7S8g.yFTlVQAS5VvKldI2XSGp8fjZymalW50P3M8rDSzxM0Mg.JPEG/IMG_9477.jpeg",
+          "https://ldb-phinf.pstatic.net/20241025_300/1729845986165te7sy_JPEG/%BF%F8%B1%E2%BF%C1_%C0%CC%B9%CC%C1%F6_%BB%E7%C1%F8.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDZfNjEg/MDAxNzQ2NTM5NTc1MjMw.yUTf3ZmOY2MeId83gJLnh-V8wJ-4WT9TtVXVd0zzIwEg.60K3zne9zhC36esahvRZ11FMFuB0WeMHbUVi36qXzdMg.JPEG/A431B7F8-B80E-4287-8B8E-58E48E74373C.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTJfNjkg/MDAxNzU0OTUzMTAzMDM3.aui6Xcp-cvdM-lZIqNGVakuz60gdBN8_YoU9-pg_kE8g.1sVUJ9mgyp80DAWoKV8_PlvEF5FevIY-oixOVLGJQN0g.JPEG/626674CB-DFBD-4FCA-8656-082974ACEFC2.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjBfOTQg/MDAxNzQ1MTQ2MTY3NjMw.pLMGAtIYYHGHfJr60X0eoarAa8s-ea0HRfgVfYBKSWwg.mCIERtCOyTCb5Kb4ff3ALQcDgPYjM0mlp9Ivqaun74Ag.JPEG/EBF3E2A3-0A35-4CA0-9314-468D196F3561.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220594",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 5,
+        "id": "1451733906",
+        "name": "모담다이닝 광화문점",
+        "x": "126.9720468",
+        "y": "37.5687024",
+        "distance": 0.027,
+        "categoryName": "한정식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220056",
+            "220594"
+          ]
+        ],
+        "category": [
+          "한식",
+          "한정식"
+        ],
+        "reviewCount": 2075,
+        "averagePrice": 40000,
+        "address": "서울특별시 종로구 신문로2가 171 덕수궁디팰리스 지하 1층 B102호, B103호",
+        "roadAddress": "서울특별시 종로구 새문안로2길 10",
+        "abbrAddress": "신문로2가 171 덕수궁디팰리스 지하 1층 B102호, B103호",
+        "shortAddress": [
+          "서울 종로구",
+          "새문안로2길 10"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [
+          "프라이빗 룸에서 즐기는 고급 한정식"
+        ],
+        "cardDescription": "프라이빗 룸에서 즐기는 고급 한정식",
+        "description": "룸 사용시간은 1시간30분으로 양해 부탁드립니다. 디팰리스건물 지하3층 주차시 2시간 무료입니다. 주차공간이 대체로 혼잡합니다. 만차일 경우 콘코디언빌딩 지하주차장을 이용해 주십시오. ( ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTJfMTYz/MDAxNzYwMjc0ODg2MzQ3.Tz8R2NBX_mdxr_Eiatq7fnB5apnYFePW2xUTry9P1HYg.oXsxgZifC4dphVev97i6_t9HtG0XD1Su05xFcqZi9-gg.JPEG/BA2F71B9-B237-41D1-A30D-3DDE1CEB2615.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDFfMjIz/MDAxNzUzOTk3NDAyMDMz.tjFS7X0olfUZuAdDUY_T5Ke2AeJIeiO8qnsuvEyiG5Ug.L3SpflKH8Tm6TrfJrnme6nCIvk_BwVc42-wOyWyMs_8g.JPEG/A4C83ACE-E735-4AC5-8AF9-410C37A4AD26.jpeg",
+          "https://ldb-phinf.pstatic.net/20211017_232/16344597314684S4yd_JPEG/_2PhOUDL3XRj2MK4dU_o2dRS.jpeg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MThfOTgg/MDAxNzQ3NDk0MjI5Mjk2.OTHNvAqHhblitW625Mc8Wt4-0PDE4WMgHz_BVLbjd0Ug.rSlmPY8o88GihfXHG5JxGvWB2BYzj-fIls7CRXg4ybsg.JPEG/07BFFCA7-AC74-42CB-9CD9-D8A657043475.jpeg",
+          "https://ldb-phinf.pstatic.net/20211017_174/1634459734392HFxo1_JPEG/gvKX7ycHwvj3kCY1GOs2cQ2m.jpeg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDNfMjc4/MDAxNzQ2MjQzOTAwMDYw.sZWEfAqhzF26JeQRU1VcYvoT31xbPbruyuxxvZQqCKQg.4kzpNg9XljFtPcOvRfeECRWKrdAfUUSRcX94XuC-oLAg.JPEG/20250501_132015.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20211017_87/1634459740779jLTiP_JPEG/bNhvkL-pGbSKCntyJBgogUo9.jpeg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjlfMTQ2/MDAxNzUzNzkwOTY2MzI4.QDOUOlzbKJFk740_S9LBjIzIkUP10Is8S6YTyQku6O4g.2D_ZpBXV220keUutlFL-PPASdtAgmkOmcHG1r4MsjI4g.JPEG/602480A8-E0A4-464E-AB1A-19768EFE7E16.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDlfMTY2/MDAxNzQ2Nzg4NTExMzc2.92y2j0Hlq2pUuBnhF0FocNITs_nGSerQB5DpiS6jmZkg.0RMPb-ygASikWyJrc_F9EY2z1h-4YLYSI6Qr8CA7zqUg.JPEG/2AAD1351-A586-4397-9FA6-0F76686EF6CA.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjlfMTU3/MDAxNzUzNzY4MTE5NDg5.XPLK4emTfCK7lO95-qvTdAshX3PvQUc_d8X56Aa7WzAg.RmnL6-rPHUx7ivG3M6vj39IBmI6nKBpbNYaKAbQ-nmAg.JPEG/IMG_0514.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220594",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.88",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "1451733906",
+            "bodySummary": "이곳은 원래 상견례를 하려고 알아봤던 공간이라 한 번은 방문해 보고 싶었는데 이번에 기회가 되어 다녀왔네요. #내돈내산 #모담다이닝광화문점 모담 다이닝은 광화문역 6번 출구 도보 ",
+            "url": "https://m.blog.naver.com/memento___mori/223400495737",
+            "nick": "뽀부기",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMTlfNTEg/MDAxNzEwODU3NTMzOTE1.JQW3Rwo5mzmgR6Ed4az5kVrsBgK753f5bOnPnTIThsMg.fHBcbw_UI1r7km7CUbDMDAsJKb039Ln7IyYzIL3WAT8g.PNG/profileImage.png"
+          },
+          {
+            "sid": "1451733906",
+            "bodySummary": "이번이 3번째 방문입니다. 와이프랑 둘이서만 가보고 그 후에 제 부모님 모시고도 가고 이번엔 딸랑구, 장인장모님과 함께 갔는데 점점 방문인원수가 늘어나는군요. 이제 애기도 함께 가",
+            "url": "https://m.blog.naver.com/smsmoon1/223392608046",
+            "nick": "OMDR",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTExMjFfNjAg/MDAxNTc0MzI0MTAwMTcx.CZcLQCDim2bCBL_0wPAgcRdZ5-vK3h4yft7PdKWWYnQg.WIdl1gCvTKVFlNWSGoeg5xxvoIxskpt30LJHODSQhRgg.JPEG.smsmoon1/profileImage.jpg"
+          },
+          {
+            "sid": "1451733906",
+            "bodySummary": "벌써 2주년이라니 시간 너~~어무 빠르쥬? 이러다 20주년 30주년 되나봄ㅠㅋㅋㅋㅋ 암턴 모담다이닝 솔직후기 고고 모담다이닝 광화문점 월~일요일 11:00~22:00 평일 브레이크",
+            "url": "https://m.blog.naver.com/sosohaze/223377919984",
+            "nick": "낸시",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA4MDdfMjk2/MDAxNjkxMzc1NzcwNzA1.N4Vf1gv7GAzs6L4ll3Hn86jydnkEO7LP3nYQN4tg_Ycg.-cV16ysD9nnySAidl52ESNghfjYInfyeEJxaYivFYnUg.JPEG.nomujy/profileImage.jpg"
+          },
+          {
+            "sid": "1451733906",
+            "bodySummary": "안녕하세요. 오늘은 근처에서 일하는 지인이랑 오랜만에 만나서 같이 점심식사 한 곳 소개할게요 덕수궁 디팰리스 건물에 위치해 있어요 이 건물 인근에 좋은 회사들이 많아서 그런지 건물",
+            "url": "https://m.blog.naver.com/sychone95/223375965396",
+            "nick": "엘리",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMTNfNjUg/MDAxNjk5ODUxNDQ2NjMy.JgdGcz71KRdpUJs8YWs_RHbEPkpNHUxjgmQOIDL-jJYg.T97RpbMYn7JE2Aa4vlNIM3QJ9Oo1e97ficzRzSXsby0g.PNG.sychone95/profileImage.png"
+          },
+          {
+            "sid": "1451733906",
+            "bodySummary": "청와대갔다가 가까운곳에 모담다이닝 이 있어서 이곳으로 예약했습니다. 청와대에서 차량으로 10분 정도. 덕수궁디팰리스 지하1층에 있어요. 외관이 굉장히 모던하고 깔끔하고 맘에 들었어",
+            "url": "https://m.blog.naver.com/rizuana/223371742318",
+            "nick": "Rizuana",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEwMDNfOTEg/MDAxNjk2MzM0MzA5Mjky.mrEoxUoqAv8yDbhZvtfVInCKLZrG-sLe41WQjAFYVx0g.EDyQXaC4WVQch4JHMOwHB5D7z7FnWvwGSXg4k865NMog.JPEG.kao6371/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "id": "1204654442",
+        "name": "한일관 서울라이트 디팰리스점",
+        "x": "126.9720147",
+        "y": "37.568678",
+        "distance": 0.025,
+        "categoryName": "한정식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220056",
+            "230475"
+          ]
+        ],
+        "category": [
+          "한식",
+          "한정식"
+        ],
+        "reviewCount": 518,
+        "averagePrice": 10000,
+        "address": "서울특별시 종로구 신문로2가 171 디팰리스 B108호",
+        "roadAddress": "서울특별시 종로구 새문안로2길 10",
+        "abbrAddress": "신문로2가 171 디팰리스 B108호",
+        "shortAddress": [
+          "서울 종로구",
+          "새문안로2길 10"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [],
+        "cardDescription": "11시 ~ 14시 30분까지 불고기, 제육, 주꾸미덮밥, 갈비탕 등 반상 메뉴로 음식이 정갈하고 맛있어 직장인들께 인기가 많습니다.  16시 30분 이후부터는 Dinner Only 메뉴도 판매하여 술과 함께 소고기  ",
+        "description": "11시 ~ 14시 30분까지 불고기, 제육, 주꾸미덮밥, 갈비탕 등 반상 메뉴로 음식이 정갈하고 맛있어 직장인들께 인기가 많습니다.  16시 30분 이후부터는 Dinner Only 메뉴도 판매하여 술과 함께 소고기  ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjZfMTM3/MDAxNzQ4MjI3MDQwMDA5.IYMXejDlyOFOgznVj5fnJ6SH8QcaOQlrmB7CJl68FWgg.eUKjRMeqsy6s0NU-q075OqHCiaudXztRdzEgNq1UO9sg.JPEG/20250516_125211.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTZfOSAg/MDAxNzYwNTg0MzQxMjk2.3agfUWiDFzvGzIWq7LWzCkEe4NrdphyGolSnOpwlcHog._C4qYtCVhVnqQcjZNnegaj3S5bb7BRQnBd2LyRbm7IEg.JPEG/20251015_111932.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20221123_184/1669167273324aJ1ph_JPEG/%C7%D1%C0%CF%B0%FC_%BC%AD%BF%EF_%B6%F3%C0%CC%C6%AE_%B7%CE%B0%ED4x.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDZfMjc1/MDAxNzQ5MjA1MjcyODAw.vQPbQWqDwoyLG4FqHdBDsCj5ThYjmhznl25pfyv7lSYg.gPMf-Z9w2xNGmi251iGRvo7gcyXe57t4WaE-8LWAHckg.JPEG/20250606_133005.heic.jpg",
+          "https://ldb-phinf.pstatic.net/20221104_157/16675542528340GF9l_JPEG/Untitled_Panorama-1.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDZfMzQg/MDAxNzU0NDg0OTczMjgz.pJHdHvBlyGLzAGJ2_wogGQrmBmsXoxadSM4FE8WtoAwg.uga9-_vY8UAbxE15eTbVOoQmqdgnECw12fyxoZn5dqUg.JPEG/1000200196.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20221104_27/1667554280797wBAje_JPEG/7T1A1771-2.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTVfNTkg/MDAxNzQ5OTg2MDc0Nzk0.U3uZ95s0wHTZuPrDBHy6cHWnnLX5rR0AvyBu27L3b5wg.bUNlH-4qIKGB4MMVp1fzNwIyf45rW0v3qRC51kW6W5Qg.JPEG/3ADB86BA-B11E-45EE-BD0B-14F60D632A20.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTJfOCAg/MDAxNzU3NjYwMjkwNDQ3.qOTCDOJM50r4bPH8D_K0JT6NyXxlGuPmCHN9NEGoW5Ig.KME5hdz8fFZcRSD9uL6b-k00-pSmVSpNFbPC5qO7fN8g.JPEG/F5A0B89E-1DA9-4A49-B961-20193435503F.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTdfMTc3/MDAxNzU4MDg2MzE1Njky.9rMfYf1CG1q2SMiiWG0iDSszE3Nj2ENX9faJ9vvnaN8g.eXq3DUWhmiZtyBjcfA1DF7MjMBPixn9nr-BpfloHXbwg.JPEG/20250917_121829.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "230475",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.41",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "1204654442",
+            "bodySummary": "만족스러운 한식 한끼가 먹고 싶다면, 한일관 회사 뒤편에 있는 디팰리스에 한식이 땡길 때면 가는 한일관이라는 곳에서 점심 먹고 왔어요. 차돌된장찌개가 진짜 기가 막히고 사이드로 나",
+            "url": "https://m.blog.naver.com/jessymoa/223362700763",
+            "nick": "제시모아",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA1MDZfMTkw/MDAxNjgzMzcxODM1MDE0.cTkuP6zMRgE-AjfD5sOBDH3vaEbKcJoUjSy16b9u8Twg.Porr0SlWEqeboJ0sl1GdyzYgfHuPmwIccfnGuK2fR8sg.JPEG.hjy941015/stock-1863880_960_720.jpg/stock-1863880_960_720.jpg"
+          },
+          {
+            "sid": "1204654442",
+            "bodySummary": "#내돈내산 #솔직후기 * 방문일: (수) 오늘 포스팅할 점심맛집은 바로 한일관 서울라이트 디팰리스점 처음 생겼을 때 여기 불고기도 맛있고 특히 차돌된장찌개가 너무 맛있어서 자주 갔",
+            "url": "https://m.blog.naver.com/horangee_48/223351269125",
+            "nick": "호랑이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjEwMDlfOTcg/MDAxNjY1MzAxODU5MjUw.rhFfKCaIbTu65JtirV4JHm_tVRN3QtX6vVxt1n61Oi8g.sgOQhva09Wu7MBcDR7-f9DiIVxynNtPleN3ejT3ZgCEg.PNG.horangee_48/profileImage.png"
+          },
+          {
+            "sid": "1204654442",
+            "bodySummary": "광화문 주상복합 오피스텔? 디팰리스 지하에 위치한 한일관 서울라이트 디팰리스점이에용 넓고 쾌적하게 빠져있는 식사 공간 대기하면서 볼 수 있게 메뉴판이 입구에 배치되어 있습니당 점심",
+            "url": "https://m.blog.naver.com/moongchiz/223300095884",
+            "nick": "뭉치쓰",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAxMTJfMjE0/MDAxNjczNTA5NzYwMzA1.OtEYgluaTeLuSWk-52GG0UD9NbPgUzTtY7y3msgMkYEg.Uk0kJq-izW5gUx5yfzphuyr8qhApg2eiI2Y9hnhXEY0g.JPEG.77wjddmstkd/profileImage.jpg"
+          },
+          {
+            "sid": "1204654442",
+            "bodySummary": "재방문 의사: O 한식 체인점 한일관. 그 중 한일관 서울라이트 디팰리스점을 방문했는데 가게도 넓고 테이블간 간격도 넓은 편이다. 음식이 맛있기도 했지만 음식이 굉장히 정갈하고 깔",
+            "url": "https://m.blog.naver.com/cherish33333/223222271271",
+            "nick": "잎새달",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA2MjFfMTk1/MDAxNjg3MzUwMTk3MTMy.Gk5SZckkmg3SNZCfsgSFZ629q8ykG5K2ocpj1hgWdHIg.0VD6YBU1_RPB9y2PfSCpFFo4g1qmNx6vsui8oBuET4Qg.JPEG.cherish33333/profileImage.jpg"
+          },
+          {
+            "sid": "1204654442",
+            "bodySummary": "점심시간, 덕수궁 디팰리스 지하에 있는 한일관 서울라이트를 찾았다. 한일관 한정식을 가볍게 반상으로 맛볼 수 있는 곳이다. 이곳의 대표 메뉴는 한일관의 시그니처인 '불고기 반상(1",
+            "url": "https://m.blog.naver.com/sunworm/223203270429",
+            "nick": "분홍발",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/data18/2007/5/27/28/sum170-sunworm.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "id": "1232352834",
+        "name": "리김밥 덕수궁디팰리스타워점",
+        "x": "126.9720468",
+        "y": "37.5687024",
+        "distance": 0.027,
+        "categoryName": "분식",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "230765"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "분식"
+        ],
+        "reviewCount": 360,
+        "averagePrice": 5000,
+        "address": "서울특별시 종로구 신문로2가 171 덕수궁디팰리스 B106 (서울특별시 종로구 171 덕수궁디팰리스 B106)",
+        "roadAddress": "서울특별시 종로구 새문안로2길 10",
+        "abbrAddress": "신문로2가 171 덕수궁디팰리스 B106 (서울특별시 종로구 171 덕수궁디팰리스 B106)",
+        "shortAddress": [
+          "서울 종로구",
+          "새문안로2길 10"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "항상 깨끗하고 안전한 음식을 고객님께 제공하겠습니다 많은 사랑 부탁 드립니다 ^^",
+        "description": "항상 깨끗하고 안전한 음식을 고객님께 제공하겠습니다 많은 사랑 부탁 드립니다 ^^",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTlfMTgw/MDAxNzU1NjA2OTI4OTM3.t3sbMIgQwBmq1UG2Lb1SeTXy2JHyjxAoJ6U6Ev1s-l8g.0yiJKm6RlY1HKfh7-JzH8L9eZO9EkjG1_s_z84St2qUg.JPEG/1000200953.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MzBfMjE2/MDAxNzU2NTU5ODAyNjM4.UNQ3wED2YROR9vlVMEd8mqeIHXeFLya93WKmJSOVrngg.m8P08rsTs2ixj0D6fsAW5Y1Nosxx2EH3GYADShbz9Ksg.JPEG/IMG_0539.jpeg",
+          "https://naverbooking-phinf.pstatic.net/20240418_182/1713427316975ltC9a_JPEG/IMG_3845.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDVfMTY0/MDAxNzU0MzkxMDE2NDgx.F1G2r-2j2hw7orryZzpcDwUXADFUBAuOZr58LQBB8REg.clEu68CkG-6aUqqofsDJAphuoBuI0hE22NecsnfDcJQg.JPEG/1000200089.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDJfNDIg/MDAxNzU0MTIzMjM3ODk2._k4nROjcLIJkx-mtgPF452uTaKbSuwPIPI6Kkxd3oiIg.8-xPEoTqNqJdPfNx6TPl88M8a9InnpBugZiMzm-zwQ8g.JPEG/20250612_200228.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDFfMjQ2/MDAxNzQ2MDk3ODkyNjA3.mzCWCIiEbYOfiNGg14hDq4WKLm-Rj8jt-ZkkomxElpUg.vo7qFrkMYswc0UaMoSo3sPCW8LhKOQydoKDG3__OO00g.JPEG/ED8896B9-6896-4778-A018-8BCAAD9AEC36.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTlfMjI4/MDAxNzUwMzA4MTY5OTMx.hZejm65jiKL7s0x3DjlM9RFMcjf14c5Ha6lWoKOopZog.-Qvq8_bZSg8WX0ZKuoFy6KYKs-iWEMf5yT_to6BCOegg.JPEG/IMG_4867.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjVfNCAg/MDAxNzU2MTE2MDcxMjkw.m9R5Q_xQyEk7SqwcciTknlqNOrW88i9_0IrUGx9eKJ0g.P4HdTbH4ik8ucB5cwpJSBqzmGDcuXTRNsAd7juDQ_gkg.JPEG/1680A088-22D9-4341-9237-E4A44F0D8819.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTRfMTE0/MDAxNzQ0NjIxMjIzMDg1.G2eKWit6N9-MaMEU7vfW-9WeyjrepK005HQ59AbI_wAg.zTKPf6PnkrkDvy9c-Qsx4noq-6Mm8FdwF2CR0QbJfRgg.JPEG/98D58D35-D246-4620-AE35-9168DC62734F.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "230765",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1232352834",
+            "bodySummary": "디팰리스 지하의 리김밥 리뷰해봅니다 리김밥 위치 서울 종로구 새문안로2길 10 덕수궁디팰리스 B106 영업시간 월-금 10:30~20:00 (토, 일 휴무) 전화번호 02-722-",
+            "url": "https://m.blog.naver.com/han__ari/223370206313",
+            "nick": "한아리",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMjFfMTg0/MDAxNzAzMDg0NTc3Njk1.kbFbY1yxUajS6tNZOonbI_D3fa_yFwNLySaJrJhcUoIg.Dg5ZFNt3YDBjBQsQBhBONf4PfO_Etx5YmLzpH7kLxQkg.JPEG.juliee_han/profileImage.jpg"
+          },
+          {
+            "sid": "1232352834",
+            "bodySummary": "덕수궁 디팰리스점 지하 1층에 있습니다. 지상에는 아우어 베이커리가 있으니 먹고 후식으로 가도 좋을거같아요! 문앞에 들어가면 키오스크로 주문하면 되고, 매장내 식사는 점심시간외에는",
+            "url": "https://m.blog.naver.com/dccom4086/223140656220",
+            "nick": "뉴녕",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA1MjVfMjcg/MDAxNjg1MDE5ODQ1ODU4.xtzlvckmIsTB8kpkYbN_shP7VaP5HYKLsJBTyFU8YXcg.UmCD3rKSST0QPVRjLu0KNh-DkqdY3nWbxCNdznvcUsMg.JPEG.dccom4086/Eat-03.jpg/Eat-03.jpg"
+          },
+          {
+            "sid": "1232352834",
+            "bodySummary": "리김밥 덕수궁디팰리스타워점 서울 종로구 새문안로2길 10 덕수궁디팰리스 B106 (서울특별시 종로구 신문로2가 171 덕수궁디팰리스 B106) 운영시간 평일 9:40~20;40 브",
+            "url": "https://m.blog.naver.com/h1004321/223000372225",
+            "nick": "POBI",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA0MDRfMTQ4/MDAxNjgwNTcxNTE2MTEz.sAIIdKigC1L-7Ryrwp01FT1KjRhYg3Y87FN6MUKRqR4g.OdCHBKGzI9hFUIjSwsqULIzoKNUvH8wyCb19WNsnkA0g.JPEG.h1004321/profileImage.jpg"
+          },
+          {
+            "sid": "1232352834",
+            "bodySummary": "인테리어는 깔끔하면서 혼밥하기 좋게 되어있습니다.요즘은 워낙 비싼 김밥들도 많이 있어서 그런 김밥들에 비하면 그렇게 비싸다고 할 수는 없을 것 같습니다.프리미엄 김밥이라고 해야할 ",
+            "url": "https://m.blog.naver.com/nowgnoy/222996231619",
+            "nick": "내맘노이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20221212_176/nowgnoy_1670836932420ETppN_PNG/avatar_profile.png"
+          },
+          {
+            "sid": "1232352834",
+            "bodySummary": "리김밥 덕수궁디팰리스타워점 서울 종로구 새문안로2길 10 덕수궁디팰리스 B106 (서울특별시 종로구 신문로2가 171 덕수궁디팰리스 B106) 0507-1425-1397 평일 09",
+            "url": "https://m.blog.naver.com/clzlsalskfl/222993406397",
+            "nick": "듀이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAxMDRfMjk1/MDAxNjcyNzU5MzcwNTky.lAnHPbCl5zK7Oyfc_J5oAABK6354vByxVgf0ceL8SmYg.40vRmB21gR_kvWU2QrNdkR3iQk6DWqoqUh3DRX0wNAsg.PNG.clzlsalskfl/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "id": "1549774845",
+        "name": "오마이포 덕수궁 디팰리스점",
+        "x": "126.9720468",
+        "y": "37.5687024",
+        "distance": 0.027,
+        "categoryName": "베트남음식",
+        "categoryPath": [
+          [
+            "220036",
+            "220041",
+            "220103"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "베트남음식"
+        ],
+        "reviewCount": 95,
+        "averagePrice": 10000,
+        "address": "서울특별시 종로구 신문로2가 171 지하1층",
+        "roadAddress": "서울특별시 종로구 새문안로2길 10",
+        "abbrAddress": "신문로2가 171 지하1층",
+        "shortAddress": [
+          "서울 종로구",
+          "새문안로2길 10"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "베트남 쌀국수 전문점 오마이포입니다.",
+        "description": "베트남 쌀국수 전문점 오마이포입니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTVfNDcg/MDAxNzU3OTI3NDcwMzQ5.tOcrtG1nrYkzjagLQoeP_sA_XYfLXNKQR6HRGzxjIY8g.O4Tv_Ioz97KZmcIsY4kx3wgnJh-ykQ5XWctilza1E84g.JPEG/21280.heic.jpg",
+          "https://ldb-phinf.pstatic.net/20230401_171/1680322731987c0HWM_JPEG/%C0%FC%C3%BC_%C7%D7%B0%F8%BC%A6.jpg",
+          "https://ldb-phinf.pstatic.net/20230401_232/1680322747017Y6h59_JPEG/7X9A5807.jpg",
+          "https://ldb-phinf.pstatic.net/20230401_38/1680322714283b0uT6_JPEG/7X9A5812.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220103",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1549774845",
+            "bodySummary": "오늘따라 사람이 없다. 다들 휴가 가신 건가.. 자리마다 설치되어 있는 키오스크로 주문하면 완료. 셀프바에서 양파 절임하고 단무지 넉넉하게 담아서 준비하자. 따끈한 새우 짜조는 나",
+            "url": "https://m.blog.naver.com/yujon47/223399744248",
+            "nick": "진후",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20231118_18/yujon47_1700304513300nGth6_JPEG/profileImage.jpg"
+          },
+          {
+            "sid": "1549774845",
+            "bodySummary": "배고플때 잘 먹을 수 있는 곳 같다. 매장에 조명이 참 예쁘다. 사장님, 번창하세요. #광화문쌀국수 #광화문베트남음식 #덕수궁디팰리스맛집 #덕수궁디팰리스오마이포 #오마이포덕수궁 #",
+            "url": "https://m.blog.naver.com/mydays127/223331769148",
+            "nick": "현재27",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMjVfMTk4/MDAxNzAzNDk2NzY1NTk3.PQlPB_3AWRtPLjv0gESVdDyKreVNOPrAcVx9lkPkET0g.TKIC8L383j4nSzREo05ywW2pwPxvxq5zCVsK2MjED9Eg.PNG.happydrawing0127/profileImage.png"
+          },
+          {
+            "sid": "1549774845",
+            "bodySummary": "디팰리스 지하에 있는 쌀국수집 여기 지하의 음식점은 모두 손님이 바글바글한데 오마이포는 항상 갈때마다 한산하다 쌀국수 맛은 무난하고 깔끔한 편! 오늘은 얼큰 쌀국수를 먹었는데 아주",
+            "url": "https://m.blog.naver.com/mj5235/223248506233",
+            "nick": "보로보로",
+            "profileImg": ""
+          },
+          {
+            "sid": "1549774845",
+            "bodySummary": "합리적인 가격과 깔끔한 메뉴이고 주차도 편해서 주변 광화문 데이트나 직장인들 식사메뉴로 좋을 것 같아요! 오마이포 디팰리스 매장은 덕수궁 디팰리스 지하1층에 위치해 있요. 지하에는",
+            "url": "https://m.blog.naver.com/cncncm/223188049561",
+            "nick": "라일",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA2MjVfMjEy/MDAxNjg3NzA0OTQ0ODA2.Yl54atctAdgA49O_gKlG535ZGb1Wo4RixrGGSpB1ImMg.iw2soEvuFmTTuX9YL-nqMCpP8DzNkNWL57TeK10HgmEg.JPEG.cncncm/forever_207-20230401_%25EB%258F%2584%25EC%25BF%2584-50126554914.jpg/forever%2B207-20230401%2B%25EB%258F%2584%25EC%25BF%2584-50126554914.jpg"
+          },
+          {
+            "sid": "1549774845",
+            "bodySummary": "위치는 덕수궁 디팰리스에 있고 인근 지하철역 : 5호선 서대문역 , 광화문역, 2호선 시청역 역과 역 사이에 있기 때문에 거리가 좀 있다. 대신 왼쪽에 경희궁, 그리고 인근에 경복",
+            "url": "https://m.blog.naver.com/angaebi123/223186347048",
+            "nick": "제니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjEyMTVfMjgy/MDAxNjcxMTAzOTgzNjUy.W9m5Pckm4k8D3SDfLILOwWUYVqRWefhKWWoGOlr-P30g.66Qydyhtph2C9e5E7OIKH292OBmwn5PN7H0Ib2Apr7og.JPEG.iiilsj/KakaoTalk_20190902_224814906.jpg/KakaoTalk_20190902_224814906.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

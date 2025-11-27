@@ -1,0 +1,209 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 3,
+      "count": 3,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.97572685255253,
+          "minY": 37.572806306306305,
+          "maxX": 126.97686342627627,
+          "maxY": 37.57370720720721
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.97629513941439;37.573256756756756",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1960659467",
+        "name": "메리",
+        "x": "126.9759604",
+        "y": "37.5734304",
+        "distance": 0.035,
+        "categoryName": "푸드트럭",
+        "categoryPath": [
+          [
+            "220036",
+            "230746"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "푸드트럭"
+        ],
+        "reviewCount": 25,
+        "averagePrice": 0,
+        "address": "서울특별시 종로구 세종로 80-1",
+        "roadAddress": "서울특별시 종로구 세종대로 189",
+        "abbrAddress": "세종로 80-1",
+        "shortAddress": [
+          "서울 종로구",
+          "세종대로 189"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "서울특별시 종로구 세종로 80-1",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTNfMjcg/MDAxNzQ3MDY2Nzk3MTYz.Bwd9BGqML6s14Zdipzlc_2_4XYQhDib3USo2mG7vBtgg.B__MxZiBFtKIlElm3Jr2gvuSg7WQ2STtFYVvkKjpvMUg.JPEG/20250505_180651.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjdfMjQ1/MDAxNzQ1Njg0ODMyMzA2.WNcio-r7kLDoO-8KXthGRFG5hdSFwzH_UgEhnEqlKwQg.LLmdTuyfrczf53X_Y9nxidifGf4xQX7yO0oCUK8oVWYg.JPEG/20250426_180339.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "230746",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "2042189789",
+        "name": "빛남",
+        "x": "126.976001",
+        "y": "37.5735656",
+        "distance": 0.043,
+        "categoryName": "푸드트럭",
+        "categoryPath": [
+          [
+            "220036",
+            "230746"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "푸드트럭"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 6000,
+        "address": "서울특별시 용산구 후암동 412-10 B층 103호",
+        "roadAddress": "서울특별시 용산구 두텁바위로38길 13",
+        "abbrAddress": "후암동 412-10 B층 103호",
+        "shortAddress": [
+          "서울 용산구",
+          "두텁바위로38길 13"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "푸드트럭 연예인 서포트 전문 카페차, 케이터링 지금 바로 문의하세요",
+        "description": "푸드트럭 연예인 서포트 전문 카페차, 케이터링 지금 바로 문의하세요",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20250614_104/1749855627698Jz0Ox_JPEG/IMG_7270.jpeg",
+          "https://ldb-phinf.pstatic.net/20250509_138/1746768954532frJTA_JPEG/Food_truck.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "230746",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 3,
+        "id": "1371248507",
+        "name": "람보르끼니",
+        "x": "126.9761995",
+        "y": "37.5730562",
+        "distance": 0.024,
+        "categoryName": "푸드트럭",
+        "categoryPath": [
+          [
+            "220036",
+            "230746"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "푸드트럭"
+        ],
+        "reviewCount": 119,
+        "averagePrice": 20000,
+        "address": "서울특별시 중구 태평로1가 31 광화문광장옆 세종로공원",
+        "roadAddress": "서울특별시 중구 세종대로 110",
+        "abbrAddress": "태평로1가 31 광화문광장옆 세종로공원",
+        "shortAddress": [
+          "서울 중구",
+          "세종대로 110"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [
+          "김치볶음밥과 스테이크의 완벽한 하모니"
+        ],
+        "cardDescription": "김치볶음밥과 스테이크의 완벽한 하모니",
+        "description": "람보르끼니 푸드트럭(행사영업)",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDFfMjYx/MDAxNzQ4NzMzODg4NTUz.CZ2tM2XSHRq-6BjYuG7bl-Vd1VOLGBenIoyYyxX9d-sg.iSNr0HqUsYphySSIsWjT7RX5PCes4OPyfoD_7w5HGsEg.JPEG/20250531_121952.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20210427_159/1619449771656FEjcd_JPEG/o4lIXzwwbIe9pOvLfeQX39G7.jpg",
+          "https://ldb-phinf.pstatic.net/20240930_47/1727662831369NDG0B_JPEG/1000013262.jpg",
+          "https://ldb-phinf.pstatic.net/20240930_80/17276628311821BuY1_JPEG/1000013266.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "230746",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.74",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

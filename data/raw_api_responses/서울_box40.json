@@ -1,0 +1,730 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 9,
+      "count": 9,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.9666342627626,
+          "minY": 37.559292792792796,
+          "maxX": 126.96777083648634,
+          "maxY": 37.5601936936937
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.96720254962446;37.55974324324325",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1261313660",
+        "name": "버터조셉",
+        "x": "126.9671156",
+        "y": "37.5595629",
+        "distance": 0.021,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 153,
+        "averagePrice": 5000,
+        "address": "서울특별시 중구 중림동 149 316호",
+        "roadAddress": "서울특별시 중구 서소문로6길 34",
+        "abbrAddress": "중림동 149 316호",
+        "shortAddress": [
+          "서울 중구",
+          "서소문로6길 34"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [
+          "부드러운 크림 가득 에그타르트의 유혹"
+        ],
+        "cardDescription": "부드러운 크림 가득 에그타르트의 유혹",
+        "description": "매일 아침 고메버터로 소금빵과 디저트를 만들고 있습니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjNfMTU4/MDAxNzUwNjQ4NjYyMjI5.zE3EJdAtOlYndRfnNcuQC0AkmF44qW5kykja_mS4QW4g.bUBEI-3AoP8osVWPvBcuwHWVzgkiar2uLrLFLckVEKIg.JPEG/20250623_115646.heic.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjJfMjcx/MDAxNzU1ODIzOTQ2NjM0.8MtrhZCoC15JnQefpr5oX8eGetpcrKvLjDNUb3f7MI4g.XcI--oqLi0Oh5jT_QhijWovsTZD_TtpgO7Ipl7QGig8g.JPEG/20250822_091446.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20230624_278/1687587817292PAlA9_JPEG/7.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTdfMTE1/MDAxNzUyNzI1Mjc0NTIz.iM-Wq6FX2lBdyD9o5hagpLjI7halAAr9vxyj9Y4H9eAg.zADI5A-sRs7HEbetlru8I3IF8jCUoTASt05tAGFTWo4g.JPEG/5AC6D1A4-DF70-4958-BA4F-130E8A095703.jpeg",
+          "https://ldb-phinf.pstatic.net/20230624_144/1687587393459Yo7GC_JPEG/6.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MDNfMTA0/MDAxNzQzNjU0ODc0MjMw.tJXX-YsPBCn-9xPUOW-tjMk0KvnPYIDsCUsMKby5DLAg.11JyP2pDK9C6Jgs0M2cQlQrxWs1vwgHOnFOummnv0Zwg.JPEG/352D69CB-A80E-48DF-BA4B-0F8524C7ADA0.jpeg",
+          "https://ldb-phinf.pstatic.net/20230624_30/1687587819572J6Pux_JPEG/8.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjhfMTk0/MDAxNzUxMTE4MzIwOTE5.MgzIKx-WLIUSIRizcwNOzUdjgpA7c9rIwat7IAU6tS8g.t1uphCUEc78v4M7ONq4SiTY2TACVuz0IhyMvzVeSw_kg.JPEG/E9A35992-FA15-4B3A-B087-1DE80761E64F.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTNfMTk2/MDAxNzU1MDQ0NTgzNjQ5.RnbVZAK0la2mZw4bteNrh3omXnQTgwcSPEp2ys4dQN0g.hax99NwKe9GqifPb_UFztBQ6aDboeOL32hTupSvAikUg.JPEG/20250813_091849.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MzBfMTgw/MDAxNzQ1OTczNTE3MzAw.k76x7SDSCxzEF0AwVktXDronJ4_Ft-2OQaHxVwJkU5Eg.mefkkLkd0IsZj5RsLxA8fx82y6_T-TSLcswo7svkk-Yg.JPEG/20250430_093743.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1261313660",
+            "bodySummary": "그러니 산책할 때 날씨에 이기지 말고 외투를 항시 입고 다니자. 우리의 먹잘알 먹교수님과 함께 충정로에 위치한 버터조셉을 방문했다. 입구가 매우 요즘 스타일의 나무나무하고 귀염 뽁",
+            "url": "https://m.blog.naver.com/pionahannah/223384021886",
+            "nick": "하나둘셋",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA0MDVfMTQ4/MDAxNjgwNjU2NjAzODc5.FYX2mLc6f8rUogSTzetFNZYgN7F9SXhm6xrfqWIJtvkg.RQpK9xeEuBC-etUuviUml4IrOu_TngpzskKzrQIl6TUg.PNG.pionahannah/profileImage.png"
+          },
+          {
+            "sid": "1261313660",
+            "bodySummary": "건너편 골목이긴 하지만요. <<버터조셉>> 주소: 서울 중구 서소문로6길 34 316호 영업시간: 09:00~17:00 토, 일 휴무 주차장 없음 충정로역 4번 출구에서 가까워요.",
+            "url": "https://m.blog.naver.com/chezeloise/223363560762",
+            "nick": "쉐엘로이즈",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTAyMDhfMjMx/MDAxNjEyNzgzNjMzMjUx.s87ze6nz1hGhnjgziU1toadGlCDY4wMEdB-2kW6xvsEg.cWU2OVCIhsBt7LpAEMtsakexGLzM5-GZehmbsbcEYJUg.JPEG.chezeloise/KakaoTalk_20210208_202641043.jpg"
+          },
+          {
+            "sid": "1261313660",
+            "bodySummary": "드디어 찾았다! 카페 내부에는 4테이블정도 앉을 수 있는 자리가 있다 공간이 넓지는 않은 편이지만 잠깐 앉아서 커피 마시기엔 충분하다 요셉아파트 근처에 있어서 버터조셉일까...? ",
+            "url": "https://m.blog.naver.com/arindiary/223354348749",
+            "nick": "Arin",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTEyMjhfMTA2/MDAxNTc3NDU5ODE0NTM0.fLhMjYJL6XU5OokDdF2uTo9jU3F_NapYU_AlXdE3Bkog.iUBGF8q4UfUCopVZkP-2ZRgDcng6X6siQjqdO8SCSyQg.JPEG.call_me_arin/profileImage.jpg"
+          },
+          {
+            "sid": "1261313660",
+            "bodySummary": "❝버터조셉❞ 서울역 충정로역 소금빵 존맛집 카페 버터조셉 ― #내돈내산 ➮위치 중구 서소문로6길 충정로역 도보 5분 이내 서울역 도보 10분 이내 ➮ 영업시간 ⚠️토,일요일휴무 9",
+            "url": "https://m.blog.naver.com/duddlsqhdk7/223338450706",
+            "nick": "뚱땅",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA2MDFfMzgg/MDAxNjg1NjAxNTE2NjUy.4DmMgZA16u2u9m21wTDi3D_bAFDbF-mFpCNFbGZ5dksg.0BPRQzhTlY27CTSutUNs9lWHv7ohO8cmVuxGEDZRkaMg.PNG.duddlsqhdk7/profileImage.png"
+          },
+          {
+            "sid": "1261313660",
+            "bodySummary": "충정로역 맛집: 커피숍, 빵집 맛집 [버터 조셉] 얼그레이 파운드~ ㅎㅎ 포장해오면서 꽃이 다 떨어짐 ㅠㅠ 크~ 역시 이런 파운드는 얼그레이가 정말 잘 어울림~ 고소하면서 촉촉하고",
+            "url": "https://m.blog.naver.com/kimseolkkachi/223335466004",
+            "nick": "까치",
+            "profileImg": ""
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "id": "1232640052",
+        "name": "라이피",
+        "x": "126.9675089",
+        "y": "37.5596146",
+        "distance": 0.031,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221212"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 185,
+        "averagePrice": 5000,
+        "address": "서울특별시 중구 중림동 149 107호",
+        "roadAddress": "서울특별시 중구 서소문로6길 34",
+        "abbrAddress": "중림동 149 107호",
+        "shortAddress": [
+          "서울 중구",
+          "서소문로6길 34"
+        ],
+        "displayContext": [],
+        "labelTheme": "드립 커피",
+        "microReviews": [
+          "골목의 숨은 보석 같은 커피맛집"
+        ],
+        "cardDescription": "골목의 숨은 보석 같은 커피맛집",
+        "description": "Life + coffee -> liffee",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjVfMTIz/MDAxNzUwODUzNzE3MTE4.sncbFgx0qHjfqytc6IyxbvDdpLbeCa8GRYjZ5uz92IQg.PWZiNmq4w89HnTZtlWBV5Yxu_GYYH7uq58rIJXlFeWsg.JPEG/266610C9-72A4-4E54-88FD-228344632A58.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTBfODMg/MDAxNzU3NDY1MjMyNDQz.L4KhfA-3Vq2i_MuCDGaocbX1juJZSRfuEKIa1QBC918g.JUUlXhKL16NRItftZFtV2cM8ODTEktdPnVMigex8P7Qg.JPEG/20250910_094144.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240830_214/1724982857655QFw0P_JPEG/IMG_2605.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjVfMTAg/MDAxNzQ1NTg1MTQ5MTQz.IUfMefWIZYS9B5-6fCC3J4Jyk6L7MHp5imJz0BDmIDAg.AWtAXYOM0JDxEOpbFqCoIqMA5IERebqe5Bh4PAY9wWYg.JPEG/22DF2780-C0E7-4926-9BB1-DF5C130D761A.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTlfMjgw/MDAxNzQ1MDI4NzM4NTIy.mPY_WRra-9NYrAs4912er5NJpgVll1ACawPs2Zx1UZIg.Y-GEdkJf98ERJtzuTUc1xaQV9afiXeTwk_9n-4w0VqUg.JPEG/E9282CAB-C370-495C-B28B-4072547749CD.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjJfMTE4/MDAxNzQ3ODg4MjM4Njk0.A5qee-RnP_nL2KQyJ2gaqNu5jU8ncgFwykUzTPq_E2Ag.lZSdV_ItBD0Q4YQYv1q5CqxLAcTwOPiWVzpi4Uh9Z1Mg.JPEG/10DC1FF1-2BD7-4E96-8468-1835B4CE2677.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDdfMTY5/MDAxNzU5ODI2MTE4NDQ5.oUU6v89Wp9IQRLlTddqUgahUReZjikcL-ZN632RYifsg.8US8zz86A_9GMJl5LWP_rFlsVQb_3t-r5arWHBhiQj0g.JPEG/6F36EF78-17BD-4B2B-894B-B4F6ABAFD803.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDJfMjY3/MDAxNzQ4ODQ5ODI1MTY4.nZLYp8fIuMINa0qo-Y62LqufYB4wvct_V2JJcNgl84Ag.6Le98AuaovbN84KSA2NSUq-REOEV5bQMarhkuqvJ6jEg.JPEG/1000057641.png.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjBfMjAz/MDAxNzQ1MTIyMjk1MTky.wP3qQcu3YnHk2KFuR_mB2SCd6Ts4lP8Zwe7IvN5s3cUg.sElIXvJ8EF-Lq4WNIhruup7oMu9ZUR4IjInowvteYQQg.JPEG/2025-04-20-13-04-51-352.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221212",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 3,
+        "id": "37827628",
+        "name": "커피방앗간",
+        "x": "126.9668301",
+        "y": "37.5595782",
+        "distance": 0.038,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 692,
+        "averagePrice": 5000,
+        "address": "서울특별시 중구 중림동 149",
+        "roadAddress": "서울특별시 중구 서소문로6길 34",
+        "abbrAddress": "중림동 149",
+        "shortAddress": [
+          "서울 중구",
+          "서소문로6길 34"
+        ],
+        "displayContext": [
+          "로스팅",
+          "핸드드립",
+          "카페",
+          "산책"
+        ],
+        "labelTheme": "드립 커피",
+        "microReviews": [
+          "아포가토로 시원하게 즐기는 커피 한잔"
+        ],
+        "cardDescription": "아포가토로 시원하게 즐기는 커피 한잔",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjRfMTcx/MDAxNzQ4MDkwMDQ5Mjg0.1SLS-Hj-MDpJ64r7ljeU4o7M8eWqi2xJ9NYGEB-eJSQg.IvaGcKlKXG6vu8HEFfZBwAimMSlifRrqCy5WjBklE1Ag.JPEG/2E432041-A044-4B1A-8225-3A983D5211D4.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTRfMTUy/MDAxNzQ0NjA1NjQ5NzA2.flyGHjEKAm5fayh3YuxYb-bw8UpYNKT5B86I_cSUVNAg.uzBWTfxXc2jBEgq2Y2lobXTVNJrqE3mvuNejlirAjKkg.JPEG/A594840A-466F-4CE0-9118-FB188147D8FF.jpeg",
+          "https://ldb-phinf.pstatic.net/20201116_93/1605529424115jBLrv_JPEG/q200nxtTG4NHD2VXwZZRkja4.jpeg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDdfMTkz/MDAxNzUxODU2NDg5MTgz.-w8lPSCb9LkPEFz7QYsC8Zt_z6siQLnya5Lg91D2LhIg.vt9qEnZH2Jvc2SHi_4Z_u8qLXyN_jxd78is3h7C_no0g.JPEG/C6FABF58-57AD-47A2-ADF0-1EAB9A4BC2BD.jpeg",
+          "https://ldb-phinf.pstatic.net/20201217_142/1608181388929uloiS_JPEG/DhA3R477WbycFGNnN1ZlYWoI.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDFfNDEg/MDAxNzUxMzY1NzMzOTE1.P0eYlba4ONfxULwpDlo9xcdG2zEhK3MgU-3y_Y1y1IIg.XRrQLczx2Z-XTf5IHh4TY5v-6DDlVChSqGwnVdAvHcog.JPEG/1000059985.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MDlfMjEw/MDAxNzQ0MTc5NDgxODE3.t6kqlrde4aNdogXzpWWBxgXx-SRpPJVp0tAKyr0do40g.HTEy7KRUtz9OAe3q4V1MpcEhxxcbCQsDPOLFaVOXMgAg.JPEG/20250328_152052.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDRfMTI1/MDAxNzU0MjY3MDc4ODE1.zwyh4Yl2H9Kyd4e_XmOfY6GyDYtEU6n-do2e8NIil3Ug.DQ92PIt8MScSnXECVWeS4gzWicJL2uhz496BhIRGzOUg.JPEG/71E31892-41A8-481E-9E4C-81B779E5EA1F.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjZfMTMx/MDAxNzQ4MjU3NTQzODgw.p_CmLB_qkjqkASlxc39FHwy72cchMLdx8BXCnlsnabcg.2T_xUefTLfXyWBWnxPB-BKJT8IHJsn0G-gjY7fMo8Uwg.JPEG/20250502_121121.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjlfNzEg/MDAxNzU2NDQ0MTMzMjI1.Cwse4vraAAqoB2lgtWSicbKC1VtOANI4n0PG-8oSB3Ag.N5VX7XnXMHOiWgM_5EOf8Sn6oAUx16BUcCRvpja8CoMg.JPEG/20250805_125231.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "37827628",
+            "bodySummary": "중림동 충정로역 근처 핸드드립커피가 유명한 곳 • 커피방앗간 • 소개함다!➰ 월-금 : 7:30-18:30 토: 11:00-18:00 일요일 휴무 중림동 커피방앗간 은 드립백도 판",
+            "url": "https://m.blog.naver.com/cnc4720/223319752010",
+            "nick": "만두",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMjVfMTYx/MDAxNzA2MTUzMTY4MDM0.GIqRsJVEO_r36mW6Mfe1zMriLZVCJGXyW_oiEazwUF4g.WvP8LeESU0TSDIJ7upXNhFvjHEKmqArdoDEmNcnkA3og.PNG.cnc4720/profileImage.png"
+          },
+          {
+            "sid": "37827628",
+            "bodySummary": "직접 로스팅하여 더욱 신선한 맛의 원두커피 중림동 커피방앗간 • 영업시간 > 월 화 수 목 금 : 오전 7시 30분~오후 6시 30분 토 일: 오전 11시~오후 6시 • 위치> 7",
+            "url": "https://m.blog.naver.com/me-ab/223252080981",
+            "nick": "쥰쥰이 애미",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDA5MjVfMTI1/MDAxNjAxMDAwOTM3MjIz.Yppv0ycDtKZrHbPUyAt1dwU2v4fp_nSJULlz5rnNvlcg.kyTrubv__pDFBN9d34kjW5jRMRyNiv2X2Jbz5ziHpmog.JPEG.me-ab/profileImage.jpg"
+          },
+          {
+            "sid": "37827628",
+            "bodySummary": "핸드드립커피 커피방앗간 저희 집이 커피를 자주 마시는데 요즘은 또 어디가 맛있나 찾아보니까 중림동카페로 유명한 커피방앗간이 맛있다고 하더라구요 하지만 저는 부산,,, 그래서 바로 ",
+            "url": "https://m.blog.naver.com/hyeonlovesbusan/223154517230",
+            "nick": "현이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTEyMDlfMjI5/MDAxNjM5MDI0NDM4MDY4.PNFywy59EVzWxY7NoifpJaDQHBh-AqRq9aHRV_i6_lgg.PCmCjxqs4zUZJTOF_5h6_mu0_AlOQ2jvJp2aVhCqlw4g.JPEG.qkqlwps/%25EC%25A9%25A1.jpg"
+          },
+          {
+            "sid": "37827628",
+            "bodySummary": "중림동카페 원두판매도 하고있으니 맛을 봐보면 자신에게 맞는 원두를 더욱 잘 고를 수 있을 것 같아요 한봉을 뜯자마자 고소한 커피향이 확 !!!! 코를 찌르는데 역시나 기분좋게 해줘",
+            "url": "https://m.blog.naver.com/limessung/223153768824",
+            "nick": "라임",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA3MDZfMiAg/MDAxNjg4NjI4MDM5MjQ4.aGbKzNi2gXkHQ2T8rPXoJUZ09wKCJZwC5LYD96W_tV4g.IxuqqXovNleQkyfHu3aOV52MTb84-YmbvUKihD22X98g.JPEG.limessung/istockphoto-489385382-612x612.jpg/istockphoto-489385382-612x612.jpg"
+          },
+          {
+            "sid": "37827628",
+            "bodySummary": "중림동 커피방앗간 방앗간 랜덤 01 (기본 6개+고소한 맛 4개) 커피방앗간은 서울 중구 중림동 성요셉아파트 1층에 위치한, 품질 좋은 생두로 매일 로스팅하여 신선한 커피를 내리는",
+            "url": "https://m.blog.naver.com/mmyonii/223151681667",
+            "nick": "앵묘니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjEwMjlfMjQ3/MDAxNjY3MDQ3MDI5MDc3.G5bn6CHEgIRBqe_Q6YVeN9a007878mifn_K4pQUwQYEg.jjJ8ww1osMJzW8KAe_ieik3QGxtakFpghX10tw6uMXQg.JPEG.mmyonii/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "id": "320460306",
+        "name": "충정로 김밥",
+        "x": "126.9674061",
+        "y": "37.5595762",
+        "distance": 0.026,
+        "categoryName": "김밥",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220186"
+          ]
+        ],
+        "category": [
+          "분식",
+          "김밥"
+        ],
+        "reviewCount": 139,
+        "averagePrice": 5000,
+        "address": "서울특별시 중구 중림동 149 1층 108호",
+        "roadAddress": "서울특별시 중구 서소문로6길 34",
+        "abbrAddress": "중림동 149 1층 108호",
+        "shortAddress": [
+          "서울 중구",
+          "서소문로6길 34"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "집에서 가족이 먹는다는 생각으로 깔끔하게 요리하여 항상 신선한 음식을 제공해 드리겠습니다.",
+        "description": "집에서 가족이 먹는다는 생각으로 깔끔하게 요리하여 항상 신선한 음식을 제공해 드리겠습니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTdfMTAy/MDAxNzYwNjg5NjA2MjU0.puX9tDR7tKkDU_z42ivA9sGuBj01FDzDlESJfDjcnpwg.E3r93WG765nGCJ-RKNzBQebHZARbZFtawiGIm7nND-Ig.JPEG/75E74686-A92B-4203-B23A-1C5AE51C62F6.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDJfMTMy/MDAxNzUxNDI4NDk1NjI4.sRnuTUzdUQ6aXhJ3KUCvTyHd3kmwDEPnHVYOwDW5lh8g.BfPBEdNHvCXt1NbuteYClB6Y4tL95iLULjtE6fHHR9kg.JPEG/1000018860.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20161223_37/1482466185192W2eqk_JPEG/177172526153655_0.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDVfMTg4/MDAxNzU0Mzc1NDE0NjQy.p43Mjwsi8PPMJKGSalEhtLg-gm6QjJ5WsKyHHVCQA2gg.GcEQNTdP16Ztk8z4y9QDCP3O7utheaTLxSdHWMQYfK0g.JPEG/20250805_145716.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220186",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "320460306",
+            "bodySummary": "복지관 안내지가 있는 식당은 처음 보는 것 같은데 선한 영향력을 보여주는 식당인 것 같았다. 매장에 들어가니깐 모던한 것 같은 인테리어가 반겨준다. 요즘 유행하는 스타일인 기분. ",
+            "url": "https://m.blog.naver.com/i_m_doyee/223339457506",
+            "nick": "도이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA1MDZfMTk5/MDAxNjgzMzgwMDQzNTkw.S26GqqzyBR1_wDFiktvQ5VyoPscchdjlu_F3V1o4_EMg.X3oUSI6XtWgPnLRK23rj-exwXej2gh49jswVxu6kLc0g.JPEG.i_m_doyee/profileImage.jpg"
+          },
+          {
+            "sid": "320460306",
+            "bodySummary": "그래서 사이트를 둘러보다가 '어? 여기에 이런 식당이 있었나?' 하고 알게 된 집이 있다. 성요셉 골목길은 자주까진 아니어도 그래도 왔다갔다 지나다녔는데 여기에 김밥집이 있는 건 ",
+            "url": "https://m.blog.naver.com/joo_parang/223179482045",
+            "nick": "주파랑",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20191224_176/joo_parang_1577188452510Im4CW_JPEG/image.jpg"
+          },
+          {
+            "sid": "320460306",
+            "bodySummary": "그래서 그냥 바로 근처 골목에 보이는 분식집으로 고고 가격은 저렴한 편! 우린 통돈까스 하나에 라면과 참치김밥을 주문! 주방이 보이고 테이블은 8개 정도? 12시 넘어도 널널한편 ",
+            "url": "https://m.blog.naver.com/butterfly0o0/222989408011",
+            "nick": "시작",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/data19/2006/10/4/145/%C0%CC%BF%AC%C8%F1-4183-butterfly0o0.gif"
+          },
+          {
+            "sid": "320460306",
+            "bodySummary": "김밥저녁 평일 저녁에 더워서 밥하기 귀찮다는 생각이 들때 동네에 김밥집 하나 있음 좋지요. 충청로 김밥하면 첫번째로 나오는 이 분식집은 이름 그대로 충정로 김밥집입니다. 충청로김밥",
+            "url": "https://m.blog.naver.com/jisunih/222412222956",
+            "nick": "이바짱",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTAzMjNfMjg4/MDAxNTUzMzE3NjUzMDY2.Do8JW4pQSUg75fFME4bod_E_5f3Eke4zFo66llohEgcg.H50qjD-RIjf1Luhwz7IWq1qL70hRAMIxvoDJV8UioMYg.JPEG.jisunih/rIMG_3121.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "id": "1268317626",
+        "name": "부원복집",
+        "x": "126.9677345",
+        "y": "37.5596553",
+        "distance": 0.048,
+        "categoryName": "복어요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220076",
+            "220798",
+            "229895"
+          ]
+        ],
+        "category": [
+          "해물,생선요리",
+          "복어요리"
+        ],
+        "reviewCount": 97,
+        "averagePrice": 20000,
+        "address": "서울특별시 중구 중림동 149",
+        "roadAddress": "서울특별시 중구 서소문로6길 34",
+        "abbrAddress": "중림동 149",
+        "shortAddress": [
+          "서울 중구",
+          "서소문로6길 34"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 중림동 149",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTVfMTg0/MDAxNzQ3MjY2MTE2NzQw.8l83WExPp3hmwVZutW1N4AWdfBu8PS_OjSheeGoVXUkg.dlepJ-l3aq-KiL8ERQRc6GHuhCFuG1oAQr_cMdHrjZog.JPEG/20250515_084031.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20200429_8/15881341881095C1iA_JPEG/8sCNrylZVezS4bHbUYXJCfnG.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "229895",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1268317626",
+            "bodySummary": "4명이 갔으니 반찬이 같은거 두개씩 나왔단 말. 오이 오뎅 젓갈 복껍데기 미나리는 추가요청하면 해주신다 만세 미나리 옴뇸뇸 맛있다아~ 하면서 먹다가 국물 한숫갈 먹으니 뭐야 왜케 ",
+            "url": "https://m.blog.naver.com/hnlee309/222819117060",
+            "nick": "파나나",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAyMjJfMjMw/MDAxNjQ1NTM2MzEzMjc3.6FVwa8PuSoQn4J3C67EGpbzyHRdPA_ITaQQmmVJvoNMg.NC2Es1Gk1DqkFA66t9zRZcNXV0lqxtE25nvvOg3WNEEg.JPEG.hnlee309/profileImage.jpg"
+          },
+          {
+            "sid": "1268317626",
+            "bodySummary": "그리하여 애달픈 우국지정(憂國之情)의 끝에는 복지리탕이 있었네. 과거 일본에서는 금지된 사랑을 복어요리를 먹는 것에 비유했다고 하는데, 나라에 대한 애정이 너무 깊은 나머지 과음한",
+            "url": "https://m.blog.naver.com/tunglid/222425107045",
+            "nick": "tunglid",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA2MDVfNTIg/MDAxNjIyODY2MDE2NzQy._KxDe6N-KaIe4KmXwPy6yKg4rG6ZUrbHFxA77nT5VFEg.t9d6kEOy3ZqJ8JUBG3gzcOn4abrZ4inPGaCMeaXHeYYg.JPEG.tunglid/profileImage.jpg"
+          },
+          {
+            "sid": "1268317626",
+            "bodySummary": "충정로 직장인들의 숙취해소 부원복집 [위 치] 서울 중구 서소문로6길 34 (중구 중림동 149) 충정로역 4번 출구에서 200m [전화번호] 02-393-3309 [주차여부] 주",
+            "url": "https://m.blog.naver.com/ddoosddoos/221966262188",
+            "nick": "블링블린",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTExMDdfMTgy/MDAxNTczMDkzMTEzODQw.wmI17WQR3fAcoWbqjbFjGY4LoAGm-Chg4yLN4SPj7pYg.3QRyPeH6XIA64jpxQC1mUDcuuCFBh876bdg9QKTIIj8g.JPEG.ddoosddoos/KakaoTalk_20191107_111603069.jpg"
+          },
+          {
+            "sid": "1268317626",
+            "bodySummary": "입구에 4인용 입식테이블 하나 있고 방에 좌식테이블 6개 규모가 크지는 않고 허름했지만 오래된 강화도 화문석 방석은 아주 제대로에요. 복찜하고 복뚝배기를 주문했더니 복껍질 무침이 ",
+            "url": "https://m.blog.naver.com/amie0704/221320913833",
+            "nick": "스윗니스",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDExMDhfMjU1/MDAxNjA0Nzk2ODI5MTg0.cjz7G8CSB2lbB_Mu84sLSJWdcawD1qKM1CfeSv4PSKMg.pRnAbIcaoaKBcytsLnEhvjFKZZqD4saiFTyFdin7DA4g.JPEG.amie0704/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "id": "37411517",
+        "name": "옹고집안동찜닭",
+        "x": "126.967381",
+        "y": "37.5595755",
+        "distance": 0.024,
+        "categoryName": "찜닭",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220776",
+            "221617"
+          ]
+        ],
+        "category": [
+          "한식",
+          "찜닭"
+        ],
+        "reviewCount": 58,
+        "averagePrice": 0,
+        "address": "서울특별시 중구 중림동 149",
+        "roadAddress": "서울특별시 중구 서소문로6길 34",
+        "abbrAddress": "중림동 149",
+        "shortAddress": [
+          "서울 중구",
+          "서소문로6길 34"
+        ],
+        "displayContext": [],
+        "labelTheme": "24시간 영업",
+        "microReviews": [],
+        "cardDescription": "안녕하세요.  24시간 고객님이 주문하시면 즉시 달려가는 배달 전문점입니다. 저희 가게를 이용해주셔서 감사합니다. 신선한 식재료와 청결한 음식관리로 고객님에게 최고의 맛을 제공하기 위 ",
+        "description": "안녕하세요.  24시간 고객님이 주문하시면 즉시 달려가는 배달 전문점입니다. 저희 가게를 이용해주셔서 감사합니다. 신선한 식재료와 청결한 음식관리로 고객님에게 최고의 맛을 제공하기 위 ",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20151229_262/1451352053259JWgOm_JPEG/167179505073155_0.jpeg",
+          "https://ldb-phinf.pstatic.net/20151229_117/1451352053338n8gKs_JPEG/167179505073155_1.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221617",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 7,
+        "id": "37445560",
+        "name": "명가굴보쌈족발",
+        "x": "126.9673709",
+        "y": "37.5595744",
+        "distance": 0.024,
+        "categoryName": "족발,보쌈",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220766",
+            "221504"
+          ]
+        ],
+        "category": [
+          "한식",
+          "족발,보쌈"
+        ],
+        "reviewCount": 18,
+        "averagePrice": 0,
+        "address": "서울특별시 중구 중림동 149",
+        "roadAddress": "서울특별시 중구 서소문로6길 34",
+        "abbrAddress": "중림동 149",
+        "shortAddress": [
+          "서울 중구",
+          "서소문로6길 34"
+        ],
+        "displayContext": [],
+        "labelTheme": "24시간 영업",
+        "microReviews": [],
+        "cardDescription": "안녕하세요.  24시간 고객님이 주문하시면 즉시 달려가는 배달 전문점입니다. 저희 가게를 이용해주셔서 감사합니다. 신선한 식재료와 청결한 음식관리로 고객님에게 최고의 맛을 제공하기 위 ",
+        "description": "안녕하세요.  24시간 고객님이 주문하시면 즉시 달려가는 배달 전문점입니다. 저희 가게를 이용해주셔서 감사합니다. 신선한 식재료와 청결한 음식관리로 고객님에게 최고의 맛을 제공하기 위 ",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20160108_292/1452227258846arhF2_JPEG/176054546225409_0.jpeg",
+          "https://ldb-phinf.pstatic.net/20160108_41/14522272589369mONl_JPEG/176054546225409_1.jpeg",
+          "https://ldb-phinf.pstatic.net/20160108_297/1452227259012wePSf_JPEG/176054546225409_2.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221504",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 8,
+        "id": "18711583",
+        "name": "한경레스토랑굿베리",
+        "x": "126.9671227",
+        "y": "37.5601274",
+        "distance": 0.043,
+        "categoryName": "양식",
+        "categoryPath": [
+          [
+            "220036",
+            "220044",
+            "220126"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "양식"
+        ],
+        "reviewCount": 2,
+        "averagePrice": 0,
+        "address": "서울특별시 중구 중림동 441",
+        "roadAddress": "서울특별시 중구 청파로 463",
+        "abbrAddress": "중림동 441",
+        "shortAddress": [
+          "서울 중구",
+          "청파로 463"
+        ],
+        "displayContext": [],
+        "labelTheme": "양식",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 중림동 441",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220126",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 9,
+        "id": "2063807048",
+        "name": "멘야서울 중림점",
+        "x": "126.9672255",
+        "y": "37.5595913",
+        "distance": 0.017,
+        "categoryName": "일식",
+        "categoryPath": [
+          [
+            "220036",
+            "220038",
+            "220087",
+            "220844"
+          ]
+        ],
+        "category": [
+          "일식",
+          "일본식라면"
+        ],
+        "reviewCount": 246,
+        "averagePrice": 10000,
+        "address": "서울특별시 중구 중림동 149 성요셉아파트 3층 317호",
+        "roadAddress": "서울특별시 중구 서소문로6길 34",
+        "abbrAddress": "중림동 149 성요셉아파트 3층 317호",
+        "shortAddress": [
+          "서울 중구",
+          "서소문로6길 34"
+        ],
+        "displayContext": [],
+        "labelTheme": "일식",
+        "microReviews": [],
+        "cardDescription": "차슈가 빛나는 라멘집, 멘야서울 중림점입니다. 라멘의 맛을 결정 짓는 요소는 국물 뿐만이 아닙니다. 멘야서울은 '차슈의 품질이 라멘의 완성도를 결정한다.' 는 신념에서 시작되었습니다.  우",
+        "description": "차슈가 빛나는 라멘집, 멘야서울 중림점입니다. 라멘의 맛을 결정 짓는 요소는 국물 뿐만이 아닙니다. 멘야서울은 '차슈의 품질이 라멘의 완성도를 결정한다.' 는 신념에서 시작되었습니다.  우",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDRfMjc4/MDAxNzU2OTU4MTQyNTcy.fgPFD5ioTikIG5P2ZoivR8Gex_l0TkyxaLwXfKgDkbEg.boGZAOvl3vpVw6yEAFv4wiNx2li5u788YKGRz36a6tQg.JPEG/6B00B2BF-D578-4080-9CB3-C5A2BA85424E.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjRfMjgz/MDAxNzYxMjc0NDE5ODk5.5Ni2HlOOroIW0T1AQlUAd-AWRj13vZUxCuJ6T3YsDokg.MFkujHdKbrHdHJvTeTGEUnt9oKfIcaRxE9sn3O4xZqsg.JPEG/20251024_114625.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250624_122/1750724916387NDGD4_PNG/%B8%E0%BE%DF%BC%AD%BF%EF%B7%CE%B0%ED.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTVfNzUg/MDAxNzU3OTEzOTc4NTE5.20H7hLXXM1kpS7SdVwjzgP1bAig0Aq4D2vBB6fPhyuAg.GGXYyeFKtFhFfjx5QHpQGfpb0Ib9wQY-kTl_LXoI7Lsg.JPEG/F45EB20F-454F-45BB-B309-A81DA273FF10.jpeg",
+          "https://ldb-phinf.pstatic.net/20250710_264/175209770120120T5m_JPEG/IMG_7105.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjRfNDkg/MDAxNzYxMjc0NTI2MDAx.2Aw3NeDUVrTdD1jGqhECiurSt4coZiDeUxnYTryoWNkg.RMcDTFAYTvW-JtI8Rp32VxspYdyythoPKbGFoZix0rkg.JPEG/3BEE0E25-07B7-4468-861E-C7A5034CA21A.jpeg",
+          "https://ldb-phinf.pstatic.net/20250710_76/1752097733964ymByQ_JPEG/IMG_7111.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjFfMjUg/MDAxNzU1NzY2MTYwMjE1.sPqCAClC8xg7G9I6OtLzcMyk2tYcmjp4WtpecL49aAsg.sriSSNYS_qpH4ylEjAvCQP936EoikdnHEVOEarvH-L0g.JPEG/20250821_174413.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTBfMTIg/MDAxNzYwMDcwNzExNDYx.LVjm-zOMl0PmjJdlH5ZvNJtO58o7NuepL52-3EIX5J0g.Z19RjCl-YlK2o1XhjhtQW0gvVNiYXswEhj8cOQnriKYg.JPEG/B50E1960-B59C-4DD6-BCC1-AAF040718AEC.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDFfMTc3/MDAxNzU2NzI1OTg5MDg5.NZdyzMvo9HoMeW96aCXQCKN6qQF3SNj4wtcb2obnowIg.ZVM5_y5pBU-0e3iDMUjGvAQQAQKsw57YzAbY2P90w6kg.JPEG/20250901_202338.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220844",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

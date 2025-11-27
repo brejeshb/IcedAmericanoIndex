@@ -1,0 +1,362 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 5,
+      "count": 5,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 128.1131111282424,
+          "minY": 35.170890990991,
+          "maxX": 128.1186222564848,
+          "maxY": 35.1753954954955
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "128.1158666923636;35.173143243243246",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1351660751",
+        "name": "더웨이닝커피",
+        "x": "128.1183874",
+        "y": "35.1709542",
+        "distance": 0.335,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "230113"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 15,
+        "averagePrice": 5000,
+        "address": "경상남도 진주시 상평동 164-4 한빛장례식장 1층",
+        "roadAddress": "경상남도 진주시 대신로 120",
+        "abbrAddress": "상평동 164-4 한빛장례식장 1층",
+        "shortAddress": [
+          "경남 진주시",
+          "대신로 120"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "경상남도 진주시 상평동 164-4 한빛장례식장 1층",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDhfNTkg/MDAxNzQ5MzQ5MDExOTQ0.Qq_3fixqJ9UiPXrXjkFHO3_PpNqBIS5R2kCkgKuPQUEg.8n9dnsooDV09kTONL_JlW9FbVDR2D3E9Rnfr_O9WjMog.JPEG/335263D5-EC81-4918-A133-E6FEBFBFA162.jpeg",
+          "https://ldb-phinf.pstatic.net/20201126_48/1606373364214FvcpT_JPEG/0UoaJc4Ld9ETli3UgN6de9bC.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "230113",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.17",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "361440605",
+        "name": "청송촌국수",
+        "x": "128.1164523",
+        "y": "35.1709898",
+        "distance": 0.246,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 62,
+        "averagePrice": 5000,
+        "address": "경상남도 진주시 상평동 191-1",
+        "roadAddress": "경상남도 진주시 큰들로 124",
+        "abbrAddress": "상평동 191-1",
+        "shortAddress": [
+          "경남 진주시",
+          "큰들로 124"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "물국수 김밥 정말 추천합니다! 여름 특별 메뉴 콩국수도 정말맛있어요~",
+        "description": "물국수 김밥 정말 추천합니다! 여름 특별 메뉴 콩국수도 정말맛있어요~",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20210922_230/1632308518764aVe7R_JPEG/6VbNndER-yjKej56dtt8IuAr.jpeg.jpg",
+          "https://ldb-phinf.pstatic.net/20210922_235/1632308569604QD22Y_JPEG/ygRIm-z3197oh_I8PHTcF-6x.jpeg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "361440605",
+            "bodySummary": "진주 상평동에 위치한 청손촌국수 밑에 사진 처럼 파란색 바탕에 글씨가 적혀 있다 ㅋㅋ 맛집스러운 외관 간판 ! ㅋㅋㅋ 진주 청송촌국수 비빔국수 맛집 [진주 맛집] 주인 아주머니께서",
+            "url": "https://m.blog.naver.com/cute-ming/222654590204",
+            "nick": "귀여운밍이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMjlfNjMg/MDAxNzA2NDg1NTExOTYz.vN1sfy_3fEGG2c4jlfD8IE92LF1JH1WmUM8XFnPtaFgg.OxkqD32zRJqCNSlZPaAOXi7yAvIoC8hHAeRuDDK_4Wgg.JPEG.kmhysb/profileImage.jpg"
+          },
+          {
+            "sid": "361440605",
+            "bodySummary": "진주 상평동 청송촌국수 맛있어 진주에서 배가 너무 고파서 어디가서 먹지 하며 돌았는데ㅜ 길을 모르다보니 공단주위를 맴돌다 찾은 진주 상평동 청송촌국수 뭐 맛있겠나 싶어 기대도 없이",
+            "url": "https://m.blog.naver.com/mijjing22/221259270496",
+            "nick": "리미찡",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxNzA0MDRfMjkz/MDAxNDkxMzE3MDI5NjQ4.KolEALioH9rjs3vWyb7KpfJ4dmpPLJA7WDKWlebcixYg.opLk3tQo_YsBhNQ7CTRJdXnr2bURAQBHv2Yor7DRGcEg.JPEG.mijjing22/IMG_3060.JPG"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "id": "15485190",
+        "name": "공단구내식당",
+        "x": "128.1176552",
+        "y": "35.1738732",
+        "distance": 0.182,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 0,
+        "address": "경상남도 진주시 상평동 194-5",
+        "roadAddress": "경상남도 진주시 대신로 151",
+        "abbrAddress": "상평동 194-5",
+        "shortAddress": [
+          "경남 진주시",
+          "대신로 151"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경상남도 진주시 상평동 194-5",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 4,
+        "id": "15480655",
+        "name": "귀빈삼계탕",
+        "x": "128.1165388",
+        "y": "35.1711572",
+        "distance": 0.229,
+        "categoryName": "백숙,삼계탕",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220774",
+            "221606"
+          ]
+        ],
+        "category": [
+          "한식",
+          "백숙,삼계탕"
+        ],
+        "reviewCount": 100,
+        "averagePrice": 15000,
+        "address": "경상남도 진주시 상평동 191-1 귀빈삼계탕",
+        "roadAddress": "경상남도 진주시 큰들로 124",
+        "abbrAddress": "상평동 191-1 귀빈삼계탕",
+        "shortAddress": [
+          "경남 진주시",
+          "큰들로 124"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [
+          "부드러운 육질에 진한 국물의 삼계탕"
+        ],
+        "cardDescription": "부드러운 육질에 진한 국물의 삼계탕",
+        "description": "* 2대째 단일메뉴(삼계탕)로 운영중!",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjNfMjY3/MDAxNzUwNjU1ODc3MTY0.gJmE4E7Oe36ktWww0lpeRJG0AUdwZsw96G33Ef7x7z4g.-sSY_15dhHEh4dDg_Ywf_ryTKxABvkKQbsQcU8InLMEg.JPEG/Screenshot_20250623_141159_NAVER.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjRfMTQ5/MDAxNzU4NzE5NTIwODM4._lqOvkWya3jhXntDxI85YntianqBmJgP3onyCrkgbqkg.MIvdDtPtMQiuZEpjlbbDFMWFbbCyxDLWM22PDdjx6Sog.JPEG/20250924_104159.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20190528_34/1559028130024h9rRp_JPEG/VFiTCo9K6M8qwA_xh7v4iU23.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDNfNjYg/MDAxNzU5NDU3ODU4NTg1.hnYpyzt-UFnTke-r8v8kvV5pnIZ_q2C1_Mhw6ACjXDUg.Lz1knV2nvLdtTPNutvlOPVElwx1_hpuvrI-PIgu6rMgg.JPEG/20251003_111425.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20190528_98/1559028136477orI9w_JPEG/M-OncJwJz2IehEs_Mtyz9ZZ3.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDJfOTMg/MDAxNzUxNDY2MzMyNzgw.q3tt3YDGwXfgj9fnqRnUhYU454c35N9aru_14aiOFXog.Q5MNCdSpf8hthwVafCdbmvasAAloYFUYF0UbuBqL1DAg.JPEG/20250702_110551.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20230118_285/1674013214432gQ12R_JPEG/20230118_123800.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221606",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "15480655",
+            "bodySummary": "옆에 삼계탕에 찍어먹을 소금이 있었다. 후추와 소금이 섞인 소금, 오른쪽에는 일반 소금. 본인 그릇에 먹을만큼 덜어서 먹으면 된다. 맑은 국물의 삼계탕이 나와서 조금 반신반의했다ㅎ",
+            "url": "https://m.blog.naver.com/lovely9618/223172206743",
+            "nick": "쑤기",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAyMThfMTQz/MDAxNjc2NjUxODQ0NDY3.1KRJet11KK_jE7Rg_MMefcXGS6QF-JVXZca7WUtff0sg.lks7un6xIqGrrfCNa6g_47iqKfUK4MTmXBYkZN2gQ3cg.JPEG.lovely9618/profileImage.jpg"
+          },
+          {
+            "sid": "15480655",
+            "bodySummary": "대표님 최고 귀빈 삼계탕 영업시간 / 매일 10:30 - 20:00 원래는 일요일은 영업 안 하시나? 여름에 8월까지는 일요일도 영업하시는 거 같아요. 날이 더워 그런지 12시 예",
+            "url": "https://m.blog.naver.com/hagongg/222836126848",
+            "nick": "하공",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA5MTNfMTM2/MDAxNjk0NTYyNDY0NTI1.H7IFtVazvoGTmxaednFJrPec7s5JMKDhFv0DA2O2FbAg.FoSObCdwSxrzczeK0MO9eTqj47ianimnOSuluwMjosMg.PNG.hagongg/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "id": "15483920",
+        "name": "천리향토종순대",
+        "x": "128.1144892",
+        "y": "35.1738323",
+        "distance": 0.147,
+        "categoryName": "순대,순댓국",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220768",
+            "221546"
+          ]
+        ],
+        "category": [
+          "한식",
+          "순대,순댓국"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 0,
+        "address": "경상남도 진주시 상평동 201-5",
+        "roadAddress": "경상남도 진주시 돗골로58번길 17",
+        "abbrAddress": "상평동 201-5",
+        "shortAddress": [
+          "경남 진주시",
+          "돗골로58번길 17"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경상남도 진주시 상평동 201-5",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221546",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

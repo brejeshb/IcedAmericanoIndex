@@ -1,0 +1,93 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 1,
+      "count": 1,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 127.1776,
+          "minY": 37.232090990991,
+          "maxX": 127.18325824274311,
+          "maxY": 37.2365954954955
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "127.18042912137156;37.234343243243245",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1231635420",
+        "name": "카페9.1",
+        "x": "127.1796111",
+        "y": "37.2328403",
+        "distance": 0.182,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 12,
+        "averagePrice": 5000,
+        "address": "경기도 용인시 처인구 역북동 557-135 글로리센터 B3 카페9.1",
+        "roadAddress": "경기도 용인시 처인구 중부대로1262번길 68",
+        "abbrAddress": "역북동 557-135 글로리센터 B3 카페9.1",
+        "shortAddress": [
+          "경기 용인시 처인구",
+          "중부대로1262번길 68"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "경기도 용인시 처인구 역북동 557-135 글로리센터 B3 카페9.1",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTZfMzUg/MDAxNzU4MDI5MDk5MTU3.LbzYM19-t4wTbJ-oWKsJYhKY44LtRBFLlSg6hHuZvWUg.Db8XJ3bScY2e7NResxhvGHmqH9N8eS4Tf7lv2ycsLcAg.JPEG/20250916_140635.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDhfMTUz/MDAxNzQ5MzQzMDYyMzY5.eLbCBqaYSX8a--v19B2zpLkXRS7wEA8BGu8IqC8hOOsg.1S0oySKPydge9Jts-L-QlhaouTHRe-MF4ZpF-S_-MCAg.JPEG/1000011967.heic.jpg",
+          "https://ldb-phinf.pstatic.net/20191217_104/15765689275456PA25_JPEG/G7zHB4H1PbNn7Y7vvSzpO6c0.jpg",
+          "https://ldb-phinf.pstatic.net/20191213_24/1576242532643ke5tR_JPEG/fV_cDBy7FuAnVL0jUU6lBF4V.jpg",
+          "https://ldb-phinf.pstatic.net/20191218_55/1576626455928L2wzU_JPEG/vFUjL_Pc6FxZYGISxs-2ISoV.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

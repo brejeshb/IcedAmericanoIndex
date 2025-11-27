@@ -1,0 +1,958 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 14,
+      "count": 14,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.84158050845157,
+          "minY": 35.150490990990995,
+          "maxX": 126.84709025422579,
+          "maxY": 35.1549954954955
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.84433538133868;35.15274324324325",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1014633564",
+        "name": "동원식육식당",
+        "x": "126.8432148",
+        "y": "35.1539018",
+        "distance": 0.164,
+        "categoryName": "육류,고기요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220733"
+          ]
+        ],
+        "category": [
+          "한식",
+          "육류,고기요리"
+        ],
+        "reviewCount": 7,
+        "averagePrice": 0,
+        "address": "광주광역시 서구 치평동 1168 상무공원로 112 해광한신 아파트 상가",
+        "roadAddress": "광주광역시 서구 상무공원로 112",
+        "abbrAddress": "치평동 1168 상무공원로 112 해광한신 아파트 상가",
+        "shortAddress": [
+          "광주 서구",
+          "상무공원로 112"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "광주광역시 서구 치평동 1168 상무공원로 112 해광한신 아파트 상가",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTRfMTA4/MDAxNzQ5ODg2NDI2ODE4.7mtql7fT0zvih7vXMMRjbJc2MA-NKwwNlD5BrqCRwG4g.ULf6l8R-0Hwsq4KczKfYmWiPEWVCc4NbMzDV3prNaigg.JPEG/20250611_201058.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDdfNjMg/MDAxNzUxODk4NjQxNTgy.f0bC7LrkGZVpaaACr_jWsP1VvVe5ABYvccqwqXktwSgg.eYy_hwmd-c08IJeAmNIPuERr8aPJoSaz-w0_gf7Hficg.JPEG/20250702_205955.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDJfMjM4/MDAxNzQ2MTY1MTQ3MTc2.6fM7T04R8zfa-wG6MqFd0UWxAvyeRYxC_nCqBOMoU2og.Dy-WeED8yDSNSrLsT63_3iwWCMXpul1p0CReQxulrKYg.JPEG/20250430_195955.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjZfMzgg/MDAxNzQ4MjQ3MjUxMzAy.9iduMicDAOrudFQgEGYVcwYNglzI1fvTF-cYTYmj1kkg.MuYJBd9TVJmEOXCagzi249o933cZRyMi9wSr2ftqDEAg.JPEG/20250526_165753.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220733",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "151390640",
+        "name": "좋은날",
+        "x": "126.8432065",
+        "y": "35.1543088",
+        "distance": 0.202,
+        "categoryName": "육류,고기요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220733"
+          ]
+        ],
+        "category": [
+          "한식",
+          "육류,고기요리"
+        ],
+        "reviewCount": 323,
+        "averagePrice": 10000,
+        "address": "광주광역시 서구 치평동 1168 105호",
+        "roadAddress": "광주광역시 서구 상무공원로 112",
+        "abbrAddress": "치평동 1168 105호",
+        "shortAddress": [
+          "광주 서구",
+          "상무공원로 112"
+        ],
+        "displayContext": [
+          "불고기"
+        ],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "안녕하세요~ 좋은날을 방문해 주셔서 감사합니다.  저희 좋은날은 정성을 다하는 마음과 깨끗한 시설로 최고의 맛을 자랑합니다. 직접 손수 재배한 야채등을 사용하고 맛있게 요리해 드립니다.",
+        "description": "안녕하세요~ 좋은날을 방문해 주셔서 감사합니다.  저희 좋은날은 정성을 다하는 마음과 깨끗한 시설로 최고의 맛을 자랑합니다. 직접 손수 재배한 야채등을 사용하고 맛있게 요리해 드립니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MzBfNjUg/MDAxNzU2NTU2Mjg0NTM1.FVeilZHvuCZ1PPF4Gg7j1o9B0OxZKFmCFWvL9VYwN-kg.i0A_eKVMRF_6EJscZPcmT7WUIONvJvcrRut372rf3Y0g.JPEG/06E2AE45-BE8A-4A14-8FE8-E1EDD32DDD92.jpeg",
+          "https://ldb-phinf.pstatic.net/20220406_198/1649221620889aBGCf_JPEG/KakaoTalk_20220406_140305176.jpg",
+          "https://ldb-phinf.pstatic.net/20220406_285/1649221633583ixzSY_JPEG/KakaoTalk_20220406_140416080.jpg",
+          "https://ldb-phinf.pstatic.net/20220406_37/1649221634752d2Hmf_JPEG/KakaoTalk_20220406_140407878.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220733",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "151390640",
+            "bodySummary": "갈매기씨 집 근처 식당 <모두 좋은날> 자주 지나다닌 곳인데 철판닭갈비를 팔고 있어 오랜만에 닭갈비 픽! 조금 이른 저녁이어서 자리가 널널했다. 모두 좌식으로, 단체석도 있다. 통",
+            "url": "https://m.blog.naver.com/1im5eul9i/223172273168",
+            "nick": "꿈꾸는둘기",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA5MjVfMjA3/MDAxNjk1NTY4MDg5MjY5.f5eXpzB_8OmdBnhCyQpzmmC-VAlFNgrzQn6OtrghJ5sg.32hGnL-oPIRizERvqp6kGv2o3wm2SqmrKM35UlrKrhMg.PNG.1im5eul9i/profileImage.png"
+          },
+          {
+            "sid": "151390640",
+            "bodySummary": "광주 서구 상무공원로 112 105호 치평동 1168 062-944-7891 영업시간 매일 11:30-22:00 매주 월요일 정기휴무 이른 저녁을 먹으러 들어갔는데 몇테이블이 저녁",
+            "url": "https://m.blog.naver.com/hyonjin79/223128558944",
+            "nick": "찐이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA5MDVfNDMg/MDAxNjYyMzg1NTg5MDM5.x2sEDlbQlwbnXNjP95Cme178Z_nFWBYW4uOlliwQrM0g.Lovnn83aZREHMyjliB6xCtwowyfZp6bn7HSY_gDxIusg.PNG.hyonjin79/profileImage.png"
+          },
+          {
+            "sid": "151390640",
+            "bodySummary": "#상무지구맛집 #상무지구좋은날 #상무지구존맛탱 #광주곱창볶음 #광주좋은날 안녕하세요~여러분~ 라라꽃입니다. 오늘은 남편과 곱창볶음을 먹으러 갔어요^^ 상무지구 맛집 좋은날 상무공원",
+            "url": "https://m.blog.naver.com/lala_flor/222969145557",
+            "nick": "라라꽃",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA5MDJfMTMw/MDAxNjkzNTkxMTg4MTU1.uMEpK3NPmPaF8ycv2NapqYVv0rRXguNlXTY45Nf9MI8g.dEK-gLAao6VVu-M4bI092Q5Jq7yYlc33WBrrt76U01sg.PNG.foreverwin098/%25EA%25B7%25B8%25EB%25A6%25BC4.png/%25EA%25B7%25B8%25EB%25A6%25BC4.png"
+          },
+          {
+            "sid": "151390640",
+            "bodySummary": "공기밥 시켜서 일단 한그릇 먹고 시작해야되는데 다이어트하니까 공기는 패스~~ 된장도 너무 맛있다구요ㅠㅠㅠ 아니 그냥 다 맛있어요 야채도 신선해서 놀라버림~ 닭갈비가 맛있는데 일반 ",
+            "url": "https://m.blog.naver.com/zcoselz/222933029062",
+            "nick": "소니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAxMDJfMjIg/MDAxNjcyNjI1NDU5Nzgy.H3sim-tc5kp9FKbPyFOJLimwPhmHe7Qp7GvuhgElzwMg.PrUERY7jUHuOOqckKZi2cEaZd76H5VCbuUpHvLFhRjgg.PNG.zcoselz/profileImage.png"
+          },
+          {
+            "sid": "151390640",
+            "bodySummary": "기분 좋은 가게 상호명이였당 원래는 송정역 근처에서 운영하시다가 상무지구로 이전한거라고 하네용! 11:30 ~ 22:00 정기휴무 매주 월요일 상가에 있는 가게 중 제일 넓은거 같",
+            "url": "https://m.blog.naver.com/tomiy95/222811551236",
+            "nick": "옐비츄",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMDVfNzUg/MDAxNzAxNzc4NzU0MDE5.tOebS4twu8g2zfSOgcgRpK-loMJfqErlEetqXTQbCPQg.W3cVaGyO-kKltx9sD95u7mAg8U_pQ-Z2RM_yFuxwzYcg.PNG.tomiy95/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "id": "1235738827",
+        "name": "촌닭이두마리 광주시민공원점",
+        "x": "126.8431909",
+        "y": "35.1525712",
+        "distance": 0.106,
+        "categoryName": "치킨,닭강정",
+        "categoryPath": [
+          [
+            "220036",
+            "220049",
+            "1000757"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "치킨,닭강정"
+        ],
+        "reviewCount": 27,
+        "averagePrice": 0,
+        "address": "광주광역시 서구 치평동 1168-11 대주아파트상가 101호",
+        "roadAddress": "광주광역시 서구 상무공원로 92",
+        "abbrAddress": "치평동 1168-11 대주아파트상가 101호",
+        "shortAddress": [
+          "광주 서구",
+          "상무공원로 92"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "가성비치킨, 옛날통닭을 판매합니다:) 예약시 단체 30인 가능합니다!:)",
+        "description": "가성비치킨, 옛날통닭을 판매합니다:) 예약시 단체 30인 가능합니다!:)",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjlfMjA3/MDAxNzQ1OTI4MDA4NjEz.LLV_ZDsK22co7RJhGppTEYJ7p9twjK8opUAkFRUw8h8g.ifIlATcj_orYniZKcxZ9flCD9pOwK_pVmbauqp1HNpQg.JPEG/20250429_205602.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20220628_95/1656421685629Ou4fq_JPEG/1632481157140.jpg",
+          "https://ldb-phinf.pstatic.net/20220628_95/1656421685693uCmVf_JPEG/1632545396639-0.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1000757",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 4,
+        "id": "37506923",
+        "name": "시민공원계절맛집",
+        "x": "126.8431979",
+        "y": "35.1541202",
+        "distance": 0.185,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 106,
+        "averagePrice": 37000,
+        "address": "광주광역시 서구 치평동 1168 109호 시민공원포차",
+        "roadAddress": "광주광역시 서구 상무공원로 112",
+        "abbrAddress": "치평동 1168 109호 시민공원포차",
+        "shortAddress": [
+          "광주 서구",
+          "상무공원로 112"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "저희시민공원포차는 로컬맛집으로 인정받아 자리매김 하였습니다. 다양한 입맛을 맞추기는 어렵겠지만 로컬맛집에 걸맞게 늘 노력하겠습니다. 매일 새벽 장을보고 반찬을 준비하며 고객님을 ",
+        "description": "저희시민공원포차는 로컬맛집으로 인정받아 자리매김 하였습니다. 다양한 입맛을 맞추기는 어렵겠지만 로컬맛집에 걸맞게 늘 노력하겠습니다. 매일 새벽 장을보고 반찬을 준비하며 고객님을 ",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20250909_215/1757416264374x07rJ_JPEG/1000043160.jpg",
+          "https://ldb-phinf.pstatic.net/20200414_255/1586875828077g8q03_JPEG/sEyemilqQijXvktZFMk-ZIv9.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 5,
+        "id": "2067279603",
+        "name": "메가MGC커피 광주상무시민공원점",
+        "x": "126.8431762",
+        "y": "35.1545951",
+        "distance": 0.232,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "231192"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 47,
+        "averagePrice": 5000,
+        "address": "광주광역시 서구 치평동 1168 101-1호",
+        "roadAddress": "광주광역시 서구 상무공원로 112",
+        "abbrAddress": "치평동 1168 101-1호",
+        "shortAddress": [
+          "광주 서구",
+          "상무공원로 112"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "언제 어디서나, 부담스럽지 않은 가격과 대용량으로 모든 사람들에게 사랑받는 메가MGC커피 광주상무시민공원점입니다.",
+        "description": "언제 어디서나, 부담스럽지 않은 가격과 대용량으로 모든 사람들에게 사랑받는 메가MGC커피 광주상무시민공원점입니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjNfMjk3/MDAxNzU1OTIzMzM2MzU0.NIbVFn0saQ6G9yFHKwG6afPmVOBuTuTyDNresWqqFvgg.3l4HdrBV4t67QladBTXxlUQl_-lunVHGP5-ApTdIAekg.JPEG/1000033007.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTZfMTc3/MDAxNzUwMDY1Mzk3NDc4.Buol711PBirAYdOVScW9vn30O5BIC5SZa5WcQpUT1vsg.P6gbKx2xLuIyP6s_8EFE25NWrmPLew05Lscxb-R_gVMg.JPEG/6E0CFF19-9016-4998-B009-BE03A4934BB4.jpeg",
+          "https://ldb-phinf.pstatic.net/20250428_151/1745820186616KsEzV_JPEG/KakaoTalk_20240513_112402653_09.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTNfMjQw/MDAxNzYwMzY0MjUyMTA1.W7EUit9gx0Qp3hPnbv5rYntzEwuRUPY8TUOfK6wfHs8g.zN8oQk18131zdBVyUPNckg6UWRBkOs4qqCHkMbvVZfkg.JPEG/1484.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDhfMjI1/MDAxNzU0NjI0NzQ0MTYx.YXsS57XlG3ChD5Zt_QRYFL6yuqVIbv3B6eqk9QmDx24g.uGxLn4MgMGFXNDS_DzhKfpl-Oq02R1KkVmNnw_sH6Vcg.JPEG/5C8B7097-A7E3-46F5-9EEE-F7F40E2DFB5D.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTJfMTIz/MDAxNzQ5Njg4NDIzNDg0.EoB9XZLDuPOPCzu7byr9V2CbgpHBM8Q7ZGPEXJiKq0sg.W30TegsiahaV3iGwn51yNfKSWnK7HMedl2JsY8dZiIUg.JPEG/1000017859.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDJfNDcg/MDAxNzUxMzg1ODMxNDIy.Wsn1LTz9Oue6yhWJlQlXgcmwTHVg3UJlnkJdvXx3VUwg.yDvg0c3U4aLuEM4rHbM_3QDHWTo8xICaputzPIHnTYgg.JPEG/20250627_122552.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjZfNzQg/MDAxNzUzNDg5NDY2NjMz.dpYqZ3JQmGXdau3dRzvQJl3m7B8CNFSRzR0jzWmYck4g.971wcvSXPBsfhu4l0Y8z0NquLcF9miiT72iCE81u6U0g.JPEG/47D3BCB8-48F8-4967-9A1C-7A949A0E32CF.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTFfMTE3/MDAxNzQ2OTQ3NTg1NTAz.McHmFEnZc4C3aEH9KNYgYtBZres8U4wJn3BQ-OdZ85sg.0K59BhB9ZQqU22JJdjQnfktXhRAYWEnP6NZ2FUv0igEg.JPEG/20250511_132528.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDRfOTgg/MDAxNzQ5MDA4NTk5ODA5.tnL6PAn-cVyykAGIo0tETLPEqmeCCXqZS1PIy2vG6wsg.Yxr11NHFMjE0b7NPk6_OAJLHoJhDTMAPREYbuW9gSW4g.JPEG/20250604_124133.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "231192",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 6,
+        "id": "1085416304",
+        "name": "커피에반하다 광주시민공원점",
+        "x": "126.8431822",
+        "y": "35.154443",
+        "distance": 0.216,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221356"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 244,
+        "averagePrice": 5000,
+        "address": "광주광역시 서구 치평동 1168 1층 104-1호",
+        "roadAddress": "광주광역시 서구 상무공원로 112",
+        "abbrAddress": "치평동 1168 1층 104-1호",
+        "shortAddress": [
+          "광주 서구",
+          "상무공원로 112"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "저희 매장은 [패스오더 앱]으로 편하게 주문이 가능한 매장입니다! 앱으로 미리 주문하고 방문 후 기다리지 않는 VIP 경험을 가져보세요!",
+        "description": "저희 매장은 [패스오더 앱]으로 편하게 주문이 가능한 매장입니다! 앱으로 미리 주문하고 방문 후 기다리지 않는 VIP 경험을 가져보세요!",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDNfMTU5/MDAxNzU0MjAwMDQyNDM4._ABpaFpPKGu_vBFXaykTZOXe5t2bPlDBclphbhP-mZog.zJie67S2khQysya3zSAqFbiRwovQtbTbS_OrtzI8DVUg.JPEG/IMG_2699.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221356",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1085416304",
+            "bodySummary": "상무시민공원 바로 맞은편이라서 공원에서 시간보내고 커피한잔하러 다녀와도 될듯 자세한 위치는 아내 지도를 참고! 광주 서구 상무공원로 112 1층 104-1호 치평동 1168 070",
+            "url": "https://m.blog.naver.com/hyonjin79/223131649449",
+            "nick": "찐이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA5MDVfNDMg/MDAxNjYyMzg1NTg5MDM5.x2sEDlbQlwbnXNjP95Cme178Z_nFWBYW4uOlliwQrM0g.Lovnn83aZREHMyjliB6xCtwowyfZp6bn7HSY_gDxIusg.PNG.hyonjin79/profileImage.png"
+          },
+          {
+            "sid": "1085416304",
+            "bodySummary": "상무시민공원점 ! 커피에반하다 요즘 광주에서도 보이기 시작한 커피전문 프랜차이즈로 착한 가격과 품질좋은 메뉴로 인기가 많은 곳입니다 우드&파랑파랑 한 인테리어가 아늑하고 이쁜 치평",
+            "url": "https://m.blog.naver.com/moa-net/222661695601",
+            "nick": "배달의민족광주매니저",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTExMDVfNTcg/MDAxNjM2MDgwNjAzMjk0.y2EQ-Bk9-0u4AUsyvQLZ95AGlJ426HFdPLu_F4NqwU4g.0McTxARvN0m0kPTJaVN9xb20GHo-klt7yjZJ_MWkN90g.PNG.moa-net/%25EB%25B0%25B0%25EB%25AF%25BC%25EC%2582%25AC%25EC%25A7%2584%25EC%2582%25AC%25EA%25B0%2581.png"
+          },
+          {
+            "sid": "1085416304",
+            "bodySummary": "아바라 맛집 맞네요 !!!!저는 더벤티, 벌크 아바라 참 좋아하는데 여기도 달달하니 맛있어요 그리고 갈때마다 사장님 웃으면서 반겨주시고 엄청 친절하십니다 거리만 가까우면 자주 가는",
+            "url": "https://m.blog.naver.com/w0w091127/222605420938",
+            "nick": "꿈",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20230130_143/w0w091127_1675062700649RjMzv_JPEG/image.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "id": "11800601",
+        "name": "페리카나 으뜸점",
+        "x": "126.8432009",
+        "y": "35.1539483",
+        "distance": 0.169,
+        "categoryName": "치킨,닭강정",
+        "categoryPath": [
+          [
+            "220036",
+            "220049",
+            "220523"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "치킨,닭강정"
+        ],
+        "reviewCount": 110,
+        "averagePrice": 0,
+        "address": "광주광역시 서구 치평동 1168 해광한신아파트 상가 113호",
+        "roadAddress": "광주광역시 서구 상무공원로 112",
+        "abbrAddress": "치평동 1168 해광한신아파트 상가 113호",
+        "shortAddress": [
+          "광주 서구",
+          "상무공원로 112"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "일부 메뉴를 취급하지 않는 가맹점이 있을 수 있습니다. 공정거래법 시행으로 가맹점마다 가격차이가 있을 수 있습니다.",
+        "description": "일부 메뉴를 취급하지 않는 가맹점이 있을 수 있습니다. 공정거래법 시행으로 가맹점마다 가격차이가 있을 수 있습니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjlfNzgg/MDAxNzU5MTE2ODUxMDc5.cedCUwAdURIOvGTk3M_n4zIssKtHBGfSMZQnGYtOz2Ug.h-NNErSugXXyk3s51kwlWN6_K2chnFkPlKitDmD4cOgg.JPEG/20250928_184826.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTVfMTc4/MDAxNzU3ODk1MzIyMjMz.4pe8oIv9xmXAdfPt4ghaeMFQgwO-YbyyV6SZALsJTE4g.NPIs8FaBIbeg774OGJLiW7v8s5ePfBq5fyT9lwIqzLsg.JPEG/IMG_20250914_175454.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240926_136/17273260189777XB1e_JPEG/2024_%C8%AB%B4%DC%C4%A1%C5%B2_400x400.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MThfOTEg/MDAxNzUwMjU0NDU5NTk0.GNZIHfdZedZYSPEyzHrcjT9s49pL9pHsNJSsnU75QxQg.FtwN-m5qc2FF7FUgmRYIHXDEUOMiQh7sSk7Oc6zilsQg.JPEG/IMG_20250618_213609.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240315_112/1710483473493bop84_JPEG/%BB%E7%C0%CC%B5%E5%B8%DE%B4%BA_%28400x400%29.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTRfNDUg/MDAxNzUyNDkwNzY0OTc5.r8kJfZQFDZTYLYd8wc1inAvREwRXgozhgD0UEFMHFycg.HAjZWjyjuRNiY3oVLarD2OWGnPLhVWczjBFt9gnRtLkg.JPEG/IMG_20250714_191113.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20220712_193/16576050671592eE6x_JPEG/2022_%B9%DD%B9%DD%C4%A1%C5%B2_400_X_400.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MThfMTEz/MDAxNzUwMjU0MDAxMjc1.qFWK2yCW9007X17qm-WZI601N1OsvoJCMU331RkYucUg.a_xLtiynNCjouNj7yrdRyfv09L5A6RYlv5tmUeSsDqog.JPEG/IMG_20250617_205748.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDFfMjUx/MDAxNzU0MDIxODk4ODQw.BCdTswQSaZAneK3swTPzozAYgZwBF0IJiH40nKGsGk8g.kb7PvHItfGQLNB4oZAFsRDfjA7JdKl0yGNkIAry5D7Qg.JPEG/IMG_20250714_191113.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDlfMTQ1/MDAxNzUyMDExMjUwODg2.G-TpRkXkSQ8Y3fhpcmLr-b0Bt9gJUAsAJU4ysuzwOvMg.esU525bNiFluv-cMP8_ga2ZtSzNUCjPvHjsyMXrtnKEg.JPEG/IMG_20250614_182951.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220523",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.66",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 8,
+        "id": "12805992",
+        "name": "굽네치킨 광주상무점",
+        "x": "126.8432059",
+        "y": "35.1542561",
+        "distance": 0.197,
+        "categoryName": "치킨,닭강정",
+        "categoryPath": [
+          [
+            "220036",
+            "220049",
+            "220269"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "치킨,닭강정"
+        ],
+        "reviewCount": 242,
+        "averagePrice": 5000,
+        "address": "광주광역시 서구 치평동 1168 상가106호",
+        "roadAddress": "광주광역시 서구 상무공원로 112",
+        "abbrAddress": "치평동 1168 상가106호",
+        "shortAddress": [
+          "광주 서구",
+          "상무공원로 112"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "오븐요리 브랜드 1위 '굽네치킨' 굽네는 치킨을 넘어, 이제 피자, 디저트까지 오븐으로 선보일 수 있는 최상의 레시피를 연구하며 최고의 오븐 외식 브랜드로 거듭나기 위한 도전을 계속해 나가",
+        "description": "오븐요리 브랜드 1위 '굽네치킨' 굽네는 치킨을 넘어, 이제 피자, 디저트까지 오븐으로 선보일 수 있는 최상의 레시피를 연구하며 최고의 오븐 외식 브랜드로 거듭나기 위한 도전을 계속해 나가",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDZfMTc2/MDAxNzU3MTY1MjI3MjYx.vO-YSqmko1jc7nBXY6sgsg7ac3oT7zk5Ahux5c-88sUg.vbrH16V-EPat_-2Ft8Ykr02zXI-tj8bBDZvYgNjToTgg.JPEG/BCBD2AB1-8462-4730-AE91-84481B6559C2.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjlfMTY3/MDAxNzQ1ODkwOTYwMzE2.dcYTpIAgDQO6rKUurdKTWUqT4bVS-tEwvxJZYkIkADwg.CpX45MHp0dR31W6ItXhbfuPDDPnGoz8AdOX-ezNDBXcg.JPEG/20250425_212010.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20220317_114/1647488200832jgTcD_JPEG/%B1%C1%B3%D7_%B7%CE%B0%ED_%28RED%29.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTdfMjI5/MDAxNzUwMTY3NzYzMjI1.C8uZoB1pcuLSakzeG7l7PxIeGdkdQtK0Vcu4AwVwLVwg.HiRy8TnQjnvD0OyfwMz5dvvq7lOs6db8SWn1CPUJU1Yg.JPEG/20250617_224055.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20230426_120/1682475384714ADEnr_JPEG/KakaoTalk_20230328_105352658.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTRfMTg3/MDAxNzU1MDk4OTY5NjM5.YwSVcGNf72eKOShw8JLyGtbKXhRBUCXagxN6b4oTQzwg.cFZ4j9MNbPd8j6XQDo5BERQssDZwXp00ZqJE7zVUO1Mg.JPEG/8B9A67B9-A90A-4392-9B97-A9D482CBBAA1.jpeg",
+          "https://ldb-phinf.pstatic.net/20221114_122/1668399688054sy1iR_JPEG/%B1%C1%B3%D7_22101249882.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220269",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.19",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "12805992",
+            "bodySummary": "흘러나오지 않도록 테이프로 막아서 주셨어요! 오븐바사삭 치킨, 콜라, 러블링소스, 치킨무가 들어있었어요! 겉면에 쌀가루가 붙어있어서 더 바삭바삭하데요!! 확실히 일반 오븐치킨보다 ",
+            "url": "https://m.blog.naver.com/tkdrlf8993/222771314905",
+            "nick": "민굥이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDAzMDNfMTA4/MDAxNTgzMTk3MTE1MDQ4.rtQtJBQ1iGtRzUbkHGPIK2q8wayzaHeg8H4kMHOWvRIg.DUbN2trLS_7NAmHfbEwz3g-z8kuc-SmiLn1MFdQjFa8g.JPEG.tkdrlf8993/KakaoTalk_20200303_095803538.jpg"
+          },
+          {
+            "sid": "12805992",
+            "bodySummary": "콜라 큰걸로 바꿔서 천원추가했어요. 정말 비쥬얼이 환상적이네요ㅋㅋㅋㅋ 굽네치킨은 기름지지않고 담백해서 좋은것같아요. 치킨무ㅋㅋ 소스 두가지 칠리소스랑 매운소스가 있는데 전 칠리소스",
+            "url": "https://m.blog.naver.com/dls2002/150129894067",
+            "nick": "샤랄라앨",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/data25/2007/2/13/169/mnbh-ttmdmqk-marsss7-dls2002.gif"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "id": "1794783771",
+        "name": "공수간 광주상무점",
+        "x": "126.8460662",
+        "y": "35.1521257",
+        "distance": 0.172,
+        "categoryName": "분식",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "229988"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "분식"
+        ],
+        "reviewCount": 12,
+        "averagePrice": 10000,
+        "address": "광주광역시 서구 치평동 1168-9",
+        "roadAddress": "광주광역시 서구 상무자유로 107",
+        "abbrAddress": "치평동 1168-9",
+        "shortAddress": [
+          "광주 서구",
+          "상무자유로 107"
+        ],
+        "displayContext": [],
+        "labelTheme": "분식",
+        "microReviews": [],
+        "cardDescription": "광주광역시 서구 치평동 1168-9",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "229988",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "5.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 10,
+        "id": "1402846862",
+        "name": "약산댁",
+        "x": "126.8470447",
+        "y": "35.1547056",
+        "distance": 0.329,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 37,
+        "averagePrice": 0,
+        "address": "광주광역시 서구 치평동 1168-1 상무쇼핑프라자",
+        "roadAddress": "광주광역시 서구 치평로 79",
+        "abbrAddress": "치평동 1168-1 상무쇼핑프라자",
+        "shortAddress": [
+          "광주 서구",
+          "치평로 79"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "광주광역시 서구 치평동 1168-1 상무쇼핑프라자",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 11,
+        "id": "1050843297",
+        "name": "흥촌리맛집",
+        "x": "126.8431747",
+        "y": "35.1545638",
+        "distance": 0.228,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 3,
+        "averagePrice": 59000,
+        "address": "광주광역시 서구 치평동 1168",
+        "roadAddress": "광주광역시 서구 상무공원로 112",
+        "abbrAddress": "치평동 1168",
+        "shortAddress": [
+          "광주 서구",
+          "상무공원로 112"
+        ],
+        "displayContext": [],
+        "labelTheme": "고급 정찬",
+        "microReviews": [],
+        "cardDescription": "광주광역시 서구 치평동 1168",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjZfNzkg/MDAxNzU4ODMwMTQ1Mzc2.31iYPMxvelROITO0hRglZ1p26uWHyaZfzRRBfEpPAukg.7WuHagASORwOlkBJkMZojGgWC1saUHLKG7CsuPAAaRsg.JPEG/20250917_212941.jpg",
+          "https://ldb-phinf.pstatic.net/20241026_80/1729943381137zBQ3e_JPEG/KakaoTalk_20241026_204501230.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 12,
+        "id": "1262531607",
+        "name": "카페71",
+        "x": "126.8421045",
+        "y": "35.1507857",
+        "distance": 0.298,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221212"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 3,
+        "averagePrice": 0,
+        "address": "광주광역시 서구 치평동 1161-4 광주서부경찰서",
+        "roadAddress": "광주광역시 서구 상무공원로 71",
+        "abbrAddress": "치평동 1161-4 광주서부경찰서",
+        "shortAddress": [
+          "광주 서구",
+          "상무공원로 71"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "광주광역시 서구 치평동 1161-4 광주서부경찰서",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221212",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 13,
+        "id": "1550204200",
+        "name": "뚜벅이상무점",
+        "x": "126.8432041",
+        "y": "35.1540335",
+        "distance": 0.177,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 46,
+        "averagePrice": 30000,
+        "address": "광주광역시 서구 치평동 1168 1층 111호",
+        "roadAddress": "광주광역시 서구 상무공원로 112",
+        "abbrAddress": "치평동 1168 1층 111호",
+        "shortAddress": [
+          "광주 서구",
+          "상무공원로 112"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "광주광역시 서구 치평동 1168 1층 111호",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDRfMTUg/MDAxNzUxNTg3NjMxOTk5.cRuGBitblPlhCalm19I1RN_VNbUFpLJ7dhMViSUdTvEg.Xxh1FpeOVYi4c7dZh3oM6UXhkA-B6CcsWyqbtGnLTlcg.JPEG/20250625_202914.jpg",
+          "https://ldb-phinf.pstatic.net/20211118_145/1637231499313CPp1f_JPEG/20210729_195332.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1550204200",
+            "bodySummary": "조민정강사 추천 광주광역시 상무지구 돔유비끼 회맛집 나만 알고싶은 집 뚜벅이상무점 조민정강사 추천 광주광역시 상무지구 돔유비끼 회맛집 나만 알고싶은 집 뚜벅이상무점 조민정강사 추천",
+            "url": "https://m.blog.naver.com/myvision33/222990305280",
+            "nick": "광주전남환경교육강사",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA4MTNfMjYy/MDAxNjYwMzM0NjY5MjUy.y1355vF_jlurLrH9NUbeaAgkvcXrMifx1m1tqRuIDgMg.i_eqPRmsAXkBude5ly1I9BQ7D5zODJu0S6iNbV1F5EMg.JPEG.myvision33/profileImage.jpg"
+          },
+          {
+            "sid": "1550204200",
+            "bodySummary": "덕분에 후기도 없고~ 모험이지만 찐 맛집을 찾았을 때 기분이란~~~ 오늘 소개해 드릴 동네 회 맛집은 상무시민공원 근처에 위치한 상무지구 횟집 뚜벅이맛집 상무점입니다. 뚜벅이상무점",
+            "url": "https://m.blog.naver.com/05281230/222594161964",
+            "nick": "aino",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTExMjRfMTU3/MDAxNjM3NzE2NTQ5MDk3.xpT4A15h41K1OKLzQQacP8NM3L2YGqKAWhTGjPW5BoIg.rwt0YaLks09ufcLL-qKMt6Ng3xORpvoykPwD0-kHdb8g.PNG.05281230/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 14,
+        "id": "33686078",
+        "name": "치평동백바지집",
+        "x": "126.8461253",
+        "y": "35.1543424",
+        "distance": 0.241,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 100,
+        "averagePrice": 33000,
+        "address": "광주광역시 서구 치평동 1168-1",
+        "roadAddress": "광주광역시 서구 치평로 77",
+        "abbrAddress": "치평동 1168-1",
+        "shortAddress": [
+          "광주 서구",
+          "치평로 77"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "광주광역시 서구 치평동 1168-1",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDlfMjAg/MDAxNzUyMDI2NDE5MzI1.UKnhF6ImnvtJp2QiUdhp787X7Y_UpRoUUO-w0tZk198g.5h7PxYXTJmPsGBlE6c9S1Lr51YxmlMEoH0HnfmDCiLog.JPEG/20250610_201345.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20200805_149/1596585566851yQb03_JPEG/-ZncfIrlMPdyMG3_4l1rk0Ue.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

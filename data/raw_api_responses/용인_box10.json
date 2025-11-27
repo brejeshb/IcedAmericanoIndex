@@ -1,0 +1,197 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 3,
+      "count": 3,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 127.1776,
+          "minY": 37.2411,
+          "maxX": 127.18325824274311,
+          "maxY": 37.245604504504506
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "127.18042912137156;37.24335225225225",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1605546979",
+        "name": "아이갓에브리씽 용인교육지원청점",
+        "x": "127.1796153",
+        "y": "37.2429637",
+        "distance": 0.084,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 8,
+        "averagePrice": 0,
+        "address": "경기도 용인시 처인구 삼가동 558 경기도용인교육지원청",
+        "roadAddress": "경기도 용인시 처인구 중부대로1161번길 69",
+        "abbrAddress": "삼가동 558 경기도용인교육지원청",
+        "shortAddress": [
+          "경기 용인시 처인구",
+          "중부대로1161번길 69"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "경기도 용인시 처인구 삼가동 558 경기도용인교육지원청",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MzFfNDcg/MDAxNzU2NjMxNjcxMDMz.Xzrmid7tTfcadLmXOtBKhK9FCS3UdjEV3-EaruvtU6Yg.wg_66930XVWzbofkffCUxDjhAyJYnjG0XbafYSuzmXAg.JPEG/Screenshot_20250831_181358_Samsung_Internet.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "1631449815",
+        "name": "삼주외식 용인세무서점",
+        "x": "127.1808926",
+        "y": "37.2427199",
+        "distance": 0.081,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 47,
+        "averagePrice": 0,
+        "address": "경기도 용인시 처인구 삼가동 558-1 용인세무서",
+        "roadAddress": "경기도 용인시 처인구 중부대로1161번길 71",
+        "abbrAddress": "삼가동 558-1 용인세무서",
+        "shortAddress": [
+          "경기 용인시 처인구",
+          "중부대로1161번길 71"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경기도 용인시 처인구 삼가동 558-1 용인세무서",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 3,
+        "id": "89081217",
+        "name": "신사용인동부경찰서점",
+        "x": "127.1796483",
+        "y": "37.2425857",
+        "distance": 0.11,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 2,
+        "averagePrice": 0,
+        "address": "경기도 용인시 처인구 삼가동 558",
+        "roadAddress": "경기도 용인시 처인구 중부대로1161번길 69",
+        "abbrAddress": "삼가동 558",
+        "shortAddress": [
+          "경기 용인시 처인구",
+          "중부대로1161번길 69"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경기도 용인시 처인구 삼가동 558",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,588 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 8,
+      "count": 8,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 127.27779566298862,
+          "minY": 36.475495495495494,
+          "maxX": 127.28339783149431,
+          "maxY": 36.48
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "127.28059674724147;36.47774774774774",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "2026829876",
+        "name": "쿠키부 세종점",
+        "x": "127.2825018",
+        "y": "36.4762484",
+        "distance": 0.239,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 203,
+        "averagePrice": 5000,
+        "address": "세종특별자치시 보람동 730 B동 1층 106호",
+        "roadAddress": "세종특별자치시 한누리대로 2200",
+        "abbrAddress": "보람동 730 B동 1층 106호",
+        "shortAddress": [
+          "세종 ",
+          "한누리대로 2200"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [
+          "커피와 함께하는 완벽한 디저트 조합"
+        ],
+        "cardDescription": "커피와 함께하는 완벽한 디저트 조합",
+        "description": "세종 보람동 고소한 버터향이 반겨주는 곳, 쿠키부입니다.  프랑스산 고메버터와 벨기에산 초콜릿으로 직접 수제로 만드는 쫀득쿠키, 르뱅쿠키, 마들렌, 휘낭시에, 바스크 치즈케이크는 한입만",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTdfNDgg/MDAxNzYwNjcyMDE5NzI3.YXOTjqLi-2z5p6i4GowHInkoeU5OkPbSnpnKwqRu3dUg.Rx0JRNZxKpj0f0-UTYXrXTFVg6T6tas8mLZ6p6W8nJAg.JPEG/4E749B7A-FE19-4142-8EA5-B548C417DAA3.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTBfMTYy/MDAxNzYwMDc0NDE1Njc5.Y1NtnrVeqNW67z40Nia5UJzpNd3CmfgVMed-lZLrBlcg.uXZ0wbwoKvRtbFcISretW_FH7ZjiGEi8uXzwtpJCnnQg.JPEG/B3CB5D8C-5775-4F58-91CF-047C74609B63.jpeg",
+          "https://ldb-phinf.pstatic.net/20250617_149/1750132139692grbCu_JPEG/1750132133944.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MzFfMjE0/MDAxNzU2NjE5MTMwOTAx.TZZDMdsw8bY06pGEJhgt4QjevOza0yz9omUF1nea7Egg.BFyhZTo1scKT620u4xL98N_a8jOHyD7KEawhsD64NR0g.JPEG/63199A7A-AAA0-424E-9D2A-AB330C3E2C43.jpeg",
+          "https://ldb-phinf.pstatic.net/20250916_214/1758024746514tN4i3_JPEG/B2A6EB81-525E-43BD-9015-977D1D9F604E.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTdfMjk5/MDAxNzYwNjczMjE4NzM1.e4NWyLvvSKozpBJjY9Yf_087i3o69fpzDJNStUrsl8Ug.Nvs4oBXFNgD5ivBEHlRtVz3VormaWVE6TPjiFVyq8HUg.JPEG/5D8F83F8-ADFE-4A98-BD67-4C5F4F47F62B.jpeg",
+          "https://ldb-phinf.pstatic.net/20250916_39/1758024742772kfa8O_JPEG/IMG_2224.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDNfOTAg/MDAxNzU2ODkwMTMzMjEz.pjYYwHXuYKIsJJ9k7xvDQ1QppoMQesOPOy5m0txBtYUg.4-UXhz3HlyQGidO7yjY38kBEXvkJm2JPjKZOn8pgRO8g.JPEG/20250903_175821.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTFfMTc3/MDAxNzYwMTYwMDA2NDky.IJ8DDQq2jFX7SxkHtwTsXRRZPZLuO5hzHhxgZRw2Y28g.YEBRkDeBQhnKuZW8FdR45HhCk-nhjKMF1EUhL4dX4-Yg.JPEG/E335C6A8-E663-4ADF-89D5-E5AD49AF00BE.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDJfMTQ4/MDAxNzUxNDM1NTg2NTU0.6XuXYrMDt-63SF5SQqWJb4C7WbtAIJZn_bIevQu5sSog.Kwbc2wW8EMdhRDI0C4mFTuERjX4XXXT3K20UP79ryTIg.JPEG/20250702_101652.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "1494728383",
+        "name": "에이미케이크",
+        "x": "127.2827854",
+        "y": "36.4763676",
+        "distance": 0.249,
+        "categoryName": "케이크전문",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220565",
+            "221177"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "케이크전문"
+        ],
+        "reviewCount": 69,
+        "averagePrice": 40000,
+        "address": "세종특별자치시 보람동 730 상가1층 B동 111호",
+        "roadAddress": "세종특별자치시 한누리대로 2200",
+        "abbrAddress": "보람동 730 상가1층 B동 111호",
+        "shortAddress": [
+          "세종 ",
+          "한누리대로 2200"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "세종특별자치시 보람동 730 상가1층 B동 111호",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjFfMTk4/MDAxNzUzMDg0NjkwMzIy.QxtSv7iPn1y_3bmDlPNDz03lnLaMzO7crN_UIP5Fv9Yg.mCGFSAL2AjM2eW6Q2gzkmkY70urdPr7sUcCu9vKa9Ncg.JPEG/20250716_103457.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjFfMTcw/MDAxNzUwNDc1ODI2MDAz.bDDVRlA1mMuAl412xK--0vf7yg-qo1FBNZVjPCQR_1sg.w10FS5f43QEGYfOE8bzgI1ITdRkRFn2wbUw8t0-9gWEg.JPEG/20250621_121507.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20221123_245/1669208876318BHlSp_JPEG/CBDE7D9D-0901-43D3-934F-0699D0163CDA.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjlfNDIg/MDAxNzUxMTc3NDU3Njg3.HuZwo20gsDnODlVs9g_ikNLQx3BDB4bVco2CuSfIabgg.B-kM0fN9MqG0j6x4T9upo3G4hibIaGHRAfZX-KhgiBUg.JPEG/20250627_155520.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221177",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1494728383",
+            "bodySummary": "세종 레터링케이크 에이미케이크 안녕하세요! 오늘은 세종 레터링케이크 잘하는 곳을 소개해드리려고 해요. 이번에 축하할 친구가 많아 주문제작 도시락케이크를 알아보았는데요, 저는 가격,",
+            "url": "https://m.blog.naver.com/cherryguma/223354689102",
+            "nick": "체리구마",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAyMDNfNDUg/MDAxNzA2OTYwMTYzNDA0.z3jhjuWdud01x5dFadA5k0Dz7DxUw6yw_Jk16cieduEg.L4dVSwvGok2yZoBNlDNMEKMrIpmvZ0ihtqkRxUtIcnwg.JPEG.cherryumii/profileImage.jpg"
+          },
+          {
+            "sid": "1494728383",
+            "bodySummary": "그리고 어떤 초를 살까 고민하다가 하트초를 하나 구입했습니다. 파티용품 보니까 사고 싶은 욕심 생기네요. 이번에는 망가지지 않게 조심히 들고 왔습니다. 지난번에 잘못 들고 와서 케",
+            "url": "https://m.blog.naver.com/shy486kgs/223322901694",
+            "nick": "쑤",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTEyMDdfMjI5/MDAxNjM4ODg3ODkyNzU4.zhnoTi3NEd9H4O5sKd9GFwX0xoas2jkHCky33IPts6Eg.97yL5dLLlShUQiM6EYllmhQ_MoAiNL4vAq89d4vR6ZUg.JPEG.shy486kgs/profileImage.jpg"
+          },
+          {
+            "sid": "1494728383",
+            "bodySummary": "'◡'●) 오늘은 제가 기념일마다 주문하는 세종시 보람동에 위치한 케이크 맛집을 소개하려 합니다❤ ⏰영업시간 월-금 11:00 ~ 19:00 토-일 10:00 ~ 17:00 ☎전화",
+            "url": "https://m.blog.naver.com/gksk_33/223316854624",
+            "nick": "하나뚜울",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMDhfMjIy/MDAxNzA0Njk0ODkzMzg5.uFKO-3h9t8wpbqrZvA2WjEZzUbS7IiAHwY6gpFAHqHcg.-872JNn5tFYiXfDbAdciJsQYWxGNbn7-2qzJ5OrdYpUg.PNG.thdgksk33/profileImage.png"
+          },
+          {
+            "sid": "1494728383",
+            "bodySummary": "이제 세종 레터링은 어디서 해야하나 했는데 찾았다 들어오지 말라고 해서 열심히 외관을 찍었다. 친구가 별 말 없는 거 보니 예약부터 픽업까지 아주 스무스한 모양이다. 대망의 디자인",
+            "url": "https://m.blog.naver.com/tmddusqkr7/223156224219",
+            "nick": "승여니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMTlfMTE0/MDAxNzA1NjU2NzkxNDY3.YOfERFFuUpHSWnwyihYmMG8JRGcA9Y1y5B7ltilvbcAg.86fp-InEIqOzjptKTnFOYwCzWtTSq6HSz7eCzZFiLwwg.PNG.tmddusqkr7/profileImage.png"
+          },
+          {
+            "sid": "1494728383",
+            "bodySummary": "옳치! 이번엔 너로 정했다 ;) 바로 카톡으로 주문 완료 힛 #세종시케이크 #세종케이크 #보람동케이크 #에이미케이크 #AMYCAKE 왠지 포토존 같아 보이는 하얀 테이블 그리고 이",
+            "url": "https://m.blog.naver.com/hi_bellas2/223095176406",
+            "nick": "BELLA",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxODAzMzBfMjkx/MDAxNTIyMzg3OTYxNTky.plyWTlaz_gvSQDiZSjEMI1SjIMOXSeU93fJhC4eIf4wg.x8CHv737FXPBOlfsWkKLa3o2Ddcepi231SyClL1Evpkg.JPEG.unme283/B612_20180217_170249.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "id": "1724716905",
+        "name": "세종카페",
+        "x": "127.2828552",
+        "y": "36.4764105",
+        "distance": 0.251,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 50,
+        "averagePrice": 5000,
+        "address": "세종특별자치시 보람동 730 B동 115호",
+        "roadAddress": "세종특별자치시 한누리대로 2200",
+        "abbrAddress": "보람동 730 B동 115호",
+        "shortAddress": [
+          "세종 ",
+          "한누리대로 2200"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "세종카페의 크림과 청은 모두 수제입니다. 디저트는 고메버터와 바닐라빈이 듬뿍들어가요.저희 세종카페는 저렴한 재료를 사용하지않습니다.맛과 건강을 챙기세요.",
+        "description": "세종카페의 크림과 청은 모두 수제입니다. 디저트는 고메버터와 바닐라빈이 듬뿍들어가요.저희 세종카페는 저렴한 재료를 사용하지않습니다.맛과 건강을 챙기세요.",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20220321_54/1647837056646WzCJx_JPEG/E1E87488-207F-4345-A576-D12141876D98.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 4,
+        "id": "1244449394",
+        "name": "굽네치킨 세종보람점",
+        "x": "127.2832686",
+        "y": "36.4766035",
+        "distance": 0.271,
+        "categoryName": "치킨,닭강정",
+        "categoryPath": [
+          [
+            "220036",
+            "220049",
+            "220269"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "치킨,닭강정"
+        ],
+        "reviewCount": 5,
+        "averagePrice": 18000,
+        "address": "세종특별자치시 보람동 730 호려울마을3단지근린생활시설 C동 108호",
+        "roadAddress": "세종특별자치시 한누리대로 2200",
+        "abbrAddress": "보람동 730 호려울마을3단지근린생활시설 C동 108호",
+        "shortAddress": [
+          "세종 ",
+          "한누리대로 2200"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "오븐요리 브랜드 1위 '굽네치킨' 굽네는 치킨을 넘어, 이제 피자, 디저트까지 오븐으로 선보일 수 있는 최상의 레시피를 연구하며 최고의 오븐 외식 브랜드로 거듭나기 위한 도전을 계속해 나가",
+        "description": "오븐요리 브랜드 1위 '굽네치킨' 굽네는 치킨을 넘어, 이제 피자, 디저트까지 오븐으로 선보일 수 있는 최상의 레시피를 연구하며 최고의 오븐 외식 브랜드로 거듭나기 위한 도전을 계속해 나가",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDhfMTI0/MDAxNzU5OTI3ODUyNDgz.EEbOaqJfBya2U2xS6RP0ZMEh-ryuub6RTTCMVCGK66Qg.aWpbJcgtFf7nLjppINfTeIJoUN_L4enIPFFxgFWu0ikg.JPEG/9983D07F-8A69-4188-A033-76B62AC92354.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTJfMTIy/MDAxNzQ0NDU2NzY4OTQy.4ZcF6gCSrksmti7gdiqfEIFbH2iDneJcUA0wbZHXJ4Ug.vvpdRAnBCzohRY8sudhe8l1MhlkvC1lONKEnJ1NGJPIg.JPEG/1744456429531-2.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20220317_114/1647488200832jgTcD_JPEG/%B1%C1%B3%D7_%B7%CE%B0%ED_%28RED%29.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTJfMTUw/MDAxNzQ0NDU1NzU3MzEx.g4KX9ChpbG7_HFoP4Ywbr46tfWCWrX3e6kQsPu0djikg.ZbqBdez_G_PweRnHgI2KDhfO_EXVYnA093op_Yp1Eb4g.JPEG/20250412_185922.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20230426_120/1682475384714ADEnr_JPEG/KakaoTalk_20230328_105352658.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTdfMTc4/MDAxNzYwNzAzNTEwODQx.3M7ero0g7H-yZ5AomqgaX_0TEnv1BtGHoNgzRoJJlewg.oDpJjwUyJoXwWJWOSFdm3V7K4gDWqyQQuFV07WVjLzIg.JPEG/20251017_190547.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20221114_122/1668399688054sy1iR_JPEG/%B1%C1%B3%D7_22101249882.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTJfMTA0/MDAxNzQ0NDU1MjQ1ODIw.hZGFaxxMuYpyXEtRXGTUHEaHzdXLWcHwsd6OfY8-yn8g.3Zc7g1tq3zpKwroVJGb6E7gdOGEE2jW_f5L5s3THLTMg.JPEG/20250412_185954.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTdfNjcg/MDAxNzQ3NDc3NTkzNTg1.o7Nt8Ea3RauY-pBQ9-0LoULUWJ_T4V_JEpN9cFjJduog.BERXiLdf06iGR2_DqvXEZD3JkXXpPNMAtbfum0JQ_XMg.JPEG/20250506_160706.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDZfMjYx/MDAxNzQ2NDc5MTcwNTM0.rT1nPIbjxuIRbb68LRNOEAGVHaoO820AJWFd7hA1X7gg.kXqbSguMub5v6bLk2QkMeUuMXdXMZgXCrV21YHuOUTEg.JPEG/20250506_060555.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220269",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 5,
+        "id": "1324329353",
+        "name": "할머니가래떡볶이 세종시청점",
+        "x": "127.2831724",
+        "y": "36.4765594",
+        "distance": 0.266,
+        "categoryName": "분식",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "1005374"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "분식"
+        ],
+        "reviewCount": 84,
+        "averagePrice": 8000,
+        "address": "세종특별자치시 보람동 730",
+        "roadAddress": "세종특별자치시 한누리대로 2200",
+        "abbrAddress": "보람동 730",
+        "shortAddress": [
+          "세종 ",
+          "한누리대로 2200"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "할머니가래떡볶이 세종시청점 입니다 !  가래떡떡볶이로 항상 맛에 대한 진심을  고객님들께 감동을 드릴 수 있도록 노력하는  할가떡 세종시청점이 되겠습니다.  많이 찾아주세요 !",
+        "description": "할머니가래떡볶이 세종시청점 입니다 !  가래떡떡볶이로 항상 맛에 대한 진심을  고객님들께 감동을 드릴 수 있도록 노력하는  할가떡 세종시청점이 되겠습니다.  많이 찾아주세요 !",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20240430_217/1714437568627qn2YH_PNG/%B7%CE%B0%ED_%C8%AD%C0%CC%C6%AE.png"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1005374",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 6,
+        "id": "1257751859",
+        "name": "7번가피자 세종시청점",
+        "x": "127.2831212",
+        "y": "36.476525",
+        "distance": 0.264,
+        "categoryName": "피자",
+        "categoryPath": [
+          [
+            "220036",
+            "220044",
+            "220136",
+            "220945"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "피자"
+        ],
+        "reviewCount": 321,
+        "averagePrice": 40000,
+        "address": "세종특별자치시 보람동 730 단지내상가 C동 103, 104호",
+        "roadAddress": "세종특별자치시 한누리대로 2200",
+        "abbrAddress": "보람동 730 단지내상가 C동 103, 104호",
+        "shortAddress": [
+          "세종 ",
+          "한누리대로 2200"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "근본이 다른 7번가피자 - 7가지 맛의 비밀!  1. 첫번째 비밀 -십여가지 곡물도우! 국내최초 완전 밀봉 방식의 3단계 저온숙성 도우!  2. 두번째 비밀 -보라색 곡물도우의 마법! 기계가 아닌 손으로  ",
+        "description": "근본이 다른 7번가피자 - 7가지 맛의 비밀!  1. 첫번째 비밀 -십여가지 곡물도우! 국내최초 완전 밀봉 방식의 3단계 저온숙성 도우!  2. 두번째 비밀 -보라색 곡물도우의 마법! 기계가 아닌 손으로  ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjlfMTU2/MDAxNzQ1OTA0MjkzNDAy.i-AwD-KT1PBgjPOMl4AaL2ZE7XHnNvqQc1wsqKikOZYg.i3zks0rUvcwv-1_k42VwY7uNnkEfiI2pS7UgfZvyQ7wg.JPEG/28D14C51-12CC-416E-9DF0-6A5213AE32DC.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTNfMTU5/MDAxNzQ0NTA4ODExNzQx.MtM5ZmkN6P_cXgfshj9YYpv1Q3NbE5nQRIwCw0Epimcg.31THx1qbxG9lDtlegrKce41_jH_JUubGMw2baKtFBBog.JPEG/20250411_232733.jpg",
+          "https://ldb-phinf.pstatic.net/20210807_83/1628263022640KBDHn_JPEG/L3uJEyS9fMjWA0VnXp-Dbmjz.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTFfMjIw/MDAxNzQ0MzcxNTM3ODgy.vEWP8j7mrdh_gOih3nyhI84PWrn4a4s-9tlsRGEeEZkg.q08mqLQw3yCqVa2O5wOyNA3iDYuMTXveCpUrcRy0xfog.JPEG/F4DAB21C-D148-4960-8224-7AC54D57864B.jpeg",
+          "https://ldb-phinf.pstatic.net/20220614_61/1655178332293lmfBP_JPEG/KakaoTalk_20220614_124132032_07.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDhfMTk1/MDAxNzU0NjQ1NDc2Mzk4.qS46LtHdC3Gd1U8pMspMcWg1IYshQPsuKN2st90JW8sg.an1kcoLTVtU2zXXUTroWc2RZImKyFzRf2pRRd6wOnscg.JPEG/20250808_182817.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20210807_265/1628263033437BBMqU_JPEG/y56qrUn-SIWtiaEsnbbS3kVT.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220945",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1257751859",
+            "bodySummary": "7월7일~7월8일 7번가 DAY 할인행사기간 무려 50% 포장할인하는 7번가 체다골드포테이토 피자를 먹어봤다 이미 행사는 끝났지만 7번가피자(세종시청점) 아주아주 가끔씩 50% 포",
+            "url": "https://m.blog.naver.com/skymind0265/222817783759",
+            "nick": "우주안경",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMTlfMjE4/MDAxNzAwMzcwNjU5ODc1.pD7vh2PvO1CIgvDFQcp106pTJYjBvtMQ267dFlYchQUg.ajxt6mcTLNt_DPST7fhNSIoqv4KNHrkwGt4WZhhBvuEg.JPEG.skymind0265/profileImage.jpg"
+          },
+          {
+            "sid": "1257751859",
+            "bodySummary": "안녕하세요 오리입니다. 오랜만에 저녁 대용으로 피자 주문해서 먹어봤어요. 집에서 가까운 7번가피자 세종시청점에서 포장했는데 피자는 방문포장 30% 할인, 스파게티는 20% 할인되네",
+            "url": "https://m.blog.naver.com/orislog/222684348727",
+            "nick": "오리",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTAyMDFfMTg2/MDAxNjEyMTY0ODY2Mjk2.MPIXVlcHRJCb9Vc8YDuoIleRZ0DCb1DCLSCZDNps8PYg.NEJCGFcnZwdGdwHVT5kpBp99uTX8Dvmf6nbCShVAfSQg.PNG.lwh4930/%25EC%25A0%259C%25EB%25AA%25A9%25EC%259D%2584%2B%25EC%259E%2585%25EB%25A0%25A5%25ED%2595%25B4%25EC%25A3%25BC%25EC%2584%25B8%25EC%259A%2594._001.png"
+          },
+          {
+            "sid": "1257751859",
+            "bodySummary": "제가 정말 좋아하는 7번가피자!!!! 7번가피자 세종시청점이 오픈한지 좀 됐는데 이제서야 포스팅하네....허허허 입맛이 까다로운 편이라서 피자 먹고 맛있다는 생각이 잘 안드는데 7",
+            "url": "https://m.blog.naver.com/clickbo7/222547039220",
+            "nick": "보니K",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20150110_4/clickbo7_1420897021165pnIKp_JPEG/1383401094482.jpg"
+          },
+          {
+            "sid": "1257751859",
+            "bodySummary": "알바 끝나고 가는길에 피자를 사려고 미리 전화로 주문을 넣었다. 세종에도7번가 피자가 여러 지점 있는데 잘못해서 시청점에 주문을 넣게 되었다ㅠㅠ 배달로 교체는 힘들고 거기까지 가기",
+            "url": "https://m.blog.naver.com/iamsoftya/222457247087",
+            "nick": "soft",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTAyMDJfNDkg/MDAxNjEyMjQ1MjA2MTk2.bVqJP6jumH64YMnl8S7BikeCie_dgEo7CakyEKxFgLIg.48QdowXN9t2U2lm-Ter4BfLKFMYXTEK3BKZNRlhNdhIg.JPEG.iamsoftya/profileImage.jpg"
+          },
+          {
+            "sid": "1257751859",
+            "bodySummary": "세종시에서 아름동 7번가피자 세종시청점 새롬동 7번가피자 세종새롬점에 이어 3번째로 오픈한 보람동 7번가 피자 세종시청점이에요. 간판이 어찌나 큰지 호려울3단지 신동아 파밀리에 단",
+            "url": "https://m.blog.naver.com/wooy6k/222451832170",
+            "nick": "세종퀸",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA0MDVfMjM5/MDAxNjQ5MTEyMjE1ODI5._TXkqlnnxsQ06SRdVICVX6dXkxERcAriLGzU7oQhxewg.LppLVy4wAC01p4vPDW7CBiKeW2NbllrEYZ6pgqRRAkkg.JPEG.wooy6k/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "id": "1124148665",
+        "name": "밀크카페",
+        "x": "127.2805513",
+        "y": "36.4755374",
+        "distance": 0.246,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 6,
+        "averagePrice": 0,
+        "address": "세종특별자치시 대평동 668",
+        "roadAddress": "세종특별자치시 대평로 80",
+        "abbrAddress": "대평동 668",
+        "shortAddress": [
+          "세종 ",
+          "대평로 80"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "세종특별자치시 대평동 668",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 8,
+        "id": "1238955418",
+        "name": "어라이스",
+        "x": "127.2818047",
+        "y": "36.4759803",
+        "distance": 0.224,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 10000,
+        "address": "세종특별자치시 보람동 730 C동 1층 101호",
+        "roadAddress": "세종특별자치시 한누리대로 2200",
+        "abbrAddress": "보람동 730 C동 1층 101호",
+        "shortAddress": [
+          "세종 ",
+          "한누리대로 2200"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "사계절을 담은 케이터링 전문업체입니다~ 정성껏 모시겠습니다",
+        "description": "사계절을 담은 케이터링 전문업체입니다~ 정성껏 모시겠습니다",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20240223_124/1708674858518z0Dff_JPEG/KakaoTalk_20240223_164631990_05.jpg",
+          "https://ldb-phinf.pstatic.net/20240223_152/17086748584991vTjt_JPEG/KakaoTalk_20240223_164631990.jpg",
+          "https://ldb-phinf.pstatic.net/20240223_227/170867485843067DBi_JPEG/KakaoTalk_20240223_164631990_04.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

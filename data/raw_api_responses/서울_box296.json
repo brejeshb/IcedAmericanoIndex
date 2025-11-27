@@ -1,0 +1,809 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 9,
+      "count": 9,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.98481944234244,
+          "minY": 37.570103603603606,
+          "maxX": 126.98595601606618,
+          "maxY": 37.57100450450451
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.98538772920432;37.57055405405406",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1774449506",
+        "name": "로코랩",
+        "x": "126.9849981",
+        "y": "37.5703907",
+        "distance": 0.039,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 948,
+        "averagePrice": 5000,
+        "address": "서울특별시 종로구 종로2가 9 1층 로코랩",
+        "roadAddress": "서울특별시 종로구 종로 69",
+        "abbrAddress": "종로2가 9 1층 로코랩",
+        "shortAddress": [
+          "서울 종로구",
+          "종로 69"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [
+          "코코넛 풍미 가득한 이색적인 음료"
+        ],
+        "cardDescription": "코코넛 풍미 가득한 이색적인 음료",
+        "description": "종로 광화문 커피 맛집 로코랩입니다. 합리적인 가격과 보장된 맛으로 한잔 한잔 정성을 다해 만듭니다, 바쁜 점심 시간대만 피해서 오신다면 기다림 없이 드실 수 있습니다  테이크아웃만 가 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDlfMjg4/MDAxNzU5OTkxODU4MjA5.pP3oB19X1BbFeqkOGVfHG8flrOJcJPqEcdH7l5HpW0Eg.jxMUuudZo1VJsTGpqZB1V7ZvhLmw2v_JX_YDFHtWXVcg.JPEG/IMG_8167.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjZfMjg3/MDAxNzU2MTY5MzEyMTE2.ApvWgQYB_eOhbzeDQ5FnCfyjdaKda2vm_IxYAumPJKIg.OyITaMBwxBagPIv1TQWcdqq2V4qEdtBV4U9IEuvEK68g.JPEG/86C7D94C-FF17-4091-837D-DB5224DBA9DB.jpeg",
+          "https://naverbooking-phinf.pstatic.net/20251024_177/1761297544182YHhQy_GIF/%C1%A6%B8%F1_%BE%F8%C0%BD_%283%29.gif",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDVfMjMy/MDAxNzUxNzEzOTE1NTI1.wIC41kmCEEhsWkwWLV1ymbaGrHsM17-fdd8qPni1Icog.hokJGB_cMLODe-4H8IUuV2QhyDCCv5u0IekrEFvTJgAg.JPEG/6F3E39E6-6ABC-4189-8753-506E23377167.jpeg",
+          "https://ldb-phinf.pstatic.net/20231110_300/1699606312450pHwr6_JPEG/KakaoTalk_20231110_174605659.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjJfMTQ3/MDAxNzUwNTY1MTI5NTU2.5fRIn-zm9sMAgMJEdWhUD587JV0gYBjQAgw5nY1_wOsg.iBOqMP1nXrAWXnQH3kmNp_kV2vU3AP7C3Zsa28neAYQg.JPEG/20250620_141224.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20231121_84/1700532449891KeD5B_JPEG/KakaoTalk_20231121_110437467.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjRfNDUg/MDAxNzU2MDQzOTY5OTY1.Hxy3L1j1NrhHhvkjRAA2DeIR-6JIVbHg8CrO8I9DutUg.17SeheQRxukY4-pJdLBdkomMGcu9VqekjfFF_IO0JYIg.JPEG/4C595F12-F25E-4331-875E-CED59AB27292.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDlfMjk3/MDAxNzQ5NDc2MzkxMjIw.llMPkFvIDM3UX4kAee5wt6j9Kd4guHNlYTecbK_ECDcg.0CtCopWjWAyX7JJ5I9844PeMz-zpdBuYFzeOY2xZF6Eg.JPEG/0554A2B7-C676-4664-8F37-218980953389.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTFfMTQ0/MDAxNzQ0MzMyMTU2MTk3.0bRJTQXTPPTi0zepW59Wo9IuVpnQz71hbJglq-mwvKMg.FwcdCr0QqVq4oVHqq3X0G7UpBZk3EVefhpB0dC-HPfUg.JPEG/A63C5D7C-5AC4-441B-A888-3107A3ED587E.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1774449506",
+            "bodySummary": "앉을 자리는 없고 말 그대로 스탠드커피바 테이크아웃 전문이다 정면샷 스페인노래가 흘러나온다 마침 스페인 전공자가 옆에 있었는데.. ㅋㅋ 너네 동네노래아니냐며 ㅋㅋㅋ 내스타일 흥넘치",
+            "url": "https://m.blog.naver.com/nyhm0106/223388557107",
+            "nick": "단추무니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAyMjZfMjk2/MDAxNzA4OTU4MzQzMzQw.xHYOkKVJ9Ta9uxc8zMD10jzpBZP4yErHFDJ_bOrTvOMg.Md1Zh_I-AmoFvxMWed8f2-iAUZZV6BIMQsNliUufAaAg.JPEG/profileImage.jpg"
+          },
+          {
+            "sid": "1774449506",
+            "bodySummary": "종각역쪽에 위치한 힙한 갬성의 스탠드 커피바입니다. 완전히 제 취향저격인 카페입니다✨ 로코랩 서울 종로구 종로 69 1층 로코랩 종각역 3번 출구 근처 위치 월-금 08:30-19",
+            "url": "https://m.blog.naver.com/ppunna990/223323534295",
+            "nick": "라미",
+            "profileImg": ""
+          },
+          {
+            "sid": "1774449506",
+            "bodySummary": "원래 카공은 조금 오래하니깐 음료 아껴먹으면서 공부하다가 스트레스 받을 때 한입씩 먹어줘야 하는데,,, 너무 맛있어서 그냥 먹는데만 집중,, ㅋㅋㅋ 좌석 스타일도 다양해서 혼자 카",
+            "url": "https://m.blog.naver.com/goodhygh/223309097120",
+            "nick": "yanghee",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAzMDFfOTEg/MDAxNjQ2MTIyMTk5NDYx.acAe4vIuak5jHDSBNDEvsUQ3Q3u0SUDZ-4gPKFnWCBUg.p4qu21P4TkvFHI82VJWk5U6a_SC1htuc0f-GfQQeMNwg.JPEG.goodhygh/KakaoTalk_20220301_170914291.jpg/KakaoTalk_20220301_170914291.jpg"
+          },
+          {
+            "sid": "1774449506",
+            "bodySummary": "할말이 많으니 아늑하고 조용한곳으로 골랐어여! 종각역에서도 가깝고 광화문역에서도 가까워요! 골목으로 들어와야하고 올떄 길이 좀 헷갈리고 입구도 찾기 어려워서 처음오시면 헷갈릴수도 ",
+            "url": "https://m.blog.naver.com/alswl0505/223172039537",
+            "nick": "영",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAyMjBfMjM0/MDAxNjc2ODk3Njg0MjQ1.daVr-78x8tNMbXafSxeHyPtBtzEJwcUGBuvJvUrzxzYg.7tFfP1wz8WZIGXore56NxoNrHgPOyFoeEOVd2R-3fIwg.PNG.alswl0505/profileImage.png"
+          },
+          {
+            "sid": "1774449506",
+            "bodySummary": "월-금 8:30-21:00 토 11:00-20:00 매주 일 휴무/매달 마지막 토요일 휴무 위치는 종각역과 광화문역에서 엄청 가까운데 메인 도로에 있지는 않아서 골목으로 들어가야 ",
+            "url": "https://m.blog.naver.com/hyejin998/223035012071",
+            "nick": "쪼벅이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAxMjlfMTg5/MDAxNjQzNDY0NDI3MzMw.LA3B4z8ZsFoVuJWWdCch3EVjc9peeF80SsIOG2blVsYg.dn8v-ytuJUds-NwqKaMffBfD1eUZeZMMgem6yNx4mMIg.JPEG.hyejin998/%25ED%2594%2584%25EB%25A1%259C%25ED%2595%25844.jpg/%25ED%2594%2584%25EB%25A1%259C%25ED%2595%25844.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "id": "2040395996",
+        "name": "라밥 종각점",
+        "x": "126.9855542",
+        "y": "37.5704026",
+        "distance": 0.022,
+        "categoryName": "종합분식",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220185"
+          ]
+        ],
+        "category": [
+          "분식",
+          "종합분식"
+        ],
+        "reviewCount": 231,
+        "averagePrice": 5000,
+        "address": "서울특별시 종로구 종로2가 9 1층 108호",
+        "roadAddress": "서울특별시 종로구 종로 69",
+        "abbrAddress": "종로2가 9 1층 108호",
+        "shortAddress": [
+          "서울 종로구",
+          "종로 69"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "종각역 24시간 든든한 김밥집, 라밥! 종각역 직장인 추천 1순위 김밥 맛집! 종각역 인근 교회, 성당에서 가장 많이 찾는 김밥맛집!! YMCA에 방문하는 사람들이 가장 많이 찾는 장소! 출근 전 테이크",
+        "description": "종각역 24시간 든든한 김밥집, 라밥! 종각역 직장인 추천 1순위 김밥 맛집! 종각역 인근 교회, 성당에서 가장 많이 찾는 김밥맛집!! YMCA에 방문하는 사람들이 가장 많이 찾는 장소! 출근 전 테이크",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDlfMjky/MDAxNzU5OTk3OTA2ODI1.srzsC_OEZRCBT_SQb0ULAh207X9y3nAmd001x1V3-J4g.wWlXPT2xtIoEJsQ1tqmkFwWLKqMu1vGZcHHGtC8E0bsg.JPEG/5FA7F053-3962-4C28-8E7E-39E2484B643D.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjdfMjIy/MDAxNzYxNTA3NzA4MDQ4.jGbPpPS8Ho_tWfn6PsnMbu48cPEIL10SAEJuMKlP-XIg.X957UKS9ODWCWmKPC1jkycNmAUeqN8Uo5wFHsL1b4qIg.JPEG/17615076973805880497685968544177.jpg",
+          "https://ldb-phinf.pstatic.net/20250528_204/1748418358831Mkpi5_JPEG/%C8%AD%B8%E9_%C4%B8%C3%B3_2025-04-06_210747.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDZfMjMz/MDAxNzU5NzQ5MzQyMjAy.qTzQT1g8RGfVoQ_cuUtNBTuCd4EvpTVn1YnROd4yTQMg.gSAXU2o-yfPngJbASocpscJLsgu8vA04beHJPd7kN_0g.JPEG/20251006_201517.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250528_194/1748418358761Yo7ho_JPEG/%C8%AD%B8%E9_%C4%B8%C3%B3_2025-04-06_210820.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjFfNTQg/MDAxNzYxMDA4ODc1MjI4.9WfuG1RssyvswWTJRv5ltAguE7FbGoi6oxTR6PvzF7kg.WUqs6cLqMuqmleeBZP2JMcTtns91JvHIYdHmETBsCssg.JPEG/08E985A4-1D9F-4C13-BDE7-0603A0726192.jpeg",
+          "https://ldb-phinf.pstatic.net/20250528_39/1748418349496ROsk5_JPEG/%C8%AD%B8%E9_%C4%B8%C3%B3_2025-04-06_210651.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTBfMTA3/MDAxNzU0NzUzMTg1MjA4.b6tVNFGrz0QJHzfOq9LoLlsbeFBnRH0ry-wuOwd5YFQg.aOzZQHCbNVzhd1jjZZ5KAcBu0DkUfOdZ5-7PV5J-oLQg.JPEG/08464605-C986-40D8-B5A4-46CE1D7B07CF.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDVfNzEg/MDAxNzU5NjY2MTAzODg1.d9cXvJ7iIpciFkR-04SoUp7dovcKIyPPAQ9VZi0vKVEg.hkaF1xhgswYJOoYLrx1CSb8JNAwiHmLC2TAR-6gutnMg.JPEG/20251005_210652.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjdfMzYg/MDAxNzU4OTQ3MjE5MzAy.BV14Sy_UDx8tvmyb8IXvH1VD-hFpNrnZtNb7tyVMDpMg.XES0tkra9uqM_7gi14vypxb3zeVbNbu-ikg1vImBaoIg.JPEG/AA36F2E8-4174-44E9-8628-5B43FA0AAB8E.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220185",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 3,
+        "id": "31730409",
+        "name": "퀸베리",
+        "x": "126.9859098",
+        "y": "37.5704575",
+        "distance": 0.047,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221212"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 5,
+        "averagePrice": 0,
+        "address": "서울특별시 종로구 종로2가 12",
+        "roadAddress": "서울특별시 종로구 종로 77",
+        "abbrAddress": "종로2가 12",
+        "shortAddress": [
+          "서울 종로구",
+          "종로 77"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "종로에 위치한 생과일, 커피 전문점",
+        "description": "종로에 위치한 생과일, 커피 전문점",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20150831_162/14410072143177fUFn_JPEG/146175548064926_0.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221212",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 4,
+        "id": "1433948529",
+        "name": "컴포즈커피 종로YMCA점",
+        "x": "126.9854573",
+        "y": "37.5704061",
+        "distance": 0.018,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "230629"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 166,
+        "averagePrice": 1000,
+        "address": "서울특별시 종로구 종로2가 9 1층 109호",
+        "roadAddress": "서울특별시 종로구 종로 69",
+        "abbrAddress": "종로2가 9 1층 109호",
+        "shortAddress": [
+          "서울 종로구",
+          "종로 69"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 종로구 종로2가 9 1층 109호",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDNfMjkg/MDAxNzQ2MTk5OTQ4ODA5.XGsJet8TQmvSO2voEoVYHkgXtP_ckHadx7bwjzlGPk8g.deQSfCRv_GF5U0hAIyZk6_nuPWHT1pKGMXlQog3cXZ0g.JPEG/IMG_0535_3.JPG",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDFfMTc1/MDAxNzQ2MTA2ODk5NTIx.KgnP3ZjmcMvRhoKUVrQt1rxWkIglv2b_b6GcIdf3lwEg.XAHRJ34SHHaqBTQidKF3J13vzjch7u3RAYDPuHO28XQg.JPEG/3D208515-0C52-404E-871F-AF2C4EEC0849.jpeg",
+          "https://ldb-phinf.pstatic.net/20240702_94/17198938842686h2tb_JPEG/KakaoTalk_20240702_131312595.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjJfODMg/MDAxNzU1ODE4NzY4MjQ3.qgxg3KwStQWWM5EYebiq865ydM1jnq00tWSWjoLfkHIg.r85YuTH6L_eEY4CK6EgWnd4awGXQmTFF81i53Ai8dUsg.JPEG/20250515_115434.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240702_227/1719893884003k3GfC_JPEG/KakaoTalk_20240702_131312595_%281%29.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTdfMTI3/MDAxNzUyNzE4OTMwOTY3._vw1S4VXPHYKoeZkbYa6SdXg5zkIBNm93i3WYcl9kdwg.TaNT9O00bJDNBTJmWvPEafZk3rrnJzwcWIhKlpr6ht0g.JPEG/7BCF163B-9C0A-43C3-97C1-FB363EBDE9E9.jpeg",
+          "https://ldb-phinf.pstatic.net/20240702_136/1719893883948B0XKa_JPEG/KakaoTalk_20240702_131312595_%282%29.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDVfMTEy/MDAxNzU5NjYyMTE5NzAy._dkxvDZxbezS1x-0MI5mw1aibarMhFDuXY8od1PrURwg.SemQSJD-3518ujJ0uDbJ_NRBTSiA8U4QWvP_yKmA38Eg.JPEG/2DB4C2F5-A5EC-4C91-8413-716D6186F790.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTFfMjQ4/MDAxNzYwMTYzMDc1OTY3.RP_BTNJs_dMJ7OR_JUOoft0kNz7Yp8EM65ZTxPLF9cog.OGb971FVRYR2ebJqQ30MAExEgMV3QLzM-bQnAnxTqLAg.JPEG/20251011_151012.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDFfMjAx/MDAxNzQ4Nzc4MjIyNjA3.9rjvO36crhPd56okw6LA__VMH6A3BKK7imLbdHKiQEsg.lq2PScir3sQiz4uvZhScV8IHbB0Hq1aIbIqqpv9Mh-sg.JPEG/1000136373.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "230629",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 5,
+        "id": "17926788",
+        "name": "써브웨이 종로점",
+        "x": "126.9859535",
+        "y": "37.570408",
+        "distance": 0.052,
+        "categoryName": "샌드위치",
+        "categoryPath": [
+          [
+            "220036",
+            "220044",
+            "220137",
+            "220996"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "샌드위치"
+        ],
+        "reviewCount": 2421,
+        "averagePrice": 6000,
+        "address": "서울특별시 종로구 종로2가 12 통일빌딩",
+        "roadAddress": "서울특별시 종로구 종로 77",
+        "abbrAddress": "종로2가 12 통일빌딩",
+        "shortAddress": [
+          "서울 종로구",
+          "종로 77"
+        ],
+        "displayContext": [
+          "샌드위치",
+          "미트볼",
+          "스테이크",
+          "데이트"
+        ],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "서울특별시 종로구 종로2가 12 통일빌딩",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTNfMjQy/MDAxNzUyMzc2ODAzOTUx.P7naF5XTPEDkC5m6NbndRqjHzLXrH0C-aXaDVs6faBwg.qOdA4l0zz2ljRN_jlHqqQLg-LbZD6ZdGrxpH9N2As6gg.JPEG/F7139E08-DF56-4C02-9EFE-2DE84FF12E62.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDFfMTQ3/MDAxNzUxMzU1MTcxNzE1.mERYUQ_OdNKKUseXPJq6GalZMfaKDCpGtkdur911VPsg.tK1iiUmbQlowMnwk-3PY6MsQM5O7MWGNFcFh3wgqrkEg.JPEG/3CD8DC22-095F-4F3D-88B3-B4A250E05178.jpeg",
+          "https://ldb-phinf.pstatic.net/20191006_24/1570363898573WwKEi_JPEG/Y_FrBpQ5w0TlBYQDOFKgQzos.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDFfMjAz/MDAxNzUxMzYwNzYzNTQx.m6YqDLHEUeSDqN6kcBKhFIoIURoTBNuOLm-2utA7Nlsg.qngXsGE7q_omXVDKdmWWM2cnAtKGjCJdnL6Z-sBDFeEg.JPEG/20250701_111157.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20200104_93/1578131610641EtIto_JPEG/cDHTtHEpOhdD17a9UcvPJyYK.jpeg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDNfODMg/MDAxNzU2ODY4MzQ3MTM0.5nXGZJOr3IYzMS7qteBA_63jRKXCLWZpENc4_kJU7Akg.GXrFS0uZhZktossrqR1Fl_PnWxWMRoFel_k6LD_54dQg.JPEG/B9BFE9CD-CDC7-4EBF-A82C-0E15D64145FC.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDhfMTQ4/MDAxNzQ2NjcyMTI4ODU1.SlbkEy1mV90LuDYJHu-kevztoAOh9dyHSoMl-9R6MQgg.KpARaiUBKolAUuG3O-isfOHVg6RS5KQ6-XrFlrBuLrgg.JPEG/20250508_114002.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDVfMTAg/MDAxNzU0MzY0MzI4MzMz.bxNNpwRFkLgo6_pPcgbkztFfzvBWpGp0EOh3XWd5_HQg.4ujERNKrK8oob_GW3Qf8eQ7Ga6z_kkW-YEPTsfgb5xYg.JPEG/1000005700.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTJfMTUg/MDAxNzU0OTY4NjE2MTQy.dfDQ-31H4XjDxCf5uOaeT2muMBmQsAyyJjzHCs8glvMg.ZBZbhRIzDtjpMbjmuu8xEX3hEI3lNwEgGTj-EhkPYC4g.JPEG/1000005959.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDNfOTIg/MDAxNzU5NDE3NDQxMDU1.fnu5boD1zdq2A2AYjQwC-riJVvhiuQu8TlV1DrJbmcsg.WEOT42D6BgE9LzEq7UodKRXIuiSpgmU1oNcsHrUtRW8g.JPEG/05583328-B448-4729-8C0D-5C374FB4AF8F.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220996",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.39",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "17926788",
+            "bodySummary": "종로 2가 항상 애용하는 종로 2가 써브웨이입니다. 종각역 3번 출구에서 200m 걸어오시면 바로 보이고 운영시간은 매일 오전 7시 30분부터 밤 10시까지입니다. 오늘은 저만의 ",
+            "url": "https://m.blog.naver.com/dnwlsakej/223396196097",
+            "nick": "엄마나이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAyMjVfMjMw/MDAxNzA4ODU2MTg1MDkw.L4Zf8AhJxSDFl1e0jlQ95pnhFSYEx1JvpC-Elyp_4W4g.0p966s0QIYT7cIX8G04NdfZPnaJrOb_I94mtUUMUwbsg.JPEG/profileImage.jpg"
+          },
+          {
+            "sid": "17926788",
+            "bodySummary": "소중하고 초라한 내 식량 2층은 자리가 많고 넓어요! 제 자리 왜 제 자리냐 저 튀어나온 판에 휴대폰 올리고 Ott먹으며 보면 아주 꿀 혼밥러들 많으니 혼밥은 종각서브웨이로 오세욤",
+            "url": "https://m.blog.naver.com/am5246qr/223336935124",
+            "nick": "은술랭",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAxMDVfMjA1/MDAxNjQxMzQwMTYxNzM0.kb8c-cylzzIZqjBSo_R_q1nN6A698_bxcoYX_t2Vv-Ug.JS3aGBFs1_leTuNAMhR6oDcNZQ46fX2o7a-jgAwAfkIg.PNG.am5246qr/profileImage.png"
+          },
+          {
+            "sid": "17926788",
+            "bodySummary": "써브웨이 종로점 서울 종로구 종로 77 통일빌딩 매일 07:30 - 22:00 02-737-0034 예약, 포장, 배달, 남/녀 화장실 구분 안녕하세요! 챙이입니다 너무 오랜만에 ",
+            "url": "https://m.blog.naver.com/chaengii26/223262667977",
+            "nick": "챙이 chaengii",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA1MjhfMjk4/MDAxNjg1MjQyNzM3OTU2.VsIsFRXgUK2joo5Qrk1_T4WcA8XKgave4IWAWRrEQpMg.GpaTaLGEQdymCNjlFAa8Bp2vycXlKLXJY_Ry1rCuFUsg.PNG.chaengii26/profileImage.png"
+          },
+          {
+            "sid": "17926788",
+            "bodySummary": "현재 가능한 빵 위트, 허니오트, 플랫브레드만 가능!!! 이번에 주문한 스파이시 이탈리안 칼로리는 464인데 소스추가하면 더 나갈것 같다. 참고. 꿀조합 소스 랜치+스위트 어니언 ",
+            "url": "https://m.blog.naver.com/digua1004/223242116703",
+            "nick": "야무진고구마",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA0MDlfMjEg/MDAxNjgxMDE2NTU0MTUy.E5khiw__nXaTlWoGPRZKcoKo4gIeFcBl0chY8ngFPl0g.6pXxTdUPEK97EJlp43xA89qb_utEEWUXoHVyfr_68rsg.PNG.junghwa4833/profileImage.png"
+          },
+          {
+            "sid": "17926788",
+            "bodySummary": "지하철 파업한 날 … 역 앞에 써브웨이 있길래 들어가서 먹었다 오래간만에 먹으니까 맛도 있더라~ 집까지 가는 길은 넘 힘들었지만 … 써브웨이는 맛있었고 가격은 쪼끔 부담스러웠다 종",
+            "url": "https://m.blog.naver.com/99_hyuns/223215898976",
+            "nick": "쩡",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxNzA4MDFfMTAw/MDAxNTAxNTgzMjEyMTEy.qMMELFdn9HYjwXCg_BQ6r5Go_x2BvvjzoGCgdkHL2Rgg.Ayx0NhKjBsZ3K0grPLLcaM7jvXQIeHFwk_EWTEQvFnMg.JPEG.99_hyuns/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "id": "31906129",
+        "name": "와이분식",
+        "x": "126.9852891",
+        "y": "37.570635",
+        "distance": 0.013,
+        "categoryName": "종합분식",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220185"
+          ]
+        ],
+        "category": [
+          "분식",
+          "종합분식"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 0,
+        "address": "서울특별시 종로구 종로2가 9 YMCA빌딩 지하 1층",
+        "roadAddress": "서울특별시 종로구 종로 69",
+        "abbrAddress": "종로2가 9 YMCA빌딩 지하 1층",
+        "shortAddress": [
+          "서울 종로구",
+          "종로 69"
+        ],
+        "displayContext": [],
+        "labelTheme": "분식",
+        "microReviews": [],
+        "cardDescription": "종로 YMCA빌딩 지하에 위치한 와이분식입니다. 저희 와이분식에서는 다양하고 저렴한 메뉴가 많아 직장인 및 학생들에게 인기만점인 곳입니다. 또한 배달도 가능하며 한국인의 입맛에 꼭 맞는  ",
+        "description": "종로 YMCA빌딩 지하에 위치한 와이분식입니다. 저희 와이분식에서는 다양하고 저렴한 메뉴가 많아 직장인 및 학생들에게 인기만점인 곳입니다. 또한 배달도 가능하며 한국인의 입맛에 꼭 맞는  ",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20150831_41/14410135595840THFC_JPEG/146277563533658_0.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220185",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 7,
+        "id": "1962181056",
+        "name": "종각밥상",
+        "x": "126.9852353",
+        "y": "37.5709516",
+        "distance": 0.046,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 411,
+        "averagePrice": 10000,
+        "address": "서울특별시 종로구 인사동 241 1층 ~ 2층",
+        "roadAddress": "서울특별시 종로구 종로11길 9-10",
+        "abbrAddress": "인사동 241 1층 ~ 2층",
+        "shortAddress": [
+          "서울 종로구",
+          "종로11길 9-10"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [
+          "푸짐한 육회비빔밥으로 든든한 한끼"
+        ],
+        "cardDescription": "푸짐한 육회비빔밥으로 든든한 한끼",
+        "description": "김영삼, 김대중 역대 대통령의 식탁을 책임졌던 주방장이 직접 요리하는 정통 한식 맛집 고슬고슬 지은 밥 위에 정성껏 손질한 한우 육회, 참기름 한 방울, 그리고 엄마 마음까지 더한 육회비빔",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTdfMjk4/MDAxNzUwMTE5MDQyNTU2.MjqiLIZ5Y4k21xyQulYG19CE6no0gZri1xQ3TQ9dJogg.V_Y-zbJchcHWCBtD31iy_kZoYAE8BevLnOBT0kRkds8g.JPEG/20250616_183237.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjRfNjUg/MDAxNzU4NzAxNzY2OTQ0.IGjGoZwWZX_9T8LsuK8YVkovloSCwfit5MVa5dMMiyUg.7dpK-UbcIRMefg8hEeL0eBtX3CB269-H33vlry7MjmIg.JPEG/1000026155.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250518_139/1747572021143dXfbw_PNG/KakaoTalk_20250518_213529292.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTBfNjgg/MDAxNzU0Nzk3MzM0MDA5.jH9gcj1fWlAeWLZ3ee6HtTnrtVN7FVpTUql8oUvAan4g.fmV1o00TCifmDNkO2dkkegolCmfCnTSlElT11E4bplIg.JPEG/A628BC09-7F8B-4E3C-9583-5B062A1270A2.jpeg",
+          "https://ldb-phinf.pstatic.net/20250518_126/1747572035819T1flK_JPEG/KakaoTalk_20250518_213019862.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTRfMjQ0/MDAxNzQ5OTA3NjM1MTc4.JQdemFjQLy2jdWo-vDbOZ9nTIsnm_ygk6hdWVuXAbwIg.jb3aIMZEhfwCCDXPdRGD9WRfyMvUukrsw_2wNyaL5sAg.JPEG/D62E170E-58C8-44B5-968C-64DA4D5038E7.jpeg",
+          "https://ldb-phinf.pstatic.net/20250518_64/1747572031382TvOms_JPEG/KakaoTalk_20250518_213019862_01.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTZfMjAy/MDAxNzUwMDY4MDkwNjI0.mx2aEPyKCyPaOYtmC8wShwNuCWllUwpytUvBlyxjJYgg.R8RM1ChuK4FaWN_ExuKBKibXUZ2y-Gc-FqUYg30Odj0g.JPEG/5F3421E5-B07B-428A-9CA0-37374C35646E.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjZfMjM3/MDAxNzYxNDcyNDYzNzA3.OUTF7hEjHNnmEyKSKrSnNZb47IdZsTXN7l1Op5QSzgEg.Q4ZKBkrzTDwDQknqHnO-trYtf96ijXRaGBv2yNhIF80g.JPEG/1761472455814.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MThfMTM0/MDAxNzUwMjMwNjU5MTI5.MHMAOvu4eESOIBqT3RgraZtO3smY-JhHg4ke6GnJlEEg.NN2kbAVniXvtfd84hbNJ7U0Jm5sAzR_U2i2O1E2etk8g.JPEG/20250618_115048.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "1962181056",
+            "bodySummary": "종각역 종각밥상 위치: 서울 종로구 종로6길 11 1층(종각역 3번 출구에서 73미터) 영업시간: 월~토 11:00~22:00(브레이크타임 15:00~17:00, 라스트오더 21:",
+            "url": "https://m.blog.naver.com/haddol1492/223348304542",
+            "nick": "겨울아이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20230927_55/haddol1492_1695797849976RSIao_JPEG/image.jpg"
+          },
+          {
+            "sid": "1962181056",
+            "bodySummary": "주문한 육회비빔밥이 나왔다. 육회 양념이 상당히 빨갛다. 소고기무국도 같이 후루룩 슥슥 비벼서 냠냠 양념이 살짝 매콤하고 달달한게 아주 맛있다! 사람이 많은 이유가 있네 이 주변에",
+            "url": "https://m.blog.naver.com/semii0215/223343733635",
+            "nick": "톨",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMTBfNTMg/MDAxNzA0ODUwODEzNzM3.2Uc4w_97K2EBPS67GdLgNN3t4f_fbCwDlOmErYYtXbUg.5HRZqyh_gNap5GqFYMhAJaohKaLk6iZidk9rsEj0fdcg.JPEG.semii0215/KakaoTalk_20230417_101244149.jpg/KakaoTalk_20230417_101244149.jpg"
+          },
+          {
+            "sid": "1962181056",
+            "bodySummary": "평일 점심 조금만 늦어도 웨이팅 필수! 직장인들 점심 픽! 육회비빔밥 맛집 종각역 3번출구 앞에 위치한 종각밥상입니다 출근할때마다 지나가는 길에 있었는데, 매번 늘 가보고 싶었거든",
+            "url": "https://m.blog.naver.com/didwls68/223259659441",
+            "nick": "기먕",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA1MDJfMjgx/MDAxNjUxNDcwMjc1MzQz.ASlZ-c4VVfCzdhGGoi6Tyz1SYUQDUGFBN0aGzSPlRtsg.iT0pKbmXPfI2xZ5utRLDc0HacsIv7PcjzRJpu4s2Ig8g.PNG.didwls68/profileImage.png"
+          },
+          {
+            "sid": "1962181056",
+            "bodySummary": "나는 13,000원짜리 한우육비(특) 주문 기본찬은 무난하다. 벽에는 사장님 소개가 붙어있다. 김대중/김영삼 대통령떄 주방장이었던듯 하다. 한우육비(특)이 나왔다. 매우 푸짐하다.",
+            "url": "https://m.blog.naver.com/pjpy1001/223282513805",
+            "nick": "널러리",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMjRfMTIy/MDAxNzAwODAzMTYxMjEz.s6p3LZxxMyW5em4W6UXk3aK8Zw7RMWpUtLjP4j40LWAg.M8snrV8T884stwwotEBABcyIHM_jo0faRbquHhKk6x8g.JPEG.pjpy1001/KakaoTalk_20231124_133229065_02.jpg/KakaoTalk_20231124_133229065_02.jpg"
+          },
+          {
+            "sid": "1962181056",
+            "bodySummary": "종각역 3번 출구 나와서 종로타워 옆골목에 위치한 종각밥상. 청와대 쉐프님 출신이 운영하는 곳이라고 한다. 대표메뉴는 육회비빔밥. 종로타워 옆 골목, 종각밥상 입구 아담한 실내 사",
+            "url": "https://m.blog.naver.com/yesican1/223279221825",
+            "nick": "푸르른날쭌",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20140622_131/yesican1_1403402150556Q2MJC_PNG/%C2%E0%C0%C7%B8%C0%C1%FD%3D%C7%C1%C7%CA%3D%B0%CB%C1%A4.png"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "id": "1536342709",
+        "name": "오양식관",
+        "x": "126.9855922",
+        "y": "37.5708808",
+        "distance": 0.041,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 496,
+        "averagePrice": 20000,
+        "address": "서울특별시 종로구 인사동 235 지하1층",
+        "roadAddress": "서울특별시 종로구 종로11길 11",
+        "abbrAddress": "인사동 235 지하1층",
+        "shortAddress": [
+          "서울 종로구",
+          "종로11길 11"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [
+          "라면사리 추가하면 완성되는 한상"
+        ],
+        "cardDescription": "라면사리 추가하면 완성되는 한상",
+        "description": "오양식관은 광화문 오양사조빌딩 지하에서 2013년 개업하여 그 일대 직장인들에게 호평을 받고 현재 역시 영업중이며,  2018년 12월 2호점을 종로에서 개업. 1호점의 성공을 손님 덕분이라 생각하 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MzBfMjQy/MDAxNzQ1OTg2MzYwODk0.sjjtQjPibypwkSz9VaoSToXdcladmLvH5sOdmEcIBjcg.l0qv05lVAnRyPIz6zmrLb-AFY-C6uzHhJi1FOQC6_6Ag.JPEG/7C24B64D-FBAD-411B-9880-6501E1732268.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDhfMTQ3/MDAxNzQ2Njk1MjUwMzYz.W_lcowyc2dZmmYocBYVEIb-YtMu4G-M5OrR41Y-2yCQg.0phrdZQOyRqB7ZbAQMj-KeuHqsr2KNj7aCA0cbwdBNwg.JPEG/20250424_125617.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20190103_77/1546518538739p7fnY_JPEG/%B5%C5%C1%F61.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDFfMjgw/MDAxNzU5Mjk2NzQ0MDM3.TW0cUBBbGngb3ilF9bZfcXqsCyRidvsV4U4FV0B7-Msg.TPe1PCMRxNJZIQH4JtR5oHEhC_XtjVaOJenHYOuRJj0g.JPEG/1000017974.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDJfMjEw/MDAxNzQ2MTc1MzY2ODU4.Ec45cwzq8a1Dk189MHTg6wZs5yY3YLIGDxSYH8UGe6Ag.oudnQ11X4qd26l7xD_AkhlEwMuIcUqyiA_Gw1NWVl8Qg.JPEG/A955F06E-9CCF-4A84-BAFC-6565F12E8641.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1536342709",
+            "bodySummary": "추가주문한 라면사리 1,000원 쌈채소도 같이 나온다 추가주문한 계란말이 7,000원 인원수대로 김치두루찌개를 세팅해주심 뚜껑을 닫고 보글보글 끓이기 고기가 익을때까지 끓여주면 맛",
+            "url": "https://m.blog.naver.com/kimhkhelen/223337798784",
+            "nick": "로하맘",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA2MjJfMTgw/MDAxNjU1OTAyNTc5NDgy.lgvltLla9BclqseG8Nfv0x7d1VVw4vHtIbelu67REmMg.0Xcojb18_w06irfs4_kMziFdIcSQfz2obRXJdor2M_Ug.PNG.kimhkhelen/profileImage.png"
+          },
+          {
+            "sid": "1536342709",
+            "bodySummary": "다 맛있어요,, 밑반찬을 보자마자 입꼬리가 올라갔고 김치두루찌개도 옆 테이블에서 보글보글 끓여지는 중 입술 씰룩씰룩 아웅 고기도 때깔 좋아 맘에 들어 왠지 시작부터 단골집이 될 것",
+            "url": "https://m.blog.naver.com/dmstlfdl95/223316832227",
+            "nick": "시언",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMTBfMzgg/MDAxNzAyMTg2MDA4NjQ5.5-9ouirOTujPVyFEjXuNzuUMvWLwlTu3i0cofg3A1bMg.mIHXZn2UY4LHvM3HV5espIdwkua7naAXcG4lm0vndo4g.PNG.dmstlfdl95/profileImage.png"
+          },
+          {
+            "sid": "1536342709",
+            "bodySummary": "바~~로 ㄱㅂㅈㄱ 오양식관은 광화문역 6번출구에서 도보3-4분거리의 골목안쪽에 바로 위치하고있다! 미슐랭 맛집으로 유명한 '광화문국밥'의 옆옆건물이기도 함! 귀염뾰짝한 돼지간판을 ",
+            "url": "https://m.blog.naver.com/didiue/223278841239",
+            "nick": "didue",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAzMTRfNDUg/MDAxNjc4Nzg2NTIzMzI4._wiVcxPXUeFGDND5K8tLDhVveyNANb1kUntHV8GRf80g.OhuVFubYmmVXfdMHoj1-UzZ7MAFUodsKfBgs1_PCU1og.PNG.lotus526/profileImage.png"
+          },
+          {
+            "sid": "1536342709",
+            "bodySummary": "일단 저런 폰트에다가 약간 낡은 간판이면 벌써 맛집 반 정도는 인증했다고 보시면 됩니다. 처음 가보는 곳인데 들어가기 전부터 여긴 볼 것도 없이 맛집이겠다는 생각에 가슴이 뛰었어요",
+            "url": "https://m.blog.naver.com/jessymoa/223206437241",
+            "nick": "제시모아",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA1MDZfMTkw/MDAxNjgzMzcxODM1MDE0.cTkuP6zMRgE-AjfD5sOBDH3vaEbKcJoUjSy16b9u8Twg.Porr0SlWEqeboJ0sl1GdyzYgfHuPmwIccfnGuK2fR8sg.JPEG.hjy941015/stock-1863880_960_720.jpg/stock-1863880_960_720.jpg"
+          },
+          {
+            "sid": "1536342709",
+            "bodySummary": "배고파서 고기먹으러 #암돼지오양식관 종각역근처 지하이다 메뉴판 부족한 야채는 셀프바에서 더 담아올수있다 김치는 신김치였음 두툼 목살 정작 굽고나서는 사진을 못찍었다 2인이상주문시 ",
+            "url": "https://m.blog.naver.com/strawberry153/223204449160",
+            "nick": "봄봄",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA1MDNfMjI1/MDAxNjgzMDgzMzQ4NzM0.breppHVHz5cc83YUb6BxIWatE_toJjHMxvw0O5hhWKUg.NHU-ybeN4TgQlYl3KrsuPVYzH-UgBdW6KYJrmpbXXD0g.JPEG.modetourmoa/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "id": "33878581",
+        "name": "이춘복참치 종각점",
+        "x": "126.9851208",
+        "y": "37.5704273",
+        "distance": 0.027,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220076",
+            "220792",
+            "1005302"
+          ]
+        ],
+        "category": [
+          "해물,생선요리",
+          "생선회"
+        ],
+        "reviewCount": 1749,
+        "averagePrice": 20000,
+        "address": "서울특별시 종로구 종로2가 9 1층",
+        "roadAddress": "서울특별시 종로구 종로 69",
+        "abbrAddress": "종로2가 9 1층",
+        "shortAddress": [
+          "서울 종로구",
+          "종로 69"
+        ],
+        "displayContext": [
+          "참치회",
+          "참치무한리필",
+          "초밥",
+          "신선한",
+          "고급스러운"
+        ],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [],
+        "cardDescription": "바른 식재료와 풍성한 먹거리를 공급하겠다는 약속. 오늘도 이춘복 참치는 창업주의 경영철학을 굳건히 지켜갑니다.  우리는 고객과 함께 가는 길을 추구합니다. 우리 가족의 좋은 음식이, 우 ",
+        "description": "바른 식재료와 풍성한 먹거리를 공급하겠다는 약속. 오늘도 이춘복 참치는 창업주의 경영철학을 굳건히 지켜갑니다.  우리는 고객과 함께 가는 길을 추구합니다. 우리 가족의 좋은 음식이, 우 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTFfMTI5/MDAxNzU3NTkyNTQ1NTA2.-djjIbZNevsm0La-oxerP-FotarslFmBYvSxNfWhBcQg.Y-_iozDKeNIlAR0P0LJb0lc3bDLBbNQTbk7kgcrZXnUg.JPEG/20250911_181740.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MzFfNjMg/MDAxNzU2NjA1NTY1MDIx.jdzHZvW35-6hOzhBWCi9br3H8-w_YUQpbSyEfDFQjbEg.XcoJvi9I0Jt_FknL1Spo9InXBJc3qlvgBDq1uoFbqsMg.JPEG/E43AABE5-E44A-49F5-A045-DD19DF191870.jpeg",
+          "https://ldb-phinf.pstatic.net/20251001_229/1759307189871JExUT_JPEG/%B5%A7%C7%AA%B6%F3%B0%A8%C3%E1_%BE%D7%BC%C7%C4%C6_01.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjdfMTU4/MDAxNzU4OTQ0NjY3ODky.nuzw_qrZur9xF_T3BCOGuBxVwa86KcTOABSYEd27JLAg._WvfrRvyhjPrL53Nem_yBNP8xg6V1tC5h8NSBEbetq8g.JPEG/1000059853.jpg",
+          "https://ldb-phinf.pstatic.net/20250304_225/1741053562611VgSeN_JPEG/26.%C8%A5%B8%B6%B1%B8%B7%CE-%C7%C3%B7%AF%BD%BA-%B8%F0%B5%D2_01.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTZfMjAx/MDAxNzU1MzIxNjM4ODAy.KVlxjcyj33fL6JP2fTtz2C-ZLxaNeC1A7UOkXFJ4Vacg.b9SLriOHp-erkb8porR-LLpViRgtVOg-rF7AzEUFy34g.JPEG/14EFE2EC-C374-43D2-9CC3-25A36C24253B.jpeg",
+          "https://ldb-phinf.pstatic.net/20250304_10/1741053558751jYytp_JPEG/23.%C8%A5%B8%B6%B1%B8%B7%CE-%C7%C3%B7%AF%BD%BA_01.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjJfMjk1/MDAxNzU1ODQ4Njg0ODM2.r_SpMD7VIIz5KakOsUOUkL5-4oDlGjORtbwtDggcibwg.32icmyd2hqHaONndQ0HBeZHI1Gg0S_E8KehRiLDlhjcg.JPEG/20250821_173551.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDJfMzkg/MDAxNzQ4ODQ5NDY1Mzcw.LVYaYxwRXefWQXXbEP2AAw4XdZxxH-qM-mEd2L0HvaYg.4Gn-j9ode4MEDGpcMERoPWJNZmFyCsVVEFrFzZrSrzgg.JPEG/20250530_125116.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDVfMjk3/MDAxNzU0MzUxNzk2MjU5.Q-e2PAspk1cmJqSCRBwQBm8UiEyZPTN6HMsFKJBvTpsg.0aLrbxH7hLDzWH4v6xmGoF9ujXRB63wShc6TIDgpO2Ug.JPEG/1F2B4C68-509D-4855-805A-FF8ADCCCEAE7.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1005302",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.33",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "33878581",
+            "bodySummary": "D 이춘복참치 종각점 서울 종로구 종로 69 1층 [영업시간] 월 ~ 토 11:00 ~ 24:00 일 11:00 ~ 23:00 브레이크타임 14:30 ~ 16:30 [전화번호] 0",
+            "url": "https://m.blog.naver.com/newriwindow/223398310733",
+            "nick": "뉴리",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMDhfMjA2/MDAxNjk5NDI0MzI2NjU5.T4gTMLusELB7yrvcf56OSJcuL-sWebuaHGK2GRw0u7Eg.WTqT62Gnrw6njs8uubFZfVFWtr07bu9TOxQ0U9KpoHEg.JPEG.xilgkyr/KakaoTalk_20231108_151755857.jpg/KakaoTalk_20231108_151755857.jpg"
+          },
+          {
+            "sid": "33878581",
+            "bodySummary": "#종로구맛집#종각역맛집#종로맛집#참치맛집#이춘복참치#무한리필참치맛집#노원이춘복참치#종로이춘복참치#종로3가맛집#종로구연어맛집#종로구초밥맛집#종로구김밥맛집#종로구찌개맛집#종로구돈까스맛",
+            "url": "https://m.blog.naver.com/okeoug/223397817744",
+            "nick": "아루",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAxMDVfMTAg/MDAxNjQxMzc2OTQ0NzE4.FoDNUG8gbPpqtywVh1ZyyvycZQ9nCAVjTD7I38kpxC0g.r_ltQk2stUmsrXrSUq_Ngol2Lwd2Uh9jbNT_tI9HuFkg.JPEG.okeoug/Resized_20200402_071150.jpeg/Resized_20200402_071150.jpeg"
+          },
+          {
+            "sid": "33878581",
+            "bodySummary": "이춘복참치 종각점 이춘복참치는 종각역 근처에 위치한 참치 전문 식당이더라구요! 저는 여기서 실장 추천 참치를 먹었는데, 꽤 흥미로운 선택이었던 것 같아요! 참치요리에 특화되어 있기",
+            "url": "https://m.blog.naver.com/r0000r/223209025177",
+            "nick": "새시마",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA1MTJfMTkg/MDAxNjgzODUxNzgyOTk0.3ZEZsAp7u-IRNqEibZEn1hZJrOC1Y4oEvU91rLJbGs4g.QL0xzzwgF1721MLUpHV2IK-wdyMx02AG1X_E_11tQ5cg.JPEG.r0000r/profileImage.jpg"
+          },
+          {
+            "sid": "33878581",
+            "bodySummary": "이춘복참치는 종각점 을지로점 두 곳이 서로 가까운 위치에 있거든요? 오늘은 종각역 이춘복참치 매장 픽! 이춘복참치 종각점 점심메뉴는 회정식ㆍ초밥ㆍ덮밥ㆍ탕류ㆍ면류 다양한데요~ 알밥ㆍ",
+            "url": "https://m.blog.naver.com/dizzy0201/223163848296",
+            "nick": "지지",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA4MDVfNjcg/MDAxNjI4MTI0MTY2MTE3.6cMi20bdKtXxP_HIBEp_tYkPkZErEhGce-V8birpuJ4g.wlIlp-ggMjl75dGuu0nyYTmklfLLz0ftqmUlftJ1jDIg.JPEG.dizzy0201/profileImage.jpg"
+          },
+          {
+            "sid": "33878581",
+            "bodySummary": "이날 미카도스시 종각점가려고했는데 세상에 폐점이더라고요 그래서 갓덴스시가려다 줄이 어마어마 해서 이춘복참치로 옵니다 노량진댁 회 맛을 잘 몰라 그냥 가장 저렴이 먹어도 될 거 같은",
+            "url": "https://m.blog.naver.com/lljj0926/223162203379",
+            "nick": "노량진댁",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA2MTBfMTE3/MDAxNjU0ODQ0OTk0MDky.UXbr2hRywU9NaNBnxypoKuqMexiHgFeDUFfBZpjz-lUg.zTCwVp5y3EehmarpbH0bzklUklAMgzLDzbqLbz8KXpYg.JPEG.lljj0926/KakaoTalk_20220526_150648601.jpg/KakaoTalk_20220526_150648601.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

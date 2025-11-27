@@ -1,0 +1,414 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 4,
+      "count": 4,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.9723171313813,
+          "minY": 37.569202702702704,
+          "maxX": 126.97345370510504,
+          "maxY": 37.570103603603606
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.97288541824318;37.569653153153155",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1592499043",
+        "name": "로네펠트티하우스 광화문점",
+        "x": "126.9733607",
+        "y": "37.5698394",
+        "distance": 0.047,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "1005272"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 406,
+        "averagePrice": 8000,
+        "address": "서울특별시 종로구 신문로1가 115 콘코디언빌딩 1층",
+        "roadAddress": "서울특별시 종로구 새문안로 76",
+        "abbrAddress": "신문로1가 115 콘코디언빌딩 1층",
+        "shortAddress": [
+          "서울 종로구",
+          "새문안로 76"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "세계명차 로네펠트 티를 광화문에서 즐기실 수 있습니다.",
+        "description": "세계명차 로네펠트 티를 광화문에서 즐기실 수 있습니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTlfMTg1/MDAxNzQ3NTgxNDA1OTg0.fkE1UjdLt-0OtCrq5BZR2rRTBjpaxnnUDZcyiBnnn00g.UhKmY1tLFVMs-SpIhamUdIwR1EULrSErBFhjTu3iRWgg.JPEG/47923637-CB90-4927-83A4-E31E0676FDF6.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjdfMjc4/MDAxNzQ4MzQxNjIzNjY0.F_tcPVqvfgFS4wFtvO5CyxuXyzJVHRWuIWJi8rXXgdIg._-2QGlApCnFDJFiFWxwA5lWrUuN0H0hKrXZm9bqhK6wg.JPEG/F7540CF7-52F2-4A81-BA07-74D2750E73F7.jpeg",
+          "https://ldb-phinf.pstatic.net/20211105_230/1636092434198hjzFB_JPEG/yGVvaY9WkHb_oBLVNTVFxJxU.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDlfMTY1/MDAxNzU5OTM3OTEzMjgw.yRPPInbozSpq3mujETgiWQuO1zSFMTXAlTE7B-_61qsg.1YfjFvShup4Lcy_zKyzeg0SV5gDZYXdJdkxenyfP-xYg.JPEG/CD1E2D51-B21B-4956-93AD-5947AF45D3DE.jpeg",
+          "https://ldb-phinf.pstatic.net/20211105_149/163609245598636p47_JPEG/F6CqewmT7jA9HQhls8mzJZ_b.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjlfMzMg/MDAxNzU5MTUyMjY0MDEz.AImAQi5AItC-fcnTp6Z4ysNPO4Z5AC-CuSijUgHg-Hgg.Lxa8KJ5OmPn_LStIah9rUpnI1AVbx_FoJG4BJSakCqYg.JPEG/A7938E40-B9FE-4CD2-B9E3-0062C1B4F1B7.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTVfMTcz/MDAxNzU3OTI2ODY1NDUz.yG8nY3tPUE1k3wBmO3r3uIvDiktf3Dbx2pr_KQjFAgIg.0XOVbhPXv_V2ZmXTyVM_URx0-7vhSei7dLzBETHirvIg.JPEG/20250915_174112.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDhfMTI1/MDAxNzQ2NjY4NTYwODg1.ZJv-qzeE1s5rFR9SUKdTiIHFQsBE6UjQ5vEJD-A77zAg.WxifEiHA9W87dceEzYscrzOSM4cNNrGkJlapl9ctzWQg.JPEG/5F50785E-6882-4FC7-AAC6-D1819573BC75.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTBfMTUz/MDAxNzQ5NTQ4ODI0MTk4.JdsWITxaH39cYOvBgT-I7fHditXu1QExGwlYB4yIijMg.NxDMh-RSDSdb4OhN2W0ZEzxHEn5Bl7TLQuuwgYNQI6Eg.JPEG/1000033806.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjBfMzAg/MDAxNzU4Mjk0Mjk0MDYz.ncCMxByrIn8fEDpMlldBLSZKV8cHDmeEVQSeRLp6OOwg.zLXMSrEW5XWaBGH09dmrAyCxH7bUaf9O44K0q3JIaBIg.JPEG/4C6041A8-47CC-4746-B45A-32A1CA201F98.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1005272",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "1592499043",
+            "bodySummary": "한남동 지점만 가보았는데(이제는 사라져버린..) 광화문점은 한남동점과 다르게 굉장히 밝고 작은 카페였다 위치는 금호아시아나 빌딩 있는 쪽. 포비 광화문점과 같은 건물 1층에 자리 ",
+            "url": "https://m.blog.naver.com/weasleychoi/223356804258",
+            "nick": "토마",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20141130_2/cm3868_1417281853129C2Fd5_JPEG/profileimage.jpg"
+          },
+          {
+            "sid": "1592499043",
+            "bodySummary": "다양한 차 종류들 디저트류 얼그레이밀크티(8,500) 스트로베리필즈 밀크티(8,500) 이름은 기억안나는 에이드(8,000) 밀크롤(6,500) 밀크티전문점이니까 밀크티 위주로 주",
+            "url": "https://m.blog.naver.com/xoxomm2/223149099162",
+            "nick": "머랭",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA1MTFfMjg1/MDAxNjIwNjYwMzQwMzM5.i-o4NYwuAcDcs_U4vRh2n3eUFp-Th9U77dG_pyweRRIg.76w3zv-MNN-7aZu3FaJQ1EdtQbJSpsQbYprNmz7XNjsg.PNG.wonj0327/profileImage.png"
+          },
+          {
+            "sid": "1592499043",
+            "bodySummary": "얼마전 퇴근후 차 한잔 마실 짧은 약속이 있었다. 직장근처 #투썸플레이스 에서 만났다. 커피를 종일 마셨기에 #애플민트티 를 주문했다. 아니 그런데! 별기대없이 마셨는데 너무너무 ",
+            "url": "https://m.blog.naver.com/belief2717/222928835870",
+            "nick": "나의별너에게",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20151027_192/belief2717_1445922299853K4tEk_JPEG/%B3%C9%B3%C9.jpg"
+          },
+          {
+            "sid": "1592499043",
+            "bodySummary": "가끔 들르고 있는 르네펠트 티하우스 입니다. 오늘은 최근 먹어본 디저트만 소개해봅니다. 시식은 매번 있진 않아요. 있으면 한 조각 먹어보고, 여러개 사게 되고 그런거지요. 사탕, ",
+            "url": "https://m.blog.naver.com/yujon47/222606465601",
+            "nick": "진후",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20231118_18/yujon47_1700304513300nGth6_JPEG/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "id": "1730708111",
+        "name": "포비브라이트 광화문점",
+        "x": "126.9730296",
+        "y": "37.5698189",
+        "distance": 0.022,
+        "categoryName": "베이커리",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220564",
+            "221161"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "베이커리"
+        ],
+        "reviewCount": 2856,
+        "averagePrice": 5000,
+        "address": "서울특별시 종로구 신문로1가 115 콘코디언 빌딩 1F",
+        "roadAddress": "서울특별시 종로구 새문안로 76",
+        "abbrAddress": "신문로1가 115 콘코디언 빌딩 1F",
+        "shortAddress": [
+          "서울 종로구",
+          "새문안로 76"
+        ],
+        "displayContext": [],
+        "labelTheme": "드립 커피",
+        "microReviews": [
+          "햇살 가득한 베이글 카페 포비브라이트"
+        ],
+        "cardDescription": "햇살 가득한 베이글 카페 포비브라이트",
+        "description": "'건물의 컨시어지가 되자' 모토로 광화문 콘코디언 건물 컨디션에 자연스럽게 스며드는 공간이 특징인 매장입니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjJfODUg/MDAxNzYxMTA4ODM4Nzg5.nHDnNS5RCL1DgZQLC8YjnuGcSsWlVroIHiz94bB4Suog.nWJAVTCt4AWLqHaf4mD9jWZZfU0EfgfFTwMpiMjRIjQg.JPEG/65E791DE-95A2-48F2-9677-966031EFA482.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjlfMTk0/MDAxNzUxMTc1NTM1MTAz.TJ4qh--Zy3-CFRHATBL-vAQ3WWfy0yDa4Mo7ElA9Tk0g.U86LLdh3GXSl4sSb3c2X0ntr3zkAVXUW9w3gYdTBtbEg.JPEG/1000077452.heic.jpg",
+          "https://ldb-phinf.pstatic.net/20220916_295/1663304631102xJV9d_JPEG/1910fourb_0113_low.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDZfMTIz/MDAxNzUxNzU0NzY2Nzk5.jYA_ITAPijCey-JA7chuhfd_pH-Iaw0bbHUIwBEfsQAg.gZsiTbnCakvLZQE2SA1qIiWvdHsMNcgRlZchKmzqVr0g.JPEG/IMG_20250622_054718_931.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20220916_88/16633046164688KJft_JPEG/1910fourb_0066_low.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDRfMjMy/MDAxNzU5NTcyNzIyMDcz.r7r57A6uFKYahm-NXR-b3sSgVv6ZvMe43x2Eig-45MIg.xb9Rj40cJTITP8Vvuj6tTGTuTDq6cwT9RPVk69JEw8Mg.JPEG/20251003_130309.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20220916_278/1663299478775kBuc2_JPEG/1910fourb_0018_low.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDRfOTEg/MDAxNzU2OTc2NjU5MTcy.GEVu32Tph2tnedLZtb_ZsJbGGdBoMfYW1XvrVHJJ5o0g.wezfo9IehZw7yeNAzDoXsUpd7gMNX7bn9ne5nNLOikUg.JPEG/BED0BC40-0C32-438F-979F-FAA21990A453.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjBfMjk3/MDAxNzU4MzY1MTYzODI5.QxJ-BRw93rjmt0hD9ExYgzgTDiz7f3BT_OkScIdfYsIg.mKbanGHgOJUaosiwu60ywF6GM6zeMltSEXoaYU0j2XAg.JPEG/F8844910-6091-4800-830B-D1F245BFA9B7.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjZfMjEy/MDAxNzYxNDQ3OTE5MTA2._qPcRXKHMMopVHPPXUmLWu3o9GL-7hV1Gxl12VwfkLcg.edyHc6DFlzs9Kai8KxOtWcSA16GI54fPVAKePN0QGv8g.JPEG/90064DA8-570E-4CFA-AD78-903FE88ABDB2.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221161",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.58",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "1730708111",
+            "bodySummary": "제가 방문한 곳은 포비브라이트 광화문점이고 6번출구에서 도보5~6분 정도 거리에 위치하고 있습니다. 광화문의 빌딩숲을 보니까 저도 커리어우먼이 되고 싶.. 지만 이번 생은 또르르 ",
+            "url": "https://m.blog.naver.com/oaenglog/223384236021",
+            "nick": "오앵",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAyMjhfMjA1/MDAxNzA5MTEwNTExNjM2.d-N5yDfmhJvYE8GuWxGF9OOG4QxBB0Jloh9LQwYj2q0g.cDJD9xfUtiolf7_-YuTHfM3hYEelHOuSJJ2uVabFkEEg.PNG/profileImage.png"
+          },
+          {
+            "sid": "1730708111",
+            "bodySummary": "포비브라이트 광화문점 서울 종로구 새문안로 76 콘코디언 빌딩 1F ️ 영업시간 평일 07:30 - 20:30 드립커피 14:00 - 18:00 주말 10:00 - 20:00 드립",
+            "url": "https://m.blog.naver.com/wlgp082000/223377358890",
+            "nick": "위즈덤",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTEwMjVfNTcg/MDAxNjM1MTE3NjQ1NTEz.ff4Z8TSur1iSJIrQBEsJHvmudYEAR1auppmXgkyLO_cg.JcvjVQCeZ9KRrTBxbNHD9APIq0Pz0xLV3JkHFAq6nncg.PNG.wlgp082000/profileImage.png"
+          },
+          {
+            "sid": "1730708111",
+            "bodySummary": "동상 옆 건물에 있으니 이도 참고하면 좋다. 로비로 들어와서 오른쪽 안쪽에 위치하고 있으니 참고하자. 유리통창에서 들어오는 아침햇살이 너무 예쁘다. 분위기 베이글과 드립커피가 유명",
+            "url": "https://m.blog.naver.com/eornrsayclub/223373558980",
+            "nick": "디디",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA4MzBfMTA5/MDAxNjkzMzIzNDc5OTMy.bk3Af4Z1qoaUiKPO4DjGjYjZrZF1OuAyhGpbrlqQe5Mg.D_CLza4PCvIa9VmLIoyMPPC8581tRRyrLKHARFoVdy8g.JPEG.eornrsayclub/230830_%25ED%2594%2584%25EB%25A1%259C%25ED%2595%2584.jpeg/230830_%25E1%2584%2591%25E1%2585%25B3%25E1%2584%2585%25E1%2585%25A9%25E1%2584%2591%25E1%2585%25B5%25E1%2586%25AF.jpeg"
+          },
+          {
+            "sid": "1730708111",
+            "bodySummary": "(몰랐는데 여기 건물 지하에 황생가칼국수 체인점도 있더라고요. 방문한 날에는 휴무였지만) 맑은 날에는 햇살이 잘 들어올 것 같은 창가자리 혼자 앉기 좋은 자리라 1인 손님들도 많았",
+            "url": "https://m.blog.naver.com/104371/223366190811",
+            "nick": "셔미",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMDhfMiAg/MDAxNzA0Njk4MjI5MTQ5.75ALoHB37sgfSSSILAbRMCIzOdU2_SOOJdkCiiiY58Qg.m5KgsUM8VRVaONMck0Qx4u9NGdCi3t_mmeiNBAHQ8gkg.PNG.104371/profileImage.png"
+          },
+          {
+            "sid": "1730708111",
+            "bodySummary": "1시쯤이었는데, 제가 딱 피크시간에 간 것 같아요.... 자리가 없어보여서 그냥 돌아갈까 했는데 대부분 점심시간에 테이크아웃하거나 짧게 먹고 가시는 분들이라서 자리는 계속 생기긴 ",
+            "url": "https://m.blog.naver.com/youngsin43/223362627207",
+            "nick": "시니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMjlfMTI2/MDAxNzAxMjQwNzE5Mjcy.7n5rPitLyB0Lo9jnPR3RWaGbD4VGE7vZnbQVAM8gDYsg.l-DF-nuCxNF_MYMyWadE9al4djHI5jtQccdwDqKWmgIg.PNG.youngsin43/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "id": "1640751820",
+        "name": "더테이스터스",
+        "x": "126.9731519",
+        "y": "37.5697797",
+        "distance": 0.027,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 715,
+        "averagePrice": 0,
+        "address": "서울특별시 종로구 신문로1가 115",
+        "roadAddress": "서울특별시 종로구 새문안로 76",
+        "abbrAddress": "신문로1가 115",
+        "shortAddress": [
+          "서울 종로구",
+          "새문안로 76"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [
+          "친절한 직원들이 전하는 따뜻한 서비스"
+        ],
+        "cardDescription": "친절한 직원들이 전하는 따뜻한 서비스",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDNfMjQz/MDAxNzUxNTM4NTA2NDQw.0O2TE-bjWQqV5Ec5J4II_h5y4jMNM4lRIluHsZSBJ_Ag.GZXAGbtGzgUQZ5J9raJGuqXdK6xSlFNZE2uyV02XC44g.JPEG/C1235B3C-C854-451E-8C7E-53CB76BEA391.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 4,
+        "id": "37769082",
+        "name": "한와담 광화문점",
+        "x": "126.9731965",
+        "y": "37.5697843",
+        "distance": 0.031,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220764",
+            "1002733"
+          ]
+        ],
+        "category": [
+          "육류,고기요리",
+          "소고기구이"
+        ],
+        "reviewCount": 1314,
+        "averagePrice": 40000,
+        "address": "서울특별시 종로구 신문로1가 115 콘코디언 B1F 102호",
+        "roadAddress": "서울특별시 종로구 새문안로 76",
+        "abbrAddress": "신문로1가 115 콘코디언 B1F 102호",
+        "shortAddress": [
+          "서울 종로구",
+          "새문안로 76"
+        ],
+        "displayContext": [
+          "한우",
+          "철판볶음밥",
+          "임실치즈",
+          "데이트",
+          "고급스러운"
+        ],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [],
+        "cardDescription": "광화문 고기집 품격과 맛을 담은 고기 명가 서울 종로구 광화문역 6번 출구 또는 시청역 인근, 저희 한와담광화문점은 깔끔한 인테리어와 넓은 좌석의 고기 전문점입니다. 특별히 프라이빗 룸 ",
+        "description": "광화문 고기집 품격과 맛을 담은 고기 명가 서울 종로구 광화문역 6번 출구 또는 시청역 인근, 저희 한와담광화문점은 깔끔한 인테리어와 넓은 좌석의 고기 전문점입니다. 특별히 프라이빗 룸 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTFfMTUg/MDAxNzU3NTY1MTg2MDc0.ckh9ySvIlpDMRsoIf2yYMVrHkYEiQBB1N1IrgDsUq0cg.vtXZUmg48ieUaeAV0u1CxU4rfqgAIcYjckGjZnyUOPQg.JPEG/20250911_111322%281%29.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTFfMjUz/MDAxNzU0ODg0NTc0MDkw.7Or8C2qrTXmLWDLyqin4XkYyzsCTfMcH7fK86vI_6Wgg.YA-0dX6RPSwbdUYtq1vvBYMZYai9wGtDLsHYgCxNr48g.JPEG/D746B0B3-6680-4495-BB14-480837CAE2DE.jpeg",
+          "https://ldb-phinf.pstatic.net/20240617_284/1718610849460wXNos_JPEG/KakaoTalk_20240312_172223660_13.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDVfMTAw/MDAxNzU3MDQxMTc3Mjkz.WfZjIdGLJIzr363GXESHnJGzmFD8MIgKf7okIFCQQswg.nNR7bkT5ixFlL5wd4r5F4YrpDtOJktqy0HqCpedODtog.JPEG/362643D5-58E5-4C8C-9EB5-BDF467443B19.jpeg",
+          "https://ldb-phinf.pstatic.net/20240612_154/1718172187105AAXyE_JPEG/IMG_4727.JPG",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjhfMjI5/MDAxNzUxMDc4ODcyMDMx.w2pFUw8Bg5b_A1KrDeCbbQyUvkkmHoPfFYXe5lSA1Wog.GTVakBiTr3iN57cD-gmSXoByMk7VWnO_Fajif61fj6wg.JPEG/20250628_110121.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240617_27/1718610941728q0nTx_JPEG/KakaoTalk_20240617_164244967_19.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjBfMjg3/MDAxNzUwNDE0MjYzMjU0.urozWiY8yY3PkZeuBd9ZtsIkcwl2OCTMT-tRVb8FNgwg.Lttxzb0Cs9oiOpJ7e09ibZIN1WTDkqSzVDiLQo0xv5kg.JPEG/20250620_140603.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjRfNyAg/MDAxNzU4Njg0MTE1NjA3.Bd7yxzOSXb1upX2Mjk5OUspxT2waRR6_tDKaWzyHFV0g.gwGegT_XVY4TDzvSdAHVnY0uP60BBt8iCnXuGRb_3sog.JPEG/99119B7E-B067-48ED-A220-D7AC7DB2081E.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjNfMjgx/MDAxNzYxMTg5NTY0NTAz.Tf2kT1gm3Bv0XCiVKicCaQoiBvkVn4YjFLlOCjd2uowg.BfEVfko0Cz5dXxmv3zwrnjRiqpWzvS3H3W-_ueIsy7cg.JPEG/80BBDF44-B85A-4699-86ED-8C9BEC50C9BE.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1002733",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.36",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "37769082",
+            "bodySummary": "하지만 저희는 오롯이 한우에 집중하기 위해 암소 세트를 주문했어요. 반찬이 먼저 나오는데 정말 정갈하지 않나요? 샐러드, 깍두기, 파절임, 백김치, 시금치와 절임류로 명란젓 등이 ",
+            "url": "https://m.blog.naver.com/abc_bosang/223384421681",
+            "nick": "ABC보상",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxODAyMTFfNjkg/MDAxNTE4MzM2MDE0Nzc3.qdZBeqiP4e7CFK9uUquObV9lwmHLAxq8j2mfjzEaK3Ag.xMdZuDRcdyM6yPwHoscEOkKmIQAfrHhF9B6ks4wcmfUg.PNG.abc_bosang/%25B8%25DE%25C0%25CE%25BB%25E7%25C1%25F8.png"
+          },
+          {
+            "sid": "37769082",
+            "bodySummary": "한와담 광화문점은 프라이빗한 단체룸이 있기도 하고 내 직장과 근접해서 회식할 때마다 한 번씩 온다. 단체 예약을 할 경우에는 캐치테이블로 예약 가능 여기 진짜 반찬 맛집임...ㅠㅠ",
+            "url": "https://m.blog.naver.com/cjswo1665/223384530871",
+            "nick": "다롱",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMTBfMTc1/MDAxNzA0ODIxNTE2OTg3.D_gJU6inzU379BcoxvdjS127NuNOvqKQ_R9_jfojVrcg.Tb_HwckdKd7cUib_x3FI3acR_CuVgwkN9F_HWgJNmLgg.PNG.cjswo1665/profileImage.png"
+          },
+          {
+            "sid": "37769082",
+            "bodySummary": "오랜 친구와 점심 약속이 있어 학교가는길에 다녀온 한와담 조선일보에 차를 대니 진짜 20걸음 앞 한와담 입구 콜키지 프리 힌와담 영업시간 한와담 내부 앞에서 찍은 한와담 메뉴 차돌",
+            "url": "https://m.blog.naver.com/qwaszx6745/223365173828",
+            "nick": "Hyoung",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA0MTNfOCAg/MDAxNjgxMzg1NjU4OTI5._AUQ9At9lrEktilJjBls2KhA339j7YMvMTwkQNlfYbUg.UFGNTm1_JJlCxfuxvbd0dhVzUmhal3gQyDWYsFNEeBUg.JPEG.qwaszx6745/profileImage.jpg"
+          },
+          {
+            "sid": "37769082",
+            "bodySummary": "싶기도 했네. 구워주시는 그림을 또 이전 K의 글과 비교를 해보니 예전엔 올리브유를 미리 깔고서 구워주셨던 것 같은데, 이제는 소 기름으로 그걸 대체하신 것 같고, 예전엔 야채와 ",
+            "url": "https://m.blog.naver.com/azbabsang/223343548685",
+            "nick": "The AZIT",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDA1MDNfMTk2/MDAxNTg4NDk2MjIwMzY5.iNwdHbF462be2fo54sNm1_bN-S9xDWOgOcT5vP5yomMg.Bda5TyyqkzM9kH7mcyFQ2mbL8R6w3WOPa42D_qTNcHcg.JPEG.azbabsang/profileImage.jpg"
+          },
+          {
+            "sid": "37769082",
+            "bodySummary": "오늘은 제가 모임 회식으로 한와담 광화문점을 다녀왔답니다 캐치테이블 예약을 사용해서 룸을 미리 예약하고 다녀왔어요 캐치테이블로 예약하면 콜키지프리 여부랑 여러가지 사항을 미리 확인",
+            "url": "https://m.blog.naver.com/gloomyjuly/223326852521",
+            "nick": "포쏘",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMjBfMTMw/MDAxNzA1NzM4NDYzOTM2.Ov20fJxD1PylDtIuu3H1QMQH452O744W8v73q7VpMfcg.4-SEsyuNwQPaa61XUvAcwGW-zhGty6P_7RF4b7bqE28g.JPEG.gloomyjuly/profileImage.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

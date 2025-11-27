@@ -1,0 +1,196 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 3,
+      "count": 3,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.38102707551013,
+          "minY": 34.81730450450451,
+          "maxX": 126.38651353775506,
+          "maxY": 34.821809009009016
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.3837703066326;34.81955675675677",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1735230488",
+        "name": "다온전복",
+        "x": "126.3860719",
+        "y": "34.8210618",
+        "distance": 0.269,
+        "categoryName": "전복요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220076",
+            "220800"
+          ]
+        ],
+        "category": [
+          "한식",
+          "전복요리"
+        ],
+        "reviewCount": 28,
+        "averagePrice": 56000,
+        "address": "전라남도 목포시 연산동 666-3 다온전복",
+        "roadAddress": "전라남도 목포시 대양로 61",
+        "abbrAddress": "연산동 666-3 다온전복",
+        "shortAddress": [
+          "전남 목포시",
+          "대양로 61"
+        ],
+        "displayContext": [],
+        "labelTheme": "고급 정찬",
+        "microReviews": [],
+        "cardDescription": "온라인 매장으로 방문시 미리 연락주시면 감사하겠습니다~^^",
+        "description": "온라인 매장으로 방문시 미리 연락주시면 감사하겠습니다~^^",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20230116_177/1673878613886p0LLO_JPEG/IMG_20230112_100815_763.jpg",
+          "https://ldb-phinf.pstatic.net/20230116_259/1673878721039XpgHU_JPEG/Screenshot_20221130_201830_Facebook.jpg",
+          "https://ldb-phinf.pstatic.net/20230116_217/1673878734328Vz4C6_JPEG/20230116_123546.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220800",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "912629871",
+        "name": "치코파닭",
+        "x": "126.381575",
+        "y": "34.8193454",
+        "distance": 0.202,
+        "categoryName": "치킨,닭강정",
+        "categoryPath": [
+          [
+            "220036",
+            "220049",
+            "220245"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "치킨,닭강정"
+        ],
+        "reviewCount": 8,
+        "averagePrice": 10000,
+        "address": "전라남도 목포시 연산동 3232",
+        "roadAddress": "",
+        "abbrAddress": null,
+        "shortAddress": null,
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "전라남도 목포시 연산동 3232",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220245",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 3,
+        "id": "865236476",
+        "name": "뿅가곱창",
+        "x": "126.3819148",
+        "y": "34.8196602",
+        "distance": 0.17,
+        "categoryName": "곱창,막창,양",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220767",
+            "221540"
+          ]
+        ],
+        "category": [
+          "한식",
+          "곱창,막창,양"
+        ],
+        "reviewCount": 2,
+        "averagePrice": 20000,
+        "address": "전라남도 목포시 연산동 221",
+        "roadAddress": "",
+        "abbrAddress": null,
+        "shortAddress": null,
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "전라남도 목포시 연산동 221",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221540",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

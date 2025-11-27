@@ -1,0 +1,3486 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 50,
+      "count": 50,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 127.1264537161114,
+          "minY": 37.4340954954955,
+          "maxX": 127.1321268580557,
+          "maxY": 37.4386
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "127.12929028708355;37.436347747747746",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1376113827",
+        "name": "베이커리엠카페",
+        "x": "127.1287006",
+        "y": "37.4369022",
+        "distance": 0.081,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 867,
+        "averagePrice": 5000,
+        "address": "경기도 성남시 수정구 수진동 3995 1층",
+        "roadAddress": "경기도 성남시 수정구 성남대로 1200",
+        "abbrAddress": "수진동 3995 1층",
+        "shortAddress": [
+          "경기 성남시 수정구",
+          "성남대로 1200"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [
+          "깔끔한 아메리카노 한 잔의 여유"
+        ],
+        "cardDescription": "깔끔한 아메리카노 한 잔의 여유",
+        "description": "커피와 함께 휴식할수있는 공간을 제공합니다",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjZfMTUg/MDAxNzU4ODYxMjY3NTMy.JZVIYtUkTL9rNP6LPe6g9WR22F4ojJV2h5ZoGK3lksMg.QFVSUITDd2BZ34LoHIGMEOoRrapQrd8sZ90QUijWmjYg.JPEG/20250926_133346.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjNfMTg3/MDAxNzUwNjc0NjE0MzI0.kQVIZaTGKUqZccIRaqhqgCTq288iI7E50eZWC-XEpasg.CVy8AZ_kv0yLeMjrNjxDyW1ldV0jWYfGk5zWO0sjDRQg.JPEG/20250623_105508.jpg.jpg",
+          "https://naverbooking-phinf.pstatic.net/20241002_188/1727854890643kkup8_JPEG/image.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMDFfMzkg/MDAxNzYyMDA1NzgzOTgy.gZHDYiG6diMpvTdNJDrm39SlLrgn2mYNkA5kMyXxy6gg._uEdB-cOzZZAOOrzTriStyIiWPu7fxR_W80VcXZ665Ag.JPEG/20251101_110125.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjJfMjE3/MDAxNzUwNTk3MzE3OTg2.MWzhLBIFRxbal33ZunTOUlY6NjksH6cuD73ADgWG7oQg.ZOTQ9AXG99w-9GgSJgXmGANZ15hKxe6tnZUNBR6izeog.JPEG/20250622_201254.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDlfODEg/MDAxNzU3NDIzODMwNzAw.PRdHTvQmriT_Df3a4y33uVesx1d-MDAkED0U67FxPI8g.254s5bcYrgEPzlLyzSCQ7I8oir_oYltdvcfSvJJiJnEg.JPEG/20250909_110237.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDVfMTAz/MDAxNzUxNjkyNTY1MjY1.BHDwi3P3N5WnVsoV5ZkKkwJyKSGaTNHOWW1SGz4Isd4g._1EE6dWua0yMfJXkRn5zcDq9XF2BkJUTKzPMmYecIhsg.JPEG/20250705_100220.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTJfNTgg/MDAxNzQ5NzAwNzIxNDc5.UVM2yPov_CVDfuABsx22XpNp3bysk8ZS6SlmTwrMCP4g.Yj73oWO9NPNZ0av1djtDL2_pKTf3JJ_DgjOlIV7nMBsg.JPEG/20250612_125645.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1376113827",
+            "bodySummary": "'유끄'입니다 :) 오늘은 태평역과 모란역사이 수진동에 위치해있는 '베이커리썸카페'를 소개하려고합니다! 모란고개 쪽에 위치하고있는데 주변에 큰 카페가 없어서 '베이커리썸카페'를 찾",
+            "url": "https://m.blog.naver.com/yooou_kk/222824367871",
+            "nick": "유끄",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjExMDlfNDgg/MDAxNjY3OTczNzc4MTAw.MK4zgCg8mgoGYQm2jTkx6IdQaLk7ug3LnJEkh5KGQKcg.hcKgO7a-dvQHGNg9X-7BPo_X4YTJQpGaenc9H6Eo3hEg.JPEG.hbonny/%25EB%25B8%2594%25EB%25A1%259C%25EA%25B7%25B8%25ED%2594%2584%25EB%25A1%259C%25ED%2595%2584.jpg/%25EB%25B8%2594%25EB%25A1%259C%25EA%25B7%25B8%25ED%2594%2584%25EB%25A1%259C%25ED%2595%2584.jpg"
+          },
+          {
+            "sid": "1376113827",
+            "bodySummary": "커피가 묵직해서 밤식빵의 단맛을 잘 잡아주었다. 밤식빵은 다른 가게에 비해 월등히 맛있는건 아니었지만 커피는 유명프랜차이즈와 비교해도 밀리지 않는 맛이다. 코로나가 유행인 만큼 모",
+            "url": "https://m.blog.naver.com/ldc94/222483911476",
+            "nick": "까만콩",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTExMDFfMTA2/MDAxNjM1NzMwNjk4NDIy.eIJDNf4eLyN76x-HzzwEI4fbBYVY_gEJc_QMKiFDjO0g.STgK-8pgRTMhqubjFZqjiKB-_oIQsVJ5c7F4DPZTgD8g.JPEG.ldc94/KakaoTalk_20211101_103747652.jpg"
+          },
+          {
+            "sid": "1376113827",
+            "bodySummary": "그래서 역세권은 아니지만 그만큼 한적해서 마음에 들었던 조용한 카페. 들어가는 길에 배너가 서 있길래 촬영해봤는데 카페 들어가서 다시 보니 여기가 한 건물에, 왼쪽에 보이는 계단으",
+            "url": "https://m.blog.naver.com/blueseashore/222447329855",
+            "nick": "바다향기",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxODAyMDdfMjk1/MDAxNTE4MDEyNDEyODkw.acigSJvTM1IRYupizXNjbJV3m8ntjMuyVoEOQiyDwDAg.tjGjk_0KK90cfzm3fmcBYyJsILzvT7BCcHLybSLKjSkg.JPEG.blueseashore/DSC01040.JPG"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "id": "1327635695",
+        "name": "빈이지 성수초점",
+        "x": "127.1274215",
+        "y": "37.4350188",
+        "distance": 0.222,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221212"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 48,
+        "averagePrice": 5000,
+        "address": "경기도 성남시 수정구 수진동 4785-6 1층 103호",
+        "roadAddress": "경기도 성남시 수정구 모란로 19-3",
+        "abbrAddress": "수진동 4785-6 1층 103호",
+        "shortAddress": [
+          "경기 성남시 수정구",
+          "모란로 19-3"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "빈이지(성수초점)입니다 저희는 직접 로스팅 하여 신선한 케냐AA원두를 고객님들께 부담없는 가격으로 제공하여 드립니다  빈이지(성수초점)에서는 아이들과 함께 즐기실수 있는 콜팝,떡꼬치, ",
+        "description": "빈이지(성수초점)입니다 저희는 직접 로스팅 하여 신선한 케냐AA원두를 고객님들께 부담없는 가격으로 제공하여 드립니다  빈이지(성수초점)에서는 아이들과 함께 즐기실수 있는 콜팝,떡꼬치, ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTNfMjA3/MDAxNzQ5ODE1Njc3OTQ3.PXIm4eNFHQMf0D8oNP-G8Me6tfh94DhEXfpys_7Sus0g.sOHFL4F04AL_PIN7NXOE6CRNhlSqOpikPd2tJZ6VC24g.JPEG/20250613_205029.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjlfMTI4/MDAxNzQ4NDkxMTcxOTU1.wjXyhmqKFhOMsRJCcRc5TivThs55HXexLj-R7IwJ9Bcg.oh5zrTrMDj3GeMm8LZSDwgDCDLxjyXmkuZ-zWGnw3bMg.JPEG/20250529_125819.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240608_49/1717822714295MtmwE_JPEG/1717822703713.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjhfMTE0/MDAxNzU2Mzc5MTc3MDMy.MwU7jcLCbj_dMpGaYK1JvezZfOXbkmtf0NI81uzM2hAg.UIkmzyYxcDpWUKBDvwCCfRHhZqBPIqZB38kHIfLePI4g.JPEG/20250828_084345.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240608_120/1717822735001iDzWO_JPEG/1717822717484.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjhfMTA1/MDAxNzQ4NDAyNTk1MzYw.ps5U4pZ_jPuJ6WmSy6BvyiOmWFHVlxWH6DL-nQHcohQg.PmOJEhr6tRcUdVUlrHjRoNju8QbyK26X8YWc09CLVWwg.JPEG/Screenshot_20250528_122117_NAVER.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20200531_225/1590895327003aikOK_JPEG/gGdQ_wx6huVAmpUngyeygoGh.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjNfMjU5/MDAxNzQ3OTcxNzM4NjAx.NlDEv8lCBLAJLL0udxdTo9Hevp4v_YGT6m-rL3ItP9wg.4EaHj3-X9HIzsDeAEk7AJ74Crd8pL8hADctQKfmmPHMg.JPEG/20250521_161340.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221212",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 3,
+        "id": "1948835447",
+        "name": "국수의품격 성남점",
+        "x": "127.1287233",
+        "y": "37.4370673",
+        "distance": 0.094,
+        "categoryName": "국수",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220062",
+            "220628"
+          ]
+        ],
+        "category": [
+          "한식",
+          "국수"
+        ],
+        "reviewCount": 131,
+        "averagePrice": 8000,
+        "address": "경기도 성남시 수정구 수진동 3996",
+        "roadAddress": "경기도 성남시 수정구 성남대로 1202",
+        "abbrAddress": "수진동 3996",
+        "shortAddress": [
+          "경기 성남시 수정구",
+          "성남대로 1202"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [
+          "국산콩으로 만든 진한 콩국수의 풍미"
+        ],
+        "cardDescription": "국산콩으로 만든 진한 콩국수의 풍미",
+        "description": "'국수의 품격 성남점' 은 성남 모란역(10번 출구)에서 태평역(4번출구) 가는 방향의 모란고개 대로변에 위치한 무한리필 고기, 샤브, 국수 및 국밥 전문점이며 - 돼지 삼겹 목살 갈비, 오리, 닭발  ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDFfMjA4/MDAxNzU5Mjk0Njg2ODA4.FVf1Q-WAapz9UAKWwpB93LM45GqasKJHv_QY6DVWgS0g.MRCd7m2sNM3dVHjv5PJVqHZLCZLRubcZOrF_lzgkLgkg.JPEG/20251001_132809.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDJfMTEz/MDAxNzQ2MTYzMzUwMjUw.miePk5TdDnaMV5FtuWdvX1I6AZTvMzY237GVZDc77kQg.iH1PLF-W6qc3wG9Ru7zwiCl59dh_T-fo2JeqbLpDtgwg.JPEG/20250502_140043.jpg",
+          "https://ldb-phinf.pstatic.net/20240924_202/1727171384347B0qDp_JPEG/1000047244.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTdfMTE0/MDAxNzQ3NDY0NzExMTAx.We-Qbj6ej9s7ZmVHgckg3hrOaukf5_SxNBIhGb783TEg.XilJEs3X7J6iNUuIHwKCpep0clr3uBRdHVj-M_WxPS0g.JPEG/20250517_154853.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTJfMTQw/MDAxNzUyMjQ3MDk2ODEy.8n_dGrh29jlEgmgkrZ8syJittxAoU2Kj4ZZzeUCqz04g.X7bOk7SjbLj6XYSfh6UnFrG3xEcBoJzyPJNCuD7wYp4g.JPEG/20250711_184821.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTRfMTQy/MDAxNzQ5ODgwMDEwODQ3.R8k21Oxa88LYFFsdjLePmWVXiV4pefJJ74XiBWxvSMIg.Qqf38A3tq5VPPx34xeTRkhuklN0-yzXZLPnFuT2RkvIg.JPEG/20250612_191825.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjBfMTQw/MDAxNzYwOTI4NDg2MzQw.1FDXsp3GhDezFwqmkzICdiJwDpib4lSpvq-0DCMT_Cgg.t51PMik8ZTSFuS6QK82x8R6qDJG2XKiGqmcYeILPe_Ag.JPEG/20251020_114456.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjBfMTM3/MDAxNzU4MzQ3NTAzNjQz.aE592vArlrDDMtPEsXaDWKImjc4u9KtSwEomIpJuuXkg.Do2mteFHuc-0cNcrQpagLOfwyRnqefQzWXQ-Bo9Gchwg.JPEG/Screenshot_20250920_144925_NAVER.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjBfNTMg/MDAxNzQ3Njg4NzE3NzU5.WERkutNp5vrfu-Z4ta1m7sNobBwRvZwjKVLYx4pEKFIg.tIqbEMhsRtl7LerBPIAc82x-hxZwAkx__vw6kHZVw38g.JPEG/20250518_123435.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDNfMjE2/MDAxNzQ2MjA2MTAzMTEz.WCIFqfPJa8FmzTdAvtBBx2rAumWGUDoDU5ruYOiGhbIg.XgkQ8tw-65TGG2aNBMGY9nYvlNBjR8WhnyDPw-dwWscg.JPEG/1746198858004.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220628",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 4,
+        "id": "1773414409",
+        "name": "쇼부라멘 수진점",
+        "x": "127.1304731",
+        "y": "37.4382086",
+        "distance": 0.232,
+        "categoryName": "일식",
+        "categoryPath": [
+          [
+            "220036",
+            "220038",
+            "220087",
+            "1002343"
+          ]
+        ],
+        "category": [
+          "일식",
+          "일본식라면"
+        ],
+        "reviewCount": 12,
+        "averagePrice": 0,
+        "address": "경기도 성남시 수정구 수진동 3709 1층",
+        "roadAddress": "경기도 성남시 수정구 제일로137번길 21-1",
+        "abbrAddress": "수진동 3709 1층",
+        "shortAddress": [
+          "경기 성남시 수정구",
+          "제일로137번길 21-1"
+        ],
+        "displayContext": [],
+        "labelTheme": "일식",
+        "microReviews": [],
+        "cardDescription": "쇼부라멘 수진점입니다 일본라멘, 돈까스, 카레, 덮밥등등 식사와 술도 함께 하실수 있어요^^",
+        "description": "쇼부라멘 수진점입니다 일본라멘, 돈까스, 카레, 덮밥등등 식사와 술도 함께 하실수 있어요^^",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20240325_170/1711330140839wIJif_JPEG/1000025038.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1002343",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 5,
+        "id": "1287208737",
+        "name": "황제짬뽕",
+        "x": "127.1290975",
+        "y": "37.4364505",
+        "distance": 0.021,
+        "categoryName": "중식당",
+        "categoryPath": [
+          [
+            "220036",
+            "220039",
+            "220091",
+            "220861"
+          ]
+        ],
+        "category": [
+          "중식",
+          "중식당"
+        ],
+        "reviewCount": 506,
+        "averagePrice": 16000,
+        "address": "경기도 성남시 수정구 수진동 4018",
+        "roadAddress": "경기도 성남시 수정구 산성대로93번길 28",
+        "abbrAddress": "수진동 4018",
+        "shortAddress": [
+          "경기 성남시 수정구",
+          "산성대로93번길 28"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [],
+        "cardDescription": "경기도 성남시 수정구 수진동 4018",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMjBfMjQ0/MDAxNzYzNjIxNzMxNDA4.eifBMKQgsOJNxOBtu6imYMnNPFeXu4MMlCfQ75cKy_gg.4-mm2y9s2ldPRGcjpp3mB8tiDMlkIn_ImQImEQRtVlog.JPEG/1763621719782.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjJfMTAy/MDAxNzYxMTA0MDg4MzYy.VI7K71Hdd0Bqho3k3P8-4MQ3xrnuKhw2Biw75HGz9Jog.9o15-QzmFBX06fAhzEh7HhrRimuBTr0eRlBkFTNyXh8g.JPEG/20251020_130835.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20190130_168/1548858826010xACJS_JPEG/-j4pdMokFC90uNB45PgopH2J.jpeg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTFfMTUz/MDAxNzUyMjI2MTcwNjc3.EbAgex8vkxswmZLbPHblNepn7QQq2kjfg-PIG30aeugg.ECpGfXsIcaek6kUBdyKXQdZ1GdQruKvslUBUJQ1jWykg.JPEG/8091E204-8766-455E-8DEB-67D2E4730D24.jpeg",
+          "https://ldb-phinf.pstatic.net/20200218_37/1581955683211ei2DT_JPEG/Fxbd53Bs36fmBLVDVC0BT_GJ.jpeg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDFfMjM2/MDAxNzU5MzE3MzkwNTcw.BNXDWwnUE5IxgfZQ_tABaIF0oODcHeMDz-QzjN7fyVYg.hPkbpMvZnTTJYxHsb58F5BcxTzEkaZTyBZyNaKmBT3sg.JPEG/4FEACB4A-2956-464A-AF49-C6A28275C104.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTBfMjEy/MDAxNzQ5NTMzMzg5NzA1.tL_1wDExF5iCiwgStHJW4rz3JF2i8ELAdF4Os8DSPEQg.JdfXwWLaU_f4NnxKC9nX_1heeDfeZ-QjShdM5ilQyTEg.JPEG/20250609_172635.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MThfMTg3/MDAxNzUyODA3Nzg0NjM0.MKEE-TtB16bsTj5WwPpI9XicXSxYpJUNMoHplHBebl4g.stywix6GvHRWep4fd9gBtl8pUimoAjgkPUvwsSpx3tUg.JPEG/BE763E3F-F3ED-4F24-A720-CDEF0955B750.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDVfMjI4/MDAxNzU5NjYyNjgyMzYx.6p88xEpLyRQzVVGBvhw_RlfMuDfsaCmy0WncBuMWKI4g.6w-kysbIIaJkGGuEfbg-CfTpYVBFSidsBQqOp2QnBtUg.JPEG/023DBE78-7084-4B3A-A6EC-42ED4A2EA2B2.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTZfMjA4/MDAxNzYwNjIyNDMzOTc3.x3dzcNsG3zzE6x7vcVtJUvmt7-PfkXvlwyCriWgCBcQg.-rPQp6ZiUJ_qlsyu5wxPgQdijiLvQCm_7BWAp8FICFYg.JPEG/4F604E05-6ADA-44D0-8FED-FD510F37132C.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220861",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1287208737",
+            "bodySummary": "오늘은 짜장면도 먹고 싶고 마라샹궈도 먹고싶어서 황제짬뽕에서 짜장면이랑 짬뽕국물 시키고 춘리마라탕(신흥역점)에서 마라샹궈도 주문했어요 황제짬뽕 짜장면도 엄청 맛있네요~ 고소한 짜장",
+            "url": "https://m.blog.naver.com/9652asd/223260312620",
+            "nick": "mimi",
+            "profileImg": ""
+          },
+          {
+            "sid": "1287208737",
+            "bodySummary": "태평역중국집 #모란역중국집 #황제짬뽕 최애중국집에 등극하기 위해선 입지, 가격, 맛이 적절한 밸런스가 이뤄야 하는데 이 모든걸 충족했다..내가 지금 자취방에 만족하는 이유중에 하나",
+            "url": "https://m.blog.naver.com/borablog/222936554661",
+            "nick": "델리",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjEwMjRfMTYy/MDAxNjY2NjIzNDgzNDE5.LEqfynK2pVZBNQ3JC42q7qTgQa-_hGsfp3c0ihjJO30g.rI88N3gv6biIl9iu_g0DcsnTXsVTimP458yaLWURELwg.JPEG.borablog/%25EB%258B%25A4%25EC%259A%25B4%25EB%25A1%259C%25EB%2593%259C.jpeg/%25E1%2584%2583%25E1%2585%25A1%25E1%2584%258B%25E1%2585%25AE%25E1%2586%25AB%25E1%2584%2585%25E1%2585%25A9%25E1%2584%2583%25E1%2585%25B3.jpeg"
+          },
+          {
+            "sid": "1287208737",
+            "bodySummary": "집 근처서 중식을 먹고 싶었는데 맨날 가는 곳 말고 좀더 멀리 걸어서 가보았다. 집앞은 좀 맛이 떨어져서 맛잇는 짬뽕을 먹어 보고 싶었기 때문이다. 제일 비싼 황제 짬뽕과 미니 찹",
+            "url": "https://m.blog.naver.com/cpmaniac/222635263074",
+            "nick": "cpmaniac",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxODAzMjZfMjkw/MDAxNTIyMDUzNzczNzQ5.BEX2HXtH99jyC8f23IZz5JXI1Zv719bbV8gHGMOacC4g.BFxlSDUtfZWsFlE-EgaJ8f-i8kA1T1wNGB7INlvDBR0g.JPEG.cpmaniac/045.JPG"
+          },
+          {
+            "sid": "1287208737",
+            "bodySummary": "안녕하세요~~ DORI입니다!! 전국 5대 황제 짬뽕 #내돈내산 #전국5대황제짬뽕 오늘은 제 단골 중국집인 황제짬뽕집을 소개해드릴게요!☺ 얼마나 단골이냐면 집에서 짜장면시키면 여기",
+            "url": "https://m.blog.naver.com/shwm1234/222464290744",
+            "nick": "DORI",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDA5MDFfNzUg/MDAxNTk4OTY4MTg1MDU0.UKiKARg0vkDf5i5kZv0AHCL86NfO38woq4B__5CySeMg.jnQmGv5VUvl-whV8ZRuu_5vlffws8NFGCPx41aTtqBog.JPEG.shwm1234/profileImage.jpg"
+          },
+          {
+            "sid": "1287208737",
+            "bodySummary": "면이 맛있는걸 보니 짜장면과 짬뽕이 맛있지 않을까 싶다. 아직 안먹어봐서... 냉초계면 파는데가 많지 않은데 혹시 찾고 있다면 이집에도 판다는걸 알려주기 위해서 솔직후기글을 써본다",
+            "url": "https://m.blog.naver.com/ardor11234/222448816184",
+            "nick": "ll테소로ll",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA0MTZfNTMg/MDAxNjE4NTM2NTc4NDQ2.Y9WjGtxao3HD7-AqQNp5u2LA8YOaeDwQ6b1mHMdrK2Mg.Zk4LdPffxd1WDKJ0G6wry0pK3H32Gf0mNpbJxW-u7jMg.JPEG.ardor11234/20190414_223018.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "id": "1765176454",
+        "name": "아하김밥",
+        "x": "127.1283599",
+        "y": "37.4384952",
+        "distance": 0.253,
+        "categoryName": "김밥",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220186"
+          ]
+        ],
+        "category": [
+          "분식",
+          "김밥"
+        ],
+        "reviewCount": 55,
+        "averagePrice": 5000,
+        "address": "경기도 성남시 수정구 수진동 3013 1층 101호",
+        "roadAddress": "경기도 성남시 수정구 성남대로 1218",
+        "abbrAddress": "수진동 3013 1층 101호",
+        "shortAddress": [
+          "경기 성남시 수정구",
+          "성남대로 1218"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "경기도 성남시 수정구 수진동 3013 1층 101호",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDZfNDYg/MDAxNzQ2NTM0MTU4NjAx.-HNy2Dq7II7dwx2jXifAlwSkrjXmRlb4W-XvofXInYYg.ma9jY09IZuKxGSjza0MWzhEAeJ-RiZ8blA3VM2d5raYg.JPEG/6BFEFEC3-5B73-444F-9D83-0C99D2E74FAE.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTlfMjk3/MDAxNzYwODY3NjE4NzA0.QWC4lvaoOxGlVcJ0x4uc-swYw_pi3Nil5Zhmgor2jGYg.v-mgMezeXEUpgZ5zQmJyULLCyhCfUxMAhYtMskhtVbYg.JPEG/1000019888.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220186",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 7,
+        "id": "1532374954",
+        "name": "카페파라",
+        "x": "127.1280144",
+        "y": "37.4366496",
+        "distance": 0.118,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 295,
+        "averagePrice": 5000,
+        "address": "경기도 성남시 수정구 수진동 4587 1층",
+        "roadAddress": "경기도 성남시 수정구 성남대로 1197",
+        "abbrAddress": "수진동 4587 1층",
+        "shortAddress": [
+          "경기 성남시 수정구",
+          "성남대로 1197"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [
+          "아메리카노로 완성하는 편안한 휴식"
+        ],
+        "cardDescription": "아메리카노로 완성하는 편안한 휴식",
+        "description": "안녕하세요 카페 파라입니다^^ 모란역과 태평역 중간에 위치한 테이크 아웃 전문점이며, 매장내 상주하고 있는 커피감별사와 바리스타가 선별한 2가지의 블랜딩 원두와 디카페인을 사용하고  ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjNfMTAz/MDAxNzU4NjAxMzU2MjYx.YSLwz7WTYhh7mVk7HiFSqAJL2BSokRjH5tw6YwHUEqkg.AtV4cKfjllj5CHtFY6B_sUAJaFmH48qHp3hvHnQeFEkg.JPEG/17586013480383952654465900657646.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjFfMzgg/MDAxNzUzMDcyMjEzNzM0.ccaALVXN_AE51aZy_PiBEZw4VpJnkVnbshHo057CcWYg.8nw0c6PKyY42sy0TXyCWl79vQe4t5OaNjhHCcyqPZCIg.JPEG/17530722060364907266281234743528.jpg",
+          "https://ldb-phinf.pstatic.net/20230608_80/1686197827241jkxRs_JPEG/CE30B4B0-D792-42C4-987B-2EBEDA0260A1.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjZfMTgx/MDAxNzUwOTA0MzM0NDI5.pfJjoFYrjVNbC7Zh-zECCv_xds4heQhpvDV40oOL3fYg.vwG-vV89Wy3IRXIu3UC105P-ilhMalCigLhLYba70rEg.JPEG/2025-06-26-11-15-31-400.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MzFfMTY0/MDAxNzUzOTM4NTU2NjE1.woqYTV8WUVyDH8e2_sXflSAirQv85UoclO-n1M6eKz0g.F6aDzNvIeCH3GrjbSOZFqKnT_MG0dW2DlgrUJ_bUCWog.JPEG/17539385453864145053196892200111.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTlfMjI1/MDAxNzUwMzA3NTIzNTgz.2IO1u8FouTAj7PQRjCyHoq-bt54KFdodPsV4ziG7lEcg.488lLFc6BaJQdJGTXTX4yzGoM1PFYwqMrkBwmvro2Vcg.JPEG/17503075130877618777262639971482.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDZfNzIg/MDAxNzU0NDUyMzc3Mjkz.fdk1ZZyQxRTSpViJ3xQBYcu_WX3V20dA_Z5L73MZqXUg.emSWCFlrOTRT3WPtxrBH49UNBf03-CbXvY7nEIswZbAg.JPEG/17544523693592326359038025999972.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjVfMjIw/MDAxNzUwODIzMjU1NDY2.diaoKapxWkynr6sUG5Ts3-_6Br8nyYkG6J6Nuav8ElIg.8hBaOp3GRBS6IZX3ucWq2rFt9FtPoj7bRMGsNedVUBAg.JPEG/17508232480814323744905549694380.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTVfNjUg/MDAxNzU3OTA4ODA5OTg1.X7X0EhxQ3KhLpydQ2kCIe-SEIXrWMMDyDMjIPQkZq5gg.6tiW9_0g5utn_Y-XE25R-TiGJ4lB9OtugssZefVFf54g.JPEG/17579088004801274090913315524048.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDRfMjg5/MDAxNzQ5MDEyMTQ2Njgw.7tz1a-ZiAYu5yAQs6KSm3-BDf3-IE6hucEO1kb2SKWkg.VFNymgR7w5iW0mFh4DvfDMhQbSQY3vKhrGJQ4C2SQ7Eg.JPEG/17490121362024303043689459273051.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 8,
+        "id": "2040873994",
+        "name": "인생김밥",
+        "x": "127.1286583",
+        "y": "37.4367614",
+        "distance": 0.072,
+        "categoryName": "김밥",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220186"
+          ]
+        ],
+        "category": [
+          "분식",
+          "김밥"
+        ],
+        "reviewCount": 20,
+        "averagePrice": 5000,
+        "address": "경기도 성남시 수정구 수진동 3991 1층 101호",
+        "roadAddress": "경기도 성남시 수정구 성남대로1194번길 3",
+        "abbrAddress": "수진동 3991 1층 101호",
+        "shortAddress": [
+          "경기 성남시 수정구",
+          "성남대로1194번길 3"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [
+          "오므라이스로 든든한 한 끼 해결"
+        ],
+        "cardDescription": "오므라이스로 든든한 한 끼 해결",
+        "description": "외할머니때부터 손자까지 세월의 노하우를 맛볼 수 있는 인생김밥입니다 :)",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjJfOTAg/MDAxNzYxMTI2NTQ4NDYw.Y3E_HYt5UITd12yPIwHZ5NsI7dUh-H52J555M8fBpgQg.WlLxANMV93KpBBmrq2XXkp5dRTs-8XpEGJatElV7jpQg.JPEG/20251022_115404.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjRfMjQw/MDAxNzYxMjk4NzI3Mjgy.iekYAH3CRgHZvd58KF8i0p8JfKvnZMofjgw72neX_bwg.jDGaIt4G57Q-tosN6lZiIiCOmsF6YVZpo4yJCDfw1E0g.JPEG/20251024_180631.jpg",
+          "https://ldb-phinf.pstatic.net/20250520_133/1747708444869X0uln_JPEG/20250520_113345.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMjJfMTM2/MDAxNzYzODAwMTYyODA0.03zBd0vWpH5UUaBP6Edk7HnNMga082NSJ2rg4Oba6X8g.O4fp5ZlB7P6TDYTubgF4m300COZiJ4j27-w8v6Xi5BIg.JPEG/20251024_180631.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDhfMTI0/MDAxNzU3MzEyMzcyNzUz.ju8hYVOzkEXfsjT4fjYeakKN7Bg6FHxF0jK9_M99bCog.jzKDNsrxkVXs68_g41JuoIn9UBAgceBgay2pTr9lCscg.JPEG/20250908_135857.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMDdfMjk2/MDAxNzYyNDc5NTkyOTQ3.4OxQlbtffIfq6koOTjCOR2-rGKYJp8byuIy-MQN-J8kg.bSBD2VAJTl0ZezD2mstGJKPcEQiKXlTJXt_6R_rLZcYg.JPEG/20251024_180631.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MzFfMjUg/MDAxNzQ4NjY1Njk5NTUx.ezro0Bb12QjLzWv9_YLNSAK5wHuYPcSU_PXlLulqcnQg.iAUbqolcfA88ngbiZkGufPFt7j-_3pxkhhVhOQ0BAdog.JPEG/68337E47-3B01-486F-B4E5-2848BA982D67.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDJfMTYy/MDAxNzQ4ODU5MjUyNDA4.xeEN0yFqPVkukrEToy9VxCnc17YEPdzyUldViVx_mGsg.pLgpQtw-g3Qw66aX_7KnlhTosyipSGojPwoPAThKeRog.JPEG/20250529_205009.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjRfMjQy/MDAxNzUwNzIyMjI2MzMz.w4gJ45F-xXKoXYB_61WxAfwkCzIXft40WfsAopPdlt8g.2hTzL_-2Ip2Ks948RoK3CAWNXxgYF-oSsVOd6sccIpAg.JPEG/20250623_192115.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjZfMjk2/MDAxNzUwOTI0NTIyMDAw.ks8x_5D7543BRiJacK2vIow89NsKQV7bc_gnBG3ZKg8g.YwQC3n8GRjRra--75QNxiVU4bdgqhFkjfyhuFbl8Ql0g.JPEG/20250625_115837.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220186",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 9,
+        "id": "21628028",
+        "name": "덕성식당",
+        "x": "127.1277382",
+        "y": "37.4350543",
+        "distance": 0.199,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 96,
+        "averagePrice": 0,
+        "address": "경기도 성남시 수정구 수진동 4619-7",
+        "roadAddress": "경기도 성남시 수정구 성남대로1179번길 8",
+        "abbrAddress": "수진동 4619-7",
+        "shortAddress": [
+          "경기 성남시 수정구",
+          "성남대로1179번길 8"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경기도 성남시 수정구 수진동 4619-7",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDFfMzkg/MDAxNzU2Njk4NjA3NDQ4.hjPUuyM5GT4iHIa16OaBm-U5NvNl0QE-zuCq4vpZnj4g.02KXJ-OEMc3rcMr93YBNhsMPaVxmYbKEQ9uxZ-_1i7wg.JPEG/20250827_130832.heic.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 10,
+        "id": "1686158255",
+        "name": "파스타왔어요 성남점",
+        "x": "127.1304074",
+        "y": "37.4367682",
+        "distance": 0.109,
+        "categoryName": "양식",
+        "categoryPath": [
+          [
+            "220036",
+            "220044",
+            "220126"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "양식"
+        ],
+        "reviewCount": 12,
+        "averagePrice": 10000,
+        "address": "경기도 성남시 수정구 수진동 4261 1층",
+        "roadAddress": "경기도 성남시 수정구 성남대로1194번길 18",
+        "abbrAddress": "수진동 4261 1층",
+        "shortAddress": [
+          "경기 성남시 수정구",
+          "성남대로1194번길 18"
+        ],
+        "displayContext": [],
+        "labelTheme": "양식",
+        "microReviews": [],
+        "cardDescription": "요즘 수도권에서 가장 핫한 배달,포장 파스타맛집!! 파스타왔어요 성남점 오픈 믿.먹 가능한 찐찐 배민 후기들이 가득~!!! 7성급 세프 에드워드 권세프님도 인정한 배달맛집!! 맛잘알들은 벌써  ",
+        "description": "요즘 수도권에서 가장 핫한 배달,포장 파스타맛집!! 파스타왔어요 성남점 오픈 믿.먹 가능한 찐찐 배민 후기들이 가득~!!! 7성급 세프 에드워드 권세프님도 인정한 배달맛집!! 맛잘알들은 벌써  ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTBfMTg0/MDAxNzYwMDczMzkzNzg0.pjm4txSDx724kaw5TU6uE9pmNmI0c_P7mUh_2L2M88Ig.fXAveH1iVWL0jjgpm7uHxAszvRHwF-Awqny3o6GRQw4g.JPEG/20251010_141035.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjNfMjY2/MDAxNzU1OTU2NzE2NTk1.JOhObOCyA1laXTkJGk1PZu_WMOPzB13ElhGs76IQeM8g.k4SGVZ62NpVLgHK8o0Z-Dy_S6PQS5Me-rpeHwhzGxe4g.JPEG/B4F12365-BB01-4C4D-8DDF-7C586871672D.jpeg",
+          "https://ldb-phinf.pstatic.net/20230310_50/16784127070560TT6h_JPEG/KakaoTalk_20230226_203156813.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTZfMTM3/MDAxNzU1MzM3Mjk1MDUz.-2KnoyTXnF1oq66xZq7auJO_DqeAbLyYy-F-zJHLDNYg.xFsFh-XSBerGXgSp2U0m6YBoZ85u3Gb24ZUROy1Qh3Eg.JPEG/B679C3EB-210C-4296-A9F5-2388510F2EB4.jpeg",
+          "https://ldb-phinf.pstatic.net/20230310_46/1678412707299OaFct_PNG/KakaoTalk_20230226_203159494.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjNfMjk2/MDAxNzUzMjE2OTkwOTA5.S_8A9nIKt66ZMMkhAQqfqaQic0C4kcOr_JT6KppEabog.gWLs2MvKdNuon9nKEaJtOuO4vboNXJGYSSJHObkRfjwg.JPEG/594F01DF-F610-467B-BEB4-6EB9DB3C03A9.jpeg",
+          "https://ldb-phinf.pstatic.net/20230310_192/1678412707150H1In3_JPEG/KakaoTalk_20230226_203200968.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDJfMTU3/MDAxNzU0MTQ1NjY1MTQy.LtlRydbmjLLk6dJI38CR7L1G-fbG5ySfamZVaPGQyLog.v5Yzlv-2gTKPn2o5cbrsUg3rifngfeW4Qtg-5rgi3T8g.JPEG/B75D5454-F0CF-4E4B-870E-C5EA7FC4B8DE.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTJfMjc4/MDAxNzUyMjUyMTk4MzYy.TRdR5JpD5ZGOJm8PlhEsy8UK1r6VKP2ObqcGoirJA9Eg.kvDv8JgTyUEODAN0MpGmlWR95Z5gA5qkoSXlNztVbmgg.JPEG/CBB91508-62BF-4823-A0AB-857DDB5840AA.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDJfMjgy/MDAxNzU0MDcyMjAzMDMy.CXXZi5lx0BY5B3_ZHg2IZSDP76DI1r9S7yqCzc60aEwg.5wxVdR2Gkrf2DcEcOoU16Cv2sMMHPcAdtbf6Fcec3YAg.JPEG/20250801_223013.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220126",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 11,
+        "id": "85531616",
+        "name": "봉평메밀면사무소 수진점",
+        "x": "127.1281489",
+        "y": "37.4359263",
+        "distance": 0.111,
+        "categoryName": "막국수",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220064",
+            "220656"
+          ]
+        ],
+        "category": [
+          "한식",
+          "막국수"
+        ],
+        "reviewCount": 258,
+        "averagePrice": 10000,
+        "address": "경기도 성남시 수정구 수진동 4613 1층",
+        "roadAddress": "경기도 성남시 수정구 성남대로 1189",
+        "abbrAddress": "수진동 4613 1층",
+        "shortAddress": [
+          "경기 성남시 수정구",
+          "성남대로 1189"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "경기도 성남시 수정구 수진동 4613 1층",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MThfODAg/MDAxNzUwMTkyNjI0MTYw.A3oEKqUMzlDK4-dV5rFn8_9OfQKx-11P1DxYBNrXZMMg.b9KkMlwck6KivxyrUQ3b4gGmVTrBWBX-Nn5qLVGYfZcg.JPEG/20250615_141300.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MzFfODkg/MDAxNzU2NjMxNTk5MzQ4.3XhCR0ewzN_hdG2KVYQHcCHYsGdZZPULTUIldvWZiAEg.JZCY-gK3jCUhLUnEkG6kAST2Skk_OoApQMOi27nAwEog.JPEG/598A8091-1E85-4756-90CA-876A25A108AA.jpeg",
+          "https://ldb-phinf.pstatic.net/20170210_167/1486704758934CAaXy_JPEG/186160546258.JPG",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDVfMjM4/MDAxNzU0MzczMjE2NTc5.hTw3Xm75V5TqBdQbZeJCOu7P-smApDJzp3Zw2Lz5Gu4g.PVN_HLZ8D8qD6nxeeKZ70GiWjZVbptrEYaq9yLyp-jkg.JPEG/20250805_125105.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20210116_238/1610764495164Xv9VA_JPEG/9Giz8zbGVmKJTjhiGK0bvrga.jpeg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220656",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "85531616",
+            "bodySummary": "이번에는 제가 처음 접해보는 음식 중 하나인 '꿩고기'가 들어간 '꿩만두'를 맛보러 '모란역' 근처에 있는 '봉평메밀면사무소' 라는 식당을 방문했는데요, 생각보다 꽤 맛있어서 이날",
+            "url": "https://m.blog.naver.com/privia7510/223349313321",
+            "nick": "JS1993",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA5MjdfMjI4/MDAxNjMyNzIyNDU0MDU5.Hokd6y1JztzOZzMEnlxivoniD1J8vi3fhp7NMnf8SNcg.8JNqqd5ZFbKJLtD1z8WQzfZj9oU1a6u2WaLz9W12lSUg.JPEG.privia7510/KakaoTalk_20210927_150001294.jpg"
+          },
+          {
+            "sid": "85531616",
+            "bodySummary": "(앞에 갔던 가게는 모란시장 안에 있어서 약간의 지저분함은 어쩔 수 없다.) 막국수가 9천원인데 4천원 더 주고 수육이랑 회무침 몇 점 더 맛볼 수 있으니 구성이 만족스러웠다. 물",
+            "url": "https://m.blog.naver.com/alfredino/223090713792",
+            "nick": "Dino",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20140816_23/alfredino_1408198397965Ivj4t_JPEG/logo.jpg"
+          },
+          {
+            "sid": "85531616",
+            "bodySummary": "저희집 근처에 봉평 메밀 면사무소가 있는데요 제가 면순이라는 타이틀을 달고 너무 늦게 왔네요 .ㅋㅋㅋㅋㅋ 위치는 모란역과 태평역 사이 ! 모란고개에 위치해있어요 ~~ 메뉴는 뭐랄까",
+            "url": "https://m.blog.naver.com/tmt_naying/222922922252",
+            "nick": "나잉",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAyMThfMjgx/MDAxNzA4MjU1NTIxODcx.8r8rf6zBELhaScOBNKjx1EhNUt1hI7z7_kNOLBfsr8Ag.CRvf1WgSD3dW5iC5KwVTjOZAF_Y9mxbiyMoRfubbGicg.JPEG.ny7188/profileImage.jpg"
+          },
+          {
+            "sid": "85531616",
+            "bodySummary": "아무튼! 모란역과 태평역 사이가 모란고개이거든요!! 거기 딱 중간에 위치해있습니다. 식당은 꽤 넓습니다. 테이블도 많고요 ㅎㅎㅎ 성남 모란 봉평메밀면사무소 메뉴판 가격표 이 집은 ",
+            "url": "https://m.blog.naver.com/ddongddongju/222853275068",
+            "nick": "이쿠죠동",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA0MTVfMjA1/MDAxNjgxNTY1NjY2MjQx.KA-winPCLlauUMUeN7hldfxqmSM4jfEw-JlEEGgmaz4g.GTYyzMDXdAT1TnonDkjHslkot2Uh8CgLvYB4DSXcOE4g.JPEG.ddongddongju/11.jpg/11.jpg"
+          },
+          {
+            "sid": "85531616",
+            "bodySummary": "봉평메밀면사무소 위치 : 경기 성남시 수정구 성남대로 1189 영업시간 : 월~토 - 11:00 ~ 23:00, 일 - 정기휴무 요즘 날씨가 너무 더워지지 않았나요? 날씨가 덥다 ",
+            "url": "https://m.blog.naver.com/becauseican9/222712521159",
+            "nick": "Because I can",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA2MTlfMTYy/MDAxNjU1NTY2MTE5NDI0.ckhlUR4T78aqtxGh-ojoM0_43Vg0nlPKtncup-yaTEIg.b3IzgY4Y8lckAD4BxQXfnSoDf5mZcBjkJCfsUTBgGVcg.PNG.becauseican9/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 12,
+        "id": "1694535394",
+        "name": "숯불 지리산 흑돼지",
+        "x": "127.1289093",
+        "y": "37.4364259",
+        "distance": 0.035,
+        "categoryName": "돼지고기구이",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220765",
+            "221458"
+          ]
+        ],
+        "category": [
+          "한식",
+          "돼지고기구이"
+        ],
+        "reviewCount": 240,
+        "averagePrice": 10000,
+        "address": "경기도 성남시 수정구 수진동 4002 101호",
+        "roadAddress": "경기도 성남시 수정구 산성대로93번길 25",
+        "abbrAddress": "수진동 4002 101호",
+        "shortAddress": [
+          "경기 성남시 수정구",
+          "산성대로93번길 25"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [
+          "풍미 깊은 된장찌개와 함께하는 한 끼"
+        ],
+        "cardDescription": "풍미 깊은 된장찌개와 함께하는 한 끼",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjBfMTg4/MDAxNzUzMDAwMDM1OTQ3.RFpfy3-avaR-Q0o8-8uu0LzFfhug_xOWraIkjvjOREAg.pmUmG8TXirGrk9oEhbp1nbE4TONTTlLEPlOJf18jYzsg.JPEG/20250713_200931.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDVfMjc3/MDAxNzU5NjYyNDAxOTAy.2iJCIlgG5zEqXV9uMvcAWH1qDbSl--OvCKEyRcIrm_Qg.Ucp-cuxUfJoBHIOH_31hFwls1YFa-66RCT7CswPDGdgg.JPEG/FDF1935C-5625-4546-A6A2-64E84D860CB7.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjFfMjAy/MDAxNzU1NzAzMDMyMDE3.N9Dx1qFBqsM_q5qA7rBXRo6V5yQZm7XrtJV1EPQo1Pgg.LfsoprCF63u4vyzFTAt-PgLXrSfQbFfZ7Hq1BuQScOMg.JPEG/CFAB9CC8-023D-434D-AA90-FCA2EB54C0B2.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMTdfMTIw/MDAxNzYzMzUxNjE1MDM2.NpRs6hF5lsIvN0cf7V2FxRy1lhWcmv1fZ0xT1vjr2-8g.S3By-9ldd0Y2BgfdGqLHnnJv0lzuEG-9G85yuPSRa6Qg.JPEG/20251019_181944.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221458",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1694535394",
+            "bodySummary": "숯불 지리산 흑돼지 매일 11:00 ~ 22:00 매주 수요일 휴무 친구가 추천해줘서 동생 밥 사줄겸해서 오늘 저녁에 동생이랑 둘이 옴 ㅎㅎ 우리 밖에 없 ㅎㅎ 메뉴판 일반생삼겹살",
+            "url": "https://m.blog.naver.com/giggling-/223256511355",
+            "nick": "낄낄",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAxMTFfMzUg/MDAxNjQxOTEwMDIyNDk0.PW7LKHEIsl7nbTdsDMTOcloakzlzMLnNn19Cx92XyTIg.E4SXL1MKtvmPWxSkVNz8CgX-jonjX4GQ_cxUADrY9s0g.PNG.ajy5742/profileImage.png"
+          },
+          {
+            "sid": "1694535394",
+            "bodySummary": "언제부터?아침 11시부터 ☆몇시까지?오후 10시까지 (매주 수요일 휴무) *도보이용시-수인분당선을 타시고 모란역 10번출구에서 250m 지점 모란고개 넘어가기전 파리바게트쪽 골목안",
+            "url": "https://m.blog.naver.com/pt6754/223220668730",
+            "nick": "강한란",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMjFfMjQ3/MDAxNzAzMTMzOTk0ODA1.mJ1CeejoJxt4Hb209Ng_vZKtHQJaDlIut5JggFrOjuAg.xmmDzw2g8bR8GwU2WlF8Tn9g626y9C1j0luFGb5QiOYg.JPEG.pt6754/profileImage.jpg"
+          },
+          {
+            "sid": "1694535394",
+            "bodySummary": "모런맛집 한식 맛집 여기서 다해라! 주 소 : 경기 성남시 수정구 산성대로93번길 25 101호 점심에는 삼겹살, 된장찌개, 공기밥 까지 주는데 12,000원 이라니 혜자다,, 여",
+            "url": "https://m.blog.naver.com/yewook1004/223208254296",
+            "nick": "꼬마꼬마",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDA5MDhfNTIg/MDAxNTk5NTQwNjI1MzAz.TFQufnPyyoaUmg2OuKOL-bcoWvCEv07yfcs_l13aGf8g.U5JDY1dWkiRtkKrAoH-WVfu3SNFHhdb57CrRhRzTRVcg.PNG.yewook1004/profileImage.png"
+          },
+          {
+            "sid": "1694535394",
+            "bodySummary": "삼겹살과 갈비 주문 반찬 되게 잘 나온다 삼겹팀 갈비팀 좋아하는 두께 생삼겹살 1인분 15,000원 곧 금겹살이 되겠구나 생각보다 훨씬 맛있었던 갈비 반찬가득.. 이 덩네 인심이 ",
+            "url": "https://m.blog.naver.com/jotaegeuk/223124086275",
+            "nick": "나락도락이다",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMjRfNDgg/MDAxNzAwODA0MzA4NTE4.IhhZNTiA1MCDXanbRcb944Ywvre4pLdqhlyxlSwXx8og.Kc6o8mdSb4CPMkfwmG58WV9CM-RlUJJW6USGEyxlGtUg.PNG.jotaegeuk/profileImage.png"
+          },
+          {
+            "sid": "1694535394",
+            "bodySummary": "남한산성시장 삼겹살집 숯불지리산흑돼지 메뉴 가격 흑돼지삼겹살 200g 17,000원 흑돼지목살 200g 18,000원 흑돼지항정살 200g 17,000원 흑돼지생갈비 200g 17",
+            "url": "https://m.blog.naver.com/flyserena/222695500966",
+            "nick": "진재미",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA5MDJfNTMg/MDAxNjYyMTE5NTE2NTc4.nMGTht3AC4YJffjwfBZm_zYmM2fVVfnC_8a9-maEyx4g.M0D_11ksnABMKV5ic2-US76PDJ0DXkObYcWi6t_vDBcg.PNG.flyserena/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 13,
+        "id": "36455795",
+        "name": "베이징락",
+        "x": "127.1293291",
+        "y": "37.4341821",
+        "distance": 0.241,
+        "categoryName": "중식당",
+        "categoryPath": [
+          [
+            "220036",
+            "220039",
+            "220091",
+            "220861"
+          ]
+        ],
+        "category": [
+          "중식",
+          "중식당"
+        ],
+        "reviewCount": 160,
+        "averagePrice": 9000,
+        "address": "경기도 성남시 수정구 수진동 4530 진주빌딩",
+        "roadAddress": "경기도 성남시 수정구 산성대로 93",
+        "abbrAddress": "수진동 4530 진주빌딩",
+        "shortAddress": [
+          "경기 성남시 수정구",
+          "산성대로 93"
+        ],
+        "displayContext": [
+          "중국집",
+          "탕수육",
+          "짬뽕",
+          "신선한"
+        ],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "안녕하세요 베이징 락 입니다  잘부탁드립니다",
+        "description": "안녕하세요 베이징 락 입니다  잘부탁드립니다",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDlfMiAg/MDAxNzU3Mzc3NzY0MDQ4.3SrYNOr98xYUfgdVo32FVqEEiM5Hsl_BP9jlo0kAkwcg.uyYuGCiT-Gk9EcWLfWx9ImjDVlRYqQoTibVaNTu_Pvcg.JPEG/EFE40CFD-8A7E-473E-A344-3BF7A7CFB724.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTRfMTkg/MDAxNzQ5ODg3MzYxMzc5.6ivSqFq2i3Iigiu6C0CxPuUtIUFNPaglODxmkURWU5cg.ZwP_nJUSIMllotDmwEQ5tES1-W0xI9zBFQgj_hykFFMg.JPEG/20250614_161021.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20190919_3/1568838621537UVlt4_JPEG/lZlLtAICILeUk8FvdEprbZlR.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220861",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "36455795",
+            "bodySummary": "일과 중에 모란역 근처 풍생 옆에 있는 베이징락에서 간짜장을 먹고 하늘 참 예쁘다 하면서 잠시 휴식도 취하면서 지나간 하루 일과를 마치고 퇴근 하는데 조카님이 전화를 걸어왔어요 외",
+            "url": "https://m.blog.naver.com/khj4628/223223273042",
+            "nick": "행복해요",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDExMDhfMjk5/MDAxNjA0ODAwMzIyODgy.AQCi8_ycQ_wNG8t6BYQg1xWtMgIw4AyinwedahiDgj4g.rvHsT0UWJ_KbMXuGrLee24zj0oeWFxUqTD9tpUVv9Xwg.JPEG.khj4628/profileImage.jpg"
+          },
+          {
+            "sid": "36455795",
+            "bodySummary": "베이징락 ⏰정보없음 0507-1383-0157 안녕하세용! 우연히 먹으러 갔다가 가성비 좋고 맛있어서 리뷰 남깁니당 점심에 주문가능한 메뉴들은 이렇게 있어요! 15:00~1800시",
+            "url": "https://m.blog.naver.com/ag_life_/223196978401",
+            "nick": "정뚱쓰",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEwMjBfMjQ4/MDAxNjk3Nzc3MTQyMTg0.j5NSr2VDX8J5ID-jQsOI8zWQhqQK1eENuSnl6h5ressg.P9IsvGDRpXQ91yy1Q93U0VsQXAEz5yCWdIjQ91ybndgg.PNG.kimjjong1212/profileImage.png"
+          },
+          {
+            "sid": "36455795",
+            "bodySummary": " 착한 성남짬뽕가격! 현금결제시에 5천원이에요 짬뽕 뿐 아니라 짜장면도 착한가격입니다. 3500원! 오후 3시~ 6시 현금결제하셔야합니다! 들어가자마자 온도체크와 손세정을 해야죠!",
+            "url": "https://m.blog.naver.com/kjwkkht1125/222366092243",
+            "nick": "열혈청년",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTEwMTNfMTQy/MDAxNTcwOTcxMzU0OTA4.AZbtNHu2gbXYK9Ri1L_X1AgrvyVKyFoJBuUfGChF3D0g.T3n7dimyzEPgSok9aWs2QR-_4B00IOLkHjyozO2budMg.JPEG.kjwkkht1125/Slash_LTD_Cover.jpg"
+          },
+          {
+            "sid": "36455795",
+            "bodySummary": "달콤짭짤한 짜장소스와 볶음밥의 만남 챱챱챱 열심히 비벼서 먹어주면 핵존맛탱! 손질된 새우와 함께 한입 먹어주면 너무너무 맛있당 삼선짬뽕에는 해물들이 듬뿍듬뿍 들어있어서 견져 먹어도",
+            "url": "https://m.blog.naver.com/hyunji728/222322389784",
+            "nick": "유이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA0MzBfMTU5/MDAxNjgyODMzOTg2NTQz.xm7SyrMQwByZLYqMcGJhZgaroZ0jghX6mnN938F21PQg.5e9KVpHgLDl9eRCKety00q3-L6ggyHkjBomQPmt4DWcg.PNG.hyunji728/profileImage.png"
+          },
+          {
+            "sid": "36455795",
+            "bodySummary": "그래서 돌아다니던 중 집 근처에 모란역 중국집이 있길래 방문했었는데 너무 맛있어 소개합니다 바로 풍생고등학교 근처에 있는 베이징락이에요 저희 집에서 천천히 걸으면 10분정도 걸리는",
+            "url": "https://m.blog.naver.com/thecoolady/222114347947",
+            "nick": "김힝치",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDA5MjRfMTgw/MDAxNjAwOTIzMDkwNTk5.OAslVwkwo2--kofE-SVS-jp1gCX8chWPKsx5nPvZpN8g.JxrVjameK-jLl_7VfHbVqHtO59qeKi7cmCMjyrvq5L4g.JPEG.thecoolady/KakaoTalk_20200924_134046925.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 14,
+        "id": "1408543901",
+        "name": "한가득",
+        "x": "127.1287749",
+        "y": "37.4364127",
+        "distance": 0.046,
+        "categoryName": "찌개,전골",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220065",
+            "220660"
+          ]
+        ],
+        "category": [
+          "한식",
+          "찌개,전골"
+        ],
+        "reviewCount": 204,
+        "averagePrice": 11000,
+        "address": "경기도 성남시 수정구 수진동 4002 밀란체2",
+        "roadAddress": "경기도 성남시 수정구 산성대로93번길 25",
+        "abbrAddress": "수진동 4002 밀란체2",
+        "shortAddress": [
+          "경기 성남시 수정구",
+          "산성대로93번길 25"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "안녕하세요. 맛있고 친절한 한가득입니다.",
+        "description": "안녕하세요. 맛있고 친절한 한가득입니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDJfMjE1/MDAxNzU5Mzc1MDQ5NjM4.TFilHBX6gBs3J5HJCXfCkZ_CuaPXRSV50lwHziTpgJkg.JaPESVahlvJrNWUYnJmvboYbuIl5ZIM3_wpx-CwLm-Eg.JPEG/CD4034D5-F4CD-4EDA-ABB4-6886E3184E31.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDNfMjk0/MDAxNzQ2MjY3NTYzOTA1.SVtlyukQsy9Ix3MUyCNMB4tJtAl-RsuBDryAfsoZ5xog.xDvc1guPCqo1XY71N_3McHgs2kRSWJj2x5omt-E-oNMg.JPEG/20250503_191547.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20191018_262/1571383525153fb0Ub_JPEG/17ulbbuwSqyFfm2G9jM2djEZ.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjZfMjU2/MDAxNzQ4MjE1NzA1NDky.eT69EYX3hNjVhKaI0VGsr3D68TS7zSH-T-TmeGj-jOEg.6_tlf83vqpDBHWLdph_ri41pHylTxyhqjxQLDTLP9mMg.JPEG/B7697702-F924-44DB-BDA4-14FF3F331C79.jpeg",
+          "https://ldb-phinf.pstatic.net/20191018_32/1571383498843P2IE1_JPEG/5WRcjBIdcOGIzXBrXXaX_2dA.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjRfMjc4/MDAxNzYxMzAzMDgwMjMw.lb2JJ7d0QdP5Nw7cvyeB7TvxkbMFDjqB5L1BUq1gA2kg.j84P_1jTqvI7LOdpwFFM69TbzPtDNrcM1rygGNAKotQg.JPEG/20251024_175839.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20200220_189/1582183646617BaTgH_JPEG/KXALsvh7bLOvgUO0PwcpbxSg.jpeg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjRfMTI3/MDAxNzUzMzI4NTgzOTk0.5nCULjT_HDhMLvLLowRAw6fWJ5Mm8wphATe3vY_GYsgg.iif21fdh1Q6gngw7nGsGHYKpBHk5yQaoPwrxOU7rFpQg.JPEG/20250723_134357.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDlfMjEz/MDAxNzUyMDQzOTg4MTcz.ClNkG-oDdr57O8nRO9_BmBkKILGqGtkfSl9FFOEVn7Qg.WTUxqpMjgtBAGXTf-t2ctRDDwQq4D5IZvRPSFYsCM1wg.JPEG/20250618_131420.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MThfMjA3/MDAxNzUwMjIyMDE4NDEx.mspMasqh_9FQgaga8yTvNBwkQFsMmshmJ4xk3sxs708g.2Bkz8_fKXCSrvuXHtuZEESkVyzIyi986K8X3GmulZHog.JPEG/20250618_131420.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220660",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 15,
+        "id": "1185076378",
+        "name": "브라더양꼬치&마라탕 성남점",
+        "x": "127.1303682",
+        "y": "37.4368806",
+        "distance": 0.112,
+        "categoryName": "양꼬치",
+        "categoryPath": [
+          [
+            "220036",
+            "220039",
+            "220093",
+            "1002974"
+          ]
+        ],
+        "category": [
+          "중식",
+          "양꼬치"
+        ],
+        "reviewCount": 9,
+        "averagePrice": 0,
+        "address": "경기도 성남시 수정구 수진동 3808",
+        "roadAddress": "경기도 성남시 수정구 성남대로1194번길 17-1",
+        "abbrAddress": "수진동 3808",
+        "shortAddress": [
+          "경기 성남시 수정구",
+          "성남대로1194번길 17-1"
+        ],
+        "displayContext": [],
+        "labelTheme": "중식",
+        "microReviews": [],
+        "cardDescription": "경기도 성남시 수정구 수진동 3808",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjJfNDYg/MDAxNzU1ODcxNjY0ODUz.hizr1Yvuso0Wd1oznuPk5LKD1mZKPGr-wmKsHc_hn6wg.Fe0hoaqtG5ySeGYySjWKQ2sX4wEaGGkc0ipRgEIQcL0g.JPEG/0BB1F24B-808C-4883-8F24-4733FCD72226.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1002974",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 16,
+        "id": "18352503",
+        "name": "아몬드베이커리",
+        "x": "127.1292791",
+        "y": "37.4366052",
+        "distance": 0.029,
+        "categoryName": "베이커리",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220564",
+            "221161"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "베이커리"
+        ],
+        "reviewCount": 66,
+        "averagePrice": 0,
+        "address": "경기도 성남시 수정구 수진동 3937",
+        "roadAddress": "경기도 성남시 수정구 성남대로1194번길 7",
+        "abbrAddress": "수진동 3937",
+        "shortAddress": [
+          "경기 성남시 수정구",
+          "성남대로1194번길 7"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "경기도 성남시 수정구 수진동 3937",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20191017_89/1571315057141o1MxI_JPEG/Wx3FPPabpfIzJUIkzqJQR8yQ.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221161",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 17,
+        "id": "36123186",
+        "name": "대게마을",
+        "x": "127.1284636",
+        "y": "37.4341248",
+        "distance": 0.258,
+        "categoryName": "대게요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220076",
+            "220794",
+            "230512"
+          ]
+        ],
+        "category": [
+          "해물,생선요리",
+          "대게요리"
+        ],
+        "reviewCount": 118,
+        "averagePrice": 50000,
+        "address": "경기도 성남시 수정구 수진동 4626",
+        "roadAddress": "경기도 성남시 수정구 성남대로 1169",
+        "abbrAddress": "수진동 4626",
+        "shortAddress": [
+          "경기 성남시 수정구",
+          "성남대로 1169"
+        ],
+        "displayContext": [
+          "킹크랩",
+          "대게",
+          "홍게",
+          "보양식",
+          "코스요리"
+        ],
+        "labelTheme": "고급 정찬",
+        "microReviews": [
+          "수율이 좋아 만족스러운 대게 코스"
+        ],
+        "cardDescription": "수율이 좋아 만족스러운 대게 코스",
+        "description": "모란역9번 출구 대게요리 전문점 입니다. 감사합니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjhfMjMz/MDAxNzQ4NDExOTIxODAw.MgdoRgPr4-1UjlDHx8MHCFLeYtNhSrAb-pG5I4CPbKkg.EYOCTmhordPBcl0-5fWES1UEndXKC2ccukKLXVVxLMQg.JPEG/20250526_150624.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjhfNTkg/MDAxNzQ4NDEyNzA3MjAx.nkimxivgpnCGBxofEpb4eoY9Iqm0dbZOrJZvLmT8fFMg.Cf4ow4dv5tCRUY6R07wjTR6jMgdEyhy5A01BDkAZ6oEg.JPEG/20250526_152642.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20231113_81/1699873109590us8Y8_JPEG/1699871628442.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDVfMjY0/MDAxNzQ5MTEwNDExNDA1.eAg1HWZ4z7MxFORw6e18D-VbFGpeVeKPV1ktc8zx5KQg.sV5aSpI0MG0_ZxYic6g25LO_QolfjVejaHp2yyKPf64g.JPEG/1748923434228.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20231113_221/1699873115996TneGA_JPEG/1699871628997.jpg",
+          "https://ldb-phinf.pstatic.net/20231113_200/1699873112763ORGtx_JPEG/1699871627801.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "230512",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "36123186",
+            "bodySummary": "테이블 석 뿐 아니라 룸도 있어서 그런가 룸마다 예약하신 분들 성함이 적혀있더라구요 !저희도 미리 예약하고 방문했어요 !옛날에는 A,B,C코스가 있었는데 현재는 이렇게 정식메뉴로 ",
+            "url": "https://m.blog.naver.com/xco1329/222958327418",
+            "nick": "정민또",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAzMzFfMTY5/MDAxNjQ4NzExNzkxNzE0.NXkz3xuFohEPA8YcTO2bvXf2Z7YV29Ko19OouSyqPJ0g.J5d0daSoicjBH2yrzxsI5pMzBC26CcjeJY7DxNFHs-0g.PNG.xco1329/profileImage.png"
+          },
+          {
+            "sid": "36123186",
+            "bodySummary": "주차는 건물 뒤편에 이렇게~~! 시간도 저녁시간 조금 전인데다가~ 코로나여서 그런지 저희가 갔던날은 조금 한산하더라구요~~ 그래서 예약없이 바로 룸으로~~!! 큐알코드 열심히 찍는",
+            "url": "https://m.blog.naver.com/bora4866/222549440944",
+            "nick": "솔찍앵이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAzMTVfMTQ3/MDAxNjQ3MzI4NjYxMDI0.B4EKlcTM2EepDFLmJbhr0OCkf-s3xMictD1yPy1cdPwg.SrRZ4vIjpxnhj-Q9pvVQEzMICXCP1fa9pRzjMk_Xuh4g.JPEG.bora4866/profileImage.jpg"
+          },
+          {
+            "sid": "36123186",
+            "bodySummary": "랍스타반 대게반 먹었는데 맛있긴 너무 맛있었는데 나오는게 너무 없어서 많이 아쉬웠다. 그래도 이런저런 이야기하다 시간지나서 디저트로 커피 한잔 하면서 수다떨다가 빠이함. 다음에 또",
+            "url": "https://m.blog.naver.com/towkdnfla/222518907327",
+            "nick": "씽",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA5MjdfMjA1/MDAxNjMyNzUzMDk5ODg2.ZYrE1X3KiBwb5BeIzOzVDqiz_3vNkHUJ1oS92N_eC60g.1VxbBvra4WHj1-hwqfs24qHayGN7R_o6t_hrR-9VwpAg.JPEG.towkdnfla/profileImage.jpg"
+          },
+          {
+            "sid": "36123186",
+            "bodySummary": "되게 많이 지나다녔지만 가보지않았던 대게마을을 방문하였따 (라임이야 몰랐쥐) #모란맛집 #수진맛집 #대게마을 요즘 참 한적한 식당들,, 눙물 이렇게 바깥에 테이블도있고 방도 있어서",
+            "url": "https://m.blog.naver.com/tembatemba/222211670658",
+            "nick": "옞이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEwMTdfMTE1/MDAxNjk3NDk2NzQ5NjQx.bz35sp15TEyPXYqqKiWL-q3TM1URaY9_TaKIyDDDpnYg.W6y7z59_rnaPsPEO6I5yclkGGDVqn31pneTkmyP0OZMg.PNG.tembatemba/profileImage.png"
+          },
+          {
+            "sid": "36123186",
+            "bodySummary": "간만에 대게와 랍스터를 잡으러 갑니다! 모란역 9번출구 바로 앞에있네요. 게딱지 모양이 있어서 금방 찾았네요. 입구 간단하게 클스마스네요.:)) 코로나때문에 참 손님은 없네요.ㅜ ",
+            "url": "https://m.blog.naver.com/pshwin2/222176340653",
+            "nick": "공돌이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20240304_85/pshwin2_1709563688730uupCx_JPEG/image.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 18,
+        "id": "1489054681",
+        "name": "천하통일 회 수중공원",
+        "x": "127.1277097",
+        "y": "37.4381036",
+        "distance": 0.24,
+        "categoryName": "생선회",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220076",
+            "220792",
+            "221629"
+          ]
+        ],
+        "category": [
+          "한식",
+          "생선회"
+        ],
+        "reviewCount": 676,
+        "averagePrice": 54000,
+        "address": "경기도 성남시 수정구 수진동 4557 1층",
+        "roadAddress": "경기도 성남시 수정구 성남대로 1215",
+        "abbrAddress": "수진동 4557 1층",
+        "shortAddress": [
+          "경기 성남시 수정구",
+          "성남대로 1215"
+        ],
+        "displayContext": [],
+        "labelTheme": "고급 정찬",
+        "microReviews": [
+          "광어와 우럭이 선사하는 풍성한 바다맛"
+        ],
+        "cardDescription": "광어와 우럭이 선사하는 풍성한 바다맛",
+        "description": "성남 최대규모 횟집입니다 : ) 대형룸도 있으니 단체 예약 문의 주세요 ! 031-752-5245 항상 신선하고 좋은서비스로 보답하겠습니다 감사합니다",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMjNfMjY4/MDAxNzYzODcwMTE1MDcz.3iCymLV9dxS7kQAnI1t6Z6pTjoHuJpjkzEfrDdrHQf8g.Gr8FumlwqrbhEwinwcLHzshGUDzTY-SlkDQX2c763Jsg.JPEG/1000047957.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjFfNDAg/MDAxNzQ3ODM2NzQ4NTI5.UT2YkpwlWBT0ziqb4GGJ0qMxA3BTjW44i2gp8GHjfE0g.DY1trRQfsnnV_ByJdNS3lp03IqmLqcrLTb23bqaw2mIg.JPEG/20250521_213130.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20200221_82/1582273595604CN4xI_JPEG/NUggSA7NodatHSLFU0lNen-r.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjhfMzAw/MDAxNzU5MDU4MjQ4MjA2.eneC2qoDkmvpXe1ennFI0YnBSmNzWSFxEb7v90GU5tAg.WKi-yWj5WloQIifnhjliBj0IvWeKvG0DVEG1G9ufkNIg.JPEG/E55A5345-3894-4982-A715-D116A9E40888.jpeg",
+          "https://ldb-phinf.pstatic.net/20200221_165/1582273621240ioANO_JPEG/gcGOSBur3NgWFnbsRCVSaDqn.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMThfNTIg/MDAxNzYzNDQzNjM4Mzk2.aw3ytGQ2JcN8IBlR1x885BtjXIndlLbP-57erAucH7Yg.FOjJ4ZjdNRYEs9BLi0Xls7Tv4MmgEwgu_7tPanszOFcg.JPEG/1000017894.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20200221_216/1582273604946o2KjX_JPEG/GGJGOiuCkBfvrnycvwD0ith3.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjJfMjk3/MDAxNzU1ODM3Mjk5ODky.OWMkaB6RiP0pNKiOfyEAx_Qqa1qxRNfCBTwN8FEVeJQg.3rNQLoBeROf4KaECo-LtlbPpo-6eJ6gjvps-VsPc1Ncg.JPEG/20250822_112731.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjZfMjk0/MDAxNzUzNTIzOTM5MTE1.mA-p1Wbg2n_0l7KSGdBwGLPnHeifnh0GWmdrRp7a1hMg.fpSSMIlYfRj_JLGtKVYZG1WXmxxrVZ6GHSzSA4yfUnAg.JPEG/F81907E3-30DE-41C9-B069-5C2CB1153EF1.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjFfMjQx/MDAxNzQ3ODEzOTMxMDQ4.eA1p5BwsQGvQ_fK1xxgk0YvazzPc1vVYhNg8KjkwgZwg.-G0L23DCV39hvz-0vEfFtgw9SJwRoRolznCSRxnhDLsg.JPEG/20250521_124329.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221629",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1489054681",
+            "bodySummary": "회도 이만원에 이만큼이라니,, 진짜 가성비 터짐 회도 신선하고 맛있었당 얌얌 먹고있으니 고구마 튀김도 주심!! 새로로 양심 조금(?) 챙기고,, 간단히 잘 먹고 나옴!! 물회도 있",
+            "url": "https://m.blog.naver.com/gywjd970923/223156869563",
+            "nick": "하뚱",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA0MjZfMjgx/MDAxNjUwOTU5NDg1MTM2.85nYfpq3DN4HOyDURoSyRa5DC40pR9W-T23tEvREZBog.IP48AkrZ5xtbuxtU0e6IR2MEO5Zl0YVjfc74Knl1-FEg.PNG.gywjd970923/profileImage.png"
+          },
+          {
+            "sid": "1489054681",
+            "bodySummary": "천하통일 회 수중공원 경기 성남시 수정구 성남대로 1215 이용시간 : 11:30~23:30 가격 : 모둠회 70,000원 , 민물장어 왕특 43,000원 주차 : 가능 성남에서 ",
+            "url": "https://m.blog.naver.com/alldayyoungzzu/223151744181",
+            "nick": "youngzzu",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTEwMjlfOTEg/MDAxNjM1NDg4NTI0ODQ4.8bW1ZQOvSG0JvBhd-J9LIZa1_XNriy6buKOX2yQ53Mgg.KpNLwb_kbkxYiFOrvSqRakT-9eoznYC8gZ9Othehr0Eg.JPEG.ay_0424/IMG_7727.jpg"
+          },
+          {
+            "sid": "1489054681",
+            "bodySummary": "매일 지나며 본 #태평역횟집 #천하통일회 로 방문했어요. 특선 메뉴로 #가성비좋은회 세트로 광어+우럭, 광어+우럭+계절회를 저렴하게 먹을 수 있어요. 특선메뉴와 달리 메뉴판 사시미",
+            "url": "https://m.blog.naver.com/mkyoung311/222860099756",
+            "nick": "밍고",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTA1MjFfMTc1/MDAxNTU4NDM5NTkyNTgy.ooKgf6VWV6u8_dRSpyrNEIcXnShSOj6aXiRdK2v_um4g.VPLxA8PICD_F0nF4sqectyWbiLShiC_kQlTgZAlFFJEg.JPEG.mkyoung311/profileImage.jpg"
+          },
+          {
+            "sid": "1489054681",
+            "bodySummary": "오랜만에 회가 먹고싶어서 동네 횟집에 갔다. 태평역쪽에 있는 가게였다. 가게 앞에 수조가 엄청 많았당...싱싱한 물고기들이 가득~ 메뉴판 우리가 시킨 메뉴는 특선 메뉴!!!약간의 ",
+            "url": "https://m.blog.naver.com/ddun_ddun_ee/222583321182",
+            "nick": "뚠뚠",
+            "profileImg": ""
+          },
+          {
+            "sid": "1489054681",
+            "bodySummary": "연어샐러드, 가자미 찜, 옥수수 콘, 우동, 번데기 탕, 알밥, 꽁치구이가 나온다 ( 참고로 도다리 중자 기준 ) 기본 찬은 대체로 무난한데 곰탈은 개인적으로 가자미조림이랑 알밥을",
+            "url": "https://m.blog.naver.com/tkzzangs/222277610058",
+            "nick": "곰탈쓴여우",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDAzMjZfMjgw/MDAxNTg1MTk3OTk0NzE3.TrHUE3XJEgM9kCwIlBnJ5WjaTNlNp-GR50BNyZoSv7kg.973C0XxEPsHwI1ltuYpKykQPDle_fSrL0Oz_VGAqxvAg.JPEG.tkzzangs/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 19,
+        "id": "1823102269",
+        "name": "버섯잔치집 성남태평역직영점",
+        "x": "127.1276862",
+        "y": "37.438198",
+        "distance": 0.25,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 1215,
+        "averagePrice": 34000,
+        "address": "경기도 성남시 수정구 수진동 4557 버섯잔치집",
+        "roadAddress": "경기도 성남시 수정구 성남대로 1215",
+        "abbrAddress": "수진동 4557 버섯잔치집",
+        "shortAddress": [
+          "경기 성남시 수정구",
+          "성남대로 1215"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [
+          "넓은 공간에서 즐기는 푸짐한 한 끼"
+        ],
+        "cardDescription": "넓은 공간에서 즐기는 푸짐한 한 끼",
+        "description": "포천직영버섯농장 5천평에서 생산된버섯으로 무한리필 버섯전문음식점입니다",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMDRfMjEw/MDAxNzYyMjUxNzIzMzc3.QeYP50QAK0v6GrzPTyvioyi_qRUsvwll6aJ3mTaijCMg.6HZUR8z1Rnr078kCVSu5KhSxnup1bwHzoPAAR_bLF1kg.JPEG/20251104_192110.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDNfMjIy/MDAxNzQ2Mjc1MDI5NTQ5.MEGx584S_6DKHTfYTCsR_XYI_Eq-r6x0kGr_IQHkoc4g.teHH0r_BWtC7rHIqqtciWPCeYQxdgJFd0K5xZ5AR8qAg.JPEG/20250503_185327.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20221231_283/1672469771550gsjTP_JPEG/Picsart_22-12-31_15-37-11-137.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MzBfNTQg/MDAxNzU5MjAxNDkwMzg2.iZvtg23OKLP6_VL1Y_2fKzWzsMVIzQmQb59_4oXJqIAg.l3gCY8TtUJJsYKaAaGA9DTLVzra_3-4uA3bp9ZSyc7Eg.JPEG/20250930_113216.jpg",
+          "https://ldb-phinf.pstatic.net/20190928_180/1569598708118zzQSL_JPEG/cuoadypqLTPoCoabpfbvVDCH.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTBfMjcw/MDAxNzQ2ODUxNzA4Njgz.H4YnOwEf_xxufmByKccauCro9Mtc2ZZK_6woZmTyReUg.sb_N3a8kHuoOFLhsloXo6Plc1ZL_OcoloehE7MTvtc0g.JPEG/20250510_131827.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20190930_110/1569848310634QISB5_JPEG/3U2yceBihOEfP87ZTmkj0VZH.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDhfMjU1/MDAxNzU0NjI0Nzk4NjU0.n7buahuyrz9iEHLZCugyvNTZg7hF09BkKOE80BErLhkg.NYYkekwoeLJcuI05BeMPn4QGbANRrxN41MsoLhEZFAMg.JPEG/1000020932.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDhfMjg2/MDAxNzU0NjIwODAyMTU5.G9JGMB3up_T0U_3Qa9BmppJ1JdYZ5lTHOvSHQdsU4fcg.RJmdxuagbxUl3S0egG9kvSmMqr3ue5T0_kDoADfIs-wg.JPEG/20250808_112148.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTdfMTA1/MDAxNzU1NDA0NTI1NTA3.agHIZ39-t1fCis6Z14K928oV3CphB9PAI81LqDUCM10g.g_oe9rtLayhW9TrTKZLQowxILoKlgZx-FClsMDrV2IQg.JPEG/20250817_123420.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1823102269",
+            "bodySummary": "경기 성남시 수정구 성남대로 1215 버섯잔치집 ⏰ 매일 11:00 - 22:00 / 월요일 정기휴무 ☎️ 031-759-0022 버섯잔치집은 태평역 5번출구로 나오시면 150m ",
+            "url": "https://m.blog.naver.com/zhu__xi/223312789261",
+            "nick": "곶이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA4MDNfMTcg/MDAxNjkxMDM1ODg3MTAw.VPvpuYgui0qMGwGUHobRE8saF3Psy9WL4PM17Cf4u8Eg.P7dCdBkxo2iUYQwKiifeoI8n0fVHh3OIHZoXAYw6cbwg.PNG.zhu__xi/profileImage.png"
+          },
+          {
+            "sid": "1823102269",
+            "bodySummary": "최근에 회사 동료와 함께 점심 먹었던 곳! 태평역 근처 '버섯잔치집' 방문했습니다. 셀프코너? 샐러드바 무한리필이기도 해서 고고 버섯잔치집 식당 외관 사진 이곳 지나가다가 '평일점",
+            "url": "https://m.blog.naver.com/ddongddongju/223298776572",
+            "nick": "이쿠죠동",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA0MTVfMjA1/MDAxNjgxNTY1NjY2MjQx.KA-winPCLlauUMUeN7hldfxqmSM4jfEw-JlEEGgmaz4g.GTYyzMDXdAT1TnonDkjHslkot2Uh8CgLvYB4DSXcOE4g.JPEG.ddongddongju/11.jpg/11.jpg"
+          },
+          {
+            "sid": "1823102269",
+            "bodySummary": "이 집은 버섯이 메인인 식당이어서 몸보신하기에 좋은 식당 내 돈 내산 또간집 샤부샤부 버섯잔치집 위치는 분당선 태평역 5번 출구에서 조금 올라오면 있고, 주차는 식당 앞에 하시면 ",
+            "url": "https://m.blog.naver.com/te-retelling/223151386206",
+            "nick": "eat태리",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMDRfMjg1/MDAxNzA0MzQ0MTc2NzAw.ULJEJfC2yhmvOxY33UMDtQ5OQ4MfCM6Wr1GzLef0F_Yg.5ip6Jd9wK4yy0_5fRTaNty18R6-ajkoObeqjwXcYySQg.PNG.xofl00001/75ccae6d-50cb-4f22-86d8-b1473185b838.png/75ccae6d-50cb-4f22-86d8-b1473185b838.png"
+          },
+          {
+            "sid": "1823102269",
+            "bodySummary": "샤브샤브 메뉴만 있는줄 알았는데 찜메뉴도 많이들 드시더라구요 샤브샤브라서 패스트푸드처럼 빨리 나와서 좋아요 노루궁뎅이 버섯과 동충하초, 샐러드가 함께 나오고 샤브샤브에 들어가는 버",
+            "url": "https://m.blog.naver.com/hjjo8470/223079993567",
+            "nick": "히찌",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMTRfMjg0/MDAxNzEwNDAxODMwMTc1.FNwT08-iHqDLSZnIvYSpDUwb-Go6IlBYTAys8fSVlvQg.-HJKwlel073A0SU8kvNA1OebOWyu-6oQ2zliE2ZB9lsg.PNG/profileImage.png"
+          },
+          {
+            "sid": "1823102269",
+            "bodySummary": "브이디로봇 간판도 보였네요 ㅎㅎ 위치는 태평역 나오자 마자 위치합니다 차 가지고 공영 주차장에 댔는데요 태평쪽도 밥집 맛집이 많아서 기대가 되었습니다 가게 진짜 넓어요 ㅋㅋㅋ 태평",
+            "url": "https://m.blog.naver.com/tjdus25/223063973391",
+            "nick": "곰집사",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTA4MDVfMjYx/MDAxNTY0OTU1NjgxMDQy.7DaGhgXSACT6UyvfoR1Xo4QAklPezxhutTsbK0FMOmog.oQiFfzdmjGaQxjd8kjXHNWPrvY8ipcwHi0IP3OIC8W0g.PNG.tjdus25/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 20,
+        "id": "1736416822",
+        "name": "꼬마한식",
+        "x": "127.1295096",
+        "y": "37.4379194",
+        "distance": 0.176,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 59,
+        "averagePrice": 0,
+        "address": "경기도 성남시 수정구 수진동 3871",
+        "roadAddress": "경기도 성남시 수정구 성남대로1210번길 12",
+        "abbrAddress": "수진동 3871",
+        "shortAddress": [
+          "경기 성남시 수정구",
+          "성남대로1210번길 12"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경기도 성남시 수정구 수진동 3871",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20210528_212/1622205281056Gbrxc_JPEG/47YGTaGjrOYYIFFyZgqArVZN.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.67",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 21,
+        "id": "1287910383",
+        "name": "충북갈매기식당",
+        "x": "127.1274968",
+        "y": "37.4377402",
+        "distance": 0.222,
+        "categoryName": "육류,고기요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220733"
+          ]
+        ],
+        "category": [
+          "한식",
+          "육류,고기요리"
+        ],
+        "reviewCount": 9,
+        "averagePrice": 0,
+        "address": "경기도 성남시 수정구 수진동 4560",
+        "roadAddress": "경기도 성남시 수정구 성남대로1209번길 4",
+        "abbrAddress": "수진동 4560",
+        "shortAddress": [
+          "경기 성남시 수정구",
+          "성남대로1209번길 4"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경기도 성남시 수정구 수진동 4560",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjlfNjIg/MDAxNzYxNzEyMzg3OTcx.qis-v4B--zTDqWCahb-dstN7-vA54-sAYz5SZOZIrx8g.aT0F3k3ZmrZTQtCyVBt_gowRdPd1MUbT2hWOlD_j4Ncg.JPEG/1000046551.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220733",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 22,
+        "id": "18308650",
+        "name": "모텡이 민물매운탕",
+        "x": "127.1288541",
+        "y": "37.4366963",
+        "distance": 0.055,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 49,
+        "averagePrice": 40000,
+        "address": "경기도 성남시 수정구 수진동 3991 밀란체3 203",
+        "roadAddress": "경기도 성남시 수정구 성남대로1194번길 3",
+        "abbrAddress": "수진동 3991 밀란체3 203",
+        "shortAddress": [
+          "경기 성남시 수정구",
+          "성남대로1194번길 3"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [],
+        "cardDescription": "경기도 성남시 수정구 수진동 3991 밀란체3 203",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20250330_123/174332185925411n7g_JPEG/1743321118620-2.jpg",
+          "https://ldb-phinf.pstatic.net/20250330_107/1743321859014mciQr_JPEG/1743321118620-3.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 23,
+        "id": "1423862090",
+        "name": "육채미 태평역점",
+        "x": "127.1285613",
+        "y": "37.4379952",
+        "distance": 0.194,
+        "categoryName": "고기뷔페",
+        "categoryPath": [
+          [
+            "220036",
+            "220046",
+            "220165",
+            "221028"
+          ]
+        ],
+        "category": [
+          "뷔페",
+          "고기뷔페"
+        ],
+        "reviewCount": 637,
+        "averagePrice": 20000,
+        "address": "경기도 성남시 수정구 수진동 3016 2층 201, 202호",
+        "roadAddress": "경기도 성남시 수정구 성남대로 1210",
+        "abbrAddress": "수진동 3016 2층 201, 202호",
+        "shortAddress": [
+          "경기 성남시 수정구",
+          "성남대로 1210"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [
+          "아이들도 좋아하는 맛있는 메뉴 가득"
+        ],
+        "cardDescription": "아이들도 좋아하는 맛있는 메뉴 가득",
+        "description": "안녕하세요. 육채미 태평역점 신규오픈 했습니다. 소고기편백찜,최상급삼겹살구이,최상급소고기구이,월남쌈,소고기샤브샤브를 무한리필로 즐길수있습니다. 많은이용부탁드립니다. 감사합니 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTlfNzIg/MDAxNzYwODQyNjI2NTkx._8-W2DWquVudvKkFAYX0rMFHn9jiVq132Svcx8RPLd8g.e7QZsF8ikrXxGgUItT_7suxaXroyH8SC5AtaXQ23FKUg.JPEG/IMG_20251019_115639.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDFfMTAx/MDAxNzU0MDM5MDkzODky.k6uU0B_50p9k6qRzgWBUj6WB30qdMwzzwVyEQz_H0aog.RlMC2F1WJRqnpgAqRI40g46Zs_UFcyoBk_YpmeCQohYg.JPEG/1754038851497.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20241022_120/1729553333744t5O7X_JPEG/SM_08370.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTJfMjU5/MDAxNzYwMjU3MTE5NDI4.ZbV_XPslHERl1hE8I5P6izDDZ7wuaupeOu83I0mAxJ0g.y6ZQbC9XvQxWciAJgu3PL_InRYlxLD94YnMQPALQUb0g.JPEG/20251012_171702.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250801_277/1753977073764Q52xa_PNG/1753973331830.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDFfOSAg/MDAxNzU0MDM0Mjk2NjEx.jiC9VsEyHG8cjuYpVtCE1JHtrrxPy2rpW7HjdyQ_vEMg.xjrSSILaNCowK-IdKynFdMU6adCD8bvSm9usPColpSYg.JPEG/20250801_164259.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20241022_182/1729553332566DNTQb_JPEG/SM_08542.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTlfMTU2/MDAxNzUyOTE2NTAxNDIw.hBPc_7OGrrUUX_0Yc_leQt9pfwKS4hlHDfgLoPppMxkg.tY4mNfQ8cMRfD9t21zDDgrKMfnI11pLG9hpT45R0AWwg.JPEG/03CA3DCB-0154-4236-B354-0CA3ABE75A23.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjFfNTQg/MDAxNzU1NzQ5NjE0MjA3.fGW-lhF2fLiox9gYmfQgO9t1l27QP3ysimQof9Ol57Qg.nFPeW0f95Pr__mnCnv8gYUoj6e1EVm1EnmyGHtNWHmsg.JPEG/20250821_131053.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDZfMzkg/MDAxNzUxODA1MDU2MjQ0.GhC8uCsbKGBsbx7mugO5a0D14NA8PrmhUTC_t22t664g.9c1V8gQdFSGfVPGPnMOpmwJ1MbosryaUxHH0gZXIS3Ug.JPEG/6EDFEE58-F7D8-480F-BA60-5D29BDA6144B.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221028",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 24,
+        "id": "19216879",
+        "name": "파리바게뜨 성남대로점",
+        "x": "127.12868",
+        "y": "37.4365264",
+        "distance": 0.057,
+        "categoryName": "베이커리",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220564",
+            "221176"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "베이커리"
+        ],
+        "reviewCount": 1463,
+        "averagePrice": 0,
+        "address": "경기도 성남시 수정구 수진동 3993",
+        "roadAddress": "경기도 성남시 수정구 성남대로 1196",
+        "abbrAddress": "수진동 3993",
+        "shortAddress": [
+          "경기 성남시 수정구",
+          "성남대로 1196"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "파리바게뜨 성남대로점입니다. 네이버 스마트주문에서 간편하게 주문하세요!",
+        "description": "파리바게뜨 성남대로점입니다. 네이버 스마트주문에서 간편하게 주문하세요!",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjVfMTcx/MDAxNzU2MTExNzcxMTM1.-uG7w5s-vbpRxBe7j2eJIqOHq_-SRYCQIIqZXfTP6LMg.WCXMBHtqfJiEvcTQH0Sc7ZfOUbiF79LAbXt5zIzrgP8g.JPEG/20250825_172347.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTNfMTAg/MDAxNzYwMzE4OTY1Nzcy.qGKULWfZWVVJ5cEBAALNjsVA5lJwWZljtdsq8mSI6Vkg.jx2xIhVCNmHicYbYUPpyZX5CQytryWlijhHW8PBWfCYg.JPEG/20251011_204146.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250307_297/1741343697342XNtaX_JPEG/1000004144.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTRfNDIg/MDAxNzQ5ODcyOTk5NDM1.5NTRceOsjTnzkXGyD-py5ykZjSGcU4px6bRjV68K2Hcg.X7oTR91-zE1PtTXhBkL0WWOv-BE4bXnJywxSnSXTjlIg.JPEG/20250614_115959.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250307_91/1741343716553XNgXb_JPEG/1000004145.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDNfMjcx/MDAxNzQ4OTQ5MTYxNTEw.bH4rWW7-Nvx9TN-K6lLIPebPa68j_2czIZRWzLx6_U4g.safHWIu3cCnATdMnIxm3BwJAXPyTNs-O19DASwBhYy4g.JPEG/41F4D35B-CB67-444A-868B-B276E9A189C6.jpeg",
+          "https://ldb-phinf.pstatic.net/20250307_224/1741343716551oI3Y1_JPEG/1000004146.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MThfMTQ1/MDAxNzU1NTAyNTUzNTY5.ntgYUmBxO_td0Xr-nIuBW9GlF8BIInwbBDHeFRzPeVYg.DBQ189wNy6fciDBd7wJKpUtZ6JXdAoIuV9ioR8qDu20g.JPEG/20250818_162544.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTFfMTY3/MDAxNzU0ODY5MDE2MTU4.VOH4fvAdYeKfwchVjSg216rL56CGq0dIYhMVHIbwLJ0g.zeQ3usKvIRyhn1Kav7mxwpUaBtgAASqLOEyj0y0HfqEg.JPEG/20250811_083449.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTRfMTY2/MDAxNzYwNDI4NTMyODA2.w_JdpO7LO2nnz3FCmU_5yWCyRJ2lFPpHNmCNMOfnViIg.EwnWq20ZV4q8oNUFqbP1hitcUyGiyyyA455ERAbh6fUg.JPEG/20250921_182348.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221176",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.42",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 25,
+        "id": "38531831",
+        "name": "덕원수제돈까스 모란직영점",
+        "x": "127.1293898",
+        "y": "37.4341906",
+        "distance": 0.24,
+        "categoryName": "일식",
+        "categoryPath": [
+          [
+            "220036",
+            "220038",
+            "220082",
+            "220812"
+          ]
+        ],
+        "category": [
+          "일식",
+          "돈가스"
+        ],
+        "reviewCount": 986,
+        "averagePrice": 5000,
+        "address": "경기도 성남시 수정구 수진동 4530 진주빌딩",
+        "roadAddress": "경기도 성남시 수정구 산성대로 93",
+        "abbrAddress": "수진동 4530 진주빌딩",
+        "shortAddress": [
+          "경기 성남시 수정구",
+          "산성대로 93"
+        ],
+        "displayContext": [
+          "치즈돈까스",
+          "돈가스",
+          "파스타",
+          "떡볶이"
+        ],
+        "labelTheme": "착한 가격",
+        "microReviews": [
+          "가성비 최고의 푸짐한 돈가스 세트"
+        ],
+        "cardDescription": "가성비 최고의 푸짐한 돈가스 세트",
+        "description": "2015년 6월초 오픈하여 한자리에서 꾸준히 장사하고 있는 성남돈까스맛집 덕원돈까스입니다.  [구)성남건강관리공단 옆건물2층 2012년오픈한 덕원왕돈까스로 시작]  안녕하세요. 모란돈까스맛집 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTBfMjcy/MDAxNzQ2ODY4NzY0NDE5.uI09fbc0b1zkJmJ3P2RaAk1_kbMBxEqyXjfWcZzfPK0g.TBP8AI4PSCyyj1XPNqJS8cLL45ZwOXNrc_ONPn_3-K4g.JPEG/20250505_113040.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjlfMTA3/MDAxNzUzNzk4NTkyODk5.NiNPeI5dWyPFaYCIBtOuFMjeKIqyPQQkPrg386EHtj8g.6sA-dRQrotgrS1wgOcT_F3iJufvIzV_m5PyO6I_ziN8g.JPEG/20250729_174613.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240511_10/1715398793080RiBqs_JPEG/KakaoTalk_20240511_122634924.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjhfNDQg/MDAxNzUzNjgwMjc3MTIw.vhQw4IThVy8wZ92-O7BGPCRT5NVTfUiT7ZkA06r0nYog.vf0vduM6DL789Sc1enpcLavCXljwEcXflVYUvC8fuWgg.JPEG/20250728_141515.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240511_240/17153987859063UmK1_JPEG/KakaoTalk_20240511_120033790_%281%29.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjVfMjcy/MDAxNzUzMzY5NTMwNTky.yLGB3T-99X8CKZyjMLwhiOzq1wOQp8nPqNw1AufzHd8g.hImPk05yNjjFWOn108vsc7l9DbQw6c5ETws5u-I0nPgg.JPEG/1000101294.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240511_65/1715398777271KsV4O_JPEG/KakaoTalk_20240511_122920479_02.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjZfMjI2/MDAxNzQ4MjM3Nzg4NjY5.FGzjMFdsffwjIr9JSXt93j9Ig7Pzoxnc05tvBHrkFC0g.3Zen1zC20Myw-0BOvE25LdtkyNkQ3ehp5XX2zbOrhb8g.JPEG/20250522_120645.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDlfNSAg/MDAxNzQ5NDQwMTE3NjUz.44Li0kwpAZM7WgDNgTnx338t6dIO_MpVPZPt8LGF5lgg.taOlROugIWd-sW_FjkZSHsi8Doerde-hSK_X9NDwHIkg.JPEG/1000014388.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDRfMjk3/MDAxNzU5NTg4Mzk0NjI4.se19krcW9U7JWBbqzAb_n5R5JqLCfZmGrZN8LYkRt0Eg.Y8E5V9UJLPZmN7jHZW2VHMjhwkbTnOQecOgKiG25zfMg.JPEG/1E810E5C-F9D0-4A2C-8FE5-1ABEC7743E1C.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220812",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "38531831",
+            "bodySummary": "말 많은 나잉입니다 주말에 집에서 밥먹긴 싫고 일단 집에서 나와서 모먹지 .. 하면서 거닐다가 결국 들어가게 되는 덕원돈까스 모란점. ㅋㅋㅋㅋ 나름 다양한 메뉴를 먹어봐서 기록삼아",
+            "url": "https://m.blog.naver.com/tmt_naying/223345473747",
+            "nick": "나잉",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAyMThfMjgx/MDAxNzA4MjU1NTIxODcx.8r8rf6zBELhaScOBNKjx1EhNUt1hI7z7_kNOLBfsr8Ag.CRvf1WgSD3dW5iC5KwVTjOZAF_Y9mxbiyMoRfubbGicg.JPEG.ny7188/profileImage.jpg"
+          },
+          {
+            "sid": "38531831",
+            "bodySummary": "근육을 부드럽게 풀어줌 ✔️ 당뇨, 혈압, 위, 간 등 건강을 챙길 수 있음 매장 내부 매장 내부 모습이에요 적당한 크기이구요 점심시간에 맞춰 방문하니 거의 만석이더라구요 역시 모",
+            "url": "https://m.blog.naver.com/haha-_-_/223315010359",
+            "nick": "모든 음식을 소중히",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA4MDJfMjQx/MDAxNjkwOTg1OTk2MDg3.73PH7TovB20UVZbmaqgSvEwu-lzTiy9TRxdIl03C-34g.GDfcQdbb74J3dxFn9bRgisoSedhXG4TBfbechYdw8YQg.PNG.y77y869/profileImage.png"
+          },
+          {
+            "sid": "38531831",
+            "bodySummary": "덕원돈가스 #냉면맛집 모란에 있는 냉면을 먹으러 한시간 반 지하철 여행을 떠났답니다 정말,, 너무 기대됐어요..!!헤헤헤 (원래 돈가스 맛집이랍니당..!!) 역시 이렇게 매콤하게 ",
+            "url": "https://m.blog.naver.com/rkgus0805/223226931987",
+            "nick": "Molly",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA4MTVfMjI4/MDAxNjkyMTA5NTM0MDc1.WixyOa47oiI9J47AFqp4b1XMAbalxBwmHxJC-dBMllcg.w_32H9X96sCNhvupmXVzL_3D-FcOCR6mlwzj5Rai2ysg.PNG.rkgus0805/profileImage.png"
+          },
+          {
+            "sid": "38531831",
+            "bodySummary": "순정부터 튜닝까지 돈까스를 사랑하는 사람이다. 소개할 돈가스집은 덕원돈까스 버스 타고 오며 가며 봐서 한번 가보고 싶었다. 이름에 모란 직영점이 있어서 뭔가 전문적인 분위기가 낫다",
+            "url": "https://m.blog.naver.com/manjung-e/223219372220",
+            "nick": "맨정신만정",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAyMTlfMTk3/MDAxNzA4MzUyNDA0NjA1.W-X9KFcBESx_4dzcf26mvZ-6tVfTMrf6TEqJVMYAdiAg.A24Bd3KWBML59vQ0r6Do5lrlUykkR4HgCm5HO-SuHWgg.PNG/profileImage.png"
+          },
+          {
+            "sid": "38531831",
+            "bodySummary": "날씨는 후덥지근 왠지 성가신 느낌을 주었어요 어쨌거나 저쨌거나 밥은 먹어야겠지요 모란역 풍생 옆 덕원돈가스로 가서 치즈돈가스를 먹었어요 냠냠냠~~ 하루 일과가 끝나고 퇴근길에 나서",
+            "url": "https://m.blog.naver.com/khj4628/223204205544",
+            "nick": "행복해요",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDExMDhfMjk5/MDAxNjA0ODAwMzIyODgy.AQCi8_ycQ_wNG8t6BYQg1xWtMgIw4AyinwedahiDgj4g.rvHsT0UWJ_KbMXuGrLee24zj0oeWFxUqTD9tpUVv9Xwg.JPEG.khj4628/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 26,
+        "id": "1568203519",
+        "name": "메가MGC커피 성남대로점",
+        "x": "127.1287545",
+        "y": "37.436246",
+        "distance": 0.049,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "231192"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 1189,
+        "averagePrice": 5000,
+        "address": "경기도 성남시 수정구 수진동 4002",
+        "roadAddress": "경기도 성남시 수정구 산성대로93번길 25",
+        "abbrAddress": "수진동 4002",
+        "shortAddress": [
+          "경기 성남시 수정구",
+          "산성대로93번길 25"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "고객에게 감동을 점주에게 만족을 주는 메가커피",
+        "description": "고객에게 감동을 점주에게 만족을 주는 메가커피",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjdfMTkg/MDAxNzUzNTgzNDA1NzU1.8kSQResXv_JTn__dtYrof15At9AptWfe_Trau_2bec0g.ymDXB6Cv-U_gjzebZ87tFCc41K1EgAFLkNP6T0zsZmIg.JPEG/14707260-2B0A-48E5-B9F8-FA06F810B64A.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDFfMjk2/MDAxNzUxMzI5MDc0NTA4.gjlVOVTEz4rGkyoseNCF5NM1czvKXz-iPUsWmikvrlgg.chcM0xRX-_lyYCD1pjlEZtBvS29yBU_4kc1XmEH6yo8g.JPEG/C7BD61F4-8496-481F-A781-C42F93B4D133.jpeg",
+          "https://ldb-phinf.pstatic.net/20250324_203/1742825838781l5JuP_JPEG/1000016838.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjhfMjU3/MDAxNzU2MzY5NDY1NzE3.SUX_YSPG-rmA0TgAleifoDjroyjfOmLGnJFMGXHLphsg.i3-qve_izXU2wTe90Dg4djPQlyF5YnWM8fY5G-NRLDwg.JPEG/1000026049.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjFfMjcz/MDAxNzUzMDgzMjY3MTQx.WVJwEc6WLqIhkkSsdiI_AwHZGdvsaqpmESPooIM8g3Ug._SOUBr15cpPIP3rU9VwKgHY7ftsN2LLJMIYFUH6Jmo0g.JPEG/20250721_162944.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTVfMTIy/MDAxNzUyNTY0ODgxOTEw.6IImSeLvib6rv8DK4Z9DfkkTfpmUyElPAShPMjxmu9sg.8ybE-uWWZKuYlWD9v0X56leKXK65Tog97zWiuIDKmn4g.JPEG/20250715_160700.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMTNfNSAg/MDAxNzYyOTk1MjYzMTU4.5b04NLqL1cNOYA07whQhYjMG2gOeutM8gl4MInVSaeog.hsF0Gv8YTOJnZujSU-mmnMIMXdRBOuKnJ_bdoE_tDGYg.JPEG/20251113_090626.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MzFfMjkx/MDAxNzQ4NjY4MzI0NTcy.w79O6_-t7C00YpXp1gka9UYcdKphcztYBIzIT5Fpys0g.772fpe3J7e-Kw5rC3hFVzPo0YjT7dW0wLtBvQ6oaNZkg.JPEG/20250531_140938.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDdfMjUy/MDAxNzU0NDk0MDMxMjgz.2dtsMB3l4Jc3yaWKoA7UpSEKcI0HlTvbX5MC4SKBtMIg.14KhDQsEOZTMQuEJOS7AliEvUmtUZN8yqxyA-5jQsswg.JPEG/3CFD375C-4A04-486A-80B8-6AD1CCEE21FA.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjhfMjA3/MDAxNzUzNjk0Njc2NTUz.2GzWSS-3WBztwYl9Ql_4i8lqReWY6HdYag6sei9XPw0g.JkFJ4iNGaUM-yUaQnxOqoDOn1LZcAQ-H7uWBJ7alVswg.JPEG/image.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "231192",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 27,
+        "id": "36980892",
+        "name": "처갓집양념치킨 성남점",
+        "x": "127.1294223",
+        "y": "37.4352632",
+        "distance": 0.121,
+        "categoryName": "치킨,닭강정",
+        "categoryPath": [
+          [
+            "220036",
+            "220049",
+            "220464"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "치킨,닭강정"
+        ],
+        "reviewCount": 157,
+        "averagePrice": 20000,
+        "address": "경기도 성남시 수정구 수진동 4034",
+        "roadAddress": "경기도 성남시 수정구 성남대로1180번길 5-1",
+        "abbrAddress": "수진동 4034",
+        "shortAddress": [
+          "경기 성남시 수정구",
+          "성남대로1180번길 5-1"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "처갓집양념치킨 멤버십앱 출시! 다운로드하시고, 지금 바로 다양한 할인 혜택을 누리세요!",
+        "description": "처갓집양념치킨 멤버십앱 출시! 다운로드하시고, 지금 바로 다양한 할인 혜택을 누리세요!",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDRfMjc5/MDAxNzU2OTczMzQxNjgy.vAviN1ppYbGDT4bDIjQW8bKz6-BFGmoqXIB0v3X_afgg.muz20b81UMKOLT7gESnqIStiki5EDYIRKoFXd8lqVCMg.JPEG/20250904_153901.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20200120_298/1579504110347tJgty_JPEG/C_lo6OmP2LbyOHVZh-W2FOtu.jpg",
+          "https://ldb-phinf.pstatic.net/20250320_127/1742430588209wxFk3_JPEG/%B2%BF%B2%BF%B9%F0_%C6%F7%BD%BA%C5%CD.jpg",
+          "https://ldb-phinf.pstatic.net/20230517_20/1684279022232yzdj0_JPEG/InkedKakaoTalk_20230510_123930222.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220464",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.48",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "36980892",
+            "bodySummary": "한창 다이어트 중이라 더 먹고 싶더라고요 ㅠㅠㅋㅋ울산 성남동 처갓집 위치 : 울산 중구 중앙길 118 1층 영업시간 : 매일 17:00 - 03:00 매달 2번째 일요일 정기 휴무",
+            "url": "https://m.blog.naver.com/bellejin1028/222984589724",
+            "nick": "라비여행",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMTNfNjQg/MDAxNzAyNDQ0MTA3ODQx.V2GxMbUX7uceUmqnQXbLu8g-FhP1bQCRERkkwRx8FGUg.x410i3W_1xqlrxI4zK7EpKfBYqliqKvNYgcAG3zrmt8g.JPEG.bellejin1028/profileImage.jpg"
+          },
+          {
+            "sid": "36980892",
+            "bodySummary": "저는 할인을 받아 최종 15,000원에 주문했어요 잊고 있었던 슈프림양념치킨 냄새가 맛있게 박스 틈새로 나더라고요 사장님이 자필로 편지도 적어주셨어요! 이웃님들도 모두 봄처럼 좋은",
+            "url": "https://m.blog.naver.com/becauseican9/222706694913",
+            "nick": "Because I can",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA2MTlfMTYy/MDAxNjU1NTY2MTE5NDI0.ckhlUR4T78aqtxGh-ojoM0_43Vg0nlPKtncup-yaTEIg.b3IzgY4Y8lckAD4BxQXfnSoDf5mZcBjkJCfsUTBgGVcg.PNG.becauseican9/profileImage.png"
+          },
+          {
+            "sid": "36980892",
+            "bodySummary": "오늘은 처갓집 순살 슈프림 양념치킨을 시켜 먹어보았습니다!! 주문 메뉴 순살 슈프림 양념치킨 포장은 들기 편하게 되어서 오네요~ 콜라도 함께 왔습니다!! 포장을 열면 은박지에 치킨",
+            "url": "https://m.blog.naver.com/tamk987654/222681247198",
+            "nick": "모아랜드",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMjJfMSAg/MDAxNzA1ODk0NjU4MTIx.mehPcv9rtZZgDKaB7i55caHXP4htni4PxFc9D03qzrgg.nm8d5IJdtEx_5HR7Hg8dObLwKURUrmtwxpegZaJ8DmYg.PNG.tamk987654/profileImage.png"
+          },
+          {
+            "sid": "36980892",
+            "bodySummary": "각 치킨집 마다 대표하는 치킨이 있는데요 저희는 처갓집치킨에서 슈프림 양념치킨이 제일 맛있다는 이야기를 듣고 시켜보았어요. 포장지를 열어보니 사장님에 센스가..그냥 종이 한장에 글",
+            "url": "https://m.blog.naver.com/wkdgmlwo01/220670212246",
+            "nick": "개미",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20160205_24/wkdgmlwo01_14545984062614eHJG_PNG/untitled.png"
+          }
+        ]
+      },
+      {
+        "rank": 28,
+        "id": "1122027799",
+        "name": "푸라닭 성남수진점",
+        "x": "127.1286787",
+        "y": "37.4367136",
+        "distance": 0.068,
+        "categoryName": "치킨,닭강정",
+        "categoryPath": [
+          [
+            "220036",
+            "220049",
+            "230065"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "치킨,닭강정"
+        ],
+        "reviewCount": 222,
+        "averagePrice": 19000,
+        "address": "경기도 성남시 수정구 수진동 3991",
+        "roadAddress": "경기도 성남시 수정구 성남대로1194번길 3",
+        "abbrAddress": "수진동 3991",
+        "shortAddress": [
+          "경기 성남시 수정구",
+          "성남대로1194번길 3"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "경기도 성남시 수정구 수진동 3991",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDFfMjMg/MDAxNzU0MDUxMjg4NTY5.Lre2NqQVV57pQEprTmXmUSmknRJooa0INR8wuRm75Cgg.hWBRpEUFPD0Fp0YhKPsTdFkkXCJ--0PwWh9l9xbXLBUg.JPEG/32B1FDD4-A107-401D-A322-844F6702A8DB.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjRfNzQg/MDAxNzU2MDM5ODkyODQy.eodcVuB4Ih4nCRdsRI1-nKMN-YmQu7FBfzkovNS-XEUg.CsMLK6FEUibvAzWrU8hIYhoVB7zVZafqRtlHpKpgklIg.JPEG/20250824_212917.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250115_109/17369202825132WIYs_JPEG/%BB%E7%BA%BB_-250106_%B3%D7%C0%CC%B9%F6%BD%BA%B8%B6%C6%AE%C7%C3%B7%B9%C0%CC%BD%BA_1.jpg",
+          "https://ldb-phinf.pstatic.net/20250115_239/17369202799394pIz7_JPEG/%BB%E7%BA%BB_-250106_%B3%D7%C0%CC%B9%F6%BD%BA%B8%B6%C6%AE%C7%C3%B7%B9%C0%CC%BD%BA_2.jpg",
+          "https://ldb-phinf.pstatic.net/20250305_193/1741143002680KmUkh_JPEG/%BB%E7%BA%BB_-250131_%C4%A1%C1%EE%C0%CE%C0%CC%C0%AF-%B8%F0%B5%D2%C4%C6_1080-640.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "230065",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1122027799",
+            "bodySummary": "아침에 성당갔다가 집와서 낮잠 푹자고, 치킨 시켜먹었어요. 백만년만의 푸라닭. 제 최애치킨중 하나인 콘소메이징. 담백한 치킨에 자극적인 시즈닝가루! 오늘 성남수진점 푸라닭에서 주문",
+            "url": "https://m.blog.naver.com/mkyoung311/223144880246",
+            "nick": "밍고",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTA1MjFfMTc1/MDAxNTU4NDM5NTkyNTgy.ooKgf6VWV6u8_dRSpyrNEIcXnShSOj6aXiRdK2v_um4g.VPLxA8PICD_F0nF4sqectyWbiLShiC_kQlTgZAlFFJEg.JPEG.mkyoung311/profileImage.jpg"
+          },
+          {
+            "sid": "1122027799",
+            "bodySummary": "오늘은 점심부터 치킨!! 월요일 밤에 자기 전에 TV에서 푸라닭 텐더 치킨 마요 광고를 봤음!! 어머. 처음 보는 건데? 싶었는데 나중에 알고보니 첫 광고였음. <이미지 출처 > ",
+            "url": "https://m.blog.naver.com/hoya_memo/222832668523",
+            "nick": "좋은밤 호야",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAyMTZfMjM4/MDAxNzA4MDQ0MDY2ODcw.Sdq7jYkjqM_6QfdRMKZkeBVEDYs3VjMfobalDDgFBi4g.Qf5vw0pZZ_1lfdfh9KgmHrVIl1VFHuEWEzRskMiUr5gg.JPEG.hoya_memo/%25EC%25A2%258B%25EC%259D%2580%25EB%25B0%25A4%25ED%2598%25B8%25EC%2595%25BC_%25ED%2594%2584%25EB%25A1%259C%25ED%2595%2584%25EC%2582%25AC%25EC%25A7%2584_%25EB%258B%25AC.jpg/%25EC%25A2%258B%25EC%259D%2580%25EB%25B0%25A4%25ED%2598%25B8%25EC%2595%25BC_%25ED%2594%2584%25EB%25A1%259C%25ED%2595%2584%25EC%2582%25AC%25EC%25A7%2584_%25EB%258B%25AC.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 29,
+        "id": "1643711125",
+        "name": "커피니 성남성모윌병원점",
+        "x": "127.1282926",
+        "y": "37.4344531",
+        "distance": 0.229,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221320"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 92,
+        "averagePrice": 5000,
+        "address": "경기도 성남시 수정구 수진동 4624 1층",
+        "roadAddress": "경기도 성남시 수정구 성남대로 1171",
+        "abbrAddress": "수진동 4624 1층",
+        "shortAddress": [
+          "경기 성남시 수정구",
+          "성남대로 1171"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "경기도 성남시 수정구 수진동 4624 1층",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20251001_257/1759279112354E439z_JPEG/KakaoTalk_20250623_161937748.jpg",
+          "https://ldb-phinf.pstatic.net/20251118_1/1763440889730CKBzh_PNG/%B0%DC%BF%EF%BD%C3%C1%F0.png",
+          "https://ldb-phinf.pstatic.net/20251001_170/1759279112434HaaDE_PNG/KakaoTalk_20250930_160220933.png"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221320",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 30,
+        "id": "36230275",
+        "name": "또봉이통닭 성남수진점",
+        "x": "127.1287019",
+        "y": "37.4367508",
+        "distance": 0.069,
+        "categoryName": "치킨,닭강정",
+        "categoryPath": [
+          [
+            "220036",
+            "220049",
+            "220331"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "치킨,닭강정"
+        ],
+        "reviewCount": 153,
+        "averagePrice": 10000,
+        "address": "경기도 성남시 수정구 수진동 3991",
+        "roadAddress": "경기도 성남시 수정구 성남대로1194번길 3",
+        "abbrAddress": "수진동 3991",
+        "shortAddress": [
+          "경기 성남시 수정구",
+          "성남대로1194번길 3"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "안녕하세요~ 착한치킨으로 유명한 또봉이통닭 성남수진점 입니다.  옛날통닭의 선두주자! 맛있기로 소문난 저희 또봉이통닭에 찾아주시는 모든 고객님 정말! 감사드립니다 (__)  대기손님이 없 ",
+        "description": "안녕하세요~ 착한치킨으로 유명한 또봉이통닭 성남수진점 입니다.  옛날통닭의 선두주자! 맛있기로 소문난 저희 또봉이통닭에 찾아주시는 모든 고객님 정말! 감사드립니다 (__)  대기손님이 없 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMTVfMTk4/MDAxNzYzMTk5OTQyODMx.meMpwEAn_5r70ibOgxHgg14Ua7oiGLl-H3EU_Jsvsq0g.2jSrsENsfz6jKMnlzGSaLElyD14uvo2CtRky_10Nn-4g.JPEG/20251115_184256.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMDlfMTA5/MDAxNzYyNjUxNjg3OTQ4.ANuiahdis89tP9bD166R0Rd3mAq2xIFRmWDcwywuBQIg.8C9Cx0NwFzVPCEG1pJmWRtPZd7f0jK3Y-_H_v0XQKHUg.JPEG/Screenshot_20251109_101557_Samsung_Internet.jpg",
+          "https://ldb-phinf.pstatic.net/20250113_142/1736756205928KHfe1_JPEG/%B6%C7%BA%C0%C0%CC%C5%EB%B4%DF_%C4%A1%C5%B2%B8%C0%C1%FD%28%C5%B8%C0%D41%29_1_%BA%B9%BB%E7.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjNfMjk3/MDAxNzU4NTg0ODA2NzMx.afrpgSlg3peQafXUwWGZfGflCpUIPMfu6VbN2cMlAhwg.Q8qebzqkRqX8oo_c8dTTWNxK-S9no2te6cu6nu9gdqQg.JPEG/20250923_084605.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250113_111/1736756200584k3N2J_JPEG/%B6%C7%BA%C0%C0%CC%C5%EB%B4%DF_%C4%A1%C5%B2%B8%C0%C1%FD%28%C5%B8%C0%D41%29_13.jpg",
+          "https://ldb-phinf.pstatic.net/20250113_143/1736756206247ylhMK_JPEG/%B6%C7%BA%C0%C0%CC%C5%EB%B4%DF_%C4%A1%C5%B2%B8%C0%C1%FD%28%C5%B8%C0%D41%29_4.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220331",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "36230275",
+            "bodySummary": "야식은 치킨이 아니겠습니까...? (내돈내산) 또봉이치킨 성남수진점 영업시간 매일 15:00~1:00 출처 : 쿠팡이츠 또봉이 통닭은 통닭도 맛있지만 떡볶이 맛집으로 유명하다고 해",
+            "url": "https://m.blog.naver.com/qorhvkrhvkdy/222685981673",
+            "nick": "뚜뚜",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA3MDVfOCAg/MDAxNjU2OTg3MTU5MjYy.NY-R4C40zZh83dq14K2-Jnn4Q6ws1jzzHbJSRxPuiUQg.dmHw2yRUDfH5DZ-C25KVcXG03g5-KLESfvQ1ldDvxogg.JPEG.qorhvkrhvkdy/profileImage.jpg"
+          },
+          {
+            "sid": "36230275",
+            "bodySummary": "#또봉이통닭 #고추마요순살치킨 #닭똥집튀김 #모란또봉이 안녕하세요. 환희님입니다. 오늘은 모란 고개에 위치한 또봉이통닭을 포스팅해보려해요. 또봉이 통닭은 저도 한번도 먹어본적이 없",
+            "url": "https://m.blog.naver.com/firstweek12/222521538200",
+            "nick": "환희",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA1MDJfMTk2/MDAxNjE5OTI3NjQ5MTI3.iYUldseUk7cPDar_cPanbximPORiP5v-VleXFCUkF4sg.jIQeRJG3U1rOiL6Pqtt1V5JW2WOQvJyewudqgiukaLYg.JPEG.firstweek12/profileImage.jpg"
+          },
+          {
+            "sid": "36230275",
+            "bodySummary": "저렴한 가격에 맛있는 통닭을 즐길 수 잇다고 하는데요. 특히나 저는 똥집튀김을 추천해드리고 싶어요!! 닭통집튀김을 한번 먹어보신 분들은 그 맛을 잊을 수 없다고 하는데요 ㅎㅎㅎ 저",
+            "url": "https://m.blog.naver.com/bhwu0117/220520274769",
+            "nick": "요나",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20160418_30/bhwu0117_1460965946746y9rzA_JPEG/_%252B.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 31,
+        "id": "1204245509",
+        "name": "타코in카페",
+        "x": "127.1304874",
+        "y": "37.4368159",
+        "distance": 0.118,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 59,
+        "averagePrice": 0,
+        "address": "경기도 성남시 수정구 수진동 4262 1층",
+        "roadAddress": "경기도 성남시 수정구 성남대로1194번길 18-1",
+        "abbrAddress": "수진동 4262 1층",
+        "shortAddress": [
+          "경기 성남시 수정구",
+          "성남대로1194번길 18-1"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "경기도 성남시 수정구 수진동 4262 1층",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 32,
+        "id": "1795487296",
+        "name": "밀사랑손칼국수",
+        "x": "127.1291767",
+        "y": "37.4365779",
+        "distance": 0.028,
+        "categoryName": "칼국수,만두",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220073",
+            "220712"
+          ]
+        ],
+        "category": [
+          "한식",
+          "칼국수,만두"
+        ],
+        "reviewCount": 30,
+        "averagePrice": 0,
+        "address": "경기도 성남시 수정구 수진동 3968",
+        "roadAddress": "경기도 성남시 수정구 성남대로1194번길 5",
+        "abbrAddress": "수진동 3968",
+        "shortAddress": [
+          "경기 성남시 수정구",
+          "성남대로1194번길 5"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경기도 성남시 수정구 수진동 3968",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220712",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 33,
+        "id": "1558389157",
+        "name": "경성반점",
+        "x": "127.1291116",
+        "y": "37.4363896",
+        "distance": 0.016,
+        "categoryName": "중식당",
+        "categoryPath": [
+          [
+            "220036",
+            "220039",
+            "220091",
+            "220861"
+          ]
+        ],
+        "category": [
+          "중식",
+          "중식당"
+        ],
+        "reviewCount": 331,
+        "averagePrice": 0,
+        "address": "경기도 성남시 수정구 수진동 4018 1층(수진동)",
+        "roadAddress": "경기도 성남시 수정구 산성대로93번길 28",
+        "abbrAddress": "수진동 4018 1층(수진동)",
+        "shortAddress": [
+          "경기 성남시 수정구",
+          "산성대로93번길 28"
+        ],
+        "displayContext": [],
+        "labelTheme": "중식",
+        "microReviews": [],
+        "cardDescription": "경기도 성남시 수정구 수진동 4018 1층(수진동)",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220861",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.34",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 34,
+        "id": "1016759369",
+        "name": "모란푸드",
+        "x": "127.1290459",
+        "y": "37.4355557",
+        "distance": 0.091,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 108,
+        "averagePrice": 0,
+        "address": "경기도 성남시 수정구 수진동 4004",
+        "roadAddress": "경기도 성남시 수정구 성남대로 1182",
+        "abbrAddress": "수진동 4004",
+        "shortAddress": [
+          "경기 성남시 수정구",
+          "성남대로 1182"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경기도 성남시 수정구 수진동 4004",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 35,
+        "id": "1897731047",
+        "name": "욕쟁이할매순대국",
+        "x": "127.1298689",
+        "y": "37.4353758",
+        "distance": 0.12,
+        "categoryName": "순대,순댓국",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220768",
+            "221546"
+          ]
+        ],
+        "category": [
+          "한식",
+          "순대,순댓국"
+        ],
+        "reviewCount": 80,
+        "averagePrice": 0,
+        "address": "경기도 성남시 수정구 수진동 4105",
+        "roadAddress": "경기도 성남시 수정구 성남대로1180번길 9-1",
+        "abbrAddress": "수진동 4105",
+        "shortAddress": [
+          "경기 성남시 수정구",
+          "성남대로1180번길 9-1"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경기도 성남시 수정구 수진동 4105",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221546",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 36,
+        "id": "1681975692",
+        "name": "고기이불볶음밥도시락",
+        "x": "127.1288721",
+        "y": "37.436222",
+        "distance": 0.04,
+        "categoryName": "도시락,컵밥",
+        "categoryPath": [
+          [
+            "220036",
+            "220047",
+            "220169"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "도시락,컵밥"
+        ],
+        "reviewCount": 8,
+        "averagePrice": 0,
+        "address": "경기도 성남시 수정구 수진동 4002",
+        "roadAddress": "경기도 성남시 수정구 산성대로93번길 25",
+        "abbrAddress": "수진동 4002",
+        "shortAddress": [
+          "경기 성남시 수정구",
+          "산성대로93번길 25"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "경기도 성남시 수정구 수진동 4002",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220169",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 37,
+        "id": "1964029869",
+        "name": "밥을볶다",
+        "x": "127.1288998",
+        "y": "37.4377774",
+        "distance": 0.163,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 7,
+        "averagePrice": 0,
+        "address": "경기도 성남시 수정구 수진동 3953 (수진동,1층)",
+        "roadAddress": "경기도 성남시 수정구 성남대로1210번길 6",
+        "abbrAddress": "수진동 3953 (수진동,1층)",
+        "shortAddress": [
+          "경기 성남시 수정구",
+          "성남대로1210번길 6"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경기도 성남시 수정구 수진동 3953 (수진동,1층)",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 38,
+        "id": "2033501131",
+        "name": "어바웃모란",
+        "x": "127.1297908",
+        "y": "37.4353235",
+        "distance": 0.122,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 3,
+        "averagePrice": 5000,
+        "address": "경기도 성남시 수정구 수진동 4104 1층",
+        "roadAddress": "경기도 성남시 수정구 성남대로1180번길 9",
+        "abbrAddress": "수진동 4104 1층",
+        "shortAddress": [
+          "경기 성남시 수정구",
+          "성남대로1180번길 9"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "안녕하세요 고객님 ! 어바웃모란 입니다 ! 고객님들과의 좋은 추억과 기억을 만들어 나가는 가게가 되겠습니다 ! 오늘도 찾아주셔서 감사드려요 행복한 일만 가득한 하루되세요 : )",
+        "description": "안녕하세요 고객님 ! 어바웃모란 입니다 ! 고객님들과의 좋은 추억과 기억을 만들어 나가는 가게가 되겠습니다 ! 오늘도 찾아주셔서 감사드려요 행복한 일만 가득한 하루되세요 : )",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20250903_14/1756834662927NUiTa_JPEG/KakaoTalk_20250903_023731554_01.jpg",
+          "https://ldb-phinf.pstatic.net/20250903_237/1756834665496zcJxd_PNG/KakaoTalk_20250903_023731554.png",
+          "https://ldb-phinf.pstatic.net/20250903_249/1756834669939hq1VG_PNG/KakaoTalk_20250903_012621689.png"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 39,
+        "id": "1774934397",
+        "name": "녹차먹은삼겹",
+        "x": "127.1289457",
+        "y": "37.4377872",
+        "distance": 0.163,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 3,
+        "averagePrice": 20000,
+        "address": "경기도 성남시 수정구 수진동 3953 1층",
+        "roadAddress": "경기도 성남시 수정구 성남대로1210번길 6",
+        "abbrAddress": "수진동 3953 1층",
+        "shortAddress": [
+          "경기 성남시 수정구",
+          "성남대로1210번길 6"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "전남 보성에서 녹차를 먹고 자란 튼튼한 보성녹돈을 사용합니다.",
+        "description": "전남 보성에서 녹차를 먹고 자란 튼튼한 보성녹돈을 사용합니다.",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20240416_175/1713265896180rHgOr_JPEG/%B0%A1%B0%D4%BB%E7%C1%F8.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 40,
+        "id": "2004957377",
+        "name": "어사랑돈사랑",
+        "x": "127.1291335",
+        "y": "37.4365893",
+        "distance": 0.03,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 5000,
+        "address": "경기도 성남시 수정구 수진동 3968 1층",
+        "roadAddress": "경기도 성남시 수정구 성남대로1194번길 5",
+        "abbrAddress": "수진동 3968 1층",
+        "shortAddress": [
+          "경기 성남시 수정구",
+          "성남대로1194번길 5"
+        ],
+        "displayContext": [],
+        "labelTheme": "최근 오픈한",
+        "microReviews": [],
+        "cardDescription": "어사랑 돈사랑은 신선한 고등어와 돼지고기로 맛을 낸 정통 한식 맛집입니다. 김치찜, 제육, 갈비찜까지 준비되어 있으니 든든한 식사부터 푸짐한 안주까지, 정성 가득한 한 상을 즐겨보세요!",
+        "description": "어사랑 돈사랑은 신선한 고등어와 돼지고기로 맛을 낸 정통 한식 맛집입니다. 김치찜, 제육, 갈비찜까지 준비되어 있으니 든든한 식사부터 푸짐한 안주까지, 정성 가득한 한 상을 즐겨보세요!",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20251018_96/1760793748621iXsUw_PNG/Weixin_Image_20251018214008.png",
+          "https://ldb-phinf.pstatic.net/20251018_274/1760793742339mBvWF_PNG/Weixin_Image_20251018214021.png"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 41,
+        "id": "2098288881",
+        "name": "오육 수진점",
+        "x": "127.1310501",
+        "y": "37.438375",
+        "distance": 0.274,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 15000,
+        "address": "경기도 성남시 수정구 수진동 3598 1층 101호",
+        "roadAddress": "경기도 성남시 수정구 수정남로22번길 15",
+        "abbrAddress": "수진동 3598 1층 101호",
+        "shortAddress": [
+          "경기 성남시 수정구",
+          "수정남로22번길 15"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경기도 성남시 수정구 수진동 3598 1층 101호",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20250925_166/1758769924207f5pFS_JPEG/1758769898299.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 42,
+        "id": "1369906498",
+        "name": "고속도로졸음쉼터 푸드트럭허가구역",
+        "x": "127.128614",
+        "y": "37.4369522",
+        "distance": 0.09,
+        "categoryName": "푸드트럭",
+        "categoryPath": [
+          [
+            "220036",
+            "230746"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "푸드트럭"
+        ],
+        "reviewCount": 4,
+        "averagePrice": 0,
+        "address": "경기도 성남시 수정구 수진동 3995",
+        "roadAddress": "경기도 성남시 수정구 성남대로 1200",
+        "abbrAddress": "수진동 3995",
+        "shortAddress": [
+          "경기 성남시 수정구",
+          "성남대로 1200"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "경기도 성남시 수정구 수진동 3995",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "230746",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 43,
+        "id": "1149871369",
+        "name": "빈보틀&토스트",
+        "x": "127.1273723",
+        "y": "37.4350554",
+        "distance": 0.222,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 2,
+        "averagePrice": 0,
+        "address": "경기도 성남시 수정구 수진동 1층 일부호(수진동)",
+        "roadAddress": "경기도 성남시 수정구 모란로 19-3",
+        "abbrAddress": "수진동 1층 일부호(수진동)",
+        "shortAddress": [
+          "경기 성남시 수정구",
+          "모란로 19-3"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "경기도 성남시 수정구 수진동 1층 일부호(수진동)",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "3.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 44,
+        "id": "1730112208",
+        "name": "복타로카페",
+        "x": "127.1302253",
+        "y": "37.4384445",
+        "distance": 0.248,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 0,
+        "address": "경기도 성남시 수정구 수진동 3143",
+        "roadAddress": "경기도 성남시 수정구 수정남로16번길 12-2",
+        "abbrAddress": "수진동 3143",
+        "shortAddress": [
+          "경기 성남시 수정구",
+          "수정남로16번길 12-2"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "경기도 성남시 수정구 수진동 3143",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20240529_203/1716948046578RGrUN_JPEG/image.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 45,
+        "id": "1222785397",
+        "name": "의남식당",
+        "x": "127.1292213",
+        "y": "37.4344804",
+        "distance": 0.208,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 47,
+        "averagePrice": 0,
+        "address": "경기도 성남시 수정구 수진동 4528",
+        "roadAddress": "경기도 성남시 수정구 성남대로 1170",
+        "abbrAddress": "수진동 4528",
+        "shortAddress": [
+          "경기 성남시 수정구",
+          "성남대로 1170"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경기도 성남시 수정구 수진동 4528",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 46,
+        "id": "1382647438",
+        "name": "전반전",
+        "x": "127.1295254",
+        "y": "37.4364621",
+        "distance": 0.024,
+        "categoryName": "전,빈대떡",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220074",
+            "220731"
+          ]
+        ],
+        "category": [
+          "한식",
+          "전,빈대떡"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 0,
+        "address": "경기도 성남시 수정구 수진동 4084",
+        "roadAddress": "경기도 성남시 수정구 성남대로1194번길 10-2",
+        "abbrAddress": "수진동 4084",
+        "shortAddress": [
+          "경기 성남시 수정구",
+          "성남대로1194번길 10-2"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경기도 성남시 수정구 수진동 4084",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220731",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 47,
+        "id": "1232100184",
+        "name": "강씨황씨 카레",
+        "x": "127.1288998",
+        "y": "37.4377774",
+        "distance": 0.163,
+        "categoryName": "일식",
+        "categoryPath": [
+          [
+            "220036",
+            "220038",
+            "220081",
+            "220804"
+          ]
+        ],
+        "category": [
+          "일식",
+          "일식당"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 0,
+        "address": "경기도 성남시 수정구 수진동 3953 (수진동,1층)",
+        "roadAddress": "경기도 성남시 수정구 성남대로1210번길 6",
+        "abbrAddress": "수진동 3953 (수진동,1층)",
+        "shortAddress": [
+          "경기 성남시 수정구",
+          "성남대로1210번길 6"
+        ],
+        "displayContext": [],
+        "labelTheme": "일식",
+        "microReviews": [],
+        "cardDescription": "경기도 성남시 수정구 수진동 3953 (수진동,1층)",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220804",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 48,
+        "id": "21547342",
+        "name": "이가네 정육식당",
+        "x": "127.1273111",
+        "y": "37.4375889",
+        "distance": 0.223,
+        "categoryName": "정육식당",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "1002056",
+            "1002055"
+          ]
+        ],
+        "category": [
+          "육류,고기요리",
+          "정육식당"
+        ],
+        "reviewCount": 60,
+        "averagePrice": 30000,
+        "address": "경기도 성남시 수정구 수진동 4604 1층 이가네",
+        "roadAddress": "경기도 성남시 수정구 수정로56번길 21",
+        "abbrAddress": "수진동 4604 1층 이가네",
+        "shortAddress": [
+          "경기 성남시 수정구",
+          "수정로56번길 21"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [
+          "된장찌개와 삼겹살의 환상 조합"
+        ],
+        "cardDescription": "된장찌개와 삼겹살의 환상 조합",
+        "description": "안녕하세요. 성남 태평역 근처에서 18년째 운영중인 제주 삼겹살 맛집 이가네 정육식당입니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjFfMjIx/MDAxNzUwNDg1MDg1MjYz.Rv_Nj8OpXdyxGMnGeCz6wNA7GwTfaq6AZn8TL0txhWMg.TvIdxUzLG0YF2cH_eVOgGqqQqLcxBW-hGLoa8lZRnFog.JPEG/1000035231.jpg",
+          "https://ldb-phinf.pstatic.net/20250422_105/1745308474640M6hoC_JPEG/1000008893.jpg",
+          "https://ldb-phinf.pstatic.net/20180219_240/1519000159492o11VN_JPEG/eSlE9tONU3hsfKty4Je0bvmu.jpg",
+          "https://ldb-phinf.pstatic.net/20230831_180/169345671804087blh_JPEG/20221028_192015.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1002055",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.72",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "21547342",
+            "bodySummary": "냥냠이입니다~! 오늘은 저희 가족이 외식할 때마다 방문하는 태평역 숨은 동네 맛집 이가네정육식당을 소해드릴께요! 20년 정도 꾸준히 방문한 곳인데 정말로 식당이 있을 것 같지 않은",
+            "url": "https://m.blog.naver.com/sgjung1127/223164472609",
+            "nick": "냥냠이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA2MDRfMjQg/MDAxNjg1ODc0MDQwMzE5.UTnouv0BnojvjESlTBv8LZYifysWXBAxhPU4IB7WYMIg.zg8Ed2f9xmEoyFNgtVqza4bYMCSwQFXPrpb-4iaId48g.PNG.sgjung1127/profileImage.png"
+          },
+          {
+            "sid": "21547342",
+            "bodySummary": "이가네 정육식당 태평역에서 좀 더 골목 사이를 걸어서 온 #이가네정육식당 가게 앞에 주차를 할 수 있는 공간이 있긴 하지만 몇 곳 없어서 근처 유료 주차장을 이용해야한다. 메뉴판 ",
+            "url": "https://m.blog.naver.com/under_0/222889445746",
+            "nick": "먹나영",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEwMzBfMTQz/MDAxNjk4NjM2NDE0NTUy.I_ouz8F-Hspg_l7ZNJlDftS2Rrpa9Sf72HJurwAxAoAg.J0NtCKcVPNiTbLVwWyh34NtZXKnaVKm2OCeWnIpn9XUg.PNG.under_0/profileImage.png"
+          },
+          {
+            "sid": "21547342",
+            "bodySummary": "하이하잇~~~ 저번 주 금욜은 지사장님 배 족구대회가 열렸던 날 ^ _^ㅋ 혬씌도 응원을 갔다가 ~~~~ 처음 방문해보게 된 #이가네정육식당 여기 울회사 옮기기 전 점심,회식 단골",
+            "url": "https://m.blog.naver.com/bbuddac/222780604623",
+            "nick": "뿌딱",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDExMDdfOTAg/MDAxNjA0NzQ5ODYwNDQ0.gMb4Zsz976bV5f_-9T8QmjnWYxwG7TSMcnAD-ee6qjcg.jWcI5L1OJ0rc5zb1-XHCryXah2OCxROP9goY0LRkqh8g.PNG.bbuddac/KakaoTalk_20201107_184012992.png"
+          }
+        ]
+      },
+      {
+        "rank": 49,
+        "id": "1596795797",
+        "name": "돼지야 미안해",
+        "x": "127.1310501",
+        "y": "37.438375",
+        "distance": 0.274,
+        "categoryName": "야식",
+        "categoryPath": [
+          [
+            "220036",
+            "220050"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "야식"
+        ],
+        "reviewCount": 6,
+        "averagePrice": 40000,
+        "address": "경기도 성남시 수정구 수진동 3598 1층",
+        "roadAddress": "경기도 성남시 수정구 수정남로22번길 15",
+        "abbrAddress": "수진동 3598 1층",
+        "shortAddress": [
+          "경기 성남시 수정구",
+          "수정남로22번길 15"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "사실 안 미안해 [곱창] 혜자 set 20'000원 니 목살 쩔더라 [[ 제육 볶음 ]] 혜자 set 21'000원",
+        "description": "사실 안 미안해 [곱창] 혜자 set 20'000원 니 목살 쩔더라 [[ 제육 볶음 ]] 혜자 set 21'000원",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20240509_281/1715194694158u4G51_JPEG/KakaoTalk_20240509_035722043_01.jpg",
+          "https://naverbooking-phinf.pstatic.net/20240215_163/1707923739695ml3Nu_JPEG/1211.JPG",
+          "https://naverbooking-phinf.pstatic.net/20240215_14/1707923740105mpKwX_JPEG/1211111.JPG"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220050",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 50,
+        "id": "1048574628",
+        "name": "쿵포팬더",
+        "x": "127.1288998",
+        "y": "37.4377774",
+        "distance": 0.163,
+        "categoryName": "아시아음식",
+        "categoryPath": [
+          [
+            "220036",
+            "220040",
+            "220094"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "아시아음식"
+        ],
+        "reviewCount": 3,
+        "averagePrice": 0,
+        "address": "경기도 성남시 수정구 수진동 3953 (수진동,1층)",
+        "roadAddress": "경기도 성남시 수정구 성남대로1210번길 6",
+        "abbrAddress": "수진동 3953 (수진동,1층)",
+        "shortAddress": [
+          "경기 성남시 수정구",
+          "성남대로1210번길 6"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "경기도 성남시 수정구 수진동 3953 (수진동,1층)",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220094",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "1.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 2,
+      "count": 2,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.72119842696598,
+          "minY": 34.9917,
+          "maxX": 126.72669685393198,
+          "maxY": 34.996204504504504
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.72394764044898;34.99395225225226",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1668524002",
+        "name": "중국관",
+        "x": "126.7217062",
+        "y": "34.9928508",
+        "distance": 0.238,
+        "categoryName": "중식당",
+        "categoryPath": [
+          [
+            "220036",
+            "220039",
+            "220091",
+            "220861"
+          ]
+        ],
+        "category": [
+          "중식",
+          "중식당"
+        ],
+        "reviewCount": 31,
+        "averagePrice": 0,
+        "address": "전라남도 나주시 용산동 344",
+        "roadAddress": "전라남도 나주시 영나로 2421",
+        "abbrAddress": "용산동 344",
+        "shortAddress": [
+          "전남 나주시",
+          "영나로 2421"
+        ],
+        "displayContext": [],
+        "labelTheme": "중식",
+        "microReviews": [],
+        "cardDescription": "전라남도 나주시 용산동 344",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20171130_211/1512007810383lQwsK_JPEG/RYYz1KY0H5yf0cCVFzgkq4dV.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220861",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "17155685",
+        "name": "미락식당",
+        "x": "126.7217874",
+        "y": "34.9928762",
+        "distance": 0.231,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 0,
+        "address": "전라남도 나주시 용산동 344 주공아파트",
+        "roadAddress": "전라남도 나주시 영나로 2421",
+        "abbrAddress": "용산동 344 주공아파트",
+        "shortAddress": [
+          "전남 나주시",
+          "영나로 2421"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "전라남도 나주시 용산동 344 주공아파트",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20171204_255/1512370943057Buwdo_JPEG/m_Yq1H0MlsxlcgmG_Z8lhZkZ.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

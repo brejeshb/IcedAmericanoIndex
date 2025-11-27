@@ -1,0 +1,645 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 8,
+      "count": 8,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 127.1434731419443,
+          "minY": 37.429590990990995,
+          "maxX": 127.1491462838886,
+          "maxY": 37.4340954954955
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "127.14630971291645;37.43184324324325",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1086961788",
+        "name": "뚠뚜니",
+        "x": "127.148539",
+        "y": "37.4299154",
+        "distance": 0.291,
+        "categoryName": "김밥",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220186"
+          ]
+        ],
+        "category": [
+          "분식",
+          "김밥"
+        ],
+        "reviewCount": 124,
+        "averagePrice": 5000,
+        "address": "경기도 성남시 중원구 하대원동 131-30 상대원동",
+        "roadAddress": "경기도 성남시 중원구 둔촌대로275번길 6-1",
+        "abbrAddress": "하대원동 131-30 상대원동",
+        "shortAddress": [
+          "경기 성남시 중원구",
+          "둔촌대로275번길 6-1"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [
+          "맛과 양 모두 만족시키는 김밥 전문점"
+        ],
+        "cardDescription": "맛과 양 모두 만족시키는 김밥 전문점",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDlfMzkg/MDAxNzU3Mzg3MTkzNjEz.PduWSt_kdAVA2COLsq44ijAaIz51GcxhPJE6pVM8MBAg.ENF1SKL9flITP4Ab1N0dLjDynkdGNTs3yd5IsjovRhwg.JPEG/6591A45F-3076-4DEF-9D54-C46AA2AAB6CF.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MThfMTMw/MDAxNzQ3NTI3MDU0MTY4.PjooK0kCJv9JTAmYK9xtK2IjsjAcydj_rEtlNSrHyzsg.NV9NkBI2jYyYjhs2_bU34jEJN-ifS3lSUp1BkIqUEuAg.JPEG/20250518_085423.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMzBfMjgg/MDAxNzYxNzkyNTQyMzM5.eal_9iyGBkD6tVjubDqC5_he2ASBO4hzhXwJwY9zKxog.meojJm-wrpIIXVd-zjhwqwxsfpBqIstKcpzZGaH09C0g.JPEG/1000089568.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTNfNjgg/MDAxNzUyMzk3MDQzOTQw.1xFXI-7CtUyEe9kupA58caGgkCewciSNb0vMlC3admEg.uO9jbLvuLxQhI64FJ3lp05bgOr3omvO3Jx247H-Ryikg.JPEG/20250713_174314.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjFfMjc2/MDAxNzUzMDU0NDMxMjI3.Pskuj4Bj7PPT8RXCbMzwuHJGbR5BoIAOE2Gyxn8inrUg.87Lqx0BIwPGcsVnhyDsxXMJtXpOOgUOhnjegdFs3Ragg.JPEG/FB43CED3-EBB7-44CD-BAD5-921AB2A0AEE5.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MThfMTE0/MDAxNzUwMjIxMjY5OTk0.dDtAW6NNOlbYiEkyyDuiHiwrulkP3cttxoOUEKaUNLog.7OENydJxCFZyvFu93ElLV0V6j9pTtNvYASMn66Vmxi4g.JPEG/516605FC-F6EB-4BC7-A278-FF641B920876.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjVfMTI4/MDAxNzQ4MTYwOTAxMTQ2.70T2UzBygyCq0Bqq1J_AvN12_LbKOIpUs5tVEoMr-Agg.K1wH4tGOItOl1MezjXT_z1nE_nBiD298LRf9sfhd4jMg.JPEG/E672D9EE-8208-4362-9CCE-C036D937BDAD.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjlfNTgg/MDAxNzU2NDUwODUzMjU1.v0yvbss6Vd30gszOy8ChQsO7n1QSggncQ8DzoVNUv7kg.xR6IIv4CB-L2Gwy6TcEU-II1awUhNPZqL3Mg0Lh8ZBMg.JPEG/168150B3-617D-4984-9745-FEA7E2FB55C5.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220186",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1086961788",
+            "bodySummary": "뚠뚜니 경기도 성남시 중원구 둔촌대로275번길 6-1 031-758-7677 영업시간 매일 08:00~20:00 묵은지김밥과 참치김밥 라볶이를 주문했습니당 테이블은 4개정도 있는데",
+            "url": "https://m.blog.naver.com/hjjo8470/223390657129",
+            "nick": "히찌",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMTRfMjg0/MDAxNzEwNDAxODMwMTc1.FNwT08-iHqDLSZnIvYSpDUwb-Go6IlBYTAys8fSVlvQg.-HJKwlel073A0SU8kvNA1OebOWyu-6oQ2zliE2ZB9lsg.PNG/profileImage.png"
+          },
+          {
+            "sid": "1086961788",
+            "bodySummary": "매장 간판이 동네 다른매장에 비해 깔끔하더라구요 #김밥맛집 #상대원맛집 #분식맛집 #수진역맛집 살짝 오르막이네용, 뚠뚜니네 김밥집 도착! 당근마켓에 존맛집이라고 동네사람들이 입소문",
+            "url": "https://m.blog.naver.com/ujin9132/222859195220",
+            "nick": "피아노치는여자",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAyMjZfMTY5/MDAxNjQ1ODU4NDgzODI0.3ISM8mKHJNgSxJqhKD3yjbMzF_Bjzz1u3CU78kaJK_kg.6_tPn-4UzPDqWaSb4yAE7X9kvSlyQ3WVwt98fVrOgngg.JPEG.ujin9132/0000033374_001_20170724124235584.jpg/0000033374_001_20170724124235584.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "id": "1741855098",
+        "name": "통통민물장어",
+        "x": "127.1491428",
+        "y": "37.4300602",
+        "distance": 0.319,
+        "categoryName": "장어,먹장어요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220076",
+            "220799",
+            "1006317"
+          ]
+        ],
+        "category": [
+          "한식",
+          "장어,먹장어요리"
+        ],
+        "reviewCount": 113,
+        "averagePrice": 20000,
+        "address": "경기도 성남시 중원구 하대원동 131-42 1층 통통민물장어",
+        "roadAddress": "경기도 성남시 중원구 둔촌대로281번길 5",
+        "abbrAddress": "하대원동 131-42 1층 통통민물장어",
+        "shortAddress": [
+          "경기 성남시 중원구",
+          "둔촌대로281번길 5"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [],
+        "cardDescription": ">점심장어탕!!!※  4500원(밥포함)에 제공해드립니다!!!  >11시 30분 ~ 2시까지만 제공합니다.  >2시 이후 9000원 입니다.  ※포장 배달도 가능합니다※ 장어포장은 초벌도 가능하고 생으로도 가능합니",
+        "description": ">점심장어탕!!!※  4500원(밥포함)에 제공해드립니다!!!  >11시 30분 ~ 2시까지만 제공합니다.  >2시 이후 9000원 입니다.  ※포장 배달도 가능합니다※ 장어포장은 초벌도 가능하고 생으로도 가능합니",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjBfMTQx/MDAxNzU4MzA2MDI3NDEx.7YpNx-Y7h5G-uc4yUrVbKxojK18IBSCA6dfUXd79xxMg.mpNq8RerUuwnqdtMfhfa7ZjQDuuTG6TXm0eAivrO308g.JPEG/84D6FEDA-C36C-4F51-80C8-5AA1DE607129.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjhfMTIw/MDAxNzUxMDc2OTMyMzI3.65KzkDTpOJFmEp9MBomj3N78vkEH_13W4sjnRrH3hdgg.tMvDdgK_U4Lji3XutUZD16r4VMTnz8RZrffSLyOInQUg.JPEG/20250627_193647.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20220616_259/1655377669316D04qo_JPEG/KakaoTalk_20220616_200706549_09.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1006317",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1741855098",
+            "bodySummary": "장어라고 하면 비싸다는 인식이 강하지만 정말 저렴하게! 배터지게 먹을 수 있는 갓성비 장어맛집... 맛도 진짜 역대급인 ㅠㅠ << 통통민물장어 >> 저번에 다녀와놓고 블로그에 올릴",
+            "url": "https://m.blog.naver.com/jk63828/223293407001",
+            "nick": "짹짹",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMTNfMjUz/MDAxNzA1MTU2NTAwNzcy.hEcAjIYFgBP_mfng2h9zYo-9ecgjVe2hmUEKM3PyUlEg.F0HFyRybUB-8--WOOTMpi8Ye64DHJeCHrMKMAYIOwlkg.JPEG.jk63828/profileImage.jpg"
+          },
+          {
+            "sid": "1741855098",
+            "bodySummary": "우연히 알게 된 성남 하대원동에 있는 통통 민물장어이다. 매번 포장해서 집에서 구워 먹거나 캠핑 갈 때 포장해서 가져가고 했는데 이번엔 직접 가서 먹기 위해 처음으로 방문했다. 성",
+            "url": "https://m.blog.naver.com/bean-jm/223235384098",
+            "nick": "콩순이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA3MDdfMTY4/MDAxNjg4NzM5MzAyNDky.g9KEzwdHPZBmaHEoY9wb0CeIEVSppW3t8ZSvtd2C7LIg.xgjoY6osAU9gCy9HhoarjZi862xJB6eZ1cvn8T3wtJcg.PNG.bean-jm/profileImage.png"
+          },
+          {
+            "sid": "1741855098",
+            "bodySummary": "성남 하대원 맛집 '통통민물장어' 위치 : 경기도 성남시 중원구 둔촌대로281번길 5 1층 통통민물장어 영업시간 : 매일 11:30 ~ 21:30 (20:30 라스트오더) 전화번호",
+            "url": "https://m.blog.naver.com/ju_uu_vely/223112170663",
+            "nick": "주콩",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMjZfOTEg/MDAxNzExNDAzOTU4ODY1.l-vJaz6tjTfyHinv05ai64aeSqOteb32ioGzaoTLuuQg.JaczJEzimLSwJUh9Jqaef7RUwhJyJcFNy-7X2bCGrWUg.JPEG/profileImage.jpg"
+          },
+          {
+            "sid": "1741855098",
+            "bodySummary": "굿! 꼼장어도 있고 점심에는 장어탕도 저렴하게 파는편이라 어르신들이 더 많은듯ㅎㅎ불을 먼저 넣어주시고 초벌이냐 그냥이냐 말씀드리면 알아서 가져다 주신다. 우리는 귀찮아서 초벌로~ ",
+            "url": "https://m.blog.naver.com/pingka3/223110486316",
+            "nick": "끼룩이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDA5MjNfMjcx/MDAxNjAwODQyMDU2NTA3.WlHSedv-SO5GOnA_4kWwWsoGTy1BLBJyLjmWgzwcQp0g.Y2Q7aTAG4ftsIOVcbJHNOT8AVFqFPOBFhpVaasGdv7Ag.JPEG.pingka3/profileImage.jpg"
+          },
+          {
+            "sid": "1741855098",
+            "bodySummary": "통통민물장어 입구입니다 하대원동 아튼빌 후문 횡단보도 골목에 있습니다 입구에는 장어 수족관이 있고 입간판에 점심특선 홍보문구도 있네용 점심에 장어탕이 4,500이라니 넘 저렴하네용",
+            "url": "https://m.blog.naver.com/sjy97/222976546026",
+            "nick": "빛한줌",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDAzMDNfMTgx/MDAxNTgzMjQxMDgwMjY3.snp7odN7LvGKWpJ5Tr_1lD01D1tvuJVyN3MldAget1Qg.K1jHE6cOdsFDMjKg9ACk_4hTbmaTXd88F3azscBdUhsg.JPEG.sjy97/00000000000000.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "id": "1301512520",
+        "name": "표숙닭발 본점",
+        "x": "127.1490787",
+        "y": "37.4302034",
+        "distance": 0.305,
+        "categoryName": "닭발",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220772",
+            "221590"
+          ]
+        ],
+        "category": [
+          "한식",
+          "닭발"
+        ],
+        "reviewCount": 418,
+        "averagePrice": 10000,
+        "address": "경기도 성남시 중원구 하대원동 131-37 1층 표숙닭발",
+        "roadAddress": "경기도 성남시 중원구 둔촌대로281번길 7",
+        "abbrAddress": "하대원동 131-37 1층 표숙닭발",
+        "shortAddress": [
+          "경기 성남시 중원구",
+          "둔촌대로281번길 7"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [
+          "매콤한 국물에 떡과 닭발의 환상 조화"
+        ],
+        "cardDescription": "매콤한 국물에 떡과 닭발의 환상 조화",
+        "description": "안녕하세요. 표숙닭발 입니다. (매주 일료일 휴무) 대표 메뉴인 표숙닭발은 표고버섯을 넣어 육수물을 만들고 조리 후 24시간 동안 저온 숙성해 고춧가루 풋내가 나지 않고 표고버섯향이 진합니",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjlfNTkg/MDAxNzYxNzQ0NTE3MTIx.OBgorXWP8vCAQut-GjYqBUelzsV7icx-lZkew9DYC-cg.1RoVU4c9JTJPF6x_V4ngp7y1CEV44PtFmAS2yLCeyhwg.JPEG/20251029_213844.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjBfMjkw/MDAxNzU1NjUzMTA5MDk1.sMfqG1Iehb41BS6NIyi25PvOol44qASwDjv1PvFDuX8g.att41-BKx-k4hXeOY6UGtOaW5FW2538FwCzGNarxN0wg.JPEG/CA06575D-6639-4EE5-B958-A045E76D2FCE.jpeg",
+          "https://ldb-phinf.pstatic.net/20250714_81/1752461352367G6alj_JPEG/1000039333.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDdfOCAg/MDAxNzU5ODQzMDE0NTA5.X3wHOEzEkqgW2AJTO6362lPG8lUelUPV5mEhlcK1Fbog.szpwVjaR1hWtYNGFtq1TgmqnTZspUp6WE5hdF76wx5Qg.JPEG/20251007_221230.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20230922_129/1695375526303S5Qlx_JPEG/%BC%F6%C1%A4.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDRfMTIg/MDAxNzU0MzA5MTEyMTcy._l6Oj5sl-1G0ufdEaRya20b6kBLXclTMGDXxJ_D0vNgg.ENnyRdTokBSYo8JdHIpzV8JnBYDEi9sFjvxkz3_uJR8g.JPEG/1000016497.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250710_160/17521358998219MIaw_JPEG/1000039145.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjBfMjY1/MDAxNzU1Njk1MTcwMDQz.eWWmAP4Qu-4PQBEZvGzHhs4yvtu-3b00A_Ez0XF_h8Ag.o1iCWLiVhAFWUxNPE30LnOkMNtbQClUcYfDZCCT0jLog.JPEG/AD1B57E6-CBBE-43A5-90B0-FD6C6F400E57.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDhfMTA0/MDAxNzUxOTczNTA3ODEy.Hcz7Pef-McpArA_N2BbFSMEZH3U_VFb84PNMp32UEx8g.2AWxphyVsUK04hCP1SV1klYCPL0XcF4oQs1kKfep4SAg.JPEG/85CBEE85-6ED3-4F76-BF35-E2D53E770001.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTBfNDUg/MDAxNzUyMTQzMDAwNDU5.DE0zW2-2XN9SRnb286VtYLlWi2c8PLzwytmk2CV4230g.2XygI80cgj3WIuUJ1KjzzDhJH4-rGW5PspeR7XJcgMQg.JPEG/49F511AA-1332-40C4-9B11-769B7C7634AD.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221590",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 4,
+        "id": "18385408",
+        "name": "성원닭갈비",
+        "x": "127.149124",
+        "y": "37.429617",
+        "distance": 0.351,
+        "categoryName": "닭갈비",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220771",
+            "221575"
+          ]
+        ],
+        "category": [
+          "한식",
+          "닭갈비"
+        ],
+        "reviewCount": 526,
+        "averagePrice": 33000,
+        "address": "경기도 성남시 중원구 하대원동 131-36 대아빌딩",
+        "roadAddress": "경기도 성남시 중원구 둔촌대로 279",
+        "abbrAddress": "하대원동 131-36 대아빌딩",
+        "shortAddress": [
+          "경기 성남시 중원구",
+          "둔촌대로 279"
+        ],
+        "displayContext": [
+          "물닭갈비",
+          "닭볶음탕",
+          "닭갈비",
+          "닭갈비집",
+          "아이스크림"
+        ],
+        "labelTheme": "한식",
+        "microReviews": [
+          "조용하고 넓은 홀에서 즐기는 닭갈비"
+        ],
+        "cardDescription": "조용하고 넓은 홀에서 즐기는 닭갈비",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjlfMTAx/MDAxNzYxNzQ2MjIzODQy.rUmoLHIkoYxkm2yxCbQ3AyXuRi8Dkr8NJ0ZNdwmOR9Ig.m5Bp3Y0BsTyOTBZQq_LMT8cx3Sx6uyEPmRyLVXwwzOUg.JPEG/20251029_191256.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjBfMTc4/MDAxNzYwOTUwMzEzNjc0.rfUxxwBDHpHvWWOMALW3dAZCUh2dddn3PZ_bzTZNFrkg.b_ySm8ttW2arr47GV0pUjyRWtQTViAuQz8W1z1qwJb4g.JPEG/8E0E4625-BDC8-41F9-9F03-AB5A3FF9AC01.jpeg",
+          "https://ldb-phinf.pstatic.net/20190809_273/1565349970674a1hwR_JPEG/YSsQKHRXk1y1pNzAmVsEUYAY.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTJfNzIg/MDAxNzYwMjI1NDk0NDYy.j9wQ9E5k13VEzvSpXVgOWdzDNe9AYxd_iH-Xo_ZZwaAg.STA-jskyzAUJ2IdCba8y-Siqpo2L-RVmRWiIw_vhnHQg.JPEG/20251011_191424.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221575",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "18385408",
+            "bodySummary": "성원 닭갈비 ⏰11:00 - 22:00 월요일 휴무 031-751-4027 자극적이지 않고 건강한 맛 성원 닭갈비 오늘은 어디서 밥을 먹을까~~ 하고 우연히 가게 된 닭갈비 전문점",
+            "url": "https://m.blog.naver.com/vndnfls53/223397068039",
+            "nick": "별이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMDZfMTE4/MDAxNzA5Njg4MjE5Mjk0.J02CaMEeqNa-G-SkIsI7GgGEtsBHOwjYGx6nzI3p6bMg.oO6znBNkwuULHutlDE9vFCvZP8-aMkRv9lCkTSbsF5wg.JPEG/%25EB%259E%2591%25EC%259D%25B4.jpg/%25EB%259E%2591%25EC%259D%25B4.jpg"
+          },
+          {
+            "sid": "18385408",
+            "bodySummary": "자주는 아니지만 1년에 2~3번은 가는 식당인데요, 여기는 성남하대원맛집으로 나름 오래된 식당이예요. ⏰영업시간 11:00 ~ 22:00 (월요일 정기휴무) ☎️ 031-751-4",
+            "url": "https://m.blog.naver.com/leehochi_diary/223326846227",
+            "nick": "이호치",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA5MjNfNjcg/MDAxNjk1NDQzNTcyMDI4.j0ngsBfxFmqH7Yg6heVn9YJCUa-f7JZchdX1zChWeCcg.1lTJmiyJDuqOV_fkoS2D8Br9ZP6gQ35CE93wSFZB4_Yg.PNG.dldlsghk803/profileImage.png"
+          },
+          {
+            "sid": "18385408",
+            "bodySummary": "안녕하세요? 식혜최고입니다. 오늘은 경기도 성남시 하대원동에 위치한 성원닭갈비에 대해 포스팅하도록 하겠습니다. 화담숲에서 돌아오는 길에 생각나서 찾아왔습니다. 주차는 아튼빌 사거리",
+            "url": "https://m.blog.naver.com/sikhyeddabong/223260239054",
+            "nick": "식혜최고",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAyMDVfMjU4/MDAxNjc1NTc3ODgyNTE0.YJaDddpLztMm6znYmpALFik426gvwdypz8sLLAOqdvUg.kkrVTCWpHg18DkcLV_Xao4IoiKcmnLGmP5gZC8mxjK8g.PNG.vkvkeodhkd/profileImage.png"
+          },
+          {
+            "sid": "18385408",
+            "bodySummary": "하대원 찐 맛집 ‘ 성원 닭갈비 ’ 닭갈비는 다 맛있지만 비 오는 날은 물닭갈비에 소주 한잔해야지 화-일 11:00 ~ 22:30 * 매주 월요일 정기휴무 바로 매장 입구가 아니라",
+            "url": "https://m.blog.naver.com/p30227/223156494397",
+            "nick": "핸미",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA4MjNfNzEg/MDAxNjkyNzY0MjkxOTQ5.KzElXdOLKMyDoRXoDO58fHIbhvaS49hw3L9Kdt4d8Ycg.0tqJ2L40UAji61t5wmpguIr3N5Fi8FgsuLCPPfzJHfIg.PNG.p30227/profileImage.png"
+          },
+          {
+            "sid": "18385408",
+            "bodySummary": "물닭갈비이고, 상대원/하대원 이렇게 성원닭갈비가 있는데 전 상대원은 안가봤고 하대원에 있는 성원닭갈비만 가봤어요! 오늘 소개해드릴 곳은 하대원 성원닭갈비 입니다 주차 안되고요, 건",
+            "url": "https://m.blog.naver.com/bookbob_s/223153727285",
+            "nick": "북밥",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAyMTRfMTYz/MDAxNjQ0Nzk4MTcwODQ5._S4vPlQuOjxtHo2UBda5gQNTR5MZO8bEXXgsz3xWJkgg.Fme2yXl3hyPWbF89KipwqikZxHFLxHH19N03et2r-qAg.PNG.bookbob_s/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "id": "1004132077",
+        "name": "대통수산",
+        "x": "127.1491171",
+        "y": "37.4300531",
+        "distance": 0.318,
+        "categoryName": "장어,먹장어요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220076",
+            "220799",
+            "1006317"
+          ]
+        ],
+        "category": [
+          "한식",
+          "장어,먹장어요리"
+        ],
+        "reviewCount": 84,
+        "averagePrice": 0,
+        "address": "경기도 성남시 중원구 하대원동 131-42",
+        "roadAddress": "경기도 성남시 중원구 둔촌대로281번길 5",
+        "abbrAddress": "하대원동 131-42",
+        "shortAddress": [
+          "경기 성남시 중원구",
+          "둔촌대로281번길 5"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경기도 성남시 중원구 하대원동 131-42",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1006317",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 6,
+        "id": "2002142603",
+        "name": "고기만찬",
+        "x": "127.1490787",
+        "y": "37.4302034",
+        "distance": 0.305,
+        "categoryName": "육류,고기요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220733"
+          ]
+        ],
+        "category": [
+          "한식",
+          "육류,고기요리"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 20000,
+        "address": "경기도 성남시 중원구 하대원동 131-37 1층",
+        "roadAddress": "경기도 성남시 중원구 둔촌대로281번길 7",
+        "abbrAddress": "하대원동 131-37 1층",
+        "shortAddress": [
+          "경기 성남시 중원구",
+          "둔촌대로281번길 7"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "늘 하루하루 신선한 재료로 정성을 다하여 매일 최고의 음식을 준비 하여 고객님들에게 선사 할 수 있도록 노력하겠습니다. 정성이 담긴 음식은 말로 표현 할 수없는 차이가 있습니다.",
+        "description": "늘 하루하루 신선한 재료로 정성을 다하여 매일 최고의 음식을 준비 하여 고객님들에게 선사 할 수 있도록 노력하겠습니다. 정성이 담긴 음식은 말로 표현 할 수없는 차이가 있습니다.",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20251008_81/1759893995564xvkL3_JPEG/%B8%DE%C0%CE%BB%E7%C0%CC%C1%EE%C0%DB%C0%BA%B0%C5.jpg",
+          "https://ldb-phinf.pstatic.net/20251020_60/17609363155632ak1d_JPEG/%C4%ED%C6%CE500g.jpg",
+          "https://ldb-phinf.pstatic.net/20251008_223/1759894062866N3zYU_JPEG/%C4%ED%C6%CE_%C1%F7%C8%AD%2B%B3%C3%B8%E9.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220733",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 7,
+        "id": "1247402691",
+        "name": "둔촌집",
+        "x": "127.148748",
+        "y": "37.43034",
+        "distance": 0.273,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 81,
+        "averagePrice": 5000,
+        "address": "경기도 성남시 중원구 하대원동 131-43 1층()",
+        "roadAddress": "경기도 성남시 중원구 둔촌대로281번길 9-6",
+        "abbrAddress": "하대원동 131-43 1층()",
+        "shortAddress": [
+          "경기 성남시 중원구",
+          "둔촌대로281번길 9-6"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "하대원동에도 드디어 냉삼집이 생겼습니다. 많이 애정해주세요.^^",
+        "description": "하대원동에도 드디어 냉삼집이 생겼습니다. 많이 애정해주세요.^^",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20220906_58/1662475865276assyM_JPEG/20220906_194737.jpg",
+          "https://ldb-phinf.pstatic.net/20220919_139/1663586970922VmShY_JPEG/20220912_142835.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1247402691",
+            "bodySummary": "주소 경기 성남시 중원구 둔촌대로 281번길 9-6 1층(하대원동) **영업시간 월, 수, 금 10:00~22:30 화, 목 16:00~22:30 (매주 월요일 정기 휴무) **주",
+            "url": "https://m.blog.naver.com/hansisters02/223400111114",
+            "nick": "용감한 한자매",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA3MDZfODIg/MDAxNjg4NjE3MTEyOTcw.I0-a-vckBXpIktClNjq9svwgv81vrzbZeLGrc-eWLVgg.zQALweu-jMGi3KuXYV_ohziwz22cGy-lEsz9PVsDbrMg.JPEG.hansisters02/KakaoTalk_20230607_155422268.jpg/KakaoTalk_20230607_155422268.jpg"
+          },
+          {
+            "sid": "1247402691",
+            "bodySummary": "존맛탱 ㅠ 망고 물냉면? 이랑 라면도 먹었당 냉면에 망고가 들어가는 건 진짜 처음봐서 살짝 당황했지만 국물에 망고맛은 안 났당 망고는 넣을지 안 넣을지 선택 가능했구 계란과 오이는",
+            "url": "https://m.blog.naver.com/yn0164/223267763114",
+            "nick": "유나뀽",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMDRfMTEx/MDAxNzAxNjcyNTY3NTAx.rXJdvgDk0kkZwjsiUmn8qCc6u5yjCDKXQ-mqKIWr_0Ag.dxvpsPFY8NNNyfQn0aRgdona-6q5Dg8A5TrsBpvxve4g.JPEG.yn0164/profileImage.jpg"
+          },
+          {
+            "sid": "1247402691",
+            "bodySummary": "김치도 딱 밑에 삼겹살 기름에 구워먹으면 간도 딱이고 맛있다 !!! 먹다가 양념이나 반찬이 부족하면 이렇게 셀프바에서 담으면 된다 우리는 드라큘라족이라 생마늘 한 세번은 리필해서 ",
+            "url": "https://m.blog.naver.com/ifys2u/223263895755",
+            "nick": "Jamong",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxODExMjlfMTgy/MDAxNTQzNDkwMzI4OTQ5.NtoLxpSSx2DOw_UvKxP0Fx19V_HwiHlYuEAPzXMQew4g.EVST0Uyk39plOJ4yZNN6dBtdSFzgU077Q30fuZyAW6Yg.JPEG.ifys2u/KakaoTalk_20181129_200353431.jpg"
+          },
+          {
+            "sid": "1247402691",
+            "bodySummary": "들어서자 직원분의 친절한 인사말과 함께 창가 자리로 안내를 받은 후 주위를 쓱- 둘러보니 초록 초록한 타일의 모던한 인테리어에 테이블 간격도 널찍하고 단체 손님까지 커버 가능한 실",
+            "url": "https://m.blog.naver.com/sso811004/223134032656",
+            "nick": "꿈꾸러기",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMTBfMTUx/MDAxNzA0ODgzNTU0MjUx.dH-xIV7MUWIPb9DI3igumi8NHxgwd6jSkHglzFWuVMIg.7ly3o-vu994qhqzD6hjAcwu_YpjZuqcu9iGYXqINzWsg.JPEG.sso811004/profileImage.jpg"
+          },
+          {
+            "sid": "1247402691",
+            "bodySummary": "둔촌집 성남시 하대원동에 위치한 이 동네는 주택과 아파트, 주거 단지뿐인지라 먹거리를 먹으려면 모란역 or 단대오거리역까지 나가야 먹자골목에 다다를 수 있는데요. but 몇몇 식당",
+            "url": "https://m.blog.naver.com/saera-diary/223096515451",
+            "nick": "쌔라조이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMjBfMTEg/MDAxNzAwNDIxNDU4ODE1.IBbUQ9wYfbFz18zVg7MpwXBFrwkcjsV5gKBTkNpOMIMg.55_-2eBFLFahIqz5m644Phj8ZgYAuMQxUhw5fgRrYC8g.JPEG.saera822/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "id": "1716972622",
+        "name": "통다리바베큐와 반미샌드위치",
+        "x": "127.1491204",
+        "y": "37.4296953",
+        "distance": 0.345,
+        "categoryName": "치킨,닭강정",
+        "categoryPath": [
+          [
+            "220036",
+            "220049",
+            "220245"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "치킨,닭강정"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 0,
+        "address": "경기도 성남시 중원구 하대원동 131-36 대아빌딩 1층 일부호()",
+        "roadAddress": "경기도 성남시 중원구 둔촌대로 279",
+        "abbrAddress": "하대원동 131-36 대아빌딩 1층 일부호()",
+        "shortAddress": [
+          "경기 성남시 중원구",
+          "둔촌대로 279"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "경기도 성남시 중원구 하대원동 131-36 대아빌딩 1층 일부호()",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220245",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

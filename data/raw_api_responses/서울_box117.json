@@ -1,0 +1,298 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 3,
+      "count": 3,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.98595601606618,
+          "minY": 37.561995495495495,
+          "maxX": 126.98709258978992,
+          "maxY": 37.5628963963964
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.98652430292805;37.562445945945946",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1243333908",
+        "name": "신서갈비 명동본점",
+        "x": "126.9859696",
+        "y": "37.5624875",
+        "distance": 0.049,
+        "categoryName": "육류,고기요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220733"
+          ]
+        ],
+        "category": [
+          "한식",
+          "육류,고기요리"
+        ],
+        "reviewCount": 162,
+        "averagePrice": 20000,
+        "address": "서울특별시 중구 명동2가 23",
+        "roadAddress": "서울특별시 중구 명동10길 35-10",
+        "abbrAddress": "명동2가 23",
+        "shortAddress": [
+          "서울 중구",
+          "명동10길 35-10"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [],
+        "cardDescription": "서거나 말거나!!! 기억해주세요~~~ 새로울신 서갈비로 기존 서서갈비를 업그레이드한 소갈비와 생갈비를 함께 즐길수있는 음식점 입니다",
+        "description": "서거나 말거나!!! 기억해주세요~~~ 새로울신 서갈비로 기존 서서갈비를 업그레이드한 소갈비와 생갈비를 함께 즐길수있는 음식점 입니다",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20240322_228/1711101110447riFlW_JPEG/1711008739013.jpg",
+          "https://ldb-phinf.pstatic.net/20240322_271/1711101139955YVw93_JPEG/1711008733666.jpg",
+          "https://ldb-phinf.pstatic.net/20240322_247/1711101132822pD7TB_JPEG/1711008727000.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220733",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "1243333908",
+            "bodySummary": "왔습니다. ㅋㅋ 닭도리 원정대와의 만남을 기록하기 위한 오늘의 포스팅. 구. 서서갈비 신. 신서갈비 리모델링 이후에 처음 가봤는데요.. 맛은 여전하고 시설은 더 좋아졌어요! 저희는",
+            "url": "https://m.blog.naver.com/k_daramgee/223176997243",
+            "nick": "쏘삭쟁이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAxMDNfMTUx/MDAxNjQxMTg3NjI4NDM2.5s_YW5A6tL-7VMQicxdTMwNXXeIm4PnwK94-JSGqz38g._9YU0b_UPMOGe4NxVPgJEtEBdNPQTkkJZPsliEJCBVkg.JPEG.ohmondieu/KakaoTalk_20220103_142641543.jpg/KakaoTalk_20220103_142641543.jpg"
+          },
+          {
+            "sid": "1243333908",
+            "bodySummary": "쭈봉입니다. 오늘의 포스팅 주제는 '고기' 그중에서도 #소갈비 입니다. 이번에 다녀온 곳은 #명동 에 위치한 #신서갈비 입니다. 들어 보셨죠 ? 서서갈비 라고도 합니다. #서서갈비",
+            "url": "https://m.blog.naver.com/controlterra/223007256844",
+            "nick": "유쭈봉",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjEwMTJfMzkg/MDAxNjY1NTU2NjI5Nzk3.1TNFeZHpZF8K1GZ5X31D5-A5aWOdH8qxYmRMFK2L6iUg.x5YfCK-C23cH8-P48z8lViVsNfLhumRjO0_iKZVyA54g.JPEG.controlterra/%25EC%259C%25A0%25EC%25AD%2588%25EB%25B4%2589.jpg/%25EC%259C%25A0%25EC%25AD%2588%25EB%25B4%2589.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "id": "20652420",
+        "name": "함초간장게장",
+        "x": "126.9865637",
+        "y": "37.5620005",
+        "distance": 0.05,
+        "categoryName": "대게요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220076",
+            "220794",
+            "221642"
+          ]
+        ],
+        "category": [
+          "한식",
+          "게요리"
+        ],
+        "reviewCount": 2141,
+        "averagePrice": 40000,
+        "address": "서울특별시 중구 충무로2가 11-1 지하 1층",
+        "roadAddress": "서울특별시 중구 명동8가길 27",
+        "abbrAddress": "충무로2가 11-1 지하 1층",
+        "shortAddress": [
+          "서울 중구",
+          "명동8가길 27"
+        ],
+        "displayContext": [
+          "간장게장",
+          "꽃게"
+        ],
+        "labelTheme": "2TV저녁생생정보 방영",
+        "microReviews": [
+          "한국적 분위기 속 맛있는 게장 한 상"
+        ],
+        "cardDescription": "한국적 분위기 속 맛있는 게장 한 상",
+        "description": "건강 식품으로 잘 알려진 함초로 숙성시킨 알배기 간장게장 전문점입니다. 명동역 8번출구에서 100M",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTZfMTE0/MDAxNzU4MDE3OTM1NDE5.FfEv5yLTDuNfOf2r6QpnmXcAIUohZuXt6xSGUX2vp1og.OrLL5ycKsoMCIlomsa-m078HGeVnG3JUK8BS0l6QSU4g.JPEG/50E79A4D-0BEA-4DFB-9520-FD0DB31EE275.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MThfMjkg/MDAxNzUyODEyNjUxMzQ5.8gPiN4jt4lGts19xg0ROYStti3wq0JNTRnz3eM4v_kUg.L5FMTb_IVxHEuT2Hoo7F_DNmKJDfoSixliCByEmYgygg.JPEG/65B0A32F-A36A-41A1-8173-3CA4A8997911.jpeg",
+          "https://ldb-phinf.pstatic.net/20240827_27/1724762837208dVSca_JPEG/KakaoTalk_20240827_212823204_11.jpg",
+          "https://ldb-phinf.pstatic.net/20240827_140/17247628372488F707_JPEG/KakaoTalk_20240827_212823204_03.jpg",
+          "https://ldb-phinf.pstatic.net/20240827_8/1724762837239OxkUu_JPEG/KakaoTalk_20240827_212823204_13.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221642",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": true,
+        "broadcastInfo": {
+          "name": "2TV저녁생생정보",
+          "menu": "게장 정식"
+        },
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "20652420",
+            "bodySummary": "한국은처음이지 피지 새우장 위치 정보 명동대성당 근처 주소 : 서울 중구 명동8가길 27 지하1층 함초간장게장 (충무로2가 11-1) 명동역 9번 출구에서 140m 정도 거리 영업",
+            "url": "https://m.blog.naver.com/jeeyoun0417/223333631713",
+            "nick": "블루벨레",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA2MDZfMzQg/MDAxNjU0NTIxMTEzNDIx.82aR7LnFSdKQiWyr62evZzV1B_w8bQNgs3Z8qORmXQog.j0vkS1YdZgDcNLLzwedZtzZErHbvBreM_GNfl3En0dog.JPEG.jeeyoun0417/%25EB%25B8%2594%25EB%25A3%25A8%25EB%25B2%25A8%25EB%25A0%2588_%25282%2529.jpg/%25EB%25B8%2594%25EB%25A3%25A8%25EB%25B2%25A8%25EB%25A0%2588%2B%25282%2529.jpg"
+          },
+          {
+            "sid": "20652420",
+            "bodySummary": "함초간장게장 주소/서울특별시 중구 명동8가길 27 지하 1층 매일 11:30-22:00 Last order 21:00 02-318-1624 함초간장게장은 지하 1층에 자리하고 있어",
+            "url": "https://m.blog.naver.com/daraparkjune12/223295269775",
+            "nick": "서기",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjEyMzFfNTcg/MDAxNjcyNDg5ODkxNDYz.p6dqPC2N4Ng-JH3EUGxj3QhvKda-qNVQGnwoX6u77Kcg.57u8eWG_8d4JnPsgyAaILbmEdzBgJWiw4U_cIBzRq7Qg.PNG.daraparkjune12/profileImage.png"
+          },
+          {
+            "sid": "20652420",
+            "bodySummary": "사라진 입맛을 되찾기 위해 밥도둑 간장게장을 점심으로 먹기로 했다. 그렇게 방문한 곳은 명동 함초간장게장이다. 명동은 아무래도 관광객들이 주로 찾는 동네이다 보니 음식점 어딜 가도",
+            "url": "https://m.blog.naver.com/hane1982/223036707248",
+            "nick": "HANE",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTExMDdfMjc2/MDAxNTczMTEzNDY4OTY0.d15yEcYgqnGvvpS50zth3zQmetEuO1Q7eZm31Cfhh_cg.NWv-XU00Xk7_9YoAsLCzxYRcHEeNSFiTd7_z-BvcNcsg.PNG.hane1982/profileImage.png"
+          },
+          {
+            "sid": "20652420",
+            "bodySummary": "식사 후 명동거리 천천히 걸으며 구경하기도 좋아요 매장이 넓고 4인석과 단체석도 많아서 가족단위나 회식장소로도 좋겠더라구요 실제로 관광객들도 많이 오신다고 해요 간장게장정식(2인)",
+            "url": "https://m.blog.naver.com/shara76/222995909931",
+            "nick": "데이지",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAxMDdfMjY2/MDAxNjczMDc5NzkxNzEy.kEMoI2VyAQEPEh9EjrO7dbWeQ-4r869eWuCQhQaDHBcg.0bjrr8K88YIPgn9GzTKKCUeZeOW32Z5CiFlQa6-4zyIg.JPEG.shara76/coopang-daysyhill01.jpg/coopang-daysyhill01.jpg"
+          },
+          {
+            "sid": "20652420",
+            "bodySummary": "함초간장게장 #맛집 #명동맛집 #명동역맛집 #간장게장맛집 #명동 #간장게장 '함초간장게장' TEL : 02-318-1624 주소 : 서울 중구 명동8가길 27 지하 1층 영업시간 ",
+            "url": "https://m.blog.naver.com/food-bloger/222989358776",
+            "nick": "Taein",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAzMDRfMTc4/MDAxNjQ2MzY0MjM4NDM3.MwRh1-9jvUTDuebsl8hIW131wWHYaIcCxATUsQz9I5Mg.uGcHGMAl9aAsn7Bv30LHJlDfUmA697gX9VYDuYvudZog.PNG.dlsxo0921/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "id": "20735333",
+        "name": "미향",
+        "x": "126.985981",
+        "y": "37.562518",
+        "distance": 0.049,
+        "categoryName": "한정식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220056",
+            "220594"
+          ]
+        ],
+        "category": [
+          "한식",
+          "한정식"
+        ],
+        "reviewCount": 12,
+        "averagePrice": 0,
+        "address": "서울특별시 중구 명동2가 23",
+        "roadAddress": "서울특별시 중구 명동10길 35-10",
+        "abbrAddress": "명동2가 23",
+        "shortAddress": [
+          "서울 중구",
+          "명동10길 35-10"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "명동거리에 위치한 명동맛집으로 유명한 한정식 전문점 미향입니다.",
+        "description": "명동거리에 위치한 명동맛집으로 유명한 한정식 전문점 미향입니다.",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20150901_122/1441063076679r01FN_JPEG/SUBMIT_1375667123032_20735333.jpg",
+          "https://ldb-phinf.pstatic.net/20150901_211/1441063076890G3KFS_JPEG/SUBMIT_1375667144433_20735333.jpg",
+          "https://ldb-phinf.pstatic.net/20150901_42/1441063077129O36cq_JPEG/SUBMIT_1375667147615_20735333.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220594",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "20735333",
+            "bodySummary": "서울 명동 한정식 맛집 미향 KTX타면 50분밖에 안걸리는데 참으로 안가지는 가깝지만 내 맘속에 먼 도시 서울 ㅋ 서울에 친구들도 동생들도 있는데 내가 게으른걸까. 서울에 가면 왠",
+            "url": "https://m.blog.naver.com/knoriter/70187549520",
+            "nick": "박냥",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20190714_262/knoriter_156307426755315TLU_JPEG/image.jpg"
+          },
+          {
+            "sid": "20735333",
+            "bodySummary": "한정식 좋아하는 친구랑 명동에 있는 미향에 다녀왔어요 :) 저 사실 외식으로까진 한식을 잘 안먹는데 ㅋㅋㅋㅋ (역시 니글니글한 피자라던가 스파게티가...) 티몬에서 싸게 쿠폰까지 ",
+            "url": "https://m.blog.naver.com/roksack/130184696095",
+            "nick": "초록색",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTA3MjJfNCAg/MDAxNTYzNzY3Njg3NTI5.C0R7VNBxx1z3TQvmntKGcHyhmH185sAF5cVWzzR0CQEg.rM5MQ2UiCBQQ2HRwVsiE5fsuzPlS_imcE-GsxaVtENgg.JPEG.roksack/profileImage.jpg"
+          },
+          {
+            "sid": "20735333",
+            "bodySummary": "연말연시. 각종 모임이 많은데요 명동에서 조용하게 편안하게 식사하기 좋은곳을 찾다가 위메프에 명동한정식 미향이 떴길래 다녀왔어요~ 우리는 저녁코스A를 먹었어요. 원래는 35,000",
+            "url": "https://m.blog.naver.com/jskang323/200929817",
+            "nick": "쥬쥬마미",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20130312_8/jskang323_1363090881887jDwHQ_JPEG/%BF%C0%B5%E5%B8%AE.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

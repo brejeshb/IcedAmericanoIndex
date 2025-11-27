@@ -1,0 +1,539 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 5,
+      "count": 5,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.97118055765756,
+          "minY": 37.57100450450451,
+          "maxX": 126.9723171313813,
+          "maxY": 37.57190540540541
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.97174884451942;37.57145495495496",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "20898581",
+        "name": "카페느티",
+        "x": "126.9717992",
+        "y": "37.5712038",
+        "distance": 0.028,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 891,
+        "averagePrice": 5000,
+        "address": "서울특별시 종로구 신문로2가 1-141 1층 카페느티",
+        "roadAddress": "서울특별시 종로구 경희궁길 9",
+        "abbrAddress": "신문로2가 1-141 1층 카페느티",
+        "shortAddress": [
+          "서울 종로구",
+          "경희궁길 9"
+        ],
+        "displayContext": [
+          "카페",
+          "크레페",
+          "복숭아",
+          "분위기좋은",
+          "깨끗한"
+        ],
+        "labelTheme": "분위기 좋은",
+        "microReviews": [
+          "디카페인으로 부담 없이 즐기는 메뉴들"
+        ],
+        "cardDescription": "디카페인으로 부담 없이 즐기는 메뉴들",
+        "description": "카페느티는 서울 종로구 경희궁길에 위치한 아늑한 종로 카페로, 따뜻한 우드 인테리어와 쾌적한 공간에서 여유로운 시간을 선사합니다.  광화문 디저트 카페를 찾는 분들께 추천드리며, 알레 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTZfNzIg/MDAxNzU3OTc4OTMwMzA5.4yWyR70YwRLp0jlHu-E8uuHL2jeAfc7BLG43gk4-gdog.5VkSqzlDydfxkBfX8Vza7Lhkkd4jXrfwoPWXCFhoMRsg.JPEG/20250915_081146.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjNfMjkg/MDAxNzQ3OTkxMDY3MjI2.04bdd0gigEDggJrQWGO3MnVRo0_Jcp_AR0MM7zUHbxkg.wrhUra3bEQvibXbBz2Yhglnqq2djf78BT6JbQ5eXMiMg.JPEG/20250510_151355.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20230806_244/16913262639588CLLL_PNG/%B1%D7%B8%B27.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTJfNDYg/MDAxNzYwMjY4MzU0MTg0.TF8lwatKbxLfY-Y5YQoregEkUZ0urtkdWeN_DMP36tAg.KWg8RdupPpcekZoCx0Gck84A3MFbwxm9f0j_B-l4Pucg.JPEG/20251009_134455.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240303_155/17093940038354yewt_JPEG/KakaoTalk_20240302_234831150_01.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjRfOTgg/MDAxNzU1OTY4Mzk0NjE0.iIFpwv4zWb21ai7F_eg8btZwafqmtppSvEecsIzdw50g.AW00kvOPNOkawAe_lfKKa2Bc908jiwYch1d5qXlcfLUg.JPEG/13990.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20230806_299/1691326308889qFQAm_PNG/%B1%D7%B8%B25.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDNfMjIz/MDAxNzQ2MjYzNDMxNzgw.ouDWdzQ1mhG7lfe_5H8HfJ_-oAARq_zZp4z0tIf71sYg.8KRAAYJU00gwA55NqBcbH8QaLDRZKGyQ_2kaa7owtzgg.JPEG/25CC3D54-42C1-4261-BD4F-78D48CFCB8EE.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MzFfMTA5/MDAxNzU2NjI1NjU1MjMw.KTpFGniqyFz3W2qmkBoR6hlxL-Y1zcO3WumgrfIwwy8g.WH9Ku1e6Q8Pehny_Mt47a6axUr7Vm4QOlpS35J80EqUg.JPEG/20250822_180815.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTZfMTUw/MDAxNzYwNTQzNDgxMDAx.Wayxb4syDY0Wmmv5pfjjMkmRrCZCbi1poNxqRt9MxoUg.5y8blTxZJEfyOkKUtIIQbimRyE9V8PawsHD4r43QJUwg.JPEG/20251003_150520.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": true,
+        "broadcastInfo": {
+          "name": "2TV아침",
+          "menu": null
+        },
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": {
+          "title": "정원재 : My Favorite Thing ",
+          "startDate": "20250901",
+          "endDate": "20251030",
+          "type": "전시"
+        },
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "20898581",
+            "bodySummary": "SEOUL KOREA 서울 광화문 '느티' 광화문 일대는 서울의 대표적인 오피스 밀집 지역 중의 하나로 손꼽히는 곳이다. 정부 서울청사와 더불어, 각국의 대사관, 대기업, 중소기업",
+            "url": "https://m.blog.naver.com/diegoco/223330568188",
+            "nick": "여행자",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTAzMzFfMTA1/MDAxNTUzOTk4MjgzNjQ1._d1IqPA-RTUb4omo59C5kJ8oq2_Jlw4dCRUvou4w2DIg.6lK0v3_27WP6wjvOuJANouSywTh8WmRfjrkTB95wz-og.PNG.diegoco/%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F%3F.png"
+          },
+          {
+            "sid": "20898581",
+            "bodySummary": "우연히 지나다 발견한 카페 느티. 눈이 와서 소복히 쌓인 날 방문하면 저 밖으로 보이는 풍경이 너무 이쁠듯 하다. 위치.영업시간.메뉴가 궁금하다면 요기클릭 #종로구카페#서울역사박물",
+            "url": "https://m.blog.naver.com/cem93/223279322757",
+            "nick": "happy together",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjEyMTNfMjgy/MDAxNjcwOTA2MjA1NjI3.31brkcQioQxQxKNj-RxIzffdHHsZopVBFhSFLlMFSSAg.Smz2UJPt2kJyl6Wt883098b21HM4P7fjYHVcIq4cgwMg.JPEG.cem93/profileImage.jpg"
+          },
+          {
+            "sid": "20898581",
+            "bodySummary": "책읽는 사람은 못봤는데 ㅎㅎ 테이블 간격이 넓고 카페가 크다보니 사람들의 대화 소리가 잘 들리지 않았다. 조용히 책 읽으러 와도 좋다는 뜻(?) 곳곳에 숨겨져 있는 프라이빗한 공간",
+            "url": "https://m.blog.naver.com/nanha22/223209159943",
+            "nick": "난하",
+            "profileImg": ""
+          },
+          {
+            "sid": "20898581",
+            "bodySummary": "' 카페 느티 ' 광화문역 7번 출구에서 537m 영업시간 10시 ~ 21시 토 일 12시 ~21시 Tel 02-730-4567 카페느티 입구에는 커다란 느티나무 아래 야외석도 있",
+            "url": "https://m.blog.naver.com/pig_1996/223206253304",
+            "nick": "명짱",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20230226_212/pig_1996_16773804760095FWxv_PNG/avatar_profile.png"
+          },
+          {
+            "sid": "20898581",
+            "bodySummary": "진짜 서울 을지로에서 일한지 어연 4년이 넘어가고 친구들과 만나면 무조건 종로카페 종로맛집 익선동 어쩌구 다 돌아봤는데 카페 느티 이날 처음가봄 느티카페+느티책방 뭔가 세월의 흐름",
+            "url": "https://m.blog.naver.com/arosa0206/223195643390",
+            "nick": "로사",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAzMTNfODMg/MDAxNjc4Njc3MDUwMDIx.PHbBX_CBxufkSDYx8HL1PIpRKxBmfrL1BCPzfXvoQRQg.uxb9g9Ouv4Ww-gFHNAlxCZ0URrq-hoNFZ0C7jHGEuDAg.JPEG.arosa0206/KakaoTalk_20230313_104658582.jpg/KakaoTalk_20230313_104658582.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "id": "1820958460",
+        "name": "능라도 광화문점",
+        "x": "126.9722833",
+        "y": "37.5717008",
+        "distance": 0.055,
+        "categoryName": "냉면",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220063",
+            "220645"
+          ]
+        ],
+        "category": [
+          "한식",
+          "냉면"
+        ],
+        "reviewCount": 839,
+        "averagePrice": 10000,
+        "address": "서울특별시 종로구 당주동 128-27 3층",
+        "roadAddress": "서울특별시 종로구 새문안로3길 15",
+        "abbrAddress": "당주동 128-27 3층",
+        "shortAddress": [
+          "서울 종로구",
+          "새문안로3길 15"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [],
+        "cardDescription": "저희는 명절(설,추석) 모두 정상영업 합니다. 365일 연중무휴 입니다.  룸으로 예약시 저희 광화문점은 예약금을 받지않고, 당일 취소할 경우 위약금 5만원이 발생합니다. 이점 확인 후 예약 부탁",
+        "description": "저희는 명절(설,추석) 모두 정상영업 합니다. 365일 연중무휴 입니다.  룸으로 예약시 저희 광화문점은 예약금을 받지않고, 당일 취소할 경우 위약금 5만원이 발생합니다. 이점 확인 후 예약 부탁",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjdfMTgz/MDAxNzUzNTk5NzY2Njg3.51N3FApB3dO-HwrSa-FiNag2M_gAD4z8dgZXaofeQIYg.wURLfu89xwN06u7qtz1__fqPQLd_BH3KItRk5D7a-C8g.JPEG/20250722_113525.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjJfMjkz/MDAxNzU4NTM5NDg2MjM5.4hwVITIcHK90NGTwQzwd86HiuAbp33K4hDGIg3ixblIg.eyrRvJ9YSKrevG8HZJ-R0-Zg4uupVH6UHJNEkSG3x9Eg.JPEG/C079F22F-EB73-40F7-AF1E-1CED88891C97.jpeg",
+          "https://ldb-phinf.pstatic.net/20190611_85/1560238993983KTpB2_JPEG/WD8kZ24bVgH4g2q__Bg8ndrB.jpeg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDlfNzgg/MDAxNzUyMDMwNzY4NjUz.0dfHzZRHYm-Gj-Ytl0KhEW26BdYoqsMh04p8aL_TsvUg.RovPg7Umsl-dvNCH_xrI-RFdbw9_qSQLm15yLTTjkIQg.JPEG/589B0B7F-FDD5-4ACC-A687-0BABACBB49BA.jpeg",
+          "https://ldb-phinf.pstatic.net/20220621_157/1655810146317h24bn_JPEG/20220620_194035.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTFfNzcg/MDAxNzQ5NjM3MjM0NTAx.FXP1IjRUemUncjwKdab9zrjIGc50JzkBgm0wDTT9E4sg.bEtoqY9K64lnUkoCNQjFlrPDy1li4dxMt4E8Nup_gs4g.JPEG/AC1F5EC1-F4E2-4EB8-88EF-5C97CEB9A710.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTlfMjYz/MDAxNzUyODk3MDg3ODcy._s9lkwF7zMVnD0hn2OEVoUEtkrtcxzFHA3d5dXjn5WQg.C8lxO3JGWL1vxfbV7xcZy9zql074paDQ7VX3r5Gr9CUg.JPEG/4BB3F157-BC20-482B-B96C-1D26DEDA7780.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjlfNDgg/MDAxNzU5MTQ5MjcxMzY3.u6ZbMvd3gZEq228u4vuXj5N3KyBGLiZeWMHuPpslLJwg.vF1ap8lWde9M4iChuuMqsfyZC5EorBl4eQC2Q73AhQog.JPEG/B4869AD3-DFCA-4AD1-B705-5007B0444964.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTRfMjg2/MDAxNzQ5OTAzNTEyNjY4.U7R1EHwEOqigadomSXuk-_aY5aVL7tDzzWL95Kx-4SQg.eusfYDH-JckDcJmUviToNzFkIxxSC7bdpf3FhuL3Hmwg.JPEG/20250614_194113.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTlfMjQg/MDAxNzU4Mjc5NjA5Mjgx.OyvqwekdQ3FQqb39O4jxZO20qFMvRh_Wm48WFEPS1ecg.mmlxBvPgy6A_3IhlORdRBzCmtInNPZ2sH4u2A-FA1f4g.JPEG/E3D52623-476A-4A78-9DB4-1B3004BA0D70.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220645",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1820958460",
+            "bodySummary": "이곳은 여러 전통 한식들을 파는 곳이라 어머니와 아버지를 모시고 갔는데 두분 다 만족. - 운영시간 - 매일 11:00 - 21:30 20:40 라스트오더 02-730-3989 단",
+            "url": "https://m.blog.naver.com/rlwnghks1477/223345762472",
+            "nick": "좐의 일상",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAyMTBfMTg3/MDAxNjc2MDAxODk1Nzkx.NYt3KG1nlARgWjMZqnZypM8ihH5tCFQhh55oU81iX6Ig.YjDTIAxeVURG_O6fJZJSx5-PIACjFYrkSOsRdCdSrd0g.JPEG.rlwnghks1477/20230210_130822.jpg/20230210_130822.jpg"
+          },
+          {
+            "sid": "1820958460",
+            "bodySummary": "아기식기제공 주차장 있음 화장실 있으나 밖으로 나가 계단 복도 지나는 곳(추움) 자리 넓고 깔끔해서 단체모임, 가족모임도 꽤 하는듯 깔끔하고 덜 붐비는 평양냉면 집 갈증해소 되는 ",
+            "url": "https://m.blog.naver.com/syruan/223322365501",
+            "nick": "림이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMDJfMzcg/MDAxNjk4OTA0MTYwNTk4.-Wd5PtHumXYDLOAT2ctGGAHVoXRP_VyONlhrK5h0H_8g.jTOzy_K-21_1WI9S3bAE_BmOrKbuwOeV-MwcdDh7LVUg.PNG.syruan/profileImage.png"
+          },
+          {
+            "sid": "1820958460",
+            "bodySummary": "능라도 광화문점 서울 종로구 새문안로3길 15 3층 매일 11시 ~ 21시 30분 20:40 라스트오더 02-730-3989 2023년 마지막 식사가 되었던 평양냉면 연애빠진 로맨",
+            "url": "https://m.blog.naver.com/rosmarinus25/223318506292",
+            "nick": "로즈마리",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMThfMTgz/MDAxNzEwNzY4MjczMzY0.SBg4VecByD2LYEgdicIKIZjQejoQS3Rt93bNrr0qrrMg.DkgMEhuXm6eI_6OfEqjcOLMZmx8q5ByVQo50Cg6tw_Ag.JPEG/profileImage.jpg"
+          },
+          {
+            "sid": "1820958460",
+            "bodySummary": "능라도 광화문점 / 종로구 새문안로3길 15 (당주동 128-27) 영업시간 11:00 - 21:30 매일 20:40 라스트오더 그런 날 있잖아요?? 평양냉면에 소주 찐하게 땡기는",
+            "url": "https://m.blog.naver.com/meoks_note/223304273475",
+            "nick": "먹스노트",
+            "profileImg": ""
+          },
+          {
+            "sid": "1820958460",
+            "bodySummary": "당시 대학생이던 제게 직장인 선배가 '비싼 음식 사주겠다'며 데려간 곳이 바로 서울 중구 충무로에 있는 필동면옥이었습니다. 그전까진 고구마 전분 들어간 쫄깃한 식감의 면발과 자극적",
+            "url": "https://m.blog.naver.com/lifeislongtake/223291082010",
+            "nick": "호원",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMDZfMjE2/MDAxNzAxODMwNDA0NzM2.KlS_Xnp09fB169wKs8pFcaf8iGc62d5uL5W9zJLA3Dgg.NqrE7dG4ZBbZlBFCaOnw_lJpatxgmwQxlg0G89_TDLMg.JPEG.moongge96/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "id": "1732505560",
+        "name": "블루메쯔 광화문점",
+        "x": "126.9722296",
+        "y": "37.5713336",
+        "distance": 0.045,
+        "categoryName": "독일음식",
+        "categoryPath": [
+          [
+            "220036",
+            "220044",
+            "220131",
+            "230713"
+          ]
+        ],
+        "category": [
+          "양식",
+          "독일음식"
+        ],
+        "reviewCount": 241,
+        "averagePrice": 30000,
+        "address": "서울특별시 종로구 신문로1가 58-12",
+        "roadAddress": "서울특별시 종로구 새문안로3길 11",
+        "abbrAddress": "신문로1가 58-12",
+        "shortAddress": [
+          "서울 종로구",
+          "새문안로3길 11"
+        ],
+        "displayContext": [],
+        "labelTheme": "양식",
+        "microReviews": [
+          "넓고 쾌적한 공간에서의 즐거운 식사 경험"
+        ],
+        "cardDescription": "넓고 쾌적한 공간에서의 즐거운 식사 경험",
+        "description": "독일 바이에른 주정부 공인 육가공 전문가(메쯔거라이 마이스터)가 선보이는 광화문 다이닝펍",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTZfMjc0/MDAxNzU1MzIyNTgxNzgy.9LhLte8VjLfqyA2CiA6xa-eE_1luywZyG7Uw9VZbgFsg.UbThrEAjcR5I2MDIj1n2QqW_ZjGONwk5ComFlRXiQzwg.JPEG/20250807_183138.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDRfMjY2/MDAxNzQ2MzQ5ODkzMTMy.c1OrsNXWdnog6-2iSvK2A3CNxavjYyYk8WVjVULik1Yg._aNIgQyPrKWghABetiRNILVoJzsFYEySZ05zITo_LMAg.JPEG/AD8213C4-7D33-42E2-8D7F-EB2845C4AE8D.jpeg",
+          "https://ldb-phinf.pstatic.net/20240611_128/1718078055944s2TPS_JPEG/IMG_0081.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTBfMTcw/MDAxNzU3NTE0NTc0OTk0.DykQycnfZ4Y9mGeGDrVUVtyAVK-Q5gz6M9bTpa82NeMg.fYMQKlsyUUDR4qC3bK06-9Ou3jOjWz0t4DJ4Ro-_X6sg.JPEG/04FD4D36-ECE5-4C77-843C-BB4B02C22D36.jpeg",
+          "https://ldb-phinf.pstatic.net/20250311_179/1741668359033dDNBo_JPEG/%B1%A4%C8%AD%B9%AE_%B8%C5%C0%E5%BB%E7%C1%F8_0219_05.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjRfMjgg/MDAxNzQ4MDQ5MzEzODA5.WAOz9KoIMdSP7BYmHcZfRGNVcgOybz1eA2jfQbj823Qg.zMYCd-l7o1XxYCjXQ4C_wInwp5j6PyrOt3ju42qmnK4g.JPEG/24B9B3B1-35D0-4A23-8A40-C6953B41F666.jpeg",
+          "https://ldb-phinf.pstatic.net/20250218_147/1739862493556gpy8I_JPEG/%B1%A4%C8%AD%B9%AE_%B9%DF%B7%BB%C5%B8%C0%CE_%B5%A5%C4%DA_%B3%BB%BF%DC%BA%CE_14.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MzBfMTMw/MDAxNzU2NTEyOTU2Njcy.t2aWDgmmyDvMVA0D3woeEjnyg7DPDKsIcC2TrjLC9EYg.LZaSk2K68ThaVxf6R5jZHcccWaXUEoDemdXYquZ_3zAg.JPEG/F2CDB28E-90EC-4E98-A9FD-C6EEE655FCB0.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjlfNTgg/MDAxNzQ1OTI1OTQyNDYy._llFopGUzMbHdATkCSZkETIL72Q-71MSfByj-uFi0hkg.LIVIUTCaKwfmvRFPdTh39m4FgpmMczaVSO1QZeNPZ0Ug.JPEG/20250421_114813.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTdfMjEg/MDAxNzQ0ODU1Njc0MTg5.-aenJNbIHAw9Z5h6YAh9eRAseEBHB70z5TOfE4BfdmEg.DaYgIGm05S94wSp7Dyr59BR8nFejipOcL8R_f0IoB4kg.JPEG/20250416_122206.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "230713",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 4,
+        "id": "19867522",
+        "name": "안성또순이",
+        "x": "126.9716379",
+        "y": "37.5716579",
+        "distance": 0.025,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 636,
+        "averagePrice": 30000,
+        "address": "서울특별시 종로구 신문로2가 1-161 안성또순이",
+        "roadAddress": "서울특별시 종로구 경희궁길 18",
+        "abbrAddress": "신문로2가 1-161 안성또순이",
+        "shortAddress": [
+          "서울 종로구",
+          "경희궁길 18"
+        ],
+        "displayContext": [
+          "생태찌개",
+          "생태탕",
+          "동그랑땡",
+          "보쌈",
+          "매운탕"
+        ],
+        "labelTheme": "맛있는녀석들 방영",
+        "microReviews": [],
+        "cardDescription": "40년 넘게 광화문을 지켜온 생태지개집 입니다 넓은 좌석으로 단체 회식하기에도 좋습니다. 대표메뉴는 생태찌개,대구찌개,동그랑땡 보쌈 보리굴비 등이 있습니다",
+        "description": "40년 넘게 광화문을 지켜온 생태지개집 입니다 넓은 좌석으로 단체 회식하기에도 좋습니다. 대표메뉴는 생태찌개,대구찌개,동그랑땡 보쌈 보리굴비 등이 있습니다",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjJfMjIw/MDAxNzQ3ODcxMTgxNDY3.M9bJejrhmKeANkO2OtcApllszvRlr9hAjI0XCUFIAoIg.XNEEMwjwHI_xmWSCgQh5KMdDRmKjQk5-MvQL89Vib0Yg.JPEG/20250519_121010.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTVfMjMx/MDAxNzUyNTg3NjMyMzM4.C9nTLitpTj8uzyTmAvvABjoLcQk8JN7s6zTg3DY4eKAg.ChcCAkKNLTs9PFx6VLP_7RjgKkJ-aKV4KaM5Nbf3EWMg.JPEG/2D79D20A-71D5-40B5-AEAC-86A6D322C964.jpeg",
+          "https://ldb-phinf.pstatic.net/20221024_221/1666585026635ndz6v_JPEG/image.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDRfMjg0/MDAxNzQ5MDQ3NjgyNDcz.mE0T00MQP5ht0KV1KdOmjE8sUDBcz5lAwptuCPgw1zgg.YZuWdh_fudUb3_GJ0VV6YwnyPQZlOJ1HdsOi_YO5PiMg.JPEG/232217AA-BBBC-4487-8897-3954F3F6B567.jpeg",
+          "https://ldb-phinf.pstatic.net/20221024_295/1666584997828PDvIP_JPEG/image.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjJfMjMx/MDAxNzUwNTkzMDY1MzIz.Hb2fyCy3RheSvokFPZQ1VIa-tm467sz51mfIxAMXtrQg.qUjSjXqvvsTnIj22u6N-ChoKUBspY2rhywQZOGXLeAEg.JPEG/20250609_130520.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20150831_120/1441020235797jGpAi_JPEG/156155413853873_2.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": true,
+        "broadcastInfo": {
+          "name": "맛있는녀석들",
+          "menu": "생태찌개"
+        },
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.21",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "19867522",
+            "bodySummary": "생태찌개 (소) ₩40,000 생태찌개 소자. 맑은탕 매운탕 중 선택할 수 있게끔 되어 있다. 우리는 매운탕 선택 둘이 먹기에 양은 아주 적당하다. 국물이 아주 깔끔하니 맛있지만,",
+            "url": "https://m.blog.naver.com/positive-tree/223371086365",
+            "nick": "파지트리",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA2MThfMTM2/MDAxNjg3MDE2MjIwODkx.JZMM3525_Qw3HjoBDmtlmwT3MGh7jHdmbSdssK4jL8gg.P0PSc-u-owiX0Dz4XVfMBLgYlPxIGRRpRdnun8ku_F0g.PNG.posi-tree/profileImage.png"
+          },
+          {
+            "sid": "19867522",
+            "bodySummary": "목욕탕인가? 목욕탕 신발장을 연상시키는 또순이 입구에는 정겨운 늙은호박이 겨울을 나고 있고 목욕탕은 아니지만 시끌벅적 손님들이 땀을 뻘뻘 흘리며 연신 고개 쳐박고 찌개퍼먹는 풍경이",
+            "url": "https://m.blog.naver.com/pkr102/223336313547",
+            "nick": "부채도사",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA4MjFfODYg/MDAxNjYxMDYyNzcyMzcw.nDot43ScqXm2Rwa8IpoPmgTsHpwCSiNIGC_BCClqbgUg.FU8vNJcjFtz2ib_i9oVNlfRftgJAfi0LjJoreI4frcog.JPEG.pkr102/profileImage.jpg"
+          },
+          {
+            "sid": "19867522",
+            "bodySummary": "안성 또순이라는 식당 역시도 마찬가지다. 골목길에서 찾을 수 있는 식당으로, 특히, 생태탕으로 이름을 알린 곳이다. ”주차장이 마련되어 있는 대규모의 식당“ 안성 또순이는 광화문 ",
+            "url": "https://m.blog.naver.com/diegoco/223325720260",
+            "nick": "여행자",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTAzMzFfMTA1/MDAxNTUzOTk4MjgzNjQ1._d1IqPA-RTUb4omo59C5kJ8oq2_Jlw4dCRUvou4w2DIg.6lK0v3_27WP6wjvOuJANouSywTh8WmRfjrkTB95wz-og.PNG.diegoco/%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F%3F.png"
+          },
+          {
+            "sid": "19867522",
+            "bodySummary": "난 운전 안할란다. 안성또순이에서는 다양하게 밥먹으면서 술마실 수 있는 안주거리가 많은 곳이다. 대표적인것은 홍어삼합, 겨울엔, 코찡찡 미나리 듬뿍 넣은 홍어찜이나 삼겹살 수육과 ",
+            "url": "https://m.blog.naver.com/rla470325/223323564833",
+            "nick": "차랑차랑",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA1MDRfMTgw/MDAxNjgzMTM4MTE3Mjgx.8WpzFV64M3xsuxczQLUgrs8K6F7Lpwl8fVdHaAUolywg.oULJ8BqlU_ThMBTVURMZexdlD5-2kzbgX19qzsFIlE0g.JPEG.rla470325/profileImage.jpg"
+          },
+          {
+            "sid": "19867522",
+            "bodySummary": "생태탕 먹기 딱 좋은 날씨! 지도에 저장해두고 가야지 가야지 하다가 드디어 방문함 대궐같은 입구 동네 분위기가 고급 고급 럭셔리 매운맛 순한맛 두가지 중에서 고를 수 있고 매운맛 ",
+            "url": "https://m.blog.naver.com/dailylife-06/223128347183",
+            "nick": "romii",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDExMjNfMjQx/MDAxNjA2MDk5NTU1OTg2.-bZJCZsBuQCg5_dz3jXvQp4834YIL44vA0AjnkmaYEcg.DcFUC8q55d7vmVJplKYrStGHj4pPUX-LZ1l62Z5VHTkg.PNG.guswldia/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "id": "19866711",
+        "name": "조우",
+        "x": "126.9711866",
+        "y": "37.5713722",
+        "distance": 0.05,
+        "categoryName": "이탈리아음식",
+        "categoryPath": [
+          [
+            "220036",
+            "220044",
+            "220127",
+            "220913"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "이탈리아음식"
+        ],
+        "reviewCount": 388,
+        "averagePrice": 30000,
+        "address": "서울특별시 종로구 신문로2가 1-147 조우 JOWOO",
+        "roadAddress": "서울특별시 종로구 경희궁1길 10-1",
+        "abbrAddress": "신문로2가 1-147 조우 JOWOO",
+        "shortAddress": [
+          "서울 종로구",
+          "경희궁1길 10-1"
+        ],
+        "displayContext": [
+          "파스타",
+          "레스토랑",
+          "리조또",
+          "데이트",
+          "나들이"
+        ],
+        "labelTheme": "생방송오늘저녁 방영",
+        "microReviews": [],
+        "cardDescription": "조우는 2009년 서촌에서 시작한 소담스러운 이태리 식당입니다. 기본적인 단품메뉴 뿐만 아니라 이태리 스타일의 코스요리도 가능합니다. 모든 재료와 소스는 직접 만들어 사용하며, 늘 신선하 ",
+        "description": "조우는 2009년 서촌에서 시작한 소담스러운 이태리 식당입니다. 기본적인 단품메뉴 뿐만 아니라 이태리 스타일의 코스요리도 가능합니다. 모든 재료와 소스는 직접 만들어 사용하며, 늘 신선하 ",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20190407_296/15546241474177rdDa_JPEG/ZLsYouTiW8jaf4yWGSpXjgnT.jpeg.jpg",
+          "https://ldb-phinf.pstatic.net/20200322_48/1584887083724JSOpd_JPEG/RMGmfPDPZ9Losw2qP5skJHso.jpg",
+          "https://ldb-phinf.pstatic.net/20231027_153/1698409374907uDk33_JPEG/20231027_203250.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220913",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": true,
+        "broadcastInfo": {
+          "name": "생방송오늘저녁",
+          "menu": "파스타"
+        },
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "19866711",
+            "bodySummary": "#광화문맛집 #파스타맛집 #조용하고 분위기 좋은 조우 서울시 종로구 경희궁1길 10-1 영업시간:11시30분~22시 브레이크타임:14시30분~17시30분 토)17시~21시 일) 정",
+            "url": "https://m.blog.naver.com/jarimida/223258580010",
+            "nick": "리미 Rimi",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA4MTNfMTY0/MDAxNjkxOTE1NzYyMjI0.ypKukXrHIyJOfbpnak47qg10WXOLm0rdL5LVccPvu8Ug.wQX7l0jvZCCXd8PSH4g6H4wEOsjWZStshLprPaLyljYg.PNG.jarimida/profileImage.png"
+          },
+          {
+            "sid": "19866711",
+            "bodySummary": "오랜만에 친구 만나러 광화문에 갔다! 뭐먹을까 고민하다가 조용하고 분위기 좋다고 하길래 바로 예약했다. 예약은 전화로 했음! 6시 조금 넘어서 방문했다. 지나칠 뻔 했지만 간판을 ",
+            "url": "https://m.blog.naver.com/lalaland_sunset/223038378199",
+            "nick": "선셋",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTEyMTNfOTAg/MDAxNTc2MjA3NjA2NTIx.Kqb1ECoNJ3KBNJYc7bg92ixpnXen_OereLR9ER0rEXgg.KDsASfWsyapWF555ojtfc0ad3gnpPURHxNTV0erdWssg.PNG.lalaland_sunset/profileImage.png"
+          },
+          {
+            "sid": "19866711",
+            "bodySummary": "서대문역과 광화문역 사이에 있는 이탈리안 레스토랑 직장에서 점심먹으러 여기까지 걸어온 거 첨이야.. 울 회사는 서대문역 바로 앞에 있는데 서울역사박물관이 있는 곳까지 한 15분 걸",
+            "url": "https://m.blog.naver.com/noel2132/222999261801",
+            "nick": "Noel 노엘",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA0MTlfMTgg/MDAxNjgxOTA4MTExMTYy.XcRBMmzd8_CnRT4GbHksWQJqza4qtmirhi9xp5hU-dYg.T6AVe13cJdJvgXkAQMGfbUlOxuDcfmjvzg6H1a-rNbUg.PNG.yuna2141/profileImage.png"
+          },
+          {
+            "sid": "19866711",
+            "bodySummary": "친구와 가게 된 이탈리안 비스트로 조우, 여기도 지나다니며 본 곳인데 예쁘고 맛있는 곳! 이렇게 옛날 주택들을 개조한 식당들이 많음 대문을 들어오면 칸살로 예쁘게 둘러싸인 공간이 ",
+            "url": "https://m.blog.naver.com/my-dilkusha/222978141001",
+            "nick": "별다함",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAxMDdfMjQ2/MDAxNjczMDk2MzU0Mzcz.y5nOMk3XS4tOe9MKEW0jIQvGDvGKssu6A-qRhY1CHU4g.o23EpjsqoEpF9UBq5hwDzDiyzNNGg64vFDItJsrHfMcg.PNG.hstellawoo/profileImage.png"
+          },
+          {
+            "sid": "19866711",
+            "bodySummary": "조우 이태리 식당 조우라는 이태리 식당입니다! 작은골목에 위치해 있어서 여기에 이태리 식당이 있었어? 하면서 지나칠 수 있는곳에 위치해 있는데요! 여기도 가성비 맛있었습니다. 런치",
+            "url": "https://m.blog.naver.com/so_choi_/222870960848",
+            "nick": "블랑쉬",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA0MzBfMzAw/MDAxNjgyODU1NzA3NjMx.CyXi92iygXMvEarEEFO62YXO0k4AhO7j-gxamB915vkg.Ee-x1UtduGY2p7dDiJ32iclMV1LTk8PP_9ilfaNyqZ4g.PNG.lucyso/Untitled_design.png/Untitled%2Bdesign.png"
+          }
+        ]
+      }
+    ]
+  }
+}

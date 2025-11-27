@@ -1,0 +1,325 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 3,
+      "count": 3,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.97572685255253,
+          "minY": 37.569202702702704,
+          "maxX": 126.97686342627627,
+          "maxY": 37.570103603603606
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.97629513941439;37.569653153153155",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1104196968",
+        "name": "커피기업 세종로점",
+        "x": "126.975739",
+        "y": "37.5692645",
+        "distance": 0.065,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "1004674"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 680,
+        "averagePrice": 5000,
+        "address": "서울특별시 중구 태평로1가 72-2 1층",
+        "roadAddress": "서울특별시 중구 세종대로21길 67",
+        "abbrAddress": "태평로1가 72-2 1층",
+        "shortAddress": [
+          "서울 중구",
+          "세종대로21길 67"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "Simple is the Best , Back to the Basics",
+        "description": "Simple is the Best , Back to the Basics",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTJfMyAg/MDAxNzQ3MDI2NDA0NzUx.Ec1V3XeO0l62uBTr7ZulydOriVXUdicmW1fY904cemkg.a37J_HDbSkRMQgTVjmhW7JrscAuyt1wqfWsDDZPwI40g.JPEG/E406158E-1715-4D8D-BA2B-0F83A6AE2240.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDJfMTYw/MDAxNzU5Mzk4MDY0NzIx.TN8P3cuxv4INiHr1IYUFUSSPEW3C4foRdEAErheYJKYg.LPIxNVrK01Cnm0H6-i3J57IglYuexKeNn1GbwW_s8cUg.JPEG/D723F88E-4181-46B2-AA54-2B7C03EBF852.jpeg",
+          "https://ldb-phinf.pstatic.net/20220718_150/1658129580892nXFgi_JPEG/%C4%BF%C7%C7%B1%E2%BE%F7%B7%CE%B0%ED_7%28%C0%CE%BD%BA%C5%B8%BF%EB%29.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTNfMTcx/MDAxNzQ3MDk0NDcxNjI3.o1wYBvHBoqH6YMK-Aq78CRrpbDf88-pNWoW606B35mYg.zUjIzxpAO4uQ5VPjrQdGksmuLdAggaJQZnTfo80gniMg.JPEG/B78AFB1D-851D-4738-8E74-64F587715DA6.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDJfODEg/MDAxNzU5Mzc3NzMwNDMw.9Fz7MWs_OA83smLTKAyK7bJXOTSa0mVAHAZyqd8t4acg.jIfhhIiC-Vk7L24P3lsgQJC7qYj5fcxS-5BRXAXtWmAg.JPEG/99E0FCE2-465D-4854-B57F-F8A97C9F444E.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjZfMTE4/MDAxNzQ4MjQzMjE4NjUw.Y2VfV9SWVODxbLNuuwlaLQjJcPC0TKClz88J82HRlwkg.ktyuR0k21DnCb-01fgVmfP3y_l-raM3lAYpTL04KTGAg.JPEG/30001EDF-66C8-430D-A392-E3BF977C8B91.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjRfMjE0/MDAxNzU4Njg0ODk1MjIx.S5z93dfEOoErk_gBUIdMzDI-SHXmoeojd7R4VvTbauwg.GAQ420QHv40SGUCSADFE07_JcTKDOObbXX2zMrTWVSog.JPEG/7246951A-A2C8-4B36-9896-B63C9E8A442E.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTlfMTQ3/MDAxNzUwMzE1OTM2Mjg4.ERTm3lnIYDDsyUPZ0HYvt8VdNn2y4zkKtvWgNT8hhMAg.tKFKmljcVvDutmEjeqznnhqoQ-rdhPtl3tmD0KTdyrkg.JPEG/1000023283.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTdfMjQx/MDAxNzQ0ODY0MTYxMDM5.wDKrQbnigQF3sg-2wFxIaZMmlfH0JUU59UTEXC_Dpvog.nViyI7z-zwrXgTWqJtkndWYuey5QY95wLlj-ewcGx6Ug.JPEG/376351EA-F287-45D9-88F7-92BEC81CC0B7.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjBfMjQ2/MDAxNzUwNDAwNzYyMjgw.t3VzGhEhT12D8adTOAVvF8yAXyGdpD_C4cBYDLf_e_og.3YYiv0mRnAiKLfdH4sduXMw_nESYlendLl1CJgxr5aQg.JPEG/20250618_131032.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1004674",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1104196968",
+            "bodySummary": "으으.. 오늘도 너무너무 추웠던 하루였습니다:) 오늘 소개해드릴 곳은 제가 종종 점심시간에 밥먹고 커피를 마시러 방문하는 곳이랍니다 커피기업 세종로점 광화문역 6번 출구에서 도보 ",
+            "url": "https://m.blog.naver.com/soyoung9307/223298751904",
+            "nick": "또용로그",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTEyMDZfMjEy/MDAxNjM4NzYwMTE5NzU4.iBTbQZ3H9UBz4IY7PshvEMr_1fAft__Fb7P_m-WWKY0g.GDb9PBWCwu_2IdLHh1uNNRDmdFYp3Y8VY4hNUaHs3Ocg.PNG.soyoung9307/profileImage.png"
+          },
+          {
+            "sid": "1104196968",
+            "bodySummary": "광화문 13년차 직장인이지만,, 알콜은 잘 받지만 카페인이 안받아서 ㅜ_ㅜ 커피말고 카페에서 맛도리 음료만 추종하는 1인으로써 광화문 카페 및 음료 추천 ! 커피기업 광화문 세종로",
+            "url": "https://m.blog.naver.com/sllsll219/223194293483",
+            "nick": "쯔리",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA3MjZfMjkz/MDAxNjkwMzM5MjYxMTAx.p3Xqt_xc0Z0dTHPckKGh6C0116OK9Zwkrrh2pz6fO_cg.xhi91GmLnP-7A1mNjhkbcOMPtMS36ZTmu_88u--tuvkg.PNG.sllsll219/profileImage.png"
+          },
+          {
+            "sid": "1104196968",
+            "bodySummary": "커피기업 아인슈페너 존맛! 크림이 달달하고 부드럽다! 점심에 이거 먹고 산책하면 짱",
+            "url": "https://m.blog.naver.com/nivea1482092/223183601386",
+            "nick": "감사링",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMTVfOTUg/MDAxNzA1MjQ4MzgzMTQ1.kXbyWohnuhFzChZnP3ZTmlSNtTTcncITxTPfvCSih4Mg.P95dLM6V-_LB9f8k_J7dWtrQF_2-k-kQmsEgOPnoD-Ag.JPEG.nivea1482092/profileImage.jpg"
+          },
+          {
+            "sid": "1104196968",
+            "bodySummary": "가까이서 봅시당 내가 먹을 옥수수 아인슈페너 라떼는 진한 카페라떼 위에 고소한 옥수수 수제 크림이 올라가있다. 이렇게 보니까 스노우비엔나도 먹어보고 싶넹 수제 바닐라랑 더치커피, ",
+            "url": "https://m.blog.naver.com/sadie77/223109081637",
+            "nick": "쪼갱이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMjRfMTQ5/MDAxNzAwODI1MDYyNTkw.OnEfwtkPLKNVvfKV92ztMAjEFlm7VSr42rBcucqE0EIg.TKR8M2lh5MQhqk_wUduM4BhTkyN8YsYEwktdpj7585Yg.PNG.sadie77/profileImage.png"
+          },
+          {
+            "sid": "1104196968",
+            "bodySummary": "파란색 나무늘보가 반겨주는 곳 커피기업은 광화문 신라스테이 건물에 있는 곳을 주로 갔는데 여기에도 매장이 있더라고요! 신라스테이점은 사람이 너무 많아서 오래걸리는데 여기는 비교적 ",
+            "url": "https://m.blog.naver.com/pyu89/223080389427",
+            "nick": "박믹히",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAzMTNfMTIx/MDAxNjc4Njk3OTU1NTk4.qtKS5q9RSBa_Y9rFiOCTQ74qlxg-hVf_sumjWbCeQbYg.parguy9AWzdeo5k9xMdEiFo0HaxGQP1ysYmKHs7-Dx0g.JPEG.pyu89/%25EB%2588%2588_%25EB%2586%258D%25EB%258B%25B4%25EA%25B3%25B0.jpg/%25EB%2588%2588%2B%25EB%2586%258D%25EB%258B%25B4%25EA%25B3%25B0.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "id": "1063793746",
+        "name": "라향각 마라탕",
+        "x": "126.9757332",
+        "y": "37.5692879",
+        "distance": 0.064,
+        "categoryName": "중식당",
+        "categoryPath": [
+          [
+            "220036",
+            "220039",
+            "220091",
+            "220861"
+          ]
+        ],
+        "category": [
+          "중식",
+          "중식당"
+        ],
+        "reviewCount": 1421,
+        "averagePrice": 10000,
+        "address": "서울특별시 중구 태평로1가 72-2 2층 라향각마라탕",
+        "roadAddress": "서울특별시 중구 세종대로21길 67",
+        "abbrAddress": "태평로1가 72-2 2층 라향각마라탕",
+        "shortAddress": [
+          "서울 중구",
+          "세종대로21길 67"
+        ],
+        "displayContext": [],
+        "labelTheme": "중식",
+        "microReviews": [
+          "다양한 재료로 즐기는 맞춤형 마라탕"
+        ],
+        "cardDescription": "다양한 재료로 즐기는 맞춤형 마라탕",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjdfNzgg/MDAxNzQ4Mjk5NDkyNjAw.bb_24ToAkEKpiag1gP2EHIaAI3nyx8qlXYkEx0AoI4og.mJK4Cza3d00P2KvtYkbnOuwvstLSiEv_kepLUBa7-4sg.JPEG/260EFE26-FD2C-42A8-8993-9E6BA2C4934F.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjRfNzQg/MDAxNzU4NjkzMjg1MDQ2.cQAiPtEpIDWEtcXg-crCyUnvSdpu5m6v9YNWy14Tp-sg.OWvZza6lhi2RFt8hu7jW6Y7Zplsmh-zcJAPbzqEsyxUg.JPEG/5F0E3A3A-5311-43E4-8116-E1286E67756B.jpeg",
+          "https://ldb-phinf.pstatic.net/20190901_60/1567343396717ictj3_JPEG/3C5KTayXZj13wrToTjsEobUi.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDFfODAg/MDAxNzQ2MTAyODYzNzg4.GnSrEVMIm9SXBSsIySwk5eMSKCJ6Yqcn4YMw-eJqfp8g.602Ji3vLhHeuhjsX36yJXP92QO8go1DsmBINMywsPxkg.JPEG/7573F070-A627-47C6-988B-2B6A2F96EF2C.jpeg",
+          "https://ldb-phinf.pstatic.net/20200206_55/1580933404207RmHWT_JPEG/yMz9D-g7Y72kL7iO2r7_ouRp.jpeg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDhfMjY0/MDAxNzQ5MzkxMDAxMTQz.8itik6xY_g3l1YA_1iyR1DBx-FRgHfpbaORveUrt414g.VYLIpSO6cFU2F6NbgjE7_9WJhCA8OKK29mbETSe09Csg.JPEG/083C8AF7-413F-4E33-90DE-0A9693CF1551.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTFfMTA0/MDAxNzYwMTc5NjcwODM5.b05QcV1-oBfqzRBDd1bDgPQs-aGa0nOZ8NNBk1JbLJQg.NLOSvLnVVCVMNVzkP6kE7o2MtI87vv5CZDkVzKQJJFwg.JPEG/FA654B81-A14F-41F6-9639-17559FD994BA.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MzBfMzIg/MDAxNzUxMjQ3ODcwNzY1.XNyD0Fx8sNEBICOXQS42QTCf5H-diLUcdAiMd8DY3D4g.FkcSw-1PC136gLZKL94GfSZFZYVzfyZoKk6219U_ijMg.JPEG/20250609_181439.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjNfMjIy/MDAxNzQ3OTczMzYyNjQz.vx8e4WArKNdP2UxK8EIcgWi-0x-nxh4sIG3yhdnm_pAg.eDlSvgYavU6IV7IHVj2gwPhO1aC9wOSTROjg8DgVX6gg.JPEG/F028177C-EF6C-4057-B1F5-4C4E91D0154B.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTFfMzAw/MDAxNzYwMTgxMTM3MjQ0.2dBr_USynT_4wjp1lZuGkwheNSoaT01zE0EC9GNNSEkg.c1YfSHuJzrVFq1YSjKpIsVXgpEAw_ofaFdl5goIAWGMg.JPEG/62C7989A-B714-4CCF-8A09-90DD582F4135.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220861",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1063793746",
+            "bodySummary": "광화문 직장인분들께 추천 받았던 라향각 마라탕 후기입니다! 마라탕/마라샹궈/마라반 꿔바로우/연근 꿔바로우 이렇게 있는거 같더라구요! 연근 꿔바로우가 메뉴에 적혀있진 않았는데 네이버",
+            "url": "https://m.blog.naver.com/wndrnr_ej/223357985160",
+            "nick": "조용한 밖순이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA5MjZfMjg0/MDAxNjk1NzMzNzY0MTQ5.fLGGrMzlWYIt59-KlyYusibw3r16ywRbRE4DcZnuxPcg.BGbYBLVch5WFmoUnRXiAf3iaMfTjuTUVssqoluv3OhAg.PNG.wndrnr_ej/profileImage.png"
+          },
+          {
+            "sid": "1063793746",
+            "bodySummary": "세종문화회관에 공연보러 가는 길에 먹은 마라탕! 남편의 인생 두번째 마라탕이다 ㅋㅋ 2층에 있어서 계단 올라 가야하니 참고 입구는 여기~ 가게는 크지 않아고 깔끔하고 홀은 은근 컸",
+            "url": "https://m.blog.naver.com/bbumpbum/223341680522",
+            "nick": "계라니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTEwMDFfODkg/MDAxNjMzMDUzMTQyMzc4.Mo1pZmDyBjhUUIbBst46VvX5Pfux_963vVsieRPoauog.7mLwBSHUzBeyjk-iN2Es9su4vwageeEqTC6Zk76Aj6Eg.PNG.bbumpbum/%25ED%2599%2594%25EB%25A9%25B4%2B%25EC%25BA%25A1%25EC%25B2%2598%2B2021-10-01%2B105202.png"
+          },
+          {
+            "sid": "1063793746",
+            "bodySummary": "비건 메뉴 가능(채수 마라탕, 연근 꿔바로우) -포장 가능 메뉴판 마라탕 (국물요리, 100g) 1,700원 마라샹궈 (볶음요리, 100g) 3,000원 마라반 (비빔요리, 100",
+            "url": "https://m.blog.naver.com/realitybites28/223329517636",
+            "nick": "큰사람",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMTBfMTc1/MDAxNzA0ODEyOTE1MDcz.JB9_VqsFPlFRRrLhBFhGq_CddS0rKEtkezSCvCmDK_Ag.cBYFYmqlxNDD7hrz-47ZgS9TpR0bMYNQcU377f5zytAg.PNG.realitybites28/profileImage.png"
+          },
+          {
+            "sid": "1063793746",
+            "bodySummary": "라향각>을 오늘 가봄으로써 근처 마라탕집 다 가봤는데 총평하자면 마라공방 : 가장 대중적, 토핑이 매우 트렌디하고 다양, 혈중 마라농도 충분히 충족시켜줌, 간이 조금 쎄서 먹고나면",
+            "url": "https://m.blog.naver.com/biy9409/223313857626",
+            "nick": "이녕",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMDFfMTI3/MDAxNzA0MTIwNTMzNzAx.GuyQIQNqB5IynoMDoBmMJ6sgJ3ypZUqjz-odJoUW1S8g.T2nHkmghqO7CuSjHitIJmU9ES2MHiZaNspyXJp07IVwg.JPEG.biy9409/profileImage.jpg"
+          },
+          {
+            "sid": "1063793746",
+            "bodySummary": "건너편에 있는 천궁전은 가봐서 라향각 매장을 도전해 봤는데 오! 여기가 훨씬 더 맛있다. 앞으로 마라탕은 여기다. 아무리 매운 거 먹어서 열난다 해도 그렇지 12월 초에 반팔 입어",
+            "url": "https://m.blog.naver.com/20901kjy/223292856896",
+            "nick": "Jay",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA3MjRfMTYg/MDAxNjI3MTA0NTE2NDk5.Vc-Ew-bRVn2fUybA3QD2ZYySfDCa6kXbBinxreh-QYQg.2pz-fLj-7HfZXA8LsZrRIh-s33MgP5Ovthx0hSN2gzog.JPEG.20901kjy/20210312_172855.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "id": "1971908891",
+        "name": "커피살롱 광화문점",
+        "x": "126.9757302",
+        "y": "37.5692994",
+        "distance": 0.064,
+        "categoryName": "테이크아웃커피",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220577",
+            "221358"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "테이크아웃커피"
+        ],
+        "reviewCount": 303,
+        "averagePrice": 5000,
+        "address": "서울특별시 중구 태평로1가 72-2 1층",
+        "roadAddress": "서울특별시 중구 세종대로21길 67",
+        "abbrAddress": "태평로1가 72-2 1층",
+        "shortAddress": [
+          "서울 중구",
+          "세종대로21길 67"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [
+          "텀블러로 환경도 지키고 할인도 받고"
+        ],
+        "cardDescription": "텀블러로 환경도 지키고 할인도 받고",
+        "description": "부드럽고 진한커피, 유니크한 음료, 신선한 과일음료를 제공하는 직작인들의 방앗간 커피살롱 광화문점입니다.  커피살롱의 커피는 매일 마셔도 좋은 데일리 커피를 지향하며, 3가지 블랜딩원 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDJfMjgx/MDAxNzU0MTM4MDYzNTUy.BxM664tSMcjXznQfiy1GdUxcD5QjyofMXNlQJjahutUg.UjN0scEWAnr-S17iaVe8AOZThjxqhnTIBOr_LNuN5ZIg.JPEG/AB6FFAE7-A20B-4088-83B5-7C8576D4D80A.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTJfMjYw/MDAxNzU3Njc0NDcyMjY1.fsIJ-ipCZWZtcILdyVwh3xTFUzMqYfD_gfJbH9Fk830g.0XIbVBWezkJUuqRSbfXelNrjFA7SseXUiExr2wi5dcAg.JPEG/20250728_115825.jpg.jpg",
+          "https://naverbooking-phinf.pstatic.net/20240117_140/1705491514808sytPU_JPEG/%B8%DE%B4%BA%BB%E7%C1%F8-%C0%DA%B5%CE%BA%B9%BC%FE%BE%C6%C1%D6%BD%BA.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MDdfMTA1/MDAxNzQzOTk5NTYwMzI3.Edo3nkV1kld7CGQYhyupvQiK0IX2qlANbTehOUWN36wg.z8vz1swbZ0eXYGz3LRcINOKbvC3r30qh-YRemx-bs0og.JPEG/20250407_131849.jpg.jpg",
+          "https://naverbooking-phinf.pstatic.net/20240117_81/1705491432829rWaAo_JPEG/%B8%DE%B4%BA%BB%E7%C1%F8-%BA%B9%BC%FE%BE%C6%BF%EC%C0%AF.jpg",
+          "https://ldb-phinf.pstatic.net/20240507_261/1715090688525Hx126_JPEG/%B8%DE%B4%BA%BB%E7%C1%F8-%BC%F6%B9%DA%C1%D6%BD%BA.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221358",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1971908891",
+            "bodySummary": "직장인에게 빼 놓을 수 없는 커피수혈... 저는 이제 커피와는 거리를 멀게 유지 중이지만, 가끔 한 잔 마신답니다 커피라도 안마시면 회사에서 화가나서 못 버티겠는걸요 커피살롱 광화",
+            "url": "https://m.blog.naver.com/soyoung9307/223368371406",
+            "nick": "또용로그",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTEyMDZfMjEy/MDAxNjM4NzYwMTE5NzU4.iBTbQZ3H9UBz4IY7PshvEMr_1fAft__Fb7P_m-WWKY0g.GDb9PBWCwu_2IdLHh1uNNRDmdFYp3Y8VY4hNUaHs3Ocg.PNG.soyoung9307/profileImage.png"
+          },
+          {
+            "sid": "1971908891",
+            "bodySummary": "생과일주스 먹으면서 더위 날립시다 회사랑 가까워서 #광화문직장인 이라면 꼭 들러보길! 주문하자마자 거의 바로 나오니까 기다릴 필요도 없음. 다들 커피살롱 생과일주스 마시고 건강하게",
+            "url": "https://m.blog.naver.com/sadie77/223139379945",
+            "nick": "쪼갱이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMjRfMTQ5/MDAxNzAwODI1MDYyNTkw.OnEfwtkPLKNVvfKV92ztMAjEFlm7VSr42rBcucqE0EIg.TKR8M2lh5MQhqk_wUduM4BhTkyN8YsYEwktdpj7585Yg.PNG.sadie77/profileImage.png"
+          },
+          {
+            "sid": "1971908891",
+            "bodySummary": "#카페살롱 #제과쇼케이스 1200*650*1300mm",
+            "url": "https://m.blog.naver.com/dia_showcase/222975613653",
+            "nick": "다이아알엔에프",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxODEwMzFfNTAg/MDAxNTQwOTc0NDc0OTU2.EvQDALcWarKEdMhBluopOw6AZyPizGTRr6O_JweaoIUg.hY2UCXYn2YKuKcsyzV99PeqDIVMYoYdgQkWGFr8wmjkg.JPEG.dia_showcase/sdasffsds.JPG"
+          }
+        ]
+      }
+    ]
+  }
+}

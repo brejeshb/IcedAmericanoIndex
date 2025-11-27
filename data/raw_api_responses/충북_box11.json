@@ -1,0 +1,734 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 8,
+      "count": 8,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 127.49461395691675,
+          "minY": 36.6424,
+          "maxX": 127.5002279138335,
+          "maxY": 36.646904504504505
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "127.49742093537512;36.64465225225226",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1245305129",
+        "name": "오차오차",
+        "x": "127.4951312",
+        "y": "36.6447218",
+        "distance": 0.205,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 672,
+        "averagePrice": 5000,
+        "address": "충청북도 청주시 상당구 수동 112-6 1-5층",
+        "roadAddress": "충청북도 청주시 상당구 수동로5번길 40",
+        "abbrAddress": "수동 112-6 1-5층",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "수동로5번길 40"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "'오차오차'는 청주에서 시작된 카페입니다.  스페셜티원두로 내린 커피, 충청도의 원물 그대로 담아낸 차, 직접 제조한 블렌딩티, 동아시아 오리진 티를 선보입니다.  건물 내 다다미방과 유아 ",
+        "description": "'오차오차'는 청주에서 시작된 카페입니다.  스페셜티원두로 내린 커피, 충청도의 원물 그대로 담아낸 차, 직접 제조한 블렌딩티, 동아시아 오리진 티를 선보입니다.  건물 내 다다미방과 유아 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDVfMTE4/MDAxNzU3MDc5MzQ3OTkx.doJmienhbtTeL6l5J6V0c6YVzGODUsOD2RAyLbje82cg.ecPJbumrBWA5ud9CdY4-WJuLHuOO3FJYol3PcWitz0gg.JPEG/A13543AB-50CE-4A68-92C8-27F6ADB068CA.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDdfMjcx/MDAxNzU3MjE2MTgxMjc5.97Gfqs8MumIY54xCpf_Ka0YiS177FLi5hk8Y5JOGTq8g.pRfU_nyFnhNUe8IE_elJEo70Dpe2F4a2ZEU6bZTJTUAg.JPEG/1000028517.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250915_37/1757925378319xBef5_JPEG/11.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMzFfMTUw/MDAxNzYxODc2NjMzNDY1.UMc_sDjbHkOzzSMsP1aCPqHjjNp5e50zSqzXKbm3TNog._9QEcbag0L6FiU4z5aXjOz8biDLGfsuT8WO3wcXO4sog.JPEG/20251031_110905.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250910_16/1757499788593qSH6x_JPEG/IMG_5115.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjRfOTUg/MDAxNzYxMjk1NjgyNzA4.ReAlUiSf7EgZKJrX97g3Oi3jSMoREJWCdGBrggsAiTAg.WjZ_0YrSBQvTLqe35hpWJcqOYgDDveC50bmwERGh6m8g.JPEG/20251024_172155.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250910_21/1757483948967DfKQ3_JPEG/KakaoTalk_20250910_144306949_02.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDNfNCAg/MDAxNzU2ODg3Mzk2Njgz.siUmXM69unVpBc-2zinLv3oZ8o5egtvNP6NQLOrvOlYg.W9OQnQNLKf5KcXdT6xS2Tv-U4Jsl46EOECGkPWp0ZYMg.JPEG/2E0FAB0D-FE53-4645-9F3D-6A96B2369D98.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjhfMjYw/MDAxNzYxNjUzMDU3MTg4.vxgxwqHnldvjSkV7Ev1aEuq7KNZSuIqTqfDRQ61VVqwg.7jw2aKXkbwyNHzFKv_AEsvthPPDWyHzd833eAcQqM8Qg.JPEG/5D796EEA-0989-43AC-B9C0-2AF12BBD1FF2.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTlfMjM1/MDAxNzYwODQ0NTg1MTEz.0quVS7dZoGprViFgYxyA3IiydB_xBtVP91HmxK0Np6Qg.JPRhwblGqI5cPeHvZv2TbVMfpDUv-Ju-N0YmcCPsk7wg.JPEG/D83448FE-5121-48E3-BF93-DE878FBB98EF.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "1190977472",
+        "name": "오지",
+        "x": "127.4946529",
+        "y": "36.6458465",
+        "distance": 0.281,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 3771,
+        "averagePrice": 6000,
+        "address": "충청북도 청주시 상당구 수동 81-155 OHJI",
+        "roadAddress": "충청북도 청주시 상당구 수암로36번길 13",
+        "abbrAddress": "수동 81-155 OHJI",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "수암로36번길 13"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [
+          "버터갈릭 크루아상의 풍미 가득한 한입"
+        ],
+        "cardDescription": "버터갈릭 크루아상의 풍미 가득한 한입",
+        "description": "4월 중순부터 영업시간 변경 변경 전 12:00 AM 변경 후 01:00 AM",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjJfMjc3/MDAxNzUzMTkwNjA0MDk5.MM6RAUv_5mA7QOl6261s08pWkSiK-vxF7sG9zloT5_8g.D8FgE4ZvCR1N1paacIi7DOYTYb84_Uo9Eef493QTPIYg.JPEG/20250722_193737.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTFfMjYz/MDAxNzU3NTgzMTQ0OTAz.csPVS6O8j6u2404iHtSOdLeXaZ8daVVZPsmL1I2zcpAg.t7LTh8tuX28WhDpMZR-c02xEPUFyqdd_MkzhiazzPbMg.JPEG/16B0865B-5269-419B-BF6F-D826991763EA.jpeg",
+          "https://ldb-phinf.pstatic.net/20230628_145/1687962633873AEkJL_JPEG/%BF%C0%C1%F6%B9%E3.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTNfMjQx/MDAxNzU1MDgwMzYwMTkx.XTdzDfx5POwxbOLxPbZu90exOe7CNr39TgojxaowpYAg.83h8GKsKniY1W7YqsI3hs4pMDJCAK91Ic6-ZEBBmtnwg.JPEG/20250805_134326.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20230620_23/1687272614092cnWrU_JPEG/%BF%C0%C1%F6_%BA%A3%C0%CC%C4%BF%B8%AE.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjZfMjY3/MDAxNzUzNDYyNjY5NjUx.O3whwf3Gg2DFGMpOSUVXwgLd0SNPpchszvD-io-33DIg.xgLXnqBdnmIcMsUpq87T6v6YCeerpsmq4pJSKvvPOs4g.JPEG/2D7EEC15-181D-42E3-9CCA-0942CB6CF225.jpeg",
+          "https://ldb-phinf.pstatic.net/20230620_40/1687272628451KUkQr_JPEG/%BF%C0%C1%F6_%C0%FA%B3%E1.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjNfMTky/MDAxNzYxMjE5OTAyOTgx.hV2Zz5Vk-NiScP100BUeDqOuonkFQvwKx_rARuqQkp4g.nLlPw-rmy1uKw544oPe-vFwUqN38yAKHIKenHV_eB70g.JPEG/20251016_164714.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDFfMTYx/MDAxNzUzOTc0MjE3NDE0.Iz89aBRZNxyQ_5dyEMka_lpF-3YGrEaVJGmTXt_YFB8g.PbuxwHXJiP_4zzYakrnHOkFMkQbj8hrpVzePu9ktPWMg.JPEG/1904DDDB-918B-4D30-BB22-F4F45469E24D.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MzFfMzUg/MDAxNzU2NjQ1MTEwODI0.WsewPiTWPYk4s7jq5DAPb1-Vap1doFAE4kR9nstuezcg.YjTVp-zxol1cS3yMMTwHO6VRIrwsJGvJn2bw_tKmEgcg.JPEG/20250831_125604.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1190977472",
+            "bodySummary": "청주 수암골 오지 OHJI 주소 : 충북 청주시 상당구 수암로36번길 13 OHJI 전화번호 : 0507-1329-5611 영업시간 : 매일 10:30 - 23:59 주차, 단체 ",
+            "url": "https://m.blog.naver.com/oyul0000/223394900282",
+            "nick": "미뉘밍",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA3MzFfMjY3/MDAxNjkwNzkwMDM4MDc4.7AKHVq5YkONsNDcV5p9YVfXUMCVmhnP9TNzly2sCGrMg.s3C0QeAphQXeRWXoXhjVkZHyQI1uWsTmGOLI0LbcuVwg.JPEG.oyul0000/KakaoTalk_20230731_165321811.jpg/KakaoTalk_20230731_165321811.jpg"
+          },
+          {
+            "sid": "1190977472",
+            "bodySummary": "벌써 3번째 방문인 카페 '오지' 주차장이 있어서 편하게 방문 가능한 카페라서 자주 오게되는 카페인것같아요 야경이 정말 이쁜 카페 오지 !! 오늘은 낮에 왔지만 낮에도 전망이 정말",
+            "url": "https://m.blog.naver.com/ju_hee-/223392913916",
+            "nick": "쭈이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMTZfMjgw/MDAxNzAyNjU0MDEwNjc1.LCCWTFfrLahfvvpus7Bg1c8Oc6bvYD_eCPRPxx9gMfEg.BI-xiIdkPdTduhptWC-EKg6ClPu1D-8iKRogTlGiSj8g.PNG.jujuju3778/profileImage.png"
+          },
+          {
+            "sid": "1190977472",
+            "bodySummary": "주소 충북 청주시 상당구 수암으로 36번 길 13 OHJI 영업시간 매일 10:30 ~ 23:59 전화번호 0507-1329-5611 주차장 카페 내 O 1층 주차장 2층 계산대.",
+            "url": "https://m.blog.naver.com/bobodaily/223387948355",
+            "nick": "보보",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA0MDdfMjMy/MDAxNjgwODY3MzE4MjYw.ctWHo0e6cLM3vsFQKXBX0asgJrZ5HG-zHodqMqxJM4og.pIImfgFzO37BNJA--zA7uMh_2O0_VBedhKPJrgTNkB8g.PNG.thumbo25/profileImage.png"
+          },
+          {
+            "sid": "1190977472",
+            "bodySummary": "오지 충북 청주시 상당구 수암로36번길 13 OHJI ⏰매일 10:30~23:59 주차는 1층 카페앞에 하고 1층부터 4층까지 건물 전체가 카페였는데 진짜 커서 한 층 한 층 구경",
+            "url": "https://m.blog.naver.com/hyunjung6121/223382304060",
+            "nick": "현정",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMjdfMjUx/MDAxNzExNTAwMTMyNDIy.9J_IuJ_ejBWSGTc_c2P_e8aScnFQoAvLFuFZH4x_hAQg.RT8xdunQAKbx6z62_sDnySijXuOliDI1P2WSxLagBtYg.PNG/profileImage.png"
+          },
+          {
+            "sid": "1190977472",
+            "bodySummary": "청주 수암골 베이커리 대형 카페 : 오지 OHJI 야경 '오지'는 카페 안녕하세요 은둥이에요 :-) 이번 주말 저녁에 야경 맛집 수암골 카페 오지에 다녀왔어요! 늦은 시간에 방문해",
+            "url": "https://m.blog.naver.com/2uuuen01/223359688244",
+            "nick": "은둥",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEwMzBfMTEz/MDAxNjk4NjMwNDk2NDA4.7ViS5N1iPuXJ8KtgvkvUZEAMpTcGTmTrWhBALEw_EXMg.Ei4H63zCEtSZ4nKujMcJ6rhlIYk8ACTvisNNVr16JEQg.JPEG.enjinkim98/KakaoTalk_20231030_104629730.jpg/KakaoTalk_20231030_104629730.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "id": "17225681",
+        "name": "풀문",
+        "x": "127.4947932",
+        "y": "36.6464855",
+        "distance": 0.311,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221212"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 2473,
+        "averagePrice": 5000,
+        "address": "충청북도 청주시 상당구 수동 82-5 풀문커피",
+        "roadAddress": "충청북도 청주시 상당구 수암로 46-8",
+        "abbrAddress": "수동 82-5 풀문커피",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "수암로 46-8"
+        ],
+        "displayContext": [
+          "치즈빙수",
+          "카페",
+          "케이크",
+          "경치",
+          "데이트"
+        ],
+        "labelTheme": "데이트 맛집",
+        "microReviews": [
+          "치즈빙수와 함께하는 청주 전경 감상"
+        ],
+        "cardDescription": "치즈빙수와 함께하는 청주 전경 감상",
+        "description": "세계 최초 치즈빙수로 유명! 창밖으로 청주 풍경이 한눈에 들어오는 카페입니다. tvn,mbc,cjb등 다수의 방송 출연 카페 세계 최초 치즈빙수와 로스팅 아메리카노가 자랑이고 다양한 종류의 디저트",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjhfMjI2/MDAxNzU5MDQwOTM3NjQ3.65Mr7ywY0B7yLFDzOtcHummSLHa6Nb5KFYWzkhnURmYg.tCJfdsWvA6lStMNBfitT_xrSgY5mdqnJH1n8Qw7uoNcg.JPEG/5288F18B-0EDB-4497-B9E3-360BEB9DE5DE.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MzFfMjU3/MDAxNzUzOTE3NzAzNTAy.cCP3wpG_80sfobvL6X5t2YeVjIv8bff8_9IClktbLpwg.33fUdpIhG8tY9amay_UPPYquxc-F4dz78zmaImH4KU8g.JPEG/20250730_144157.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20151124_89/1448350044378X1q70_JPEG/167074565742210_9.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDdfNyAg/MDAxNzU0NTY0MDkxNjA3.0xWT8Mn0FybAP2UKPZjqjYayxG6onDrmHaNJ_Vj1zR0g.bCG2QAWi-90BccSpQpJtCW8ZqUf6EI0khvF7Klub7ocg.JPEG/20250802_150052.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20230427_98/1682574885963lYIbe_JPEG/image2.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDFfMTY2/MDAxNzU0MDAzOTQ4MTcw.kgCpJ8Hvhm2dhwUNPIBeHuN8AyrYB8LT7sTAGbSMaGIg.auxhd8q_PMrvuTqzRpvGPfcoHILPPaLgSslTH97ikpYg.JPEG/9881122C-560E-468C-BF7B-23D603E12CA8.jpeg",
+          "https://ldb-phinf.pstatic.net/20230427_110/1682574886157IIfPV_JPEG/image0.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjZfMTUg/MDAxNzYxNDY3MzA4NzM2.4oDOwg4NkzQ8WFMmgEqycSQvXbbp_ebjqEzrvwsAKUIg.pPQf-LQ3mb3lEc5b6h0npENfD14hu9oxGxj6bKZIlUYg.JPEG/3B2A72B1-64D1-4F35-9CCB-7A616FF7AE81.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjlfMjEy/MDAxNzYxNzQ3MTQ2Nzcw.yB4uEb8D7FvH69eMt9rDv-3Vo-p6hYqBDlHRDqgh4rwg.jj6PQNr10mZjaJyVemPQynjvcSr6Jc3QUOnuZD5X59Yg.JPEG/Screenshot_20251029_225949_Gallery.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDNfMjAx/MDAxNzU5NDc0NDUyMjA3.mwoESm9rWTji-RD9Kzg8AtY2TqJsdstu3Us7vvFImQwg.Mp87EDhoFYQY3a3SAqxgQRlxnmqD-u2KtQe8VVna3akg.JPEG/1759320244796.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221212",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "17225681",
+            "bodySummary": "수암골에 카페들이 많아지고 뭔가 그무렵부터 점점 카페들이 많이 보였던거 같아요 주소 충청북도 청주시 상당구 수암로 46-8 영업시간 10:30 ~ 24:00 전화번호 043-224",
+            "url": "https://m.blog.naver.com/lmr0213/223326651248",
+            "nick": "영이채",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA3MDZfMTgg/MDAxNjU3MTAzMTEyMTQ4.6KHsQagKJwG6MOkky-2JsC9pU70YyJf_zW82Y73mQaMg.iwya7qiST9pMrLX_xPK9d90HhfseyrJLdJSgcL8uMB4g.JPEG.lmr0213/a.jpg/a.jpg"
+          },
+          {
+            "sid": "17225681",
+            "bodySummary": "안녕하세요~! 오늘은 친구의 친구가 여기서 일을 한다고 해서 이렇게 수암골 풀문 이라는 카페로 놀러오게 되었습니다~~ 저는 카페레체 그리고 오지는 가봤는데 풀문은 처음이었어요~! ",
+            "url": "https://m.blog.naver.com/sseo8551/223300223965",
+            "nick": "어흥사자",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA3MjZfMjA5/MDAxNjkwMzYzMjE3MzUw.SHi5gqw1xs5FBZUjSNcfKO3aE4Y_q5Yn04WNu5Rz0mAg.--FeWqWGraIrJr3cJrxR6zSz0Q-k-KaqzLErt73zeA4g.JPEG.sseo8551/%25EC%2596%25B4%25ED%259D%25A5%25EC%2582%25AC%25EC%259E%2590.JPG/%25EC%2596%25B4%25ED%259D%25A5%25EC%2582%25AC%25EC%259E%2590.JPG"
+          },
+          {
+            "sid": "17225681",
+            "bodySummary": "수암골은 청주 조금 아시는 분들은 다 아시죠 ㅎㅎ 숲속에 있어서 공기도 좋고 뷰도 좋습니다 주차가 조금 불편하긴 하지만 여차여차 주변에 할 수 있어요 드라마 촬영 명소 메뉴 보고 ",
+            "url": "https://m.blog.naver.com/doseongho_/223267300523",
+            "nick": "이룰 성 하늘 호",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA2MTdfMjEw/MDAxNjg2OTk3MzEwMjE2.F43WbDTQLgKy-Na_Rqqg8UHgOEIEAUhYnKZfOBMqjUog.YXFW_EbhJUkq7E_ZhkwFo8PFLMsb09shrGlbRQEjwYMg.PNG.cjsdks10/profileImage.png"
+          },
+          {
+            "sid": "17225681",
+            "bodySummary": "국립현대미술관 청추 위쪽 동부창고를 걷는데 하늘이 정말 너무 예쁘더라구요. 카메라로 아름다운 순간을 담아봅니다. 그리고 카페를 가기 전 수암골전망대에서 예쁜 풍경을 눈에 담아보았어",
+            "url": "https://m.blog.naver.com/dlrltmfr365/223234776856",
+            "nick": "슭슭눌눌해",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAyMDdfMjIw/MDAxNjQ0MjQwNDM1Mzk5.NufydflF72HXqBMxl9dfHJegvcVVE9m_MoKKfxn8im8g._HDwlntNRpwXoaDYw2GYEe5z7sBlYuiOqgGBR4dJLXQg.JPEG.dlrltmfr365/KakaoTalk_20220207_222643694.jpg/KakaoTalk_20220207_222643694.jpg"
+          },
+          {
+            "sid": "17225681",
+            "bodySummary": "제가 방문한 카페는 바로 수암골에 위치한 풀문 카페입니다. •주소 : 충북 청주시 상당구 수암로 46-8 풀문커피 • 전화번호 : 043-224-3577 • 영업시간 : 10:30",
+            "url": "https://m.blog.naver.com/awmj1234/223235343517",
+            "nick": "한가로이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA3MjhfNDAg/MDAxNjkwNTAzOTYxNDY3.4n0L33XJilxWKI30P5SbTwoEnYTcjZ84WMRd3RFwersg.hWDnELX1ceOnzyIFgMbZgQHJmL-tf2piToDHh5qodIgg.JPEG.awmj1234/IMG_0728.jpeg/IMG_0728.jpeg"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "id": "21428945",
+        "name": "카페레체",
+        "x": "127.495066",
+        "y": "36.645149",
+        "distance": 0.217,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221212"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 853,
+        "averagePrice": 5000,
+        "address": "충청북도 청주시 상당구 수동 81-107",
+        "roadAddress": "충청북도 청주시 상당구 수동로5번길 32",
+        "abbrAddress": "수동 81-107",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "수동로5번길 32"
+        ],
+        "displayContext": [
+          "카페",
+          "벽화마을",
+          "치즈빙수",
+          "분위기좋은",
+          "경치"
+        ],
+        "labelTheme": "분위기 좋은",
+        "microReviews": [],
+        "cardDescription": "수암골 카페 피자, 파스타, 커피, 디저트 등 판매",
+        "description": "수암골 카페 피자, 파스타, 커피, 디저트 등 판매",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMzFfMjM5/MDAxNzYxODQ3NDM0MTgy.9n_4cZBNTxxFSNq6PtxmijC7DCRFpWothkXhBG7SsT4g.gzvn0VYf2nCOIedjteuMR3-h3ba2ZGU7LzekgvgMfXQg.JPEG/1000101988.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDdfMjg5/MDAxNzQ2NTU0NjkxNTUx.XpEe45HgQQOQnZTXtF5ZSOm75YmroL2UhW60fkLounkg.u4NObS-wd9YZrX3KtWHZEV_EnOqRZFiyKuFBjNCsMNUg.JPEG/20250502_214121.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20151124_79/144835001441686daI_JPEG/167074565673173_0.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjJfNiAg/MDAxNzQ1Mjg5NTI1MzQw.GekEQiA2XkUWKbB7TIua9VJ7qwW-QZL2AMenYiTrf8Ug.RT6GpnKUg4fLV3nnti3fXbCwAhE7GzCcTMpU9PUzklsg.JPEG/1000051633.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20151124_161/1448350014507dIxy6_JPEG/167074565673173_1.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjJfMjk3/MDAxNzQ1Mjg4OTg4NDM0.kcw__S5RMJI5RNCcsJj0lOE6IgfH3McehC9u3nnyiY0g.zcgIDOKL89KlNGAzFKGBdv3lJYs1JWDdV-DttZbfiH0g.JPEG/1000051644.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20151124_233/1448350014696ABodR_JPEG/167074565673173_2.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjdfMTU3/MDAxNzU2MzA0NTYxNDA0.JxT8cO-BAZNGrXZth-x5jcAtkPZG3KT81ZdApW0TugEg.hdFRVwuGGbaDbq3B21OBVuEmKY9pHhUvFzzw25oSLycg.JPEG/WPhoto_250827085442.png.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDNfMjY3/MDAxNzU5NDU3MjE0MTI2.-Xtmgitaxm7jm6-Ny7Cl7UuMJcAaWI8SYylEDksR2q0g.fqrGrxrcigf5UNYI-DUb9AH05zTrH8LcXtNu7jJaK3Ig.JPEG/3BF3E300-5A93-460C-9A70-1E1065B83FC3.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDNfMTAy/MDAxNzU2OTExMTkxNzgy.XgdMNlvUixHE34qNZkZTVHL6F42NUBFURbefpKEgv0sg.D6ZdrWN2xcb3gygjQ-uHmvuk5ul51FAAraqrqd_uR3Mg.JPEG/20250903_205556.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221212",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "21428945",
+            "bodySummary": "주소: 충북 청주시 상당구 수동로5번길 32 영업시간: 매일 10:00~02:00 전화: 043-223-1881 단체이용가능/ 주차가능/ 무선인터넷/ 남녀 화장실 구분 카페 레체의",
+            "url": "https://m.blog.naver.com/wjd22519/223326688889",
+            "nick": "미닝",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA4MjlfMTg2/MDAxNjkzMjM3NjE2MTI0.AxyUqkXrYM9BuVkrcHpnif0JA7mpRKT4NHXn0iA4oRcg.yK0LjlYEmVOdiA7yjl_vunDU4LHa2b-uv0OAUQv1D1og.PNG.wjd22519/profileImage.png"
+          },
+          {
+            "sid": "21428945",
+            "bodySummary": "수암골 카페 찾아보다가 카페레체로 결정하고 다녀왔어요 ㅎㅎ 위치 충북 청주시 상당구 수동로5번길 32 수동 81-107 네이버 지도 영업시간 매일 10:00 - 02:00 여행당시",
+            "url": "https://m.blog.naver.com/dkdldltdma/223245325508",
+            "nick": "choco ghost",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAyMjZfMTgz/MDAxNzA4ODc4MDcyNDg4.nu8-OorasDv1EXU4HGPO3uthUsXgw94BDsxxyHNHlaog.ffNnnqGvUx3sUNoy1urLFsho7geXrx6JSl58B3lEuHsg.JPEG/profileImage.jpg"
+          },
+          {
+            "sid": "21428945",
+            "bodySummary": "청주 수암골 야경 카페 레체 너무 어두워서 아무것도 보이지 않는 입구. 올라가는 계단이 많이 있다. 수암골 언덕에서도 더 언덕에 있는 카페 레체. 청주 수암골 야경 카페 레체 계단",
+            "url": "https://m.blog.naver.com/tangahchu/223229013304",
+            "nick": "탕아츄",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMTlfNjEg/MDAxNzEwODEyOTA3ODA2.E-KKIXjNR3UJEhN0SO-HL4amJ4SmOi38ckissoWt2ocg.DBpmT-kPhirRKnm7m9WrK6JO5sbCkm811aDAXxNJWiMg.JPEG/KakaoTalk_20240319_104806718.jpg/KakaoTalk_20240319_104806718.jpg"
+          },
+          {
+            "sid": "21428945",
+            "bodySummary": "여기 지역이 높아서 그런지 벌레도 많이 없더라구요! 그래서 바로 테라스에 자리 잡았습니다!이렇게 청주를 위에서 내려다 보니 기분이 묘하더라구요 내가 열심히 살든 열심히 살지 않던 ",
+            "url": "https://m.blog.naver.com/dudtj2214/223176935793",
+            "nick": "일샹들리에",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA3MjZfMTA1/MDAxNjkwMzYyOTMzMzE2.0ALWoNwPK3G4OOd0C4HJdOGpYbH8YSw9L7ehMFVBceIg.lDQIVjEJ7ia91pokRt4hKAezztXsx4WUSXKdTWybUrwg.PNG.dudtj2214/%25EC%2583%25B9%25EB%2593%25A4%25EB%25A6%25AC%25EC%2597%2590.png/%25EC%2583%25B9%25EB%2593%25A4%25EB%25A6%25AC%25EC%2597%2590.png"
+          },
+          {
+            "sid": "21428945",
+            "bodySummary": "청주 포토존맛집 카페를 소개한다 포토존은 조금 무서웠지만 사진이 정말 잘 나왔고 낮과 밤 모두 청주시내가 한눈에 보여 분위기가 좋았던곳이다 '청주 카페레체' 장마기간이라 날씨가 오",
+            "url": "https://m.blog.naver.com/moneyworm123/223151975916",
+            "nick": "동돼지",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMjhfMiAg/MDAxNzAxMTY0OTUxMDkw.bkoFV_4gACE2aUjh4hSGjCKDZpccFpwf15JCF7cxerog.APcke7cut1RfL41-WIJuP4eFIAgs48os3qh5Dpc46kkg.PNG.moneyworm123/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "id": "37005750",
+        "name": "파브리카 수암골점",
+        "x": "127.4950777",
+        "y": "36.6440901",
+        "distance": 0.218,
+        "categoryName": "스테이크,립",
+        "categoryPath": [
+          [
+            "220036",
+            "220044",
+            "220134",
+            "220934"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "스테이크,립"
+        ],
+        "reviewCount": 514,
+        "averagePrice": 30000,
+        "address": "충청북도 청주시 상당구 수동 112-148",
+        "roadAddress": "충청북도 청주시 상당구 수암로20번길 4-1",
+        "abbrAddress": "수동 112-148",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "수암로20번길 4-1"
+        ],
+        "displayContext": [
+          "레스토랑",
+          "파스타",
+          "스테이크",
+          "분위기좋은",
+          "데이트"
+        ],
+        "labelTheme": "분위기 좋은",
+        "microReviews": [],
+        "cardDescription": "2020- 04-06 파브리카 스테이크하우스로 리뉴얼되었습니다   기존의 메뉴는 그대로 가져오며 또다른 파브리카에서의 고급스러워진 새로운메뉴를 경험해보세요!  매장의 특징은 3층이 회전하는 레",
+        "description": "2020- 04-06 파브리카 스테이크하우스로 리뉴얼되었습니다   기존의 메뉴는 그대로 가져오며 또다른 파브리카에서의 고급스러워진 새로운메뉴를 경험해보세요!  매장의 특징은 3층이 회전하는 레",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20200624_85/1592995534986wnwYz_PNG/nNj28Uo4N7MyLl0-o7OSGouT.PNG.png"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220934",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "37005750",
+            "bodySummary": "여기는 사실 배달로는 처음 먹어보고, 직접 가서 먹어본 곳이에요! #청주수암골맛집파브리카 배달 리뷰!!! 시작합니닷. #파브리카수암골점 #청주수암골맛집 #파브리카 #청주양식배달 #",
+            "url": "https://m.blog.naver.com/hhkcd9717/223272087985",
+            "nick": "Gooni",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjEwMTZfMTkg/MDAxNjY1OTIyNzM0NjMz.AqP8csNrl4P7lWpOm5aYqbZ1CFF2kpuHfkRfK6TeT2gg.I1FhibjdH4s_cP7OJCzVRZcRinY9071DgrsZJ6J3FJcg.JPEG.hhkcd9717/profileImage.jpg"
+          },
+          {
+            "sid": "37005750",
+            "bodySummary": "식전빵 양파빵인듯 시저셀러드 ? 옥수수스프 강냉이 피자 스테이크가 들어간 덮밥 채끝스테이크 메뉴판을 못 찍 삼층은 어전히 돌아가는듯 ? 벚꽃 시즌 수암골 쪽 드라이브길은 꽃 이 좀",
+            "url": "https://m.blog.naver.com/brbbb/223056432654",
+            "nick": "보나",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMDlfODgg/MDAxNjk5NTM3NzU1OTYy.gab564gR2OLl2jzt106rKxRBtKttKtGPOFmDRQAViNgg.CsTrKphQg1WTmmY-oSs6WXhFd-FoLpt0Jgfao4wbFTcg.PNG.brbbb/profileImage.png"
+          },
+          {
+            "sid": "37005750",
+            "bodySummary": "오랜만에 방문한 수암공 파브리카 분위기 여전하죠? 오늘은 운좋게도 사람이 많지 않았어요! 따뜻한 분위기에요ㅎㅎㅎ 추운 겨울에 와인 한잔하면 좋을거 같은? 원형으로되어서 이전에는 건",
+            "url": "https://m.blog.naver.com/genie_zzn/222991603213",
+            "nick": "쉬리",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMDJfMTIg/MDAxNjk4ODc3NDIwMzk1.KMqGBLSpT5iicLwg_xBM2y9ipQXwGEE2-wHg164kbBkg.Z9A5QyO7yzf0R-WV7RDEJHah1YMjCa8y2hXhzhd-oYMg.PNG.ilioivie123/profileImage.png"
+          },
+          {
+            "sid": "37005750",
+            "bodySummary": "남녀화장실 내부 위치 눈이 넘 많이 오기도 했고 수암골 자체가 경사가 너무 져서 네비게이션이 안내해준 곳으로 갔는데 가게가 안 나왔다;; 내려와서 한 바퀴 돌아서 가려는데 오르막길",
+            "url": "https://m.blog.naver.com/sksk3028/222965657628",
+            "nick": "나은진",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDEwMTlfMjI4/MDAxNjAzMTExNjg5OTcy.AFIYp5atYkINi61_I5RQbA00DhYufdmWvu5d6vu_9Jkg.iwXFajtet9y0RJ_hSfTN8NC4hjhJzR_CrTMujqRZUEMg.JPEG.sksk3028/KakaoTalk_20201017_163414677_02.jpg"
+          },
+          {
+            "sid": "37005750",
+            "bodySummary": "청주 수동 수암골, 예쁜 카페가 모인 곳인데요. 치즈빙수로도 유명한 곳이죠. 청주 수암골 드라마길 인근 야경 맛집 파브리카에 다녀왔습니다. 주차는 파브리카 앞 자체 주차장에 가능.",
+            "url": "https://m.blog.naver.com/lawyang7/222871114024",
+            "nick": "양지인 변호사",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA3MjJfMjA5/MDAxNjU4NDc1OTYyNzgz.XmHtTCljEieQBIFMtgDELEc3M4JcMP5ENjqAXeQG0pog.priDvFOCwjmPy2L7j79qgpuk4B_OOS7JRh7ikwIUJRgg.JPEG.lawyang7/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "id": "1475881445",
+        "name": "알러이찡찡",
+        "x": "127.494869",
+        "y": "36.6456575",
+        "distance": 0.254,
+        "categoryName": "태국음식",
+        "categoryPath": [
+          [
+            "220036",
+            "220043",
+            "220124"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "태국음식"
+        ],
+        "reviewCount": 465,
+        "averagePrice": 17000,
+        "address": "충청북도 청주시 상당구 수동 81-331",
+        "roadAddress": "충청북도 청주시 상당구 수암로36번길 6",
+        "abbrAddress": "수동 81-331",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "수암로36번길 6"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "안녕하세요 수암골 유일한 태국요리 전문점 입니다. 저희는 태국에 오래있던 주방장들이 직접 재료 손질부터 요리까지 다하며 모든재료를 태국 현지에서 직접 공수 받아서 사용하여 태국 현지",
+        "description": "안녕하세요 수암골 유일한 태국요리 전문점 입니다. 저희는 태국에 오래있던 주방장들이 직접 재료 손질부터 요리까지 다하며 모든재료를 태국 현지에서 직접 공수 받아서 사용하여 태국 현지",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20210620_81/1624171094374rSTtm_JPEG/VnZy5BvAXjH5bWyHoss11AeN.jpg",
+          "https://ldb-phinf.pstatic.net/20210620_186/1624171070966cclBR_JPEG/npPmz0PxRfhdI3vTpX75EABS.jpg",
+          "https://ldb-phinf.pstatic.net/20210620_92/1624171070768wPX8y_JPEG/b5YQPISz1I0ZgPtq93GENpm4.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220124",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1475881445",
+            "bodySummary": "얼마 전 수암골에 방문했다가 태국 음식점인 알러이찡찡에서 저녁식사 하고 왔어요 ☺알러이찡찡은 태국어로 '진짜진짜 맛있다'라는 뜻이라고 해요 문 열자마자 펼쳐진 화려한 인테리어에 눈",
+            "url": "https://m.blog.naver.com/2uuuen01/223380931521",
+            "nick": "은둥",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEwMzBfMTEz/MDAxNjk4NjMwNDk2NDA4.7ViS5N1iPuXJ8KtgvkvUZEAMpTcGTmTrWhBALEw_EXMg.Ei4H63zCEtSZ4nKujMcJ6rhlIYk8ACTvisNNVr16JEQg.JPEG.enjinkim98/KakaoTalk_20231030_104629730.jpg/KakaoTalk_20231030_104629730.jpg"
+          },
+          {
+            "sid": "1475881445",
+            "bodySummary": "알러이찡찡 태국음식 충북 청주시 상당구 수암로36번길 6 전화번호 0507-1471-7338 영업시간 11:30~21:00 브레이크 타임 15:00~17:00 안녕하세요? 늘 배고",
+            "url": "https://m.blog.naver.com/iooi81/223377864443",
+            "nick": "킴사임당",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMjRfMTI4/MDAxNzAzNDIyMDAwODUz.o2DF5DYNSO5olaj7yOUh_hCpA1lcTxiinJzlmmt9Hfwg.mG9z8plsH0sEU_UOYHN4fzUA7VFB0F_FByHmTGDaSIEg.JPEG.iooi81/profileImage.jpg"
+          },
+          {
+            "sid": "1475881445",
+            "bodySummary": "그간 모두들 잘 지내셨나요? 크리스마스가 지나고 벌써 새해! Happy new year, 새해 복 많이 받으세요! 크리스마스이브에 처음으로 다녀왔던 청주, 오후에 도착해서 오랜만에",
+            "url": "https://m.blog.naver.com/korean_travelor2023/223314315783",
+            "nick": "썬데이밝음",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA1MjhfMTAg/MDAxNjg1MjU1NDc0OTEz.hwAWwfDoGKU0idpAliIgzhddPUpfNFDC1PGeYP4GeJwg.pgGMcupxa4JaMupQxd82Xi0DdwCif2Xi1U2MihsPcIsg.JPEG.travelor2014/f209a8209b867fd82697.jpg/f209a8209b867fd82697.jpg"
+          },
+          {
+            "sid": "1475881445",
+            "bodySummary": "막입인 나는 뿌린것과 안뿌린 것의 차이를,, 잘 모르겠지만 암튼ㅎ 가끔 이국적인 음식이 땡긴다면 알러이찡찡 추천합니당 왜냐면 일단 맛있고, 주차공간도 있고, 다먹으면 근처 카페 가",
+            "url": "https://m.blog.naver.com/eunnhann/223299193484",
+            "nick": "은한",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEwMTdfMjgw/MDAxNjk3NTI3NjE5MTI2.4frJnP6LMk0VSQqCvFMKa6mA_kWw2dMM3crCG8vM26Mg._TAVyPKQ1L96KyrRZVpLQil8vgnQN-47n4t3flGujgUg.JPEG.eunnhann/profileImage.jpg"
+          },
+          {
+            "sid": "1475881445",
+            "bodySummary": "대신 어느 정도 호불호는 갈릴듯함 [ 청주 태국 음식점 알러이찡찡 ] 가게 입구 근처에 있던 코끼리 조각상 귀여워서 한 컷 찍었당 알러이찡찡은 사진에 나와있듯이 태국어로 진짜 진짜",
+            "url": "https://m.blog.naver.com/yonceluv/223288699082",
+            "nick": "OTIOTI",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjExMjJfMTEx/MDAxNjY5MDkxMjMxOTAy.Bjm0-UQIBOal1XUVOr7YVcRxsxty-rb6LS9QpBtS5w0g.5oBNYretJUj2tH6_5F2HvgKieYT-tWvTZpnJq8MiSKIg.JPEG.yonceluvu/FDKoMnkaUAAbY7C.jpeg"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "id": "1194514698",
+        "name": "페퍼떡볶이",
+        "x": "127.495106",
+        "y": "36.6461795",
+        "distance": 0.268,
+        "categoryName": "떡볶이",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220187"
+          ]
+        ],
+        "category": [
+          "분식",
+          "떡볶이"
+        ],
+        "reviewCount": 37,
+        "averagePrice": 5000,
+        "address": "충청북도 청주시 상당구 수동 81-104 1층",
+        "roadAddress": "충청북도 청주시 상당구 수암로36번길 20",
+        "abbrAddress": "수동 81-104 1층",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "수암로36번길 20"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "안녕하세요:) 즉석 떡볶이 전문점, 페퍼떡볶이입니다. 페퍼떡볶이위치를 설명하자면 주소는 청주 상당구 수암로 36번길20이며 청주에서 유명한 수암골 카페거리에 자리잡고 있습니다. 그 중 가 ",
+        "description": "안녕하세요:) 즉석 떡볶이 전문점, 페퍼떡볶이입니다. 페퍼떡볶이위치를 설명하자면 주소는 청주 상당구 수암로 36번길20이며 청주에서 유명한 수암골 카페거리에 자리잡고 있습니다. 그 중 가 ",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20230626_217/1687749795194xCXWl_JPEG/IMG_3391%281%29.jpg",
+          "https://ldb-phinf.pstatic.net/20230705_242/1688547790361LQ92u_JPEG/Resized_20230522_121124.jpg",
+          "https://ldb-phinf.pstatic.net/20230705_53/1688547731578msTny_JPEG/EB94FFFB-2637-4787-98DA-7F01CE83A814.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220187",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 8,
+        "id": "1509041940",
+        "name": "그랜드마더",
+        "x": "127.4949743",
+        "y": "36.6456645",
+        "distance": 0.246,
+        "categoryName": "조개요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220076",
+            "220801",
+            "221674"
+          ]
+        ],
+        "category": [
+          "한식",
+          "조개요리"
+        ],
+        "reviewCount": 284,
+        "averagePrice": 41000,
+        "address": "충청북도 청주시 상당구 수동 81-331 5층",
+        "roadAddress": "충청북도 청주시 상당구 수암로36번길 6",
+        "abbrAddress": "수동 81-331 5층",
+        "shortAddress": [
+          "충북 청주시 상당구",
+          "수암로36번길 6"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "저희 그랜드마더는 항상 신선한 재료만 사용하며 생물(살아잇는것만 취급합니다) . 조금이라도 상품이 변질되면 100% 폐기처분합니다. 또한 저희만의 방식으로 모듬조개찜을 조리하여 그어디에",
+        "description": "저희 그랜드마더는 항상 신선한 재료만 사용하며 생물(살아잇는것만 취급합니다) . 조금이라도 상품이 변질되면 100% 폐기처분합니다. 또한 저희만의 방식으로 모듬조개찜을 조리하여 그어디에",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20210517_103/1621241779550RftSq_JPEG/XD7_Rzso9oDfOwu2LEbFUzpP.jpg",
+          "https://ldb-phinf.pstatic.net/20210530_135/1622384659741bRhVU_JPEG/TtpWEdkleKxribcnR5_jPgVj.jpg",
+          "https://ldb-phinf.pstatic.net/20210517_63/1621241824677AHKn9_JPEG/aqrhscihVcB6X_DVU6neBPHG.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221674",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

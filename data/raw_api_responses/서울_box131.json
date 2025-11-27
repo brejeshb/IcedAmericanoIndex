@@ -1,0 +1,469 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 5,
+      "count": 5,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.97913657372374,
+          "minY": 37.5628963963964,
+          "maxX": 126.98027314744748,
+          "maxY": 37.5637972972973
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.9797048605856;37.56334684684685",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1269954383",
+        "name": "어쩌다농부 팬트리 소공점",
+        "x": "126.980118",
+        "y": "37.5635658",
+        "distance": 0.044,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 58,
+        "averagePrice": 5000,
+        "address": "서울특별시 중구 소공동 79-2 1층 어쩌다농부 팬트리 소공점",
+        "roadAddress": "서울특별시 중구 소공로 96",
+        "abbrAddress": "소공동 79-2 1층 어쩌다농부 팬트리 소공점",
+        "shortAddress": [
+          "서울 중구",
+          "소공로 96"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [
+          "오트라떼의 고소한 여유 한 잔"
+        ],
+        "cardDescription": "오트라떼의 고소한 여유 한 잔",
+        "description": "어쩌다농부 Pantry는 Farm to Table 철학을 바탕으로 건강하고 맛있는 음식을 제공하는 카페 공간입니다.  또한, OopsGrab(RTE) 서비스를 통해 바쁜 일상 속에서도 간편하면서도 균형 잡힌 식사를 즐길  ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTNfMTk2/MDAxNzU3NzUxMTYyMjI3.4UaWl06Z_mRLrzxiHbcpceBnTXlqvc8d_Wx94RRFDMgg.ftsPrKqUHa_SpC9afxBy4FISq8h1L3aG3MagU-W7FNEg.JPEG/20250905_145056.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MzBfNDUg/MDAxNzU5MjMyMzc3MTYw.JBMLzmeWRWD0PSjA72JjbyXIKVvyWK2CkLujJHnbdpIg.HjQbubtjMtRkQc3T9EJuWKWNs9IEcUnU2sYCXDa5Gj0g.JPEG/20250919_161018.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250124_102/1737705882024izJqT_JPEG/KakaoTalk_Photo_2025-01-24-17-03-19.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTAzMjdfMTM2/MDAxNzQzMDU5NTkxODkz.aus0-EG5mc5zqw1qSF2ER5VBdE59sIF_-sI4uXpONdAg.q6LnT2hNTfOoFWWkJE0TiL_9rQ4IP-c7G6RD83qBZ5Ag.JPEG/E1835221-F907-4415-8C35-9472AF132512.jpeg",
+          "https://ldb-phinf.pstatic.net/20250222_144/17402053431977P5im_JPEG/KakaoTalk_Photo_2025-02-22-12-33-45_001.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjNfMTQ0/MDAxNzUzMjUxMjgxMDIw.X1RvNEeE3dik9IdhF0wLP3uZRL-JcW6oJUhvEO4fIs0g.E6663D_IFmk6-hyL8Q1lRdSBd9589aUWmszvTQhAWaEg.JPEG/20250723_141330.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250222_295/1740205351478prfCU_JPEG/KakaoTalk_Photo_2025-02-22-12-33-45_004.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTAzMjhfMTAx/MDAxNzQzMTU2NTkxODc2.OcIDrUHU3AYbbt_w76KGx1tzz9mULuIQBSuUDAaMc_og.t0hdnKpEo95WK-vfHLxqNhfrpeJs9auJ0iLbJBBgK4Yg.JPEG/5493D2F0-7776-4AF0-ACB7-F4CEFF883496.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTJfOCAg/MDAxNzU3NjM5Mzg2ODcw.kvWnCMIzsqToPNORf4LAy2ECLx2BgWudwDcbs58d64Ug.2ZuMNNNiDaDbQ6mjxPKQT_SSoGWWYRsUN-XD--_RUfIg.JPEG/2C3D3527-C76B-489A-988E-3A7B95537571.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjdfNDUg/MDAxNzQ4MzI5NDEyNDYx.LVah3YIx6C_cXC3rYkI8AFEfQmf_z3GATNgCyFikSYIg.Bp19ZUnqO9yvs7xLxRaYYryhV3csNhzTOCj8uxOsMUAg.JPEG/FA740461-5DD3-4E83-B4D4-545EFD51F5DF.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "1782436531",
+        "name": "오뗄두스 소공점",
+        "x": "126.9799127",
+        "y": "37.5636656",
+        "distance": 0.04,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 910,
+        "averagePrice": 8000,
+        "address": "서울특별시 중구 소공동 85-2 1층, 2층",
+        "roadAddress": "서울특별시 중구 소공로 98",
+        "abbrAddress": "소공동 85-2 1층, 2층",
+        "shortAddress": [
+          "서울 중구",
+          "소공로 98"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [
+          "진한 풍미의 소프트 아이스크림 추천"
+        ],
+        "cardDescription": "진한 풍미의 소프트 아이스크림 추천",
+        "description": "동경제과 출신으로 프랑스에서도 인정받은 셰프가 운영하는 디저트 카페 입니다. 오뗄두스는 프랑스어로 달콤한 호텔이라는 뜻이랍니다. 이 곳의 디저트들은 셰프만의 개성있는 맛과 단순한  ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjZfMTQ5/MDAxNzYxNDc5MDI2MDQ2.5fkTvekgjSry--M8St3xc9_OGtxM4u9bpxnQmVCh2iAg.pbVIPfKWwP_EK3a-BsCQxNrPzQlyYhQgpWOQpNWGwpYg.JPEG/20251024_090606.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjNfMjg1/MDAxNzUzMjUxNzIxODM3.FRoJRCdtmXPD4TmU1A9hQ_-J18leSSR9xXQYcCOxpYEg.sQz3QMWh77EMYPJFOmawScvq9EWJTL8FKJ2fsf87pzwg.JPEG/20250716_144123.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20201110_293/1604995547426IJOga_JPEG/JFYcyg7W1C-KrS-N33O77Qpd.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTNfMTA5/MDAxNzU3NzQxMzg3Mjkx.KnjPXOcxOoT-EqvU2g1R-bBRgQKrnwyFOEj4pR5RIgog.vUdq2mUvCBIi0_Nos5g80HWiokOLCQMETjcI4zkXKW0g.JPEG/20250913_142820.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20201110_96/1604999088677lNN2e_JPEG/p0aoE8oNmmXH-bbsm49QbqjO.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjhfMjIx/MDAxNzQ1ODI1NDMxMTg0.7MnHM5KvjtHLZb3130dpKDyDjEtwflR1lwB8NXbUqEIg.bjLh8hGDFgUw1-wTVuqAUyvLYfexEU8ei_ihzXlz43Eg.JPEG/FF4C7A61-5C3D-4DE0-85E6-69C895EB39D3.jpeg",
+          "https://ldb-phinf.pstatic.net/20201110_232/16049991012871esre_JPEG/y6p9CeYjnYzQHsCLMeMyuTHB.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjlfNjYg/MDAxNzUxMTY4Mzc5NzA3.WXjW45y1jsHww-UX2sW9q2Wp-OFdp7zYa4Eud_RzMXEg.B6V4EO0D68sUSUm_QjVSxfH5o8MKdBG_ORYZNMJf3dIg.JPEG/1000024828.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjRfNSAg/MDAxNzU4NzEwODMzODA1.tg47PQUZzVHADIlooT7OXZ9yzGuiVs92nAUAUxJcsfUg.RLkoYhUzH3ACZI5gklBw_80GmEXcwwmbKsYuR9h9olwg.JPEG/20250906_104851.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTRfMzAw/MDAxNzQ3MjMyOTAyMzMx.oYHy6e4cFaeJDVVDL5TYFRUkLRLmpgp4NwfbGqfF2fMg.KzllDIc-J9E_QFBW03n-gkRXjvBM4hri6ZNtk-pCudgg.JPEG/EB7B9186-099B-4DD0-9B9E-04A375D15309.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1782436531",
+            "bodySummary": "레터링 케이크도 베이글도 최고, 케이크 숲 주소: 서울특별시 중구 소공로 98 1,2층 영업시간: 매일 8:00~20:00 간판을 보고 이걸 어떻게 읽어야 하나..고민하게 만드는 ",
+            "url": "https://m.blog.naver.com/dduuuii/223385065140",
+            "nick": "뜌뜌",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMDdfMjU5/MDAxNzA5ODA0OTk1NjE1.D266QL4TFuhMnROVOADJLTMTR7V3KRYdsLXz-IqQd8Ag.1SCQhsjFVN-cC22DXXH-B_b_pCAVRdJq9aayZStlZUsg.JPEG/profileImage.jpg"
+          },
+          {
+            "sid": "1782436531",
+            "bodySummary": "오뗄두스 소공점 명동 소공동 베이커리 카페 영업시간 8:00-20:00 시청역 7번 출구 웨스틴조선호텔 인근 서울로 여행가면 좋은 점 아침 일찍부터 문여는 빵집이 많아서 굳이 호텔",
+            "url": "https://m.blog.naver.com/girl6820/223343817323",
+            "nick": "대충살자",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEwMjZfNTUg/MDAxNjk4MzI3OTU0MzMz.bU5IPrdYZt7rjFWgY8uHaNMUYREX74fXeCwscqvx8Esg.K5uRegeMkR6xlu3S7sN00TRgZj0S_3uCL17zVr9AVbkg.PNG.girl6820/profileImage.png"
+          },
+          {
+            "sid": "1782436531",
+            "bodySummary": "오뗄두스 소공점 주소 서울 중구 소공로 98 1층, 2층 전화번호 02-3789-5706 영업시간 매일 08:00 - 20:00 '오뗄두스 소공점'은 사진에서 보다시피 건물 외관의",
+            "url": "https://m.blog.naver.com/mjkimtm/223334376240",
+            "nick": "비타밍디",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMDRfNCAg/MDAxNjk5MDYzNTYyMDYx.tca_XByDTEpSKYO_hyBTN-cfO2keHvx2YuKcgQBg1mog.Ud4boHRVuYmxI-Dgwot65CDYF8W5SKI8x9w10X12970g.PNG.mjkimtm/profileImage.png"
+          },
+          {
+            "sid": "1782436531",
+            "bodySummary": "오늘은 빵 먹는 날 아침에 오픈하자마자 갔더니 아직 빵이 많이 채워지진 않았다. 샌드위치 잼/발사믹/올리브오일 휘낭시에 피스타치오 다쿠아즈 믹스베리 다쿠아즈 헤이즐넛 프랄리네 다쿠",
+            "url": "https://m.blog.naver.com/io_posso/223324962447",
+            "nick": "wlhyun",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA3MThfMzkg/MDAxNjU4MTI0OTU4NzI3.zU30ef4yW2VziZy73HD4F0jjY5fVbN4szUEV5kR-uHUg.XAM1A3G7OTtUapqw7PIK4KA_0oaYRlemcglnXTJAvS8g.PNG.io_posso/profileImage.png"
+          },
+          {
+            "sid": "1782436531",
+            "bodySummary": "오뗄두스 소공점 서울 중구 소공로 98 1층, 2층 오뗄두스 영업시간 08:00 ~ 20:00 연중무휴 오늘은 디저트 맛집으로 유명한 오뗄두스 소공점을 방문했어요 프랑스에서 인정받",
+            "url": "https://m.blog.naver.com/hr5580/223304534806",
+            "nick": "룰루",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMjVfMTgw/MDAxNzExMjk5NTUzMDcz.uFRKYE7rRaQfFZ7gXiveduCiVj2bP98lrr8qIH5-JlQg.tnvXGAAdbcTMY80xW5NUQbjAKWB73DVAJymfSN8KuJIg.JPEG/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "id": "1739991836",
+        "name": "오복우육면",
+        "x": "126.9799088",
+        "y": "37.5637426",
+        "distance": 0.048,
+        "categoryName": "중식당",
+        "categoryPath": [
+          [
+            "220036",
+            "220039",
+            "220091",
+            "220861"
+          ]
+        ],
+        "category": [
+          "중식",
+          "중식당"
+        ],
+        "reviewCount": 256,
+        "averagePrice": 10000,
+        "address": "서울특별시 중구 소공동 86-7",
+        "roadAddress": "서울특별시 중구 소공로 100",
+        "abbrAddress": "소공동 86-7",
+        "shortAddress": [
+          "서울 중구",
+          "소공로 100"
+        ],
+        "displayContext": [],
+        "labelTheme": "혼밥추천",
+        "microReviews": [
+          "현지 맛 그대로 대만식 우육면의 매력"
+        ],
+        "cardDescription": "현지 맛 그대로 대만식 우육면의 매력",
+        "description": "안녕하세요  중국전통맛보여드리겠습니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDlfMjc1/MDAxNzQ2Nzc4MDE0MDk5.AAbbxxMbjzZ6VtRyWL7RfY45KDklglRqKu8TTk1IRbAg.W-Ducn_XPvr69WDkfhm4KK5CpGVO1vvCiwsoVMW7CPsg.JPEG/4215902F-CD02-4068-B98A-C51462F94E7D.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTFfMjQz/MDAxNzUyMjA1MDExNTY3.dXxXIzAHc9suWDAVcHFNLIFlNUVXwqnROfhT43x_K7Qg.v882D7uioB9NxmbUlhM63Sw8b0trbJoZiP1F9p9iyaYg.JPEG/178CDC2E-FB7D-4075-A3D2-8AAB9C0B9EE5.jpeg",
+          "https://ldb-phinf.pstatic.net/20220628_250/1656420886066wicTn_JPEG/EAC03A08-5738-4DA9-930E-73EF51FC9AED.jpeg",
+          "https://ldb-phinf.pstatic.net/20220628_239/1656420848812aiGeF_JPEG/C8C38513-F45E-4393-B95E-CD232200C071.jpeg",
+          "https://ldb-phinf.pstatic.net/20220628_216/1656420848475oQAqs_JPEG/E4EE96D2-C157-42FA-B524-D93EB394AEAC.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220861",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "1739991836",
+            "bodySummary": "웨스틴 조선 호텔 앞에서 길을 건너려면 이마트 24를 끼고 돌아가야 건널 수 있다. 매번 횡단보도가 이상한 곳에 있다고 생각했다. 그런데 그 횡단보도 바로 뒤, 건물 사이에 조그맣",
+            "url": "https://m.blog.naver.com/wendolin/223287024532",
+            "nick": "김변리사의별별일기",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA5MjdfMTc3/MDAxNjk1ODA4Mzc5NDA1.H2YhsM82uNjYmA4mwwFCJwlRQXEsaRscVQVD8DPMhPsg.h768gRZRI9Ee_9XjXAWY49HiU4PsG3KNGvbFSISfE8Yg.JPEG.wendolin/profileImage.jpg"
+          },
+          {
+            "sid": "1739991836",
+            "bodySummary": "체인점 아닙니다. 키오스크로 주문합니다. 메뉴 홍싸오*우육면 우육면 마라우육면 중화냉면 마장비빔면 홍싸오우육 덮밥 어향육슬 덮밥 세우 소세지 볶음밥 왕만두 만두구이 오향계란 *홍싸",
+            "url": "https://m.blog.naver.com/maatmaat/223213295120",
+            "nick": "맛맛",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMjJfNDUg/MDAxNzExMDcyNzM1NDI5.3ce-N_dMK72h066ykc5etHaggxJFYpABmci-7sq4_Rog.ZWHUxqToOqbwFbKOlbx3AhvPIkYTdBzdHnLjrOrjl-wg.PNG/new_maatmaat.png/new_maatmaat.png"
+          },
+          {
+            "sid": "1739991836",
+            "bodySummary": "우육면은 우육면 맑은 탕, 마라우육면, 홍싸오우육면 등 세 가지 맛으로 맛볼 수 있고, 우육면 외에 중화냉면, 마쟝비빔면, 그리고 홍싸오우육덮밥 등의 식사 메뉴가 있습니다. 그리고",
+            "url": "https://m.blog.naver.com/gush99/223212692211",
+            "nick": "뚱땡보아빠",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDA5MDRfMjE4/MDAxNTk5MjE2MDU1NDU4.fn_OvMVizgTMRaP2doHGfLJTmgshyiNPFHS5_L_X3MEg.P0Ka5RdOA1pWUJxTWZkG0vYwC9XLNluYrpuBqpDPYDgg.JPEG.gush99/profileImage.jpg"
+          },
+          {
+            "sid": "1739991836",
+            "bodySummary": "안녕하세요 플디입니다. 다들 우육면 좋아하시나요? 저는 워낙 가리는 게 없어서 향신료맛 강한 것도 잘 먹곤 하거든요 시청역에 위치한 오복우육면이라는 우육면집인데 요기 진짜 중국현지",
+            "url": "https://m.blog.naver.com/flowerdeer-/223111232573",
+            "nick": "플디",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA1MjRfNDMg/MDAxNjg0OTA1NzI5MDY4.Q-UEWf4NjQjvJpEt966nDyQWaAK8OeiMV2BE0bSWv4gg.CR8BwcanaZYSESP2xMi-7-oByW7P5WcVQqAHWDMpZp4g.JPEG.kimhyunah3/profileImage.jpg"
+          },
+          {
+            "sid": "1739991836",
+            "bodySummary": "오복 우육면 서울 중구 소공로 100 월-토 11:00~19:00 일 정기휴무 지인과 얼마 전에 일산에서 우육면을 먹었어요. 제 인생에서 두 번째 우육면이었죠. 너무 맛있는 거예요",
+            "url": "https://m.blog.naver.com/lyjnara/223075467868",
+            "nick": "Raina",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA1MzFfNzAg/MDAxNjg1NDU5MzE5MTc4.uhMXIlrQecYQz5l1wuWBPGIdLxtTzQG8DTke4GppU7Qg.3EierWoJ5VkLP8TFWdK3s3CDD6A3eMwDcy17UnDHniog.PNG.lyjnara/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "id": "1293619560",
+        "name": "천향원 명동점",
+        "x": "126.9800515",
+        "y": "37.5637808",
+        "distance": 0.057,
+        "categoryName": "중식당",
+        "categoryPath": [
+          [
+            "220036",
+            "220039",
+            "220091",
+            "220861"
+          ]
+        ],
+        "category": [
+          "중식",
+          "중식당"
+        ],
+        "reviewCount": 4027,
+        "averagePrice": 30000,
+        "address": "서울특별시 중구 소공동 81 소공빌딩 2층 천향원",
+        "roadAddress": "서울특별시 중구 남대문로7길 33",
+        "abbrAddress": "소공동 81 소공빌딩 2층 천향원",
+        "shortAddress": [
+          "서울 중구",
+          "남대문로7길 33"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [
+          "다양한 토핑으로 완성하는 나만의 훠궈"
+        ],
+        "cardDescription": "다양한 토핑으로 완성하는 나만의 훠궈",
+        "description": "안녕하세요, 무한리필 훠궈 (샤브샤브)를 판매하고 있는 천향원입니다. 취향에 따라 맛을 조절 하실 수 있으며, 편안하게 식사하고 가실 수 있는 음식점이니, 부담없이 방문하여 주세요.    1. 테",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDhfMjAg/MDAxNzU0NjUwNDI0Nzc2.k2wOGRZVnklxgurOXCwCKq_BZHzn1qLJ4qAJFSR48A4g.nXo4Mxvt4lHAXyZa4AdnF1g-UIbJLZ0A4O-ZGeTT7PAg.JPEG/6B3980C9-8162-4394-B949-6E5B3ADC1F71.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjZfMTUg/MDAxNzUzNTE3NzQwMjMx.t4xxw1QqEAomonRYb1OgS0nj8gfpS0164Wwz5CSP7EYg.AkhQuBWvYhcUiaB4ywGGXS4sjoNB44rwWgfc-yFnuH4g.JPEG/022F6D68-8909-4E31-8981-227991134A52.jpeg",
+          "https://ldb-phinf.pstatic.net/20250509_300/1746781353811EWroG_JPEG/2.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTBfMjc3/MDAxNzU0Nzk0ODQ4NTk4.mRXAOpRKb5elcINbZVb0oa2SNy9_k1_Ik1cAU5Ph8sgg._t8hJM6YKElpi4QnpNgVLwwW3Awxyg-w9fGBwjbYTgog.JPEG/A78F2487-263C-49A9-BDFF-09E8159F1C2D.jpeg",
+          "https://naverbooking-phinf.pstatic.net/20250718_198/1752823304423SzX26_PNG/image.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MzFfMzcg/MDAxNzU2NjQxMzMxNjc2.8T0LSaTE7UHVtbz2a5tzkmTdW_Kn4EuIIplnfNj6YCIg.d7BytHU_QYRNAZVfJjnYJOcdsWNg63ca_ccpaqOYHlIg.JPEG/8F6B723E-D1E0-4293-A890-A08C1CEEAD8E.jpeg",
+          "https://ldb-phinf.pstatic.net/20250509_79/1746781350006wK7ko_JPEG/1.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDlfMTkz/MDAxNzU0NzE0NzUxOTI4.g8HBcyqWo2yagj5HAhHk7NkfMA-pHzbEtjc5j1PX0WIg.SGiJFFJqcHGUyK5U4cyGrk-5lHvzE5NhIJCDjUwQBDMg.JPEG/053110D0-235E-4A17-AC9B-63104B31289C.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTRfMjg4/MDAxNzU3ODQxMzA3OTM3.QpLN3PxyZtmVKgAqbAcm1fw5wQXijiNid_SPuQGSz2Ig.d4om-YHQrS_WvA3JWJVM2CuhhrUJt1tp86IBBuPp2GEg.JPEG/1000023147.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjZfMjc1/MDAxNzU4ODU0ODkxOTIx.Tj_qPRMKlKASlLVOO5abk0Apf-PgESV4hUcfvmV8h4og.ZY1TKciFdf_QZZsJQcOGF7s_3dyaYqgWIMybYAQGPWwg.JPEG/B962168F-4E8C-4DD9-A4C0-0054265F7C24.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220861",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.59",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "1293619560",
+            "bodySummary": "천향원 서울 중구 남대문로7길 33 소공빌딩 2층 매일 11:30~22:00 네이버플레이스 예전에 대만에서 처음 훠궈를 먹어본 이후로 서울에서도 훠궈 맛집들을 하나씩 찾아나가는 중",
+            "url": "https://m.blog.naver.com/tasty_days/223393572890",
+            "nick": "일상콜렉터",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAxMzFfNjgg/MDAxNjc1MTczNDEwOTU1.2ayfHDj9fsQVKuQ5IScVziFqOyScaL8Yg0z3feKSQaEg.3aXSBQrxAFhiwZbCJY4PTrI0eNsHvLihyf_SBWa8W5Ig.PNG.tasty_days/profileImage.png"
+          },
+          {
+            "sid": "1293619560",
+            "bodySummary": "먹짱 친구들과 함께 훠궈 먹으러 왔습니다. 훠궈 무한리필을 먹고 싶었는데 단순히 훠궈만 있는 것이 아니라 무언가 다른 식사 메뉴도 있으면 좋겠다는 친구의 말로 선택된 곳은 천향원!",
+            "url": "https://m.blog.naver.com/cumulusb/223388686197",
+            "nick": "소운",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA4MTVfMTQg/MDAxNjYwNDkwMTc0MTEx.GWM093cNf0bDHkKEz7Up6HfUoDefq03WxHkomQ4F5r0g.wSKn2Hvt2c90DCNHfy8o0eMfEc4XKiD99iYfI4i2LWog.PNG.yunw98/profileImage.png"
+          },
+          {
+            "sid": "1293619560",
+            "bodySummary": "#무한리필훠궈 #을지로맛집 #명동맛집 #천향원 명동에 이런 훠궈 맛집이 있다니, 아셨나요? 심지어 무한리필! 혈중 마라농도가 떨어지는 날은 훠궈를 먹으러 가야쥬. 그럴 땐, 명동에",
+            "url": "https://m.blog.naver.com/skwskw1120/223386332027",
+            "nick": "Robin seo",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAyMjVfMTAg/MDAxNzA4ODM4OTMzOTE4.w0MmiE0q_DDdE31REZgR3rK9zQPdqejAqDylBKQ3Uzgg.FJZM1JFhFBxU6XeclBqz4O7pRz4AW1FxAnp-_6nn5QMg.PNG/profileImage.png"
+          },
+          {
+            "sid": "1293619560",
+            "bodySummary": "그럴 때마다 마음껏 먹어도 가격 그대로인 무한 리필 집을 찾았는데요. 서울역에서 찾는 건 쉽지 않은데요. 거기에 추가적으로 너무 맛있는 집이어서 추천해 드리고 자 합니다. 물론 서",
+            "url": "https://m.blog.naver.com/it-stargazer/223379415776",
+            "nick": "IT몽상가",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEwMDdfNjEg/MDAxNjk2NjkwNzYwMzc3.XGZg38Px3tdmvW82_ICVrDkjBSJCtQZzh0oryEJef28g.WrfMwRQ0U-g15NL_PK9HuIxmLS8DcyDvWEHG5WcRvnwg.JPEG.it-stargazer/IT%25EB%25AA%25BD%25EC%2583%2581%25EA%25B0%2580%2528%25EC%2584%25B8%25EB%25A1%259C%2529-%25EC%2595%2584%25EC%259D%25B4%25EC%25BD%2598%25ED%2581%25AC%25EA%25B2%258C.jpg/IT%25EB%25AA%25BD%25EC%2583%2581%25EA%25B0%2580%2528%25EC%2584%25B8%25EB%25A1%259C%2529-%25EC%2595%2584%25EC%259D%25B4%25EC%25BD%2598%25ED%2581%25AC%25EA%25B2%258C.jpg"
+          },
+          {
+            "sid": "1293619560",
+            "bodySummary": "#명동맛집 #명동훠궈 #명동천향원 #천향원웨이팅 #명동훠궈맛집 #서울훠궈맛집 오늘 포스팅할 곳은 명동 훠궈맛집 천향원 갑자기 용산에 있다가 훠궈가 끌려서 검색하다가 용산에는 괜찮은",
+            "url": "https://m.blog.naver.com/ssong9394/223378407397",
+            "nick": "코기",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEwMTdfMjk4/MDAxNjk3NTUwNzE4NTYw.NBN0IHcKKPBLyd1q-Sp4pOBW5j4gMX-6EZ4rq9IeWw0g.EV7LmabI0dquhYGsmJ2Vg6OKr7GCB7Ayzp-fmMGVwRYg.PNG.ssong9394/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "id": "1379531000",
+        "name": "정코퍼레이션",
+        "x": "126.9798908",
+        "y": "37.5636646",
+        "distance": 0.039,
+        "categoryName": "베이커리",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220564",
+            "221161"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "베이커리"
+        ],
+        "reviewCount": 8,
+        "averagePrice": 0,
+        "address": "서울특별시 중구 소공동 85-2",
+        "roadAddress": "서울특별시 중구 소공로 98",
+        "abbrAddress": "소공동 85-2",
+        "shortAddress": [
+          "서울 중구",
+          "소공로 98"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 소공동 85-2",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221161",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

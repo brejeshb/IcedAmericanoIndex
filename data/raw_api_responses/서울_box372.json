@@ -1,0 +1,252 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 3,
+      "count": 3,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.98027314744748,
+          "minY": 37.57370720720721,
+          "maxX": 126.98140972117122,
+          "maxY": 37.57460810810811
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.98084143430935;37.57415765765766",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1371407342",
+        "name": "라뜰리에 본점",
+        "x": "126.981028",
+        "y": "37.5745267",
+        "distance": 0.044,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 267,
+        "averagePrice": 0,
+        "address": "서울특별시 종로구 수송동 83-1",
+        "roadAddress": "서울특별시 종로구 율곡로2길 19",
+        "abbrAddress": "수송동 83-1",
+        "shortAddress": [
+          "서울 종로구",
+          "율곡로2길 19"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 종로구 수송동 83-1",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjVfOTcg/MDAxNzU2MTA4MDAzNDAw.Gf2X3bk5zZNnCAqOWLGoiORPPUGewiZw79CG7yDvCckg.Co5LDjsqJzsecjniDlzWGziqPXXOX8BsbA5YeRC-p3gg.JPEG/20250723_123358.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDlfMTQg/MDAxNzU3NDI3NTg0MzMz.c9yTz0mc1mG3CfC77BGuF48HDX3KRcH8s7ccS7uq3bQg.jsPKuV2HramRHsjn-jL-BJuznBjJdAH5nWS0WChMe2cg.JPEG/20250710_084928.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDVfODgg/MDAxNzU0MzY2NTI2ODUz.uCrhSfqJoJwhu6uxr71Dnlv6TqonxsEQ5kqGclHnco8g.4ZM0CKOYjzJA_ToZIQfIe5nZWe-cNGzS1OqEAUHugZUg.JPEG/20250710_084928.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTRfMTIy/MDAxNzUyNDgzOTE0NTc2.-5rcKnZIO_0o9b3hwv-V76JnORXBljpGONLNWBSJl2Yg.xgf84pdARLiVrUHKCr8NoB7Yf6ZtBvyCk5esyvfgD5Ug.JPEG/20250710_084928.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDVfMTQ1/MDAxNzU5NjM5MTA1MjIw.xfWjXEZKJ2S_joyXOUWUJvkeFT3qAWJw04LP-mitP9cg.McXaeJwQQdMpUOKrZHgl6y8Lh1WnTi7yXX8BobY8TqMg.JPEG/20250703_104019.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTFfMjIg/MDAxNzQ2OTY5ODk5NjA1.W2Qw1Xm3YBS7ZnlHkGUEWYcBSK_iy3Jb-RPBsVercsEg.CWUGpIbkyM8eKNHB_HaDpL78pjJRrL4L2gKEj5zFnC0g.JPEG/20250328_130208.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDVfMTY0/MDAxNzQ5MDg3MDYxNjg4.Cb3gZkHhp691FVlKteugsoKyZWbIpfsqCFtvf2XemFQg.zeImiYH1lUov0D88JEoBSMC5qcUolyCSaRi8ca3ALoAg.JPEG/20250605_083146.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjRfMTA2/MDAxNzUwNzI4MTIzNjU0.nofslj7JxH0GYdsQ-OgHjvFV5IJVyJpR_TVPh2xgmEog.0AI4Amz2ZlDsTdbCSvGMcYyrHPrufd8gCQKyoImyb6Yg.JPEG/20250605_083146.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDJfNDEg/MDAxNzUxNDM3MjgxOTky.CHv94WYx_pFrNyG7db3ROcjmF6tV9xKdCSSeZABu1Wsg.mfm2xtjWCKEyZ4UdfFpUo2zCH71h-s0DcpkqI-IZKEwg.JPEG/20250702_152038.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTBfMTI2/MDAxNzUyMTA2MzU2MTE5.e-kBl1kaY3flMDE2KUVcEfBf2bl6FGiSpD5FFfTiyFEg.ST42aNzf6VLksNoDO6VTTBIr9WnQn2JX1bzv4c5xG7Ag.JPEG/20250710_090739.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "11857337",
+        "name": "김명자굴국밥 청진점",
+        "x": "126.9806068",
+        "y": "37.5738119",
+        "distance": 0.044,
+        "categoryName": "굴요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220076",
+            "220795",
+            "221651"
+          ]
+        ],
+        "category": [
+          "한식",
+          "굴요리"
+        ],
+        "reviewCount": 538,
+        "averagePrice": 14000,
+        "address": "서울특별시 종로구 수송동 91 목은관빌딩 지하 1층",
+        "roadAddress": "서울특별시 종로구 종로5길 76",
+        "abbrAddress": "수송동 91 목은관빌딩 지하 1층",
+        "shortAddress": [
+          "서울 종로구",
+          "종로5길 76"
+        ],
+        "displayContext": [
+          "굴국밥",
+          "보쌈",
+          "덮밥"
+        ],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "서울특별시 종로구 수송동 91 목은관빌딩 지하 1층",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDFfMjMg/MDAxNzQ4NzY2NDQyNzgx.YDQ3Hx3njF5o_hZkUcV3SzrUoxa2qzDCGu_O1IMPSvEg.cg1yEtilGu19y6y_HmLbAT0rNJUU-KtUenLlhkqUvvAg.JPEG/20250519_122247.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTRfMzAg/MDAxNzU1MTY0Nzc4OTQ5.R0n42Zqd_2IPx2Qrr_EkDvJwKZruSu0nBTFhOb6pk70g.5OMCJReSkiixQ2BouxQV6chwxmB9g9u0klyIxTGAwi8g.JPEG/91182A2F-EA9A-4D8B-BF84-4EE6196D88A7.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjRfMyAg/MDAxNzUwNzUzNDU1MDAx.ylXFGVBV2ia0rtrqTGRjVfFMwUrjbyTPuA7toxntjsYg.xS066IJw0dtmiz27zYWkqA5LlgFlMm8cLhKijBOocVAg.JPEG/Screenshot_20250624_172039_KakaoTalk.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221651",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "11857337",
+            "bodySummary": "어메이징 오트 초콜릿 요즘 내 최애 초코음료 어메이징 오트 초콜릿! 그렇게 밥 많이 먹었는데도 잘 들어가더라 엄마표 닭볶음탕 & 엄마표 된장찌개 & 밥 점심 많이 먹어서 운동가기 ",
+            "url": "https://m.blog.naver.com/judy9158/223326838541",
+            "nick": "ganjining",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjEyMzBfMTAw/MDAxNjcyMzg2ODk0MTM1.n-wKG_xmxFa_GKVV41Ocsccp9f45CaydQF7RDqM221Eg.asRgknMmp4Nd3BnRk7psibh3pqbb96zMjgxwqnpc-UYg.JPEG.judy9158/profileImage.jpg"
+          },
+          {
+            "sid": "11857337",
+            "bodySummary": "가격에 비해 양도 많아서 가성비 넘친다. 노릇노릇한 튀김이 고루 잘 튀겨졌고 따뜻함 유지가오래 되던 종로구청 맛집 김명자굴국밥이다. 간장 소스도 요로코롬 나와주구~ 와 ,, 이거 ",
+            "url": "https://m.blog.naver.com/rlaalrud24/223311490647",
+            "nick": "싸미",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAzMjlfOTIg/MDAxNjQ4NTE3MDQ4NTc4.HisJxZncir1cOznjT9uvf_slZVRprt9EDAFLwoSVx28g.Vdxrx2RMu44Sf1iNtS1LHeSGBw16aWdzFwRibe9qgLAg.PNG.rlaalrud24/profileImage.png"
+          },
+          {
+            "sid": "11857337",
+            "bodySummary": "와서 맨날 굴국밥만 먹긴하지만 날이 추워지고 굴 먹기 딱 좋은 철이라 그런가 생굴이랑 굴보쌈도 먹고 싶다 ㅠ 다음에 먹게 된다면 글에 추가하는걸로!! 굴국밥 처음 먹던 날 전 날 ",
+            "url": "https://m.blog.naver.com/dbqls3983/223278583514",
+            "nick": "윱",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMDVfNDAg/MDAxNjk5MTc4NjM3MTcx.jIk1rzndORFQGGZ93qJC2JHEzcheaLtYQMB49_M9FJwg.qOrC7N_gFT99lP7nM3DQHHY4XtIJfxO19KTJ8rh0n3Ag.PNG.dbqls3983/profileImage.png"
+          },
+          {
+            "sid": "11857337",
+            "bodySummary": "안녕하세요 오늘 포스팅은 여기저기 지점이 많은 김명자굴국밥 청진점이에요 모처럼 점심 데이트를 하면서 무엇을 먹을까 하다가 밥종류가 먹고 싶다는 의 말에 평소 가 아주 좋아라 하는 ",
+            "url": "https://m.blog.naver.com/adaram22/223216058391",
+            "nick": "adaram",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA0MDdfODkg/MDAxNjgwODc2NDkwODIy.x1buoF--Q9GHCRwRI7j7vu8KPkMoEYejPUvA6n9L_XMg.1jEg_e2hOG9UKr57biSfclA5xDIBPiqcSGfCigwqPOgg.PNG.prym4504/profileImage.png"
+          },
+          {
+            "sid": "11857337",
+            "bodySummary": "종로구 굴국밥집 김명자굴국밥 청진점에 다녀왔다. 여기 항상 웨이팅이 있어서 웨이팅이 있으면 다른 곳에 가려고 다른 곳도 생각하고 있었는데 11시 35분쯤 도착하니 자리가 남아있어서",
+            "url": "https://m.blog.naver.com/spmgreen/223210492395",
+            "nick": "오리너구리",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMTVfOTAg/MDAxNzA1MjgzMDcwMzA4.YJCKzcSFgxikoa49LqA4r7M-kQvFzylOsISQ1C2sSsMg.6d2lUvMqqfWRs2H3Trzzomb5VD28vb_y6F1Cexth8H0g.PNG.spmgreen/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "id": "1436636488",
+        "name": "연합미디어센터 구내식당",
+        "x": "126.9804414",
+        "y": "37.5744473",
+        "distance": 0.048,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 169,
+        "averagePrice": 0,
+        "address": "서울특별시 종로구 수송동 110",
+        "roadAddress": "서울특별시 종로구 율곡로2길 25",
+        "abbrAddress": "수송동 110",
+        "shortAddress": [
+          "서울 종로구",
+          "율곡로2길 25"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [],
+        "cardDescription": "서울특별시 종로구 수송동 110",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

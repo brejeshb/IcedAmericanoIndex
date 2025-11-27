@@ -1,0 +1,625 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 8,
+      "count": 8,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 127.15252655314659,
+          "minY": 36.805490990991,
+          "maxX": 127.15815310629317,
+          "maxY": 36.8099954954955
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "127.15533982971988;36.80774324324325",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "2046707240",
+        "name": "정성라운지",
+        "x": "127.1569272",
+        "y": "36.8089375",
+        "distance": 0.194,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 23,
+        "averagePrice": 5000,
+        "address": "충청남도 천안시 동남구 원성동 274-26 1층",
+        "roadAddress": "충청남도 천안시 동남구 옛농고1길 36",
+        "abbrAddress": "원성동 274-26 1층",
+        "shortAddress": [
+          "충남 천안시 동남구",
+          "옛농고1길 36"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "카페/베이커리/회의실을 한곳에서, 정성라운지에서 특별한 하루를 경험하세요.",
+        "description": "카페/베이커리/회의실을 한곳에서, 정성라운지에서 특별한 하루를 경험하세요.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjJfNiAg/MDAxNzYxMTI2MDAwMDQ1.lfpXIwYb275MlUoWqWJKD-uU2gpJWFF5VH_WUaag37Eg.ofbpZy7EAelnsZEMGqP1HmnZs1D8iO_kKh858s9ywgUg.JPEG/1000022932.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMTJfODEg/MDAxNzYyOTI4NjExNTk1.nZ6SbFk5xDi3_o5Ddca1VPmbBe5_42rS9sZsDX7q-9Yg.Rs9NeOOJkZTVqK2LyB0vE5y_1l0VQnXpenXJiLg6EPcg.JPEG/F016763E-9B20-443F-84C3-2B4B797C9AE7.jpeg",
+          "https://ldb-phinf.pstatic.net/20251027_216/1761555593979e8Mhd_JPEG/IMG_5948.JPG",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMDJfMjQg/MDAxNzYyMDEzNzYzOTc3.VkXq4GMYy36PxzKMCjOazURO_F1bNV587j7pr3QdOgQg.OFlZHv_cSxNZGEqAmhkfEU3SuI8nGbmeAV0njf06pkkg.JPEG/CB108CEF-1DB8-4C2C-939A-4C682237077E.jpeg",
+          "https://ldb-phinf.pstatic.net/20251025_62/1761381442907VRvdj_JPEG/IMG_6213.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMjJfMjQ1/MDAxNzYzNzgwMDAyNDYy.H8FuEarXv2MwisJTcrvvind4rMD_Mhpjnu1r3v_wSAwg.s9QNlKKyCLYI1N-6iMocrroLcU9krXR3PCDDPUnDiskg.JPEG/20251122_103511.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20251025_102/1761381442900UyOS0_JPEG/IMG_6229.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMTJfMTY5/MDAxNzYyOTI3Mzg2MTMz.r3bpqdBKRryuTM93ga-acxVIQ1X3NK10W6WaPXPOIPYg.BL3uw9th_bD71Gr8m2pX_71zdUvywPtbxvFeSeAoHNgg.JPEG/1000044467.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjVfMjMg/MDAxNzYxMzU5OTY3NzA5.MVRC852WJQCFC-Vt0WAFrczJ6iR24m7bdJA8khvJU3og.XBuI0Ri-HoEvzSQbX-7x8kWmJv5RylvyEdWp4LDPHzcg.JPEG/20251025_113115.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjJfMTgy/MDAxNzYxMTI2NDExNTcz.V_XfDRyU9ipD_Wy8sD4c36HqOnKhU6llJxtCwgH5C6kg.HYoX5ehnKd128OENXutrfGKXwqNonpjhV3kBC1B9EQQg.JPEG/20251022_184633.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "34958353",
+        "name": "베리베리 원성동 본점",
+        "x": "127.1571983",
+        "y": "36.8065166",
+        "distance": 0.215,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 2963,
+        "averagePrice": 5000,
+        "address": "충청남도 천안시 동남구 원성동 133-36 1층 102호",
+        "roadAddress": "충청남도 천안시 동남구 버들로 97",
+        "abbrAddress": "원성동 133-36 1층 102호",
+        "shortAddress": [
+          "충남 천안시 동남구",
+          "버들로 97"
+        ],
+        "displayContext": [
+          "딸기케이크",
+          "타르트",
+          "케이크",
+          "티라미수",
+          "카페"
+        ],
+        "labelTheme": "카페",
+        "microReviews": [
+          "신선한 재료로 만든 완벽한 케이크"
+        ],
+        "cardDescription": "신선한 재료로 만든 완벽한 케이크",
+        "description": "전제품 당일제작/당일판매를 원칙으로 하며, 유화제/합성팽창제/합성착향료 등의 화학첨가물은 사용하지 않습니다",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTJfMjYy/MDAxNzYwMjc4OTExMzY0.LVORZsOHOY0pnzPtKRPm_kVO0Ylk846SDSUtbBAlTX0g.Z_B36jQ87EZ5aw-LjbcezSlm8vE1pSvaYV2byS7ErBog.JPEG/20250906_201126.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjFfMjcz/MDAxNzYxMDQ3NTA2MzA2.XQM44DF1xoj0h-48UHiUYv-b2o6gMAO5QweRg_ffhhwg.ilOhhfbCO-3k-V1NbZDaPDVudoCKg3QWBSq9ZWnlMmMg.JPEG/20251021_185442.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20251123_146/1763860578159Ig1Dc_JPEG/BeautyPlus_20241128212527078_save.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMTFfMTUy/MDAxNzYyODIzMjM5NzI2.JKz-7so8cVRtosxzVu8ePtpM1BUElCiJMLc9vGFEbKkg._q7Srk36QaNeJr8R8FPQZYdYxOjk8P_QPZ3RdgikQ34g.JPEG/3D5F5CE0-ECA9-45C8-A338-040F31B97455.jpeg",
+          "https://ldb-phinf.pstatic.net/20251123_132/17638605781368zOeA_JPEG/BeautyPlus_20241231182156661_save.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MThfMjQx/MDAxNzUwMjExMjI3OTY0.kQO0T98ai1j2X4d29NgnKK7tb6E83YwGNcZsh3LGl78g.3GnFPWedo1OFJlXCaUeHVIEvzypRqLxPnmCR12Q457Ig.JPEG/1750142470960.jpg",
+          "https://ldb-phinf.pstatic.net/20251008_83/1759889403614w1xxy_JPEG/20251004_141322%282%29.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjNfNTYg/MDAxNzUwNjYzOTUyNDEz.f-Ny4zwYo-wReGydChMiJF6Uf1rGr5UKSJlQjtnpqWMg.4agN5wIGhDVdDULcLDu9ktM6woxZ77Z-C9DqnfQDcgog.JPEG/339DF882-87F5-4A2B-AC3D-85F807A810EC.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MzBfMjc0/MDAxNzUxMjY3NzAxMjI0.S5I_D8ZMJJJ-Cn1Mm2ZxN2wL6Z5PyV46teZnZkmqu6Ag.2wYagMURCZczoaCIujxZ9tZPPmDtSudN-i0g0Anonk8g.JPEG/20250629_102822%281%29.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTlfMjE4/MDAxNzQ3NTgwNzM4MzAy.nzi-ls3i9ZEzP4u8_F2wLjjP65Ci80dbKektmTvO7jog.OK1tojFDsrRDZreE5O6AmtIncUNrov-Pe-9fxo8LsSAg.JPEG/20250517_124635.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": true,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.94",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "34958353",
+            "bodySummary": "여러 케이크 집 목록 알려줬더니 가장 유명하다며 딱 꼽은 곳이 베리베리 케이크! 충남 천안시 동남구 터미널9길 59 대림(2차)한들아파트 상가 1층 화~금 12:00 - 19:00",
+            "url": "https://m.blog.naver.com/echxe/223384506091",
+            "nick": "진초록",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA0MDRfMTI3/MDAxNjgwNTgxMzc0NzQx.kEI29xQfyCrKvpK3YHRgQPrJ2DiVvNdI_fWn96qhH-Ug.GntfBYlYZ8FJuB0G2LA_3B6kHTEmqrxFsnEe5vHFRoEg.PNG.rosos1215/dev-jeans.png/dev-jeans.png"
+          },
+          {
+            "sid": "34958353",
+            "bodySummary": "전날 네이버에서 예약하고 시간에 맞춰 수령하러 갔습니다.^^ 아메리카노도 판매하네요. 마카롱과 딸기 케이크가 대표 메뉴인거 같아요. 딸기 케이크 너무 맛있어 보이더라고요.딸기가 가",
+            "url": "https://m.blog.naver.com/mywodud2003/223343061027",
+            "nick": "귀여운 천사",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMTVfMTIw/MDAxNzA1MzIwNDcyNDQ1.6yjX9aqYFEJLchuDHyYGrsIAY683nasf5RKbbN205s4g.fm_Wa_ff-ZVaUIDkeCHAO0bmOA2byvMmDumGyOhtDh4g.JPEG.mywodud2003/KakaoTalk_20240115_210715416.jpg/KakaoTalk_20240115_210715416.jpg"
+          },
+          {
+            "sid": "34958353",
+            "bodySummary": "무작정 가는 것 보단 재고현황 보고 가는걸 추천 딸기생크림 , 딸기초코 케이크 6,800원과 7,200원에 형성 예전 물가 생각하면 비싸지만, 지금 물가 생각하면 싼 편임 왜냐하면",
+            "url": "https://m.blog.naver.com/nj_sz/223318008584",
+            "nick": "기록이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxNzEwMTNfMjY4/MDAxNTA3OTAwMjE5NDIz.VbyOwM96BRhal1XLPMBgy_2UHcDccyN-VhtPfL8J7T8g.O0_2JwKDPxENUtuSMIFmXlL3fBcz0l6hU_MV7WcHADAg.JPEG.nj_sz/profileImage.jpg"
+          },
+          {
+            "sid": "34958353",
+            "bodySummary": "네이버 평점이 압도적인 숫자 점이여서 엄청난 기대를 품은 채 포장하러갔어요! 베리베리 케이크 0507-1320-4410 일요일, 월요일 휴무 OPEN 12:00 CLOSE (토)1",
+            "url": "https://m.blog.naver.com/meowfarmer/223315344336",
+            "nick": "냐옹농부",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA3MzBfMTg1/MDAxNjkwNzIwOTYyMzc1.GQyoqCE7Ilh_4_VCslvefXRehd0abHe8cynKR-D-e-Ig.ntlEPbRIg3CRJZL_o6y8BYMmSpz6ZFHyNIARtvEGv9cg.PNG.lime0112/profileImage.png"
+          },
+          {
+            "sid": "34958353",
+            "bodySummary": "베리베리케이크 주소 충남 천안시 동남구 터미널9길59 대림2차한들아파트 상가 1층 전화 0507-1320-4410 영업시간 12:00-19:00 매주 일, 월요일 정기휴무 네이버예",
+            "url": "https://m.blog.naver.com/hahamom678/223311483201",
+            "nick": "하남매맘",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAyMjVfMTI0/MDAxNjc3MzIyNjYzOTAx.JnTYwpTeDQ2ga_JdJtj7Rsah0bNNuD72j62T8yXTcaMg.z4rjCGn2TKllgIJ8C5v9QIPNYn4WvCsUCsC3yAuezo8g.JPEG.whitecry3507/brothers-457234_1920.jpg/brothers-457234_1920.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "id": "37286517",
+        "name": "희선이네분식",
+        "x": "127.1561455",
+        "y": "36.8065434",
+        "distance": 0.152,
+        "categoryName": "종합분식",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220185"
+          ]
+        ],
+        "category": [
+          "분식",
+          "종합분식"
+        ],
+        "reviewCount": 26,
+        "averagePrice": 5000,
+        "address": "충청남도 천안시 동남구 원성동 269-20 희선이네분식",
+        "roadAddress": "충청남도 천안시 동남구 옛농고4길 1",
+        "abbrAddress": "원성동 269-20 희선이네분식",
+        "shortAddress": [
+          "충남 천안시 동남구",
+          "옛농고4길 1"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "미리 전화주시면 포장이 더욱 빠르고 기다리시는 지루함이 없습니다. 평일 토요일 방학기간 영업합니다.  - 평일 : 오전 10시 ~ 저녁 8시까지 (라스트오더 저녁 7시까지) - 주말 및 방학기간 : 오전",
+        "description": "미리 전화주시면 포장이 더욱 빠르고 기다리시는 지루함이 없습니다. 평일 토요일 방학기간 영업합니다.  - 평일 : 오전 10시 ~ 저녁 8시까지 (라스트오더 저녁 7시까지) - 주말 및 방학기간 : 오전",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDNfNDMg/MDAxNzQ4OTE3NjAyMzMw.fz8WmI6Jzc98GdsSlKQas_t5sTmcrSMK9ruulIvBNkYg.BLOV6kvofZn7mBGQ8tHjPjvccwYuIVkuTfumnp5osuQg.JPEG/F119F910-D606-4BC7-A3C1-6DFF70155045.jpeg",
+          "https://ldb-phinf.pstatic.net/20250525_114/174815793929206kq6_JPEG/1000000328.jpg",
+          "https://ldb-phinf.pstatic.net/20250525_281/1748157898434pzSk5_JPEG/1000000325.jpg",
+          "https://ldb-phinf.pstatic.net/20250525_259/1748157898329SDkEN_JPEG/1000000326.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220185",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "37286517",
+            "bodySummary": "인스타에서 우연히 본 #천안떡꼬치맛집 #천안희선이네분식 근처 갈 일이 있어서 ㄱ ㅏ봄 ! ✅매주 일요일 휴무 ✅주차장은 따로 없고 골목길에 해야 됨! 착한 가격 ✅카드 결제는 안되",
+            "url": "https://m.blog.naver.com/make_merry/223371495521",
+            "nick": "해이정이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAyMTVfMTM2/MDAxNjc2NDU4ODI4NzQx.WR6Hi3IdSoAESRGq2JgHXNaRDUoJtfaxNPIT9FPpXsEg.Y8p0R1xhcJ22QsmoPCROS7M0gOjm9FRpC3Q4OSNnSs4g.PNG.make_merry/profileImage.png"
+          },
+          {
+            "sid": "37286517",
+            "bodySummary": "천안시 동남구 옛농고 4길 1 희선이네 분식 주문전화는 010-4003-0607 로 전화주시면 되요 희선이네는 카드기 없는 업소로 현금결제 or 계좌이체만 가능해요 영업시간은 평일",
+            "url": "https://m.blog.naver.com/sxowxo/223287830661",
+            "nick": "춘장이네",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMTJfMTI2/MDAxNzAyMzcwNDMzMjg2.SWJ3u_zzJlXEzHFBUDajZJc6DxshGZRax8H14de8inQg.EK3R9ZH3rUkOOzzPQxXipC8JElvk5-UNTpkIoN9uI-cg.PNG.pqpe8p0908/profileImage.png"
+          },
+          {
+            "sid": "37286517",
+            "bodySummary": "희선이네 분식이거든요. 주말을 맞이하여 찾아가 보았습니다. 고등학교 바로 앞에 있더라고요. 학교앞 분식점은 저렴하면서도 맛있는건 국룰아닌가요?! 밖에 메뉴판을 보고 너무 기대되어 ",
+            "url": "https://m.blog.naver.com/joojoo9128/223284462165",
+            "nick": "짜증소녀",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/data1/2004/2/23/71/%C5%B0%BB%E7...jpg"
+          },
+          {
+            "sid": "37286517",
+            "bodySummary": "오랜만에 돌아온 맛집 리뷰 ! ! ! ! 1 갑자기 분식이 무지무지 먹고싶더라구용ㅋㅎ 그래서 남자친구랑 분식집 탐방하다 발견한 맛집 ! 근데 원래 천안에서 유명했던 옛날분식 맛집.",
+            "url": "https://m.blog.naver.com/tnwl8671/223248113264",
+            "nick": "김두디",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAxMTlfMTg1/MDAxNjc0MDk2MTk5ODA5.kOUFlHxgVWzYeIvOG0DCbHByVEsRJubd5s8as_1Hxakg.mUiSguA-X6kTpm1B1_fwdcf1jl8T0hT-VHEIT0j-Uh0g.PNG.tnwl8671/profileImage.png"
+          },
+          {
+            "sid": "37286517",
+            "bodySummary": "저는 셋트메뉴 3번 떡볶이 순대 튀김 어묵탕 튀김 김말이 오징어 갈비산적 감자 치즈돈까스 김치우동 김치라면 이렇게 주문했어요 떡볶이 맛은 매운 떡볶이도 아니고 그냥 적당한 맛 떡볶",
+            "url": "https://m.blog.naver.com/kejej0205/222799548744",
+            "nick": "쩡아",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDA4MjBfMjQx/MDAxNTk3OTA1NTc5MDIz.dSU_UvnMwuu0KyUWMOBHjA2AcMz2zbYiDzKYm_stafUg.GGwuyLx9PkEGeAOiXYx-FJW_BWOAmoR-pa4svr1EtOAg.PNG.kejej0205/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "id": "20311740",
+        "name": "딴 다르다.",
+        "x": "127.1577983",
+        "y": "36.8082757",
+        "distance": 0.227,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 244,
+        "averagePrice": 5000,
+        "address": "충청남도 천안시 동남구 원성동 138-20 딴 다르다",
+        "roadAddress": "충청남도 천안시 동남구 옛농고3길 15",
+        "abbrAddress": "원성동 138-20 딴 다르다",
+        "shortAddress": [
+          "충남 천안시 동남구",
+          "옛농고3길 15"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [
+          "점심특선으로 만나는 풍성한 한 끼"
+        ],
+        "cardDescription": "점심특선으로 만나는 풍성한 한 끼",
+        "description": "저희 딴!은 그날 그날 소비될 음식만 만듭니다. 대량 주문시 반듯이 몇일 전 주문을 부탁드립니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjVfNDAg/MDAxNzU2MDkxNTk3Njc3.90W1dCvE1kY_MPfreeGE1O4eUBFQ7WCNiNbO0R-Jiokg.5GjQLeMq6XiCkhThxsYR8HpEhPRxkdCYPt5siEHqmUIg.JPEG/20250825_114221.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTBfMTQw/MDAxNzU3NTE2MDIxODg2.HPmTaYpnyb8GRuJU3e90E8jA5ExCsEe9Gzd0N0028egg.7qMfx9fLLACA_1oz7XDHlliILR1pp3nyDoa8IsWGergg.JPEG/20250910_114142.jpg",
+          "https://ldb-phinf.pstatic.net/20240331_292/1711882208066L8dNJ_JPEG/1622521968338.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMDNfNjYg/MDAxNzYyMTM1NDI5NzQx.DS_eReTTHf5HzhY2YJLwhrikdhqvM9RiVqZICRxJexUg.A6NHrytUzLE2MJ8F-sZAJ5o7G9j0K8mPs2rV7zRgIVQg.JPEG/20251028_120019.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240331_210/17118822080590LoW4_JPEG/1621548452625.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjFfODUg/MDAxNzQ3ODA0MzkyMzk1.BU3xNMTObRE1XcELvjR5NC1dThwzoW71F1ThGKD7uWMg.dELsRrBBKN-bdsc4CAxaMyp5MtMZB4b9mpTJ_2An2e8g.JPEG/20250521_120850.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240331_183/1711882208029mYGE2_JPEG/1621548448902.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjBfMjM0/MDAxNzQ3NzE2ODM4OTU4.XBD9EbFmZdc7CuG0P5Q8x0cxC2yViiIkFW7vSFKk9h0g.7ceZ8joZaanlaB02YG07NBytHhACP68edUQ4OtyYSrkg.JPEG/20250520_122412.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDlfNDMg/MDAxNzQ5NDM5NDU2NzAx.yEjjDb6EH_RANlwgojzclaIdpY83O6f3TZWRQEtFMyMg.az6E-qm_FrEdqv6HfFCmoLHJku_E_aLBD1Qh6uZ3ngQg.JPEG/20250609_114033.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MzFfNDUg/MDAxNzUzOTMyMDk0Mjg3.Q2TDxx4jVFoopgo9RkAW3BOmE18XZSnZ78QNtqzDpi0g.-VQnowMg_Khb78fXGts7-1izPSvOAJqzIh7PebH49WYg.JPEG/20250731_114326.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 5,
+        "id": "17275831",
+        "name": "수랏간",
+        "x": "127.1569868",
+        "y": "36.8065268",
+        "distance": 0.2,
+        "categoryName": "해물,생선요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220076",
+            "220777"
+          ]
+        ],
+        "category": [
+          "한식",
+          "해물,생선요리"
+        ],
+        "reviewCount": 104,
+        "averagePrice": 10000,
+        "address": "충청남도 천안시 동남구 원성동 133-35 수랏간",
+        "roadAddress": "충청남도 천안시 동남구 버들로 95",
+        "abbrAddress": "원성동 133-35 수랏간",
+        "shortAddress": [
+          "충남 천안시 동남구",
+          "버들로 95"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [
+          "솥밥과 함께하는 황태구이 정식"
+        ],
+        "cardDescription": "솥밥과 함께하는 황태구이 정식",
+        "description": "황태 요리를 메인으로하고 있으며 모든메뉴에 밥은 찰솥밥으로 제공됩니다. 황태구이정식은 11시 30분(점심시간)부터 주문가능하며 삼겹살과 닭갈비는 저녁에 가능합니다. 감사합니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTRfMTgw/MDAxNzUyNDY2NzIwNzU1.40Jq1VdVreDLHS7PUgjsEJRhNptAh6TIrkAj5hhkFl8g.mNossyds0HpimRYt7EVTsTONaUtg1Q09hgVJXbnSadwg.JPEG/20250714_122755.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMDhfMTI2/MDAxNzYyNTI5MzEzNzMw.Lua4KBWKXyKWkRAEfvDvzmTwl8JiuPhDQxcu8f8U3xQg.-FOihOuK0hkjBLkivSTe9FnrPS3HmuOAp7yPQ5JxXgcg.JPEG/20251104_122247.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20221219_164/1671459497109JQvGH_JPEG/%BB%E7%C1%F81.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDJfMTY3/MDAxNzU5Mzk4ODYxMzAx.fPyO3AYfUvIOx_wPV5RAg9R8HSt8dyVMEs2z0KVvmRkg.c_PFZ7zedTduEc02LpefW3OGCIFP54Eudw839Qix-9Ig.JPEG/20250916_123404.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20221219_73/1671459497224z8pRu_JPEG/%BB%E7%C1%F82.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTZfMjIy/MDAxNzU3OTk2MDg0MzA3.cXIfVjfpPEQmRInMToUJPTmaLLG504WkkUq2CBMRunog.OToauohYdjUN1kgqThNmIIa_3IpBn3XHlTSQx2_2-6gg.JPEG/Screenshot_20250916_125805_Samsung_Internet.jpg",
+          "https://ldb-phinf.pstatic.net/20221219_237/1671459497638hs38b_JPEG/%BB%E7%C1%F83.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjdfNzIg/MDAxNzU4OTYzNDUwMTQw.KlhooaTx4xI5TtwPkNtftQDYM5Ei2E4lwR_mUVl4dGMg.8cuwta94LfMiUfD0Ms_6B9xx_kBPH8-b3RegszTc6wkg.JPEG/20250927_175250.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjhfMTIy/MDAxNzUzNjk2NTQzODg4.50mg5UDaUIJbhRzlel797wMHnQT31eDigqM7vcvNxgMg.C9PMsSdHqwJWuuQlYiOPHxjm2lxWZ-05EN0lFt-k9aUg.JPEG/20250728_092909.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTJfOTAg/MDAxNzU0OTczMzkzNTcy.g_P8H5JPFzEYfyMQCXqwgW6VUIxCYS1PnD0GMO7agmQg.-RI7OvSSBZz6OKIBpxIVXlVXFh3tj5Ldw3JgukuZFKog.JPEG/20250812_131005.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220777",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 6,
+        "id": "1483907598",
+        "name": "미락",
+        "x": "127.1571391",
+        "y": "36.8068105",
+        "distance": 0.191,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 72,
+        "averagePrice": 15000,
+        "address": "충청남도 천안시 동남구 원성동 280-30",
+        "roadAddress": "충청남도 천안시 동남구 옛농고4길 11",
+        "abbrAddress": "원성동 280-30",
+        "shortAddress": [
+          "충남 천안시 동남구",
+          "옛농고4길 11"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [
+          "입맛 사로잡는 소박한 맛의 매력"
+        ],
+        "cardDescription": "입맛 사로잡는 소박한 맛의 매력",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDJfMTc2/MDAxNzU5MzM0MTgxMDM1.magEaLFEaOlNshKkHmlW3Iavgp9VamkKhrT-9Wosg78g.EQtFwUkAnfTDDxIspHmQZsEaJoflhnLgAJCyglrpDB4g.JPEG/20250930_122820.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjNfNTQg/MDAxNzU4NjAwNDkzOTM2.ewem6n_1hkzDZiEWWfQ6L0p1-dHn5o4h2wtQA2v22Ewg.bJD0AMrYE-o6r5sJ6fVOcAgB1v-LGxGgMz06w3-iJegg.JPEG/20250923_121235.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjRfMjIz/MDAxNzU4NjcyOTEyMTE5.qMU3Part6NbLf2T9HRO8LGG5CfKLYJHd393MaUyQf4og.VjL-LcL8xKdZBBVYa2zaaEkOMlOWW5BPGTXGnTjrW0kg.JPEG/20250923_121242.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjhfMTk5/MDAxNzU2MzUyNTg0Nzky.e4dQCs-etIJe3jLp7ZHabuYyJk9h_qi7H3i6aPO1CjMg.wPx5wtNfjochhpdJhmkk6rxIa8uPgo5Ud52IHAvre2Qg.JPEG/20250828_123449.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMTFfMjkz/MDAxNzYyODUyMjE2MDE0.OAri0a4xXsMzJSPXoTzEcLCtdttKCQnfBoaHl4C-1qMg.4jU9b5B6MmUKkc-e4tQWbReIp3UaFx1PjRr0LbB9VNgg.JPEG/20251111_180953.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 7,
+        "id": "1442026405",
+        "name": "한빛식당",
+        "x": "127.1579564",
+        "y": "36.8068292",
+        "distance": 0.254,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 8,
+        "averagePrice": 0,
+        "address": "충청남도 천안시 동남구 원성동 133-9",
+        "roadAddress": "충청남도 천안시 동남구 옛농고4길 18",
+        "abbrAddress": "원성동 133-9",
+        "shortAddress": [
+          "충남 천안시 동남구",
+          "옛농고4길 18"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "충청남도 천안시 동남구 원성동 133-9",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDNfMTc4/MDAxNzU2ODcxMzU5NjMy.leXL3cfG09WBp9TSmNp6zV8vmYS87fyXHMVkbPSPyhIg.4hgKGilDPXsJj9lye8kc5yu0KnjbMQz7LDMqUy3chq8g.JPEG/20250808_122137.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDhfMzkg/MDAxNzU0NjI4MTY3NDEz.eirQ6lVrAU04wjO-2CLTaWSqGgbwGu6bLL2Lgd_LCRgg.AneWFt_194sjYzj_nV_9j5tutG4mGR_E8b8XUD8Kq04g.JPEG/20250808_121600.jpg",
+          "https://ldb-phinf.pstatic.net/20240618_223/1718687179213vo9Or_JPEG/1000022348.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTRfOTMg/MDAxNzU1MTI1NjkzMzgw.21_gkOgNuUz4rjEB_gqymf0uuimZ8dL8iasO22rSCk8g.ge4kdHxuB2btOfwCdv5vf6LknxX1zdf6CsTGphpWLtsg.JPEG/Screenshot_20250812_163830_Gallery.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDNfOSAg/MDAxNzU2ODcxMjA5MDM1.dYR7iEvN2sR5enj3dHOYMR-cbXEWH7G0ZOE5B1UuWKwg.f20upl06U9DZp6zf49xYMwc5BgY6sLNPeYRwcruHL9wg.JPEG/20250903_124600.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 8,
+        "id": "1814357407",
+        "name": "치악산토종닭",
+        "x": "127.1574197",
+        "y": "36.8066308",
+        "distance": 0.223,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 23,
+        "averagePrice": 39000,
+        "address": "충청남도 천안시 동남구 원성동 133-31 1층",
+        "roadAddress": "충청남도 천안시 동남구 버들로 99-4",
+        "abbrAddress": "원성동 133-31 1층",
+        "shortAddress": [
+          "충남 천안시 동남구",
+          "버들로 99-4"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [
+          "버섯 풍미가 가득한 토종닭백숙"
+        ],
+        "cardDescription": "버섯 풍미가 가득한 토종닭백숙",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjZfMTcy/MDAxNzU2MTg1ODU3NTU4.6JDbzkHhjSQqcpM7cPtaGae68EB-YcgB8XzlapHrpSUg.7woCjFIzZy4ph4mnb3PVd-bXq9N_pA0L2LnZzhfERl8g.JPEG/20250826_124446.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDVfMTM1/MDAxNzU3MDQyMTYyMTk5.cy4mUnJbFAWtxuluDST4e_wAmob1QzJb5AvQkFvD7xwg.KhHGuRD6ZJYtahrk6C5HZ4gn8NF5X_QW5sDlIp8_94kg.JPEG/20250905_114953.jpg",
+          "https://ldb-phinf.pstatic.net/20211105_40/1636094831986VTd0g_JPEG/BrCzhJmEBA6PntbSonGmNxC2.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTBfMTUg/MDAxNzU0ODAxMTA3NDEz.1Nl-abgU3ICJt7Tq6_g17k3MJlwTAbvynZ4II5-7BrIg.V9EKMC7vWyJucuCjdJobCNYaBN7KEvsT6wYWN7fIa0sg.JPEG/20250809_120656.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDhfMjEx/MDAxNzU3MzEwOTY0NTUz.Q2dHzpWN9_WoBLdcvTeZVS_-DA1mEwt6b5H8QdTriJIg.UR_v-IyydzLv8ghqNfBpsjAULS88B0i-eNizXuNOa_Ug.JPEG/20250908_145420.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

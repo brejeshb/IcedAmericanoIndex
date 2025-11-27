@@ -1,0 +1,555 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 8,
+      "count": 8,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.978,
+          "minY": 37.5655990990991,
+          "maxX": 126.97913657372374,
+          "maxY": 37.566500000000005
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.97856828686187;37.566049549549554",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1261041106",
+        "name": "카페마당",
+        "x": "126.9790631",
+        "y": "37.5661452",
+        "distance": 0.045,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 165,
+        "averagePrice": 3000,
+        "address": "서울특별시 중구 을지로1가 50-1 시티스타몰 210호",
+        "roadAddress": "서울특별시 중구 을지로 12",
+        "abbrAddress": "을지로1가 50-1 시티스타몰 210호",
+        "shortAddress": [
+          "서울 중구",
+          "을지로 12"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "라떼맛집 / 호두과자 (팥,슈크림,치즈) / 수제샌드위치가 인기인 테이크아웃 전문 카페입니다. (단체주문가능) Our specialities: Walnut bun (redbean / custard cream / cheese flavours) , Sandwiches (Ham&cheese / Tuna)",
+        "description": "라떼맛집 / 호두과자 (팥,슈크림,치즈) / 수제샌드위치가 인기인 테이크아웃 전문 카페입니다. (단체주문가능) Our specialities: Walnut bun (redbean / custard cream / cheese flavours) , Sandwiches (Ham&cheese / Tuna)",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTNfMjYg/MDAxNzQ5Nzg4NjEwMjQx.yxyzcFHLUFhv2BPG96jhrEqmqLAL-mr6rijv_o5I9OUg.YP5wCjReACeJgVYirscnUrZfA_1DjNfoHD53a-TW1uAg.JPEG/1000033792.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTZfMjQz/MDAxNzQ3MzU2NjQwOTcx.jgm2gK-KbK5gAtyIlE5wWVwaExXSr62gotqEZto4kFUg.M_NAkOtGvmSassWvsGkppues1wcHSvLDf2Xi7Dtn--0g.JPEG/85D329E7-E1DF-42EA-99AC-658F36548BFC.jpeg",
+          "https://ldb-phinf.pstatic.net/20240221_201/1708496922297WS1cN_JPEG/IMG_8252.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.27",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "1040232096",
+        "name": "온도",
+        "x": "126.978779",
+        "y": "37.5658564",
+        "distance": 0.028,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 33,
+        "averagePrice": 5000,
+        "address": "서울특별시 중구 을지로1가 50-1",
+        "roadAddress": "서울특별시 중구 을지로 12",
+        "abbrAddress": "을지로1가 50-1",
+        "shortAddress": [
+          "서울 중구",
+          "을지로 12"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 을지로1가 50-1",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20180621_85/1529559917545E8pBv_JPEG/fCDATWac1UNUmsWeSr_NtYAy.jpeg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 3,
+        "id": "33252985",
+        "name": "트리안카페",
+        "x": "126.9789723",
+        "y": "37.5657773",
+        "distance": 0.047,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 17,
+        "averagePrice": 0,
+        "address": "서울특별시 중구 을지로1가 50-1",
+        "roadAddress": "서울특별시 중구 을지로 12",
+        "abbrAddress": "을지로1가 50-1",
+        "shortAddress": [
+          "서울 중구",
+          "을지로 12"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "을지로1가에 위치한 분위기 좋은 카페, 트리안",
+        "description": "을지로1가에 위치한 분위기 좋은 카페, 트리안",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20150901_266/1441054161280LWFr7_JPEG/SUBMIT_1379394449115_33252985.jpg",
+          "https://ldb-phinf.pstatic.net/20150901_222/1441054161493xGIH4_JPEG/SUBMIT_1379394449383_33252985.jpg",
+          "https://ldb-phinf.pstatic.net/20150901_233/1441054161729FuIWs_JPEG/SUBMIT_1379394449693_33252985.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 4,
+        "id": "37587693",
+        "name": "혼돈부리 시티스타몰점",
+        "x": "126.979053",
+        "y": "37.5660569",
+        "distance": 0.043,
+        "categoryName": "일식",
+        "categoryPath": [
+          [
+            "220036",
+            "220038",
+            "220082",
+            "220812"
+          ]
+        ],
+        "category": [
+          "일식",
+          "돈가스"
+        ],
+        "reviewCount": 944,
+        "averagePrice": 0,
+        "address": "서울특별시 중구 을지로1가 50-1 시청광장지하쇼핑센터",
+        "roadAddress": "서울특별시 중구 을지로 12",
+        "abbrAddress": "을지로1가 50-1 시청광장지하쇼핑센터",
+        "shortAddress": [
+          "서울 중구",
+          "을지로 12"
+        ],
+        "displayContext": [],
+        "labelTheme": "일식",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 을지로1가 50-1 시청광장지하쇼핑센터",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjhfMTI2/MDAxNzQ4NDI0MDIwMzA0.TONGESP7T3LqEAUGTnNLE0zo2ZXuAAebAd4G1BoiiKkg.NDJb4q4IVNp9TqQ0ODggbqgSQFhLoSdi92AMUraAQ84g.JPEG/20250523_123034.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDdfMjgz/MDAxNzU3MjQzMTQ4NjUz.7RPJT3zkGSKECssBTXkf61-glDsyK8im1slqxDf15Zsg.HtcGVkKFGON0nS-rjhMoPpsPRbYNQZcuKpnZNe-j_qog.JPEG/20250727_133624.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220812",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "37587693",
+            "bodySummary": "그리고 특히 새우가 들어간 음식을 정말로 좋아하죠. 오늘은 그래서 덮밥 중에 덮밥의 별미를 자랑하는 새우덮밥에 대한 이야기를 해보려고 합니다. 직장이 을지로 부근인 관계로 을지로에",
+            "url": "https://m.blog.naver.com/hchkp/221785742260",
+            "nick": "한채훈",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20160911_19/hchkp_1473556265514baLS7_JPEG/KakaoTalk_20160908_100417663.jpg"
+          },
+          {
+            "sid": "37587693",
+            "bodySummary": "일 보고 식사 때를 놓쳐 들린 서울시청역 지하의 혼돈부리. 에비동을 먹었다 8000원 맛은 무난무난 새우튀김을 세개 줘서 김치랑 맛있게 먹음~ :)규동 우동 등 식사 메뉴는 700",
+            "url": "https://m.blog.naver.com/cheeseinin/221188727360",
+            "nick": "삠빰",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxNzAyMTNfMTQ2/MDAxNDg2OTU0OTUzMTA2.K_XrlYyNF9ThqQx146Zt9N_J3GqMcj7CgBPLkgaYRVwg.iwD_-0JwIf4KIUHVCpOMno1z8jP7PJk9Sr5BY6qBlXIg.JPEG.cheeseinin/000034.JPG"
+          },
+          {
+            "sid": "37587693",
+            "bodySummary": "시청 맛집/시청역 맛집/점심 안녕하세요~~~ 시청역 근처 점심 맛집 포스팅 합니다~혼 돈부리 라는 곳인데요! 돈부리와 우동 집이에요 ㅎㅎㅎㅎ 약간 이른시간에 갔더니 한산하더라구요!",
+            "url": "https://m.blog.naver.com/anamed/220929973268",
+            "nick": "의사 김태희",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTA2MjZfODEg/MDAxNTYxNTE3NTIwNjM5.QmGq5aQBqftzDcAieDtBxlvs98TLZFH_gQt9VI8iWBsg.JmuWPOM1yZAaxPhZYMDb5hT5Q_FFa1vWoRb1c23pEQAg.PNG.anamed/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "id": "37587692",
+        "name": "카페옆분식집 시티스타몰점",
+        "x": "126.979034",
+        "y": "37.5657572",
+        "distance": 0.052,
+        "categoryName": "종합분식",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220185"
+          ]
+        ],
+        "category": [
+          "분식",
+          "종합분식"
+        ],
+        "reviewCount": 865,
+        "averagePrice": 3000,
+        "address": "서울특별시 중구 을지로1가 50-1 시청광장지하쇼핑센터",
+        "roadAddress": "서울특별시 중구 을지로 12",
+        "abbrAddress": "을지로1가 50-1 시청광장지하쇼핑센터",
+        "shortAddress": [
+          "서울 중구",
+          "을지로 12"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 을지로1가 50-1 시청광장지하쇼핑센터",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20190824_197/1566643365163GnLUA_JPEG/JOEcCB35B7v2Wm5G9SPweUXd.jpeg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220185",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 6,
+        "id": "37936641",
+        "name": "명동칼국수 서울시청점",
+        "x": "126.978779",
+        "y": "37.5658564",
+        "distance": 0.028,
+        "categoryName": "칼국수,만두",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220073",
+            "220718"
+          ]
+        ],
+        "category": [
+          "한식",
+          "칼국수,만두"
+        ],
+        "reviewCount": 567,
+        "averagePrice": 23000,
+        "address": "서울특별시 중구 을지로1가 50-1",
+        "roadAddress": "서울특별시 중구 을지로 12",
+        "abbrAddress": "을지로1가 50-1",
+        "shortAddress": [
+          "서울 중구",
+          "을지로 12"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 을지로1가 50-1",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDJfMTI1/MDAxNzQ4ODM4NDA4MDQx.ffAxj4zmidHO-2I-qi3WxBVlmXz4DsiNUxViA0oNrZkg.Hd0peUW3e9wB1OdKRe2EMK7JraGCq9wBhRq4ZH4yjRMg.JPEG/IMG_20250602_114508.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MzBfMTkz/MDAxNzQ4NTk4NTM2MjUw.1QTDs-xfNAAZEouZJ_whdnqNqXUtpcCoQEjjmhGlJNMg.9svoU90Rjj_lcAEYB-xdpkpWhTK2c9hlGGKSTxBp9zUg.JPEG/1000003535.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20190109_264/15470187337436XdYS_JPEG/rBzBIoIUFGaE4sQDH88eJjb9.jpg",
+          "https://ldb-phinf.pstatic.net/20190109_278/1547018737559P0Ux7_JPEG/U0Eg9wI5xBn8vfTO4sG5tY_o.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220718",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.29",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "37936641",
+            "bodySummary": "광화문맛집으로도 소문이 난건지 사람도 진짜 많았어요. 그래도 저희 갔을 때 거의 끝물이여서그런지 일하시는 분들도 브레이크타임대라 다들 퇴근하시거나 쉬시더라고요. 일단 외관이 낡아보",
+            "url": "https://m.blog.naver.com/ludijieun/223312405988",
+            "nick": "지니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA4MDdfODMg/MDAxNjU5ODY5NzMwNDM2.0s7mPB7747NJjPZiX7ThR7TOE5mX6FvLAFc6_fopUGQg.hFxJobr1p-jHm76kuKh2XGvU3mPtTtaqRn5uXiFZ6Q4g.PNG.ludijieun/profileImage.png"
+          },
+          {
+            "sid": "37936641",
+            "bodySummary": "그래서 일주일만에 세번째 방문한 곳! 위치는 시청역과 을지로입구사이인데 시청역에서 내리면 1호선 쪽으로 지하에 이어져있어서 찾아가야한당 흠 나는 이 길을 알지만 초행길은 확실히 어",
+            "url": "https://m.blog.naver.com/onlywonand/223272007503",
+            "nick": "헹니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMTFfMjQw/MDAxNzEwMTMyOTUwMDg2.Q6WBzbGmPoK1FN3JBM3NFUuJINF8gixpBvbcO5M-05Mg.P3tGLjs3ObYEf2mbXFPV0hezuWeAGU61Gq7wdpAdPA4g.JPEG/profileImage.jpg"
+          },
+          {
+            "sid": "37936641",
+            "bodySummary": "명동칼국수 서울시청점 위치 : 서울 중구 을지로 12 예약 : 02-777-0075 영업시간 : 월 ~ 토 10:00 ~ 21:00 정기휴무 : 매주 일요일 명동칼국수 메뉴 시청점",
+            "url": "https://m.blog.naver.com/dbtjdcjsrnr/223196802828",
+            "nick": "한국맛집",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjEyMTRfMTM0/MDAxNjcwOTgzNTU1OTY4.Ax0LrXcpnmWIExbHp-Uq5Q8wnsO-_6WQMBUiqcJaeE4g.Eu9Zt8D_iqYFgMYU47aQ7ddHMpV5AwEPvA1jxlc62aYg.PNG.dbtjdcjsrnr/%25EC%25A0%259C%25EB%25AA%25A9%25EC%259D%2584_%25EC%259E%2585%25EB%25A0%25A5%25ED%2595%25B4%25EC%25A3%25BC%25EC%2584%25B8%25EC%259A%2594__%25EB%25B3%25B5%25EC%2582%25AC%25EB%25B3%25B8-001.png/%25EC%25A0%259C%25EB%25AA%25A9%25EC%259D%2584%2B%25EC%259E%2585%25EB%25A0%25A5%25ED%2595%25B4%25EC%25A3%25BC%25EC%2584%25B8%25EC%259A%2594__%25EB%25B3%25B5%25EC%2582%25AC%25EB%25B3%25B8-001.png"
+          },
+          {
+            "sid": "37936641",
+            "bodySummary": "콩국수의 계절을 맞이하여 다녀왔습니다!!! 옆에 초밥&순두부집도 있네 다음에 가봐야지 명동칼국수 엄청 크게 있습니다 많은 사람들이 모르는지? 점심시간에 갔는데 아주아주 한산했어요 ",
+            "url": "https://m.blog.naver.com/d_hyg/223133978900",
+            "nick": "다롱",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMjdfODAg/MDAxNzExNTI2MDM1NTIx.nbAYiYBj-ksKyVz4mlJvQdTIoK1xDjtU15ZEW2CbZeog.gr1e8DYys-avNInBsXnzNjk8ox3dYCXJzEaxz_gsYXQg.JPEG/profileImage.jpg"
+          },
+          {
+            "sid": "37936641",
+            "bodySummary": "명동칼국수 서울시청점 영업시간 매일 10:00~21:00 매주 일요일 정기휴무 이곳은 네이버 지도에서 상세히 설명이 되어있지 않아 굉장히 헷갈린다!! 그래서 우리도 가다가 주변에서",
+            "url": "https://m.blog.naver.com/1171230/222904093270",
+            "nick": "쏘삐아",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA4MjlfNTAg/MDAxNjMwMjM2MTU5Mjk1.izg3LQPPxUZiiobUxad9MzP4XXw7J04v1GKfVnKMECQg.5f9vBihGqvGQyVa3RR5OPWTPwqeTApPrF-9O0pHGVrMg.JPEG.1171230/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "id": "1896447585",
+        "name": "101커피컨테이너",
+        "x": "126.9791111",
+        "y": "37.5660633",
+        "distance": 0.048,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221212"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 297,
+        "averagePrice": 0,
+        "address": "서울특별시 중구 을지로1가 50-1 시청지하광장쇼핑센터 시티스타몰 213호",
+        "roadAddress": "서울특별시 중구 을지로 12",
+        "abbrAddress": "을지로1가 50-1 시청지하광장쇼핑센터 시티스타몰 213호",
+        "shortAddress": [
+          "서울 중구",
+          "을지로 12"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 을지로1가 50-1 시청지하광장쇼핑센터 시티스타몰 213호",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221212",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 8,
+        "id": "31315798",
+        "name": "Iris 시티스타몰점",
+        "x": "126.9783945",
+        "y": "37.5656993",
+        "distance": 0.042,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221212"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 34,
+        "averagePrice": 0,
+        "address": "서울특별시 중구 을지로1가 50-1 시티스타몰 603",
+        "roadAddress": "서울특별시 중구 을지로 12",
+        "abbrAddress": "을지로1가 50-1 시티스타몰 603",
+        "shortAddress": [
+          "서울 중구",
+          "을지로 12"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 을지로1가 50-1 시티스타몰 603",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221212",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

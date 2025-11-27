@@ -1,0 +1,737 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 10,
+      "count": 10,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 129.3435,
+          "minY": 36.02350450450451,
+          "maxX": 129.34906921587339,
+          "maxY": 36.02800900900901
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "129.3462846079367;36.02575675675676",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1083615846",
+        "name": "고더커피 양학점",
+        "x": "129.3480709",
+        "y": "36.0263657",
+        "distance": 0.174,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221212"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 26,
+        "averagePrice": 5000,
+        "address": "경상북도 포항시 북구 득량동 139 삼월빌딩 101호 고더커피 양학점",
+        "roadAddress": "경상북도 포항시 북구 득량길 42",
+        "abbrAddress": "득량동 139 삼월빌딩 101호 고더커피 양학점",
+        "shortAddress": [
+          "경북 포항시 북구",
+          "득량길 42"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [
+          "부드러운 아메리카노와 향긋한 아침"
+        ],
+        "cardDescription": "부드러운 아메리카노와 향긋한 아침",
+        "description": "포항시 북구 양학동에 위치한 고더커피 양학점입니다! 대표메뉴로 고더라떼,고더화이트등 커피맛이 단연 일품입니다. 섬세하게 기계를 세팅하여 오차없이 맛있는 커피를 제공해드리겠습니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjFfNiAg/MDAxNzU1NzM3Nzc4Mjk4.nYaeITuVKcBaSr_LiVAOKZ_kD-FrZVvfvFzKzeUY7Q4g.vbbMul0BqPcUhB1rZgkxLQCR-bkTaTe6_yalI5zhuZcg.JPEG/1F0E5A35-DFF1-4669-BA62-FCACE793B8AC.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MThfMTEz/MDAxNzU4MTg4NTM2NTc5.dR1vbZZfpdEhDduskiJh1cSgo3gTX-DW98JN5G2ZAmog.141C3cx2ztyAmGT-vZS41EJp_XWmIJg--5VWw1zQB8gg.JPEG/20250918_183653.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240929_187/172761752409373jin_JPEG/20240929_151943.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDZfMjE1/MDAxNzQ2NTAxNzkxNzEz.XB9QFFqOhCo2RtcFZaW2ooTNqUxTvu-Js5rGJUuedocg.E7NE2UaoNeK6D08tGZkwhPPDysfCEMBl9Vb4d8Xmawcg.JPEG/89AA47F3-6B5A-48B8-9171-A536BF4D5601.jpeg",
+          "https://ldb-phinf.pstatic.net/20240929_289/1727617524273uYqlR_JPEG/1727616922405.jpg",
+          "https://ldb-phinf.pstatic.net/20240929_63/1727617524110KfUWx_JPEG/20240929_151937.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221212",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "322943977",
+        "name": "양학뒷고기",
+        "x": "129.3485847",
+        "y": "36.0277057",
+        "distance": 0.3,
+        "categoryName": "돼지고기구이",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220765",
+            "221458"
+          ]
+        ],
+        "category": [
+          "한식",
+          "돼지고기구이"
+        ],
+        "reviewCount": 60,
+        "averagePrice": 0,
+        "address": "경상북도 포항시 북구 득량동 155-2",
+        "roadAddress": "경상북도 포항시 북구 양학로 51",
+        "abbrAddress": "득량동 155-2",
+        "shortAddress": [
+          "경북 포항시 북구",
+          "양학로 51"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경상북도 포항시 북구 득량동 155-2",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDZfMTQx/MDAxNzU0NDg4Njc0NjU2.Vc4h38idgEzF9CzFJ98Dju-bavAF-5iOr7wl2dalhPAg.9cJaQHHl4EproIoJHj3qnbvoB0O-5GzK_D9Lm6TviHkg.JPEG/37A6BA9D-F7D3-4373-B964-7660A9442F49.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDZfNTgg/MDAxNzU5NzIwOTE5OTUz.UvgmfUMAgy7rpwG3bwnyazTte34CuVvoLHeFIwW552Mg.hNR8RxU_CJ1_0OrCQIzNc3e3LoWeyZ66uJJ6E73xZ98g.JPEG/33E109E2-2B7B-448F-A608-F2785C2CACE4.jpeg",
+          "https://ldb-phinf.pstatic.net/20200609_229/15916954894607eHnf_JPEG/yLIVrnm6RK0_iLGjvS3SKlmF.jpeg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDhfNzEg/MDAxNzQ2Njg1MDMwNTI3.CXd-0DwiCybXepXL58xoytPujZMUuuDmWyZzCu_a2o8g.lDHuVwm9nCscNg8oDGiVJU57awT356FhhuaOH9EAvXYg.JPEG/BA508856-1479-4813-9146-53BB823E7E05.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221458",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "322943977",
+            "bodySummary": "양학뒷고기 포항 양학동 맛집 양학뒷고기 주소 : 포항시 북구 양학로 51 연락처 : 054-278-0944 영업시간 : 15:00-24:00 휴무일 : 둘째, 넷째 일요일 포항 양",
+            "url": "https://m.blog.naver.com/inzaghi009/223354949883",
+            "nick": "윔피",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA5MDhfMTI4/MDAxNjk0MTYzNDU4NzE0.CXpMQSMMq3SqlssdT1u9DGB5MNCZkotU7pqweIF4OiQg.2X8tD208PNR-BsWpejmGKFTYR3JZLroeEdWhGZIPqegg.JPEG.inzaghi009/profileImage.jpg"
+          },
+          {
+            "sid": "322943977",
+            "bodySummary": "6/9 오랜만에 양학뒷고기 방문. 원래 이렇게 맛있었나? 뒷고기 식감이 좋아서 나는 뒷고기를 좋아한다! 원소 데리고와야지 김치랑 파김치 구워먹으라고 하는데 김치 맛집 그리고 이 집",
+            "url": "https://m.blog.naver.com/hamaday_/223126101954",
+            "nick": "Hippo",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAyMDdfNjgg/MDAxNzA3Mjk0NzUwNTQ5.aFIJPEs_ZQpOfOh48Tuzk4pxIrGcBFgbm0eoOaF0nC4g.xJsjcPmtk3Rrh4Vdy3twoEt5ESCwDCZaPmyQ0VCv-YEg.PNG.chohn1025/profileImage.png"
+          },
+          {
+            "sid": "322943977",
+            "bodySummary": "아니 을매나 맛있는 곳이길래 후기가 이정도냐며 아주아주 궁금해하며 찾아간 곳 양학 뒷고기 경북 포항시 북구 양학로 51 054-278-0944 둘째, 넷째주 월요일 휴무 주차장은 ",
+            "url": "https://m.blog.naver.com/anaiskwoen/222851820821",
+            "nick": "아나이스",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMjdfMjI5/MDAxNzAxMDU5ODQxNDA5.6iTPqwtmKaFHkfAYiaZpQFX0q7BX4lSc4YS2ZQfNT5gg.1JFPrg-M6DlSkzSIdBTMV04buxOVskHXdo1ptByYQOkg.PNG.hn01369/profileImage.png"
+          },
+          {
+            "sid": "322943977",
+            "bodySummary": "여긴 제주도 숙성도 첫 점을 먹을 때의 감동 뺨치게 감동을 느낀 곳 요즘 포항 고깃집 많이 다녔는디 저번에 금고가 포항에서 먹은 삼겹살 중에 제일 괜찮다는 말도 이제 옛말임.. 사",
+            "url": "https://m.blog.naver.com/ehddnjs7244/222529018367",
+            "nick": "울산대식가1위",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDA1MDdfMjY4/MDAxNTg4ODQzNDQ0NDM3.qzOrEpDolAJXJEOEejVIp9tim0Z7ulgHU1H50vsChbIg.rTT6HCgX2NM4-ZNKxo5gjgGreVl1KhAum052iUpIk_0g.PNG.ehddnjs7244/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "id": "37615725",
+        "name": "반도반점",
+        "x": "129.3483674",
+        "y": "36.0278857",
+        "distance": 0.302,
+        "categoryName": "중식당",
+        "categoryPath": [
+          [
+            "220036",
+            "220039",
+            "220091",
+            "220861"
+          ]
+        ],
+        "category": [
+          "중식",
+          "중식당"
+        ],
+        "reviewCount": 51,
+        "averagePrice": 5000,
+        "address": "경상북도 포항시 북구 득량동 155-2",
+        "roadAddress": "경상북도 포항시 북구 양학로 51",
+        "abbrAddress": "득량동 155-2",
+        "shortAddress": [
+          "경북 포항시 북구",
+          "양학로 51"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "주문 즉시 바로 조리하는 중화요리 전문점!  저희 반도반점은 중화요리 전문점으로 짬뽕, 짜장면, 탕수육 등의 메인 메뉴를 비롯해 메인을 빛나게 해줄 사이드 메뉴까지 다양하고 꽉 찬 구성의 ",
+        "description": "주문 즉시 바로 조리하는 중화요리 전문점!  저희 반도반점은 중화요리 전문점으로 짬뽕, 짜장면, 탕수육 등의 메인 메뉴를 비롯해 메인을 빛나게 해줄 사이드 메뉴까지 다양하고 꽉 찬 구성의 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MzBfMSAg/MDAxNzUxMjgwMDY3MTkx.qMnt5hq_wA-mBO2n4Sm9wGXJrhVb8aNnTjot7EtSJacg.6Ke7ofkQNqqcN04DvpIn4MFlMYp2TTIG7mrIXiqqHKMg.JPEG/BFA3260D-F922-4284-A4F0-A6AD3E51BB87.jpeg",
+          "https://ldb-phinf.pstatic.net/20251016_7/1760591035200JPLbU_JPEG/KakaoTalk_20251016_140202780_01.jpg",
+          "https://ldb-phinf.pstatic.net/20241031_83/1730347471003mlUr2_JPEG/KakaoTalk_20241028_190456931_05.jpg",
+          "https://ldb-phinf.pstatic.net/20241031_38/1730347471030YLgEg_JPEG/KakaoTalk_20241028_190456931_07.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220861",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 4,
+        "id": "21370095",
+        "name": "예전추어전문점",
+        "x": "129.3452894",
+        "y": "36.0255573",
+        "distance": 0.092,
+        "categoryName": "추어탕",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220066",
+            "220672"
+          ]
+        ],
+        "category": [
+          "한식",
+          "추어탕"
+        ],
+        "reviewCount": 317,
+        "averagePrice": 10000,
+        "address": "경상북도 포항시 남구 대잠동 470-8 예전추어전문점",
+        "roadAddress": "경상북도 포항시 남구 포스코대로 177",
+        "abbrAddress": "대잠동 470-8 예전추어전문점",
+        "shortAddress": [
+          "경북 포항시 남구",
+          "포스코대로 177"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [],
+        "cardDescription": "이동 방장산터널을 올라가다 보면 보이는 예전 추어 전문점입니다. 오랜 시간 동안 이곳에서 장사를 해왔으며, 수십 년간의 노하우로 여러분께 맛있는 음식을 선보이겠습니다!  요즘 같은 날씨",
+        "description": "이동 방장산터널을 올라가다 보면 보이는 예전 추어 전문점입니다. 오랜 시간 동안 이곳에서 장사를 해왔으며, 수십 년간의 노하우로 여러분께 맛있는 음식을 선보이겠습니다!  요즘 같은 날씨",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTlfNDUg/MDAxNzU1NTg3MDExMDUw.9gRNKysS4Xvr0es9CsFv2ctuMCU93-hiH1KUPW_NLoQg.InFvcSmIqdVKhc1G5UsOwbODNDoZyn0vz1G3Ljw-LrEg.JPEG/20250819_143519.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTNfNzUg/MDAxNzQ5NzkyNDc2NzE1.-yS4hrYDdwUDBNmX1shawJMBHRKB11-x4djmp1FS-V0g.q-G3mcnknvp5HHHbJeM-MO9p4f-lPEIbZ4iLkMkYKe0g.JPEG/41B7D943-6546-4057-A9B6-687EA93DDD46.jpeg",
+          "https://ldb-phinf.pstatic.net/20180724_299/1532414281878bEBs5_JPEG/AG-QnGX3T8ao1yihKglqqJH0.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTdfMjk4/MDAxNzUyNzI1MjI2OTgx.0tyr5dvRQohUZfxC5KyGxCzA_TTT65j_0Gxgu0O3zFwg.aC5L2xZdPfuBljqORRzo6y_Lfv1_81gRJ8pFssJ65kQg.JPEG/6B7A1743-0EEC-4249-A448-3971EEC9ADBB.jpeg",
+          "https://ldb-phinf.pstatic.net/20180724_72/1532414307476vTGFd_JPEG/g3s5CrKu262I-MxBUi30EJQA.jpg",
+          "https://ldb-phinf.pstatic.net/20180724_290/1532414306659l081x_JPEG/h3a7HA3i0rn1qjRCme8AdIb8.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220672",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "21370095",
+            "bodySummary": "비가 오고 추운 날이면 칼국수 그냥 추운 날이면 오뎅탕 등등 그러다가 문득 국물도 있고 간만에 몸보신도 필요할 듯 하여 방문하게 된 예전추어전문점 이동 맛집을 검색하면 밥이 아닌 ",
+            "url": "https://m.blog.naver.com/edwin9407/222962087862",
+            "nick": "정스타그램",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20181126_26/edwin9407_15431954716164E1uD_JPEG/image.jpg"
+          },
+          {
+            "sid": "21370095",
+            "bodySummary": "포항 현지인 추천 맛집! 예전추어전문점 후기입니다 지난 말복에 갑자기 추어탕이 엄청 땡기는거예요 추어탕은 맛없는데 가면 넘 맛없어서 주변 포항 분들한테 맛집을 여쭤봤어요 하나 같이",
+            "url": "https://m.blog.naver.com/esteoeste/222925251094",
+            "nick": "릴리리야",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTA4MTRfMTAw/MDAxNTY1NzE1OTM3NDA4.M-BIN72wFpHEe4Gq-n3EOvZU5x1L9HLTC52aJ_8s7BYg.8gG4CFtXVBa9yCU-eyJDDakDcgZa0himJ1JvxNC4mWgg.JPEG.esteoeste/profileImage.jpg"
+          },
+          {
+            "sid": "21370095",
+            "bodySummary": "추어탕을 못먹는 손님을 위한 돈가스도 판매 중이었다 예전추어탕에서는 모든 메뉴에 토종국산 미꾸라지를 사용 중이라고 한다 각 메뉴에 대한 설명이 나와있다 추어탕 음식점 답게 물티슈에",
+            "url": "https://m.blog.naver.com/jjuno92/222522041183",
+            "nick": "호항",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxODA4MjFfMjY5/MDAxNTM0ODE0OTA5MTU1.uZC5yOI92EwD2sd0rVFbzdN8Aq-tps16_8-tkmr5E80g.hxbupOTNwbJETUGJ-xoViLVxlDHsmNzKGEj3SAzMghMg.JPEG.jjuno92/20180811_203558.jpg"
+          },
+          {
+            "sid": "21370095",
+            "bodySummary": "찐~~한 추어탕이 먹고싶어서 찾아본 맛집 이동에 위치한 '예전추어전문점' 택배도 하네요 1팩에 4000원 열무국수도 있나봐요 더워지면 열무국수도 먹어봐야겠어요 메뉴판 저희는 추어탕",
+            "url": "https://m.blog.naver.com/smzz1101/222021931053",
+            "nick": "숨냥",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMTJfMjkz/MDAxNzAyMzY0NDM1NTcz.z3fqtuOTnICVdwwGqCw0hx2Dr8HgyweM8mhthS_aCNYg.4K60iR-Sg5ikatSvlPTLfzmg6hEBx_wg6Vkap0WbRZQg.PNG.smzz1101/profileImage.png"
+          },
+          {
+            "sid": "21370095",
+            "bodySummary": "히히 건강한 포항추어탕 예전추어탕 밑반찬들 하나같이 건강해보이고 맛있어!!!!ㅠㅠㅠ 겉절이도 막 만든거라 아삭아삭하고 맛있공... 하나같이 다 맛있다 주문한 추어탕이 보글보글 끓여",
+            "url": "https://m.blog.naver.com/hj4661/221982446940",
+            "nick": "쩡꿀",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA3MTNfMjM4/MDAxNjg5MTgxODc1Njcx.nhZlijAwEr2QZFNDRJgrvlx3liQ1sSX4C-uo7cguBxUg.W_8mVZTXKhCPHZwuVx9jOQ_b8AGH_mZHrpOhMmakB3gg.PNG.hj4661/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "id": "1170498153",
+        "name": "논두렁밭두렁",
+        "x": "129.3490138",
+        "y": "36.0274351",
+        "distance": 0.309,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 8,
+        "averagePrice": 0,
+        "address": "경상북도 포항시 북구 득량동 159-6",
+        "roadAddress": "경상북도 포항시 북구 양학로 43-2",
+        "abbrAddress": "득량동 159-6",
+        "shortAddress": [
+          "경북 포항시 북구",
+          "양학로 43-2"
+        ],
+        "displayContext": [],
+        "labelTheme": "부모님과 함께",
+        "microReviews": [],
+        "cardDescription": "경상북도 포항시 북구 득량동 159-6",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20190718_246/1563453984654xgc8I_JPEG/lFcGI42IGN0EzAEfgXWuy9TL.jpg",
+          "https://ldb-phinf.pstatic.net/20190718_92/1563454104426lCrhQ_JPEG/g1o_BhWW53gfAmsf7Y1fcqZw.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 6,
+        "id": "1488114886",
+        "name": "청춘꼬마김밥 포항양학점",
+        "x": "129.3480709",
+        "y": "36.0263658",
+        "distance": 0.174,
+        "categoryName": "분식",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "1005454"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "분식"
+        ],
+        "reviewCount": 47,
+        "averagePrice": 7000,
+        "address": "경상북도 포항시 북구 득량동 139 1층 102호 청춘꼬마김밥 포항양학점",
+        "roadAddress": "경상북도 포항시 북구 득량길 42",
+        "abbrAddress": "득량동 139 1층 102호 청춘꼬마김밥 포항양학점",
+        "shortAddress": [
+          "경북 포항시 북구",
+          "득량길 42"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "안녕하세요 :D 청춘꼬마김밥을 찾아주셔서 감사합니다.  @ 저희 매장은 고객님이 만족하실 수 있도록 최선을 다하고 있습니다!  @ 안심하고 드실 수 있도록 위생과 청결을 최우선으로 하고 있습 ",
+        "description": "안녕하세요 :D 청춘꼬마김밥을 찾아주셔서 감사합니다.  @ 저희 매장은 고객님이 만족하실 수 있도록 최선을 다하고 있습니다!  @ 안심하고 드실 수 있도록 위생과 청결을 최우선으로 하고 있습 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MDlfOTQg/MDAxNzQ0MTU0MDc5NDEx.2-t3VmjhFaO2BpA9pyu6_uI3d-kTTWBR5TUPll7ZcWkg.DRkUBb7TILxIjF9oubltH1grFd4S6y4X2vJlRXT-ijcg.JPEG/1744153794609.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTNfMjM4/MDAxNzU3NzcyOTE2NDgy.DfTRQ0l3b6TNm3ImMhGsDMPQqORu48y9O24b5YgVOlAg.0bsS0pBU8rqq80i1lTXXaPDPxiAYLUzvNcL8zlitu7Qg.JPEG/20250802_094747.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250519_217/1747641773271gXF7t_PNG/%B9%E6%B9%AE%C6%F7%C0%E5_%C7%D2%C0%CE_%C6%F7%BD%BA%C5%CD%28%C3%D6%C1%BE%29_25.03.27.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjBfMjg5/MDAxNzUwMzc0NjI1Mjcz.Y3YnjhTb2hZyz-CDSeJX7HSFVTXuCENRGj8vjxP8wYwg.hFrhjh9pFrxu1rz5ff_c-chSUhZ-hho4053hmeJXFyAg.JPEG/BCF70C95-C141-4C9D-BBF1-6A7D8FEFEA3D.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MDZfMjIx/MDAxNzQzOTE3NDIxMzEw.H6GHlVvJ54ZhNZLvrFuP8ZI4_uDUUv-QZrC4ih-SQhsg.y3J__B2ydz0qAnybyBfk-ownSXljZBiSSJXNR3kzfi4g.JPEG/20250406_131013.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDNfMTMw/MDAxNzU0MjA5ODIyMTkz.P9mxngKEZaMmMgWkusBzDMATTwVOJPU7bWguylfgWcMg.3aEK96nwbNCnlSyGuVeVUypbn8i5EK7nYw1AG6QYwp8g.JPEG/20250803_142025.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjJfMjUg/MDAxNzU1ODQ0NDk5NTAx.ESXGk_iMmA_E-JfMBXo4vGLV9h62ljRfcONO6Y-idc4g.BLG-5uKq6PrM764GQr1Vlr2llu2dWTspVgqJhiNzaqQg.JPEG/IMG_3692.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDNfNzQg/MDAxNzU2ODY5NDEyMjYz.rsQqmpf5krixqXOwGIixctTabu4rWpD0wvG6fEKl5PYg.X1DfGBA6ojiOwCpiveK9XniTo-AZY872CMdUbc655JQg.JPEG/E70D4684-ED39-4CD8-8CF6-FD146344A647.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTVfNDQg/MDAxNzU1MjM4Njc5MTI4.ufQdVDadgz_uWI9PzPCNOFLywYJxsHSMw8jB_l47lpsg.BQ6zvr_G8KbLhItL93v45fNyf4AGQf1nSUsv01KJ-bwg.JPEG/20250815_132336.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjZfOTgg/MDAxNzQ1NjUzMzMxMTU0.MKmLLch6qIsLHZY-Vn5fYXmLoiQiDOcKVSSsW55ZwzIg.7BszG0ZRQEN9EmznG6t7h-Ld0hOqcppajL5gnuf9hcog.JPEG/17456533002526740379476960732208.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1005454",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 7,
+        "id": "1009552664",
+        "name": "텐퍼센트커피 포항양학점",
+        "x": "129.3485642",
+        "y": "36.0277502",
+        "distance": 0.302,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "1002685"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 181,
+        "averagePrice": 5000,
+        "address": "경상북도 포항시 북구 득량동 155-2",
+        "roadAddress": "경상북도 포항시 북구 양학로 51",
+        "abbrAddress": "득량동 155-2",
+        "shortAddress": [
+          "경북 포항시 북구",
+          "양학로 51"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "텐퍼센트스페셜티커피 포항양학점 입니다. 저희 매장은 [패스오더 앱]으로 편하게 주문이 가능한 매장입니다!",
+        "description": "텐퍼센트스페셜티커피 포항양학점 입니다. 저희 매장은 [패스오더 앱]으로 편하게 주문이 가능한 매장입니다!",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTVfNzgg/MDAxNzYwNTE1MDA4Mzk0.WtLgCJ6VUzV85koj7a_RRQU0JUZwi6ni4rjT9XN7JqEg.vJKeSpClK4qLCHbij9yxdE7VwfVUR4XcNUwDmSncZEEg.JPEG/FEAD041B-D07B-402B-96A4-53BFD259A23C.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTVfMTkw/MDAxNzQ0NjkzNjgwMTYw.VOTXjrdMnmCGKD3iaqVcuzPdmrbwkUK9IWM70g-yiR0g.lL5yIE5RAu-7CNnDFOU6EI9vX4NUORvdBaYsdvfeANsg.JPEG/image.jpg",
+          "https://ldb-phinf.pstatic.net/20221019_72/1666184985025xXV4o_JPEG/1666184954329.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTBfMTkw/MDAxNzQ2ODM2NDY0NjAx.1IKQpDAeBwut__35XMiI5OLgiolyf8MZImrMN_RXSmgg.NMcqbxCoyVIZWrOsBoXKK8HF8F8Ij_fC_ojmekcvuK8g.JPEG/20250510_092046.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1002685",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": [
+          {
+            "sid": "1009552664",
+            "bodySummary": "내돈내산: 서울로 올라가며 잠깐 들러 내 돈주고 사먹은 왕~ 큰 아메리카노 후기 원래 양학동 지나서 이동으로 가서 고속도로 타러가는 길에는 더벤티나 양학초 맞은편에 모리커피 있었는",
+            "url": "https://m.blog.naver.com/rearea5432/223087066894",
+            "nick": "새콤냥",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDAzMjZfMjQy/MDAxNTg1MjMyNTE0MjA5.nCs5bEWs454kqjNt_745bcowdDLQ_lbjFo05g-foWjAg.hjKM1Jvj17CJcsRz-xjac28FJeVTosbZs3Uy9BCnu7Mg.JPEG.rearea5432/profileImage.jpg"
+          },
+          {
+            "sid": "1009552664",
+            "bodySummary": "울산 경주 포항 배달의민족 매니저 &자영업지도사 김규민 커피류 외 다양한 메뉴들이 준비된 텐퍼센트 커피! 울산 경주 포항 배달의민족 매니저 &자영업지도사 김규민 마카롱 부터~쿠키 ",
+            "url": "https://m.blog.naver.com/kingsman1st/222910740798",
+            "nick": "김규민매니저",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20201119_6/kingsman1st_1605797682030HevYb_JPEG/%3F%3F%3F5.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "id": "1170962361",
+        "name": "더벤티 포항양학점",
+        "x": "129.3484245",
+        "y": "36.0278611",
+        "distance": 0.303,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "230832"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 339,
+        "averagePrice": 4000,
+        "address": "경상북도 포항시 북구 득량동 155-2",
+        "roadAddress": "경상북도 포항시 북구 양학로 51",
+        "abbrAddress": "득량동 155-2",
+        "shortAddress": [
+          "경북 포항시 북구",
+          "양학로 51"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "*매장 운영 시간 및 휴무일은 매장 별로 상이합니다. *시즌 메뉴의 운영 상황은 매장 별로 상이합니다. *메뉴 금액은 기본 Take out 구매 기준이나, 매장 별 연동 플랫폼에 따라 노출 가격이 상이할",
+        "description": "*매장 운영 시간 및 휴무일은 매장 별로 상이합니다. *시즌 메뉴의 운영 상황은 매장 별로 상이합니다. *메뉴 금액은 기본 Take out 구매 기준이나, 매장 별 연동 플랫폼에 따라 노출 가격이 상이할",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTNfMTcy/MDAxNzQ3MTE1NDY0MzI3.Mw9QUhJmff5x1dVhZ8UvFt1M8rMWC9EwLXL_gEzun48g.3nk-bQMB6nENmA191456zLcC4Tep-reR2K_vQhWVcjQg.JPEG/20250513_145007.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDVfOCAg/MDAxNzQ2NDE3ODAwNDIz.Q2hnZyTGiV51qGWzCm6vBc8_a4WlxaxFJgcpb_QsaDgg.p5WzrfWdAOqwgxVYTij7fwpiQ4elEvHZhEIN-XEk35Ug.JPEG/20250505_130302.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240103_297/1704241881526AIzwR_JPEG/1._%B4%F5%BA%A5%C6%BC_%C4%BF%C7%C7_BI.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDFfMTQ5/MDAxNzUxMzYyNzAwNDY1.6mGn258R7hAKnt9oMpWiWjfoplkLci-F4qZR7hWGqJAg.4Xvo5EEMHBh2NYaV01hl9LteOfk8g9Eh168dNVPjOBwg.JPEG/20250605_165817.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250910_226/17574660577695ts0h_PNG/25%29%BD%C3%C1%F04_%C0%CC%C3%B5%BD%D2.png",
+          "https://ldb-phinf.pstatic.net/20250801_204/17540310612178HF0g_JPEG/25%29%BD%C3%C1%F04_%B7%D1_%C4%DD%B6%F3%BA%B81.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "230832",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 9,
+        "id": "1636279541",
+        "name": "고어라운드커피 양학점",
+        "x": "129.3476866",
+        "y": "36.0266803",
+        "distance": 0.163,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221212"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 38,
+        "averagePrice": 0,
+        "address": "경상북도 포항시 북구 득량동 306 401동 101호",
+        "roadAddress": "경상북도 포항시 북구 득량길 20",
+        "abbrAddress": "득량동 306 401동 101호",
+        "shortAddress": [
+          "경북 포항시 북구",
+          "득량길 20"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "경상북도 포항시 북구 득량동 306 401동 101호",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221212",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1636279541",
+            "bodySummary": "밖에서 봐도 아담하고 예쁜데 안에 들어가니 뭔가 더 느낌있음 ♡오늘은 왠지 전혀 안먹던 #카라멜마끼야또 주문 카라멜마끼야또하면 거침없이하이킥 서민정선생님 생각나서 뭔가 사랑스러움 ",
+            "url": "https://m.blog.naver.com/eoaeoa/222987504002",
+            "nick": "뜽이맘",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTEwMDJfMTA4/MDAxNTY5OTQyOTg4MzQz.6vbdGFPbiDWdX8a7acfkubGI94TUQa1SZvg1JgdTCbIg.nT5epMsiTyCF5xr3T-s37gnZKgonw9GCRNiMU_IEXrcg.PNG.eoaeoa/profileImage.png"
+          },
+          {
+            "sid": "1636279541",
+            "bodySummary": "고어라운드커피 양학점 포항시 북구 득량길 20 401동 101호 0507-1326-3746 매일 07:30-18:00 일요일 휴무 양학동 도뮤토아파트 상가에 위치한 고어라운드커피 ",
+            "url": "https://m.blog.naver.com/wlgjs0650/222583683944",
+            "nick": "져니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTAyMjdfMzYg/MDAxNjE0NDM1MjYyMjQ1.fahF-FlSt5camncVbyRf82QuxX9TWw9c_eRC1WBg2Wgg.KiqO9e31mxar0bbvw6l3IM833i7ksLSSpZruecMUnWAg.JPEG.wlgjs0650/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "id": "33827911",
+        "name": "남포반점",
+        "x": "129.3484041",
+        "y": "36.0278291",
+        "distance": 0.299,
+        "categoryName": "중식당",
+        "categoryPath": [
+          [
+            "220036",
+            "220039",
+            "220091",
+            "220861"
+          ]
+        ],
+        "category": [
+          "중식",
+          "중식당"
+        ],
+        "reviewCount": 3,
+        "averagePrice": 0,
+        "address": "경상북도 포항시 북구 득량동 155-2",
+        "roadAddress": "경상북도 포항시 북구 양학로 51",
+        "abbrAddress": "득량동 155-2",
+        "shortAddress": [
+          "경북 포항시 북구",
+          "양학로 51"
+        ],
+        "displayContext": [],
+        "labelTheme": "중식",
+        "microReviews": [],
+        "cardDescription": "경상북도 포항시 북구 득량동 155-2",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220861",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

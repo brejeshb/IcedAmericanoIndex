@@ -1,0 +1,579 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 9,
+      "count": 9,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 128.10208887175762,
+          "minY": 35.170890990991,
+          "maxX": 128.10760000000002,
+          "maxY": 35.1753954954955
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "128.10484443587882;35.173143243243246",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1967973573",
+        "name": "진주성어탕국수",
+        "x": "128.1043557",
+        "y": "35.174926",
+        "distance": 0.203,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 27,
+        "averagePrice": 10000,
+        "address": "경상남도 진주시 상평동 276-9 1층",
+        "roadAddress": "경상남도 진주시 공단로 42",
+        "abbrAddress": "상평동 276-9 1층",
+        "shortAddress": [
+          "경남 진주시",
+          "공단로 42"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경상남도 진주시 상평동 276-9 1층",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20210306_119/16150289012391uFQW_JPEG/XXSvxt_CaX8adEfnMgDAnJ_u.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "15490760",
+        "name": "진주식당",
+        "x": "128.1044643",
+        "y": "35.1730012",
+        "distance": 0.038,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 35,
+        "averagePrice": 0,
+        "address": "경상남도 진주시 상평동 279-26",
+        "roadAddress": "경상남도 진주시 남강로971번길 43",
+        "abbrAddress": "상평동 279-26",
+        "shortAddress": [
+          "경남 진주시",
+          "남강로971번길 43"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경상남도 진주시 상평동 279-26",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjVfNTAg/MDAxNzU2MDk4MjAyOTQw.mK7sKvv4pqBZBDfmTHwwGbJCTxNCsAhVas3OdZ0lNoMg.r3Zusgz3fQEbsoZC-6ktV0c-ToYWk9UYXcesaizu5Bsg.JPEG/20250825_133238.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 3,
+        "id": "20010356",
+        "name": "가시고기",
+        "x": "128.1044999",
+        "y": "35.1749167",
+        "distance": 0.2,
+        "categoryName": "해물,생선요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220076",
+            "220777"
+          ]
+        ],
+        "category": [
+          "한식",
+          "해물,생선요리"
+        ],
+        "reviewCount": 17,
+        "averagePrice": 0,
+        "address": "경상남도 진주시 상평동 276-10",
+        "roadAddress": "경상남도 진주시 공단로44번길 2",
+        "abbrAddress": "상평동 276-10",
+        "shortAddress": [
+          "경남 진주시",
+          "공단로44번길 2"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경상남도 진주시 상평동 276-10",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220777",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.04",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 4,
+        "id": "1506673907",
+        "name": "데이원커피",
+        "x": "128.1029724",
+        "y": "35.1751529",
+        "distance": 0.281,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 2,
+        "averagePrice": 1000,
+        "address": "경상남도 진주시 상평동 275-81",
+        "roadAddress": "경상남도 진주시 공단로 29-1",
+        "abbrAddress": "상평동 275-81",
+        "shortAddress": [
+          "경남 진주시",
+          "공단로 29-1"
+        ],
+        "displayContext": [],
+        "labelTheme": "24시간 영업",
+        "microReviews": [],
+        "cardDescription": "경상남도 진주시 상평동 275-81",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20201203_266/1607003843959RO4Lb_JPEG/1EIF_4GOrcQKq5riZqntJtV7.jpg",
+          "https://ldb-phinf.pstatic.net/20201203_277/1607003843302DXOe4_JPEG/WasYhKYry9BaUjzuApJJmCBI.jpg",
+          "https://ldb-phinf.pstatic.net/20201203_9/1607003842732YWEUm_JPEG/0JUqX0-TC6CoZFd-QFkjyPvP.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 5,
+        "id": "1217442922",
+        "name": "데이원 스터디클럽NO.1",
+        "x": "128.1029722",
+        "y": "35.1751701",
+        "distance": 0.283,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 1,
+        "averagePrice": 2000,
+        "address": "경상남도 진주시 상평동 275-81 1층,2층",
+        "roadAddress": "경상남도 진주시 공단로 29-1",
+        "abbrAddress": "상평동 275-81 1층,2층",
+        "shortAddress": [
+          "경남 진주시",
+          "공단로 29-1"
+        ],
+        "displayContext": [],
+        "labelTheme": "24시간 영업",
+        "microReviews": [],
+        "cardDescription": "경상남도 진주시 상평동 275-81 1층,2층",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20201202_202/1606874707871lXvNd_JPEG/q7J7MvRGiMspwjNA5fTg2MGa.jpg",
+          "https://ldb-phinf.pstatic.net/20201202_105/1606874707915xrznz_JPEG/L6QXfdcmPRcJeMU9E5TJSN4h.jpg",
+          "https://ldb-phinf.pstatic.net/20201202_137/1606874707919KIS1p_JPEG/TirHK9ESrVzFOG4yItkLCAtM.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 6,
+        "id": "15485216",
+        "name": "금우식당",
+        "x": "128.104665",
+        "y": "35.1730469",
+        "distance": 0.02,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 1,
+        "averagePrice": 0,
+        "address": "경상남도 진주시 상평동 279-27",
+        "roadAddress": "경상남도 진주시 남강로971번길 45",
+        "abbrAddress": "상평동 279-27",
+        "shortAddress": [
+          "경남 진주시",
+          "남강로971번길 45"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경상남도 진주시 상평동 279-27",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 7,
+        "id": "406968239",
+        "name": "솔밭식육마트",
+        "x": "128.1044699",
+        "y": "35.1749178",
+        "distance": 0.2,
+        "categoryName": "육류,고기요리",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220733"
+          ]
+        ],
+        "category": [
+          "한식",
+          "육류,고기요리"
+        ],
+        "reviewCount": 10,
+        "averagePrice": 0,
+        "address": "경상남도 진주시 상평동 276-10",
+        "roadAddress": "경상남도 진주시 공단로44번길 2",
+        "abbrAddress": "상평동 276-10",
+        "shortAddress": [
+          "경남 진주시",
+          "공단로44번길 2"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경상남도 진주시 상평동 276-10",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220733",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 8,
+        "id": "15485200",
+        "name": "고향식당",
+        "x": "128.1073226",
+        "y": "35.1718939",
+        "distance": 0.265,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 0,
+        "averagePrice": 0,
+        "address": "경상남도 진주시 상평동 234-1",
+        "roadAddress": "경상남도 진주시 솔밭로 31",
+        "abbrAddress": "상평동 234-1",
+        "shortAddress": [
+          "경남 진주시",
+          "솔밭로 31"
+        ],
+        "displayContext": [],
+        "labelTheme": "한식",
+        "microReviews": [],
+        "cardDescription": "경상남도 진주시 상평동 234-1",
+        "description": "",
+        "images": [],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 9,
+        "id": "1610266737",
+        "name": "꾸브라꼬 숯불 두마리치킨 진주시청점",
+        "x": "128.102927",
+        "y": "35.1751501",
+        "distance": 0.283,
+        "categoryName": "치킨,닭강정",
+        "categoryPath": [
+          [
+            "220036",
+            "220049",
+            "1002287"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "치킨,닭강정"
+        ],
+        "reviewCount": 132,
+        "averagePrice": 20000,
+        "address": "경상남도 진주시 상평동 275-81 1층일부()",
+        "roadAddress": "경상남도 진주시 공단로 29-1",
+        "abbrAddress": "상평동 275-81 1층일부()",
+        "shortAddress": [
+          "경남 진주시",
+          "공단로 29-1"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [],
+        "cardDescription": "경상남도 진주시 상평동 275-81 1층일부()",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjhfMjQ1/MDAxNzYxNjA3ODExMTQx.XQYBeHPnRhoUCmHgJsfro-uvOs505Vmr405EoD_QZ3Yg.UIR7TOQNbLMGGVubCHT_KS9JHpKFK4cMzxWPNL5wyWgg.JPEG/29ACB1CE-B9E8-4F1E-814D-F9D953E3F432.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjdfMTA4/MDAxNzU2MzA0MDMzODA3._XLUZg6GrfOO4SwcCEglOHCiQHxcfCt7pxmc2BwKoaYg.KXCdUnFaoqAlQAymi2iEeM-pBhtRTiL4oGDA1evH_Xcg.JPEG/20250827_230611.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240607_42/1717724756412yyHN7_PNG/%B2%D9%BA%EA%B6%F3%B2%BF_%BD%A1%BA%D2%C4%A1%C5%B2_%B7%CE%B0%ED.png",
+          "https://ldb-phinf.pstatic.net/20250708_213/1751963581512iE0Q6_PNG/KakaoTalk_20250613_154657261.png",
+          "https://ldb-phinf.pstatic.net/20221130_226/1669773172493qmhI2_JPEG/%B8%DE%B4%BA%B8%F0%C0%BD%C4%C61.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1002287",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1610266737",
+            "bodySummary": "양념도 치킨 안에가 베여있는 느낌보다는 겉에만 있는 느낌으로 뭔가 부족하다는 느낌이 들었습니다 리뷰 이벤트로 받은 양념감자입니다 롯데리아나 맥도날드 양념감자보다 맛있습니다 설탕이 ",
+            "url": "https://m.blog.naver.com/1492tennis/223268988380",
+            "nick": "1492",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA2MjZfMjAz/MDAxNjg3Nzg5MzcwMTE5.bxFEoARmO-2t69EzGvQXnD4zdsSoZxZfMkX9VAzVhgsg.bWX_xj6LpZhjMgPd8-TU5vKs83v0mhyu2GD0iB44Tnsg.JPEG.thdn2002/%25EC%259E%2590%25EC%25A0%2584%25EA%25B1%25B0%25EC%2582%25AC%25EC%25A7%2584.jpg/%25EC%259E%2590%25EC%25A0%2584%25EA%25B1%25B0%25EC%2582%25AC%25EC%25A7%2584.jpg"
+          },
+          {
+            "sid": "1610266737",
+            "bodySummary": "가성비 좋은 꾸브라꼬 숯불 두마리치킨 경남 진주시 상평동 275-81 1층 055-753-4454 ⏰ 매일 17:00~03:00 매주 화요일 휴무 포장, 배달, 무선인터넷, 남/여",
+            "url": "https://m.blog.naver.com/lillian1216/222537469636",
+            "nick": "달콤피에스타",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDA3MjJfMTky/MDAxNTk1MzQ2NzQ5ODc5.rGhwZANwZg7u_AA_W9E8RWf2sajTHgvxSbNiwA-s5OAg.6bB1-pVtgQy9AfF1lTto8D8MUUt5vNN9lgnN2PIGVz4g.JPEG.lillian1216/profileImage.jpg"
+          },
+          {
+            "sid": "1610266737",
+            "bodySummary": "진주 치킨 꾸브라꼬는 배달의 민족 어플에서 치킨 분야 랭킹 1위에요. 그래서 그동안 시킬까 말까 기회를 노리고 있던 곳입니다. 오빠가 치킨을 안좋아라하거든요. 서울에 있을땐, 방화",
+            "url": "https://m.blog.naver.com/9jpbrptbt/222426776609",
+            "nick": "수공",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTAzMjVfMjc4/MDAxNjE2NjM2MzkxMjI0.Fa4mVIN1I69dD2OMFslBoLi67d8UlXKYw18-HWemDcQg.6ZNWahtKjFWVZHLrXFWLlvUBTSbvNHCz8XwBMcqYvB8g.PNG.9jpbrptbt/profileImage.png"
+          },
+          {
+            "sid": "1610266737",
+            "bodySummary": "꾸브라꼬숯불두마리치킨진주상대점 치킨 박스가 큰걸 보니 엄청난 양이 들어있을것 같은 기대감이 드네요. 개봉을 해보겠습니다. 치킨이 두마리 였어요. 양념과 소금구이 그리고 무 콜라까지",
+            "url": "https://m.blog.naver.com/0906jy/222271377463",
+            "nick": "설윤",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTA5MTBfMzQg/MDAxNTY4MDQ4MTA2NzI4.QoQGw0i75NeabJoH7EHQKgwR1zCZe6nWOsnaW0Zij1Ag.-vZX4N_aKp1XEZm5Rz7jVBX2xMF94kCCtN3CLT5lozwg.JPEG.0906jy/profileImage.jpg"
+          },
+          {
+            "sid": "1610266737",
+            "bodySummary": "사장님이신지 퀵이 안돼서 직접 배달하시러 오신듯 했는데 아마 헤매신듯 합니다 그래서 그런지 아니면 원래 리뷰 이벤트로 감자를 이렇게 많이 주는지 모르겠습니다.양념 감자는 리뷰 이벤",
+            "url": "https://m.blog.naver.com/yoonka2953/222243581052",
+            "nick": "지혜",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjExMjVfMjEz/MDAxNjY5Mzg3MjU2NjYz.LR0DcXOiePLB-mIq__vDs03nM5koFmK8_CK8VQ9NC-Ag.ZnavpN1hP_Bc75CxjAeCsYh5tRVnE388XiSGkyzb1UQg.JPEG.yoonka2953/profileImage.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

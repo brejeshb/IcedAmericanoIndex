@@ -1,0 +1,553 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 6,
+      "count": 6,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.97572685255253,
+          "minY": 37.5601936936937,
+          "maxX": 126.97686342627627,
+          "maxY": 37.5610945945946
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.97629513941439;37.56064414414415",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1933856743",
+        "name": "그리너 남대문점",
+        "x": "126.9764084",
+        "y": "37.5603412",
+        "distance": 0.035,
+        "categoryName": "다이어트,샐러드",
+        "categoryPath": [
+          [
+            "220036",
+            "220047",
+            "220170",
+            "230734"
+          ]
+        ],
+        "category": [
+          "도시락,컵밥",
+          "다이어트,샐러드"
+        ],
+        "reviewCount": 2583,
+        "averagePrice": 10000,
+        "address": "서울특별시 중구 남대문로4가 20-15 1층",
+        "roadAddress": "서울특별시 중구 남대문로 6",
+        "abbrAddress": "남대문로4가 20-15 1층",
+        "shortAddress": [
+          "서울 중구",
+          "남대문로 6"
+        ],
+        "displayContext": [],
+        "labelTheme": "",
+        "microReviews": [
+          "신선한 재료로 만드는 건강한 한끼"
+        ],
+        "cardDescription": "신선한 재료로 만드는 건강한 한끼",
+        "description": "맛있는 한 끼를 위한 샐러드&포케 전문점 그리너입니다.  단순한 다이어트 음식이 아닌 언제든 먹고싶은 일품 요리로서의 샐러드&포케를 만듭니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTlfMTU3/MDAxNzU1NTcwNDM1MDE2.-dvR2lZt6dSrC6pkPx2mt95j27JHb49cCqhgQZLH0SAg.6cUoMzczsJpaBBwP4o6LtjXqLXeVcjZguXvwUkV9EOAg.JPEG/05CFBF88-51FF-41E5-A650-20995DC33621.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDlfMjc3/MDAxNzQ5NDM1MTkxMDgx.Et65UG2eEtIXpT9P5EijIKnimf7F1aqN3hVM7SAn8rIg.d3yIJkA8tbZj-RMRK6iW-luCiIRBzgzDpOfc_2bmi0Mg.JPEG/20250609_111257.jpg",
+          "https://ldb-phinf.pstatic.net/20240708_163/1720446393310pWYX1_PNG/5.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDNfMjI1/MDAxNzU5NDY4NzUyNTUx.9nP0GHt86grSKiuCldxyNY7OJo9Oyy1CEQlEvaRTYhMg.rDWfFdIXw5hKmTO0inOZakW4vSvx72dnE9HySPdMFrog.JPEG/CAB77363-53F7-4B0B-9F48-60D64D3B53FF.jpeg",
+          "https://ldb-phinf.pstatic.net/20240708_102/1720446393250y49EK_PNG/2_2.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjZfMTg3/MDAxNzU4ODU1MTI1NDAx.Al1yNEY1cgvtRTzHif3D3kL8Cc6jrJQe0651X4sxzlAg.km8RP5GQZENJafnK9vz1pV_edpZqAThJLD44Fc4rY9gg.JPEG/1000045629.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240708_271/1720446393210vhzbU_PNG/1_2.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MThfMjQ2/MDAxNzU1NDkwNjkxMTkx.TrcOYXhFTbM2vMs04Y0ZuZoO_L_J21OZq_NynSTc9VIg.GrRGtC4lj3lvQbKNtdtKVOmyKgq0NthfsW-k1msl3qUg.JPEG/E29C32FC-9E02-453E-A935-EC0F96D5E295.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDJfMTA0/MDAxNzUxNDIyNTkyMzI5.8wxdsiP7ciGQisiejj_NcQ5elWytreCMLfUffJYoNowg.rT3t3GLj-3yJsT4jGJzyg1j8du7v-w8iRQNqBHF6hAQg.JPEG/20250702_111605.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTRfMjky/MDAxNzUyNDY2NzU4ODM0.13wOrSoIWXgATGyBNN_wwzKC1YrWkEREt51aBk5qDTUg.zQ0AlOy9ZW2x-Bj9hZRCuGQA6xaf2I2Tx5LSy2YCbQ8g.JPEG/20250714_130232.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "230734",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "1069967976",
+        "name": "콩코드커피",
+        "x": "126.9764337",
+        "y": "37.5603114",
+        "distance": 0.039,
+        "categoryName": "테이크아웃커피",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220577",
+            "221358"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "테이크아웃커피"
+        ],
+        "reviewCount": 286,
+        "averagePrice": 5000,
+        "address": "서울특별시 중구 남대문로4가 20-15 1층",
+        "roadAddress": "서울특별시 중구 남대문로 6",
+        "abbrAddress": "남대문로4가 20-15 1층",
+        "shortAddress": [
+          "서울 중구",
+          "남대문로 6"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [
+          "설탕의 아삭함이 살아있는 특별한 라떼"
+        ],
+        "cardDescription": "설탕의 아삭함이 살아있는 특별한 라떼",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTlfMjIx/MDAxNzQ3NjI3Mjc4NzI5.eM0KiGpvwH-KAl5zmJhA7l9CVSiARVgGLkqe5evpLaYg.TQD1PystELzBbKTWRNYsVn6mdD81yu2NNtY8rbWjJrgg.JPEG/20250519_120228.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjJfMjcy/MDAxNzQ3ODkzMzM1MzY0.Bn8YH-4HalGXxqA9GaPZTmnNXjEvvQPjpsm4iwbk_twg.Cpw_JPFDDLuWOA7XwpT1kNESVl4Qbl_CGTqaUpOsgfog.JPEG/20250522_134148.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20211110_171/1636529370263iASH4_JPEG/tkn5m23Q4WC9DRKq0DV9E0-B.jpeg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDhfMjk5/MDAxNzU0NjIzNjE1ODE2.uFrVuVPHX07wnak5W6-CK7eHnAlHswO51k9qLst7xzsg.cttHRHIxdX-WYIyDnwBEJsIDh3sf0aMbJJJvegivXtkg.JPEG/20250808_122617.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MjdfNjYg/MDAxNzUxMDAzMzM0NjA0.By0UGb-feMvpW4wxBqrimoRTF-CAnya09dtUN7_ZsN8g.IEp8iumiuBcwDz8V3GOvx42it0UcPWBXYpqirUFxn2wg.JPEG/1BDC1274-0402-4883-8C9E-CC4A0815E15F.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MThfODYg/MDAxNzU1NDkwMDQwNTY0.Qw_Lhqev5y9AvqZB5HcdRCQ9XJKpM4D9rDvhHVk_xmYg.RuTELfNbr-tQqnx1OTv0k4Vx4tOaL9Ji7_K6I0YPaf0g.JPEG/3DEF8C3B-D24F-433A-9AAE-EBF11BBAC1BB.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDFfMzAg/MDAxNzUxMzM4MjQ5ODYz.HBAvpnudFHJiedLzVnVHullUD__qM-lLUe_awjNz6Xcg.cPrpax_zgauhaLxwgXo62mygbyXNPvKWj1tQ89CWbB4g.JPEG/20250624_131056.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDhfMjUg/MDAxNzU0NjEwNzc4MTU5.H894miTctpFdLciDj-eZyT_HpQwW91SdpgWuMXFZA-og.6ws8XLNFCNt2SHZK29Xk0y1smlh5m8IhPqsc21vSFXMg.JPEG/20250423_130716.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MDRfMTI0/MDAxNzUxNjAxMTI2NzA1.2ZRyC3_-LMr3-WOtPb4osP9tGSql6xw3foSaGle1DB8g.mraIy4ijNYi5dFuNDnu3tb6eYJ86pCTXxyCPUpbibTsg.JPEG/F5301D86-4CB5-4AD8-9A03-EE13C49608AE.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTZfMTgx/MDAxNzUwMDQ4MDI1Mzkw.n-2r4yxOsngwb4DjvCoqaQGzA40HYjKBdo6gduvtvt4g.yUTtvyEV7lNsyUceZjdrzeC89kW6oH-LjadpkLlFhOsg.JPEG/20250423_130716.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221358",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1069967976",
+            "bodySummary": "점심시간에 직장인 많은 밥집 & 카페는 뭐다?? 가성비 맛집이라는거다 진짜 근방에서 젤 킹성비 이날은 라떼! 원두는 d로 라떼는 우유 함량이 많아서 그런지 플랫화이트쪽을 더 좋아하",
+            "url": "https://m.blog.naver.com/smtm4/223245147068",
+            "nick": "또잉",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMDA2MTNfMjk1/MDAxNTkyMDEyMjA0ODEz._oOdDpEPfWKnPET8R3l5gqAYB4HM96Q49LGjHJAkbbsg.rnaOzMMZxC5Xc7i7ZBwicxc92CYVR76kgVEFLXEIMjEg.PNG.smtm4/profileImage.png"
+          },
+          {
+            "sid": "1069967976",
+            "bodySummary": "콩코드커피 남대문시장 테이크아웃 커피 맛집 영업시간 월-금 07:30 - 16:30 토 09:00 - 15:00 매주 일요일 정기휴무 자매식당에서 밥먹고 맛있는 커피 파는 곳 없나",
+            "url": "https://m.blog.naver.com/lemon-ery/223243897804",
+            "nick": "딩",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA1MTlfNjYg/MDAxNjUyOTM5MDgxNTE1.BsmjSifLbmJpn-VuBGC0dXAzH_n6cz2UmNHnAT3ZMTsg.bHSt8q6PKoRSlBbAo-9zgt5v29UY2xcaNo0TP10nvIog.PNG.89312/profileImage.png"
+          },
+          {
+            "sid": "1069967976",
+            "bodySummary": "콩코드커피 주소: 서울 중구 남대문로 6 1 영업시간: 07:30 ~ 16:30 (토 07:30 ~ 15:00) 매주 일요일 휴무 전화번호: 0507-1487-1329 위치는 숭례",
+            "url": "https://m.blog.naver.com/khis_blog/223238235719",
+            "nick": "한국보건의료정보원",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA3MTNfMjcz/MDAxNjg5MjMzMzAxNDcz.MsG7LFgmHaXXmdQ4-4gQhu0ByxDKIOzCxkjMBTvYLDAg.m5rk9Rljtje_2jM9n_hTo-Ici2pjffEUmDD-mZ0UG8kg.PNG.k-his123/%25ED%2595%259C%25EA%25B5%25AD%25EB%25B3%25B4%25EA%25B1%25B4%25EC%259D%2598%25EB%25A3%258C%25EC%25A0%2595%25EB%25B3%25B4%25EC%259B%2590%25EB%25A1%259C%25EA%25B3%25A0%2528%25EC%2588%2598%25EC%25A0%2595%2529-04.png/%25ED%2595%259C%25EA%25B5%25AD%25EB%25B3%25B4%25EA%25B1%25B4%25EC%259D%2598%25EB%25A3%258C%25EC%25A0%2595%25EB%25B3%25B4%25EC%259B%2590%25EB%25A1%259C%25EA%25B3%25A0%2528%25EC%2588%2598%25EC%25A0%2595%2529-04.png"
+          },
+          {
+            "sid": "1069967976",
+            "bodySummary": "이 라인에 2개의 테이크아웃 커피숍이 있는데 최근 몸집을 불려가고 있는 콩코드 커피입니다 진심 시간 잘못 맞추면 줄이 너무 길어서 그냥 스쳐 지나가야 함 그렇게 지나간 적이 많음!",
+            "url": "https://m.blog.naver.com/pandasuki/223215793163",
+            "nick": "판다",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20141015_59/pandasuki_1413358440951RgrBg_JPEG/20141013_142824.jpg"
+          },
+          {
+            "sid": "1069967976",
+            "bodySummary": "오늘은 남대문 근처 테이크아웃전문점으로 커피 찐맛집 소개해드릴게요! 콩코드커피는 카메라거리에 위치해있어요! 이삭토스트 옆에 사람이 왜 이렇게 바글바글해?하면 콩코드커피 줄입니다ㅋㅋ",
+            "url": "https://m.blog.naver.com/j2m2n2_/223162354340",
+            "nick": "뽀다기",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMTBfMjEw/MDAxNzEwMDE0NTUxNTEw.j62ON80hmiO8wBn3EkpDGKjrfdCcyI_24h8gt5YAuqUg.fvgUY-PH53uyfC_v52LNFF0Ywgj292XfphfvlsDAHzQg.PNG/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "id": "1129506938",
+        "name": "히카리",
+        "x": "126.9765634",
+        "y": "37.5608847",
+        "distance": 0.036,
+        "categoryName": "일식",
+        "categoryPath": [
+          [
+            "220036",
+            "220038",
+            "220081",
+            "220804"
+          ]
+        ],
+        "category": [
+          "일식",
+          "일식당"
+        ],
+        "reviewCount": 70,
+        "averagePrice": 10000,
+        "address": "서울특별시 중구 남대문로4가 17-10",
+        "roadAddress": "서울특별시 중구 남대문로 7",
+        "abbrAddress": "남대문로4가 17-10",
+        "shortAddress": [
+          "서울 중구",
+          "남대문로 7"
+        ],
+        "displayContext": [],
+        "labelTheme": "일식",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 남대문로4가 17-10",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20190618_154/1560855590963Gtv4v_JPEG/1buxYsGN3YHLLjdqn0OrG_qs.jpg",
+          "https://ldb-phinf.pstatic.net/20190618_235/1560855583925tbogN_JPEG/L2ADI35_B8VNyMf9jsxuZg_W.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220804",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1129506938",
+            "bodySummary": "맛슈타인 입니다 :) 오늘은 시청역 이자카야! 남대문 사시미 꼬치구이 맛집 히카리 리뷰입니다ㅎ 히카리는 숭례문 바로 옆에 있구요! 2~3층 통째로 히카리가 사용합니다~ 그래서 입구",
+            "url": "https://m.blog.naver.com/gusdud3719/222657745538",
+            "nick": "맛슈타인",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjEyMDdfMjMg/MDAxNjcwMzg4MDg5ODcy.dTn6dI9UIAglig9m4E2ua9B8oolxqEXb68hzsAgKg0sg.ymVLeAQoSdXyYufFP5HpfxK_LvTE4qlXukv3L0voGvQg.JPEG.gusdud3719/profileImage.jpg"
+          },
+          {
+            "sid": "1129506938",
+            "bodySummary": "오랜만에 이자카야가 너무 가고 싶었는데 회현역 근처에 분위기 좋은 곳을 발견했습니다. 히카리 주소: 서울 중구 남대문로4가 17-10 1층 입구로 올라가면 2층으로 들어가는 문이 ",
+            "url": "https://m.blog.naver.com/2hambola/222138016680",
+            "nick": "햄링캠프",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTAxMjRfMzkg/MDAxNjExNDkwMDExNDg3.-9dvFQFIig9pg6z5nlU_-9UkyNm5lsFcvAJ2JzDmAq0g.E7VDLvloMObFco2FJlZTnxebB6Mimd75fTsyL6fVaFUg.PNG.2hambola/profileImage.png"
+          },
+          {
+            "sid": "1129506938",
+            "bodySummary": "급 겨울 체감중이랍니다.. 잇님들은 감기조심하세용!!! 얼마전 북창동, 남대문시장 근처에 있는 이자카야에 다녀왔어요~! 야키도리 히카리 예전에 저희동네에도 똑같은 간판이 있었는데 ",
+            "url": "https://m.blog.naver.com/marine1210/221745459621",
+            "nick": "마린",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA4MjVfODUg/MDAxNjYxNDEyNjk0OTU0.DpMZaqafpYk8DNyTdZxfcTEfwnijcVUi312HxH5BNfUg.slvRMC_o6GZtNLUwNpN7zeN7LdNBjH0GNUPafkeRBCkg.JPEG.marine1210/Cap_2022-08-25_16-25-39-784.jpg/Cap%2B2022-08-25%2B16-25-39-784.jpg"
+          },
+          {
+            "sid": "1129506938",
+            "bodySummary": "였구요(?)그냥 완전 대존맛!! 이런건 또 아닌데 그렇다고 별루다 뭐 또 이렇진 않아요 그리고 매운 해산”불”짬봉은 불이 뭘까? 엄청 맵다는 걸까? 하고 물었더니 오타라고 하시네요",
+            "url": "https://m.blog.naver.com/egg0224/221568200164",
+            "nick": "지우개",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20110930_54/egg0224_1317364815421_DTAJFN_jpg/IMGP0058.jpg"
+          },
+          {
+            "sid": "1129506938",
+            "bodySummary": "[히카리/서울역 맛집/남대문 맛집/북창동 이자카야/남대문 이자카야/소씨의 칼로리] 오래만에 추억의 남대문 야채호떡도 먹고 신났던 날 저녁먹을 겸 들어간 이자카야 서울 중구 남대문로",
+            "url": "https://m.blog.naver.com/twd5409/221420387764",
+            "nick": "소씨",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20160801_161/twd5409_1470028508285Rl5ih_JPEG/profileimage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "id": "1432012915",
+        "name": "토리광 남대문점",
+        "x": "126.9765832",
+        "y": "37.5608557",
+        "distance": 0.035,
+        "categoryName": "일식",
+        "categoryPath": [
+          [
+            "220036",
+            "220038",
+            "220088",
+            "220847"
+          ]
+        ],
+        "category": [
+          "일식",
+          "일식튀김,꼬치"
+        ],
+        "reviewCount": 96,
+        "averagePrice": 0,
+        "address": "서울특별시 중구 남대문로4가 17-10",
+        "roadAddress": "서울특별시 중구 남대문로 7",
+        "abbrAddress": "남대문로4가 17-10",
+        "shortAddress": [
+          "서울 중구",
+          "남대문로 7"
+        ],
+        "displayContext": [],
+        "labelTheme": "일식",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 남대문로4가 17-10",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTBfMTgy/MDAxNzQ5NTU1NjM1NDI2.diZSDvtoWUqQXEmYOEEKGSj8iU7l3W_rDkvGOrFp3U8g.l-LJpNtULI0decSfIHxhFUlBLmOZoJM3LJV95cLQhIsg.JPEG/20250529_212516.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220847",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 5,
+        "id": "1527088155",
+        "name": "이삭토스트 남대문점",
+        "x": "126.9763492",
+        "y": "37.5602896",
+        "distance": 0.04,
+        "categoryName": "토스트",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220190",
+            "220238"
+          ]
+        ],
+        "category": [
+          "분식",
+          "토스트"
+        ],
+        "reviewCount": 1494,
+        "averagePrice": 5000,
+        "address": "서울특별시 중구 남대문로4가 20-9",
+        "roadAddress": "서울특별시 중구 남대문로 2-3",
+        "abbrAddress": "남대문로4가 20-9",
+        "shortAddress": [
+          "서울 중구",
+          "남대문로 2-3"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "이삭토스트 앱 출시! 앱에서 다양한 이벤트와 혜택을 만나보세요~! https://smartorder.beaverworksinc.com/brand/901216",
+        "description": "이삭토스트 앱 출시! 앱에서 다양한 이벤트와 혜택을 만나보세요~! https://smartorder.beaverworksinc.com/brand/901216",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTFfMTU0/MDAxNzU3NTkyNDA1ODM4.MXZRzaMQHTzWhjPUFDXvYD1CiIV7X9CsVM6UreyHgg0g.9d7YeRI2myvpvjhtAsCHdT00F8Z-VZJwFurzf9z_W94g.JPEG/1000075493.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjFfMTI4/MDAxNzU1NzA5ODQzNDQ4.Zk790TG__6jpvWjrKb7G-E432QOgV64WhONCPyEcU_cg.M-7aEdxbiE_Htx6gpR7ge9O3KLqqzyDOqbtZrI9iCW0g.JPEG/078E3A9E-39F3-4296-BBBE-943CA28A7FFD.jpeg",
+          "https://ldb-phinf.pstatic.net/20240429_10/1714362212485GnOUa_JPEG/1.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjRfODUg/MDAxNzQ4MDYwMjM2Mjgy.0M6JHH4OwTjVbqsTsXJ7b6bYgEXVi2PuG5brlDl7xlQg.lxXa8-xW1oGe7n70O3qxTA54lKk1KVlY6CQPUyHyaj8g.JPEG/0ABB3275-DBE6-4EB3-9849-DB3D450FD0D5.jpeg",
+          "https://ldb-phinf.pstatic.net/20250623_79/1750606952188MuwoV_PNG/%BA%B9%BC%FE%BE%C6%C0%EB%C5%E4%BD%BA%C6%AE_%B3%D7%C0%CC%B9%F6_1080-1080.png",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MThfMTI0/MDAxNzUyODM5NDIxNjIw.wCbgM7My8s9mO0VUjflUecWfqCrcgPN3rNth2xYuuOwg.bfly_p0hyZAZo7fcSXttafWXGZqIgFZnt9jBHW2JdkQg.JPEG/20250702_114252.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20250428_238/1745769278166fJkH4_JPEG/%BF%C2%B6%F3%C0%CE%BA%A3%B8%AE_%B0%E8%B6%F5%C8%C4%B6%F3%C0%CC_%B3%D7%C0%CC%B9%F6_1080-1080_%BC%F6%C1%A4.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTRfMTMy/MDAxNzU1MTU5ODQ1NTQy.w6vDXvz4T6mJVbHn7QCOb8cQbsd_PjKHUm8xNcE2yqUg.wskXw_X2w3EnYvHJlTIcvTknUdMUmi_wklnXiBdWrkMg.JPEG/9F785C7D-F5AE-49B9-A5FC-4508C05714AA.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MDJfNjIg/MDAxNzQzNTUwNjM2MTIw.BkWWrtyjIcxp7pd1DQARjZSDDgdDsUli4r9D3G2KUuog.zYGOg49_I_PTxhynEdWkjuioR0Oh5Du2q6c9GP2mA7cg.JPEG/7D50C765-0BA0-4841-B9DA-0EC1A9A3E92C.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjlfNTUg/MDAxNzQ4NDg2OTI2MDI3.Ih5IdEalclbsi0Qr45mtKH-BWL3JGDXHB3KvfzIhQOUg.Z2mzYTqRMWkkX_POEeSFPoRnJ18rPhjSAa0D8hfovwkg.JPEG/B7DC1D98-CAC6-4067-8EFC-C8DA4182C165.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220238",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": true,
+        "hasNPay": true,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": true
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1527088155",
+            "bodySummary": "제가 가본 곳은 이삭토스트 남대문점인데 주변에 상인들도 많고 회사원들도 많아 많이 애용하는거 같더라구요. 서울 중구 남대문로 2-3 영업시간 7:00 ~ 19:00 일요일 휴무 0",
+            "url": "https://m.blog.naver.com/truejinmi/223200623268",
+            "nick": "골드미르",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20150430_286/truejinmi_1430367097293kNfhc_JPEG/profileimage.jpg"
+          },
+          {
+            "sid": "1527088155",
+            "bodySummary": "제가 고른 건 2개. 베이컨과 소세지의 대결입니다. 승자는 누구일까요? 이삭토스트 남대문점 이삭토스트 남대문점은 숭례문에서 시장 방향으로 횡단보도를 건너면 바로 보이는 곳에 있습니",
+            "url": "https://m.blog.naver.com/hjoooni/223138761288",
+            "nick": "럼뿌",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMzFfMTcg/MDAxNzA2NzA2MzI2NzM4.ks5uiV4CgFj6csH8elOpslidtQr8lSX7hTBTZQ9Pyhog.feDF1jqlL-HoCVzwX6WTFDsAgfoI8e9tjb3WXqKR91kg.JPEG.hjoooni/profileImage.jpg"
+          },
+          {
+            "sid": "1527088155",
+            "bodySummary": "#이삭 산대식입니다. 과거 계란토스트 천원 이라고 하면 나이차이가 있는 리라는 말도 안된다고 하더라고요. 전 진짜였는뎅... 남대문 근처 작게 있습니다. 요즘 #T멤버십 할인에도 ",
+            "url": "https://m.blog.naver.com/tkseotlr/223100120685",
+            "nick": "산대식",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAzMjlfMTMy/MDAxNjgwMDY1MzQ2NTU1.3cx_fwIH9ilASekXuenvc-SoN4DjjjVcwldf59ztFWsg.GIM82l3c8lD0graH3N7Vddh0J9dpoZl1ipLr1Any-iEg.JPEG.tkseotlr/KakaoTalk_20230202_111903752_16.jpg/KakaoTalk_20230202_111903752_16.jpg"
+          },
+          {
+            "sid": "1527088155",
+            "bodySummary": "옥수수 들어있는 달걀지단도 여전히 맛있었습니다 달콤한 이삭 소스와 양배추의 궁합이 아주 좋았답니다 숭례문 뷰를 바라보며 마친 한끼식사 직장인분들이나 남대문시장 놀러오시는 분들이 방",
+            "url": "https://m.blog.naver.com/eternal__g/222785801035",
+            "nick": "품크",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA0MTJfNjIg/MDAxNjgxMjg3MTI1MTk5.8yAFKU1IXExYHv43C2M09n5dr0n7feHTyCKRT67YUHcg.vuuASzBvedmZdOIkTQ2H0zivVk5q8Yjp_WuNoArMpzMg.PNG.todayharu401/profileImage.png"
+          },
+          {
+            "sid": "1527088155",
+            "bodySummary": "포장해서 돌아가는 길 날씨도 좋고 새삼스럽게 숭례문이 예뻐서 사진찍었어요 맵달맵달리챔 3,900원 토스트 구성은 모짜렐라 치즈와 계란 한 장 두툼한 리챔 세 장 달달한 이삭토스트만",
+            "url": "https://m.blog.naver.com/weekendmin/222404539713",
+            "nick": "도지유",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAzMjVfNjMg/MDAxNzExMzQ5MzQ1MzAw.45cEF7H3NrXao_Yt6VLg_z9_0IS19dqf7HUAlRRUqM0g.lLiLhYxRZ5NcyiIS1eyxGFGkoYhvzvU1gbCPHG2OQIsg.PNG/profileImage.png"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "id": "1578412408",
+        "name": "하나노마이",
+        "x": "126.9765804",
+        "y": "37.5608893",
+        "distance": 0.037,
+        "categoryName": "일식",
+        "categoryPath": [
+          [
+            "220036",
+            "220038",
+            "220081",
+            "220804"
+          ]
+        ],
+        "category": [
+          "일식",
+          "일식당"
+        ],
+        "reviewCount": 307,
+        "averagePrice": 40000,
+        "address": "서울특별시 중구 남대문로4가 17-10 3층",
+        "roadAddress": "서울특별시 중구 남대문로 7",
+        "abbrAddress": "남대문로4가 17-10 3층",
+        "shortAddress": [
+          "서울 중구",
+          "남대문로 7"
+        ],
+        "displayContext": [],
+        "labelTheme": "일식",
+        "microReviews": [],
+        "cardDescription": "일본 현지인들이 만들고 시비스 하는 잘 숙성된 사시미와 다양한 전통 일본요리를 즐기실수 있습니다.",
+        "description": "일본 현지인들이 만들고 시비스 하는 잘 숙성된 사시미와 다양한 전통 일본요리를 즐기실수 있습니다.",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20180423_218/1524457093202xLU1n_JPEG/Cz1P3Yylh-YVw9ZB29pWJOV7.jpg",
+          "https://ldb-phinf.pstatic.net/20180423_183/1524457341166PMxci_JPEG/qOrB8gOJfXw586xBm7c0_nov.jpg",
+          "https://ldb-phinf.pstatic.net/20180313_18/1520916680272j1qsD_PNG/Gc5khtmmCZxVNr19eT_qzzFK.png"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220804",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1578412408",
+            "bodySummary": "최근 1년간 가장 많이 간 음식점을 고르라면, 바로 남대문 '하나노마이' 이때까지 한 10번? 정도는 간 것 같은데, 갈 때마다 정신없이 먹고 마시느라 사진 찍는 걸 깜빡해서, 드",
+            "url": "https://m.blog.naver.com/ksmin3119/222594481037",
+            "nick": "양라민월드",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA4MjRfMTE3/MDAxNjI5NzcxODQ5ODcx.IQqlPUciMpU1djc4VqgeEpMLPc-AF317EqI3XttwLBQg.uJTwI_M6D2HhdC64y8CQcHBpQ_xbKzMmpay3rOr8-r0g.PNG.ksmin3119/profileImage.png"
+          },
+          {
+            "sid": "1578412408",
+            "bodySummary": "본 업소는 일본 시즈오카에 위치한 지자케 하나노마이의 협력하에 운영하는 한국 최초의 매장입니다. 계절에 맞는 신선한 재료를 사용한 맛있는 음식을 편안하고 안락한 분위기 속에서 즐기",
+            "url": "https://m.blog.naver.com/rora_edge/221532565537",
+            "nick": "로맨틱걸",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20160520_258/rora_edge_1463731349485X2MhS_JPEG/%25B4%25DE%25B4%25DE.jpg"
+          },
+          {
+            "sid": "1578412408",
+            "bodySummary": "남대문 맛집인 하나노마이에요 !! 시청역 8번출구에서 걸어서 5분 회현역 5번출구에서 걸어서 5분이니 편하신곳으로 오면 될거같아요 외관부터 일본스럽죠 2층은 이자카야고 3층이 일식",
+            "url": "https://m.blog.naver.com/poweryyyyy/221335425286",
+            "nick": "희블리",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTExMDJfMTA1/MDAxNTcyNjY1MTQ3MzYx.g4wOvrxDK39tQvduw6Bf9k3cyfYiqo7UWCe3aNb-2qQg.n4vjlL6WiByS8505X7_seV4L9UiGgjRZWmb4jS6f3oIg.PNG.poweryyyyy/profileImage.png"
+          },
+          {
+            "sid": "1578412408",
+            "bodySummary": "하지만 맛집은 포기 못해 이열치열 찬 속을 뎁혀줄 메뉴를 선택 하나노마이북창동 먹자골목 옆 블럭 코트야드메리엇 옆 GS25가 보이면 바로~2층 히카리 3층 하나노마이생각보다 넓은 ",
+            "url": "https://m.blog.naver.com/soniakang/221323805705",
+            "nick": "SONIA",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20121203_254/soniakang_13545218095914q2TV_JPEG/npe8d_leescomm.jpg"
+          },
+          {
+            "sid": "1578412408",
+            "bodySummary": "숭례문 오거리 근처에 위치한 곳으로 2층은 이자카야고 3층에 위치하고 있어요! 영업시간 : 17시 30분 ~ 24시 (일요일 휴무) 실내모습이고요. 오픈한지 얼마안되서 아직 덜 꾸",
+            "url": "https://m.blog.naver.com/bingohwan/221256167769",
+            "nick": "고구려",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20141222_116/bingohwan_1419216004973QeT36_GIF/%B1%A4%B0%B3%C5%E4.gif"
+          }
+        ]
+      }
+    ]
+  }
+}

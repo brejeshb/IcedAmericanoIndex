@@ -1,0 +1,99 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 1,
+      "count": 1,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.98254629489496,
+          "minY": 37.55749099099099,
+          "maxX": 126.9836828686187,
+          "maxY": 37.558391891891894
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.98311458175684;37.55794144144144",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1217438400",
+        "name": "카페몰리나리",
+        "x": "126.9828264",
+        "y": "37.5579616",
+        "distance": 0.026,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "221212"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 21,
+        "averagePrice": 5000,
+        "address": "서울특별시 중구 회현동2가 60-2 1층 (2,3층&루프탑은 대관만 가능)",
+        "roadAddress": "서울특별시 중구 소공로 29",
+        "abbrAddress": "회현동2가 60-2 1층 (2,3층&루프탑은 대관만 가능)",
+        "shortAddress": [
+          "서울 중구",
+          "소공로 29"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "이탈리아에서 역사가 가장 오래 된 프리미엄 커피 브랜드, 카페몰리나리(Caffe Molinari) 수입사에서 운영하는 Italian Bar & Showroom 입니다:)",
+        "description": "이탈리아에서 역사가 가장 오래 된 프리미엄 커피 브랜드, 카페몰리나리(Caffe Molinari) 수입사에서 운영하는 Italian Bar & Showroom 입니다:)",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTlfMjY4/MDAxNzUyOTI2OTE1Mjcy.sh4GOBA7tr5Lp8CHdhkvnYa5_uQal-V0icT0YdyNzfYg._EngmFvNbU_q_ijRoqy92nzuUHvUj3ZGrzkOjYxE58gg.JPEG/0BE4CE0D-CD5A-4EB0-AE03-530A9EC50ABC.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDFfMjU0/MDAxNzQ4NzA1Nzc4NDUw.fuxcxO-fzFf12-AHCKoiIZ7g2CoAtOGjpUCHFIEI3jUg.W6FZ7NNDIKG9adMDUXeCdun-sSaFJWI1ZYGXTdYCjyAg.JPEG/1748705164054.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20251027_127/1761529176772PlKSU_JPEG/IMG_8465.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MTdfMTUz/MDAxNzQ3NDY4MjUzNDIx.ySR0NPAskGJ_NJ2hWfaUb2eXBe1k2TwzDGAeNVw2DJQg.9Y9QT6RSiDsJ5ygn9UYjSCYHIjERhGtvpA9qLZOUVIAg.JPEG/20250517_160228.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20251027_105/1761529174445MVhpA_JPEG/IMG_8468.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTNfMTEx/MDAxNzYwMjgxODU3NDc1.yjqHP6HnPGtx_xxHU8CyugU3tUTaF2oXfS6D-kGojLIg.bQgTF162Zqd9dxSXNlvX0kNLRcGZcxZTC1TjxvNuhhog.JPEG/F3D608C5-97C0-45A8-9244-45974D8F3383.jpeg",
+          "https://ldb-phinf.pstatic.net/20251027_149/1761529175418iYnWw_JPEG/IMG_8469.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjZfMjUy/MDAxNzU2MjA3Njg5NTY2.god3rAjyu4PPm0zxC9QTnEqCKX0RBqKdQ9r4ZGzbTrQg.9lBz042Z3DEk7r5ymdhoa_NqE2RAqtKTqyysjjq6DLgg.JPEG/20250715_162846.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjJfMTg0/MDAxNzQ3ODk2MDQzNjQw.bwseSoMMIHio5XYYEGmIJXhLKJ-tWdJvPnwc6UFJk7sg.AN01eu7nKxqlsRewCEb2Rg9F1QK7QQ_vdwJYYc_y_pIg.JPEG/9B4A4C20-2C1B-4464-929A-F5D16958F68F.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjBfMjI4/MDAxNzU1Njc0NTE4NzYy.Vom7dIBnz-UuZvy0-pIGxoZRfZMCLaBayRMYV-kiQVsg.cx9Bfq2RBAbTIuQPqMv8qfqVurZtBinXmP6BpKbr2Jkg.JPEG/20250819_125116.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221212",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      }
+    ]
+  }
+}

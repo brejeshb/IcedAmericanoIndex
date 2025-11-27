@@ -1,0 +1,853 @@
+{
+  "result": {
+    "meta": {
+      "totalCount": 10,
+      "count": 10,
+      "request": {
+        "offset": 0,
+        "limit": 100,
+        "boundary": {
+          "minX": 126.96777083648634,
+          "minY": 37.55749099099099,
+          "maxX": 126.96890741021008,
+          "maxY": 37.558391891891894
+        },
+        "code": "01",
+        "sortType": "RECOMMEND",
+        "timeCode": "AFTERNOON",
+        "searchCoord": "126.96833912334822;37.55794144144144",
+        "adultCheckBean": {
+          "isLogin": false,
+          "isAdult": false,
+          "isAdultContentAllowed": false
+        },
+        "hasReservation": false,
+        "multilingualType": "KOREAN"
+      },
+      "recommendationCode": null,
+      "radius": null
+    },
+    "list": [
+      {
+        "rank": 1,
+        "id": "1329145811",
+        "name": "로드샌드위치 서울역점",
+        "x": "126.9686446",
+        "y": "37.5577499",
+        "distance": 0.034,
+        "categoryName": "디저트",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220563"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "카페,디저트"
+        ],
+        "reviewCount": 124,
+        "averagePrice": 5000,
+        "address": "서울특별시 중구 중림동 128-104 별관 1층 101호",
+        "roadAddress": "서울특별시 중구 중림로 49",
+        "abbrAddress": "중림동 128-104 별관 1층 101호",
+        "shortAddress": [
+          "서울 중구",
+          "중림로 49"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [
+          "매콤함으로 입맛 돋우는 스파이시 치킨"
+        ],
+        "cardDescription": "매콤함으로 입맛 돋우는 스파이시 치킨",
+        "description": "안녕하세요, 빵이 맛있는 샌드위치 전문점 로드샌드위치 서울역점입니다.  매일 신선한 야채와 재료를 손질하여 사용하고 있으며, 샌드위치에 들어가는 모든 재료들을 신선하게 유지하여 건강",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjdfMTg1/MDAxNzUzNjIwODkwMzk5.Uid1xcJGGZWuA2YCfG8B-rItdbrGjqMuMujCeXpLXiog.ffzmHqiXVU2suvgOKhjflj23UY9hxMXkkMZWwt2fgisg.JPEG/20250724_195225_HDR.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MjBfMTk3/MDAxNzQ3NzQwMTAxMjUz.0402lGY2C_cyazcg0vqezgk8FQw1qLJfGC78w2bbU8Qg.pLDnKLXbnH-96sN3XVMStyNWF0FEYc1ak4PT6ZqG6lsg.JPEG/20250520_195635.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240220_4/1708413209477Ww2Oz_JPEG/%B8%DE%C0%CE_%BD%E6%B3%D7%C0%CF.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MzBfMTk4/MDAxNzU5MTk0OTQwODY0.CYXh2sLOFdQ9nwWOuWLpyFqW9oIarscq--_3GEsN8u0g.Irs8B_JV9tiVlinrSChqnMeS5-g4pxgRXCGpXdas-LYg.JPEG/20250929_144627.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjZfMjQz/MDAxNzQ1NjMzMDU2MjQy.l_5bIW5uRybnR2Pwy5Yga8DIoMC51_sabmF1fH0fb20g.ZnM30XJGYFhIvq26iX_U3L-__Fi6z8dDeRr8_WvzZp8g.JPEG/47708F3F-FC3B-4DDC-9390-7F70B23ADC6C.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTBfMTg2/MDAxNzYwMDg4MzAwNDQ4.UkTs_RdbmqL2qG6HYwGcN9wnGHUy-wR4bc1gAIUIRXcg.z0KdFV-q9ik5KWd4jPDlTFyqbVY40By6q1EXSLNHrzwg.JPEG/C35F0596-EAFB-46C5-B71E-EF26ACC0B37D.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 2,
+        "id": "38570795",
+        "name": "약현떡방",
+        "x": "126.9682076",
+        "y": "37.5575318",
+        "distance": 0.047,
+        "categoryName": "떡카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220589",
+            "230488"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "떡카페"
+        ],
+        "reviewCount": 267,
+        "averagePrice": 7000,
+        "address": "서울특별시 중구 중림동 128-65 1층",
+        "roadAddress": "서울특별시 중구 중림로 45",
+        "abbrAddress": "중림동 128-65 1층",
+        "shortAddress": [
+          "서울 중구",
+          "중림로 45"
+        ],
+        "displayContext": [
+          "떡집",
+          "인절미"
+        ],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "국내산 팥, 콩, 밤 등 좋은 재료만을 고집하며 30여년을 한결같이 정성을 다하고 있습니다. 답례, 회의용 다과로서 희망하시는 스타일로 포장(스티커, 띠지) 가능합니다. 약현떡방에서 직접 만든",
+        "description": "국내산 팥, 콩, 밤 등 좋은 재료만을 고집하며 30여년을 한결같이 정성을 다하고 있습니다. 답례, 회의용 다과로서 희망하시는 스타일로 포장(스티커, 띠지) 가능합니다. 약현떡방에서 직접 만든",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjdfMTYx/MDAxNzU4OTcyNjgxNDEw.GKCznoniyN8Js6zic-KAnZ2XMYHgLBeYtK5FS3rYAlQg.cHV1dHnccYISobszlCEvUGNZJ6w1cPGrNihSp5wpRFgg.JPEG/20250828_183200.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjBfMTE3/MDAxNzU1Njg3MTgxNTY1.w6xN315iRUKFt2nK2SKOmXkiEDQ5LZ6c9ia0v8Iy0gYg._lcLuWfgOBFPzYUK1-YXbwcFOikUPMqZACgjCqypezUg.JPEG/20250820_194658.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20160922_150/1474503020177PBnUE_JPEG/176872494039393_0.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjhfMjkz/MDAxNzU5MDIwMDQzNTU1.pJEqrMJ7QC7HrGKJGfGj_Z6juNnv9pqO0gt0pSyGq5Eg.JKxK8bWqjYTCz-qeORitqjVkoClAfxOhMv9kDPCYLa4g.JPEG/9EB0AAAC-496F-427F-A57B-AE2927D6E2BA.jpeg",
+          "https://ldb-phinf.pstatic.net/20250930_276/1759188250173KaacJ_JPEG/IMG_0368.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTAzMjhfMTEz/MDAxNzQzMTI4NDY1NjQw.PwXKfilzQQhtCNkcl6xGXfFlvr39C25MK3iZQ2Rbv8kg.Ve7byseMHjpMknWMgyFBlv9kMlQbQ_lic1CzhRrK4tQg.JPEG/1000001300.jpg",
+          "https://ldb-phinf.pstatic.net/20250930_251/1759188249738LWVK7_JPEG/IMG_0367.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjNfMjI0/MDAxNzYxMTk2MzU5MTMw.7foCSZXi1OGJ93sE4Wt0QHzVdeW1jYrOWbgpW-HU32Qg.DF45yWco0SWwtYNsWU43Jhgj4yxSt7nEIEI-CgYbpOUg.JPEG/20251023_124629.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "230488",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "4.3",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 3,
+        "id": "1020483410",
+        "name": "이조식당",
+        "x": "126.9682863",
+        "y": "37.557701",
+        "distance": 0.027,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 461,
+        "averagePrice": 7000,
+        "address": "서울특별시 중구 중림동 128-23",
+        "roadAddress": "서울특별시 중구 청파로103길 33",
+        "abbrAddress": "중림동 128-23",
+        "shortAddress": [
+          "서울 중구",
+          "청파로103길 33"
+        ],
+        "displayContext": [],
+        "labelTheme": "생방송투데이 방영",
+        "microReviews": [
+          "콩나물비빔밥과 잔치국수의 완벽한 조합"
+        ],
+        "cardDescription": "콩나물비빔밥과 잔치국수의 완벽한 조합",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTlfMTMz/MDAxNzU4MjY5MTc0MzA4.ZgbZG3HXOHI7vW3K3roO5B4TPYPCvyWWeuR4kKYKtWog.1rbgMiWV5XqEeDfB6efXBHY3Rjfb_GDcW_O4MN7Eyl8g.JPEG/1000047660.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MThfMTM2/MDAxNzUwMjQ4ODI2MTE4.O_ilcw8c5rZ6XK6pIFYEYWbNyWZp35VdzskAZbOAGHAg.jG8-nBh4wk4wHTjsAIfNUcLqt2m9EJlEkkP97GrGOcEg.JPEG/C7AB693D-7E23-41ED-B403-698B7F5C1891.jpeg",
+          "https://ldb-phinf.pstatic.net/20190703_282/1562119148867XupOT_JPEG/csaLpEDUPjE3IJIjBsNh7OEg.jpeg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjNfMzUg/MDAxNzQ1MzkxMjY4NTM1.30RrjLGNeAUq6xtXIzK5IKXXhUHoHX6Vh6QHu_lN8wMg.yhxE9USP-BRq4uetGPbrFvo0S56x-TOqiWlDGnLBVKgg.JPEG/6C5B3438-71A9-48F2-8DB4-6366A4B6889C.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MTFfMjgw/MDAxNzU0OTAzMzk2MDc0.V9PclYeYQh5wZyFwOwLCDFKbbT_Dv8VnbzhPoppeBD0g.bxN3TsnlB2CWIZ86YfYDRRX7EDkjHQT7_cZL3V-uo-Ug.JPEG/20250811_173833.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjhfMTE2/MDAxNzU2MzU1ODE5Njcy.hQ_gTn4Vw1cXX7w-8ark14lB4-GQcLeQB1fbS9opzRsg.UOcGr-FJcwa5mSX6OPLmBilQtWH_ltBVJVFaZTpgjkcg.JPEG/77471.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjVfMjQ1/MDAxNzQ1NTgyNTUxOTUz.Mx-x9M0C8vGJN9gJImyjuMBt4lTRStUxpGc6a8wH_HMg.Ipozq18xpoZe9VRXN4nY6kxzP8rruI_D1D0y93oPxj4g.JPEG/DE2E38A5-2652-4AB5-9CCF-0877BDC06922.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MTJfMTgg/MDAxNzQ0NDI3OTExNDU0.pEfXtbcMgKK5LxSiYBGNT6P_oYfYxLPFzDwzn6c8t2cg.u_5h5wxbuZzPIgQlFpb3MVedUNE35aszb4fosVxD5X4g.JPEG/D814FF31-022D-4739-8EFC-17EB44EAF579.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MDJfNTQg/MDAxNzQzNTkwNDQxNjE3.dKoB6ACL1jsjGKqrEBcOuBngTn3J2f_pXIUj3-qMuTQg.ZIbF66z5RecTIMxK_dSqNujAGuVAV5l07YJmlY3OvG8g.JPEG/1000001341.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MjlfMjU4/MDAxNzU2NDM5ODA1MzIw.cNV4SwFK5yfugMiI_cqqpQz-iszjDKCeweIDziqblaog.ZSuIK4LzcTLL6DENdLBJvXNDCNV-5GnX2Tei5ziNeHYg.JPEG/77865.jpg.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": true,
+        "broadcastInfo": {
+          "name": "생방송투데이",
+          "menu": "잔치국수"
+        },
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1020483410",
+            "bodySummary": "안녕하세요 이웃님들 잘 지내셨나요. 이번에 종로에 일이 있어서 동생이랑 같이 일을 하러 다녀왔는데요. 동생이 예전에 종로 회사를 다녔는데 근처에 맛집이 있다고 하네요. 그렇게 저희",
+            "url": "https://m.blog.naver.com/ghrms486/223393057742",
+            "nick": "블링블링",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTA3MjZfMTky/MDAxNTY0MTQ3ODEyMzQz.hkQpna4gGWcnQgxDdoDVi6eWl1D6_gd0DzzTaJVkRoUg.0-At7rLzupHODFMFw1iwYeyB8UYHu0N3da5gb-O0X0sg.JPEG.ghrms486/1.jpg"
+          },
+          {
+            "sid": "1020483410",
+            "bodySummary": "'코로나19와 맞물려 할머니께서 장사를 중단하시려고 해 가게를 이어받았다.' 서울역 서부역 부근 중림동에 있는 콩나물비빔밥 맛집 이조식당입니다. 20년째 영업중인 이곳은 1대 할머",
+            "url": "https://m.blog.naver.com/santajoajoa/223389169081",
+            "nick": "산타",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTAxMDRfMjY5/MDAxNjA5NzEyNjYxMjI5.f0ilzm2W3IfVHUbTG3qupUSQLMA2Zv6RdrzzVF01KYQg.lj20OmJTE4NI0x7XJuiEkbUC0HfsWOAz1dbqS7EAyk4g.JPEG.santajoajoa/profileImage.jpg"
+          },
+          {
+            "sid": "1020483410",
+            "bodySummary": "이곳의 평점이 높은 이유 중 하나는 바로 가격! 메뉴는 2개만 있고, 가격은 다 동일하게 6천원 요즘 김밥도 5천원이 넘는 시즌에 국수와 비빔밥이 6천원이라니 심지어 비빔밥에는 흰",
+            "url": "https://m.blog.naver.com/chlwldp1526/223377049789",
+            "nick": "졔",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzEyMDVfMTkw/MDAxNzAxNzU3NDk3Mzg4.iaTtccPYNZ8-8_yy5eqAbN83HPPToiEYztbOlfwNUmUg.o5tJZYUJmLkaY6iezzQ6EE7y-yGhUGIY5rPIzjw9hNIg.PNG.chlwldp1526/profileImage.png"
+          },
+          {
+            "sid": "1020483410",
+            "bodySummary": "서울역 근처에 가성비 식당을 소개함니다 !!! 월 - 금 : 오전 7시 ~ 저녁 7시까지 스터디카페 가던길 ,, 로컬맛집 발견했어요 !! 고물가 시대에 6000냥 나는 이런 로컬맛",
+            "url": "https://m.blog.naver.com/cnc4720/223340650129",
+            "nick": "만두",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyNDAxMjVfMTYx/MDAxNzA2MTUzMTY4MDM0.GIqRsJVEO_r36mW6Mfe1zMriLZVCJGXyW_oiEazwUF4g.WvP8LeESU0TSDIJ7upXNhFvjHEKmqArdoDEmNcnkA3og.PNG.cnc4720/profileImage.png"
+          },
+          {
+            "sid": "1020483410",
+            "bodySummary": "메뉴나 가격도 그렇고 서울역 근처 맛집이라 그런 것 깉다. 주문했던 비빔밥, 잔치 국수가 나왔고 사장님이 직접 비벼주면서 '외국인 손님이 오면 서비스로 해주곤 한다.'고 하셨다. ",
+            "url": "https://m.blog.naver.com/i_m_doyee/223306805242",
+            "nick": "도이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA1MDZfMTk5/MDAxNjgzMzgwMDQzNTkw.S26GqqzyBR1_wDFiktvQ5VyoPscchdjlu_F3V1o4_EMg.X3oUSI6XtWgPnLRK23rj-exwXej2gh49jswVxu6kLc0g.JPEG.i_m_doyee/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "id": "20889005",
+        "name": "두메산골",
+        "x": "126.9678639",
+        "y": "37.557739",
+        "distance": 0.048,
+        "categoryName": "한식",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220053"
+          ]
+        ],
+        "category": [
+          "음식점",
+          "한식"
+        ],
+        "reviewCount": 629,
+        "averagePrice": 5000,
+        "address": "서울특별시 중구 중림동 136",
+        "roadAddress": "서울특별시 중구 중림로 41-2",
+        "abbrAddress": "중림동 136",
+        "shortAddress": [
+          "서울 중구",
+          "중림로 41-2"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 중림동 136",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTAzMzBfNTkg/MDAxNzQzMzAxNDkzMDQ4.8miEDnMkKdHa2k1hnsQVv-ZYGROFYGSj7Wv8tJr5lKog.xs64AJmGx0UoQR4cmTtYPAzvWFVjfnVnq_8Vb3mYJ98g.JPEG/1743301076663-18.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjZfMjQx/MDAxNzYxNDc5NzEyNTA1.NIufa6siMsAz3JxQe1ReOP1oIQSBAjEVt3NajLgXQvog.jQophGDKQw2Bok6XQm-S7bzF-94fSLlJ6nUq43Wbsz8g.JPEG/1747317736940.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20190418_55/1555517445715EBEBV_JPEG/1ymUN6DkhTaJy5vkgv9KIgV8.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMDlfMTEz/MDAxNzU5OTc4MTE4NTYw.DpxvqOs5lhB6JTa_EVUW1FN4azUJd08-ClQ8OaQyVzkg.0tjRl59UWUv8FekjJCSvrAbR2VxRHHKnPz59WGEkmHQg.JPEG/20250922_122210.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20191112_93/1573525524400JpIt0_JPEG/cZiLv4q4-gAYl1m1pTd3HBuP.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MDZfMTg2/MDAxNzU0NDUwOTgyNjAx.3MhUvTZtcR-NbGmjvsio0elVjN1gpBDgKvgH2tDzIoEg.1Ecubf1XImKvS4l0ll1NdGOsb1vhyjU-uKqJ9tHQAmAg.JPEG/1000017160.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20200611_112/15918496788586jaJz_JPEG/ok5FfL49wOBxJkJ6SI-xUov_.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "20889005",
+            "bodySummary": "서울역 근처에 위치한 청국장 맛집이다 서울역 근처 중림동 청국장 맛집이다 서울로 공원에서 내려오면 바로갈 수 있다 서울역장 추천 맛집이라고 한다 청국장 2인 이상 12,000원이다",
+            "url": "https://m.blog.naver.com/timetravel90/223396887295",
+            "nick": "문경호",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA2MjVfMTcg/MDAxNjg3NjgwNTM0NzM4.pLEAeVnc3RIpGc9H08dJA4V6PLrOYrNqPL-cXYvjQ6cg.wNtYqH0lVIE0XaiA2BAFkxiAt1ycomSDRs9I7qpNebkg.JPEG.mgh7318/startupjcurve.jpg/startupjcurve.jpg"
+          },
+          {
+            "sid": "20889005",
+            "bodySummary": "메뉴 +녹두전도 판매하고 있다. 주문한 메뉴 청국장 2인분 식당에서 직접 만든 기본 반찬! 콩나물, 무생채, 김치 다 맛있다 김치는 배춧잎 2장이 나오는데 가위로 잘라먹으면 된다.",
+            "url": "https://m.blog.naver.com/ssingmaster/223273825951",
+            "nick": "싱마스터",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzExMzBfMjIz/MDAxNzAxMjcwMzY5ODUz.bcs7Ti5Zi_y84DXJrVLJ39Gwm3jR17TzifmLJsFJk-og.dfJjtkaZZZ2SXgxyLXMTxAsIRzdFW0fN1zce1JkSAccg.PNG.ssussing/profileImage.png"
+          },
+          {
+            "sid": "20889005",
+            "bodySummary": "서울역 근처 진하고 맛있는 청국장 식당 두메산골. 메뉴가 많지 않아 메뉴 선택이 편하다. 주문한 메뉴는 청국장 2인분(24,000원). 메뉴를 주문하면 냄비에 두부, 파, 청국장이",
+            "url": "https://m.blog.naver.com/nh090404/223148839690",
+            "nick": "우달이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20150105_272/nh090404_1420446795525Hb8LO_JPEG/profileimage.jpg"
+          },
+          {
+            "sid": "20889005",
+            "bodySummary": "위치, 영업시간 충정로역에서 간다면 5번출구로 나와서 언덕 밑으로 서울역에서 간다면 롯데마트 뒷편으로 나와서 가는 것을 추천 ! 영업시간 : 매일 11:00 - 21:00 주차정보",
+            "url": "https://m.blog.naver.com/jinoss_/223145567762",
+            "nick": "Jinoss",
+            "profileImg": ""
+          },
+          {
+            "sid": "20889005",
+            "bodySummary": "우연히 길을 걷다가 맛있을 것 같아서 들어간 곳인 데 세상에 이 곳에서 인생 청국장을 만났지 뭐예요!? 일단! 청국장이 찐해요 그리고 냄새가 별로 안나고 되게 고소한 맛이예요! 사",
+            "url": "https://m.blog.naver.com/daisyjiyoung/223047652663",
+            "nick": "Daisy",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA1MjNfMTYy/MDAxNjg0ODQxMTYzMTY2.rdgiE689lA6XHZ_f-zgEvNDdBkWjyIi3fSBKr-jtc2Ug.lZTBEaO7Dp_2d71bMEKMbCCJW1C8wfa_udZseKVJF-Qg.JPEG.daisyjiyoung/KakaoTalk_20230523_202534874.jpg/KakaoTalk_20230523_202534874.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "id": "18113924",
+        "name": "이조칼국수",
+        "x": "126.9682271",
+        "y": "37.5576169",
+        "distance": 0.037,
+        "categoryName": "칼국수,만두",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220073",
+            "220712"
+          ]
+        ],
+        "category": [
+          "한식",
+          "칼국수,만두"
+        ],
+        "reviewCount": 309,
+        "averagePrice": 5000,
+        "address": "서울특별시 중구 중림동 128-63",
+        "roadAddress": "서울특별시 중구 청파로103길 35",
+        "abbrAddress": "중림동 128-63",
+        "shortAddress": [
+          "서울 중구",
+          "청파로103길 35"
+        ],
+        "displayContext": [
+          "칼국수"
+        ],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "2021년 기준 25년 동안  매일 같이 전통 방식으로 쇠고기 국물을 진하게 우려낸  곰탕 베이스에 쫄깃한 칼국수를 제공해드리고 있습니다.  25년 동안 항상 변함없이 찾아주시는 손님들께 감사한  ",
+        "description": "2021년 기준 25년 동안  매일 같이 전통 방식으로 쇠고기 국물을 진하게 우려낸  곰탕 베이스에 쫄깃한 칼국수를 제공해드리고 있습니다.  25년 동안 항상 변함없이 찾아주시는 손님들께 감사한  ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDZfNzIg/MDAxNzQ5MTk5MzA0Nzky.BxrUFJTyHuiuhUGN9aNPfdrDEjzG2SHpdEAHtQ92QDcg.c-fisjSzh7R4H8-YAdxZQp78aGkypta5wrO1Ydonih0g.JPEG/68D8FF3E-1C88-4C71-9E78-6E5DCC70DAD8.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjZfMjE3/MDAxNzQ1NjI3Mzk1MDEy.BGdStjCN0dxd8oRfE2m84aC7twhUz0gwrsMmH4aussAg.MJ2ZjSHGy_g9aIBQPMHO1n43WM0vzh4Io4RQan7bovsg.JPEG/20250425_121055.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20210814_153/1628919434089DceKB_JPEG/hJANvNwp9fsP0rzj48OJSipk.jpeg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDVfMjc3/MDAxNzQ2NDMwMzY0MDk1.zhvf5zsNsap_UZDrpOeWWVb2uI-T8hnHnkW-XSqecLEg.w3l81SCQV1spAfPOWM1qUazA7dCBimXFNpUOlMlyPTog.JPEG/20250505_132742.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20210814_34/1628919444363cs9ia_JPEG/irsI-zH8tLxLP8FOr6Nwb4jt.jpeg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MDFfMTA5/MDAxNzQzNTA2MjU1Nzc0.q6Seygq9X7RwWQ3g47srNXwMjuGlbjq6IOTllKSdtzkg._soeonqGQmKSCYSXndtAsvQKZPiSkw_qw8KKRM4gD0Ig.JPEG/20250401_140837.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20210814_18/16289194526907XfV4_JPEG/BpaJpwAblZS46mw7113c_MyY.jpeg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDFfMTc1/MDAxNzQ2MDk2NDQ4Nzk1.D63uwGI3nM_Xv3AAdvDSeNxsYummP2ToyzYogKjDedYg.RAZaEPFsz3N-ZTLh_mOQrP5Pd2UWwG-4YMDpZZqP9swg.JPEG/EC22DBA3-8216-4E7C-8C6F-38B1A81B1525.jpeg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220712",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "18113924",
+            "bodySummary": "국물이 간간하고, 진합니다. 메뉴에 만두국도 있는데, 칼국수가 더 맛있었어요.",
+            "url": "https://m.blog.naver.com/gkszjq/223336085066",
+            "nick": "한가로이",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA5MDdfMTQw/MDAxNjMwOTc4OTUwMDUx.D1cDVNoBqJFC80RGiY5YcLUrw0yux_LI9HO09FWvZwcg.VdZJrjIFlohw-zC-2btkvZawd9yolxY9wgUbHwivogAg.PNG.gkszjq/profileImage.png"
+          },
+          {
+            "sid": "18113924",
+            "bodySummary": "서울역맛집 서울역점심추천 이조칼국수 3대칼국수 소고기육수칼국수 글,사진 @달해 서울 중구 청파로103길 35 ☎️ 02-363-2532 ⏰ 월-토 11:00-19:30 ✔️단체이용",
+            "url": "https://m.blog.naver.com/munsun1513/223312988638",
+            "nick": "달해",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTAyMjNfMTgy/MDAxNjE0MDUwMjgyNjk2.SBnmXttfLpTIDrrTIdU1-TCz3s0wqTJT7enNkALpKZ4g.01NOw4Rmcp6N5ZWGXsoKOqqCp0MSNaOQYStLWY_pKWQg.PNG.munsun1513/profileImage.png"
+          },
+          {
+            "sid": "18113924",
+            "bodySummary": "양도 많아서 배가 불렀어요. 그리고 김치! 김치가 너무 맛있었어요. 역시 칼국수 집은 김치가 맛있어야해..암암 #서울역맛집 #이조칼국수 #서울역이조칼국수 #서울역칼국수 #서울역점심",
+            "url": "https://m.blog.naver.com/yuri8253/223286281360",
+            "nick": "률콩이네",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA2MTBfMTE0/MDAxNjU0NzkxMTU4Nzc1.wYzYXypII07lhveq76hyl2F_FnJpgflHLcLZh4GNU18g.poEQCzW3SGH7LqQHxaJCojVDJOa2_9mSck9PCRsodggg.JPEG.yuri8253/profileImage.jpg"
+          },
+          {
+            "sid": "18113924",
+            "bodySummary": "서울역 칼국수 맛집 이조 칼국수 ⏰️ 월 ~ 토 11:00 ~ 19:30 (일 휴무) 충정로역 5번 출구 오늘은 오빠랑 종로 근처에서 만나서 놀면서 서울역에 있는 맛있는 칼국수 맛",
+            "url": "https://m.blog.naver.com/tkatjd1238/223271074015",
+            "nick": "죠랭",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjA1MjBfMTU2/MDAxNjUzMDAxMDM4NjU0.EASErFq4ETY9CWZgBr3mxPFy6tfHJyx_TyjZwDW4GKwg.sEZDmOS_7oBo9VqvjcmXcpXVS3_XuXstu7FNET3Pljwg.JPEG.tkatjd1238/profileImage.jpg"
+          },
+          {
+            "sid": "18113924",
+            "bodySummary": "자리는 이렇게 모두 테이블+의자 로 되어있어요 동네 식당 느낌이 강한 그냥 정말 칼국수집 이랍니다 :) 매장 한쪽이선 전통 쇠고기 국물을 진하게 우려내고 계신데요~ 이 식당이 27",
+            "url": "https://m.blog.naver.com/from_above/223265851803",
+            "nick": "연분홍매화맘",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTAxMjVfMTU1/MDAxNjExNTcxNzIxMTM5.LSd_mNHYc4FXn7-UtLRampkS6D6K54qSG-UQ3xy-U94g.AY6Nhy-_nH_7n6hBTSXc-CphAi2YEsFUcFrvoywPexog.JPEG.from_above/profileImage.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "id": "1920269368",
+        "name": "홍반장떡볶이",
+        "x": "126.9682381",
+        "y": "37.5575089",
+        "distance": 0.049,
+        "categoryName": "떡볶이",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220187"
+          ]
+        ],
+        "category": [
+          "분식",
+          "떡볶이"
+        ],
+        "reviewCount": 357,
+        "averagePrice": 4000,
+        "address": "서울특별시 중구 중림동 128-65",
+        "roadAddress": "서울특별시 중구 중림로 45",
+        "abbrAddress": "중림동 128-65",
+        "shortAddress": [
+          "서울 중구",
+          "중림로 45"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [
+          "라면과 김밥 조합이 완벽한 순간"
+        ],
+        "cardDescription": "라면과 김밥 조합이 완벽한 순간",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjlfMTM2/MDAxNzQ1OTA0MDg4NjA2.wUgNHCThRZPZkBU5xA4R6PTmjlyfk3tlU0cha-1USO4g.hV3IfMc9n1jV63sytPmENt1arukoMbPXitOpWUBy3lYg.JPEG/E80DA2EB-0B1F-4C6C-A870-92CF4B265082.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDlfMTI2/MDAxNzQ2NzU5MjgxNTQ5.Hf-PAHgDoqMAByC43OYwF3VPvzznijZVOF_f86FQHAQg.mqjPY9rC37hIVHI1MKpKp7Jo6xq2DTsRNZ27JR2BrF4g.JPEG/20250508_170718_HDR.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20190424_14/1556059598396SvLyE_JPEG/fnV5a72nnr5ouGCHimXeC26H.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220187",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "1920269368",
+            "bodySummary": "회사 근처에 저렴한 떡볶이집이 있어서 가봤다! 서울역 맛집 추천 가성비 좋은 홍반장 떡볶이 매장이 작지만, 혼밥하기 좋은 곳이기도 하다. 바형식의 테이블이 두개 있음. 서울역 맛집",
+            "url": "https://m.blog.naver.com/stay-lulu/223060712784",
+            "nick": "최효 ChoiHyo",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAzMDZfMjE1/MDAxNjQ2NTYwNDAzODU4.WI8JQWzzA__8i6zK2VQzMDLcNC4WhsViK0pCojNALrEg.niqLdVidRumSZnerybYJYenv527auOflk6c1-5PCSfIg.JPEG.c0712gywjd/profileImage.jpg"
+          },
+          {
+            "sid": "1920269368",
+            "bodySummary": "떡튀순 세트와 김떡순 세트가 구성이 꽤 괜찮게 되어 있다. 그래서 우리도 세트로 주문! -주문한 메뉴- 떡튀순 세트 (11,000) 후기 내부 분위기가 정감가는 느낌이었다. 매장이",
+            "url": "https://m.blog.naver.com/hyemni_u/223068416373",
+            "nick": "햇니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzA0MjJfMTQ4/MDAxNjgyMTI2MDE5MzU5.7qwtvlhWTsNYdenQsy49JRgZvM8J-2tiQeEA1I0EELkg.PuxrOBGiuhVjddObfwCdBc1g7tuwTgwInJtSoovo-Uog.JPEG.hyemni_u/profileImage.jpg"
+          },
+          {
+            "sid": "1920269368",
+            "bodySummary": "오늘은 서울역 옆에 있는 분식집에 갔어요. 이름은 홍반장떡볶이. 저는 김밥, 떡볶이, 튀김, 어묵을 주문했어요. 특별한 맛은 아닌데, 서울역 바로 옆이라서 교통도 좋고. 서울역 옆",
+            "url": "https://m.blog.naver.com/wecansave/223042904920",
+            "nick": "풀잎채",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjExMDFfMTgg/MDAxNjY3Mjg1MzMxMDQy.QA76zxBZZBMiYARUkuyIXi2qGB_X_T2YXv8k0HNBJUIg.sn3Q_Mx1mZSNHbM-JXKQPM4SpW5jTZZ5iQ3nJDPyOqQg.PNG.wewe_can/profileImage.png"
+          },
+          {
+            "sid": "1920269368",
+            "bodySummary": "위치해 있어용 02-313-6038 홍반장떡볶이 밖에 걸려있는 사진을 보니 색이 바랬더라구요 오래된 느낌인데 내부는 또 깔끔한 듯 하네요 그리고 요즘은 5월 6월 습한 날씨때문에 ",
+            "url": "https://m.blog.naver.com/yalan32/222779541078",
+            "nick": "얄란",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjAyMTNfMjYw/MDAxNjQ0NzEyNzkzNDY0.skLQJvRQ35-q8VsCs58E6cZYqMJ5b_5GT6qnzCoWM18g.pfhMkEO20YJCjZjVtXlvO_Z6-XFBzpPv3TcrORpjYo8g.JPEG.yalan32/IMG_5459.jpg/IMG_5459.jpg"
+          },
+          {
+            "sid": "1920269368",
+            "bodySummary": "서울역 근처에서 살고 있는 친구라 겸사겸사 명동/ 남대분/ 북창 지역으로 선택! 국밥, 삼계탕, 회, 고기, 부대찌개 등등 다양한 음식점들로 섭외해서 행사 진행중이었지만 서울역과 ",
+            "url": "https://m.blog.naver.com/jseungmi/222151670743",
+            "nick": "정똘미",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTExMTZfMjkg/MDAxNTczODk4OTU4MjQ4.DfASxY43lKiueuVpaukrBXEdnFm2d1qVAj_jD-OppUUg.Ftw7IfogzbN2KskckoHSpeQC-ySD4hOfGh2HWoVFdtog.JPEG.jseungmi/KakaoTalk_20191116_190845985.jpg"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "id": "1352671558",
+        "name": "하니행운호떡",
+        "x": "126.96888",
+        "y": "37.5574971",
+        "distance": 0.069,
+        "categoryName": "호떡",
+        "categoryPath": [
+          [
+            "220036",
+            "220048",
+            "220191"
+          ]
+        ],
+        "category": [
+          "분식",
+          "호떡"
+        ],
+        "reviewCount": 64,
+        "averagePrice": 5000,
+        "address": "서울특별시 중구 중림동 129-15 1층",
+        "roadAddress": "서울특별시 중구 청파로 423",
+        "abbrAddress": "중림동 129-15 1층",
+        "shortAddress": [
+          "서울 중구",
+          "청파로 423"
+        ],
+        "displayContext": [],
+        "labelTheme": "착한 가격",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 중림동 129-15 1층",
+        "description": "",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjBfMjMy/MDAxNzYwOTM4MTcxMTEy.64upn4lHG6bQAxM0cXBee0j1kbyRHiK10OS1nD4MEX0g.MbkuRIjt1Ejsal8XbqdJwgooQiRpYYirbgAUwtR-Ix4g.JPEG/JPEG_20251020_142858_89863326344601672.jpg",
+          "https://ldb-phinf.pstatic.net/20200428_288/1588075149986gTHYF_JPEG/nKZe9cQwT_bTpJE-AWR76nKK.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220191",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 8,
+        "id": "2015455630",
+        "name": "매머드커피 중림동점",
+        "x": "126.9682396",
+        "y": "37.5575191",
+        "distance": 0.048,
+        "categoryName": "카페",
+        "categoryPath": [
+          [
+            "220036",
+            "220052",
+            "220576",
+            "230847"
+          ]
+        ],
+        "category": [
+          "카페,디저트",
+          "카페"
+        ],
+        "reviewCount": 1,
+        "averagePrice": 3000,
+        "address": "서울특별시 중구 중림동 128-65 1층",
+        "roadAddress": "서울특별시 중구 중림로 45",
+        "abbrAddress": "중림동 128-65 1층",
+        "shortAddress": [
+          "서울 중구",
+          "중림로 45"
+        ],
+        "displayContext": [],
+        "labelTheme": "카페",
+        "microReviews": [],
+        "cardDescription": "서울특별시 중구 중림동 128-65 1층",
+        "description": "",
+        "images": [
+          "https://ldb-phinf.pstatic.net/20251013_223/1760319114981YHalI_JPEG/%C1%DF%B8%B2%B5%BF%C1%A1.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "230847",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": []
+      },
+      {
+        "rank": 9,
+        "id": "1642785740",
+        "name": "소고기 샤브샤브",
+        "x": "126.9679921",
+        "y": "37.5579291",
+        "distance": 0.031,
+        "categoryName": "일식",
+        "categoryPath": [
+          [
+            "220036",
+            "220038",
+            "220083",
+            "220821"
+          ]
+        ],
+        "category": [
+          "일식",
+          "샤브샤브"
+        ],
+        "reviewCount": 76,
+        "averagePrice": 10000,
+        "address": "서울특별시 중구 중림동 132-1 1층",
+        "roadAddress": "서울특별시 중구 중림로9길 6-1",
+        "abbrAddress": "중림동 132-1 1층",
+        "shortAddress": [
+          "서울 중구",
+          "중림로9길 6-1"
+        ],
+        "displayContext": [],
+        "labelTheme": "일식",
+        "microReviews": [
+          "추운 날 마음까지 따뜻해지는 샤브샤브"
+        ],
+        "cardDescription": "추운 날 마음까지 따뜻해지는 샤브샤브",
+        "description": "남녀노소 누구나 즐길 수 있는 소고기 샤브칼국수 집입니다. 저렴한 가격으로 푸짐한 식사를 제공 하도록 노력하겠습니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDlfMjM1/MDAxNzQ5NDcxNzU4MjE3.nnxRj517XSbwjLi7Qhv8xTjY1hfJobsQsh-mbRbabh8g.xcfmrCjxsZaSmv9FgoFBD0grKCVi_0gUz5Bw2pBZXEog.JPEG/20250609_193248.jpg.jpg",
+          "https://ldb-phinf.pstatic.net/20240505_115/1714888350081TtHxf_JPEG/image.jpg",
+          "https://ldb-phinf.pstatic.net/20240505_100/1714888390095uEvPe_JPEG/image.jpg",
+          "https://ldb-phinf.pstatic.net/20240505_173/1714888417902ItHoe_JPEG/image.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220821",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": {
+          "total": "0.0",
+          "receipt": null,
+          "booking": null
+        },
+        "reviewDisplay": []
+      },
+      {
+        "rank": 10,
+        "id": "21060789",
+        "name": "서부족발",
+        "x": "126.9689034",
+        "y": "37.5575623",
+        "distance": 0.065,
+        "categoryName": "족발,보쌈",
+        "categoryPath": [
+          [
+            "220036",
+            "220037",
+            "220075",
+            "220766",
+            "221504"
+          ]
+        ],
+        "category": [
+          "한식",
+          "족발,보쌈"
+        ],
+        "reviewCount": 322,
+        "averagePrice": 15000,
+        "address": "서울특별시 중구 중림동 129-38 1층",
+        "roadAddress": "서울특별시 중구 청파로 425",
+        "abbrAddress": "중림동 129-38 1층",
+        "shortAddress": [
+          "서울 중구",
+          "청파로 425"
+        ],
+        "displayContext": [
+          "족발"
+        ],
+        "labelTheme": "한식",
+        "microReviews": [
+          "개운한 선지해장국과 족발의 환상 조합"
+        ],
+        "cardDescription": "개운한 선지해장국과 족발의 환상 조합",
+        "description": "국내산(HACCP)인증받은  생족을  19가지 한약재를 첨가하여 매일  직접삶아  부드러운 족발을  드실수있게 만들고있습니다. 점심식사메뉴: 집밥처럼 부페식 셀프백반으로 정성껏 준비합니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTJfMjU4/MDAxNzU3NjI0MTgyNDEx.m6bx203zjzO7v04QX-xUIYHE7xlmD5P6W7k-K7vEryog.NKoac7urJtpxZYuAmGXTSbWls-2SQsUcdjgoyruRF_4g.JPEG/IMG_1483.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MDNfMjM3/MDAxNzQzNjUzMDM4MzQz.2ADZ3c3Md6eVCMkLAuTaEi8slWah6b8m04t5qWilDY0g.WBu9syDWOcSz7uLnBX1p6WE0G2aBZdZOx227y45bD_Yg.JPEG/F5F39D9E-D425-4D8F-A689-3C827AD43F42.jpeg",
+          "https://ldb-phinf.pstatic.net/20250724_153/17533230750787o6k2_JPEG/1000008984.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MDRfMTUw/MDAxNzQ5MDEzODMyMjk3.B1O5GZDI1CAo6x9-RHEhTw3A_meiacygbMz-xEbX0kUg.3VeDIXrKdQJ1XipcrCsEDZZnDut5chup769S6YFASU4g.JPEG/A8E671AA-0D57-4756-846F-7732A0B8DED0.jpeg",
+          "https://ldb-phinf.pstatic.net/20150901_134/1441074333752Ljh1y_JPEG/SUBMIT_1328091922536_21060789.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA1MDhfMjk4/MDAxNzQ2Njc3NTcxMDY0.FS3p1ap27nGblwdxWf0n_XCwY3n-MZdl8H6Az0dMFdQg.WSjTyOcAJy3bK22Ts8D5aezf3EWWS_CTQYQfG9f67XAg.JPEG/410D37D1-A681-45D6-B9B9-FA9B29F227FE.jpeg",
+          "https://ldb-phinf.pstatic.net/20150901_205/1441074335589ixCOS_JPEG/SUBMIT_1328092718892_21060789.jpg"
+        ],
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221504",
+        "bizhourInfo": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "michelinGuide": null,
+        "reservation": null,
+        "hasSmartOrder": false,
+        "hasNPay": false,
+        "reservationLabel": {
+          "preOrder": false,
+          "standard": false,
+          "table": false,
+          "takeout": false
+        },
+        "contentsInfo": null,
+        "ratingInfo": null,
+        "reviewDisplay": [
+          {
+            "sid": "21060789",
+            "bodySummary": "대전에서 KTX를 타고 올라와야 하는 이도 있고, 퇴근시간이 늦는 이들도 있어 그들의 편의를 감안해 정한 곳이 서울역 뒷편 중림동에 위치한 서부족발집이다. 약속시간보다 20분여 일",
+            "url": "https://m.blog.naver.com/bam8163/223359520541",
+            "nick": "길동무",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAxOTAxMDNfMjEw/MDAxNTQ2NTAxMjExNDUz._P2IQbgfmOEtL3T1V680Qkn0bHh0vWzwgOxm_QUdrM0g.8AuxZZ46fYFN0mnJlNqoSaQSZv08DOiJ1FhC_8nhmaQg.PNG.bam8163/profileImage.png"
+          },
+          {
+            "sid": "21060789",
+            "bodySummary": "서울역 족발 맛집 서부족발에 다녀왔다. 직장이 서울역 근처라 우리팀이 회식하러 자주 가는곳이당 사실 서울역은 직장촌인데 회식하기 좋은 술집은 많지 않은것같다.. 그렇게 찾다 이곳을",
+            "url": "https://m.blog.naver.com/9412js/223019466362",
+            "nick": "쑤기",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMzAxMjNfMjcz/MDAxNjc0NDY3NjIyODU5.toO7jJNTmJrB1BJVktIhHdGfi_8JRdEiCP4vCm7_MRAg.gWHbQs4Xg-xPoIGn8SG3J4zJ4sVo-vBxhVw8EraWAdMg.PNG.9412js/profileImage.png"
+          },
+          {
+            "sid": "21060789",
+            "bodySummary": "서울시 중구 청파로 425, 1층 • 매일 11:00 - 23:00 셀프백반 11:00 - 13:30 브레이크 13:30 - 17:00 • 02-313-8023 • 화장실 내부에 ",
+            "url": "https://m.blog.naver.com/bjm910114/222774322831",
+            "nick": "백개구리",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMTA4MDVfMjE4/MDAxNjI4MTY3NDUzMjQ2.MJo2l9P_SK9WyYTOG0ZDpiEpmug-Q4G7ZzO21gx5RzYg.M2SW9M2y_13H_8oxgCrhibbTnzeDCDMK7572Q5hQBwQg.JPEG.bjm910114/profileImage.jpg"
+          },
+          {
+            "sid": "21060789",
+            "bodySummary": "서부족발. 서울로 7017 근처에 있다! 본부장님이 몇년째 단골집이라고 하시는데... 매우 기대가 된다 ㅎㅎ 미리 예약을 하고 본부장님이랑 나는 먼저 와서 기다렸다! 아직은 휑했지",
+            "url": "https://m.blog.naver.com/kclee0503/222748033381",
+            "nick": "차니",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/MjAyMjExMTlfMjAy/MDAxNjY4ODUwNDk5ODYy.YN2ca-S6L3PxtgEHdb_QoLB_LlmRdw9qKup6eOf-4UIg.CEvDakPk1QOKReGy1oPsm7MmT2s7m7n5hNewtgjY2zkg.PNG.kclee0503/profileImage.png"
+          },
+          {
+            "sid": "21060789",
+            "bodySummary": "먹고 또먹고 연속!! 급 땡겨준 족발을 조용하게 다 먹고나서 집에 있던 쿨피스를 원샷하던 남편^^ 고기 자체가 맛있고 또 푸짐하기도해서 좋은!! 서울역 서부 족발은 49,000원이",
+            "url": "https://m.blog.naver.com/hyeonpeach/222073980476",
+            "nick": "감동스런너",
+            "profileImg": "http://blogpfthumb.phinf.naver.net/20200807_63/hyeonpeach_15967887868497nWDV_JPEG/image.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}
