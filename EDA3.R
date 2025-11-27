@@ -1,6 +1,7 @@
 rm(list = ls()); graphics.off(); cat("\014")
 # install.packages("extrafont")
-
+# install.packages(c("readr", "dplyr", "sf", "geodata", "ggplot2", "viridis", "jsonlite", "purrr", "stringr"))
+# install.packages("scales")
 library(readr)
 library(dplyr)
 library(sf) # for reading shapefiles
@@ -11,7 +12,7 @@ library(viridis)
 library(jsonlite)
 library(purrr)
 library(stringr)
-library(cluster)
+
 
 '''
 Error: freetype-config not found.
