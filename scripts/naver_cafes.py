@@ -12,7 +12,7 @@ import math
 
 # Configuration
 CHECKPOINT_FILE = "../data/api_scraper_checkpoint.json"
-OUTPUT_CSV = "../data/remaining_naver_cafes_api_scraped2.csv"
+OUTPUT_CSV = "../data/remaining_naver_cafes_api_scraped3.csv"
 RAW_RESPONSES_DIR = "../data/raw_api_responses"
 
 
@@ -60,14 +60,21 @@ CITY_CENTERS = {
     # "강원": {"lat": 37.8228, "lng": 128.1555},
     # "전북": {"lat": 35.8251, "lng": 127.1500},
 
-    "수원": {"lat": 37.2911, "lng": 127.0089},
-    "성남": {"lat": 37.4386, "lng": 127.1378}, 
-    "고양": {"lat": 37.6564, "lng": 126.8350},
-    "용인": {"lat": 37.2411, "lng": 127.1776}, 
+    # "수원": {"lat": 37.2911, "lng": 127.0089},
+    # "성남": {"lat": 37.4386, "lng": 127.1378}, 
+    # "고양": {"lat": 37.6564, "lng": 126.8350},
+    # "용인": {"lat": 37.2411, "lng": 127.1776}, 
 
-    "진주": {"lat": 35.1799, "lng": 128.1076},
-    "김해": {"lat": 35.2285, "lng": 128.8894},
-    "거제": {"lat": 34.8800, "lng": 128.6211},
+    # "진주": {"lat": 35.1799, "lng": 128.1076},
+    # "김해": {"lat": 35.2285, "lng": 128.8894},
+    # "거제": {"lat": 34.8800, "lng": 128.6211},
+
+
+    # Jeollanam-do remaiing cities
+    "목포": {"lat": 34.8128, "lng": 126.3920},   
+    "여수": {"lat": 34.7628, "lng": 127.6653}, 
+    "순천": {"lat": 34.9505, "lng": 127.4878},
+
 }
 
 
@@ -384,14 +391,21 @@ def main():
         # "전북": {"radius_km": 1.0, "box_size_km": 0.5},
 
 
-        "수원": {"radius_km": 1.0, "box_size_km": 0.5},
-        "성남": {"radius_km": 1.0, "box_size_km": 0.5},
-        "고양": {"radius_km": 1.0, "box_size_km": 0.5},
-        "용인": {"radius_km": 1.0, "box_size_km": 0.5}, 
+        # "수원": {"radius_km": 1.0, "box_size_km": 0.5},
+        # "성남": {"radius_km": 1.0, "box_size_km": 0.5},
+        # "고양": {"radius_km": 1.0, "box_size_km": 0.5},
+        # "용인": {"radius_km": 1.0, "box_size_km": 0.5}, 
 
-        "진주": {"radius_km": 1.0, "box_size_km": 0.5},
-        "김해": {"radius_km": 1.0, "box_size_km": 0.5},
-        "거제": {"radius_km": 1.0, "box_size_km": 0.5},
+        # "진주": {"radius_km": 1.0, "box_size_km": 0.5},
+        # "김해": {"radius_km": 1.0, "box_size_km": 0.5},
+        # "거제": {"radius_km": 1.0, "box_size_km": 0.5},
+
+        # Jeollanam-do remaining ciites
+        "목포": {"radius_km": 1.0, "box_size_km": 0.5},
+        "여수": {"radius_km": 1.0, "box_size_km": 0.5},
+        "순천": {"radius_km": 1.0, "box_size_km": 0.5},
+
+
 
     }
 
