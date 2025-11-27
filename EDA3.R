@@ -1,7 +1,8 @@
 rm(list = ls()); graphics.off(); cat("\014")
-# install.packages("extrafont")
+ install.packages("extrafont")
 # install.packages(c("readr", "dplyr", "sf", "geodata", "ggplot2", "viridis", "jsonlite", "purrr", "stringr"))
 # install.packages("scales")
+install.packages("showtext")
 library(readr)
 library(dplyr)
 library(sf) # for reading shapefiles
@@ -25,15 +26,15 @@ In Debian/Ubuntu-like systems, you can use
 to install FreeType
 '''
 
-# install.packages(c("sysfonts", "showtextdb", "showtext"))
+install.packages(c("sysfonts", "showtextdb", "showtext"))
 library(showtext)
 showtext_auto()
 
 library(extrafont)
 
-# font_import(pattern = "Nanum", prompt = FALSE)  # This may take a few minutes
+font_import(pattern = "Nanum", prompt = FALSE)  # This may take a few minutes
 
-# loadfonts()
+ loadfonts()
 
 # Check available fonts
 
@@ -78,7 +79,7 @@ americano_prices <- raw_scraped_marked %>%
     americano_price_num = as.numeric(americano_price),
     # americano_price_num = ifelse(americano_price_num > 20000, NA, americano_price_num)
   ) %>%
-  semi_join(coffee_summary %>% filter(americano_count > 30), by = "city")
+  semi_join(coffee_summary %>% filter(americano_count > 29), by = "city")
 
 
 americano_city_stats <- americano_prices %>%
@@ -93,7 +94,7 @@ americano_city_stats <- americano_prices %>%
   )
 
 
-grdp_df <- read_csv("~/R/icedamericano/data/GDP/gdrp_2022_ko.csv") %>%
+grdp_df <- read_csv("./data/GDP/gdrp_2022_ko.csv") %>%
   rename(city = City, grdp = value)
 # Video reference for code: https://www.youtube.com/watch?v=JO7N-4P2r4M
 # if u prefer to download directly, download at http://gadm.org/download_country.html
@@ -110,29 +111,36 @@ kor2_sf <- st_as_sf(kor2)
 # unique(kor1_sf$NAME_1)
 
 # The mapping dataframe maps our city names in our scraped data to province names on kor1_sf
-
 mapping_df <- data.frame(
   city = c("강릉", "광주", "천안", "서울", "청주", "춘천", "포항", 
            "강원", "경북", "전남", "전북", "충남", "충북", 
            "대구", "대전", "세종", "부산", "울산", "인천", 
            "전주", "제주", "창원" ,      
-
-
+           
+           
            "거제","진주","김해",
-
-        "고양",
-        "성남",
-        "수원",
-        "용인"),
+           
+           "고양",
+           "성남",
+           "수원",
+           "용인",
+           
+           "목포",
+           "여수",
+           "순천",
+           
+  ),
   province_match = c("Gangwon-do", "Gwangju", "Chungcheongnam-do", "Seoul", 
                      "Chungcheongbuk-do", "Gangwon-do", "Gyeongsangbuk-do",
                      "Gangwon-do", "Gyeongsangbuk-do", "Jeollanam-do", 
                      "Jeollabuk-do", "Chungcheongnam-do", "Chungcheongbuk-do",
                      "Daegu", "Daejeon", "Sejong", "Busan", "Ulsan", "Incheon",
                      "Jeollabuk-do", "Jeju", "Gyeongsangnam-do", "Gyeongsangnam-do", "Gyeongsangnam-do", "Gyeongsangnam-do",
-                     "Gyeonggi-do", "Gyeonggi-do", "Gyeonggi-do", "Gyeonggi-do"),
+                     "Gyeonggi-do", "Gyeonggi-do", "Gyeonggi-do", "Gyeonggi-do",
+                     "Jeollanam-do","Jeollanam-do","Jeollanam-do"),
   stringsAsFactors = FALSE
 )
+
 
 
 
@@ -442,6 +450,7 @@ cat("GRDP vs Individual Income: ", round(cor_grdp_income, 4), "\n\n")
 cor_matrix <- cor(cor_data %>% select(-province_match), use = "complete.obs")
 print(round(cor_matrix, 3))
 
+install.packages("reshape2")
 library(reshape2)
 cor_matrix_melt <- melt(cor_matrix)
 
