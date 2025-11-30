@@ -1,8 +1,10 @@
 rm(list = ls()); graphics.off(); cat("\014")
- install.packages("extrafont")
+# install.packages("extrafont")
 # install.packages(c("readr", "dplyr", "sf", "geodata", "ggplot2", "viridis", "jsonlite", "purrr", "stringr"))
 # install.packages("scales")
-install.packages("showtext")
+#install.packages("reshape2")
+
+library(reshape2)
 library(readr)
 library(dplyr)
 library(sf) # for reading shapefiles
@@ -11,7 +13,6 @@ library(geodata) # used geodata as raster is outdated. This is to load GADM data
 library(ggplot2)
 library(viridis)
 library(jsonlite)
-library(purrr)
 library(stringr)
 
 
@@ -26,7 +27,7 @@ In Debian/Ubuntu-like systems, you can use
 to install FreeType
 '''
 
-install.packages(c("sysfonts", "showtextdb", "showtext"))
+# install.packages(c("sysfonts", "showtextdb", "showtext"))
 library(showtext)
 showtext_auto()
 
@@ -34,9 +35,9 @@ library(extrafont)
 
 font_import(pattern = "Nanum", prompt = FALSE)  # This may take a few minutes
 
- loadfonts()
+loadfonts()
 
-# Check available fonts
+#Check available fonts
 
 fonts()[grep("Nanum", fonts())]
 
@@ -127,7 +128,7 @@ mapping_df <- data.frame(
            
            "목포",
            "여수",
-           "순천",
+           "순천"
            
   ),
   province_match = c("Gangwon-do", "Gwangju", "Chungcheongnam-do", "Seoul", 
@@ -259,7 +260,7 @@ ggplot() +
 # we choose not to filter the histogram by > 100 as this is a real coffee price
 americano_normal <- americano_prices %>%
   filter(
-    #americano_price_num > 100 &
+    americano_price_num > 100 &
       americano_price_num <= 10000)
 
 mean_price <- mean(americano_normal$americano_price_num, na.rm = TRUE)
@@ -450,8 +451,7 @@ cat("GRDP vs Individual Income: ", round(cor_grdp_income, 4), "\n\n")
 cor_matrix <- cor(cor_data %>% select(-province_match), use = "complete.obs")
 print(round(cor_matrix, 3))
 
-install.packages("reshape2")
-library(reshape2)
+
 cor_matrix_melt <- melt(cor_matrix)
 
 # Plot heatmap
@@ -538,8 +538,12 @@ cat("Median Price vs GRDP: r =", round(cor_test_median_grdp$estimate, 4),
 cat("Median Price vs Individual Income: r =", round(cor_test_median_income$estimate, 4), 
     ", p-value =", round(cor_test_median_income$p.value, 4), "\n")
 
+cat("Median Price vs Individual Income: r =", round(cor_test_median_income$estimate, 4), 
+    ", p-value =", round(cor_test_median_income$p.value, 4), "\n")
 
-
+cor_test_grdp_income <- cor.test(cor_data$grdp, cor_data$individual_income)
+cat("grdp vs Individual Income: r =", round(cor_test_grdp_income$estimate, 4), 
+    ", p-value =", round(cor_test_grdp_income$p.value, 4), "\n")
 
 
 
@@ -593,4 +597,3 @@ bar2  # GRDP
 bar3  # Individual income
 bar4  # Affordability GRDP
 bar5  # Affordability Income
-
