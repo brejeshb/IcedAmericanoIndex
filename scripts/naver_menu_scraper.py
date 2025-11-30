@@ -139,17 +139,23 @@ async def main():
         # "경기",
         # "경남",
 
-        "거제",
-        "고양",
-        "김해",
-        "성남",
-        "수원",
-        "용인",
-        "진주",
+        # "거제",
+        # "고양",
+        # "김해",
+        # "성남",
+        # "수원",
+        # "용인",
+        # "진주",
+
+
+        "목포",
+        "여수",
+        "순천",
+
     ]
     
     try:
-        df = pd.read_csv("../data/remaining_naver_cafes_api_scraped2.csv", encoding='utf-8-sig')
+        df = pd.read_csv("../data/remaining_naver_cafes_api_scraped3.csv", encoding='utf-8-sig')
         # df = pd.read_csv("../data/naver_cafes_api_scraped_v2.csv", encoding='utf-8-sig')
         # df = pd.read_csv("../data/scraped_output4.csv", encoding='utf-8-sig')
         
@@ -265,7 +271,7 @@ async def main():
     # before to conserve memory or use checkpoint files "scraped_outputN.csv"
     df = df[df['success'].isin(['true', 'later'])] 
 
-    df.to_csv("../data/scraped_output15.csv", index=False, encoding='utf-8-sig')
+    df.to_csv("../data/scraped_output16.csv", index=False, encoding='utf-8-sig')
     
     print("\n" + "=" * 60)
     print("SUMMARY")
