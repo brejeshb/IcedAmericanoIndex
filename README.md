@@ -55,8 +55,8 @@ The repository is organized into a data acquisition pipeline (Python) and an ana
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/brejeshb/IcedAmericanoIndex.git
+cd IcedAmericano
 ```
 
 ### 2. Python Environment Setup
@@ -97,10 +97,8 @@ OPENAI_API_KEY="your_openai_api_key_here"
 
 ### 3. R Environment Setup
 
-Open the project in RStudio. The scripts require several packages. Run the following command in the R console to install them:
-```r
-install.packages(c("readr", "dplyr", "sf", "geodata", "ggplot2", "viridis", "jsonlite", "purrr", "stringr", "extrafont", "showtext", "gridExtra", "reshape2"))
-```
+Open the project in RStudio. The scripts require several packages, please install them.
+
 
 #### Font Setup for Korean Characters (Important for R plots)
 
