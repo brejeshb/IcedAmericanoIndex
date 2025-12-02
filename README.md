@@ -56,7 +56,7 @@ The repository is organized into a data acquisition pipeline (Python) and an ana
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/brejeshb/IcedAmericanoIndex.git
-cd IcedAmericano
+cd IcedAmericanoIndex
 ```
 
 ### 2. Python Environment Setup
